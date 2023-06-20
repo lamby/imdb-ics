@@ -5,7 +5,6 @@
 import datetime
 import logging
 import re
-import sys
 
 import click
 import icalendar
@@ -29,7 +28,7 @@ re_duration = re.compile(r"^PT(?P<minutes>\d+)M$")
 class ImdbICS:
     PADDING = 20  # minutes
     START = datetime.date.today()
-    DAYS = 6
+    DAYS = 7
 
     VENUES = [
         {
@@ -128,7 +127,12 @@ class ImdbICS:
                     event = icalendar.Event()
 
                     # Overview
-                    event.add("uid", "FIXME")
+                    event.add("uid", "{}-{}-{}-{}".format(
+                        venue["id"],
+                        url.rsplit("/", 2)[1],
+                        hour,
+                        minute,
+                    ))
                     event.add("summary", title)
                     event.add("location", venue["name"])
 
@@ -154,8 +158,8 @@ class ImdbICS:
                     description.append(
                         f"Duration: {runtime} mins ({hours}h{minutes:02d}m)"
                     )
-
                     description.append(url)
+                    event.add("description", "\n".join(description))
 
                     cal.add_component(event)
 
