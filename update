@@ -39,6 +39,14 @@ class ImdbICS:
             "id": "ci0005472",
             "timezone": "America/Los_Angeles",
         },
+        {
+            "id": "ci0959521",
+            "timezone": "Europe/London",
+        },
+        {
+            "id": "ci0001864",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
@@ -76,6 +84,8 @@ class ImdbICS:
         base_url = f"https://www.imdb.com/showtimes/cinema/US/{venue['id']}"
         logging.info(f"Getting info for '{venue['id']}'")
 
+        strip_year = " ({})".format(datetime.date.today().year)
+
         soup = self.get_soup(base_url)
 
         venue["name"] = self.text(soup, "div.fav_box h1.header")
@@ -111,7 +121,9 @@ class ImdbICS:
             num_events_date = 0
             for elem in soup.select(".list.detail .list_item"):
                 title = self.text(elem, ".info h3")
-                # FIXME: strip year
+
+                if title.endswith(strip_year):
+                    title = title[:-len(strip_year))]
 
                 url = "https://www.imdb.com{}/".format(
                     self.attr(elem, ".info h3 a", "href").replace("/showtimes", "")
