@@ -2,11 +2,6 @@
 #
 # https://icalendar.readthedocs.io/en/latest/usage.html#example
 
-# locations:
-#  https://www.myvue.com/data/locations/
-#  https://www.myvue.com/data/filmswithshowings/10016?requestedDate=2023-05-24
-#                                               ^^^^^               ^^^^^^^^^^
-
 import datetime
 import logging
 import re
@@ -18,6 +13,7 @@ import pytz
 import requests
 import yaml
 
+from bs4 import BeautifulSoup
 from rich.logging import RichHandler
 from rich.progress import track
 
@@ -27,189 +23,178 @@ logging.basicConfig(
 
 re_runtime = re.compile(r"^(?P<hours>\d+)\s*hrs?\s+(?P<minutes>\d+)mins?$")
 re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM)$")
+re_duration = re.compile(r"^PT(?P<minutes>\d+)M$")
 
 
-class VueICS:
+class ImdbICS:
     PADDING = 20  # minutes
     START = datetime.date.today()
-    DAYS = 7
-    LOCAL_TIMEZONE = pytz.timezone("Europe/London")
+    DAYS = 6
+
+    VENUES = [
+        {
+            "id": "ci0960123",
+            "timezone": "Europe/London",
+        },
+        {
+            "id": "ci0005472",
+            "timezone": "America/Los_Angeles",
+        },
+    ]
 
     def __init__(self):
         self.session = requests.Session()
 
     def main(self):
-        venues = self.populate_venues()
-        logging.info(f"Found {len(venues)} venues")
+        logging.info(f"Getting info from {len(self.VENUES)} venues")
 
-        for x in venues:
-            ics = self.get_ics(x)
+        for venue in self.VENUES:
+            ics = self.get_ics(venue)
 
-            with open(f"ics/{x['slug']}.ics", "w") as f:
+            with open(f"ics/{venue['id']}.ics", "w") as f:
                 f.write(ics)
 
         # Write venue metadata
         with open(f"_data/venues.yaml", "w") as f:
-            f.write(yaml.dump(list(venues)))
+            f.write(yaml.dump(sorted(self.VENUES, key=lambda x: x["name"])))
 
-    def populate_venues(self):
-        r = self.session.get("https://www.myvue.com/data/locations/")
+    def get_soup(self, url):
+        r = self.session.get(url)
         r.raise_for_status()
 
-        try:
-            data = r.json()
-        except requests.exceptions.JSONDecodeError:
-            logging.error(f"Did not receive valid JSON. (Blocked?)")
-            sys.exit(1)
+        return BeautifulSoup(r.content, "html.parser")
 
-        result = []
-        for outer in data["venues"]:
-            for x in outer["cinemas"]:
-                if x["name"] != "Cambridge":
-                    continue
+    def text(self, soup, pattern):
+        return soup.select(pattern)[0].text.strip()
 
-                result.append(
-                    {
-                        "id": x["id"],
-                        "name": x["name"],
-                        "slug": x["link_name"],
-                        "display": x["search_term"],
-                    }
-                )
+    def attr(self, soup, pattern, attr):
+        return soup.select(pattern)[0][attr].strip()
 
-        result.sort(key=lambda x: x["display"])
-
-        return result
+    def parse_duration(self, val):
+        return int(re_duration.match(val).group("minutes"))
 
     def get_ics(self, venue):
-        logging.info(f"Generating ICS for Vue {venue['name']}")
+        base_url = f"https://www.imdb.com/showtimes/cinema/US/{venue['id']}"
+        logging.info(f"Getting info for '{venue['id']}'")
 
-        name = f"Vue {venue['name']}"
+        soup = self.get_soup(base_url)
+
+        venue["name"] = self.text(soup, "div.fav_box h1.header")
+        venue["address"] = "{}, {}, {}".format(
+            self.text(soup, "span[itemprop=streetAddress]"),
+            self.text(soup, "span[itemprop=addressLocality]"),
+            self.text(soup, "span[itemprop=postalCode]"),
+        )
+
+        logging.info(f"Found info for '{venue['name']}'")
 
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
-        cal.add("name", name)
-        cal.add("x-wr-calname", name)
+        cal.add("name", venue["name"])
+        cal.add("x-wr-calname", venue["name"])
         cal.add("last-modified", datetime.datetime.utcnow())
 
+        num_events_venue = 0
         for idx in track(range(self.DAYS)):
             date = self.START + datetime.timedelta(days=idx)
-            logging.debug(f"Generating ICS for Vue {venue['name']} on {date}")
+            logging.debug(f"Generating ICS for '{venue['name']}' on {date}")
 
-            url = "https://www.myvue.com/data/filmswithshowings/{}?requestedDate={:04d}-{:02d}-{:02d}".format(
-                venue["id"],
-                date.year,
-                date.month,
-                date.day,
+            soup = self.get_soup(
+                "{}/{:04d}-{:02d}-{:02d}".format(
+                    base_url,
+                    date.year,
+                    date.month,
+                    date.day,
+                )
             )
 
-            r = self.session.get(url)
-            r.raise_for_status()
+            num_events_date = 0
+            for elem in soup.select(".list.detail .list_item"):
+                title = self.text(elem, ".info h3")
+                # FIXME: strip year
 
-            try:
-                data = r.json()
-            except:
-                logging.warning(f"Got invalid JSON for Vue {venue['name']} on {date}")
-                continue
+                url = "https://www.imdb.com{}/".format(
+                    self.attr(elem, ".info h3 a", "href").replace("/showtimes", "")
+                )
 
-            num_events = 0
+                runtime = self.parse_duration(
+                    self.attr(elem, "time[itemprop=duration]", "datetime")
+                )
 
-            for film in data["films"]:
-                if not film["info_runningtime"]:
-                    continue
+                showtimes = self.text(elem, ".showtimes")
 
-                title = film["title"]
-                runtime = self.parse_runtime(film["info_runningtime"])
+                for hour, minute in self.parse_showtimes(showtimes):
+                    event = icalendar.Event()
 
-                for outer in film["showings"]:
-                    for showing in outer["times"]:
-                        event = icalendar.Event()
+                    # Overview
+                    event.add("uid", "FIXME")
+                    event.add("summary", title)
+                    event.add("location", venue["name"])
 
-                        # Overview
-                        event.add("uid", showing["session_id"])
-                        event.add("summary", title)
-                        event.add("location", f"Vue {venue['display']}")
+                    # Calculate times
+                    start = datetime.datetime(
+                        year=date.year,
+                        month=date.month,
+                        day=date.day,
+                        hour=hour,
+                        minute=minute,
+                        tzinfo=pytz.timezone(venue["timezone"]),
+                    )
+                    end = start + datetime.timedelta(
+                        minutes=self.PADDING + self.round_to_nearest(runtime, 5)
+                    )
+                    event.add("dtstamp", start)
+                    event.add("dtstart", start)
+                    event.add("dtend", end)
 
-                        # Calculate times
-                        start = self.parse_start_time(date, showing["time"])
-                        end = start + datetime.timedelta(
-                            minutes=self.PADDING + self.round_to_nearest(runtime, 5)
-                        )
-                        event.add("dtstamp", start)
-                        event.add("dtstart", start)
-                        event.add("dtend", end)
+                    # Description
+                    description = []
+                    hours, minutes = divmod(runtime, 60)
+                    description.append(
+                        f"Duration: {runtime} mins ({hours}h{minutes:02d}m)"
+                    )
 
-                        # Description
-                        description = []
-                        hours, minutes = divmod(runtime, 60)
-                        description.append(
-                            f"Duration: {runtime} mins ({hours}h{minutes:02d}m)"
-                        )
-                        description.append(showing["screen_name"])
-                        description.append("")
+                    description.append(url)
 
-                        description.append(film["synopsis_intro"])
-                        description.append("")
+                    cal.add_component(event)
 
-                        description.append(f"Directed by {film['info_director']}")
-                        cast = film["info_cast"].strip()
-                        description.append(f"Cast: {cast}")
-                        description.append("")
-
-                        description.append(
-                            f"https://www.myvue.com/book-tickets/summary/{venue['id']}/{film['id']}/{showing['session_id']}"
-                        )
-
-                        event.add("description", "\n".join(description))
-                        cal.add_component(event)
-
-                        num_events += 1
+                    num_events_date += 1
+                    num_events_venue += 1
 
             logging.debug(
-                f"Found {num_events} total events for Vue {venue['name']} on {date}"
+                f"Found {num_events_date} event(s) for {venue['name']} on {date}"
             )
+
+        logging.debug(f"Found {num_events_venue} total event(s) for {venue['name']}")
 
         return cal.to_ical().decode("utf-8")
 
     def round_to_nearest(self, val, nearest_to):
         return (val + (nearest_to - 1)) // nearest_to * nearest_to
 
-    def parse_runtime(self, val):
-        # "2hrs 22mins" -> 142
-        m = re_runtime.match(val)
+    def parse_showtimes(self, val):
+        val = val.replace("Get Tickets", "")
 
-        if m is None:
-            raise ValueError(f"Could not parse running time: {val!r}")
+        hour_offset = 0
 
-        return (60 * int(m.group("hours"))) + int(m.group("minutes"))
+        for x in val.split("|"):
+            x = x.strip()
 
-    def parse_start_time(self, date, val):
-        # "6:20 PM"
-        m = re_start_time.match(val)
+            if x.endswith("pm"):
+                hour_offset = 12
 
-        if m is None:
-            raise ValueError(f"Could not parse start time: {val!r}")
+            hour, minute = [int(y) for y in x.split(" ", 1)[0].split(":", 1)]
 
-        hour = int(m.group("hour"))
-        minute = int(m.group("minutes"))
+            if hour < 12:
+                hour += hour_offset
 
-        if m.group("period") == "PM" and hour != 12:
-            hour += 12
-
-        return datetime.datetime(
-            year=date.year,
-            month=date.month,
-            day=date.day,
-            hour=hour,
-            minute=minute,
-            tzinfo=self.LOCAL_TIMEZONE,
-        )
+            yield hour, minute
 
 
 @click.command()
 def main():
-    VueICS().main()
+    ImdbICS().main()
 
 
 if __name__ == "__main__":
