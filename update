@@ -123,7 +123,7 @@ class ImdbICS:
                 title = self.text(elem, ".info h3")
 
                 if title.endswith(strip_year):
-                    title = title[:-len(strip_year))]
+                    title = title[:-len(strip_year)]
 
                 url = "https://www.imdb.com{}/".format(
                     self.attr(elem, ".info h3 a", "href").replace("/showtimes", "")
