@@ -2,6 +2,8 @@
 #
 # https://icalendar.readthedocs.io/en/latest/usage.html#example
 
+# TODO: Parse all cinemas, then parse film info to put into the description.
+
 import datetime
 import logging
 import re
