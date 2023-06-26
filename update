@@ -127,9 +127,10 @@ class ImdbICS:
                 if title.endswith(strip_year):
                     title = title[:-len(strip_year)]
 
-                url = "https://www.imdb.com{}/".format(
-                    self.attr(elem, ".info h3 a", "href").replace("/showtimes", "")
-                )
+
+                href = self.attr(elem, ".info h3 a", "href")
+                imdb_title_id = f"{href}/".split("/")[3]
+                url = f"https://www.imdb.com/title/{imdb_title_id}/"
 
                 runtime = self.parse_duration(
                     self.attr(elem, "time[itemprop=duration]", "datetime")
@@ -143,7 +144,7 @@ class ImdbICS:
                     # Overview
                     event.add("uid", "{}-{}-{}-{}".format(
                         venue["id"],
-                        url.rsplit("/", 2)[1],
+                        imdb_title_id,
                         hour,
                         minute,
                     ))
@@ -173,7 +174,7 @@ class ImdbICS:
                         f"Duration: {runtime} mins ({hours}h{minutes:02d}m)"
                     )
                     description.append(url)
-                    event.add("description", "\n".join(description))
+                    event.add("description", "\n\n".join(description))
 
                     cal.add_component(event)
 
