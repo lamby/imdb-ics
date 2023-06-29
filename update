@@ -34,7 +34,13 @@ class ImdbICS:
 
     VENUES = [
         {
+            # Vue - Cambridge
             "id": "ci0960123",
+            "timezone": "Europe/London",
+        },
+        {
+            # Picturehouse - Arts Picturehouse, Cambridge
+            "id": "ci0959484",
             "timezone": "Europe/London",
         },
         {
