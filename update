@@ -34,25 +34,45 @@ class ImdbICS:
 
     VENUES = [
         {
-            # Vue - Cambridge
+            "name": "Vue Cambridge",
+            "address": "105 Grafton Centre, Cambridge CB1 1PS",
             "id": "ci0960123",
             "timezone": "Europe/London",
         },
         {
-            # Picturehouse - Arts Picturehouse, Cambridge
+            "name": "Arts Picturehouse, Cambridge",
+            "address": "38-39 St Andrew's St, Cambridge CB2 3AR",
             "id": "ci0959484",
             "timezone": "Europe/London",
         },
         {
+            "name": "Grand Illusion Cinema, Seattle",
+            "address": "1403 NE 50th St, Seattle WA 98105",
             "id": "ci0005472",
             "timezone": "America/Los_Angeles",
         },
         {
+            "name": "The Light Cinema, Cambridge",
+            "address": "Cambridge Leisure Park, Cambridge CB1 7DY",
             "id": "ci0959521",
             "timezone": "Europe/London",
         },
         {
+            "name": "The Beacon, Seattle",
+            "address": "4405 Rainier Ave South, Seattle WA 98118",
+            "id": "ci1024213",
+            "timezone": "America/Los_Angeles",
+        },
+        {
+            "name": "Regal Bella Bottega, Redmond",
+            "address": "8890 NE 161st Avenue, Redmond WA 98052",
             "id": "ci0001864",
+            "timezone": "America/Los_Angeles",
+        },
+        {
+            "name": "AMC Pacific Place 11, Seattle",
+            "address": "600 Pine S., Seattle WA 98101",
+            "id": "ci0006735",
             "timezone": "America/Los_Angeles",
         },
     ]
@@ -96,7 +116,6 @@ class ImdbICS:
 
         soup = self.get_soup(base_url)
 
-        venue["name"] = self.text(soup, "div.fav_box h1.header")
         venue["address"] = "{}, {}, {}".format(
             self.text(soup, "span[itemprop=streetAddress]"),
             self.text(soup, "span[itemprop=addressLocality]"),
@@ -131,8 +150,7 @@ class ImdbICS:
                 title = self.text(elem, ".info h3")
 
                 if title.endswith(strip_year):
-                    title = title[:-len(strip_year)]
-
+                    title = title[: -len(strip_year)]
 
                 href = self.attr(elem, ".info h3 a", "href")
                 imdb_title_id = f"{href}/".split("/")[3]
@@ -148,17 +166,22 @@ class ImdbICS:
                     event = icalendar.Event()
 
                     # Overview
-                    event.add("uid", "{}-{}-{}-{}-{}-{}-{}".format(
-                        venue["id"],
-                        imdb_title_id,
-                        date.year,
-                        date.month,
-                        date.day,
-                        hour,
-                        minute,
-                    ))
+                    event.add(
+                        "uid",
+                        "{}-{}-{}-{}-{}-{}-{}".format(
+                            venue["id"],
+                            imdb_title_id,
+                            date.year,
+                            date.month,
+                            date.day,
+                            hour,
+                            minute,
+                        ),
+                    )
                     event.add("summary", title)
-                    event.add("location", venue["name"])
+                    event.add(
+                        "location", "{}, {}".format(venue["name"], venue["address"])
+                    )
 
                     # Calculate times
                     start = datetime.datetime(
