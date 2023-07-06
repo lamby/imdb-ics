@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230706T155117Z
-NAME:Picturehouse - Arts Picturehouse\, Cambridge
-X-WR-CALNAME:Picturehouse - Arts Picturehouse\, Cambridge
+LAST-MODIFIED;VALUE=DATE-TIME:20230706T160905Z
+NAME:Arts Picturehouse\, Cambridge
+X-WR-CALNAME:Arts Picturehouse\, Cambridge
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T130000
@@ -12,7 +12,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T130100Z
 UID:ci0959484-tt14230388-2023-7-6-13-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -22,7 +23,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T153100Z
 UID:ci0959484-tt14230388-2023-7-6-15-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -32,7 +34,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T180100Z
 UID:ci0959484-tt14230388-2023-7-6-18-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -42,7 +45,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T193100Z
 UID:ci0959484-tt14230388-2023-7-6-19-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -52,17 +56,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T203100Z
 UID:ci0959484-tt14230388-2023-7-6-20-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T135500
-DTSTAMP;VALUE=DATE-TIME:20230706T110100Z
-UID:ci0959484-tt1462764-2023-7-6-11-0
-DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
- 2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -72,7 +67,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T141100Z
 UID:ci0959484-tt1462764-2023-7-6-14-10
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -82,7 +78,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T171600Z
 UID:ci0959484-tt1462764-2023-7-6-17-15
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -92,7 +89,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T202100Z
 UID:ci0959484-tt1462764-2023-7-6-20-20
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
@@ -102,17 +100,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T140100Z
 UID:ci0959484-tt9362722-2023-7-6-14-0
 DESCRIPTION:Duration: 140 mins (2h20m)\n\nhttps://www.imdb.com/title/tt936
  2722/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Rider (2022)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T114000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T134000
-DTSTAMP;VALUE=DATE-TIME:20230706T114100Z
-UID:ci0959484-tt19760418-2023-7-6-11-40
-DESCRIPTION:Duration: 98 mins (1h38m)\n\nhttps://www.imdb.com/title/tt1976
- 0418/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Rider (2022)
@@ -122,7 +111,8 @@ DTSTAMP;VALUE=DATE-TIME:20230706T170100Z
 UID:ci0959484-tt19760418-2023-7-6-17-0
 DESCRIPTION:Duration: 98 mins (1h38m)\n\nhttps://www.imdb.com/title/tt1976
  0418/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -132,7 +122,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T130100Z
 UID:ci0959484-tt14230388-2023-7-7-13-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -142,7 +133,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T153100Z
 UID:ci0959484-tt14230388-2023-7-7-15-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -152,7 +144,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T180100Z
 UID:ci0959484-tt14230388-2023-7-7-18-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -162,7 +155,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T203100Z
 UID:ci0959484-tt14230388-2023-7-7-20-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inception (2010)
@@ -172,7 +166,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T144100Z
 UID:ci0959484-tt1375666-2023-7-7-14-40
 DESCRIPTION:Duration: 148 mins (2h28m)\n\nhttps://www.imdb.com/title/tt137
  5666/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -182,7 +177,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T111600Z
 UID:ci0959484-tt1462764-2023-7-7-11-15
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -192,7 +188,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T131600Z
 UID:ci0959484-tt1462764-2023-7-7-13-15
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -202,7 +199,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T164100Z
 UID:ci0959484-tt1462764-2023-7-7-16-40
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -212,7 +210,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T200100Z
 UID:ci0959484-tt1462764-2023-7-7-20-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mother and Son (2022)
@@ -222,7 +221,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T175100Z
 UID:ci0959484-tt17014214-2023-7-7-17-50
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nhttps://www.imdb.com/title/tt170
  14214/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabu (2021)
@@ -232,7 +232,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T110100Z
 UID:ci0959484-tt16114846-2023-7-7-11-0
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nhttps://www.imdb.com/title/tt1611
  4846/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -242,7 +243,8 @@ DTSTAMP;VALUE=DATE-TIME:20230707T204100Z
 UID:ci0959484-tt15471560-2023-7-7-20-40
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -252,7 +254,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T110100Z
 UID:ci0959484-tt14230388-2023-7-8-11-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -262,7 +265,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T151600Z
 UID:ci0959484-tt14230388-2023-7-8-15-15
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -272,7 +276,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T184100Z
 UID:ci0959484-tt14230388-2023-7-8-18-40
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -282,7 +287,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T202100Z
 UID:ci0959484-tt14230388-2023-7-8-20-20
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -292,7 +298,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T114600Z
 UID:ci0959484-tt1462764-2023-7-8-11-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -302,7 +309,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T133100Z
 UID:ci0959484-tt1462764-2023-7-8-13-30
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -312,7 +320,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T164600Z
 UID:ci0959484-tt1462764-2023-7-8-16-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -322,7 +331,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T200100Z
 UID:ci0959484-tt1462764-2023-7-8-20-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mother and Son (2022)
@@ -332,7 +342,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T174600Z
 UID:ci0959484-tt17014214-2023-7-8-17-45
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nhttps://www.imdb.com/title/tt170
  14214/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:National Theatre Live: Good
@@ -342,7 +353,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T140100Z
 UID:ci0959484-tt27171787-2023-7-8-14-0
 DESCRIPTION:Duration: 160 mins (2h40m)\n\nhttps://www.imdb.com/title/tt271
  71787/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ratatouille (2007)
@@ -352,7 +364,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T110100Z
 UID:ci0959484-tt0382932-2023-7-8-11-0
 DESCRIPTION:Duration: 111 mins (1h51m)\n\nhttps://www.imdb.com/title/tt038
  2932/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabu (2021)
@@ -362,7 +375,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T164100Z
 UID:ci0959484-tt16114846-2023-7-8-16-40
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nhttps://www.imdb.com/title/tt1611
  4846/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -372,7 +386,8 @@ DTSTAMP;VALUE=DATE-TIME:20230708T204100Z
 UID:ci0959484-tt15471560-2023-7-8-20-40
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -382,7 +397,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T110100Z
 UID:ci0959484-tt14230388-2023-7-9-11-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -392,7 +408,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T133100Z
 UID:ci0959484-tt14230388-2023-7-9-13-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -402,7 +419,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T184100Z
 UID:ci0959484-tt14230388-2023-7-9-18-40
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -412,7 +430,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T200100Z
 UID:ci0959484-tt14230388-2023-7-9-20-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -422,7 +441,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T114600Z
 UID:ci0959484-tt1462764-2023-7-9-11-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -432,7 +452,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T160100Z
 UID:ci0959484-tt1462764-2023-7-9-16-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -442,7 +463,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T191600Z
 UID:ci0959484-tt1462764-2023-7-9-19-15
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mother and Son (2022)
@@ -452,7 +474,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T111100Z
 UID:ci0959484-tt17014214-2023-7-9-11-10
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nhttps://www.imdb.com/title/tt170
  14214/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabu (2021)
@@ -462,7 +485,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T135100Z
 UID:ci0959484-tt16114846-2023-7-9-13-50
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nhttps://www.imdb.com/title/tt1611
  4846/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -472,7 +496,8 @@ DTSTAMP;VALUE=DATE-TIME:20230709T180100Z
 UID:ci0959484-tt15471560-2023-7-9-18-0
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -482,7 +507,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T121600Z
 UID:ci0959484-tt14230388-2023-7-10-12-15
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -492,7 +518,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T144100Z
 UID:ci0959484-tt14230388-2023-7-10-14-40
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -502,7 +529,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T170100Z
 UID:ci0959484-tt14230388-2023-7-10-17-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -512,7 +540,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T201600Z
 UID:ci0959484-tt14230388-2023-7-10-20-15
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -522,7 +551,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T120100Z
 UID:ci0959484-tt1462764-2023-7-10-12-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -532,7 +562,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T134600Z
 UID:ci0959484-tt1462764-2023-7-10-13-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -542,7 +573,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T170100Z
 UID:ci0959484-tt1462764-2023-7-10-17-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -552,7 +584,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T192100Z
 UID:ci0959484-tt1462764-2023-7-10-19-20
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mother and Son (2022)
@@ -562,7 +595,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T153100Z
 UID:ci0959484-tt17014214-2023-7-10-15-30
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nhttps://www.imdb.com/title/tt170
  14214/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabu (2021)
@@ -572,7 +606,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T181600Z
 UID:ci0959484-tt16114846-2023-7-10-18-15
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nhttps://www.imdb.com/title/tt1611
  4846/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -582,7 +617,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T121100Z
 UID:ci0959484-tt15471560-2023-7-10-12-10
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -592,7 +628,8 @@ DTSTAMP;VALUE=DATE-TIME:20230710T202100Z
 UID:ci0959484-tt15471560-2023-7-10-20-20
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -602,7 +639,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T113100Z
 UID:ci0959484-tt14230388-2023-7-11-11-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -612,7 +650,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T140100Z
 UID:ci0959484-tt14230388-2023-7-11-14-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -622,7 +661,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T163100Z
 UID:ci0959484-tt14230388-2023-7-11-16-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -632,7 +672,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T201600Z
 UID:ci0959484-tt14230388-2023-7-11-20-15
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -642,7 +683,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T110100Z
 UID:ci0959484-tt1462764-2023-7-11-11-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -652,7 +694,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T134600Z
 UID:ci0959484-tt1462764-2023-7-11-13-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -662,7 +705,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T170100Z
 UID:ci0959484-tt1462764-2023-7-11-17-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -672,7 +716,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T200100Z
 UID:ci0959484-tt1462764-2023-7-11-20-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mother and Son (2022)
@@ -682,7 +727,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T132100Z
 UID:ci0959484-tt17014214-2023-7-11-13-20
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nhttps://www.imdb.com/title/tt170
  14214/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Imaginary Country (2022)
@@ -692,7 +738,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T180100Z
 UID:ci0959484-tt19797494-2023-7-11-18-0
 DESCRIPTION:Duration: 83 mins (1h23m)\n\nhttps://www.imdb.com/title/tt1979
  7494/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabu (2021)
@@ -702,7 +749,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T112100Z
 UID:ci0959484-tt16114846-2023-7-11-11-20
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nhttps://www.imdb.com/title/tt1611
  4846/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -712,7 +760,8 @@ DTSTAMP;VALUE=DATE-TIME:20230711T160100Z
 UID:ci0959484-tt15471560-2023-7-11-16-0
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -722,7 +771,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T110100Z
 UID:ci0959484-tt14230388-2023-7-12-11-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -732,7 +782,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T181100Z
 UID:ci0959484-tt14230388-2023-7-12-18-10
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -742,7 +793,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T203100Z
 UID:ci0959484-tt14230388-2023-7-12-20-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -752,7 +804,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T104600Z
 UID:ci0959484-tt1462764-2023-7-12-10-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -762,7 +815,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T133100Z
 UID:ci0959484-tt1462764-2023-7-12-13-30
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -772,7 +826,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T164600Z
 UID:ci0959484-tt1462764-2023-7-12-16-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -782,7 +837,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T200100Z
 UID:ci0959484-tt1462764-2023-7-12-20-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interstellar (2014)
@@ -792,7 +848,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T194600Z
 UID:ci0959484-tt0816692-2023-7-12-19-45
 DESCRIPTION:Duration: 169 mins (2h49m)\n\nhttps://www.imdb.com/title/tt081
  6692/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lady Bird (2017)
@@ -802,7 +859,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T173100Z
 UID:ci0959484-tt4925292-2023-7-12-17-30
 DESCRIPTION:Duration: 94 mins (1h34m)\n\nhttps://www.imdb.com/title/tt4925
  292/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mother and Son (2022)
@@ -812,7 +870,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T124600Z
 UID:ci0959484-tt17014214-2023-7-12-12-45
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nhttps://www.imdb.com/title/tt170
  14214/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabu (2021)
@@ -822,7 +881,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T160100Z
 UID:ci0959484-tt16114846-2023-7-12-16-0
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nhttps://www.imdb.com/title/tt1611
  4846/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -832,7 +892,8 @@ DTSTAMP;VALUE=DATE-TIME:20230712T140100Z
 UID:ci0959484-tt15471560-2023-7-12-14-0
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -842,7 +903,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T123100Z
 UID:ci0959484-tt14230388-2023-7-13-12-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -852,7 +914,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T150100Z
 UID:ci0959484-tt14230388-2023-7-13-15-0
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -862,7 +925,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T173100Z
 UID:ci0959484-tt14230388-2023-7-13-17-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
@@ -872,7 +936,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T203100Z
 UID:ci0959484-tt14230388-2023-7-13-20-30
 DESCRIPTION:Duration: 105 mins (1h45m)\n\nhttps://www.imdb.com/title/tt142
  30388/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -882,7 +947,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T110100Z
 UID:ci0959484-tt1462764-2023-7-13-11-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -892,7 +958,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T140100Z
 UID:ci0959484-tt1462764-2023-7-13-14-0
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -902,7 +969,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T171600Z
 UID:ci0959484-tt1462764-2023-7-13-17-15
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
@@ -912,7 +980,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T194600Z
 UID:ci0959484-tt1462764-2023-7-13-19-45
 DESCRIPTION:Duration: 154 mins (2h34m)\n\nhttps://www.imdb.com/title/tt146
  2764/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mother and Son (2022)
@@ -922,7 +991,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T130100Z
 UID:ci0959484-tt17014214-2023-7-13-13-0
 DESCRIPTION:Duration: 116 mins (1h56m)\n\nhttps://www.imdb.com/title/tt170
  14214/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shabu (2021)
@@ -932,7 +1002,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T154600Z
 UID:ci0959484-tt16114846-2023-7-13-15-45
 DESCRIPTION:Duration: 75 mins (1h15m)\n\nhttps://www.imdb.com/title/tt1611
  4846/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoking Causes Coughing (2022)
@@ -942,7 +1013,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T174600Z
 UID:ci0959484-tt15471560-2023-7-13-17-45
 DESCRIPTION:Duration: 77 mins (1h17m)\n\nhttps://www.imdb.com/title/tt1547
  1560/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Princess Bride (1987)
@@ -952,6 +1024,7 @@ DTSTAMP;VALUE=DATE-TIME:20230713T200100Z
 UID:ci0959484-tt0093779-2023-7-13-20-0
 DESCRIPTION:Duration: 98 mins (1h38m)\n\nhttps://www.imdb.com/title/tt0093
  779/
-LOCATION:Picturehouse - Arts Picturehouse\, Cambridge
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
 END:VEVENT
 END:VCALENDAR

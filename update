@@ -110,7 +110,7 @@ class ImdbICS:
 
     def get_ics(self, venue):
         base_url = f"https://www.imdb.com/showtimes/cinema/US/{venue['id']}"
-        logging.info(f"Getting info for '{venue['id']}'")
+        logging.info(f"Getting info for '{venue['name']}'")
 
         strip_year = " ({})".format(datetime.date.today().year)
 
