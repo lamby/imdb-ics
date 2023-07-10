@@ -10,11 +10,13 @@ import re
 
 import click
 import icalendar
+import json
 import pytz
 import requests
 import yaml
 
 from bs4 import BeautifulSoup
+from lxml import etree
 from rich.logging import RichHandler
 from rich.progress import track
 
@@ -79,6 +81,7 @@ class ImdbICS:
 
     def __init__(self):
         self.session = requests.Session()
+        self.title_info = {}  # str → dict
 
     def main(self):
         logging.info(f"Getting info from {len(self.VENUES)} venues")
@@ -94,7 +97,7 @@ class ImdbICS:
             f.write(yaml.dump(sorted(self.VENUES, key=lambda x: x["name"])))
 
     def get_soup(self, url):
-        r = self.session.get(url)
+        r = self.session.get(url, headers={"User-Agent": "custom"})
         r.raise_for_status()
 
         return BeautifulSoup(r.content, "html.parser")
@@ -108,11 +111,34 @@ class ImdbICS:
     def parse_duration(self, val):
         return int(re_duration.match(val).group("minutes"))
 
+    def populate_title_info(self, imdb_title_id):
+        try:
+            return self.title_info[imdb_title_id]
+        except KeyError:
+            pass
+
+        logging.info(f"Getting info for IMDB title '{imdb_title_id}'...")
+
+        url = f"https://www.imdb.com/title/{imdb_title_id}/"
+
+        root = self.get_soup(url)
+        raw = root.select_one('script[type="application/ld+json"]').text
+
+        data = json.loads(raw)
+        logging.debug(f"Downloaded info for '{data['name']}'")
+
+        self.title_info[imdb_title_id] = data
+
+        return self.title_info[imdb_title_id]
+
     def get_ics(self, venue):
         base_url = f"https://www.imdb.com/showtimes/cinema/US/{venue['id']}"
         logging.info(f"Getting info for '{venue['name']}'")
 
-        strip_year = " ({})".format(datetime.date.today().year)
+        strip_suffixes = (
+            " ({})".format(datetime.date.today().year),
+            " ({})".format(datetime.date.today().year - 1),
+        )
 
         soup = self.get_soup(base_url)
 
@@ -122,7 +148,7 @@ class ImdbICS:
             self.text(soup, "span[itemprop=postalCode]"),
         )
 
-        logging.info(f"Found info for '{venue['name']}'")
+        logging.debug(f"Found info for '{venue['name']}'")
 
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
@@ -149,12 +175,14 @@ class ImdbICS:
             for elem in soup.select(".list.detail .list_item"):
                 title = self.text(elem, ".info h3")
 
-                if title.endswith(strip_year):
-                    title = title[: -len(strip_year)]
+                for needle in strip_suffixes:
+                    if title.endswith(needle):
+                        title = title[: -len(needle)]
 
                 href = self.attr(elem, ".info h3 a", "href")
-                imdb_title_id = f"{href}/".split("/")[3]
-                url = f"https://www.imdb.com/title/{imdb_title_id}/"
+                imdb_title_id = f"{href}/".split("/")[3].split("?", 1)[0]
+
+                self.populate_title_info(imdb_title_id)
 
                 runtime = self.parse_duration(
                     self.attr(elem, "time[itemprop=duration]", "datetime")
@@ -200,12 +228,15 @@ class ImdbICS:
                     event.add("dtend", end)
 
                     # Description
+                    data = self.title_info[imdb_title_id]
                     description = []
                     hours, minutes = divmod(runtime, 60)
                     description.append(
-                        f"Duration: {runtime} mins ({hours}h{minutes:02d}m)"
+                        f"Duration: {hours}h {minutes:02d}m ({runtime} mins)"
                     )
-                    description.append(url)
+                    description.append(data["description"])
+                    description.append(data["url"])
+                    description.append(f"IMDb: {data['aggregateRating']['ratingValue']}")
                     event.add("description", "\n\n".join(description))
 
                     cal.add_component(event)
@@ -214,10 +245,10 @@ class ImdbICS:
                     num_events_venue += 1
 
             logging.debug(
-                f"Found {num_events_date} event(s) for {venue['name']} on {date}"
+                f"Found {num_events_date} events for {venue['name']} on {date}"
             )
 
-        logging.debug(f"Found {num_events_venue} total event(s) for {venue['name']}")
+        logging.debug(f"Found {num_events_venue} total events for {venue['name']}")
 
         return cal.to_ical().decode("utf-8")
 
