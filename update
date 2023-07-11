@@ -13,6 +13,7 @@ import icalendar
 import json
 import pytz
 import requests
+import slugify
 import yaml
 
 from bs4 import BeautifulSoup
@@ -188,30 +189,29 @@ class ImdbICS:
                     self.attr(elem, "time[itemprop=duration]", "datetime")
                 )
 
-                for x in elem.select("h5.li_group"):
-                    suffix = x.text.replace("Showtimes", "").strip().rstrip(":")
+                for group in elem.select("h5.li_group"):
+                    suffix = group.text.replace("Showtimes", "").strip().rstrip(":")
                     if suffix:
                         suffix = f" ({suffix})"
 
-                    showtimes = x.findNext("div").text
+                    showtimes = group.findNext("div").text
 
                     for hour, minute in self.parse_showtimes(showtimes):
                         event = icalendar.Event()
 
-                        # Overview
-                        event.add(
-                            "uid",
-                            "{}-{}-{}-{}-{}-{}-{}-{}".format(
-                                venue["id"],
-                                imdb_title_id,
-                                suffix,
-                                date.year,
-                                date.month,
-                                date.day,
-                                hour,
-                                minute,
-                            ),
+                        uid = (
+                            venue["id"],
+                            imdb_title_id,
+                            slugify.slugify(suffix),
+                            date.year,
+                            date.month,
+                            date.day,
+                            hour,
+                            minute,
                         )
+
+                        # Overview
+                        event.add("uid", "-".join(str(x) for x in uid))
                         event.add("summary", f"{title}{suffix}")
                         event.add(
                             "location", "{}, {}".format(venue["name"], venue["address"])
@@ -243,7 +243,9 @@ class ImdbICS:
                         description.append(data["description"].replace("&apos;", "'"))
                         description.append(data["url"])
                         try:
-                            description.append(f"IMDb: {data['aggregateRating']['ratingValue']}")
+                            description.append(
+                                f"IMDb rating: {data['aggregateRating']['ratingValue']}"
+                            )
                         except KeyError:
                             pass
                         event.add("description", "\n\n".join(description))
