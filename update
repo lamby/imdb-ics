@@ -201,9 +201,10 @@ class ImdbICS:
                         # Overview
                         event.add(
                             "uid",
-                            "{}-{}-{}-{}-{}-{}-{}".format(
+                            "{}-{}-{}-{}-{}-{}-{}-{}".format(
                                 venue["id"],
                                 imdb_title_id,
+                                suffix,
                                 date.year,
                                 date.month,
                                 date.day,
@@ -239,9 +240,12 @@ class ImdbICS:
                         description.append(
                             f"Duration: {hours}h {minutes:02d}m ({runtime} mins)"
                         )
-                        description.append(data["description"])
+                        description.append(data["description"].replace("&apos;", "'"))
                         description.append(data["url"])
-                        description.append(f"IMDb: {data['aggregateRating']['ratingValue']}")
+                        try:
+                            description.append(f"IMDb: {data['aggregateRating']['ratingValue']}")
+                        except KeyError:
+                            pass
                         event.add("description", "\n\n".join(description))
 
                         cal.add_component(event)

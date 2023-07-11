@@ -1,315 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230710T115405Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230711T085456Z
 NAME:The Light Cinema\, Cambridge
 X-WR-CALNAME:The Light Cinema\, Cambridge
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T152500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T173000
-DTSTAMP;VALUE=DATE-TIME:20230710T152600Z
-UID:ci0959521-tt14230388-2023-7-10-15-25
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
-  famous fictional play about a grieving father who travels with his tech-o
- bsessed family to small rural Asteroid City to compete in a junior stargaz
- ing event\, only to have his world view disrupted fo...\n\nhttps://www.imd
- b.com/title/tt14230388/\n\nIMDb: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T114000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T134500
-DTSTAMP;VALUE=DATE-TIME:20230710T114100Z
-UID:ci0959521-tt15789038-2023-7-10-11-40
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
- ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
- ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T141000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T161500
-DTSTAMP;VALUE=DATE-TIME:20230710T141100Z
-UID:ci0959521-tt15789038-2023-7-10-14-10
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
- ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
- ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T164000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T184500
-DTSTAMP;VALUE=DATE-TIME:20230710T164100Z
-UID:ci0959521-tt15789038-2023-7-10-16-40
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
- ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
- ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T191000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T211500
-DTSTAMP;VALUE=DATE-TIME:20230710T191100Z
-UID:ci0959521-tt15789038-2023-7-10-19-10
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
- ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
- ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T145500
-DTSTAMP;VALUE=DATE-TIME:20230710T120100Z
-UID:ci0959521-tt1462764-2023-7-10-12-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T155500
-DTSTAMP;VALUE=DATE-TIME:20230710T130100Z
-UID:ci0959521-tt1462764-2023-7-10-13-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T182500
-DTSTAMP;VALUE=DATE-TIME:20230710T153100Z
-UID:ci0959521-tt1462764-2023-7-10-15-30
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T192500
-DTSTAMP;VALUE=DATE-TIME:20230710T163100Z
-UID:ci0959521-tt1462764-2023-7-10-16-30
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T215500
-DTSTAMP;VALUE=DATE-TIME:20230710T190100Z
-UID:ci0959521-tt1462764-2023-7-10-19-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T225500
-DTSTAMP;VALUE=DATE-TIME:20230710T200100Z
-UID:ci0959521-tt1462764-2023-7-10-20-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inland
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T211500
-DTSTAMP;VALUE=DATE-TIME:20230710T193100Z
-UID:ci0959521-tt13002232-2023-7-10-19-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nINLAND is a modern fairy tale th
- at explores the fractured identity of a young man after the mysterious dis
- appearance of his mother.\n\nhttps://www.imdb.com/title/tt13002232/\n\nIMD
- b: 5.8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious 5
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T201000
-DTSTAMP;VALUE=DATE-TIME:20230710T180100Z
-UID:ci0959521-tt13405778-2023-7-10-18-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
- o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious 5
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T224000
-DTSTAMP;VALUE=DATE-TIME:20230710T203100Z
-UID:ci0959521-tt13405778-2023-7-10-20-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
- o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T143500
-DTSTAMP;VALUE=DATE-TIME:20230710T113100Z
-UID:ci0959521-tt9603212-2023-7-10-11-30
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
- t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T163500
-DTSTAMP;VALUE=DATE-TIME:20230710T133100Z
-UID:ci0959521-tt9603212-2023-7-10-13-30
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
- t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T200500
-DTSTAMP;VALUE=DATE-TIME:20230710T170100Z
-UID:ci0959521-tt9603212-2023-7-10-17-0
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
- t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T233500
-DTSTAMP;VALUE=DATE-TIME:20230710T203100Z
-UID:ci0959521-tt9603212-2023-7-10-20-30
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
- t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ruby Gillman\, Teenage Kraken
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T111500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T131000
-DTSTAMP;VALUE=DATE-TIME:20230710T111600Z
-UID:ci0959521-tt27155038-2023-7-10-11-15
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA shy adolescent learns that she
-  comes from a fabled royal family of legendary sea krakens and that her de
- stiny lies in the depths of the waters\, which is bigger than she could ha
- ve ever imagined.\n\nhttps://www.imdb.com/title/tt27155038/\n\nIMDb: 5.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T161000
-DTSTAMP;VALUE=DATE-TIME:20230710T133100Z
-UID:ci0959521-tt9362722-2023-7-10-13-30
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
- the Multiverse\, where he encounters a team of Spider-People charged with 
- protecting its very existence. When the heroes clash on how to handle a ne
- w threat\, Miles must redefine what it means to be a ...\n\nhttps://www.im
- db.com/title/tt9362722/\n\nIMDb: 8.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T191000
-DTSTAMP;VALUE=DATE-TIME:20230710T163100Z
-UID:ci0959521-tt9362722-2023-7-10-16-30
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
- the Multiverse\, where he encounters a team of Spider-People charged with 
- protecting its very existence. When the heroes clash on how to handle a ne
- w threat\, Miles must redefine what it means to be a ...\n\nhttps://www.im
- db.com/title/tt9362722/\n\nIMDb: 8.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T202000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T230000
-DTSTAMP;VALUE=DATE-TIME:20230710T202100Z
-UID:ci0959521-tt9362722-2023-7-10-20-20
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
- the Multiverse\, where he encounters a team of Spider-People charged with 
- protecting its very existence. When the heroes clash on how to handle a ne
- w threat\, Miles must redefine what it means to be a ...\n\nhttps://www.im
- db.com/title/tt9362722/\n\nIMDb: 8.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T150000
-DTSTAMP;VALUE=DATE-TIME:20230710T121600Z
-UID:ci0959521-tt0439572-2023-7-10-12-15
-DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
- d to change the past\, but his attempt to save his family creates a world 
- without super heroes\, forcing him to race for his life in order to save t
- he future.\n\nhttps://www.imdb.com/title/tt0439572/\n\nIMDb: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T152000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T180500
-DTSTAMP;VALUE=DATE-TIME:20230710T152100Z
-UID:ci0959521-tt0439572-2023-7-10-15-20
-DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
- d to change the past\, but his attempt to save his family creates a world 
- without super heroes\, forcing him to race for his life in order to save t
- he future.\n\nhttps://www.imdb.com/title/tt0439572/\n\nIMDb: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T152000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T172500
 DTSTAMP;VALUE=DATE-TIME:20230711T152100Z
-UID:ci0959521-tt14230388-2023-7-11-15-20
+UID:ci0959521-tt14230388--2023-7-11-15-20
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
   famous fictional play about a grieving father who travels with his tech-o
  bsessed family to small rural Asteroid City to compete in a junior stargaz
@@ -323,12 +23,11 @@ SUMMARY:Clueless (1995)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T194000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T214000
 DTSTAMP;VALUE=DATE-TIME:20230711T194100Z
-UID:ci0959521-tt0112697-2023-7-11-19-40
+UID:ci0959521-tt0112697--2023-7-11-19-40
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nShallow\, rich and socially succ
- essful Cher is at the top of her Beverly Hills high school&apos\;s pecking
-  scale. Seeing herself as a matchmaker\, Cher first coaxes two teachers in
- to dating each other.\n\nhttps://www.imdb.com/title/tt0112697/\n\nIMDb: 6.
- 9
+ essful Cher is at the top of her Beverly Hills high school's pecking scale
+ . Seeing herself as a matchmaker\, Cher first coaxes two teachers into dat
+ ing each other.\n\nhttps://www.imdb.com/title/tt0112697/\n\nIMDb: 6.9
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -337,7 +36,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T114000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T134500
 DTSTAMP;VALUE=DATE-TIME:20230711T114100Z
-UID:ci0959521-tt15789038-2023-7-11-11-40
+UID:ci0959521-tt15789038--2023-7-11-11-40
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -349,7 +48,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T141000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T161500
 DTSTAMP;VALUE=DATE-TIME:20230711T141100Z
-UID:ci0959521-tt15789038-2023-7-11-14-10
+UID:ci0959521-tt15789038--2023-7-11-14-10
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -361,7 +60,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T164000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T184500
 DTSTAMP;VALUE=DATE-TIME:20230711T164100Z
-UID:ci0959521-tt15789038-2023-7-11-16-40
+UID:ci0959521-tt15789038--2023-7-11-16-40
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -373,7 +72,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T191000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T211500
 DTSTAMP;VALUE=DATE-TIME:20230711T191100Z
-UID:ci0959521-tt15789038-2023-7-11-19-10
+UID:ci0959521-tt15789038--2023-7-11-19-10
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -385,7 +84,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T145500
 DTSTAMP;VALUE=DATE-TIME:20230711T120100Z
-UID:ci0959521-tt1462764-2023-7-11-12-0
+UID:ci0959521-tt1462764--2023-7-11-12-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -397,7 +96,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T155500
 DTSTAMP;VALUE=DATE-TIME:20230711T130100Z
-UID:ci0959521-tt1462764-2023-7-11-13-0
+UID:ci0959521-tt1462764--2023-7-11-13-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -409,7 +108,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T182500
 DTSTAMP;VALUE=DATE-TIME:20230711T153100Z
-UID:ci0959521-tt1462764-2023-7-11-15-30
+UID:ci0959521-tt1462764--2023-7-11-15-30
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -421,7 +120,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T192500
 DTSTAMP;VALUE=DATE-TIME:20230711T163100Z
-UID:ci0959521-tt1462764-2023-7-11-16-30
+UID:ci0959521-tt1462764--2023-7-11-16-30
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -433,7 +132,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T190000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T215500
 DTSTAMP;VALUE=DATE-TIME:20230711T190100Z
-UID:ci0959521-tt1462764-2023-7-11-19-0
+UID:ci0959521-tt1462764--2023-7-11-19-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -445,7 +144,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T225500
 DTSTAMP;VALUE=DATE-TIME:20230711T200100Z
-UID:ci0959521-tt1462764-2023-7-11-20-0
+UID:ci0959521-tt1462764--2023-7-11-20-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -457,10 +156,10 @@ SUMMARY:Insidious 5
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T180000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T201000
 DTSTAMP;VALUE=DATE-TIME:20230711T180100Z
-UID:ci0959521-tt13405778-2023-7-11-18-0
+UID:ci0959521-tt13405778--2023-7-11-18-0
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
+ l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -469,10 +168,10 @@ SUMMARY:Insidious 5
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T224000
 DTSTAMP;VALUE=DATE-TIME:20230711T203100Z
-UID:ci0959521-tt13405778-2023-7-11-20-30
+UID:ci0959521-tt13405778--2023-7-11-20-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
+ l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -481,10 +180,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T163500
 DTSTAMP;VALUE=DATE-TIME:20230711T133100Z
-UID:ci0959521-tt9603212-2023-7-11-13-30
+UID:ci0959521-tt9603212--2023-7-11-13-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -493,10 +192,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T170000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T200500
 DTSTAMP;VALUE=DATE-TIME:20230711T170100Z
-UID:ci0959521-tt9603212-2023-7-11-17-0
+UID:ci0959521-tt9603212--2023-7-11-17-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -505,10 +204,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T233500
 DTSTAMP;VALUE=DATE-TIME:20230711T203100Z
-UID:ci0959521-tt9603212-2023-7-11-20-30
+UID:ci0959521-tt9603212--2023-7-11-20-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T153500
+DTSTAMP;VALUE=DATE-TIME:20230711T123100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-11-12-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T190500
+DTSTAMP;VALUE=DATE-TIME:20230711T160100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-11-16-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T223500
+DTSTAMP;VALUE=DATE-TIME:20230711T193100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-11-19-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -517,7 +252,7 @@ SUMMARY:National Theatre Live: Good
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T193000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T223000
 DTSTAMP;VALUE=DATE-TIME:20230711T193100Z
-UID:ci0959521-tt27171787-2023-7-11-19-30
+UID:ci0959521-tt27171787--2023-7-11-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nAs the world faces its Second W
  orld War\, John Halder\, a good\, intelligent German professor\, finds him
  self pulled into a movement with unthinkable consequences.\n\nhttps://www.
@@ -530,7 +265,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T133500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T161500
 DTSTAMP;VALUE=DATE-TIME:20230711T133600Z
-UID:ci0959521-tt9362722-2023-7-11-13-35
+UID:ci0959521-tt9362722--2023-7-11-13-35
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -544,7 +279,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T163500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T191500
 DTSTAMP;VALUE=DATE-TIME:20230711T163600Z
-UID:ci0959521-tt9362722-2023-7-11-16-35
+UID:ci0959521-tt9362722--2023-7-11-16-35
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -558,7 +293,7 @@ SUMMARY:The Flash
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T131000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T155500
 DTSTAMP;VALUE=DATE-TIME:20230711T131100Z
-UID:ci0959521-tt0439572-2023-7-11-13-10
+UID:ci0959521-tt0439572--2023-7-11-13-10
 DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
  d to change the past\, but his attempt to save his family creates a world 
  without super heroes\, forcing him to race for his life in order to save t
@@ -571,7 +306,7 @@ SUMMARY:The Flash
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T162000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T190500
 DTSTAMP;VALUE=DATE-TIME:20230711T162100Z
-UID:ci0959521-tt0439572-2023-7-11-16-20
+UID:ci0959521-tt0439572--2023-7-11-16-20
 DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
  d to change the past\, but his attempt to save his family creates a world 
  without super heroes\, forcing him to race for his life in order to save t
@@ -584,7 +319,7 @@ SUMMARY:Asteroid City
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T152500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T173000
 DTSTAMP;VALUE=DATE-TIME:20230712T152600Z
-UID:ci0959521-tt14230388-2023-7-12-15-25
+UID:ci0959521-tt14230388--2023-7-12-15-25
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
   famous fictional play about a grieving father who travels with his tech-o
  bsessed family to small rural Asteroid City to compete in a junior stargaz
@@ -598,7 +333,7 @@ SUMMARY:Calamity Jane (1953)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T140500
 DTSTAMP;VALUE=DATE-TIME:20230712T120100Z
-UID:ci0959521-tt0045591-2023-7-12-12-0
+UID:ci0959521-tt0045591--2023-7-12-12-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of Calamity Jane\, he
  r saloon\, and her romance with Wild Bill Hickok.\n\nhttps://www.imdb.com/
  title/tt0045591/\n\nIMDb: 7.2
@@ -610,7 +345,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T114000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T134500
 DTSTAMP;VALUE=DATE-TIME:20230712T114100Z
-UID:ci0959521-tt15789038-2023-7-12-11-40
+UID:ci0959521-tt15789038--2023-7-12-11-40
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -622,7 +357,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T141000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T161500
 DTSTAMP;VALUE=DATE-TIME:20230712T141100Z
-UID:ci0959521-tt15789038-2023-7-12-14-10
+UID:ci0959521-tt15789038--2023-7-12-14-10
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -634,7 +369,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T164000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T184500
 DTSTAMP;VALUE=DATE-TIME:20230712T164100Z
-UID:ci0959521-tt15789038-2023-7-12-16-40
+UID:ci0959521-tt15789038--2023-7-12-16-40
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -646,7 +381,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T191000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T211500
 DTSTAMP;VALUE=DATE-TIME:20230712T191100Z
-UID:ci0959521-tt15789038-2023-7-12-19-10
+UID:ci0959521-tt15789038--2023-7-12-19-10
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -658,7 +393,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T122000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T151500
 DTSTAMP;VALUE=DATE-TIME:20230712T122100Z
-UID:ci0959521-tt1462764-2023-7-12-12-20
+UID:ci0959521-tt1462764--2023-7-12-12-20
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -670,7 +405,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T155500
 DTSTAMP;VALUE=DATE-TIME:20230712T130100Z
-UID:ci0959521-tt1462764-2023-7-12-13-0
+UID:ci0959521-tt1462764--2023-7-12-13-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -682,7 +417,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T154000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T183500
 DTSTAMP;VALUE=DATE-TIME:20230712T154100Z
-UID:ci0959521-tt1462764-2023-7-12-15-40
+UID:ci0959521-tt1462764--2023-7-12-15-40
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -694,7 +429,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T192500
 DTSTAMP;VALUE=DATE-TIME:20230712T163100Z
-UID:ci0959521-tt1462764-2023-7-12-16-30
+UID:ci0959521-tt1462764--2023-7-12-16-30
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -706,7 +441,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T190000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T215500
 DTSTAMP;VALUE=DATE-TIME:20230712T190100Z
-UID:ci0959521-tt1462764-2023-7-12-19-0
+UID:ci0959521-tt1462764--2023-7-12-19-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -718,7 +453,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T225500
 DTSTAMP;VALUE=DATE-TIME:20230712T200100Z
-UID:ci0959521-tt1462764-2023-7-12-20-0
+UID:ci0959521-tt1462764--2023-7-12-20-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -730,10 +465,10 @@ SUMMARY:Insidious 5
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T180000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T201000
 DTSTAMP;VALUE=DATE-TIME:20230712T180100Z
-UID:ci0959521-tt13405778-2023-7-12-18-0
+UID:ci0959521-tt13405778--2023-7-12-18-0
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
+ l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -742,10 +477,10 @@ SUMMARY:Insidious 5
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T224000
 DTSTAMP;VALUE=DATE-TIME:20230712T203100Z
-UID:ci0959521-tt13405778-2023-7-12-20-30
+UID:ci0959521-tt13405778--2023-7-12-20-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
+ l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -754,10 +489,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T143500
 DTSTAMP;VALUE=DATE-TIME:20230712T113100Z
-UID:ci0959521-tt9603212-2023-7-12-11-30
+UID:ci0959521-tt9603212--2023-7-12-11-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -766,10 +501,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T163500
 DTSTAMP;VALUE=DATE-TIME:20230712T133100Z
-UID:ci0959521-tt9603212-2023-7-12-13-30
+UID:ci0959521-tt9603212--2023-7-12-13-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -778,10 +513,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T170000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T200500
 DTSTAMP;VALUE=DATE-TIME:20230712T170100Z
-UID:ci0959521-tt9603212-2023-7-12-17-0
+UID:ci0959521-tt9603212--2023-7-12-17-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -790,10 +525,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T183000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T213500
 DTSTAMP;VALUE=DATE-TIME:20230712T183100Z
-UID:ci0959521-tt9603212-2023-7-12-18-30
+UID:ci0959521-tt9603212--2023-7-12-18-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -802,10 +537,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T233500
 DTSTAMP;VALUE=DATE-TIME:20230712T203100Z
-UID:ci0959521-tt9603212-2023-7-12-20-30
+UID:ci0959521-tt9603212--2023-7-12-20-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T153500
+DTSTAMP;VALUE=DATE-TIME:20230712T123100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-12-12-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T190500
+DTSTAMP;VALUE=DATE-TIME:20230712T160100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-12-16-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T223500
+DTSTAMP;VALUE=DATE-TIME:20230712T193100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-12-19-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -814,7 +585,7 @@ SUMMARY:Ruby Gillman\, Teenage Kraken
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T112000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T131500
 DTSTAMP;VALUE=DATE-TIME:20230712T112100Z
-UID:ci0959521-tt27155038-2023-7-12-11-20
+UID:ci0959521-tt27155038--2023-7-12-11-20
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA shy adolescent learns that she
   comes from a fabled royal family of legendary sea krakens and that her de
  stiny lies in the depths of the waters\, which is bigger than she could ha
@@ -827,7 +598,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T134000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T162000
 DTSTAMP;VALUE=DATE-TIME:20230712T134100Z
-UID:ci0959521-tt9362722-2023-7-12-13-40
+UID:ci0959521-tt9362722--2023-7-12-13-40
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -841,7 +612,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T152000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T180000
 DTSTAMP;VALUE=DATE-TIME:20230712T152100Z
-UID:ci0959521-tt9362722-2023-7-12-15-20
+UID:ci0959521-tt9362722--2023-7-12-15-20
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -855,7 +626,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T194000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T222000
 DTSTAMP;VALUE=DATE-TIME:20230712T194100Z
-UID:ci0959521-tt9362722-2023-7-12-19-40
+UID:ci0959521-tt9362722--2023-7-12-19-40
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -869,7 +640,7 @@ SUMMARY:Superworm (2021)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T121500
 DTSTAMP;VALUE=DATE-TIME:20230712T113100Z
-UID:ci0959521-tt14040072-2023-7-12-11-30
+UID:ci0959521-tt14040072--2023-7-12-11-30
 DESCRIPTION:Duration: 0h 25m (25 mins)\n\nSuperworm is super-long and supe
  r-strong\, and is always saving the day. But who can save him when he gets
   too full of himself and is captured by the evil Wizard Lizard?\n\nhttps:/
@@ -882,7 +653,7 @@ SUMMARY:The Flash
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T164000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T192500
 DTSTAMP;VALUE=DATE-TIME:20230712T164100Z
-UID:ci0959521-tt0439572-2023-7-12-16-40
+UID:ci0959521-tt0439572--2023-7-12-16-40
 DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
  d to change the past\, but his attempt to save his family creates a world 
  without super heroes\, forcing him to race for his life in order to save t
@@ -895,7 +666,7 @@ SUMMARY:Asteroid City
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T152500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T173000
 DTSTAMP;VALUE=DATE-TIME:20230713T152600Z
-UID:ci0959521-tt14230388-2023-7-13-15-25
+UID:ci0959521-tt14230388--2023-7-13-15-25
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
   famous fictional play about a grieving father who travels with his tech-o
  bsessed family to small rural Asteroid City to compete in a junior stargaz
@@ -909,7 +680,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T114000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T134500
 DTSTAMP;VALUE=DATE-TIME:20230713T114100Z
-UID:ci0959521-tt15789038-2023-7-13-11-40
+UID:ci0959521-tt15789038--2023-7-13-11-40
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -921,7 +692,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T141000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T161500
 DTSTAMP;VALUE=DATE-TIME:20230713T141100Z
-UID:ci0959521-tt15789038-2023-7-13-14-10
+UID:ci0959521-tt15789038--2023-7-13-14-10
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -933,7 +704,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T164000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T184500
 DTSTAMP;VALUE=DATE-TIME:20230713T164100Z
-UID:ci0959521-tt15789038-2023-7-13-16-40
+UID:ci0959521-tt15789038--2023-7-13-16-40
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -945,7 +716,7 @@ SUMMARY:Elemental
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T191000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T211500
 DTSTAMP;VALUE=DATE-TIME:20230713T191100Z
-UID:ci0959521-tt15789038-2023-7-13-19-10
+UID:ci0959521-tt15789038--2023-7-13-19-10
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
  ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
  ://www.imdb.com/title/tt15789038/\n\nIMDb: 7.1
@@ -957,7 +728,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T122000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T151500
 DTSTAMP;VALUE=DATE-TIME:20230713T122100Z
-UID:ci0959521-tt1462764-2023-7-13-12-20
+UID:ci0959521-tt1462764--2023-7-13-12-20
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -969,7 +740,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T155500
 DTSTAMP;VALUE=DATE-TIME:20230713T130100Z
-UID:ci0959521-tt1462764-2023-7-13-13-0
+UID:ci0959521-tt1462764--2023-7-13-13-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -981,7 +752,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T154000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T183500
 DTSTAMP;VALUE=DATE-TIME:20230713T154100Z
-UID:ci0959521-tt1462764-2023-7-13-15-40
+UID:ci0959521-tt1462764--2023-7-13-15-40
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -993,7 +764,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T192500
 DTSTAMP;VALUE=DATE-TIME:20230713T163100Z
-UID:ci0959521-tt1462764-2023-7-13-16-30
+UID:ci0959521-tt1462764--2023-7-13-16-30
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -1005,7 +776,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T190000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T215500
 DTSTAMP;VALUE=DATE-TIME:20230713T190100Z
-UID:ci0959521-tt1462764-2023-7-13-19-0
+UID:ci0959521-tt1462764--2023-7-13-19-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -1017,7 +788,7 @@ SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T225500
 DTSTAMP;VALUE=DATE-TIME:20230713T200100Z
-UID:ci0959521-tt1462764-2023-7-13-20-0
+UID:ci0959521-tt1462764--2023-7-13-20-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
  es against time to retrieve a legendary artifact that can change the cours
  e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb: 6.9
@@ -1029,10 +800,10 @@ SUMMARY:Insidious 5
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T180000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T201000
 DTSTAMP;VALUE=DATE-TIME:20230713T180100Z
-UID:ci0959521-tt13405778-2023-7-13-18-0
+UID:ci0959521-tt13405778--2023-7-13-18-0
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
+ l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1041,10 +812,10 @@ SUMMARY:Insidious 5
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T224000
 DTSTAMP;VALUE=DATE-TIME:20230713T203100Z
-UID:ci0959521-tt13405778-2023-7-13-20-30
+UID:ci0959521-tt13405778--2023-7-13-20-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6.1
+ l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb: 6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1053,10 +824,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T143500
 DTSTAMP;VALUE=DATE-TIME:20230713T113100Z
-UID:ci0959521-tt9603212-2023-7-13-11-30
+UID:ci0959521-tt9603212--2023-7-13-11-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1065,10 +836,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T163500
 DTSTAMP;VALUE=DATE-TIME:20230713T133100Z
-UID:ci0959521-tt9603212-2023-7-13-13-30
+UID:ci0959521-tt9603212--2023-7-13-13-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1077,10 +848,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T170000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T200500
 DTSTAMP;VALUE=DATE-TIME:20230713T170100Z
-UID:ci0959521-tt9603212-2023-7-13-17-0
+UID:ci0959521-tt9603212--2023-7-13-17-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1089,10 +860,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T233500
 DTSTAMP;VALUE=DATE-TIME:20230713T203100Z
-UID:ci0959521-tt9603212-2023-7-13-20-30
+UID:ci0959521-tt9603212--2023-7-13-20-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T153500
+DTSTAMP;VALUE=DATE-TIME:20230713T123100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-13-12-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T190500
+DTSTAMP;VALUE=DATE-TIME:20230713T160100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-13-16-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T223500
+DTSTAMP;VALUE=DATE-TIME:20230713T193100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-13-19-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1101,7 +908,7 @@ SUMMARY:Ruby Gillman\, Teenage Kraken
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T112000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T131500
 DTSTAMP;VALUE=DATE-TIME:20230713T112100Z
-UID:ci0959521-tt27155038-2023-7-13-11-20
+UID:ci0959521-tt27155038--2023-7-13-11-20
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA shy adolescent learns that she
   comes from a fabled royal family of legendary sea krakens and that her de
  stiny lies in the depths of the waters\, which is bigger than she could ha
@@ -1114,7 +921,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T134000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T162000
 DTSTAMP;VALUE=DATE-TIME:20230713T134100Z
-UID:ci0959521-tt9362722-2023-7-13-13-40
+UID:ci0959521-tt9362722--2023-7-13-13-40
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -1128,7 +935,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T164000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T192000
 DTSTAMP;VALUE=DATE-TIME:20230713T164100Z
-UID:ci0959521-tt9362722-2023-7-13-16-40
+UID:ci0959521-tt9362722--2023-7-13-16-40
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -1142,7 +949,7 @@ SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T194000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T222000
 DTSTAMP;VALUE=DATE-TIME:20230713T194100Z
-UID:ci0959521-tt9362722-2023-7-13-19-40
+UID:ci0959521-tt9362722--2023-7-13-19-40
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
  the Multiverse\, where he encounters a team of Spider-People charged with 
  protecting its very existence. When the heroes clash on how to handle a ne
@@ -1156,7 +963,7 @@ SUMMARY:The Flash
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T130500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T155000
 DTSTAMP;VALUE=DATE-TIME:20230713T130600Z
-UID:ci0959521-tt0439572-2023-7-13-13-5
+UID:ci0959521-tt0439572--2023-7-13-13-5
 DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
  d to change the past\, but his attempt to save his family creates a world 
  without super heroes\, forcing him to race for his life in order to save t
@@ -1169,7 +976,7 @@ SUMMARY:The Flash
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T161000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T185500
 DTSTAMP;VALUE=DATE-TIME:20230713T161100Z
-UID:ci0959521-tt0439572-2023-7-13-16-10
+UID:ci0959521-tt0439572--2023-7-13-16-10
 DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
  d to change the past\, but his attempt to save his family creates a world 
  without super heroes\, forcing him to race for his life in order to save t
@@ -1182,7 +989,7 @@ SUMMARY:The Flash
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T192000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T220500
 DTSTAMP;VALUE=DATE-TIME:20230713T192100Z
-UID:ci0959521-tt0439572-2023-7-13-19-20
+UID:ci0959521-tt0439572--2023-7-13-19-20
 DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBarry Allen uses his super spee
  d to change the past\, but his attempt to save his family creates a world 
  without super heroes\, forcing him to race for his life in order to save t
@@ -1195,10 +1002,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T143500
 DTSTAMP;VALUE=DATE-TIME:20230714T113100Z
-UID:ci0959521-tt9603212-2023-7-14-11-30
+UID:ci0959521-tt9603212--2023-7-14-11-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1207,10 +1014,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T143500
 DTSTAMP;VALUE=DATE-TIME:20230714T113100Z
-UID:ci0959521-tt9603212-2023-7-14-11-30
+UID:ci0959521-tt9603212--2023-7-14-11-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1219,10 +1026,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T170000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T200500
 DTSTAMP;VALUE=DATE-TIME:20230714T170100Z
-UID:ci0959521-tt9603212-2023-7-14-17-0
+UID:ci0959521-tt9603212--2023-7-14-17-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1231,10 +1038,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T183000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T213500
 DTSTAMP;VALUE=DATE-TIME:20230714T183100Z
-UID:ci0959521-tt9603212-2023-7-14-18-30
+UID:ci0959521-tt9603212--2023-7-14-18-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1243,10 +1050,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T233500
 DTSTAMP;VALUE=DATE-TIME:20230714T203100Z
-UID:ci0959521-tt9603212-2023-7-14-20-30
+UID:ci0959521-tt9603212--2023-7-14-20-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T153500
+DTSTAMP;VALUE=DATE-TIME:20230714T123100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-14-12-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T190500
+DTSTAMP;VALUE=DATE-TIME:20230714T160100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-14-16-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T223500
+DTSTAMP;VALUE=DATE-TIME:20230714T193100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-14-19-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1255,12 +1098,12 @@ SUMMARY:The Tunnel to Summer\, the Exit of Goodbyes
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T185000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T203500
 DTSTAMP;VALUE=DATE-TIME:20230714T185100Z
-UID:ci0959521-tt17382524-2023-7-14-18-50
+UID:ci0959521-tt17382524--2023-7-14-18-50
 DESCRIPTION:Duration: 1h 23m (83 mins)\n\nKaoru Tono heard a rumor: The la
  ws of space and time mean nothing to the Urashima Tunnel. If you find it\,
-  walk through and you&apos\;ll find your heart&apos\;s desire on the other
-  side...in exchange for years of your own life.\n\nhttps://www.imdb.com/ti
- tle/tt17382524/\n\nIMDb: 6.7
+  walk through and you'll find your heart's desire on the other side...in e
+ xchange for years of your own life.\n\nhttps://www.imdb.com/title/tt173825
+ 24/\n\nIMDb: 6.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1269,10 +1112,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T163500
 DTSTAMP;VALUE=DATE-TIME:20230715T133100Z
-UID:ci0959521-tt9603212-2023-7-15-13-30
+UID:ci0959521-tt9603212--2023-7-15-13-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1281,10 +1124,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T170000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T200500
 DTSTAMP;VALUE=DATE-TIME:20230715T170100Z
-UID:ci0959521-tt9603212-2023-7-15-17-0
+UID:ci0959521-tt9603212--2023-7-15-17-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1293,10 +1136,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T233500
 DTSTAMP;VALUE=DATE-TIME:20230715T203100Z
-UID:ci0959521-tt9603212-2023-7-15-20-30
+UID:ci0959521-tt9603212--2023-7-15-20-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T153500
+DTSTAMP;VALUE=DATE-TIME:20230715T123100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-15-12-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T190500
+DTSTAMP;VALUE=DATE-TIME:20230715T160100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-15-16-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T223500
+DTSTAMP;VALUE=DATE-TIME:20230715T193100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-15-19-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1305,7 +1184,7 @@ SUMMARY:Pinocchio: A True Story (2021)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T101000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T120500
 DTSTAMP;VALUE=DATE-TIME:20230715T101100Z
-UID:ci0959521-tt8480678-2023-7-15-10-10
+UID:ci0959521-tt8480678--2023-7-15-10-10
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nYoung Pinocchio runs away from h
  is genius creator Jepetto accompanied by the horse Tibalt to see the world
   and joins the traveling circus run by hustler Modjafocco.\n\nhttps://www.
@@ -1318,12 +1197,12 @@ SUMMARY:The Tunnel to Summer\, the Exit of Goodbyes
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T185000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T203500
 DTSTAMP;VALUE=DATE-TIME:20230715T185100Z
-UID:ci0959521-tt17382524-2023-7-15-18-50
+UID:ci0959521-tt17382524--2023-7-15-18-50
 DESCRIPTION:Duration: 1h 23m (83 mins)\n\nKaoru Tono heard a rumor: The la
  ws of space and time mean nothing to the Urashima Tunnel. If you find it\,
-  walk through and you&apos\;ll find your heart&apos\;s desire on the other
-  side...in exchange for years of your own life.\n\nhttps://www.imdb.com/ti
- tle/tt17382524/\n\nIMDb: 6.7
+  walk through and you'll find your heart's desire on the other side...in e
+ xchange for years of your own life.\n\nhttps://www.imdb.com/title/tt173825
+ 24/\n\nIMDb: 6.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1332,7 +1211,7 @@ SUMMARY:Beauty and the Beast (2017)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T163000
 DTSTAMP;VALUE=DATE-TIME:20230716T140100Z
-UID:ci0959521-tt2771200-2023-7-16-14-0
+UID:ci0959521-tt2771200--2023-7-16-14-0
 DESCRIPTION:Duration: 2h 09m (129 mins)\n\nA selfish Prince is cursed to b
  ecome a monster for the rest of his life\, unless he learns to fall in lov
  e with a beautiful young woman he keeps prisoner.\n\nhttps://www.imdb.com/
@@ -1345,10 +1224,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T160500
 DTSTAMP;VALUE=DATE-TIME:20230716T130100Z
-UID:ci0959521-tt9603212-2023-7-16-13-0
+UID:ci0959521-tt9603212--2023-7-16-13-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1357,10 +1236,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T193500
 DTSTAMP;VALUE=DATE-TIME:20230716T163100Z
-UID:ci0959521-tt9603212-2023-7-16-16-30
+UID:ci0959521-tt9603212--2023-7-16-16-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1369,10 +1248,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T230500
 DTSTAMP;VALUE=DATE-TIME:20230716T200100Z
-UID:ci0959521-tt9603212-2023-7-16-20-0
+UID:ci0959521-tt9603212--2023-7-16-20-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T150500
+DTSTAMP;VALUE=DATE-TIME:20230716T120100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-16-12-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T183500
+DTSTAMP;VALUE=DATE-TIME:20230716T153100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-16-15-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T220500
+DTSTAMP;VALUE=DATE-TIME:20230716T190100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-16-19-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1381,7 +1296,7 @@ SUMMARY:Pinocchio: A True Story (2021)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T101000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T120500
 DTSTAMP;VALUE=DATE-TIME:20230716T101100Z
-UID:ci0959521-tt8480678-2023-7-16-10-10
+UID:ci0959521-tt8480678--2023-7-16-10-10
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nYoung Pinocchio runs away from h
  is genius creator Jepetto accompanied by the horse Tibalt to see the world
   and joins the traveling circus run by hustler Modjafocco.\n\nhttps://www.
@@ -1394,12 +1309,12 @@ SUMMARY:The Tunnel to Summer\, the Exit of Goodbyes
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T165000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T183500
 DTSTAMP;VALUE=DATE-TIME:20230716T165100Z
-UID:ci0959521-tt17382524-2023-7-16-16-50
+UID:ci0959521-tt17382524--2023-7-16-16-50
 DESCRIPTION:Duration: 1h 23m (83 mins)\n\nKaoru Tono heard a rumor: The la
  ws of space and time mean nothing to the Urashima Tunnel. If you find it\,
-  walk through and you&apos\;ll find your heart&apos\;s desire on the other
-  side...in exchange for years of your own life.\n\nhttps://www.imdb.com/ti
- tle/tt17382524/\n\nIMDb: 6.7
+  walk through and you'll find your heart's desire on the other side...in e
+ xchange for years of your own life.\n\nhttps://www.imdb.com/title/tt173825
+ 24/\n\nIMDb: 6.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1408,10 +1323,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T183500
 DTSTAMP;VALUE=DATE-TIME:20230717T153100Z
-UID:ci0959521-tt9603212-2023-7-17-15-30
+UID:ci0959521-tt9603212--2023-7-17-15-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1420,10 +1335,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T190000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T220500
 DTSTAMP;VALUE=DATE-TIME:20230717T190100Z
-UID:ci0959521-tt9603212-2023-7-17-19-0
+UID:ci0959521-tt9603212--2023-7-17-19-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T160500
+DTSTAMP;VALUE=DATE-TIME:20230717T130100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-17-13-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T193500
+DTSTAMP;VALUE=DATE-TIME:20230717T163100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-17-16-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T230500
+DTSTAMP;VALUE=DATE-TIME:20230717T200100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-17-20-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1432,7 +1383,7 @@ SUMMARY:Pretty Red Dress
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T194000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T215000
 DTSTAMP;VALUE=DATE-TIME:20230717T194100Z
-UID:ci0959521-tt14906708-2023-7-17-19-40
+UID:ci0959521-tt14906708--2023-7-17-19-40
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nFollows a South London family a
  nd how one red dress is the center of their lives.\n\nhttps://www.imdb.com
  /title/tt14906708/\n\nIMDb: 6.6
@@ -1444,10 +1395,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T160500
 DTSTAMP;VALUE=DATE-TIME:20230718T130100Z
-UID:ci0959521-tt9603212-2023-7-18-13-0
+UID:ci0959521-tt9603212--2023-7-18-13-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1456,10 +1407,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T193500
 DTSTAMP;VALUE=DATE-TIME:20230718T163100Z
-UID:ci0959521-tt9603212-2023-7-18-16-30
+UID:ci0959521-tt9603212--2023-7-18-16-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1468,10 +1419,46 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T230500
 DTSTAMP;VALUE=DATE-TIME:20230718T200100Z
-UID:ci0959521-tt9603212-2023-7-18-20-0
+UID:ci0959521-tt9603212--2023-7-18-20-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T150500
+DTSTAMP;VALUE=DATE-TIME:20230718T120100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-18-12-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T183500
+DTSTAMP;VALUE=DATE-TIME:20230718T153100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-18-15-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T220500
+DTSTAMP;VALUE=DATE-TIME:20230718T190100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-18-19-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1480,7 +1467,7 @@ SUMMARY:The Truman Show (1998)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T194000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T214500
 DTSTAMP;VALUE=DATE-TIME:20230718T194100Z
-UID:ci0959521-tt0120382-2023-7-18-19-40
+UID:ci0959521-tt0120382--2023-7-18-19-40
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAn insurance salesman discovers
   his whole life is actually a reality TV show.\n\nhttps://www.imdb.com/tit
  le/tt0120382/\n\nIMDb: 8.2
@@ -1492,7 +1479,7 @@ SUMMARY:Interstellar (2014)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T193000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T224000
 DTSTAMP;VALUE=DATE-TIME:20230719T193100Z
-UID:ci0959521-tt0816692-2023-7-19-19-30
+UID:ci0959521-tt0816692--2023-7-19-19-30
 DESCRIPTION:Duration: 2h 49m (169 mins)\n\nWhen Earth becomes uninhabitabl
  e in the future\, a farmer and ex-NASA pilot\, Joseph Cooper\, is tasked t
  o pilot a spacecraft\, along with a team of researchers\, to find a new pl
@@ -1505,7 +1492,7 @@ SUMMARY:Interstellar (2014)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T201000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T232000
 DTSTAMP;VALUE=DATE-TIME:20230719T201100Z
-UID:ci0959521-tt0816692-2023-7-19-20-10
+UID:ci0959521-tt0816692--2023-7-19-20-10
 DESCRIPTION:Duration: 2h 49m (169 mins)\n\nWhen Earth becomes uninhabitabl
  e in the future\, a farmer and ex-NASA pilot\, Joseph Cooper\, is tasked t
  o pilot a spacecraft\, along with a team of researchers\, to find a new pl
@@ -1518,10 +1505,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T160500
 DTSTAMP;VALUE=DATE-TIME:20230719T130100Z
-UID:ci0959521-tt9603212-2023-7-19-13-0
+UID:ci0959521-tt9603212--2023-7-19-13-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1530,10 +1517,10 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T193500
 DTSTAMP;VALUE=DATE-TIME:20230719T163100Z
-UID:ci0959521-tt9603212-2023-7-19-16-30
+UID:ci0959521-tt9603212--2023-7-19-16-30
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1542,10 +1529,131 @@ SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T230500
 DTSTAMP;VALUE=DATE-TIME:20230719T200100Z
-UID:ci0959521-tt9603212-2023-7-19-20-0
+UID:ci0959521-tt9603212--2023-7-19-20-0
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.2
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T150500
+DTSTAMP;VALUE=DATE-TIME:20230719T120100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-19-12-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T183500
+DTSTAMP;VALUE=DATE-TIME:20230719T153100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-19-15-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T220500
+DTSTAMP;VALUE=DATE-TIME:20230719T190100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-19-19-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T160500
+DTSTAMP;VALUE=DATE-TIME:20230720T130100Z
+UID:ci0959521-tt9603212--2023-7-20-13-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T193500
+DTSTAMP;VALUE=DATE-TIME:20230720T163100Z
+UID:ci0959521-tt9603212--2023-7-20-16-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T230500
+DTSTAMP;VALUE=DATE-TIME:20230720T200100Z
+UID:ci0959521-tt9603212--2023-7-20-20-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T150500
+DTSTAMP;VALUE=DATE-TIME:20230720T120100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-20-12-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T183500
+DTSTAMP;VALUE=DATE-TIME:20230720T153100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-20-15-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One (IMAX)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T220500
+DTSTAMP;VALUE=DATE-TIME:20230720T190100Z
+UID:ci0959521-tt9603212- (IMAX)-2023-7-20-19-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
+ t track down a dangerous weapon before it falls into the wrong hands.\n\nh
+ ttps://www.imdb.com/title/tt9603212/\n\nIMDb: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pinocchio: A True Story (2021)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T101000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T120500
+DTSTAMP;VALUE=DATE-TIME:20230720T101100Z
+UID:ci0959521-tt8480678--2023-7-20-10-10
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nYoung Pinocchio runs away from h
+ is genius creator Jepetto accompanied by the horse Tibalt to see the world
+  and joins the traveling circus run by hustler Modjafocco.\n\nhttps://www.
+ imdb.com/title/tt8480678/\n\nIMDb: 3.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
