@@ -188,61 +188,66 @@ class ImdbICS:
                     self.attr(elem, "time[itemprop=duration]", "datetime")
                 )
 
-                showtimes = self.text(elem, ".showtimes")
+                for x in elem.select("h5.li_group"):
+                    suffix = x.text.replace("Showtimes", "").strip().rstrip(":")
+                    if suffix:
+                        suffix = f" ({suffix})"
 
-                for hour, minute in self.parse_showtimes(showtimes):
-                    event = icalendar.Event()
+                    showtimes = x.findNext("div").text
 
-                    # Overview
-                    event.add(
-                        "uid",
-                        "{}-{}-{}-{}-{}-{}-{}".format(
-                            venue["id"],
-                            imdb_title_id,
-                            date.year,
-                            date.month,
-                            date.day,
-                            hour,
-                            minute,
-                        ),
-                    )
-                    event.add("summary", title)
-                    event.add(
-                        "location", "{}, {}".format(venue["name"], venue["address"])
-                    )
+                    for hour, minute in self.parse_showtimes(showtimes):
+                        event = icalendar.Event()
 
-                    # Calculate times
-                    start = datetime.datetime(
-                        year=date.year,
-                        month=date.month,
-                        day=date.day,
-                        hour=hour,
-                        minute=minute,
-                        tzinfo=pytz.timezone(venue["timezone"]),
-                    )
-                    end = start + datetime.timedelta(
-                        minutes=self.PADDING + self.round_to_nearest(runtime, 5)
-                    )
-                    event.add("dtstamp", start)
-                    event.add("dtstart", start)
-                    event.add("dtend", end)
+                        # Overview
+                        event.add(
+                            "uid",
+                            "{}-{}-{}-{}-{}-{}-{}".format(
+                                venue["id"],
+                                imdb_title_id,
+                                date.year,
+                                date.month,
+                                date.day,
+                                hour,
+                                minute,
+                            ),
+                        )
+                        event.add("summary", f"{title}{suffix}")
+                        event.add(
+                            "location", "{}, {}".format(venue["name"], venue["address"])
+                        )
 
-                    # Description
-                    data = self.title_info[imdb_title_id]
-                    description = []
-                    hours, minutes = divmod(runtime, 60)
-                    description.append(
-                        f"Duration: {hours}h {minutes:02d}m ({runtime} mins)"
-                    )
-                    description.append(data["description"])
-                    description.append(data["url"])
-                    description.append(f"IMDb: {data['aggregateRating']['ratingValue']}")
-                    event.add("description", "\n\n".join(description))
+                        # Calculate times
+                        start = datetime.datetime(
+                            year=date.year,
+                            month=date.month,
+                            day=date.day,
+                            hour=hour,
+                            minute=minute,
+                            tzinfo=pytz.timezone(venue["timezone"]),
+                        )
+                        end = start + datetime.timedelta(
+                            minutes=self.PADDING + self.round_to_nearest(runtime, 5)
+                        )
+                        event.add("dtstamp", start)
+                        event.add("dtstart", start)
+                        event.add("dtend", end)
 
-                    cal.add_component(event)
+                        # Description
+                        data = self.title_info[imdb_title_id]
+                        description = []
+                        hours, minutes = divmod(runtime, 60)
+                        description.append(
+                            f"Duration: {hours}h {minutes:02d}m ({runtime} mins)"
+                        )
+                        description.append(data["description"])
+                        description.append(data["url"])
+                        description.append(f"IMDb: {data['aggregateRating']['ratingValue']}")
+                        event.add("description", "\n\n".join(description))
 
-                    num_events_date += 1
-                    num_events_venue += 1
+                        cal.add_component(event)
+
+                        num_events_date += 1
+                        num_events_venue += 1
 
             logging.debug(
                 f"Found {num_events_date} events for {venue['name']} on {date}"
