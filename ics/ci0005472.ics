@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230711T111710Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230712T063248Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mad Max 2 (1981)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230711T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230711T213000
-DTSTAMP;VALUE=DATE-TIME:20230712T032300Z
-UID:ci0005472-tt0082694--2023-7-11-19-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nIn the post-apocalyptic Australi
- an wasteland\, a cynical drifter agrees to help a small\, gasoline-rich co
- mmunity escape a horde of bandits.\n\nhttps://www.imdb.com/title/tt0082694
- /\n\nIMDb: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tommy (1975)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230712T193000
@@ -25,8 +12,8 @@ DTSTAMP;VALUE=DATE-TIME:20230713T032300Z
 UID:ci0005472-tt0073812--2023-7-12-19-30
 DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA psychosomatically blind\, dea
  f\, and mute boy becomes a master pinball player and\, subsequently\, the 
- figurehead of a cult.\n\nhttps://www.imdb.com/title/tt0073812/\n\nIMDb: 6.
- 6
+ figurehead of a cult.\n\nhttps://www.imdb.com/title/tt0073812/\n\nIMDb rat
+ ing: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -39,7 +26,7 @@ UID:ci0005472-tt0082694--2023-7-13-19-30
 DESCRIPTION:Duration: 1h 36m (96 mins)\n\nIn the post-apocalyptic Australi
  an wasteland\, a cynical drifter agrees to help a small\, gasoline-rich co
  mmunity escape a horde of bandits.\n\nhttps://www.imdb.com/title/tt0082694
- /\n\nIMDb: 7.6
+ /\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -53,7 +40,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
  BI agent undergoes facial transplant surgery to assume the identity of the
   criminal mastermind who murdered his only son\, but the criminal wakes up
   prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb: 7.3
+ \nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -65,8 +52,8 @@ DTSTAMP;VALUE=DATE-TIME:20230716T032300Z
 UID:ci0005472-tt6044414--2023-7-15-19-30
 DESCRIPTION:Duration: 1h 08m (68 mins)\n\nA mild-mannered doctor is traine
  d in the art of ass-kicking commando vengeance by a no-nonsense ghetto kid
-  named Wesley Snipes.\n\nhttps://www.imdb.com/title/tt6044414/\n\nIMDb: 7.
- 4
+  named Wesley Snipes.\n\nhttps://www.imdb.com/title/tt6044414/\n\nIMDb rat
+ ing: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -79,7 +66,8 @@ UID:ci0005472-tt1813757--2023-7-15-15-45
 DESCRIPTION:Duration: 1h 04m (64 mins)\n\nUganda's president gives Captain
   Alex an assignment to defeat the Tiger Mafia\, but he gets killed in the 
  process. Upon hearing the tragic news\, his brother investigates to avenge
-  Alex's death..\n\nhttps://www.imdb.com/title/tt1813757/\n\nIMDb: 7.9
+  Alex's death..\n\nhttps://www.imdb.com/title/tt1813757/\n\nIMDb rating: 7
+ .9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -93,7 +81,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
  BI agent undergoes facial transplant surgery to assume the identity of the
   criminal mastermind who murdered his only son\, but the criminal wakes up
   prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb: 7.3
+ \nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -107,7 +95,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
  BI agent undergoes facial transplant surgery to assume the identity of the
   criminal mastermind who murdered his only son\, but the criminal wakes up
   prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb: 7.3
+ \nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -120,7 +108,8 @@ UID:ci0005472-tt1813757--2023-7-17-21-0
 DESCRIPTION:Duration: 1h 04m (64 mins)\n\nUganda's president gives Captain
   Alex an assignment to defeat the Tiger Mafia\, but he gets killed in the 
  process. Upon hearing the tragic news\, his brother investigates to avenge
-  Alex's death..\n\nhttps://www.imdb.com/title/tt1813757/\n\nIMDb: 7.9
+  Alex's death..\n\nhttps://www.imdb.com/title/tt1813757/\n\nIMDb rating: 7
+ .9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -134,7 +123,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
  BI agent undergoes facial transplant surgery to assume the identity of the
   criminal mastermind who murdered his only son\, but the criminal wakes up
   prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb: 7.3
+ \nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -146,8 +135,8 @@ DTSTAMP;VALUE=DATE-TIME:20230720T045300Z
 UID:ci0005472-tt6044414--2023-7-19-21-0
 DESCRIPTION:Duration: 1h 08m (68 mins)\n\nA mild-mannered doctor is traine
  d in the art of ass-kicking commando vengeance by a no-nonsense ghetto kid
-  named Wesley Snipes.\n\nhttps://www.imdb.com/title/tt6044414/\n\nIMDb: 7.
- 4
+  named Wesley Snipes.\n\nhttps://www.imdb.com/title/tt6044414/\n\nIMDb rat
+ ing: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -161,7 +150,31 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
  BI agent undergoes facial transplant surgery to assume the identity of the
   criminal mastermind who murdered his only son\, but the criminal wakes up
   prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb: 7.3
+ \nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road House (1989)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T213000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T234500
+DTSTAMP;VALUE=DATE-TIME:20230722T052300Z
+UID:ci0005472-tt0098206--2023-7-21-21-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA tough bouncer is hired to tam
+ e a dirty bar.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb rating: 6.
+ 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Squaring the Circle (The Story of Hipgnosis)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T190000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T210500
+DTSTAMP;VALUE=DATE-TIME:20230722T025300Z
+UID:ci0005472-tt10850264--2023-7-21-19-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
+ gn studio\, Hipgnosis\, who created some of the most iconic album covers o
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
