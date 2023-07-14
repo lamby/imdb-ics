@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230713T082535Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230714T074712Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mad Max 2 (1981)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230713T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230713T213000
-DTSTAMP;VALUE=DATE-TIME:20230714T032300Z
-UID:ci0005472-tt0082694--2023-7-13-19-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nIn the post-apocalyptic Australi
- an wasteland\, a cynical drifter agrees to help a small\, gasoline-rich co
- mmunity escape a horde of bandits.\n\nhttps://www.imdb.com/title/tt0082694
- /\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Face/Off (1997)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230714T193000
@@ -207,6 +194,54 @@ DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T140000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T160500
 DTSTAMP;VALUE=DATE-TIME:20230722T215300Z
 UID:ci0005472-tt10850264--2023-7-22-14-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
+ gn studio\, Hipgnosis\, who created some of the most iconic album covers o
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Here. Is. Better. (2021)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T130000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T145500
+DTSTAMP;VALUE=DATE-TIME:20230723T205300Z
+UID:ci0005472-tt15287832--2023-7-23-13-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe inspiring stories of four me
+ n and women military veterans overcoming PTSD with breakthrough new treatm
+ ents.\n\nhttps://www.imdb.com/title/tt15287832/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point Break (1991)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T153000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T175500
+DTSTAMP;VALUE=DATE-TIME:20230723T232300Z
+UID:ci0005472-tt0102685--2023-7-23-15-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
+  to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
+ om/title/tt0102685/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road House (1989)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T180000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T201500
+DTSTAMP;VALUE=DATE-TIME:20230724T015300Z
+UID:ci0005472-tt0098206--2023-7-23-18-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA tough bouncer is hired to tam
+ e a dirty bar.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb rating: 6.
+ 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Squaring the Circle (The Story of Hipgnosis)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T203000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T223500
+DTSTAMP;VALUE=DATE-TIME:20230724T042300Z
+UID:ci0005472-tt10850264--2023-7-23-20-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
  f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
