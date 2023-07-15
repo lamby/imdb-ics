@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230714T074712Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230715T074555Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Face/Off (1997)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230714T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230714T221000
-DTSTAMP;VALUE=DATE-TIME:20230715T032300Z
-UID:ci0005472-tt0119094--2023-7-14-19-30
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
- BI agent undergoes facial transplant surgery to assume the identity of the
-  criminal mastermind who murdered his only son\, but the criminal wakes up
-  prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bad Black (2016)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230715T193000
@@ -242,6 +228,18 @@ DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T203000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T223500
 DTSTAMP;VALUE=DATE-TIME:20230724T042300Z
 UID:ci0005472-tt10850264--2023-7-23-20-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
+ gn studio\, Hipgnosis\, who created some of the most iconic album covers o
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Squaring the Circle (The Story of Hipgnosis)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230724T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230724T213500
+DTSTAMP;VALUE=DATE-TIME:20230725T032300Z
+UID:ci0005472-tt10850264--2023-7-24-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
  f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
