@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230715T074555Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230716T075215Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bad Black (2016)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230715T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230715T210000
-DTSTAMP;VALUE=DATE-TIME:20230716T032300Z
-UID:ci0005472-tt6044414--2023-7-15-19-30
-DESCRIPTION:Duration: 1h 08m (68 mins)\n\nA mild-mannered doctor is traine
- d in the art of ass-kicking commando vengeance by a no-nonsense ghetto kid
-  named Wesley Snipes.\n\nhttps://www.imdb.com/title/tt6044414/\n\nIMDb rat
- ing: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Killed Captain Alex? (2015)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230715T154500
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230715T171000
-DTSTAMP;VALUE=DATE-TIME:20230715T233800Z
-UID:ci0005472-tt1813757--2023-7-15-15-45
-DESCRIPTION:Duration: 1h 04m (64 mins)\n\nUganda's president gives Captain
-  Alex an assignment to defeat the Tiger Mafia\, but he gets killed in the 
- process. Upon hearing the tragic news\, his brother investigates to avenge
-  Alex's death..\n\nhttps://www.imdb.com/title/tt1813757/\n\nIMDb rating: 7
- .9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Face/Off (1997)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230716T150000
@@ -139,18 +112,6 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Here. Is. Better. (2021)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T163000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T182500
-DTSTAMP;VALUE=DATE-TIME:20230723T002300Z
-UID:ci0005472-tt15287832--2023-7-22-16-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe inspiring stories of four me
- n and women military veterans overcoming PTSD with breakthrough new treatm
- ents.\n\nhttps://www.imdb.com/title/tt15287832/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Point Break (1991)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T190000
 DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T212500
@@ -183,18 +144,6 @@ UID:ci0005472-tt10850264--2023-7-22-14-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
  f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Here. Is. Better. (2021)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T130000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T145500
-DTSTAMP;VALUE=DATE-TIME:20230723T205300Z
-UID:ci0005472-tt15287832--2023-7-23-13-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe inspiring stories of four me
- n and women military veterans overcoming PTSD with breakthrough new treatm
- ents.\n\nhttps://www.imdb.com/title/tt15287832/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -243,6 +192,18 @@ UID:ci0005472-tt10850264--2023-7-24-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
  f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point Break (1991)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230725T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230725T215500
+DTSTAMP;VALUE=DATE-TIME:20230726T032300Z
+UID:ci0005472-tt0102685--2023-7-25-19-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
+  to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
+ om/title/tt0102685/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
