@@ -1,78 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230716T075215Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230720T075631Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Face/Off (1997)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230716T150000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230716T174000
-DTSTAMP;VALUE=DATE-TIME:20230716T225300Z
-UID:ci0005472-tt0119094--2023-7-16-15-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
- BI agent undergoes facial transplant surgery to assume the identity of the
-  criminal mastermind who murdered his only son\, but the criminal wakes up
-  prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Face/Off (1997)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230716T203000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230716T231000
-DTSTAMP;VALUE=DATE-TIME:20230717T042300Z
-UID:ci0005472-tt0119094--2023-7-16-20-30
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
- BI agent undergoes facial transplant surgery to assume the identity of the
-  criminal mastermind who murdered his only son\, but the criminal wakes up
-  prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Killed Captain Alex? (2015)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230717T210000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230717T222500
-DTSTAMP;VALUE=DATE-TIME:20230718T045300Z
-UID:ci0005472-tt1813757--2023-7-17-21-0
-DESCRIPTION:Duration: 1h 04m (64 mins)\n\nUganda's president gives Captain
-  Alex an assignment to defeat the Tiger Mafia\, but he gets killed in the 
- process. Upon hearing the tragic news\, his brother investigates to avenge
-  Alex's death..\n\nhttps://www.imdb.com/title/tt1813757/\n\nIMDb rating: 7
- .9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Face/Off (1997)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230718T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230718T221000
-DTSTAMP;VALUE=DATE-TIME:20230719T032300Z
-UID:ci0005472-tt0119094--2023-7-18-19-30
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
- BI agent undergoes facial transplant surgery to assume the identity of the
-  criminal mastermind who murdered his only son\, but the criminal wakes up
-  prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bad Black (2016)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230719T210000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230719T223000
-DTSTAMP;VALUE=DATE-TIME:20230720T045300Z
-UID:ci0005472-tt6044414--2023-7-19-21-0
-DESCRIPTION:Duration: 1h 08m (68 mins)\n\nA mild-mannered doctor is traine
- d in the art of ass-kicking commando vengeance by a no-nonsense ghetto kid
-  named Wesley Snipes.\n\nhttps://www.imdb.com/title/tt6044414/\n\nIMDb rat
- ing: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Face/Off (1997)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230720T193000
@@ -80,10 +11,9 @@ DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230720T221000
 DTSTAMP;VALUE=DATE-TIME:20230721T032300Z
 UID:ci0005472-tt0119094--2023-7-20-19-30
 DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, an F
- BI agent undergoes facial transplant surgery to assume the identity of the
-  criminal mastermind who murdered his only son\, but the criminal wakes up
-  prematurely and seeks revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n
- \nIMDb rating: 7.3
+ BI agent assumes the identity of the criminal who murdered his son through
+  facial transplant surgery\, but the crook wakes up prematurely and vows r
+ evenge.\n\nhttps://www.imdb.com/title/tt0119094/\n\nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -107,7 +37,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T025300Z
 UID:ci0005472-tt10850264--2023-7-21-19-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -143,7 +73,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T215300Z
 UID:ci0005472-tt10850264--2023-7-22-14-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -179,7 +109,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T042300Z
 UID:ci0005472-tt10850264--2023-7-23-20-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -191,7 +121,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T032300Z
 UID:ci0005472-tt10850264--2023-7-24-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.2
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -204,6 +134,93 @@ UID:ci0005472-tt0102685--2023-7-25-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
   to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
  om/title/tt0102685/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Squaring the Circle (The Story of Hipgnosis)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230726T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230726T213500
+DTSTAMP;VALUE=DATE-TIME:20230727T032300Z
+UID:ci0005472-tt10850264--2023-7-26-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
+ gn studio\, Hipgnosis\, who created some of the most iconic album covers o
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point Break (1991)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230727T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230727T215500
+DTSTAMP;VALUE=DATE-TIME:20230728T032300Z
+UID:ci0005472-tt0102685--2023-7-27-19-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
+  to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
+ om/title/tt0102685/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dazed and Confused (1993)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T190000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T210500
+DTSTAMP;VALUE=DATE-TIME:20230729T025300Z
+UID:ci0005472-tt0106677--2023-7-28-19-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
+ nd junior high students on the last day of school in May 1976.\n\nhttps://
+ www.imdb.com/title/tt0106677/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hit (2020)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T211500
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T234000
+DTSTAMP;VALUE=DATE-TIME:20230729T050800Z
+UID:ci0005472-tt11490170--2023-7-28-21-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAn officer of the 'Homicide Int
+ ervention Team' who frequently suffers from having his panic attacks does 
+ everything in his power to rescue a woman who went missing.\n\nhttps://www
+ .imdb.com/title/tt11490170/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dazed and Confused (1993)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T163000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T183500
+DTSTAMP;VALUE=DATE-TIME:20230730T002300Z
+UID:ci0005472-tt0106677--2023-7-29-16-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
+ nd junior high students on the last day of school in May 1976.\n\nhttps://
+ www.imdb.com/title/tt0106677/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Have You Got It Yet? The Story of Syd Barrett and Pink Floyd
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T190000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T205500
+DTSTAMP;VALUE=DATE-TIME:20230730T025300Z
+UID:ci0005472-tt7182482--2023-7-29-19-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nFollow the moment Barrett was ki
+ cked out of Pink Floyd\, from the narrative of him going from groundbreaki
+ ng musician to iconic rocker and manic\, unstable star.\n\nhttps://www.imd
+ b.com/title/tt7182482/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hit (2020)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T211500
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T234000
+DTSTAMP;VALUE=DATE-TIME:20230730T050800Z
+UID:ci0005472-tt11490170--2023-7-29-21-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAn officer of the 'Homicide Int
+ ervention Team' who frequently suffers from having his panic attacks does 
+ everything in his power to rescue a woman who went missing.\n\nhttps://www
+ .imdb.com/title/tt11490170/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
