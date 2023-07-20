@@ -185,9 +185,12 @@ class ImdbICS:
 
                 self.populate_title_info(imdb_title_id)
 
-                runtime = self.parse_duration(
-                    self.attr(elem, "time[itemprop=duration]", "datetime")
-                )
+                try:
+                    runtime = self.parse_duration(
+                        self.attr(elem, "time[itemprop=duration]", "datetime")
+                    )
+                except IndexError:
+                    runtime = 120
 
                 for group in elem.select("h5.li_group"):
                     suffix = group.text.replace("Showtimes", "").strip().rstrip(":")
