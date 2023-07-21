@@ -1,7 +1,126 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230720T075710Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230721T070750Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Decoder (1984)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T220000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T235000
+DTSTAMP;VALUE=DATE-TIME:20230722T055300Z
+UID:ci1024213-tt0087129--2023-7-21-22-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA noise enthusiast discovers tha
+ t by changing the background music from pleasantly calming to industrial &
+ quot\;noise&quot\; music\, he can incite riots and a revolution against th
+ e looming power of the government.\n\nhttps://www.imdb.com/title/tt0087129
+ /\n\nIMDb rating: 6.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invasion of the Body Snatchers (1978)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T190000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T211500
+DTSTAMP;VALUE=DATE-TIME:20230722T025300Z
+UID:ci1024213-tt0077745--2023-7-21-19-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen strange seeds drift to ear
+ th from space\, mysterious pods begin to grow and invade San Francisco\, r
+ eplicating the city's residents one body at a time.\n\nhttps://www.imdb.co
+ m/title/tt0077745/\n\nIMDb rating: 7.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Double (1984)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T211500
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T233000
+DTSTAMP;VALUE=DATE-TIME:20230723T050800Z
+UID:ci1024213-tt0086984--2023-7-22-21-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA young actor's obsession with 
+ spying on a beautiful woman who lives nearby leads to a baffling series of
+  events with drastic consequences.\n\nhttps://www.imdb.com/title/tt0086984
+ /\n\nIMDb rating: 6.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy a Gets a Mattress
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T160000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T182000
+DTSTAMP;VALUE=DATE-TIME:20230722T235300Z
+UID:ci1024213-tt28437326--2023-7-22-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
+ 437326/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poison for the Fairies (1986)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T190000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T205000
+DTSTAMP;VALUE=DATE-TIME:20230723T025300Z
+UID:ci1024213-tt0135033--2023-7-22-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA 10 year old girl convinces a l
+ onely classmate that she is a witch\, forcing the child to become her assi
+ stant. Though their games are initially rather naive\, they gradually take
+  a nasty and violent turn.\n\nhttps://www.imdb.com/title/tt0135033/\n\nIMD
+ b rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Revolution 2 (1969)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T170000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T185000
+DTSTAMP;VALUE=DATE-TIME:20230724T005300Z
+UID:ci1024213-tt0477558--2023-7-23-17-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA gritty but essential documenta
+ ry charting social turbulence in late 1960's Chicago. American Revolution 
+ 2 includes footage of the 1968 Democratic Convention protest and riot\, a 
+ critique of the events by working class African-Ame...\n\nhttps://www.imdb
+ .com/title/tt0477558/\n\nIMDb rating: 6.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rope (1948)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T140000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T154000
+DTSTAMP;VALUE=DATE-TIME:20230723T215300Z
+UID:ci1024213-tt0040746--2023-7-23-14-0
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTwo men attempt to prove they co
+ mmitted the perfect crime by hosting a dinner party after strangling their
+  former classmate to death.\n\nhttps://www.imdb.com/title/tt0040746/\n\nIM
+ Db rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junior Bonner (1972)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230724T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230724T213000
+DTSTAMP;VALUE=DATE-TIME:20230725T032300Z
+UID:ci1024213-tt0068786--2023-7-24-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAce Bonner returns to Arizona s
+ everal years after he abandoned his family\, Junior Bonner is a wild young
+  man. Against the typical rodeo championship\, family drama erupts.\n\nhtt
+ ps://www.imdb.com/title/tt0068786/\n\nIMDb rating: 6.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Long Goodbye (1973)
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230725T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230725T214500
+DTSTAMP;VALUE=DATE-TIME:20230726T032300Z
+UID:ci1024213-tt0070334--2023-7-25-19-30
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nPrivate investigator Philip Mar
+ lowe helps a friend out of a jam\, but in doing so gets implicated in his 
+ wife's murder.\n\nhttps://www.imdb.com/title/tt0070334/\n\nIMDb rating: 7.
+ 5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy a Gets a Mattress
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230727T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230727T215000
+DTSTAMP;VALUE=DATE-TIME:20230728T032300Z
+UID:ci1024213-tt28437326--2023-7-27-19-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
+ 437326/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
 END:VCALENDAR
