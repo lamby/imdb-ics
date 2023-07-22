@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230721T070750Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230722T074011Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Decoder (1984)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T220000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T235000
-DTSTAMP;VALUE=DATE-TIME:20230722T055300Z
-UID:ci1024213-tt0087129--2023-7-21-22-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA noise enthusiast discovers tha
- t by changing the background music from pleasantly calming to industrial &
- quot\;noise&quot\; music\, he can incite riots and a revolution against th
- e looming power of the government.\n\nhttps://www.imdb.com/title/tt0087129
- /\n\nIMDb rating: 6.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers (1978)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T190000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T211500
-DTSTAMP;VALUE=DATE-TIME:20230722T025300Z
-UID:ci1024213-tt0077745--2023-7-21-19-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen strange seeds drift to ear
- th from space\, mysterious pods begin to grow and invade San Francisco\, r
- eplicating the city's residents one body at a time.\n\nhttps://www.imdb.co
- m/title/tt0077745/\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Body Double (1984)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T211500

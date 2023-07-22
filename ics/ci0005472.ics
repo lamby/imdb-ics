@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230721T070650Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230722T073726Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Road House (1989)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T213000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T234500
-DTSTAMP;VALUE=DATE-TIME:20230722T052300Z
-UID:ci0005472-tt0098206--2023-7-21-21-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA tough bouncer is hired to tam
- e a dirty bar.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb rating: 6.
- 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Squaring the Circle (The Story of Hipgnosis)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T190000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230721T210500
-DTSTAMP;VALUE=DATE-TIME:20230722T025300Z
-UID:ci0005472-tt10850264--2023-7-21-19-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
- gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Here. Is. Better. (2021)
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T163000
@@ -270,6 +246,19 @@ DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAn officer of the 'Homicide Int
  ervention Team' who frequently suffers from having his panic attacks does 
  everything in his power to rescue a woman who went missing.\n\nhttps://www
  .imdb.com/title/tt11490170/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Have You Got It Yet? The Story of Syd Barrett and Pink Floyd
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230731T193000
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230731T212500
+DTSTAMP;VALUE=DATE-TIME:20230801T032300Z
+UID:ci0005472-tt7182482--2023-7-31-19-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nFollow the moment Barrett was ki
+ cked out of Pink Floyd\, from the narrative of him going from groundbreaki
+ ng musician to iconic rocker and manic\, unstable star.\n\nhttps://www.imd
+ b.com/title/tt7182482/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

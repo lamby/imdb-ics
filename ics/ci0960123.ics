@@ -1,123 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230721T070551Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230722T073646Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T080000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T101500
-DTSTAMP;VALUE=DATE-TIME:20230721T080100Z
-UID:ci0960123-tt1517268--2023-7-21-8-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T231000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T012500
-DTSTAMP;VALUE=DATE-TIME:20230721T231100Z
-UID:ci0960123-tt1517268--2023-7-21-23-10
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T102500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T123000
-DTSTAMP;VALUE=DATE-TIME:20230721T102600Z
-UID:ci0960123-tt15789038--2023-7-21-10-25
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
- ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
- ://www.imdb.com/title/tt15789038/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T150500
-DTSTAMP;VALUE=DATE-TIME:20230721T130100Z
-UID:ci0960123-tt15789038--2023-7-21-13-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Ember and Wade\, in a c
- ity where fire-\, water-\, land- and air-residents live together.\n\nhttps
- ://www.imdb.com/title/tt15789038/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T122000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T151500
-DTSTAMP;VALUE=DATE-TIME:20230721T122100Z
-UID:ci0960123-tt1462764--2023-7-21-12-20
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: The Red Door
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T232500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T013500
-DTSTAMP;VALUE=DATE-TIME:20230721T232600Z
-UID:ci0960123-tt13405778--2023-7-21-23-25
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
- o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb rating: 6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T160500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T191000
-DTSTAMP;VALUE=DATE-TIME:20230721T160600Z
-UID:ci0960123-tt9603212--2023-7-21-16-5
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
- t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb rating: 8.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T230000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T020500
-DTSTAMP;VALUE=DATE-TIME:20230721T230100Z
-UID:ci0960123-tt9603212--2023-7-21-23-0
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
- t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb rating: 8.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ruby Gillman\, Teenage Kraken
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T090000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T105500
-DTSTAMP;VALUE=DATE-TIME:20230721T090100Z
-UID:ci0960123-tt27155038--2023-7-21-9-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA shy adolescent learns that she
-  comes from a fabled royal family of legendary sea krakens and that her de
- stiny lies in the depths of the waters\, which is bigger than she could ha
- ve ever imagined.\n\nhttps://www.imdb.com/title/tt27155038/\n\nIMDb rating
- : 5.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T225500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T013500
-DTSTAMP;VALUE=DATE-TIME:20230721T225600Z
-UID:ci0960123-tt9362722--2023-7-21-22-55
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nMiles Morales catapults across 
- the Multiverse\, where he encounters a team of Spider-People charged with 
- protecting its very existence. When the heroes clash on how to handle a ne
- w threat\, Miles must redefine what it means to be a ...\n\nhttps://www.im
- db.com/title/tt9362722/\n\nIMDb rating: 8.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T080000
@@ -126,7 +12,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T080100Z
 UID:ci0960123-tt1517268--2023-7-22-8-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +23,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T090600Z
 UID:ci0960123-tt1517268--2023-7-22-9-5
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -148,7 +34,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T094600Z
 UID:ci0960123-tt1517268--2023-7-22-9-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +45,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T103100Z
 UID:ci0960123-tt1517268--2023-7-22-10-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -170,7 +56,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T110100Z
 UID:ci0960123-tt1517268--2023-7-22-11-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -181,7 +67,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T220100Z
 UID:ci0960123-tt1517268--2023-7-22-22-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -192,7 +78,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T224100Z
 UID:ci0960123-tt1517268--2023-7-22-22-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -203,7 +89,7 @@ DTSTAMP;VALUE=DATE-TIME:20230722T232600Z
 UID:ci0960123-tt1517268--2023-7-22-23-25
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -334,7 +220,7 @@ DTSTAMP;VALUE=DATE-TIME:20230723T080100Z
 UID:ci0960123-tt1517268--2023-7-23-8-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -345,7 +231,7 @@ DTSTAMP;VALUE=DATE-TIME:20230723T094600Z
 UID:ci0960123-tt1517268--2023-7-23-9-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -356,7 +242,7 @@ DTSTAMP;VALUE=DATE-TIME:20230723T103100Z
 UID:ci0960123-tt1517268--2023-7-23-10-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -367,7 +253,7 @@ DTSTAMP;VALUE=DATE-TIME:20230723T110100Z
 UID:ci0960123-tt1517268--2023-7-23-11-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -378,7 +264,7 @@ DTSTAMP;VALUE=DATE-TIME:20230723T220100Z
 UID:ci0960123-tt1517268--2023-7-23-22-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -389,7 +275,7 @@ DTSTAMP;VALUE=DATE-TIME:20230723T223600Z
 UID:ci0960123-tt1517268--2023-7-23-22-35
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -534,7 +420,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T090100Z
 UID:ci0960123-tt1517268--2023-7-24-9-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -545,7 +431,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T092100Z
 UID:ci0960123-tt1517268--2023-7-24-9-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -556,7 +442,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T102600Z
 UID:ci0960123-tt1517268--2023-7-24-10-25
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -567,7 +453,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T112100Z
 UID:ci0960123-tt1517268--2023-7-24-11-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -578,7 +464,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T114600Z
 UID:ci0960123-tt1517268--2023-7-24-11-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -589,7 +475,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T122100Z
 UID:ci0960123-tt1517268--2023-7-24-12-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -600,7 +486,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T131100Z
 UID:ci0960123-tt1517268--2023-7-24-13-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -611,7 +497,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T134100Z
 UID:ci0960123-tt1517268--2023-7-24-13-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -622,7 +508,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T143100Z
 UID:ci0960123-tt1517268--2023-7-24-14-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -633,7 +519,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T150600Z
 UID:ci0960123-tt1517268--2023-7-24-15-5
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +530,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T155600Z
 UID:ci0960123-tt1517268--2023-7-24-15-55
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -655,7 +541,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T163600Z
 UID:ci0960123-tt1517268--2023-7-24-16-35
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -666,7 +552,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T204600Z
 UID:ci0960123-tt1517268--2023-7-24-20-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -677,7 +563,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T212100Z
 UID:ci0960123-tt1517268--2023-7-24-21-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -688,7 +574,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T220100Z
 UID:ci0960123-tt1517268--2023-7-24-22-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -699,7 +585,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T224100Z
 UID:ci0960123-tt1517268--2023-7-24-22-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -833,7 +719,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T093100Z
 UID:ci0960123-tt15398776--2023-7-24-9-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -844,7 +730,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T133100Z
 UID:ci0960123-tt15398776--2023-7-24-13-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +741,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T171600Z
 UID:ci0960123-tt15398776--2023-7-24-17-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -866,7 +752,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T191600Z
 UID:ci0960123-tt15398776--2023-7-24-19-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -877,7 +763,7 @@ DTSTAMP;VALUE=DATE-TIME:20230724T201600Z
 UID:ci0960123-tt15398776--2023-7-24-20-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -941,7 +827,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
   famous fictional play about a grieving father who travels with his tech-o
  bsessed family to small rural Asteroid City to compete in a junior stargaz
  ing event\, only to have his world view disrupted fo...\n\nhttps://www.imd
- b.com/title/tt14230388/\n\nIMDb rating: 6.9
+ b.com/title/tt14230388/\n\nIMDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -952,7 +838,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T090100Z
 UID:ci0960123-tt1517268--2023-7-25-9-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +849,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T092100Z
 UID:ci0960123-tt1517268--2023-7-25-9-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -974,7 +860,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T102600Z
 UID:ci0960123-tt1517268--2023-7-25-10-25
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -985,7 +871,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T111600Z
 UID:ci0960123-tt1517268--2023-7-25-11-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -996,7 +882,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T114600Z
 UID:ci0960123-tt1517268--2023-7-25-11-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,7 +893,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T122100Z
 UID:ci0960123-tt1517268--2023-7-25-12-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1018,7 +904,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T131100Z
 UID:ci0960123-tt1517268--2023-7-25-13-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1029,7 +915,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T134600Z
 UID:ci0960123-tt1517268--2023-7-25-13-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1040,7 +926,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T143100Z
 UID:ci0960123-tt1517268--2023-7-25-14-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1051,7 +937,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T150600Z
 UID:ci0960123-tt1517268--2023-7-25-15-5
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1062,7 +948,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T160100Z
 UID:ci0960123-tt1517268--2023-7-25-16-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1073,7 +959,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T164100Z
 UID:ci0960123-tt1517268--2023-7-25-16-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1084,7 +970,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T173100Z
 UID:ci0960123-tt1517268--2023-7-25-17-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,7 +981,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T204600Z
 UID:ci0960123-tt1517268--2023-7-25-20-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1106,7 +992,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T211600Z
 UID:ci0960123-tt1517268--2023-7-25-21-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1117,7 +1003,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T220100Z
 UID:ci0960123-tt1517268--2023-7-25-22-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1128,7 +1014,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T224100Z
 UID:ci0960123-tt1517268--2023-7-25-22-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1240,7 +1126,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T093100Z
 UID:ci0960123-tt15398776--2023-7-25-9-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1251,7 +1137,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T133100Z
 UID:ci0960123-tt15398776--2023-7-25-13-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1262,7 +1148,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T154600Z
 UID:ci0960123-tt15398776--2023-7-25-15-45
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1273,7 +1159,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T191600Z
 UID:ci0960123-tt15398776--2023-7-25-19-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1284,7 +1170,7 @@ DTSTAMP;VALUE=DATE-TIME:20230725T202100Z
 UID:ci0960123-tt15398776--2023-7-25-20-20
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1347,7 +1233,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
   famous fictional play about a grieving father who travels with his tech-o
  bsessed family to small rural Asteroid City to compete in a junior stargaz
  ing event\, only to have his world view disrupted fo...\n\nhttps://www.imd
- b.com/title/tt14230388/\n\nIMDb rating: 6.9
+ b.com/title/tt14230388/\n\nIMDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1358,7 +1244,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T090100Z
 UID:ci0960123-tt1517268--2023-7-26-9-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1369,7 +1255,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T092100Z
 UID:ci0960123-tt1517268--2023-7-26-9-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1380,7 +1266,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T100600Z
 UID:ci0960123-tt1517268--2023-7-26-10-5
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1391,7 +1277,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T110600Z
 UID:ci0960123-tt1517268--2023-7-26-11-5
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1402,7 +1288,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T114600Z
 UID:ci0960123-tt1517268--2023-7-26-11-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1413,7 +1299,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T121600Z
 UID:ci0960123-tt1517268--2023-7-26-12-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1424,7 +1310,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T131600Z
 UID:ci0960123-tt1517268--2023-7-26-13-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1435,7 +1321,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T143100Z
 UID:ci0960123-tt1517268--2023-7-26-14-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1446,7 +1332,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T160100Z
 UID:ci0960123-tt1517268--2023-7-26-16-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1457,7 +1343,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T204600Z
 UID:ci0960123-tt1517268--2023-7-26-20-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1468,7 +1354,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T211100Z
 UID:ci0960123-tt1517268--2023-7-26-21-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1479,7 +1365,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T213100Z
 UID:ci0960123-tt1517268--2023-7-26-21-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1490,7 +1376,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T222100Z
 UID:ci0960123-tt1517268--2023-7-26-22-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1622,7 +1508,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T093100Z
 UID:ci0960123-tt15398776--2023-7-26-9-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1633,7 +1519,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T133100Z
 UID:ci0960123-tt15398776--2023-7-26-13-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1644,7 +1530,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T151100Z
 UID:ci0960123-tt15398776--2023-7-26-15-10
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1655,7 +1541,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T171600Z
 UID:ci0960123-tt15398776--2023-7-26-17-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1666,7 +1552,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T191600Z
 UID:ci0960123-tt15398776--2023-7-26-19-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1677,7 +1563,7 @@ DTSTAMP;VALUE=DATE-TIME:20230726T201600Z
 UID:ci0960123-tt15398776--2023-7-26-20-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1727,7 +1613,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
   famous fictional play about a grieving father who travels with his tech-o
  bsessed family to small rural Asteroid City to compete in a junior stargaz
  ing event\, only to have his world view disrupted fo...\n\nhttps://www.imd
- b.com/title/tt14230388/\n\nIMDb rating: 6.9
+ b.com/title/tt14230388/\n\nIMDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1738,7 +1624,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T090100Z
 UID:ci0960123-tt1517268--2023-7-27-9-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1749,7 +1635,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T102100Z
 UID:ci0960123-tt1517268--2023-7-27-10-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1760,7 +1646,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T114600Z
 UID:ci0960123-tt1517268--2023-7-27-11-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1771,7 +1657,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T121600Z
 UID:ci0960123-tt1517268--2023-7-27-12-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1782,7 +1668,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T130100Z
 UID:ci0960123-tt1517268--2023-7-27-13-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1793,7 +1679,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T134600Z
 UID:ci0960123-tt1517268--2023-7-27-13-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1804,7 +1690,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T143100Z
 UID:ci0960123-tt1517268--2023-7-27-14-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1815,7 +1701,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T152600Z
 UID:ci0960123-tt1517268--2023-7-27-15-25
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1826,7 +1712,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T163100Z
 UID:ci0960123-tt1517268--2023-7-27-16-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1837,7 +1723,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T180600Z
 UID:ci0960123-tt1517268--2023-7-27-18-5
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1848,7 +1734,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T184600Z
 UID:ci0960123-tt1517268--2023-7-27-18-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1859,7 +1745,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T194600Z
 UID:ci0960123-tt1517268--2023-7-27-19-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1870,7 +1756,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T204600Z
 UID:ci0960123-tt1517268--2023-7-27-20-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1881,7 +1767,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T213100Z
 UID:ci0960123-tt1517268--2023-7-27-21-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1892,7 +1778,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T224100Z
 UID:ci0960123-tt1517268--2023-7-27-22-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1991,7 +1877,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T093100Z
 UID:ci0960123-tt15398776--2023-7-27-9-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2002,7 +1888,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T115600Z
 UID:ci0960123-tt15398776--2023-7-27-11-55
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2013,7 +1899,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T133100Z
 UID:ci0960123-tt15398776--2023-7-27-13-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2024,7 +1910,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T150100Z
 UID:ci0960123-tt15398776--2023-7-27-15-0
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2035,7 +1921,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T161600Z
 UID:ci0960123-tt15398776--2023-7-27-16-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2046,7 +1932,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T171600Z
 UID:ci0960123-tt15398776--2023-7-27-17-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2057,7 +1943,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T191600Z
 UID:ci0960123-tt15398776--2023-7-27-19-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2068,7 +1954,7 @@ DTSTAMP;VALUE=DATE-TIME:20230727T201600Z
 UID:ci0960123-tt15398776--2023-7-27-20-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2129,7 +2015,7 @@ DTSTAMP;VALUE=DATE-TIME:20230728T140100Z
 UID:ci0960123-tt1517268--2023-7-28-14-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2140,7 +2026,7 @@ DTSTAMP;VALUE=DATE-TIME:20230728T170100Z
 UID:ci0960123-tt1517268--2023-7-28-17-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2151,7 +2037,7 @@ DTSTAMP;VALUE=DATE-TIME:20230728T200100Z
 UID:ci0960123-tt1517268--2023-7-28-20-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2188,7 +2074,7 @@ DTSTAMP;VALUE=DATE-TIME:20230729T140100Z
 UID:ci0960123-tt1517268--2023-7-29-14-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2199,7 +2085,7 @@ DTSTAMP;VALUE=DATE-TIME:20230729T170100Z
 UID:ci0960123-tt1517268--2023-7-29-17-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2210,7 +2096,7 @@ DTSTAMP;VALUE=DATE-TIME:20230729T200100Z
 UID:ci0960123-tt1517268--2023-7-29-20-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2221,7 +2107,7 @@ DTSTAMP;VALUE=DATE-TIME:20230729T191600Z
 UID:ci0960123-tt15398776--2023-7-29-19-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2258,7 +2144,7 @@ DTSTAMP;VALUE=DATE-TIME:20230730T140100Z
 UID:ci0960123-tt1517268--2023-7-30-14-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2269,7 +2155,7 @@ DTSTAMP;VALUE=DATE-TIME:20230730T170100Z
 UID:ci0960123-tt1517268--2023-7-30-17-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2280,7 +2166,7 @@ DTSTAMP;VALUE=DATE-TIME:20230730T200100Z
 UID:ci0960123-tt1517268--2023-7-30-20-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.8
+ itle/tt1517268/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2291,7 +2177,7 @@ DTSTAMP;VALUE=DATE-TIME:20230730T191600Z
 UID:ci0960123-tt15398776--2023-7-30-19-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 9
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2330,6 +2216,63 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA plumber named Mario travels th
  rough an underground labyrinth with his brother\, Luigi\, trying to save a
   captured princess.\n\nhttps://www.imdb.com/title/tt6718170/\n\nIMDb ratin
  g: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230731T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230731T161500
+DTSTAMP;VALUE=DATE-TIME:20230731T140100Z
+UID:ci0960123-tt1517268--2023-7-31-14-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230731T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230731T191500
+DTSTAMP;VALUE=DATE-TIME:20230731T170100Z
+UID:ci0960123-tt1517268--2023-7-31-17-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230731T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230731T221500
+DTSTAMP;VALUE=DATE-TIME:20230731T200100Z
+UID:ci0960123-tt1517268--2023-7-31-20-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230731T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230731T223500
+DTSTAMP;VALUE=DATE-TIME:20230731T191600Z
+UID:ci0960123-tt15398776--2023-7-31-19-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lego Movie (2014)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230731T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230731T153000
+DTSTAMP;VALUE=DATE-TIME:20230731T133100Z
+UID:ci0960123-tt1490017--2023-7-31-13-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAn ordinary LEGO construction w
+ orker\, thought to be the prophesied as &quot\;special&quot\;\, is recruit
+ ed to join a quest to stop an evil tyrant from gluing the LEGO universe in
+ to eternal stasis.\n\nhttps://www.imdb.com/title/tt1490017/\n\nIMDb rating
+ : 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 END:VCALENDAR
