@@ -1,62 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230722T073726Z
+LAST-MODIFIED:20230723T080559Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
 SUMMARY:Here. Is. Better. (2021)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T163000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T182500
-DTSTAMP;VALUE=DATE-TIME:20230723T002300Z
-UID:ci0005472-tt15287832--2023-7-22-16-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe inspiring stories of four me
- n and women military veterans overcoming PTSD with breakthrough new treatm
- ents.\n\nhttps://www.imdb.com/title/tt15287832/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Point Break (1991)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T190000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T212500
-DTSTAMP;VALUE=DATE-TIME:20230723T025300Z
-UID:ci0005472-tt0102685--2023-7-22-19-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
-  to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
- om/title/tt0102685/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Road House (1989)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T213000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T234500
-DTSTAMP;VALUE=DATE-TIME:20230723T052300Z
-UID:ci0005472-tt0098206--2023-7-22-21-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA tough bouncer is hired to tam
- e a dirty bar.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb rating: 6.
- 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Squaring the Circle (The Story of Hipgnosis)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T140000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230722T160500
-DTSTAMP;VALUE=DATE-TIME:20230722T215300Z
-UID:ci0005472-tt10850264--2023-7-22-14-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
- gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Here. Is. Better. (2021)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T130000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T145500
-DTSTAMP;VALUE=DATE-TIME:20230723T205300Z
+DTSTART;TZID=America/Los_Angeles:20230723T130000
+DTEND;TZID=America/Los_Angeles:20230723T145500
+DTSTAMP:20230723T205300Z
 UID:ci0005472-tt15287832--2023-7-23-13-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe inspiring stories of four me
  n and women military veterans overcoming PTSD with breakthrough new treatm
@@ -66,9 +18,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Point Break (1991)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T153000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T175500
-DTSTAMP;VALUE=DATE-TIME:20230723T232300Z
+DTSTART;TZID=America/Los_Angeles:20230723T153000
+DTEND;TZID=America/Los_Angeles:20230723T175500
+DTSTAMP:20230723T232300Z
 UID:ci0005472-tt0102685--2023-7-23-15-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
   to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
@@ -78,9 +30,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Road House (1989)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T180000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T201500
-DTSTAMP;VALUE=DATE-TIME:20230724T015300Z
+DTSTART;TZID=America/Los_Angeles:20230723T180000
+DTEND;TZID=America/Los_Angeles:20230723T201500
+DTSTAMP:20230724T015300Z
 UID:ci0005472-tt0098206--2023-7-23-18-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA tough bouncer is hired to tam
  e a dirty bar.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb rating: 6.
@@ -90,9 +42,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Squaring the Circle (The Story of Hipgnosis)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T203000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230723T223500
-DTSTAMP;VALUE=DATE-TIME:20230724T042300Z
+DTSTART;TZID=America/Los_Angeles:20230723T203000
+DTEND;TZID=America/Los_Angeles:20230723T223500
+DTSTAMP:20230724T042300Z
 UID:ci0005472-tt10850264--2023-7-23-20-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
@@ -102,9 +54,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Squaring the Circle (The Story of Hipgnosis)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230724T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230724T213500
-DTSTAMP;VALUE=DATE-TIME:20230725T032300Z
+DTSTART;TZID=America/Los_Angeles:20230724T193000
+DTEND;TZID=America/Los_Angeles:20230724T213500
+DTSTAMP:20230725T032300Z
 UID:ci0005472-tt10850264--2023-7-24-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
@@ -114,9 +66,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Point Break (1991)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230725T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230725T215500
-DTSTAMP;VALUE=DATE-TIME:20230726T032300Z
+DTSTART;TZID=America/Los_Angeles:20230725T193000
+DTEND;TZID=America/Los_Angeles:20230725T215500
+DTSTAMP:20230726T032300Z
 UID:ci0005472-tt0102685--2023-7-25-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
   to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
@@ -126,9 +78,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Squaring the Circle (The Story of Hipgnosis)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230726T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230726T213500
-DTSTAMP;VALUE=DATE-TIME:20230727T032300Z
+DTSTART;TZID=America/Los_Angeles:20230726T193000
+DTEND;TZID=America/Los_Angeles:20230726T213500
+DTSTAMP:20230727T032300Z
 UID:ci0005472-tt10850264--2023-7-26-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
@@ -138,9 +90,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Point Break (1991)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230727T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230727T215500
-DTSTAMP;VALUE=DATE-TIME:20230728T032300Z
+DTSTART;TZID=America/Los_Angeles:20230727T193000
+DTEND;TZID=America/Los_Angeles:20230727T215500
+DTSTAMP:20230728T032300Z
 UID:ci0005472-tt0102685--2023-7-27-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
   to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
@@ -150,9 +102,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dazed and Confused (1993)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T190000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T210500
-DTSTAMP;VALUE=DATE-TIME:20230729T025300Z
+DTSTART;TZID=America/Los_Angeles:20230728T190000
+DTEND;TZID=America/Los_Angeles:20230728T210500
+DTSTAMP:20230729T025300Z
 UID:ci0005472-tt0106677--2023-7-28-19-0
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
  nd junior high students on the last day of school in May 1976.\n\nhttps://
@@ -162,9 +114,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hit (2020)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T211500
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230728T234000
-DTSTAMP;VALUE=DATE-TIME:20230729T050800Z
+DTSTART;TZID=America/Los_Angeles:20230728T211500
+DTEND;TZID=America/Los_Angeles:20230728T234000
+DTSTAMP:20230729T050800Z
 UID:ci0005472-tt11490170--2023-7-28-21-15
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAn officer of the 'Homicide Int
  ervention Team' who frequently suffers from having his panic attacks does 
@@ -175,9 +127,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dazed and Confused (1993)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T163000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T183500
-DTSTAMP;VALUE=DATE-TIME:20230730T002300Z
+DTSTART;TZID=America/Los_Angeles:20230729T163000
+DTEND;TZID=America/Los_Angeles:20230729T183500
+DTSTAMP:20230730T002300Z
 UID:ci0005472-tt0106677--2023-7-29-16-30
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
  nd junior high students on the last day of school in May 1976.\n\nhttps://
@@ -187,9 +139,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Have You Got It Yet? The Story of Syd Barrett and Pink Floyd
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T190000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T205500
-DTSTAMP;VALUE=DATE-TIME:20230730T025300Z
+DTSTART;TZID=America/Los_Angeles:20230729T190000
+DTEND;TZID=America/Los_Angeles:20230729T205500
+DTSTAMP:20230730T025300Z
 UID:ci0005472-tt7182482--2023-7-29-19-0
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nFollow the moment Barrett was ki
  cked out of Pink Floyd\, from the narrative of him going from groundbreaki
@@ -200,9 +152,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hit (2020)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T211500
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230729T234000
-DTSTAMP;VALUE=DATE-TIME:20230730T050800Z
+DTSTART;TZID=America/Los_Angeles:20230729T211500
+DTEND;TZID=America/Los_Angeles:20230729T234000
+DTSTAMP:20230730T050800Z
 UID:ci0005472-tt11490170--2023-7-29-21-15
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAn officer of the 'Homicide Int
  ervention Team' who frequently suffers from having his panic attacks does 
@@ -213,9 +165,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dazed and Confused (1993)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230730T174500
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230730T195000
-DTSTAMP;VALUE=DATE-TIME:20230731T013800Z
+DTSTART;TZID=America/Los_Angeles:20230730T174500
+DTEND;TZID=America/Los_Angeles:20230730T195000
+DTSTAMP:20230731T013800Z
 UID:ci0005472-tt0106677--2023-7-30-17-45
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
  nd junior high students on the last day of school in May 1976.\n\nhttps://
@@ -225,9 +177,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Have You Got It Yet? The Story of Syd Barrett and Pink Floyd
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230730T153000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230730T172500
-DTSTAMP;VALUE=DATE-TIME:20230730T232300Z
+DTSTART;TZID=America/Los_Angeles:20230730T153000
+DTEND;TZID=America/Los_Angeles:20230730T172500
+DTSTAMP:20230730T232300Z
 UID:ci0005472-tt7182482--2023-7-30-15-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nFollow the moment Barrett was ki
  cked out of Pink Floyd\, from the narrative of him going from groundbreaki
@@ -238,9 +190,9 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hit (2020)
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230730T200000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230730T222500
-DTSTAMP;VALUE=DATE-TIME:20230731T035300Z
+DTSTART;TZID=America/Los_Angeles:20230730T200000
+DTEND;TZID=America/Los_Angeles:20230730T222500
+DTSTAMP:20230731T035300Z
 UID:ci0005472-tt11490170--2023-7-30-20-0
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAn officer of the 'Homicide Int
  ervention Team' who frequently suffers from having his panic attacks does 
@@ -251,14 +203,26 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Have You Got It Yet? The Story of Syd Barrett and Pink Floyd
-DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230731T193000
-DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20230731T212500
-DTSTAMP;VALUE=DATE-TIME:20230801T032300Z
+DTSTART;TZID=America/Los_Angeles:20230731T193000
+DTEND;TZID=America/Los_Angeles:20230731T212500
+DTSTAMP:20230801T032300Z
 UID:ci0005472-tt7182482--2023-7-31-19-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nFollow the moment Barrett was ki
  cked out of Pink Floyd\, from the narrative of him going from groundbreaki
  ng musician to iconic rocker and manic\, unstable star.\n\nhttps://www.imd
  b.com/title/tt7182482/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dazed and Confused (1993)
+DTSTART;TZID=America/Los_Angeles:20230801T210000
+DTEND;TZID=America/Los_Angeles:20230801T230500
+DTSTAMP:20230802T045300Z
+UID:ci0005472-tt0106677--2023-8-1-21-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
+ nd junior high students on the last day of school in May 1976.\n\nhttps://
+ www.imdb.com/title/tt0106677/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
