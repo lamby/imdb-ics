@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230723T080635Z
+LAST-MODIFIED:20230724T064718Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:American Revolution 2 (1969)
-DTSTART;TZID=America/Los_Angeles:20230723T170000
-DTEND;TZID=America/Los_Angeles:20230723T185000
-DTSTAMP:20230724T005300Z
-UID:ci1024213-tt0477558--2023-7-23-17-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA gritty but essential documenta
- ry charting social turbulence in late 1960's Chicago. American Revolution 
- 2 includes footage of the 1968 Democratic Convention protest and riot\, a 
- critique of the events by working class African-Ame...\n\nhttps://www.imdb
- .com/title/tt0477558/\n\nIMDb rating: 6.7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rope (1948)
-DTSTART;TZID=America/Los_Angeles:20230723T140000
-DTEND;TZID=America/Los_Angeles:20230723T154000
-DTSTAMP:20230723T215300Z
-UID:ci1024213-tt0040746--2023-7-23-14-0
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTwo men attempt to prove they co
- mmitted the perfect crime by hosting a dinner party after strangling their
-  former classmate to death.\n\nhttps://www.imdb.com/title/tt0040746/\n\nIM
- Db rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Junior Bonner (1972)
 DTSTART;TZID=America/Los_Angeles:20230724T193000
