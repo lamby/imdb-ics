@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230724T064650Z
+LAST-MODIFIED:20230725T074412Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Squaring the Circle (The Story of Hipgnosis)
-DTSTART;TZID=America/Los_Angeles:20230724T193000
-DTEND;TZID=America/Los_Angeles:20230724T213500
-DTSTAMP:20230725T032300Z
-UID:ci0005472-tt10850264--2023-7-24-19-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
- gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Point Break (1991)
 DTSTART;TZID=America/Los_Angeles:20230725T193000
@@ -188,6 +176,18 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nFollow the moment Barrett was ki
  cked out of Pink Floyd\, from the narrative of him going from groundbreaki
  ng musician to iconic rocker and manic\, unstable star.\n\nhttps://www.imd
  b.com/title/tt7182482/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dazed and Confused (1993)
+DTSTART;TZID=America/Los_Angeles:20230803T190000
+DTEND;TZID=America/Los_Angeles:20230803T210500
+DTSTAMP:20230804T025300Z
+UID:ci0005472-tt0106677--2023-8-3-19-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
+ nd junior high students on the last day of school in May 1976.\n\nhttps://
+ www.imdb.com/title/tt0106677/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
