@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230725T074440Z
+LAST-MODIFIED:20230726T054656Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Long Goodbye (1973)
-DTSTART;TZID=America/Los_Angeles:20230725T193000
-DTEND;TZID=America/Los_Angeles:20230725T214500
-DTSTAMP:20230726T032300Z
-UID:ci1024213-tt0070334--2023-7-25-19-30
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nPrivate investigator Philip Mar
- lowe helps a friend out of a jam\, but in doing so gets implicated in his 
- wife's murder.\n\nhttps://www.imdb.com/title/tt0070334/\n\nIMDb rating: 7.
- 5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fantasy a Gets a Mattress
 DTSTART;TZID=America/Los_Angeles:20230727T193000

@@ -1,75 +1,89 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230725T074407Z
+LAST-MODIFIED:20230726T054611Z
 NAME:Arts Picturehouse\, Cambridge
 X-WR-CALNAME:Arts Picturehouse\, Cambridge
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230725T114000
-DTEND;TZID=Europe/London:20230725T135500
-DTSTAMP:20230725T114100Z
-UID:ci0959484-tt1517268--2023-7-25-11-40
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.6
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London:20230726T115000
+DTEND;TZID=Europe/London:20230726T135500
+DTSTAMP:20230726T115100Z
+UID:ci0959484-tt14230388--2023-7-26-11-50
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
+  famous fictional play about a grieving father who travels with his tech-o
+ bsessed family to small rural Asteroid City to compete in a junior stargaz
+ ing event\, only to have his world view disrupted fo...\n\nhttps://www.imd
+ b.com/title/tt14230388/\n\nIMDb rating: 6.8
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230725T124500
-DTEND;TZID=Europe/London:20230725T150000
-DTSTAMP:20230725T124600Z
-UID:ci0959484-tt1517268--2023-7-25-12-45
+DTSTART;TZID=Europe/London:20230726T124500
+DTEND;TZID=Europe/London:20230726T150000
+DTSTAMP:20230726T124600Z
+UID:ci0959484-tt1517268--2023-7-26-12-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.6
+ itle/tt1517268/\n\nIMDb rating: 7.5
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230725T151500
-DTEND;TZID=Europe/London:20230725T173000
-DTSTAMP:20230725T151600Z
-UID:ci0959484-tt1517268--2023-7-25-15-15
+DTSTART;TZID=Europe/London:20230726T151500
+DTEND;TZID=Europe/London:20230726T173000
+DTSTAMP:20230726T151600Z
+UID:ci0959484-tt1517268--2023-7-26-15-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.6
+ itle/tt1517268/\n\nIMDb rating: 7.5
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230725T174500
-DTEND;TZID=Europe/London:20230725T200000
-DTSTAMP:20230725T174600Z
-UID:ci0959484-tt1517268--2023-7-25-17-45
+DTSTART;TZID=Europe/London:20230726T174500
+DTEND;TZID=Europe/London:20230726T200000
+DTSTAMP:20230726T174600Z
+UID:ci0959484-tt1517268--2023-7-26-17-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.6
+ itle/tt1517268/\n\nIMDb rating: 7.5
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230725T201500
-DTEND;TZID=Europe/London:20230725T223000
-DTSTAMP:20230725T201600Z
-UID:ci0959484-tt1517268--2023-7-25-20-15
+DTSTART;TZID=Europe/London:20230726T201500
+DTEND;TZID=Europe/London:20230726T223000
+DTSTAMP:20230726T201600Z
+UID:ci0959484-tt1517268--2023-7-26-20-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.6
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London:20230726T203000
+DTEND;TZID=Europe/London:20230726T232500
+DTSTAMP:20230726T203100Z
+UID:ci0959484-tt1462764--2023-7-26-20-30
+DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
+ es against time to retrieve a legendary artifact that can change the cours
+ e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb rating: 6.8
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230725T121500
-DTEND;TZID=Europe/London:20230725T153500
-DTSTAMP:20230725T121600Z
-UID:ci0959484-tt15398776--2023-7-25-12-15
+DTSTART;TZID=Europe/London:20230726T121500
+DTEND;TZID=Europe/London:20230726T153500
+DTSTAMP:20230726T121600Z
+UID:ci0959484-tt15398776--2023-7-26-12-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
  \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
@@ -78,10 +92,84 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230725T142000
-DTEND;TZID=Europe/London:20230725T174000
-DTSTAMP:20230725T142100Z
-UID:ci0959484-tt15398776--2023-7-25-14-20
+DTSTART;TZID=Europe/London:20230726T141500
+DTEND;TZID=Europe/London:20230726T173500
+DTSTAMP:20230726T141600Z
+UID:ci0959484-tt15398776--2023-7-26-14-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London:20230727T115000
+DTEND;TZID=Europe/London:20230727T135500
+DTSTAMP:20230727T115100Z
+UID:ci0959484-tt14230388--2023-7-27-11-50
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nFollowing a writer on his world
+  famous fictional play about a grieving father who travels with his tech-o
+ bsessed family to small rural Asteroid City to compete in a junior stargaz
+ ing event\, only to have his world view disrupted fo...\n\nhttps://www.imd
+ b.com/title/tt14230388/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230727T124500
+DTEND;TZID=Europe/London:20230727T150000
+DTSTAMP:20230727T124600Z
+UID:ci0959484-tt1517268--2023-7-27-12-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230727T151500
+DTEND;TZID=Europe/London:20230727T173000
+DTSTAMP:20230727T151600Z
+UID:ci0959484-tt1517268--2023-7-27-15-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230727T174500
+DTEND;TZID=Europe/London:20230727T200000
+DTSTAMP:20230727T174600Z
+UID:ci0959484-tt1517268--2023-7-27-17-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230727T201500
+DTEND;TZID=Europe/London:20230727T223000
+DTSTAMP:20230727T201600Z
+UID:ci0959484-tt1517268--2023-7-27-20-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230727T121500
+DTEND;TZID=Europe/London:20230727T153500
+DTSTAMP:20230727T121600Z
+UID:ci0959484-tt15398776--2023-7-27-12-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
  \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
@@ -90,13 +178,801 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230725T180000
-DTEND;TZID=Europe/London:20230725T212000
-DTSTAMP:20230725T180100Z
-UID:ci0959484-tt15398776--2023-7-25-18-0
+DTSTART;TZID=Europe/London:20230727T141500
+DTEND;TZID=Europe/London:20230727T173500
+DTSTAMP:20230727T141600Z
+UID:ci0959484-tt15398776--2023-7-27-14-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
   J. Robert Oppenheimer and his role in the development of the atomic bomb.
  \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230727T180000
+DTEND;TZID=Europe/London:20230727T212000
+DTSTAMP:20230727T180100Z
+UID:ci0959484-tt15398776--2023-7-27-18-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230728T104500
+DTEND;TZID=Europe/London:20230728T130000
+DTSTAMP:20230728T104600Z
+UID:ci0959484-tt1517268--2023-7-28-10-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230728T131500
+DTEND;TZID=Europe/London:20230728T153000
+DTSTAMP:20230728T131600Z
+UID:ci0959484-tt1517268--2023-7-28-13-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230728T151000
+DTEND;TZID=Europe/London:20230728T172500
+DTSTAMP:20230728T151100Z
+UID:ci0959484-tt1517268--2023-7-28-15-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230728T174500
+DTEND;TZID=Europe/London:20230728T200000
+DTSTAMP:20230728T174600Z
+UID:ci0959484-tt1517268--2023-7-28-17-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230728T202000
+DTEND;TZID=Europe/London:20230728T223500
+DTSTAMP:20230728T202100Z
+UID:ci0959484-tt1517268--2023-7-28-20-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230728T214000
+DTEND;TZID=Europe/London:20230728T235500
+DTSTAMP:20230728T214100Z
+UID:ci0959484-tt1517268--2023-7-28-21-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions: The Rise of Gru
+DTSTART;TZID=Europe/London:20230728T120000
+DTEND;TZID=Europe/London:20230728T135000
+DTSTAMP:20230728T120100Z
+UID:ci0959484-tt5113044--2023-7-28-12-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe untold story of one twelve-y
+ ear-old's dream to become the world's greatest supervillain.\n\nhttps://ww
+ w.imdb.com/title/tt5113044/\n\nIMDb rating: 6.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230728T113000
+DTEND;TZID=Europe/London:20230728T145000
+DTSTAMP:20230728T113100Z
+UID:ci0959484-tt15398776--2023-7-28-11-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230728T141500
+DTEND;TZID=Europe/London:20230728T173500
+DTSTAMP:20230728T141600Z
+UID:ci0959484-tt15398776--2023-7-28-14-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230728T180000
+DTEND;TZID=Europe/London:20230728T212000
+DTSTAMP:20230728T180100Z
+UID:ci0959484-tt15398776--2023-7-28-18-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230729T110000
+DTEND;TZID=Europe/London:20230729T131500
+DTSTAMP:20230729T110100Z
+UID:ci0959484-tt1517268--2023-7-29-11-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230729T131500
+DTEND;TZID=Europe/London:20230729T153000
+DTSTAMP:20230729T131600Z
+UID:ci0959484-tt1517268--2023-7-29-13-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230729T151000
+DTEND;TZID=Europe/London:20230729T172500
+DTSTAMP:20230729T151100Z
+UID:ci0959484-tt1517268--2023-7-29-15-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230729T174500
+DTEND;TZID=Europe/London:20230729T200000
+DTSTAMP:20230729T174600Z
+UID:ci0959484-tt1517268--2023-7-29-17-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230729T202000
+DTEND;TZID=Europe/London:20230729T223500
+DTSTAMP:20230729T202100Z
+UID:ci0959484-tt1517268--2023-7-29-20-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230729T211000
+DTEND;TZID=Europe/London:20230729T232500
+DTSTAMP:20230729T211100Z
+UID:ci0959484-tt1517268--2023-7-29-21-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions: The Rise of Gru
+DTSTART;TZID=Europe/London:20230729T110000
+DTEND;TZID=Europe/London:20230729T125000
+DTSTAMP:20230729T110100Z
+UID:ci0959484-tt5113044--2023-7-29-11-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe untold story of one twelve-y
+ ear-old's dream to become the world's greatest supervillain.\n\nhttps://ww
+ w.imdb.com/title/tt5113044/\n\nIMDb rating: 6.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230729T113000
+DTEND;TZID=Europe/London:20230729T145000
+DTSTAMP:20230729T113100Z
+UID:ci0959484-tt15398776--2023-7-29-11-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230729T134500
+DTEND;TZID=Europe/London:20230729T170500
+DTSTAMP:20230729T134600Z
+UID:ci0959484-tt15398776--2023-7-29-13-45
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230729T173000
+DTEND;TZID=Europe/London:20230729T205000
+DTSTAMP:20230729T173100Z
+UID:ci0959484-tt15398776--2023-7-29-17-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey (1968)
+DTSTART;TZID=Europe/London:20230730T160000
+DTEND;TZID=Europe/London:20230730T185000
+DTSTAMP:20230730T160100Z
+UID:ci0959484-tt0062622--2023-7-30-16-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAfter uncovering a mysterious a
+ rtifact buried beneath the Lunar surface\, a spacecraft is sent to Jupiter
+  to find its origins - a spacecraft manned by two men and the supercompute
+ r H.A.L. 9000.\n\nhttps://www.imdb.com/title/tt0062622/\n\nIMDb rating: 8.
+ 3
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230730T120000
+DTEND;TZID=Europe/London:20230730T141500
+DTSTAMP:20230730T120100Z
+UID:ci0959484-tt1517268--2023-7-30-12-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230730T141500
+DTEND;TZID=Europe/London:20230730T163000
+DTSTAMP:20230730T141600Z
+UID:ci0959484-tt1517268--2023-7-30-14-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230730T174000
+DTEND;TZID=Europe/London:20230730T195500
+DTSTAMP:20230730T174100Z
+UID:ci0959484-tt1517268--2023-7-30-17-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230730T201500
+DTEND;TZID=Europe/London:20230730T223000
+DTSTAMP:20230730T201600Z
+UID:ci0959484-tt1517268--2023-7-30-20-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230730T203000
+DTEND;TZID=Europe/London:20230730T224500
+DTSTAMP:20230730T203100Z
+UID:ci0959484-tt1517268--2023-7-30-20-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out (2015)
+DTSTART;TZID=Europe/London:20230730T120000
+DTEND;TZID=Europe/London:20230730T135500
+DTSTAMP:20230730T120100Z
+UID:ci0959484-tt2096673--2023-7-30-12-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAfter young Riley is uprooted fr
+ om her Midwest life and moved to San Francisco\, her emotions - Joy\, Fear
+ \, Anger\, Disgust and Sadness - conflict on how best to navigate a new ci
+ ty\, house\, and school.\n\nhttps://www.imdb.com/title/tt2096673/\n\nIMDb 
+ rating: 8.1
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230730T165000
+DTEND;TZID=Europe/London:20230730T201000
+DTSTAMP:20230730T165100Z
+UID:ci0959484-tt15398776--2023-7-30-16-50
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Favourite (2018)
+DTSTART;TZID=Europe/London:20230730T150000
+DTEND;TZID=Europe/London:20230730T172000
+DTSTAMP:20230730T150100Z
+UID:ci0959484-tt5083738--2023-7-30-15-0
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nIn early 18th-century England\,
+  the status quo at the court is upset when a new servant arrives and endea
+ rs herself to a frail Queen Anne.\n\nhttps://www.imdb.com/title/tt5083738/
+ \n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230731T123000
+DTEND;TZID=Europe/London:20230731T144500
+DTSTAMP:20230731T123100Z
+UID:ci0959484-tt1517268--2023-7-31-12-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230731T151500
+DTEND;TZID=Europe/London:20230731T173000
+DTSTAMP:20230731T151600Z
+UID:ci0959484-tt1517268--2023-7-31-15-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230731T180000
+DTEND;TZID=Europe/London:20230731T201500
+DTSTAMP:20230731T180100Z
+UID:ci0959484-tt1517268--2023-7-31-18-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230731T204000
+DTEND;TZID=Europe/London:20230731T225500
+DTSTAMP:20230731T204100Z
+UID:ci0959484-tt1517268--2023-7-31-20-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230731T212000
+DTEND;TZID=Europe/London:20230731T233500
+DTSTAMP:20230731T212100Z
+UID:ci0959484-tt1517268--2023-7-31-21-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions: The Rise of Gru
+DTSTART;TZID=Europe/London:20230731T113000
+DTEND;TZID=Europe/London:20230731T132000
+DTSTAMP:20230731T113100Z
+UID:ci0959484-tt5113044--2023-7-31-11-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe untold story of one twelve-y
+ ear-old's dream to become the world's greatest supervillain.\n\nhttps://ww
+ w.imdb.com/title/tt5113044/\n\nIMDb rating: 6.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230731T120000
+DTEND;TZID=Europe/London:20230731T152000
+DTSTAMP:20230731T120100Z
+UID:ci0959484-tt15398776--2023-7-31-12-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230731T134500
+DTEND;TZID=Europe/London:20230731T170500
+DTSTAMP:20230731T134600Z
+UID:ci0959484-tt15398776--2023-7-31-13-45
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230731T174000
+DTEND;TZID=Europe/London:20230731T210000
+DTSTAMP:20230731T174100Z
+UID:ci0959484-tt15398776--2023-7-31-17-40
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230801T113000
+DTEND;TZID=Europe/London:20230801T134500
+DTSTAMP:20230801T113100Z
+UID:ci0959484-tt1517268--2023-8-1-11-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230801T123000
+DTEND;TZID=Europe/London:20230801T144500
+DTSTAMP:20230801T123100Z
+UID:ci0959484-tt1517268--2023-8-1-12-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230801T151500
+DTEND;TZID=Europe/London:20230801T173000
+DTSTAMP:20230801T151600Z
+UID:ci0959484-tt1517268--2023-8-1-15-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230801T180000
+DTEND;TZID=Europe/London:20230801T201500
+DTSTAMP:20230801T180100Z
+UID:ci0959484-tt1517268--2023-8-1-18-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230801T204000
+DTEND;TZID=Europe/London:20230801T225500
+DTSTAMP:20230801T204100Z
+UID:ci0959484-tt1517268--2023-8-1-20-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joy Ride
+DTSTART;TZID=Europe/London:20230801T212000
+DTEND;TZID=Europe/London:20230801T231500
+DTSTAMP:20230801T212100Z
+UID:ci0959484-tt15268244--2023-8-1-21-20
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nFollows four Chinese-American fr
+ iends as they bond and discover the truth of what it means to know and lov
+ e who you are\, while they travel through China in search of one of their 
+ birth mothers.\n\nhttps://www.imdb.com/title/tt15268244/\n\nIMDb rating: 7
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230801T121500
+DTEND;TZID=Europe/London:20230801T153500
+DTSTAMP:20230801T121600Z
+UID:ci0959484-tt15398776--2023-8-1-12-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230801T140000
+DTEND;TZID=Europe/London:20230801T172000
+DTSTAMP:20230801T140100Z
+UID:ci0959484-tt15398776--2023-8-1-14-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230801T174500
+DTEND;TZID=Europe/London:20230801T210500
+DTSTAMP:20230801T174600Z
+UID:ci0959484-tt15398776--2023-8-1-17-45
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230802T123000
+DTEND;TZID=Europe/London:20230802T144500
+DTSTAMP:20230802T123100Z
+UID:ci0959484-tt1517268--2023-8-2-12-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230802T151500
+DTEND;TZID=Europe/London:20230802T173000
+DTSTAMP:20230802T151600Z
+UID:ci0959484-tt1517268--2023-8-2-15-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230802T180000
+DTEND;TZID=Europe/London:20230802T201500
+DTSTAMP:20230802T180100Z
+UID:ci0959484-tt1517268--2023-8-2-18-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230802T204000
+DTEND;TZID=Europe/London:20230802T225500
+DTSTAMP:20230802T204100Z
+UID:ci0959484-tt1517268--2023-8-2-20-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions: The Rise of Gru
+DTSTART;TZID=Europe/London:20230802T113000
+DTEND;TZID=Europe/London:20230802T132000
+DTSTAMP:20230802T113100Z
+UID:ci0959484-tt5113044--2023-8-2-11-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe untold story of one twelve-y
+ ear-old's dream to become the world's greatest supervillain.\n\nhttps://ww
+ w.imdb.com/title/tt5113044/\n\nIMDb rating: 6.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230802T120000
+DTEND;TZID=Europe/London:20230802T152000
+DTSTAMP:20230802T120100Z
+UID:ci0959484-tt15398776--2023-8-2-12-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230802T140000
+DTEND;TZID=Europe/London:20230802T172000
+DTSTAMP:20230802T140100Z
+UID:ci0959484-tt15398776--2023-8-2-14-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230802T183000
+DTEND;TZID=Europe/London:20230802T215000
+DTSTAMP:20230802T183100Z
+UID:ci0959484-tt15398776--2023-8-2-18-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230803T123000
+DTEND;TZID=Europe/London:20230803T144500
+DTSTAMP:20230803T123100Z
+UID:ci0959484-tt1517268--2023-8-3-12-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230803T151500
+DTEND;TZID=Europe/London:20230803T173000
+DTSTAMP:20230803T151600Z
+UID:ci0959484-tt1517268--2023-8-3-15-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230803T180000
+DTEND;TZID=Europe/London:20230803T201500
+DTSTAMP:20230803T180100Z
+UID:ci0959484-tt1517268--2023-8-3-18-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230803T203000
+DTEND;TZID=Europe/London:20230803T224500
+DTSTAMP:20230803T203100Z
+UID:ci0959484-tt1517268--2023-8-3-20-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230803T204000
+DTEND;TZID=Europe/London:20230803T225500
+DTSTAMP:20230803T204100Z
+UID:ci0959484-tt1517268--2023-8-3-20-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions: The Rise of Gru
+DTSTART;TZID=Europe/London:20230803T113000
+DTEND;TZID=Europe/London:20230803T132000
+DTSTAMP:20230803T113100Z
+UID:ci0959484-tt5113044--2023-8-3-11-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe untold story of one twelve-y
+ ear-old's dream to become the world's greatest supervillain.\n\nhttps://ww
+ w.imdb.com/title/tt5113044/\n\nIMDb rating: 6.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230803T120000
+DTEND;TZID=Europe/London:20230803T152000
+DTSTAMP:20230803T120100Z
+UID:ci0959484-tt15398776--2023-8-3-12-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230803T134500
+DTEND;TZID=Europe/London:20230803T170500
+DTSTAMP:20230803T134600Z
+UID:ci0959484-tt15398776--2023-8-3-13-45
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reinventing Elvis: The '68 Comeback
+DTSTART;TZID=Europe/London:20230803T174000
+DTEND;TZID=Europe/London:20230803T194000
+DTSTAMP:20230803T174100Z
+UID:ci0959484-tt12525482--2023-8-3-17-40
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nELVIS and STEVE - true buddy sto
+ ry highlights Binder's nexus w/ Elvis to accomplish the game changer resul
+ t. The authentic\, real telling of conflicts w/Col Parker to produce one o
+ f the most seminal moments in pop music history.\n\nhttps://www.imdb.com/t
+ itle/tt12525482/
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT

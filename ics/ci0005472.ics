@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230725T074412Z
+LAST-MODIFIED:20230726T054626Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Point Break (1991)
-DTSTART;TZID=America/Los_Angeles:20230725T193000
-DTEND;TZID=America/Los_Angeles:20230725T215500
-DTSTAMP:20230726T032300Z
-UID:ci0005472-tt0102685--2023-7-25-19-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
-  to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
- om/title/tt0102685/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Squaring the Circle (The Story of Hipgnosis)
 DTSTART;TZID=America/Los_Angeles:20230726T193000
@@ -24,7 +12,7 @@ DTSTAMP:20230727T032300Z
 UID:ci0005472-tt10850264--2023-7-26-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
  gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 8.1
+ f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 7.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -188,6 +176,33 @@ UID:ci0005472-tt0106677--2023-8-3-19-0
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
  nd junior high students on the last day of school in May 1976.\n\nhttps://
  www.imdb.com/title/tt0106677/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bobi Wine: The People's President
+DTSTART;TZID=America/Los_Angeles:20230804T190000
+DTEND;TZID=America/Los_Angeles:20230804T212500
+DTSTAMP:20230805T025300Z
+UID:ci0005472-tt21376900--2023-8-4-19-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
+ er\, activist and musical star Bobi Wine. He used his music to fight the r
+ egime led by Yoweri Museveni\, the person who led the country for 35 years
+ .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Class of 1999 (1990)
+DTSTART;TZID=America/Los_Angeles:20230804T213000
+DTEND;TZID=America/Los_Angeles:20230804T233000
+DTSTAMP:20230805T052300Z
+UID:ci0005472-tt0099277--2023-8-4-21-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThree ex-military robots are rep
+ rogrammed as teachers and secretly placed in a school where most students 
+ are part of organized gangs. They begin to respond violently to unruly stu
+ dents\, and their military training starts to take ...\n\nhttps://www.imdb
+ .com/title/tt0099277/\n\nIMDb rating: 5.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
