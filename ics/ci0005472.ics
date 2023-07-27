@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230726T060218Z
+LAST-MODIFIED:20230727T064854Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Squaring the Circle (The Story of Hipgnosis)
-DTSTART;TZID=America/Los_Angeles:20230726T193000
-DTEND;TZID=America/Los_Angeles:20230726T213500
-DTSTAMP:20230727T032300Z
-UID:ci0005472-tt10850264--2023-7-26-19-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of the album art desi
- gn studio\, Hipgnosis\, who created some of the most iconic album covers o
- f all time.\n\nhttps://www.imdb.com/title/tt10850264/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Point Break (1991)
 DTSTART;TZID=America/Los_Angeles:20230727T193000
@@ -203,6 +191,46 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThree ex-military robots are rep
  are part of organized gangs. They begin to respond violently to unruly stu
  dents\, and their military training starts to take ...\n\nhttps://www.imdb
  .com/title/tt0099277/\n\nIMDb rating: 5.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bobi Wine: The People's President
+DTSTART;TZID=America/Los_Angeles:20230805T160000
+DTEND;TZID=America/Los_Angeles:20230805T182500
+DTSTAMP:20230805T235300Z
+UID:ci0005472-tt21376900--2023-8-5-16-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
+ er\, activist and musical star Bobi Wine. He used his music to fight the r
+ egime led by Yoweri Museveni\, the person who led the country for 35 years
+ .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Class of 1999 (1990)
+DTSTART;TZID=America/Los_Angeles:20230805T213000
+DTEND;TZID=America/Los_Angeles:20230805T233000
+DTSTAMP:20230806T052300Z
+UID:ci0005472-tt0099277--2023-8-5-21-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThree ex-military robots are rep
+ rogrammed as teachers and secretly placed in a school where most students 
+ are part of organized gangs. They begin to respond violently to unruly stu
+ dents\, and their military training starts to take ...\n\nhttps://www.imdb
+ .com/title/tt0099277/\n\nIMDb rating: 5.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand by Me (1986)
+DTSTART;TZID=America/Los_Angeles:20230805T190000
+DTEND;TZID=America/Los_Angeles:20230805T205000
+DTSTAMP:20230806T025300Z
+UID:ci0005472-tt0092005--2023-8-5-19-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAfter the death of one of his fr
+ iends\, a writer recounts a childhood journey with his friends to find the
+  body of a missing boy.\n\nhttps://www.imdb.com/title/tt0092005/\n\nIMDb r
+ ating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
