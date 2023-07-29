@@ -1,46 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230727T070404Z
+LAST-MODIFIED:20230729T075535Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Point Break (1991)
-DTSTART;TZID=America/Los_Angeles:20230727T193000
-DTEND;TZID=America/Los_Angeles:20230727T215500
-DTSTAMP:20230728T032300Z
-UID:ci0005472-tt0102685--2023-7-27-19-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nAn F.B.I. Agent goes undercover
-  to catch a gang of surfers who may be bank robbers.\n\nhttps://www.imdb.c
- om/title/tt0102685/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dazed and Confused (1993)
-DTSTART;TZID=America/Los_Angeles:20230728T190000
-DTEND;TZID=America/Los_Angeles:20230728T210500
-DTSTAMP:20230729T025300Z
-UID:ci0005472-tt0106677--2023-7-28-19-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures of high school a
- nd junior high students on the last day of school in May 1976.\n\nhttps://
- www.imdb.com/title/tt0106677/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hit (2020)
-DTSTART;TZID=America/Los_Angeles:20230728T211500
-DTEND;TZID=America/Los_Angeles:20230728T234000
-DTSTAMP:20230729T050800Z
-UID:ci0005472-tt11490170--2023-7-28-21-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAn officer of the 'Homicide Int
- ervention Team' who frequently suffers from having his panic attacks does 
- everything in his power to rescue a woman who went missing.\n\nhttps://www
- .imdb.com/title/tt11490170/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dazed and Confused (1993)
 DTSTART;TZID=America/Los_Angeles:20230729T163000
@@ -176,7 +139,7 @@ UID:ci0005472-tt21376900--2023-8-4-19-0
 DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
  er\, activist and musical star Bobi Wine. He used his music to fight the r
  egime led by Yoweri Museveni\, the person who led the country for 35 years
- .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.6
+ .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -203,7 +166,7 @@ UID:ci0005472-tt21376900--2023-8-5-16-0
 DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
  er\, activist and musical star Bobi Wine. He used his music to fight the r
  egime led by Yoweri Museveni\, the person who led the country for 35 years
- .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.6
+ .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -227,6 +190,58 @@ DTSTART;TZID=America/Los_Angeles:20230805T190000
 DTEND;TZID=America/Los_Angeles:20230805T205000
 DTSTAMP:20230806T025300Z
 UID:ci0005472-tt0092005--2023-8-5-19-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAfter the death of one of his fr
+ iends\, a writer recounts a childhood journey with his friends to find the
+  body of a missing boy.\n\nhttps://www.imdb.com/title/tt0092005/\n\nIMDb r
+ ating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bobi Wine: The People's President
+DTSTART;TZID=America/Los_Angeles:20230806T193000
+DTEND;TZID=America/Los_Angeles:20230806T215500
+DTSTAMP:20230807T032300Z
+UID:ci0005472-tt21376900--2023-8-6-19-30
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
+ er\, activist and musical star Bobi Wine. He used his music to fight the r
+ egime led by Yoweri Museveni\, the person who led the country for 35 years
+ .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand by Me (1986)
+DTSTART;TZID=America/Los_Angeles:20230806T170000
+DTEND;TZID=America/Los_Angeles:20230806T185000
+DTSTAMP:20230807T005300Z
+UID:ci0005472-tt0092005--2023-8-6-17-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAfter the death of one of his fr
+ iends\, a writer recounts a childhood journey with his friends to find the
+  body of a missing boy.\n\nhttps://www.imdb.com/title/tt0092005/\n\nIMDb r
+ ating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bobi Wine: The People's President
+DTSTART;TZID=America/Los_Angeles:20230807T210000
+DTEND;TZID=America/Los_Angeles:20230807T232500
+DTSTAMP:20230808T045300Z
+UID:ci0005472-tt21376900--2023-8-7-21-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
+ er\, activist and musical star Bobi Wine. He used his music to fight the r
+ egime led by Yoweri Museveni\, the person who led the country for 35 years
+ .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand by Me (1986)
+DTSTART;TZID=America/Los_Angeles:20230807T190000
+DTEND;TZID=America/Los_Angeles:20230807T205000
+DTSTAMP:20230808T025300Z
+UID:ci0005472-tt0092005--2023-8-7-19-0
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAfter the death of one of his fr
  iends\, a writer recounts a childhood journey with his friends to find the
   body of a missing boy.\n\nhttps://www.imdb.com/title/tt0092005/\n\nIMDb r
