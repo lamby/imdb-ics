@@ -1,7 +1,31 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230730T060921Z
+LAST-MODIFIED:20230801T072052Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Contempt (1963)
+DTSTART;TZID=America/Los_Angeles:20230801T193000
+DTEND;TZID=America/Los_Angeles:20230801T213500
+DTSTAMP:20230802T032300Z
+UID:ci1024213-tt0057345--2023-8-1-19-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nScreenwriter Paul Javal's marri
+ age to his wife Camille disintegrates during movie production as she spend
+ s time with the producer. Layered conflicts between art and business ensue
+ .\n\nhttps://www.imdb.com/title/tt0057345/\n\nIMDb rating: 7.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contempt (1963)
+DTSTART;TZID=America/Los_Angeles:20230802T193000
+DTEND;TZID=America/Los_Angeles:20230802T213500
+DTSTAMP:20230803T032300Z
+UID:ci1024213-tt0057345--2023-8-2-19-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nScreenwriter Paul Javal's marri
+ age to his wife Camille disintegrates during movie production as she spend
+ s time with the producer. Layered conflicts between art and business ensue
+ .\n\nhttps://www.imdb.com/title/tt0057345/\n\nIMDb rating: 7.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
 END:VCALENDAR
