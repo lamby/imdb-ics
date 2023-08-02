@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230802T064408Z
+LAST-MODIFIED:20230802T115940Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
@@ -37,17 +37,6 @@ UID:ci0960123-tt1517268--2023-8-2-23-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London:20230802T150000
-DTEND;TZID=Europe/London:20230802T175500
-DTSTAMP:20230802T150100Z
-UID:ci0960123-tt1462764--2023-8-2-15-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -219,39 +208,6 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA young mermaid makes a deal wi
  th a sea witch to trade her beautiful voice for human legs so she can disc
  over the world above water and impress a prince.\n\nhttps://www.imdb.com/t
  itle/tt5971474/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T110000
-DTEND;TZID=Europe/London:20230803T131500
-DTSTAMP:20230803T110100Z
-UID:ci0960123-tt1517268--2023-8-3-11-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T135000
-DTEND;TZID=Europe/London:20230803T160500
-DTSTAMP:20230803T135100Z
-UID:ci0960123-tt1517268--2023-8-3-13-50
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T163500
-DTEND;TZID=Europe/London:20230803T185000
-DTSTAMP:20230803T163600Z
-UID:ci0960123-tt1517268--2023-8-3-16-35
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -533,17 +489,6 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230804T172000
-DTEND;TZID=Europe/London:20230804T193500
-DTSTAMP:20230804T172100Z
-UID:ci0960123-tt1517268--2023-8-4-17-20
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
 DTSTART;TZID=Europe/London:20230804T221500
 DTEND;TZID=Europe/London:20230805T003000
 DTSTAMP:20230804T221600Z
@@ -622,7 +567,7 @@ UID:ci0960123-tt9224104--2023-8-4-14-15
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -634,7 +579,7 @@ UID:ci0960123-tt9224104--2023-8-4-16-5
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -646,7 +591,7 @@ UID:ci0960123-tt9224104--2023-8-4-17-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -658,7 +603,7 @@ UID:ci0960123-tt9224104--2023-8-4-20-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -670,7 +615,7 @@ UID:ci0960123-tt9224104-3d-2023-8-4-15-5
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -704,17 +649,6 @@ UID:ci0960123-tt9603212--2023-8-4-21-40
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
  ttps://www.imdb.com/title/tt9603212/\n\nIMDb rating: 8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230804T203000
-DTEND;TZID=Europe/London:20230804T235000
-DTSTAMP:20230804T203100Z
-UID:ci0960123-tt15398776--2023-8-4-20-30
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -979,7 +913,7 @@ UID:ci0960123-tt9224104--2023-8-5-13-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -991,7 +925,7 @@ UID:ci0960123-tt9224104--2023-8-5-18-10
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1003,7 +937,7 @@ UID:ci0960123-tt9224104--2023-8-5-20-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1015,7 +949,7 @@ UID:ci0960123-tt9224104--2023-8-5-20-55
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1027,7 +961,7 @@ UID:ci0960123-tt9224104-3d-2023-8-5-9-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1435,7 +1369,7 @@ UID:ci0960123-tt9224104--2023-8-6-12-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1447,7 +1381,7 @@ UID:ci0960123-tt9224104--2023-8-6-15-5
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1459,7 +1393,7 @@ UID:ci0960123-tt9224104--2023-8-6-17-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1471,7 +1405,7 @@ UID:ci0960123-tt9224104--2023-8-6-20-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1483,7 +1417,7 @@ UID:ci0960123-tt9224104-3d-2023-8-6-10-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1706,17 +1640,6 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230807T181000
-DTEND;TZID=Europe/London:20230807T202500
-DTSTAMP:20230807T181100Z
-UID:ci0960123-tt1517268--2023-8-7-18-10
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
 DTSTART;TZID=Europe/London:20230807T205000
 DTEND;TZID=Europe/London:20230807T230500
 DTSTAMP:20230807T205100Z
@@ -1806,7 +1729,7 @@ UID:ci0960123-tt9224104--2023-8-7-10-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1818,7 +1741,7 @@ UID:ci0960123-tt9224104--2023-8-7-13-10
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1830,7 +1753,7 @@ UID:ci0960123-tt9224104--2023-8-7-17-35
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1842,7 +1765,7 @@ UID:ci0960123-tt9224104--2023-8-7-20-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1854,7 +1777,7 @@ UID:ci0960123-tt9224104-3d-2023-8-7-14-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2209,7 +2132,7 @@ UID:ci0960123-tt9224104--2023-8-8-12-50
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2221,7 +2144,7 @@ UID:ci0960123-tt9224104--2023-8-8-16-40
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2233,7 +2156,7 @@ UID:ci0960123-tt9224104--2023-8-8-18-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2245,7 +2168,7 @@ UID:ci0960123-tt9224104--2023-8-8-20-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2257,7 +2180,7 @@ UID:ci0960123-tt9224104-3d-2023-8-8-10-25
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2556,7 +2479,7 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nBased on the unbelievable\, ins
  piring true story of a team of underdogs - a struggling\, working-class ga
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
+ imdb.com/title/tt4495098/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2569,7 +2492,7 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nBased on the unbelievable\, ins
  piring true story of a team of underdogs - a struggling\, working-class ga
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
+ imdb.com/title/tt4495098/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2582,7 +2505,7 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nBased on the unbelievable\, ins
  piring true story of a team of underdogs - a struggling\, working-class ga
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
+ imdb.com/title/tt4495098/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2595,7 +2518,7 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nBased on the unbelievable\, ins
  piring true story of a team of underdogs - a struggling\, working-class ga
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
+ imdb.com/title/tt4495098/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2669,7 +2592,7 @@ UID:ci0960123-tt9224104--2023-8-9-10-25
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2681,7 +2604,7 @@ UID:ci0960123-tt9224104--2023-8-9-15-55
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2693,7 +2616,7 @@ UID:ci0960123-tt9224104--2023-8-9-18-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2705,7 +2628,7 @@ UID:ci0960123-tt9224104--2023-8-9-20-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2717,7 +2640,7 @@ UID:ci0960123-tt9224104-3d-2023-8-9-17-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2969,7 +2892,7 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nBased on the unbelievable\, ins
  piring true story of a team of underdogs - a struggling\, working-class ga
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
+ imdb.com/title/tt4495098/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2982,7 +2905,7 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nBased on the unbelievable\, ins
  piring true story of a team of underdogs - a struggling\, working-class ga
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
+ imdb.com/title/tt4495098/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2995,7 +2918,7 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nBased on the unbelievable\, ins
  piring true story of a team of underdogs - a struggling\, working-class ga
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
+ imdb.com/title/tt4495098/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -3054,7 +2977,7 @@ UID:ci0960123-tt9224104--2023-8-10-12-15
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -3066,7 +2989,7 @@ UID:ci0960123-tt9224104--2023-8-10-14-25
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -3078,7 +3001,7 @@ UID:ci0960123-tt9224104--2023-8-10-17-35
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -3090,7 +3013,7 @@ UID:ci0960123-tt9224104--2023-8-10-20-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -3252,7 +3175,7 @@ UID:ci0960123-tt9224104--2023-8-11-12-10
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 6.8
+ ing: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
