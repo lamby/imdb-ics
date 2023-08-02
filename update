@@ -78,6 +78,18 @@ class ImdbICS:
             "id": "ci0006735",
             "timezone": "America/Los_Angeles",
         },
+        {
+            "name": "SIFF Cinema Uptown, Seattle",
+            "address": "511 Queen Anne Avenue North, Seattle WA 98109",
+            "id": "ci16639653",
+            "timezone": "America/Los_Angeles",
+        },
+        {
+            "name": "SIFF Cinema Egyptian, Seattle",
+            "address": "805 East Pine, Seattle WA 98122",
+            "id": "ci60177107",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
