@@ -1,105 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230802T120016Z
+LAST-MODIFIED:20230803T072151Z
 NAME:Arts Picturehouse\, Cambridge
 X-WR-CALNAME:Arts Picturehouse\, Cambridge
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230802T123000
-DTEND;TZID=Europe/London:20230802T144500
-DTSTAMP:20230802T123100Z
-UID:ci0959484-tt1517268--2023-8-2-12-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230802T151500
-DTEND;TZID=Europe/London:20230802T173000
-DTSTAMP:20230802T151600Z
-UID:ci0959484-tt1517268--2023-8-2-15-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230802T180000
-DTEND;TZID=Europe/London:20230802T201500
-DTSTAMP:20230802T180100Z
-UID:ci0959484-tt1517268--2023-8-2-18-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230802T204000
-DTEND;TZID=Europe/London:20230802T225500
-DTSTAMP:20230802T204100Z
-UID:ci0959484-tt1517268--2023-8-2-20-40
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions: The Rise of Gru
-DTSTART;TZID=Europe/London:20230802T113000
-DTEND;TZID=Europe/London:20230802T132000
-DTSTAMP:20230802T113100Z
-UID:ci0959484-tt5113044--2023-8-2-11-30
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe untold story of one twelve-y
- ear-old's dream to become the world's greatest supervillain.\n\nhttps://ww
- w.imdb.com/title/tt5113044/\n\nIMDb rating: 6.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230802T120000
-DTEND;TZID=Europe/London:20230802T152000
-DTSTAMP:20230802T120100Z
-UID:ci0959484-tt15398776--2023-8-2-12-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230802T140000
-DTEND;TZID=Europe/London:20230802T172000
-DTSTAMP:20230802T140100Z
-UID:ci0959484-tt15398776--2023-8-2-14-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230802T183000
-DTEND;TZID=Europe/London:20230802T215000
-DTSTAMP:20230802T183100Z
-UID:ci0959484-tt15398776--2023-8-2-18-30
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=Europe/London:20230803T123000
@@ -108,7 +12,7 @@ DTSTAMP:20230803T123100Z
 UID:ci0959484-tt1517268--2023-8-3-12-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -120,7 +24,7 @@ DTSTAMP:20230803T151600Z
 UID:ci0959484-tt1517268--2023-8-3-15-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -132,7 +36,7 @@ DTSTAMP:20230803T180100Z
 UID:ci0959484-tt1517268--2023-8-3-18-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -144,7 +48,7 @@ DTSTAMP:20230803T203100Z
 UID:ci0959484-tt1517268--2023-8-3-20-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -156,7 +60,7 @@ DTSTAMP:20230803T204100Z
 UID:ci0959484-tt1517268--2023-8-3-20-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -218,7 +122,7 @@ DTSTAMP:20230804T110100Z
 UID:ci0959484-tt1517268--2023-8-4-11-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -230,7 +134,7 @@ DTSTAMP:20230804T120100Z
 UID:ci0959484-tt1517268--2023-8-4-12-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -242,7 +146,7 @@ DTSTAMP:20230804T131100Z
 UID:ci0959484-tt1517268--2023-8-4-13-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -254,7 +158,7 @@ DTSTAMP:20230804T151100Z
 UID:ci0959484-tt1517268--2023-8-4-15-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -266,7 +170,7 @@ DTSTAMP:20230804T175100Z
 UID:ci0959484-tt1517268--2023-8-4-17-50
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -278,7 +182,7 @@ DTSTAMP:20230804T203100Z
 UID:ci0959484-tt1517268--2023-8-4-20-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -342,7 +246,7 @@ DTSTAMP:20230805T104600Z
 UID:ci0959484-tt1517268--2023-8-5-10-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -354,7 +258,7 @@ DTSTAMP:20230805T131600Z
 UID:ci0959484-tt1517268--2023-8-5-13-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -366,7 +270,7 @@ DTSTAMP:20230805T150100Z
 UID:ci0959484-tt1517268--2023-8-5-15-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -378,7 +282,7 @@ DTSTAMP:20230805T174600Z
 UID:ci0959484-tt1517268--2023-8-5-17-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -390,7 +294,7 @@ DTSTAMP:20230805T203100Z
 UID:ci0959484-tt1517268--2023-8-5-20-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -481,7 +385,7 @@ DTSTAMP:20230806T122100Z
 UID:ci0959484-tt1517268--2023-8-6-12-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -493,7 +397,7 @@ DTSTAMP:20230806T153100Z
 UID:ci0959484-tt1517268--2023-8-6-15-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -505,7 +409,7 @@ DTSTAMP:20230806T181100Z
 UID:ci0959484-tt1517268--2023-8-6-18-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -517,7 +421,7 @@ DTSTAMP:20230806T204100Z
 UID:ci0959484-tt1517268--2023-8-6-20-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -562,19 +466,6 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snow White and the Seven Dwarfs (1937)
-DTSTART;TZID=Europe/London:20230806T110000
-DTEND;TZID=Europe/London:20230806T124500
-DTSTAMP:20230806T110100Z
-UID:ci0959484-tt0029583--2023-8-6-11-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nExiled into the dangerous forest
-  by her wicked stepmother\, a princess is rescued by seven dwarf miners wh
- o make her part of their household.\n\nhttps://www.imdb.com/title/tt002958
- 3/\n\nIMDb rating: 7.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=Europe/London:20230807T123000
 DTEND;TZID=Europe/London:20230807T144500
@@ -582,7 +473,7 @@ DTSTAMP:20230807T123100Z
 UID:ci0959484-tt1517268--2023-8-7-12-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -594,7 +485,7 @@ DTSTAMP:20230807T151100Z
 UID:ci0959484-tt1517268--2023-8-7-15-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -606,7 +497,7 @@ DTSTAMP:20230807T175100Z
 UID:ci0959484-tt1517268--2023-8-7-17-50
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -618,7 +509,7 @@ DTSTAMP:20230807T203100Z
 UID:ci0959484-tt1517268--2023-8-7-20-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -675,19 +566,6 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snow White and the Seven Dwarfs (1937)
-DTSTART;TZID=Europe/London:20230807T120000
-DTEND;TZID=Europe/London:20230807T134500
-DTSTAMP:20230807T120100Z
-UID:ci0959484-tt0029583--2023-8-7-12-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nExiled into the dangerous forest
-  by her wicked stepmother\, a princess is rescued by seven dwarf miners wh
- o make her part of their household.\n\nhttps://www.imdb.com/title/tt002958
- 3/\n\nIMDb rating: 7.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=Europe/London:20230808T123000
 DTEND;TZID=Europe/London:20230808T144500
@@ -695,7 +573,7 @@ DTSTAMP:20230808T123100Z
 UID:ci0959484-tt1517268--2023-8-8-12-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -707,7 +585,7 @@ DTSTAMP:20230808T132100Z
 UID:ci0959484-tt1517268--2023-8-8-13-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -719,7 +597,7 @@ DTSTAMP:20230808T151100Z
 UID:ci0959484-tt1517268--2023-8-8-15-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -731,7 +609,7 @@ DTSTAMP:20230808T175100Z
 UID:ci0959484-tt1517268--2023-8-8-17-50
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -743,7 +621,7 @@ DTSTAMP:20230808T182100Z
 UID:ci0959484-tt1517268--2023-8-8-18-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -755,7 +633,7 @@ DTSTAMP:20230808T203100Z
 UID:ci0959484-tt1517268--2023-8-8-20-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -845,7 +723,7 @@ DTSTAMP:20230809T111600Z
 UID:ci0959484-tt1517268--2023-8-9-11-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -857,7 +735,7 @@ DTSTAMP:20230809T152100Z
 UID:ci0959484-tt1517268--2023-8-9-15-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -869,7 +747,7 @@ DTSTAMP:20230809T174100Z
 UID:ci0959484-tt1517268--2023-8-9-17-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -881,7 +759,7 @@ DTSTAMP:20230809T201600Z
 UID:ci0959484-tt1517268--2023-8-9-20-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -938,19 +816,6 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snow White and the Seven Dwarfs (1937)
-DTSTART;TZID=Europe/London:20230809T110000
-DTEND;TZID=Europe/London:20230809T124500
-DTSTAMP:20230809T110100Z
-UID:ci0959484-tt0029583--2023-8-9-11-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nExiled into the dangerous forest
-  by her wicked stepmother\, a princess is rescued by seven dwarf miners wh
- o make her part of their household.\n\nhttps://www.imdb.com/title/tt002958
- 3/\n\nIMDb rating: 7.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Tunnel to Summer\, the Exit of Goodbyes
 DTSTART;TZID=Europe/London:20230809T203000
 DTEND;TZID=Europe/London:20230809T221500
@@ -972,7 +837,7 @@ DTSTAMP:20230810T123100Z
 UID:ci0959484-tt1517268--2023-8-10-12-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -984,7 +849,7 @@ DTSTAMP:20230810T132100Z
 UID:ci0959484-tt1517268--2023-8-10-13-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -996,7 +861,7 @@ DTSTAMP:20230810T151100Z
 UID:ci0959484-tt1517268--2023-8-10-15-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -1008,7 +873,7 @@ DTSTAMP:20230810T175100Z
 UID:ci0959484-tt1517268--2023-8-10-17-50
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -1020,7 +885,7 @@ DTSTAMP:20230810T182100Z
 UID:ci0959484-tt1517268--2023-8-10-18-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -1032,7 +897,7 @@ DTSTAMP:20230810T203100Z
 UID:ci0959484-tt1517268--2023-8-10-20-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -1124,6 +989,20 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nA grieving couple retreat to th
  eir cabin in the woods\, hoping to repair their broken hearts and troubled
   marriage\, but nature takes its course and things go from bad to worse.\n
  \nhttps://www.imdb.com/title/tt0870984/\n\nIMDb rating: 6.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roald Dahl's Matilda the Musical
+DTSTART;TZID=Europe/London:20230812T110000
+DTEND;TZID=Europe/London:20230812T132000
+DTSTAMP:20230812T110100Z
+UID:ci0959484-tt3447590--2023-8-12-11-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nAn adaptation of the Tony and O
+ livier award-winning musical. Matilda tells the story of an extraordinary 
+ girl who\, armed with a sharp mind and a vivid imagination\, dares to take
+  a stand to change her story with miraculous results.\n\nhttps://www.imdb.
+ com/title/tt3447590/\n\nIMDb rating: 7
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT

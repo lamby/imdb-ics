@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230802T120032Z
+LAST-MODIFIED:20230803T072208Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Have You Got It Yet? The Story of Syd Barrett and Pink Floyd
-DTSTART;TZID=America/Los_Angeles:20230802T193000
-DTEND;TZID=America/Los_Angeles:20230802T212500
-DTSTAMP:20230803T032300Z
-UID:ci0005472-tt7182482--2023-8-2-19-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nFollow the moment Barrett was ki
- cked out of Pink Floyd\, from the narrative of him going from groundbreaki
- ng musician to iconic rocker and manic\, unstable star.\n\nhttps://www.imd
- b.com/title/tt7182482/\n\nIMDb rating: 8.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dazed and Confused (1993)
 DTSTART;TZID=America/Los_Angeles:20230803T190000
@@ -235,6 +222,44 @@ UID:ci0005472-tt0068767--2023-8-11-21-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man seeks vengence for 
  the death of his teacher.\n\nhttps://www.imdb.com/title/tt0068767/\n\nIMDb
   rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earth Mama
+DTSTART;TZID=America/Los_Angeles:20230812T163000
+DTEND;TZID=America/Los_Angeles:20230812T183000
+DTSTAMP:20230813T002300Z
+UID:ci0005472-tt18382328--2023-8-12-16-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
+ of a pregnant single mother who embraces her Bay Area community as she det
+ ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
+ n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fist of Fury (1972)
+DTSTART;TZID=America/Los_Angeles:20230812T220000
+DTEND;TZID=America/Los_Angeles:20230813T001000
+DTSTAMP:20230813T055300Z
+UID:ci0005472-tt0068767--2023-8-12-22-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man seeks vengence for 
+ the death of his teacher.\n\nhttps://www.imdb.com/title/tt0068767/\n\nIMDb
+  rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma & Louise (1991)
+DTSTART;TZID=America/Los_Angeles:20230812T190000
+DTEND;TZID=America/Los_Angeles:20230812T213000
+DTSTAMP:20230813T025300Z
+UID:ci0005472-tt0103074--2023-8-12-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nTwo best friends set out on an 
+ adventure\, but it soon turns around to a terrifying escape from being hun
+ ted by the police\, as these two girls escape for the crimes they committe
+ d.\n\nhttps://www.imdb.com/title/tt0103074/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

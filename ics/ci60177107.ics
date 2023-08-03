@@ -1,31 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230802T120203Z
+LAST-MODIFIED:20230803T072340Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230802T161500
-DTEND;TZID=America/Los_Angeles:20230802T183000
-DTSTAMP:20230803T000800Z
-UID:ci60177107-tt1517268--2023-8-2-16-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230802T190000
-DTEND;TZID=America/Los_Angeles:20230802T211500
-DTSTAMP:20230803T025300Z
-UID:ci60177107-tt1517268--2023-8-2-19-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230803T161500
@@ -34,7 +12,7 @@ DTSTAMP:20230804T000800Z
 UID:ci60177107-tt1517268--2023-8-3-16-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +23,196 @@ DTSTAMP:20230804T025300Z
 UID:ci60177107-tt1517268--2023-8-3-19-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.5
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230804T161500
+DTEND;TZID=America/Los_Angeles:20230804T183000
+DTSTAMP:20230805T000800Z
+UID:ci60177107-tt1517268--2023-8-4-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230804T191500
+DTEND;TZID=America/Los_Angeles:20230804T213000
+DTSTAMP:20230805T030800Z
+UID:ci60177107-tt1517268--2023-8-4-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230805T130000
+DTEND;TZID=America/Los_Angeles:20230805T151500
+DTSTAMP:20230805T205300Z
+UID:ci60177107-tt1517268--2023-8-5-13-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230805T161500
+DTEND;TZID=America/Los_Angeles:20230805T183000
+DTSTAMP:20230806T000800Z
+UID:ci60177107-tt1517268--2023-8-5-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230805T191500
+DTEND;TZID=America/Los_Angeles:20230805T213000
+DTSTAMP:20230806T030800Z
+UID:ci60177107-tt1517268--2023-8-5-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230806T130000
+DTEND;TZID=America/Los_Angeles:20230806T151500
+DTSTAMP:20230806T205300Z
+UID:ci60177107-tt1517268--2023-8-6-13-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230806T161500
+DTEND;TZID=America/Los_Angeles:20230806T183000
+DTSTAMP:20230807T000800Z
+UID:ci60177107-tt1517268--2023-8-6-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230806T191500
+DTEND;TZID=America/Los_Angeles:20230806T213000
+DTSTAMP:20230807T030800Z
+UID:ci60177107-tt1517268--2023-8-6-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230807T161500
+DTEND;TZID=America/Los_Angeles:20230807T183000
+DTSTAMP:20230808T000800Z
+UID:ci60177107-tt1517268--2023-8-7-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230807T191500
+DTEND;TZID=America/Los_Angeles:20230807T213000
+DTSTAMP:20230808T030800Z
+UID:ci60177107-tt1517268--2023-8-7-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230808T161500
+DTEND;TZID=America/Los_Angeles:20230808T183000
+DTSTAMP:20230809T000800Z
+UID:ci60177107-tt1517268--2023-8-8-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230808T191500
+DTEND;TZID=America/Los_Angeles:20230808T213000
+DTSTAMP:20230809T030800Z
+UID:ci60177107-tt1517268--2023-8-8-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230809T161500
+DTEND;TZID=America/Los_Angeles:20230809T183000
+DTSTAMP:20230810T000800Z
+UID:ci60177107-tt1517268--2023-8-9-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230809T191500
+DTEND;TZID=America/Los_Angeles:20230809T213000
+DTSTAMP:20230810T030800Z
+UID:ci60177107-tt1517268--2023-8-9-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230810T161500
+DTEND;TZID=America/Los_Angeles:20230810T183000
+DTSTAMP:20230811T000800Z
+UID:ci60177107-tt1517268--2023-8-10-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230810T191500
+DTEND;TZID=America/Los_Angeles:20230810T213000
+DTSTAMP:20230811T030800Z
+UID:ci60177107-tt1517268--2023-8-10-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Safety Last! (1923)
+DTSTART;TZID=America/Los_Angeles:20230812T130000
+DTEND;TZID=America/Los_Angeles:20230812T143500
+DTSTAMP:20230812T205300Z
+UID:ci60177107-tt0014429--2023-8-12-13-0
+DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA boy leaves his small country t
+ own and heads to the big city to get a job. As soon as he makes it big his
+  sweetheart will join him and marry him. His enthusiasm to get ahead leads
+  to some interesting adventures.\n\nhttps://www.imdb.com/title/tt0014429/\
+ n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
