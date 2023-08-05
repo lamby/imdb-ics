@@ -1,85 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230804T074937Z
+LAST-MODIFIED:20230805T074847Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cat Video Fest
-DTSTART;TZID=America/Los_Angeles:20230804T163000
-DTEND;TZID=America/Los_Angeles:20230804T180500
-DTSTAMP:20230805T002300Z
-UID:ci16639653-tt28285532--2023-8-4-16-30
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nIt's a compilation of the newest
-  and best cat videos selected from innumerable hours of unique performance
- s and animations\, music videos and internet classics.\n\nhttps://www.imdb
- .com/title/tt28285532/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cat Video Fest
-DTSTART;TZID=America/Los_Angeles:20230804T193000
-DTEND;TZID=America/Los_Angeles:20230804T210500
-DTSTAMP:20230805T032300Z
-UID:ci16639653-tt28285532--2023-8-4-19-30
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nIt's a compilation of the newest
-  and best cat videos selected from innumerable hours of unique performance
- s and animations\, music videos and internet classics.\n\nhttps://www.imdb
- .com/title/tt28285532/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=America/Los_Angeles:20230804T151500
-DTEND;TZID=America/Los_Angeles:20230804T183500
-DTSTAMP:20230804T230800Z
-UID:ci16639653-tt15398776--2023-8-4-15-15
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=America/Los_Angeles:20230804T190000
-DTEND;TZID=America/Los_Angeles:20230804T222000
-DTSTAMP:20230805T025300Z
-UID:ci16639653-tt15398776--2023-8-4-19-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=America/Los_Angeles:20230804T161500
-DTEND;TZID=America/Los_Angeles:20230804T181000
-DTSTAMP:20230805T000800Z
-UID:ci16639653-tt21232992--2023-8-4-16-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
-  theater camp in upstate New York must band together with the beloved foun
- der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=America/Los_Angeles:20230804T191500
-DTEND;TZID=America/Los_Angeles:20230804T211000
-DTSTAMP:20230805T030800Z
-UID:ci16639653-tt21232992--2023-8-4-19-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
-  theater camp in upstate New York must band together with the beloved foun
- der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cat Video Fest
 DTSTART;TZID=America/Los_Angeles:20230805T130000
@@ -576,6 +500,32 @@ DTSTART;TZID=America/Los_Angeles:20230813T191500
 DTEND;TZID=America/Los_Angeles:20230813T211000
 DTSTAMP:20230814T030800Z
 UID:ci16639653-tt16294920--2023-8-13-19-15
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nExplores the elemental phenomeno
+ n of sound and its power to bend time\, cross borders\, and profoundly sha
+ pe our perception of the world around us.\n\nhttps://www.imdb.com/title/tt
+ 16294920/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32 Sounds
+DTSTART;TZID=America/Los_Angeles:20230814T164500
+DTEND;TZID=America/Los_Angeles:20230814T184000
+DTSTAMP:20230815T003800Z
+UID:ci16639653-tt16294920--2023-8-14-16-45
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nExplores the elemental phenomeno
+ n of sound and its power to bend time\, cross borders\, and profoundly sha
+ pe our perception of the world around us.\n\nhttps://www.imdb.com/title/tt
+ 16294920/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32 Sounds
+DTSTART;TZID=America/Los_Angeles:20230814T191500
+DTEND;TZID=America/Los_Angeles:20230814T211000
+DTSTAMP:20230815T030800Z
+UID:ci16639653-tt16294920--2023-8-14-19-15
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nExplores the elemental phenomeno
  n of sound and its power to bend time\, cross borders\, and profoundly sha
  pe our perception of the world around us.\n\nhttps://www.imdb.com/title/tt
