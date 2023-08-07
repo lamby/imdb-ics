@@ -302,6 +302,9 @@ class ImdbICS:
 
             hour, minute = [int(y) for y in x.split(" ", 1)[0].split(":", 1)]
 
+            if hour_offset == 0 and hour == 12:
+                hour = 0
+
             if hour < 12:
                 hour += hour_offset
 
