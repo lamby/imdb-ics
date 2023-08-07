@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230806T075256Z
+LAST-MODIFIED:20230807T075001Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Swing Girls (2004)
-DTSTART;TZID=America/Los_Angeles:20230806T170000
-DTEND;TZID=America/Los_Angeles:20230806T190500
-DTSTAMP:20230807T005300Z
-UID:ci1024213-tt0435434--2023-8-6-17-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA tale of delinquent and lazy s
- chool girls. In their efforts to cut remedial summer math class\, they end
-  up vitiating and replacing the schools brass band.\n\nhttps://www.imdb.co
- m/title/tt0435434/\n\nIMDb rating: 7.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:They Live by Night (1948)
-DTSTART;TZID=America/Los_Angeles:20230806T140000
-DTEND;TZID=America/Los_Angeles:20230806T155500
-DTSTAMP:20230806T215300Z
-UID:ci1024213-tt0040872--2023-8-6-14-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn escaped convict injured durin
- g a robbery falls in love with the woman who nurses him back to health\, b
- ut their relationship seems doomed from the beginning.\n\nhttps://www.imdb
- .com/title/tt0040872/\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pat Garrett & Billy the Kid (1973)
 DTSTART;TZID=America/Los_Angeles:20230808T193000
