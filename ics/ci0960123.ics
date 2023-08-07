@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230807T074845Z
+LAST-MODIFIED:20230807T092304Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
@@ -10,17 +10,6 @@ DTSTART;TZID=Europe/London:20230807T100500
 DTEND;TZID=Europe/London:20230807T122000
 DTSTAMP:20230807T100600Z
 UID:ci0960123-tt1517268--2023-8-7-10-5
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230807T113000
-DTEND;TZID=Europe/London:20230807T134500
-DTSTAMP:20230807T113100Z
-UID:ci0960123-tt1517268--2023-8-7-11-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -76,6 +65,28 @@ DTSTART;TZID=Europe/London:20230807T161000
 DTEND;TZID=Europe/London:20230807T182500
 DTSTAMP:20230807T161100Z
 UID:ci0960123-tt1517268--2023-8-7-16-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230807T172000
+DTEND;TZID=Europe/London:20230807T193500
+DTSTAMP:20230807T172100Z
+UID:ci0960123-tt1517268--2023-8-7-17-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230807T194000
+DTEND;TZID=Europe/London:20230807T215500
+DTSTAMP:20230807T194100Z
+UID:ci0960123-tt1517268--2023-8-7-19-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -270,6 +281,17 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230807T201500
+DTEND;TZID=Europe/London:20230807T233500
+DTSTAMP:20230807T201600Z
+UID:ci0960123-tt15398776--2023-8-7-20-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
 DTSTART;TZID=Europe/London:20230807T211500
 DTEND;TZID=Europe/London:20230808T003500
 DTSTAMP:20230807T211600Z
@@ -353,11 +375,23 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIt's been five years since ever
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie
+DTSTART;TZID=Europe/London:20230807T100000
+DTEND;TZID=Europe/London:20230807T115500
+DTSTAMP:20230807T100100Z
+UID:ci0960123-tt6718170--2023-8-7-10-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA plumber named Mario travels th
+ rough an underground labyrinth with his brother\, Luigi\, trying to save a
+  captured princess.\n\nhttps://www.imdb.com/title/tt6718170/\n\nIMDb ratin
+ g: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230808T120500
-DTEND;TZID=Europe/London:20230808T142000
-DTSTAMP:20230808T120600Z
-UID:ci0960123-tt1517268--2023-8-8-12-5
+DTSTART;TZID=Europe/London:20230808T000500
+DTEND;TZID=Europe/London:20230808T022000
+DTSTAMP:20230808T000600Z
+UID:ci0960123-tt1517268--2023-8-8-0-5
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -464,10 +498,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230808T122000
-DTEND;TZID=Europe/London:20230808T141500
-DTSTAMP:20230808T122100Z
-UID:ci0960123-tt15268244--2023-8-8-12-20
+DTSTART;TZID=Europe/London:20230808T002000
+DTEND;TZID=Europe/London:20230808T021500
+DTSTAMP:20230808T002100Z
+UID:ci0960123-tt15268244--2023-8-8-0-20
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nFollows four Asian American frie
  nds as they bond and discover the truth of what it means to know and love 
  who you are\, while they travel through China in search of one of their bi
@@ -729,10 +763,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230809T121000
-DTEND;TZID=Europe/London:20230809T142500
-DTSTAMP:20230809T121100Z
-UID:ci0960123-tt1517268--2023-8-9-12-10
+DTSTART;TZID=Europe/London:20230809T001000
+DTEND;TZID=Europe/London:20230809T022500
+DTSTAMP:20230809T001100Z
+UID:ci0960123-tt1517268--2023-8-9-0-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -902,10 +936,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230809T123000
-DTEND;TZID=Europe/London:20230809T142500
-DTSTAMP:20230809T123100Z
-UID:ci0960123-tt15268244--2023-8-9-12-30
+DTSTART;TZID=Europe/London:20230809T003000
+DTEND;TZID=Europe/London:20230809T022500
+DTSTAMP:20230809T003100Z
+UID:ci0960123-tt15268244--2023-8-9-0-30
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nFollows four Asian American frie
  nds as they bond and discover the truth of what it means to know and love 
  who you are\, while they travel through China in search of one of their bi
@@ -1279,10 +1313,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: The Red Door
-DTSTART;TZID=Europe/London:20230810T120500
-DTEND;TZID=Europe/London:20230810T141500
-DTSTAMP:20230810T120600Z
-UID:ci0960123-tt13405778--2023-8-10-12-5
+DTSTART;TZID=Europe/London:20230810T000500
+DTEND;TZID=Europe/London:20230810T021500
+DTSTAMP:20230810T000600Z
+UID:ci0960123-tt13405778--2023-8-10-0-5
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
  l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb rating: 5.7
@@ -1501,10 +1535,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: The Red Door
-DTSTART;TZID=Europe/London:20230811T120500
-DTEND;TZID=Europe/London:20230811T141500
-DTSTAMP:20230811T120600Z
-UID:ci0960123-tt13405778--2023-8-11-12-5
+DTSTART;TZID=Europe/London:20230811T000500
+DTEND;TZID=Europe/London:20230811T021500
+DTSTAMP:20230811T000600Z
+UID:ci0960123-tt13405778--2023-8-11-0-5
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
  l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb rating: 5.7
@@ -1512,10 +1546,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230811T122500
-DTEND;TZID=Europe/London:20230811T142000
-DTSTAMP:20230811T122600Z
-UID:ci0960123-tt15268244--2023-8-11-12-25
+DTSTART;TZID=Europe/London:20230811T002500
+DTEND;TZID=Europe/London:20230811T022000
+DTSTAMP:20230811T002600Z
+UID:ci0960123-tt15268244--2023-8-11-0-25
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nFollows four Asian American frie
  nds as they bond and discover the truth of what it means to know and love 
  who you are\, while they travel through China in search of one of their bi
@@ -1524,10 +1558,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meg 2: The Trench
-DTSTART;TZID=Europe/London:20230811T121000
-DTEND;TZID=Europe/London:20230811T143000
-DTSTAMP:20230811T121100Z
-UID:ci0960123-tt9224104--2023-8-11-12-10
+DTSTART;TZID=Europe/London:20230811T001000
+DTEND;TZID=Europe/London:20230811T023000
+DTSTAMP:20230811T001100Z
+UID:ci0960123-tt9224104--2023-8-11-0-10
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
@@ -1536,10 +1570,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Talk to Me
-DTSTART;TZID=Europe/London:20230811T121500
-DTEND;TZID=Europe/London:20230811T141000
-DTSTAMP:20230811T121600Z
-UID:ci0960123-tt10638522--2023-8-11-12-15
+DTSTART;TZID=Europe/London:20230811T001500
+DTEND;TZID=Europe/London:20230811T021000
+DTSTAMP:20230811T001600Z
+UID:ci0960123-tt10638522--2023-8-11-0-15
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nWhen a group of friends discover
   how to conjure spirits using an embalmed hand\, they become hooked on the
   new thrill\, until one of them goes too far and unleashes terrifying supe
