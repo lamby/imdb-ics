@@ -1,31 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230807T092509Z
+LAST-MODIFIED:20230808T075658Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230807T161500
-DTEND;TZID=America/Los_Angeles:20230807T183000
-DTSTAMP:20230808T000800Z
-UID:ci60177107-tt1517268--2023-8-7-16-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230807T191500
-DTEND;TZID=America/Los_Angeles:20230807T213000
-DTSTAMP:20230808T030800Z
-UID:ci60177107-tt1517268--2023-8-7-19-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230808T161500
@@ -123,6 +101,30 @@ DTSTART;TZID=America/Los_Angeles:20230816T193000
 DTEND;TZID=America/Los_Angeles:20230816T215000
 DTSTAMP:20230817T032300Z
 UID:ci60177107-tt0364569--2023-8-16-19-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
+ soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
+ t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
+ \nIMDb rating: 8.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oldboy (2003)
+DTSTART;TZID=America/Los_Angeles:20230817T163000
+DTEND;TZID=America/Los_Angeles:20230817T185000
+DTSTAMP:20230818T002300Z
+UID:ci60177107-tt0364569--2023-8-17-16-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
+ soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
+ t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
+ \nIMDb rating: 8.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oldboy (2003)
+DTSTART;TZID=America/Los_Angeles:20230817T193000
+DTEND;TZID=America/Los_Angeles:20230817T215000
+DTSTAMP:20230818T032300Z
+UID:ci60177107-tt0364569--2023-8-17-19-30
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
  soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
  t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n

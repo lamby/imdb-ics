@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230807T092501Z
+LAST-MODIFIED:20230808T075650Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Lola
-DTSTART;TZID=America/Los_Angeles:20230807T163000
-DTEND;TZID=America/Los_Angeles:20230807T181000
-DTSTAMP:20230808T002300Z
-UID:ci16639653-tt11366674--2023-8-7-16-30
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\n1940\, Thom and Mars have built 
- a machine\, LOLA\, that can intercept radio and TV broadcasts from the fut
- ure. Unknown to them sharing these broadcasts the devastating changes it w
- ill have on the future of world but to them also.\n\nhttps://www.imdb.com/
- title/tt11366674/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=America/Los_Angeles:20230807T190000
-DTEND;TZID=America/Los_Angeles:20230807T222000
-DTSTAMP:20230808T025300Z
-UID:ci16639653-tt15398776--2023-8-7-19-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=America/Los_Angeles:20230807T161500
-DTEND;TZID=America/Los_Angeles:20230807T181000
-DTSTAMP:20230808T000800Z
-UID:ci16639653-tt21232992--2023-8-7-16-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
-  theater camp in upstate New York must band together with the beloved foun
- der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=America/Los_Angeles:20230807T191500
-DTEND;TZID=America/Los_Angeles:20230807T211000
-DTSTAMP:20230808T030800Z
-UID:ci16639653-tt21232992--2023-8-7-19-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
-  theater camp in upstate New York must band together with the beloved foun
- der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lola
 DTSTART;TZID=America/Los_Angeles:20230808T193000
@@ -78,7 +26,7 @@ DTSTAMP:20230809T025300Z
 UID:ci16639653-tt15398776--2023-8-8-19-0
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -91,7 +39,7 @@ UID:ci16639653-tt21232992--2023-8-8-16-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
   theater camp in upstate New York must band together with the beloved foun
  der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
+ 1232992/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -104,7 +52,7 @@ UID:ci16639653-tt21232992--2023-8-8-16-45
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
   theater camp in upstate New York must band together with the beloved foun
  der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
+ 1232992/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -117,7 +65,7 @@ UID:ci16639653-tt21232992--2023-8-8-19-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
   theater camp in upstate New York must band together with the beloved foun
  der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
+ 1232992/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -129,7 +77,7 @@ DTSTAMP:20230810T022300Z
 UID:ci16639653-tt15398776--2023-8-9-18-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -142,7 +90,7 @@ UID:ci16639653-tt21232992--2023-8-9-16-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
   theater camp in upstate New York must band together with the beloved foun
  der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
+ 1232992/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -155,7 +103,7 @@ UID:ci16639653-tt21232992--2023-8-9-19-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
   theater camp in upstate New York must band together with the beloved foun
  der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
+ 1232992/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -167,7 +115,7 @@ DTSTAMP:20230811T022300Z
 UID:ci16639653-tt15398776--2023-8-10-18-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.7
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -180,7 +128,7 @@ UID:ci16639653-tt21232992--2023-8-10-16-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
   theater camp in upstate New York must band together with the beloved foun
  der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
+ 1232992/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -193,7 +141,7 @@ UID:ci16639653-tt21232992--2023-8-10-19-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
   theater camp in upstate New York must band together with the beloved foun
  der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.4
+ 1232992/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -359,6 +307,19 @@ DTSTART;TZID=America/Los_Angeles:20230816T164500
 DTEND;TZID=America/Los_Angeles:20230816T184000
 DTSTAMP:20230817T003800Z
 UID:ci16639653-tt16294920--2023-8-16-16-45
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nExplores the elemental phenomeno
+ n of sound and its power to bend time\, cross borders\, and profoundly sha
+ pe our perception of the world around us.\n\nhttps://www.imdb.com/title/tt
+ 16294920/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:32 Sounds
+DTSTART;TZID=America/Los_Angeles:20230817T164500
+DTEND;TZID=America/Los_Angeles:20230817T184000
+DTSTAMP:20230818T003800Z
+UID:ci16639653-tt16294920--2023-8-17-16-45
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nExplores the elemental phenomeno
  n of sound and its power to bend time\, cross borders\, and profoundly sha
  pe our perception of the world around us.\n\nhttps://www.imdb.com/title/tt
