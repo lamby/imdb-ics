@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230810T073344Z
+LAST-MODIFIED:20230810T075037Z
 NAME:The Light Cinema\, Cambridge
 X-WR-CALNAME:The Light Cinema\, Cambridge
 BEGIN:VEVENT
@@ -114,10 +114,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Snow White and the Seven Dwarfs (1937)
-DTSTART;TZID=Europe/London:20230810T103000
-DTEND;TZID=Europe/London:20230810T121500
-DTSTAMP:20230810T103100Z
-UID:ci0959521-tt0029583--2023-8-10-10-30
+DTSTART;TZID=Europe/London:20230810T101000
+DTEND;TZID=Europe/London:20230810T115500
+DTSTAMP:20230810T101100Z
+UID:ci0959521-tt0029583--2023-8-10-10-10
 DESCRIPTION:Duration: 1h 23m (83 mins)\n\nExiled into the dangerous forest
   by her wicked stepmother\, a princess is rescued by seven dwarf miners wh
  o make her part of their household.\n\nhttps://www.imdb.com/title/tt002958
@@ -206,19 +206,6 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meg 2: The Trench
-DTSTART;TZID=Europe/London:20230810T113000
-DTEND;TZID=Europe/London:20230810T135000
-DTSTAMP:20230810T113100Z
-UID:ci0959521-tt9224104--2023-8-10-11-30
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
- iple threats while exploring the depths of the ocean\, including a malevol
- ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
- ing: 5.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meg 2: The Trench
 DTSTART;TZID=Europe/London:20230810T141000
 DTEND;TZID=Europe/London:20230810T163000
 DTSTAMP:20230810T141100Z
@@ -253,18 +240,6 @@ DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA research team encounters mult
  iple threats while exploring the depths of the ocean\, including a malevol
  ent mining operation.\n\nhttps://www.imdb.com/title/tt9224104/\n\nIMDb rat
  ing: 5.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London:20230810T162000
-DTEND;TZID=Europe/London:20230810T192500
-DTSTAMP:20230810T162100Z
-UID:ci0959521-tt9603212--2023-8-10-16-20
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
- t track down a dangerous weapon before it falls into the wrong hands.\n\nh
- ttps://www.imdb.com/title/tt9603212/\n\nIMDb rating: 8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -373,19 +348,6 @@ DTSTART;TZID=Europe/London:20230810T173000
 DTEND;TZID=Europe/London:20230810T193000
 DTSTAMP:20230810T173100Z
 UID:ci0959521-tt8589698--2023-8-10-17-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe film follows the Turtle brot
- hers as they work to earn the love of New York City while facing down an a
- rmy of mutants.\n\nhttps://www.imdb.com/title/tt8589698/\n\nIMDb rating: 7
- .6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230810T195000
-DTEND;TZID=Europe/London:20230810T215000
-DTSTAMP:20230810T195100Z
-UID:ci0959521-tt8589698--2023-8-10-19-50
 DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe film follows the Turtle brot
  hers as they work to earn the love of New York City while facing down an a
  rmy of mutants.\n\nhttps://www.imdb.com/title/tt8589698/\n\nIMDb rating: 7
