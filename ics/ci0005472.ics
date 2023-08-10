@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230808T075532Z
+LAST-MODIFIED:20230810T073332Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bobi Wine: The People's President
-DTSTART;TZID=America/Los_Angeles:20230808T210000
-DTEND;TZID=America/Los_Angeles:20230808T232500
-DTSTAMP:20230809T045300Z
-UID:ci0005472-tt21376900--2023-8-8-21-0
-DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
- er\, activist and musical star Bobi Wine. He used his music to fight the r
- egime led by Yoweri Museveni\, the person who led the country for 35 years
- .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stand by Me (1986)
-DTSTART;TZID=America/Los_Angeles:20230808T190000
-DTEND;TZID=America/Los_Angeles:20230808T205000
-DTSTAMP:20230809T025300Z
-UID:ci0005472-tt0092005--2023-8-8-19-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAfter the death of one of his fr
- iends\, a writer recounts a childhood journey with his friends to find the
-  body of a missing boy.\n\nhttps://www.imdb.com/title/tt0092005/\n\nIMDb r
- ating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bobi Wine: The People's President
-DTSTART;TZID=America/Los_Angeles:20230809T210000
-DTEND;TZID=America/Los_Angeles:20230809T232500
-DTSTAMP:20230810T045300Z
-UID:ci0005472-tt21376900--2023-8-9-21-0
-DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
- er\, activist and musical star Bobi Wine. He used his music to fight the r
- egime led by Yoweri Museveni\, the person who led the country for 35 years
- .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stand by Me (1986)
-DTSTART;TZID=America/Los_Angeles:20230809T190000
-DTEND;TZID=America/Los_Angeles:20230809T205000
-DTSTAMP:20230810T025300Z
-UID:ci0005472-tt0092005--2023-8-9-19-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAfter the death of one of his fr
- iends\, a writer recounts a childhood journey with his friends to find the
-  body of a missing boy.\n\nhttps://www.imdb.com/title/tt0092005/\n\nIMDb r
- ating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bobi Wine: The People's President
 DTSTART;TZID=America/Los_Angeles:20230810T193000
@@ -220,6 +168,58 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nTwo best friends set out on an
  adventure\, but it soon turns around to a terrifying escape from being hun
  ted by the police\, as these two girls escape for the crimes they committe
  d.\n\nhttps://www.imdb.com/title/tt0103074/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark City (1998)
+DTSTART;TZID=America/Los_Angeles:20230818T190000
+DTEND;TZID=America/Los_Angeles:20230818T210000
+DTSTAMP:20230819T025300Z
+UID:ci0005472-tt0118929--2023-8-18-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA man struggles with memories o
+ f his past\, which include a wife he cannot remember and a nightmarish wor
+ ld no one else ever seems to wake up from.\n\nhttps://www.imdb.com/title/t
+ t0118929/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola (1961)
+DTSTART;TZID=America/Los_Angeles:20230818T211500
+DTEND;TZID=America/Los_Angeles:20230818T230500
+DTSTAMP:20230819T050800Z
+UID:ci0005472-tt0055093--2023-8-18-21-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA bored young man meets with his
+  former girlfriend\, now a cabaret dancer and single mother\, and soon fin
+ ds himself falling back in love with her.\n\nhttps://www.imdb.com/title/tt
+ 0055093/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark City (1998)
+DTSTART;TZID=America/Los_Angeles:20230819T163000
+DTEND;TZID=America/Los_Angeles:20230819T183000
+DTSTAMP:20230820T002300Z
+UID:ci0005472-tt0118929--2023-8-19-16-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA man struggles with memories o
+ f his past\, which include a wife he cannot remember and a nightmarish wor
+ ld no one else ever seems to wake up from.\n\nhttps://www.imdb.com/title/t
+ t0118929/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola (1961)
+DTSTART;TZID=America/Los_Angeles:20230819T193000
+DTEND;TZID=America/Los_Angeles:20230819T212000
+DTSTAMP:20230820T032300Z
+UID:ci0005472-tt0055093--2023-8-19-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA bored young man meets with his
+  former girlfriend\, now a cabaret dancer and single mother\, and soon fin
+ ds himself falling back in love with her.\n\nhttps://www.imdb.com/title/tt
+ 0055093/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

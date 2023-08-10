@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230808T075600Z
+LAST-MODIFIED:20230810T073400Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Pat Garrett & Billy the Kid (1973)
-DTSTART;TZID=America/Los_Angeles:20230808T193000
-DTEND;TZID=America/Los_Angeles:20230808T215500
-DTSTAMP:20230809T032300Z
-UID:ci1024213-tt0070518--2023-8-8-19-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nPat Garrett is hired as a lawma
- n on behalf of a group of wealthy New Mexico cattle barons to bring down h
- is old friend Billy the Kid.\n\nhttps://www.imdb.com/title/tt0070518/\n\nI
- MDb rating: 7.2
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York\, New York (1977)
 DTSTART;TZID=America/Los_Angeles:20230810T193000
