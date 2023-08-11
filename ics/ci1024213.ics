@@ -1,19 +1,105 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230810T075050Z
+LAST-MODIFIED:20230811T082905Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
 BEGIN:VEVENT
-SUMMARY:New York\, New York (1977)
-DTSTART;TZID=America/Los_Angeles:20230810T193000
-DTEND;TZID=America/Los_Angeles:20230810T222500
-DTSTAMP:20230811T032300Z
-UID:ci1024213-tt0076451--2023-8-10-19-30
-DESCRIPTION:Duration: 2h 35m (155 mins)\n\nAn egotistical saxophonist and 
- a young lounge singer meet on VJ Day and embark upon a strained and rocky 
- romance\, even as their careers begin a long\, uphill climb.\n\nhttps://ww
- w.imdb.com/title/tt0076451/\n\nIMDb rating: 6.6
+SUMMARY:The Blob (1988)
+DTSTART;TZID=America/Los_Angeles:20230811T220000
+DTEND;TZID=America/Los_Angeles:20230811T235500
+DTSTAMP:20230812T055300Z
+UID:ci1024213-tt0094761--2023-8-11-22-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA deadly entity from space crash
+ -lands near a small town and begins consuming everyone in its path. Panic 
+ ensues as shady government scientists try to contain the horrific creature
+ .\n\nhttps://www.imdb.com/title/tt0094761/\n\nIMDb rating: 6.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy A Gets a Mattress
+DTSTART;TZID=America/Los_Angeles:20230812T190000
+DTEND;TZID=America/Los_Angeles:20230812T204000
+DTSTAMP:20230813T025300Z
+UID:ci1024213-tt28437326--2023-8-12-19-0
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
+ oup home onto the grim summer streets\, Fantasy A\, real-life autistic rap
+ per\, sets off on an odyssey to achieve fame and find a good mattress in t
+ his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
+ db.com/title/tt28437326/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fly (1986)
+DTSTART;TZID=America/Los_Angeles:20230812T213000
+DTEND;TZID=America/Los_Angeles:20230812T233000
+DTSTAMP:20230813T052300Z
+UID:ci1024213-tt0091064--2023-8-12-21-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA brilliant but eccentric scient
+ ist begins to transform into a giant man/fly hybrid after one of his exper
+ iments goes horribly wrong.\n\nhttps://www.imdb.com/title/tt0091064/\n\nIM
+ Db rating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In a Lonely Place (1950)
+DTSTART;TZID=America/Los_Angeles:20230813T140000
+DTEND;TZID=America/Los_Angeles:20230813T155500
+DTSTAMP:20230813T215300Z
+UID:ci1024213-tt0042593--2023-8-13-14-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA potentially violent screenwrit
+ er is a murder suspect until his lovely neighbor clears him. However\, she
+  soon starts to have her doubts.\n\nhttps://www.imdb.com/title/tt0042593/\
+ n\nIMDb rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's Get Lost (1988)
+DTSTART;TZID=America/Los_Angeles:20230813T170000
+DTEND;TZID=America/Los_Angeles:20230813T192000
+DTSTAMP:20230814T005300Z
+UID:ci1024213-tt0095515--2023-8-13-17-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary on the life of jazz
+  trumpeter and drug addict Chet Baker. Fascinating series of interviews wi
+ th friends\, family\, associates and lovers\, interspersed with film from 
+ Baker's earlier life and some modern-day performances.\n\nhttps://www.imdb
+ .com/title/tt0095515/\n\nIMDb rating: 7.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Me the Head of Alfredo Garcia (1974)
+DTSTART;TZID=America/Los_Angeles:20230814T193000
+DTEND;TZID=America/Los_Angeles:20230814T214500
+DTSTAMP:20230815T032300Z
+UID:ci1024213-tt0071249--2023-8-14-19-30
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nAn American barroom pianist and
+  his prostitute girlfriend go on a trip through the Mexican underworld to 
+ collect the bounty on the head of a dead gigolo.\n\nhttps://www.imdb.com/t
+ itle/tt0071249/\n\nIMDb rating: 7.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shiva Baby (2020)
+DTSTART;TZID=America/Los_Angeles:20230815T193000
+DTEND;TZID=America/Los_Angeles:20230815T211000
+DTSTAMP:20230816T032300Z
+UID:ci1024213-tt11317142--2023-8-15-19-30
+DESCRIPTION:Duration: 1h 17m (77 mins)\n\nAt a Jewish funeral service with
+  her parents\, a college student runs into her sugar daddy and ex girlfrie
+ nd.\n\nhttps://www.imdb.com/title/tt11317142/\n\nIMDb rating: 7.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:River of No Return (1954)
+DTSTART;TZID=America/Los_Angeles:20230816T193000
+DTEND;TZID=America/Los_Angeles:20230816T212500
+DTSTAMP:20230817T032300Z
+UID:ci1024213-tt0047422--2023-8-16-19-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThe titular river unites a farme
+ r recently released from prison\, his young son\, and an ambitious saloon 
+ singer. In order to survive\, each must be purged of anger\, and each must
+  learn to understand and care for the others.\n\nhttps://www.imdb.com/titl
+ e/tt0047422/\n\nIMDb rating: 6.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
 END:VEVENT
 END:VCALENDAR

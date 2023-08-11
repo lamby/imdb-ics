@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230810T075025Z
+LAST-MODIFIED:20230811T082841Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bobi Wine: The People's President
-DTSTART;TZID=America/Los_Angeles:20230810T193000
-DTEND;TZID=America/Los_Angeles:20230810T215500
-DTSTAMP:20230811T032300Z
-UID:ci0005472-tt21376900--2023-8-10-19-30
-DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows Ugandan opposition lead
- er\, activist and musical star Bobi Wine. He used his music to fight the r
- egime led by Yoweri Museveni\, the person who led the country for 35 years
- .\n\nhttps://www.imdb.com/title/tt21376900/\n\nIMDb rating: 8.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earth Mama
 DTSTART;TZID=America/Los_Angeles:20230811T190000
@@ -26,7 +13,7 @@ UID:ci0005472-tt18382328--2023-8-11-19-0
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.3
+ n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -51,7 +38,7 @@ UID:ci0005472-tt18382328--2023-8-12-16-30
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.3
+ n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -89,7 +76,7 @@ UID:ci0005472-tt18382328--2023-8-13-15-0
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.3
+ n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -102,7 +89,7 @@ UID:ci0005472-tt18382328--2023-8-13-20-0
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.3
+ n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -128,7 +115,7 @@ UID:ci0005472-tt18382328--2023-8-14-19-30
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.3
+ n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -154,7 +141,7 @@ UID:ci0005472-tt18382328--2023-8-16-19-30
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.3
+ n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -216,6 +203,45 @@ DTSTART;TZID=America/Los_Angeles:20230819T193000
 DTEND;TZID=America/Los_Angeles:20230819T212000
 DTSTAMP:20230820T032300Z
 UID:ci0005472-tt0055093--2023-8-19-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA bored young man meets with his
+  former girlfriend\, now a cabaret dancer and single mother\, and soon fin
+ ds himself falling back in love with her.\n\nhttps://www.imdb.com/title/tt
+ 0055093/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark City (1998)
+DTSTART;TZID=America/Los_Angeles:20230820T180000
+DTEND;TZID=America/Los_Angeles:20230820T200000
+DTSTAMP:20230821T015300Z
+UID:ci0005472-tt0118929--2023-8-20-18-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA man struggles with memories o
+ f his past\, which include a wife he cannot remember and a nightmarish wor
+ ld no one else ever seems to wake up from.\n\nhttps://www.imdb.com/title/t
+ t0118929/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola (1961)
+DTSTART;TZID=America/Los_Angeles:20230820T160000
+DTEND;TZID=America/Los_Angeles:20230820T175000
+DTSTAMP:20230820T235300Z
+UID:ci0005472-tt0055093--2023-8-20-16-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA bored young man meets with his
+  former girlfriend\, now a cabaret dancer and single mother\, and soon fin
+ ds himself falling back in love with her.\n\nhttps://www.imdb.com/title/tt
+ 0055093/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola (1961)
+DTSTART;TZID=America/Los_Angeles:20230820T201500
+DTEND;TZID=America/Los_Angeles:20230820T220500
+DTSTAMP:20230821T040800Z
+UID:ci0005472-tt0055093--2023-8-20-20-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA bored young man meets with his
   former girlfriend\, now a cabaret dancer and single mother\, and soon fin
  ds himself falling back in love with her.\n\nhttps://www.imdb.com/title/tt
