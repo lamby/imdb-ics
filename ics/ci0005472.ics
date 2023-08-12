@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230811T082841Z
+LAST-MODIFIED:20230812T073008Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Earth Mama
-DTSTART;TZID=America/Los_Angeles:20230811T190000
-DTEND;TZID=America/Los_Angeles:20230811T210000
-DTSTAMP:20230812T025300Z
-UID:ci0005472-tt18382328--2023-8-11-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
- of a pregnant single mother who embraces her Bay Area community as she det
- ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fist of Fury (1972)
-DTSTART;TZID=America/Los_Angeles:20230811T213000
-DTEND;TZID=America/Los_Angeles:20230811T234000
-DTSTAMP:20230812T052300Z
-UID:ci0005472-tt0068767--2023-8-11-21-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man seeks vengence for 
- the death of his teacher.\n\nhttps://www.imdb.com/title/tt0068767/\n\nIMDb
-  rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earth Mama
 DTSTART;TZID=America/Los_Angeles:20230812T163000

@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230811T082905Z
+LAST-MODIFIED:20230812T073032Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Blob (1988)
-DTSTART;TZID=America/Los_Angeles:20230811T220000
-DTEND;TZID=America/Los_Angeles:20230811T235500
-DTSTAMP:20230812T055300Z
-UID:ci1024213-tt0094761--2023-8-11-22-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA deadly entity from space crash
- -lands near a small town and begins consuming everyone in its path. Panic 
- ensues as shady government scientists try to contain the horrific creature
- .\n\nhttps://www.imdb.com/title/tt0094761/\n\nIMDb rating: 6.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fantasy A Gets a Mattress
 DTSTART;TZID=America/Los_Angeles:20230812T190000
