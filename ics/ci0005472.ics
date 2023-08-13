@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230812T073008Z
+LAST-MODIFIED:20230813T064630Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Earth Mama
-DTSTART;TZID=America/Los_Angeles:20230812T163000
-DTEND;TZID=America/Los_Angeles:20230812T183000
-DTSTAMP:20230813T002300Z
-UID:ci0005472-tt18382328--2023-8-12-16-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
- of a pregnant single mother who embraces her Bay Area community as she det
- ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fist of Fury (1972)
-DTSTART;TZID=America/Los_Angeles:20230812T220000
-DTEND;TZID=America/Los_Angeles:20230813T001000
-DTSTAMP:20230813T055300Z
-UID:ci0005472-tt0068767--2023-8-12-22-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man seeks vengence for 
- the death of his teacher.\n\nhttps://www.imdb.com/title/tt0068767/\n\nIMDb
-  rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma & Louise (1991)
-DTSTART;TZID=America/Los_Angeles:20230812T190000
-DTEND;TZID=America/Los_Angeles:20230812T213000
-DTSTAMP:20230813T025300Z
-UID:ci0005472-tt0103074--2023-8-12-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nTwo best friends set out on an 
- adventure\, but it soon turns around to a terrifying escape from being hun
- ted by the police\, as these two girls escape for the crimes they committe
- d.\n\nhttps://www.imdb.com/title/tt0103074/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earth Mama
 DTSTART;TZID=America/Los_Angeles:20230813T150000
@@ -51,7 +13,7 @@ UID:ci0005472-tt18382328--2023-8-13-15-0
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.4
+ n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -64,7 +26,7 @@ UID:ci0005472-tt18382328--2023-8-13-20-0
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.4
+ n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -90,7 +52,7 @@ UID:ci0005472-tt18382328--2023-8-14-19-30
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.4
+ n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -116,7 +78,7 @@ UID:ci0005472-tt18382328--2023-8-16-19-30
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
  of a pregnant single mother who embraces her Bay Area community as she det
  ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7.4
+ n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -221,6 +183,19 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA bored young man meets with his
   former girlfriend\, now a cabaret dancer and single mother\, and soon fin
  ds himself falling back in love with her.\n\nhttps://www.imdb.com/title/tt
  0055093/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark City (1998)
+DTSTART;TZID=America/Los_Angeles:20230822T193000
+DTEND;TZID=America/Los_Angeles:20230822T213000
+DTSTAMP:20230823T032300Z
+UID:ci0005472-tt0118929--2023-8-22-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA man struggles with memories o
+ f his past\, which include a wife he cannot remember and a nightmarish wor
+ ld no one else ever seems to wake up from.\n\nhttps://www.imdb.com/title/t
+ t0118929/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

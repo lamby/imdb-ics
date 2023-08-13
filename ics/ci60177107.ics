@@ -1,44 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230812T073132Z
+LAST-MODIFIED:20230813T064754Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230812T161500
-DTEND;TZID=America/Los_Angeles:20230812T183000
-DTSTAMP:20230813T000800Z
-UID:ci60177107-tt1517268--2023-8-12-16-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230812T191500
-DTEND;TZID=America/Los_Angeles:20230812T213000
-DTSTAMP:20230813T030800Z
-UID:ci60177107-tt1517268--2023-8-12-19-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Safety Last! (1923)
-DTSTART;TZID=America/Los_Angeles:20230812T130000
-DTEND;TZID=America/Los_Angeles:20230812T143500
-DTSTAMP:20230812T205300Z
-UID:ci60177107-tt0014429--2023-8-12-13-0
-DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA boy leaves his small country t
- own and heads to the big city to get a job. As soon as he makes it big his
-  sweetheart will join him and marry him. His enthusiasm to get ahead leads
-  to some interesting adventures.\n\nhttps://www.imdb.com/title/tt0014429/\
- n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230813T130000
@@ -266,6 +231,30 @@ DTSTART;TZID=America/Los_Angeles:20230821T190000
 DTEND;TZID=America/Los_Angeles:20230821T212000
 DTSTAMP:20230822T025300Z
 UID:ci60177107-tt0364569--2023-8-21-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
+ soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
+ t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
+ \nIMDb rating: 8.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oldboy (2003)
+DTSTART;TZID=America/Los_Angeles:20230822T160000
+DTEND;TZID=America/Los_Angeles:20230822T182000
+DTSTAMP:20230822T235300Z
+UID:ci60177107-tt0364569--2023-8-22-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
+ soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
+ t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
+ \nIMDb rating: 8.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oldboy (2003)
+DTSTART;TZID=America/Los_Angeles:20230822T190000
+DTEND;TZID=America/Los_Angeles:20230822T212000
+DTSTAMP:20230823T025300Z
+UID:ci60177107-tt0364569--2023-8-22-19-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
  soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
  t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
