@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230814T083714Z
+LAST-MODIFIED:20230818T152944Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Earth Mama
-DTSTART;TZID=America/Los_Angeles:20230814T193000
-DTEND;TZID=America/Los_Angeles:20230814T213000
-DTSTAMP:20230815T032300Z
-UID:ci0005472-tt18382328--2023-8-14-19-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
- of a pregnant single mother who embraces her Bay Area community as she det
- ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma & Louise (1991)
-DTSTART;TZID=America/Los_Angeles:20230815T191500
-DTEND;TZID=America/Los_Angeles:20230815T214500
-DTSTAMP:20230816T030800Z
-UID:ci0005472-tt0103074--2023-8-15-19-15
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nTwo best friends set out on an 
- adventure\, but it soon turns around to a terrifying escape from being hun
- ted by the police\, as these two girls escape for the crimes they committe
- d.\n\nhttps://www.imdb.com/title/tt0103074/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Earth Mama
-DTSTART;TZID=America/Los_Angeles:20230816T193000
-DTEND;TZID=America/Los_Angeles:20230816T213000
-DTSTAMP:20230817T032300Z
-UID:ci0005472-tt18382328--2023-8-16-19-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAn intimate coming of age story 
- of a pregnant single mother who embraces her Bay Area community as she det
- ermines the fate of her family.\n\nhttps://www.imdb.com/title/tt18382328/\
- n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma & Louise (1991)
-DTSTART;TZID=America/Los_Angeles:20230817T191500
-DTEND;TZID=America/Los_Angeles:20230817T214500
-DTSTAMP:20230818T030800Z
-UID:ci0005472-tt0103074--2023-8-17-19-15
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nTwo best friends set out on an 
- adventure\, but it soon turns around to a terrifying escape from being hun
- ted by the police\, as these two girls escape for the crimes they committe
- d.\n\nhttps://www.imdb.com/title/tt0103074/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dark City (1998)
 DTSTART;TZID=America/Los_Angeles:20230818T190000
@@ -157,6 +105,71 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA man struggles with memories o
  f his past\, which include a wife he cannot remember and a nightmarish wor
  ld no one else ever seems to wake up from.\n\nhttps://www.imdb.com/title/t
  t0118929/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark City (1998)
+DTSTART;TZID=America/Los_Angeles:20230824T193000
+DTEND;TZID=America/Los_Angeles:20230824T213000
+DTSTAMP:20230825T032300Z
+UID:ci0005472-tt0118929--2023-8-24-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA man struggles with memories o
+ f his past\, which include a wife he cannot remember and a nightmarish wor
+ ld no one else ever seems to wake up from.\n\nhttps://www.imdb.com/title/t
+ t0118929/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Batman: Mask of the Phantasm (1993)
+DTSTART;TZID=America/Los_Angeles:20230825T190000
+DTEND;TZID=America/Los_Angeles:20230825T204000
+DTSTAMP:20230826T025300Z
+UID:ci0005472-tt0106364--2023-8-25-19-0
+DESCRIPTION:Duration: 1h 16m (76 mins)\n\nBatman is wrongly implicated in 
+ a series of murders of mob bosses actually committed by a new vigilante as
+ sassin.\n\nhttps://www.imdb.com/title/tt0106364/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aurora's Sunrise
+DTSTART;TZID=America/Los_Angeles:20230826T180000
+DTEND;TZID=America/Los_Angeles:20230826T200000
+DTSTAMP:20230827T015300Z
+UID:ci0005472-tt20873160--2023-8-26-18-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA genocide survivor becomes a si
+ lent movie star: Aurora Mardiganian's odyssey is close to unreal. After lo
+ sing her family\, escaping slavery\, and enduring Hollywood greed. She jou
+ rneys far to tell the world of the Armenian Genocide.\n\nhttps://www.imdb.
+ com/title/tt20873160/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Batman: Mask of the Phantasm (1993)
+DTSTART;TZID=America/Los_Angeles:20230826T160000
+DTEND;TZID=America/Los_Angeles:20230826T174000
+DTSTAMP:20230826T235300Z
+UID:ci0005472-tt0106364--2023-8-26-16-0
+DESCRIPTION:Duration: 1h 16m (76 mins)\n\nBatman is wrongly implicated in 
+ a series of murders of mob bosses actually committed by a new vigilante as
+ sassin.\n\nhttps://www.imdb.com/title/tt0106364/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aurora's Sunrise
+DTSTART;TZID=America/Los_Angeles:20230827T151500
+DTEND;TZID=America/Los_Angeles:20230827T171500
+DTSTAMP:20230827T230800Z
+UID:ci0005472-tt20873160--2023-8-27-15-15
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA genocide survivor becomes a si
+ lent movie star: Aurora Mardiganian's odyssey is close to unreal. After lo
+ sing her family\, escaping slavery\, and enduring Hollywood greed. She jou
+ rneys far to tell the world of the Armenian Genocide.\n\nhttps://www.imdb.
+ com/title/tt20873160/\n\nIMDb rating: 7.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

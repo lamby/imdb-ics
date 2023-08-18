@@ -1,15 +1,27 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230814T083652Z
+LAST-MODIFIED:20230818T152930Z
 NAME:Arts Picturehouse\, Cambridge
 X-WR-CALNAME:Arts Picturehouse\, Cambridge
 BEGIN:VEVENT
+SUMMARY:Bambi (1942)
+DTSTART;TZID=Europe/London:20230818T110000
+DTEND;TZID=Europe/London:20230818T123000
+DTSTAMP:20230818T110100Z
+UID:ci0959484-tt0034492--2023-8-18-11-0
+DESCRIPTION:Duration: 1h 09m (69 mins)\n\nThe story of a young deer growin
+ g up in the forest.\n\nhttps://www.imdb.com/title/tt0034492/\n\nIMDb ratin
+ g: 7.3
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230814T123000
-DTEND;TZID=Europe/London:20230814T144500
-DTSTAMP:20230814T123100Z
-UID:ci0959484-tt1517268--2023-8-14-12-30
+DTSTART;TZID=Europe/London:20230818T130000
+DTEND;TZID=Europe/London:20230818T151500
+DTSTAMP:20230818T130100Z
+UID:ci0959484-tt1517268--2023-8-18-13-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -18,10 +30,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230814T151000
-DTEND;TZID=Europe/London:20230814T172500
-DTSTAMP:20230814T151100Z
-UID:ci0959484-tt1517268--2023-8-14-15-10
+DTSTART;TZID=Europe/London:20230818T153000
+DTEND;TZID=Europe/London:20230818T174500
+DTSTAMP:20230818T153100Z
+UID:ci0959484-tt1517268--2023-8-18-15-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -30,10 +42,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230814T174500
-DTEND;TZID=Europe/London:20230814T200000
-DTSTAMP:20230814T174600Z
-UID:ci0959484-tt1517268--2023-8-14-17-45
+DTSTART;TZID=Europe/London:20230818T181000
+DTEND;TZID=Europe/London:20230818T202500
+DTSTAMP:20230818T181100Z
+UID:ci0959484-tt1517268--2023-8-18-18-10
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -42,10 +54,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230814T203000
-DTEND;TZID=Europe/London:20230814T224500
-DTSTAMP:20230814T203100Z
-UID:ci0959484-tt1517268--2023-8-14-20-30
+DTSTART;TZID=Europe/London:20230818T204500
+DTEND;TZID=Europe/London:20230818T230000
+DTSTAMP:20230818T204600Z
+UID:ci0959484-tt1517268--2023-8-18-20-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -53,24 +65,24 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:My Name Is Alfred Hitchcock
-DTSTART;TZID=Europe/London:20230814T114000
-DTEND;TZID=Europe/London:20230814T140000
-DTSTAMP:20230814T114100Z
-UID:ci0959484-tt21154428--2023-8-14-11-40
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
- rrates an explanation of some of the lesser known cinematic techniques he 
- used in his movies\, richly illustrated with clips from his entire 50 year
-  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.7
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230818T163000
+DTEND;TZID=Europe/London:20230818T180500
+DTSTAMP:20230818T163100Z
+UID:ci0959484-tt22528178--2023-8-18-16-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230814T120000
-DTEND;TZID=Europe/London:20230814T152000
-DTSTAMP:20230814T120100Z
-UID:ci0959484-tt15398776--2023-8-14-12-0
+DTSTART;TZID=Europe/London:20230818T114500
+DTEND;TZID=Europe/London:20230818T150500
+DTSTAMP:20230818T114600Z
+UID:ci0959484-tt15398776--2023-8-18-11-45
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
@@ -79,121 +91,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230814T142000
-DTEND;TZID=Europe/London:20230814T174000
-DTSTAMP:20230814T142100Z
-UID:ci0959484-tt15398776--2023-8-14-14-20
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fist of Fury (1972)
-DTSTART;TZID=Europe/London:20230814T202000
-DTEND;TZID=Europe/London:20230814T223000
-DTSTAMP:20230814T202100Z
-UID:ci0959484-tt0068767--2023-8-14-20-20
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man seeks vengence for 
- the death of his teacher.\n\nhttps://www.imdb.com/title/tt0068767/\n\nIMDb
-  rating: 7.2
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Variety (1983)
-DTSTART;TZID=Europe/London:20230814T180000
-DTEND;TZID=Europe/London:20230814T200000
-DTSTAMP:20230814T180100Z
-UID:ci0959484-tt0090251--2023-8-14-18-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA woman becomes obsessed with p
- ornography and the mysterious rich patron of the Times Square porn theater
-  called Variety where she works selling tickets. This awakens her sexualit
- y\, which confuses her worried boyfriend.\n\nhttps://www.imdb.com/title/tt
- 0090251/\n\nIMDb rating: 6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230815T111000
-DTEND;TZID=Europe/London:20230815T132500
-DTSTAMP:20230815T111100Z
-UID:ci0959484-tt1517268--2023-8-15-11-10
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230815T131500
-DTEND;TZID=Europe/London:20230815T153000
-DTSTAMP:20230815T131600Z
-UID:ci0959484-tt1517268--2023-8-15-13-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230815T154500
-DTEND;TZID=Europe/London:20230815T180000
-DTSTAMP:20230815T154600Z
-UID:ci0959484-tt1517268--2023-8-15-15-45
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230815T182000
-DTEND;TZID=Europe/London:20230815T203500
-DTSTAMP:20230815T182100Z
-UID:ci0959484-tt1517268--2023-8-15-18-20
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230815T210000
-DTEND;TZID=Europe/London:20230815T231500
-DTSTAMP:20230815T210100Z
-UID:ci0959484-tt1517268--2023-8-15-21-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Name Is Alfred Hitchcock
-DTSTART;TZID=Europe/London:20230815T110000
-DTEND;TZID=Europe/London:20230815T132000
-DTSTAMP:20230815T110100Z
-UID:ci0959484-tt21154428--2023-8-15-11-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
- rrates an explanation of some of the lesser known cinematic techniques he 
- used in his movies\, richly illustrated with clips from his entire 50 year
-  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230815T121500
-DTEND;TZID=Europe/London:20230815T153500
-DTSTAMP:20230815T121600Z
-UID:ci0959484-tt15398776--2023-8-15-12-15
+DTSTART;TZID=Europe/London:20230818T154000
+DTEND;TZID=Europe/London:20230818T190000
+DTSTAMP:20230818T154100Z
+UID:ci0959484-tt15398776--2023-8-18-15-40
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
@@ -202,10 +103,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230815T134000
-DTEND;TZID=Europe/London:20230815T170000
-DTSTAMP:20230815T134100Z
-UID:ci0959484-tt15398776--2023-8-15-13-40
+DTSTART;TZID=Europe/London:20230818T193000
+DTEND;TZID=Europe/London:20230818T225000
+DTSTAMP:20230818T193100Z
+UID:ci0959484-tt15398776--2023-8-18-19-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
@@ -213,131 +114,11 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230815T160000
-DTEND;TZID=Europe/London:20230815T192000
-DTSTAMP:20230815T160100Z
-UID:ci0959484-tt15398776--2023-8-15-16-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230815T172000
-DTEND;TZID=Europe/London:20230815T204000
-DTSTAMP:20230815T172100Z
-UID:ci0959484-tt15398776--2023-8-15-17-20
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230815T194500
-DTEND;TZID=Europe/London:20230815T230500
-DTSTAMP:20230815T194600Z
-UID:ci0959484-tt15398776--2023-8-15-19-45
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London:20230815T210000
-DTEND;TZID=Europe/London:20230815T231000
-DTSTAMP:20230815T210100Z
-UID:ci0959484-tt14906708--2023-8-15-21-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nFollows a South London family a
- nd how one red dress is the center of their lives.\n\nhttps://www.imdb.com
- /title/tt14906708/\n\nIMDb rating: 6.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230816T120000
-DTEND;TZID=Europe/London:20230816T141500
-DTSTAMP:20230816T120100Z
-UID:ci0959484-tt1517268--2023-8-16-12-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230816T144500
-DTEND;TZID=Europe/London:20230816T170000
-DTSTAMP:20230816T144600Z
-UID:ci0959484-tt1517268--2023-8-16-14-45
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230816T170000
-DTEND;TZID=Europe/London:20230816T191500
-DTSTAMP:20230816T170100Z
-UID:ci0959484-tt1517268--2023-8-16-17-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230816T210000
-DTEND;TZID=Europe/London:20230816T231500
-DTSTAMP:20230816T210100Z
-UID:ci0959484-tt1517268--2023-8-16-21-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230816T121500
-DTEND;TZID=Europe/London:20230816T153500
-DTSTAMP:20230816T121600Z
-UID:ci0959484-tt15398776--2023-8-16-12-15
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230816T172000
-DTEND;TZID=Europe/London:20230816T204000
-DTSTAMP:20230816T172100Z
-UID:ci0959484-tt15398776--2023-8-16-17-20
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Memories
-DTSTART;TZID=Europe/London:20230816T143000
-DTEND;TZID=Europe/London:20230816T163500
-DTSTAMP:20230816T143100Z
-UID:ci0959484-tt15329224--2023-8-16-14-30
+SUMMARY:Revoir Paris
+DTSTART;TZID=Europe/London:20230818T141000
+DTEND;TZID=Europe/London:20230818T161500
+DTSTAMP:20230818T141100Z
+UID:ci0959484-tt15329224--2023-8-18-14-10
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThree months after surviving a 
  terrorist attack in a bistro\, Mia is still traumatized and unable to reca
  ll the events of that night. In an effort to move forward\, she investigat
@@ -347,38 +128,25 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roald Dahl's Matilda the Musical
-DTSTART;TZID=Europe/London:20230816T114500
-DTEND;TZID=Europe/London:20230816T140500
-DTSTAMP:20230816T114600Z
-UID:ci0959484-tt3447590--2023-8-16-11-45
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nAn adaptation of the Tony and O
- livier award-winning musical. Matilda tells the story of an extraordinary 
- girl who\, armed with a sharp mind and a vivid imagination\, dares to take
-  a stand to change her story with miraculous results.\n\nhttps://www.imdb.
- com/title/tt3447590/\n\nIMDb rating: 7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hiding Place
-DTSTART;TZID=Europe/London:20230816T193000
-DTEND;TZID=Europe/London:20230816T222000
-DTSTAMP:20230816T193100Z
-UID:ci0959484-tt28095708--2023-8-16-19-30
-DESCRIPTION:Duration: 2h 27m (147 mins)\n\nCorrie Ten Boom and her family 
- risk everything to hide Jewish refugees by the hundreds\, and they ultimat
- ely face the consequences when they are discovered.\n\nhttps://www.imdb.co
- m/title/tt28095708/\n\nIMDb rating: 7.6
+SUMMARY:Aftersun
+DTSTART;TZID=Europe/London:20230819T170000
+DTEND;TZID=Europe/London:20230819T190500
+DTSTAMP:20230819T170100Z
+UID:ci0959484-tt19770238--2023-8-19-17-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nSophie reflects on the shared j
+ oy and private melancholy of a holiday she took with her father twenty yea
+ rs earlier. Memories real and imagined fill the gaps between as she tries 
+ to reconcile the father she knew with the man she d...\n\nhttps://www.imdb
+ .com/title/tt19770238/\n\nIMDb rating: 7.7
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230817T120000
-DTEND;TZID=Europe/London:20230817T141500
-DTSTAMP:20230817T120100Z
-UID:ci0959484-tt1517268--2023-8-17-12-0
+DTSTART;TZID=Europe/London:20230819T112000
+DTEND;TZID=Europe/London:20230819T133500
+DTSTAMP:20230819T112100Z
+UID:ci0959484-tt1517268--2023-8-19-11-20
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -387,10 +155,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230817T150000
-DTEND;TZID=Europe/London:20230817T171500
-DTSTAMP:20230817T150100Z
-UID:ci0959484-tt1517268--2023-8-17-15-0
+DTSTART;TZID=Europe/London:20230819T141500
+DTEND;TZID=Europe/London:20230819T163000
+DTSTAMP:20230819T141600Z
+UID:ci0959484-tt1517268--2023-8-19-14-15
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -399,10 +167,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230817T173000
-DTEND;TZID=Europe/London:20230817T194500
-DTSTAMP:20230817T173100Z
-UID:ci0959484-tt1517268--2023-8-17-17-30
+DTSTART;TZID=Europe/London:20230819T180000
+DTEND;TZID=Europe/London:20230819T201500
+DTSTAMP:20230819T180100Z
+UID:ci0959484-tt1517268--2023-8-19-18-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -411,88 +179,13 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230817T210000
-DTEND;TZID=Europe/London:20230817T231500
-DTSTAMP:20230817T210100Z
-UID:ci0959484-tt1517268--2023-8-17-21-0
+DTSTART;TZID=Europe/London:20230819T204000
+DTEND;TZID=Europe/London:20230819T225500
+DTSTAMP:20230819T204100Z
+UID:ci0959484-tt1517268--2023-8-19-20-40
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dogville (2003)
-DTSTART;TZID=Europe/London:20230817T200000
-DTEND;TZID=Europe/London:20230817T232000
-DTSTAMP:20230817T200100Z
-UID:ci0959484-tt0276919--2023-8-17-20-0
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nA woman on the run from the mob
-  is reluctantly accepted in a small Colorado community in exchange for lab
- or\, but when a search visits the town she finds out that their support ha
- s a price.\n\nhttps://www.imdb.com/title/tt0276919/\n\nIMDb rating: 8
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230817T122000
-DTEND;TZID=Europe/London:20230817T154000
-DTSTAMP:20230817T122100Z
-UID:ci0959484-tt15398776--2023-8-17-12-20
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230817T144000
-DTEND;TZID=Europe/London:20230817T180000
-DTSTAMP:20230817T144100Z
-UID:ci0959484-tt15398776--2023-8-17-14-40
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230817T160000
-DTEND;TZID=Europe/London:20230817T192000
-DTSTAMP:20230817T160100Z
-UID:ci0959484-tt15398776--2023-8-17-16-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230817T194500
-DTEND;TZID=Europe/London:20230817T230500
-DTSTAMP:20230817T194600Z
-UID:ci0959484-tt15398776--2023-8-17-19-45
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Memories
-DTSTART;TZID=Europe/London:20230817T124000
-DTEND;TZID=Europe/London:20230817T144500
-DTSTAMP:20230817T124100Z
-UID:ci0959484-tt15329224--2023-8-17-12-40
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThree months after surviving a 
- terrorist attack in a bistro\, Mia is still traumatized and unable to reca
- ll the events of that night. In an effort to move forward\, she investigat
- es her memories and retraces her steps.\n\nhttps://www.imdb.com/title/tt15
- 329224/\n\nIMDb rating: 6.8
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -511,6 +204,68 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230819T152000
+DTEND;TZID=Europe/London:20230819T165500
+DTSTAMP:20230819T152100Z
+UID:ci0959484-tt22528178--2023-8-19-15-20
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Is Alfred Hitchcock
+DTSTART;TZID=Europe/London:20230819T121500
+DTEND;TZID=Europe/London:20230819T143500
+DTSTAMP:20230819T121600Z
+UID:ci0959484-tt21154428--2023-8-19-12-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
+ rrates an explanation of some of the lesser known cinematic techniques he 
+ used in his movies\, richly illustrated with clips from his entire 50 year
+  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230819T140000
+DTEND;TZID=Europe/London:20230819T172000
+DTSTAMP:20230819T140100Z
+UID:ci0959484-tt15398776--2023-8-19-14-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230819T171500
+DTEND;TZID=Europe/London:20230819T203500
+DTSTAMP:20230819T171600Z
+UID:ci0959484-tt15398776--2023-8-19-17-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230819T193000
+DTEND;TZID=Europe/London:20230819T225000
+DTSTAMP:20230819T193100Z
+UID:ci0959484-tt15398776--2023-8-19-19-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Talk to Me
 DTSTART;TZID=Europe/London:20230819T210000
 DTEND;TZID=Europe/London:20230819T225500
@@ -525,6 +280,55 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Little Mermaid
+DTSTART;TZID=Europe/London:20230819T110000
+DTEND;TZID=Europe/London:20230819T133500
+DTSTAMP:20230819T110100Z
+UID:ci0959484-tt5971474--2023-8-19-11-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA young mermaid makes a deal wi
+ th a sea witch to trade her beautiful voice for human legs so she can disc
+ over the world above water and impress a prince.\n\nhttps://www.imdb.com/t
+ itle/tt5971474/\n\nIMDb rating: 7.2
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230820T132000
+DTEND;TZID=Europe/London:20230820T153500
+DTSTAMP:20230820T132100Z
+UID:ci0959484-tt1517268--2023-8-20-13-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230820T172000
+DTEND;TZID=Europe/London:20230820T193500
+DTSTAMP:20230820T172100Z
+UID:ci0959484-tt1517268--2023-8-20-17-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230820T195000
+DTEND;TZID=Europe/London:20230820T220500
+DTSTAMP:20230820T195100Z
+UID:ci0959484-tt1517268--2023-8-20-19-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Children's Entertianment Program (2015)
 DTSTART;TZID=Europe/London:20230820T110000
 DTEND;TZID=Europe/London:20230820T112500
@@ -535,6 +339,82 @@ DESCRIPTION:Duration: 0h 04m (4 mins)\n\nA hosted video inclusive of Puppe
  Music and language singing\, special effects and animation cartoons\, imag
  es to fill the screens.\n\nhttps://www.imdb.com/title/tt5269380/\n\nIMDb r
  ating: 7.2
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230820T201000
+DTEND;TZID=Europe/London:20230820T214500
+DTSTAMP:20230820T201100Z
+UID:ci0959484-tt22528178--2023-8-20-20-10
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Is Alfred Hitchcock
+DTSTART;TZID=Europe/London:20230820T121000
+DTEND;TZID=Europe/London:20230820T143000
+DTSTAMP:20230820T121100Z
+UID:ci0959484-tt21154428--2023-8-20-12-10
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
+ rrates an explanation of some of the lesser known cinematic techniques he 
+ used in his movies\, richly illustrated with clips from his entire 50 year
+  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230820T145000
+DTEND;TZID=Europe/London:20230820T181000
+DTSTAMP:20230820T145100Z
+UID:ci0959484-tt15398776--2023-8-20-14-50
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230820T161000
+DTEND;TZID=Europe/London:20230820T193000
+DTSTAMP:20230820T161100Z
+UID:ci0959484-tt15398776--2023-8-20-16-10
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230820T185000
+DTEND;TZID=Europe/London:20230820T221000
+DTSTAMP:20230820T185100Z
+UID:ci0959484-tt15398776--2023-8-20-18-50
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revoir Paris
+DTSTART;TZID=Europe/London:20230820T121000
+DTEND;TZID=Europe/London:20230820T141500
+DTSTAMP:20230820T121100Z
+UID:ci0959484-tt15329224--2023-8-20-12-10
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThree months after surviving a 
+ terrorist attack in a bistro\, Mia is still traumatized and unable to reca
+ ll the events of that night. In an effort to move forward\, she investigat
+ es her memories and retraces her steps.\n\nhttps://www.imdb.com/title/tt15
+ 329224/\n\nIMDb rating: 6.8
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -564,6 +444,68 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aftersun
+DTSTART;TZID=Europe/London:20230821T222000
+DTEND;TZID=Europe/London:20230822T002500
+DTSTAMP:20230821T222100Z
+UID:ci0959484-tt19770238--2023-8-21-22-20
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nSophie reflects on the shared j
+ oy and private melancholy of a holiday she took with her father twenty yea
+ rs earlier. Memories real and imagined fill the gaps between as she tries 
+ to reconcile the father she knew with the man she d...\n\nhttps://www.imdb
+ .com/title/tt19770238/\n\nIMDb rating: 7.7
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bambi (1942)
+DTSTART;TZID=Europe/London:20230821T110000
+DTEND;TZID=Europe/London:20230821T123000
+DTSTAMP:20230821T110100Z
+UID:ci0959484-tt0034492--2023-8-21-11-0
+DESCRIPTION:Duration: 1h 09m (69 mins)\n\nThe story of a young deer growin
+ g up in the forest.\n\nhttps://www.imdb.com/title/tt0034492/\n\nIMDb ratin
+ g: 7.3
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230821T144000
+DTEND;TZID=Europe/London:20230821T165500
+DTSTAMP:20230821T144100Z
+UID:ci0959484-tt1517268--2023-8-21-14-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230821T172000
+DTEND;TZID=Europe/London:20230821T193500
+DTSTAMP:20230821T172100Z
+UID:ci0959484-tt1517268--2023-8-21-17-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230821T201000
+DTEND;TZID=Europe/London:20230821T222500
+DTSTAMP:20230821T201100Z
+UID:ci0959484-tt1517268--2023-8-21-20-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blue Velvet (1986)
 DTSTART;TZID=Europe/London:20230821T224500
 DTEND;TZID=Europe/London:20230822T010500
@@ -574,6 +516,596 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe discovery of a severed huma
  beautiful\, mysterious nightclub singer and a group of psychopathic crimin
  als who have kidnapped her child.\n\nhttps://www.imdb.com/title/tt0090756/
  \n\nIMDb rating: 7.7
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230821T130000
+DTEND;TZID=Europe/London:20230821T143500
+DTSTAMP:20230821T130100Z
+UID:ci0959484-tt22528178--2023-8-21-13-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230821T180000
+DTEND;TZID=Europe/London:20230821T193500
+DTSTAMP:20230821T180100Z
+UID:ci0959484-tt22528178--2023-8-21-18-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Is Alfred Hitchcock
+DTSTART;TZID=Europe/London:20230821T120000
+DTEND;TZID=Europe/London:20230821T142000
+DTSTAMP:20230821T120100Z
+UID:ci0959484-tt21154428--2023-8-21-12-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
+ rrates an explanation of some of the lesser known cinematic techniques he 
+ used in his movies\, richly illustrated with clips from his entire 50 year
+  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230821T114000
+DTEND;TZID=Europe/London:20230821T150000
+DTSTAMP:20230821T114100Z
+UID:ci0959484-tt15398776--2023-8-21-11-40
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230821T153000
+DTEND;TZID=Europe/London:20230821T185000
+DTSTAMP:20230821T153100Z
+UID:ci0959484-tt15398776--2023-8-21-15-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230821T191500
+DTEND;TZID=Europe/London:20230821T223500
+DTSTAMP:20230821T191600Z
+UID:ci0959484-tt15398776--2023-8-21-19-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revoir Paris
+DTSTART;TZID=Europe/London:20230821T152000
+DTEND;TZID=Europe/London:20230821T172500
+DTSTAMP:20230821T152100Z
+UID:ci0959484-tt15329224--2023-8-21-15-20
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThree months after surviving a 
+ terrorist attack in a bistro\, Mia is still traumatized and unable to reca
+ ll the events of that night. In an effort to move forward\, she investigat
+ es her memories and retraces her steps.\n\nhttps://www.imdb.com/title/tt15
+ 329224/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230822T113000
+DTEND;TZID=Europe/London:20230822T134500
+DTSTAMP:20230822T113100Z
+UID:ci0959484-tt1517268--2023-8-22-11-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230822T154500
+DTEND;TZID=Europe/London:20230822T180000
+DTSTAMP:20230822T154600Z
+UID:ci0959484-tt1517268--2023-8-22-15-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230822T180000
+DTEND;TZID=Europe/London:20230822T201500
+DTSTAMP:20230822T180100Z
+UID:ci0959484-tt1517268--2023-8-22-18-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230822T204000
+DTEND;TZID=Europe/London:20230822T225500
+DTSTAMP:20230822T204100Z
+UID:ci0959484-tt1517268--2023-8-22-20-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230822T135000
+DTEND;TZID=Europe/London:20230822T152500
+DTSTAMP:20230822T135100Z
+UID:ci0959484-tt22528178--2023-8-22-13-50
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230822T173000
+DTEND;TZID=Europe/London:20230822T190500
+DTSTAMP:20230822T173100Z
+UID:ci0959484-tt22528178--2023-8-22-17-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230822T204000
+DTEND;TZID=Europe/London:20230822T221500
+DTSTAMP:20230822T204100Z
+UID:ci0959484-tt22528178--2023-8-22-20-40
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Is Alfred Hitchcock
+DTSTART;TZID=Europe/London:20230822T111000
+DTEND;TZID=Europe/London:20230822T133000
+DTSTAMP:20230822T111100Z
+UID:ci0959484-tt21154428--2023-8-22-11-10
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
+ rrates an explanation of some of the lesser known cinematic techniques he 
+ used in his movies\, richly illustrated with clips from his entire 50 year
+  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230822T111500
+DTEND;TZID=Europe/London:20230822T143500
+DTSTAMP:20230822T111600Z
+UID:ci0959484-tt15398776--2023-8-22-11-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230822T141500
+DTEND;TZID=Europe/London:20230822T173500
+DTSTAMP:20230822T141600Z
+UID:ci0959484-tt15398776--2023-8-22-14-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230822T193000
+DTEND;TZID=Europe/London:20230822T225000
+DTSTAMP:20230822T193100Z
+UID:ci0959484-tt15398776--2023-8-22-19-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revoir Paris
+DTSTART;TZID=Europe/London:20230822T150000
+DTEND;TZID=Europe/London:20230822T170500
+DTSTAMP:20230822T150100Z
+UID:ci0959484-tt15329224--2023-8-22-15-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThree months after surviving a 
+ terrorist attack in a bistro\, Mia is still traumatized and unable to reca
+ ll the events of that night. In an effort to move forward\, she investigat
+ es her memories and retraces her steps.\n\nhttps://www.imdb.com/title/tt15
+ 329224/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aftersun
+DTSTART;TZID=Europe/London:20230823T155000
+DTEND;TZID=Europe/London:20230823T175500
+DTSTAMP:20230823T155100Z
+UID:ci0959484-tt19770238--2023-8-23-15-50
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nSophie reflects on the shared j
+ oy and private melancholy of a holiday she took with her father twenty yea
+ rs earlier. Memories real and imagined fill the gaps between as she tries 
+ to reconcile the father she knew with the man she d...\n\nhttps://www.imdb
+ .com/title/tt19770238/\n\nIMDb rating: 7.7
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bambi (1942)
+DTSTART;TZID=Europe/London:20230823T110000
+DTEND;TZID=Europe/London:20230823T123000
+DTSTAMP:20230823T110100Z
+UID:ci0959484-tt0034492--2023-8-23-11-0
+DESCRIPTION:Duration: 1h 09m (69 mins)\n\nThe story of a young deer growin
+ g up in the forest.\n\nhttps://www.imdb.com/title/tt0034492/\n\nIMDb ratin
+ g: 7.3
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230823T145000
+DTEND;TZID=Europe/London:20230823T170500
+DTSTAMP:20230823T145100Z
+UID:ci0959484-tt1517268--2023-8-23-14-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230823T173000
+DTEND;TZID=Europe/London:20230823T194500
+DTSTAMP:20230823T173100Z
+UID:ci0959484-tt1517268--2023-8-23-17-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230823T201000
+DTEND;TZID=Europe/London:20230823T222500
+DTSTAMP:20230823T201100Z
+UID:ci0959484-tt1517268--2023-8-23-20-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230823T125000
+DTEND;TZID=Europe/London:20230823T142500
+DTSTAMP:20230823T125100Z
+UID:ci0959484-tt22528178--2023-8-23-12-50
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Is Alfred Hitchcock
+DTSTART;TZID=Europe/London:20230823T131500
+DTEND;TZID=Europe/London:20230823T153500
+DTSTAMP:20230823T131600Z
+UID:ci0959484-tt21154428--2023-8-23-13-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
+ rrates an explanation of some of the lesser known cinematic techniques he 
+ used in his movies\, richly illustrated with clips from his entire 50 year
+  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230823T113000
+DTEND;TZID=Europe/London:20230823T145000
+DTSTAMP:20230823T113100Z
+UID:ci0959484-tt15398776--2023-8-23-11-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230823T151500
+DTEND;TZID=Europe/London:20230823T183500
+DTSTAMP:20230823T151600Z
+UID:ci0959484-tt15398776--2023-8-23-15-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230823T190000
+DTEND;TZID=Europe/London:20230823T222000
+DTSTAMP:20230823T190100Z
+UID:ci0959484-tt15398776--2023-8-23-19-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revoir Paris
+DTSTART;TZID=Europe/London:20230823T110000
+DTEND;TZID=Europe/London:20230823T130500
+DTSTAMP:20230823T110100Z
+UID:ci0959484-tt15329224--2023-8-23-11-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThree months after surviving a 
+ terrorist attack in a bistro\, Mia is still traumatized and unable to reca
+ ll the events of that night. In an effort to move forward\, she investigat
+ es her memories and retraces her steps.\n\nhttps://www.imdb.com/title/tt15
+ 329224/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230823T202000
+DTEND;TZID=Europe/London:20230823T220500
+DTSTAMP:20230823T202100Z
+UID:ci0959484-tt8649252--2023-8-23-20-20
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230824T113000
+DTEND;TZID=Europe/London:20230824T134500
+DTSTAMP:20230824T113100Z
+UID:ci0959484-tt1517268--2023-8-24-11-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230824T154500
+DTEND;TZID=Europe/London:20230824T180000
+DTSTAMP:20230824T154600Z
+UID:ci0959484-tt1517268--2023-8-24-15-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230824T180000
+DTEND;TZID=Europe/London:20230824T201500
+DTSTAMP:20230824T180100Z
+UID:ci0959484-tt1517268--2023-8-24-18-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230824T204000
+DTEND;TZID=Europe/London:20230824T225500
+DTSTAMP:20230824T204100Z
+UID:ci0959484-tt1517268--2023-8-24-20-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.4
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230824T135000
+DTEND;TZID=Europe/London:20230824T152500
+DTSTAMP:20230824T135100Z
+UID:ci0959484-tt22528178--2023-8-24-13-50
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230824T173000
+DTEND;TZID=Europe/London:20230824T190500
+DTSTAMP:20230824T173100Z
+UID:ci0959484-tt22528178--2023-8-24-17-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kokomo City
+DTSTART;TZID=Europe/London:20230824T205000
+DTEND;TZID=Europe/London:20230824T222500
+DTSTAMP:20230824T205100Z
+UID:ci0959484-tt22528178--2023-8-24-20-50
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA raw depiction of the lives of 
+ four black trans sex workers as they confront the dichotomy between the bl
+ ack community and themselves.\n\nhttps://www.imdb.com/title/tt22528178/\n\
+ nIMDb rating: 7.5
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Is Alfred Hitchcock
+DTSTART;TZID=Europe/London:20230824T111000
+DTEND;TZID=Europe/London:20230824T133000
+DTSTAMP:20230824T111100Z
+UID:ci0959484-tt21154428--2023-8-24-11-10
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA fictional Alfred Hitchcock na
+ rrates an explanation of some of the lesser known cinematic techniques he 
+ used in his movies\, richly illustrated with clips from his entire 50 year
+  career.\n\nhttps://www.imdb.com/title/tt21154428/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230824T111500
+DTEND;TZID=Europe/London:20230824T143500
+DTSTAMP:20230824T111600Z
+UID:ci0959484-tt15398776--2023-8-24-11-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230824T141500
+DTEND;TZID=Europe/London:20230824T173500
+DTSTAMP:20230824T141600Z
+UID:ci0959484-tt15398776--2023-8-24-14-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230824T193000
+DTEND;TZID=Europe/London:20230824T225000
+DTSTAMP:20230824T193100Z
+UID:ci0959484-tt15398776--2023-8-24-19-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revoir Paris
+DTSTART;TZID=Europe/London:20230824T150000
+DTEND;TZID=Europe/London:20230824T170500
+DTSTAMP:20230824T150100Z
+UID:ci0959484-tt15329224--2023-8-24-15-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThree months after surviving a 
+ terrorist attack in a bistro\, Mia is still traumatized and unable to reca
+ ll the events of that night. In an effort to move forward\, she investigat
+ es her memories and retraces her steps.\n\nhttps://www.imdb.com/title/tt15
+ 329224/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The House That Jack Built (2018)
+DTSTART;TZID=Europe/London:20230825T202000
+DTEND;TZID=Europe/London:20230825T231500
+DTSTAMP:20230825T202100Z
+UID:ci0959484-tt4003440--2023-8-25-20-20
+DESCRIPTION:Duration: 2h 32m (152 mins)\n\nThe story follows Jack\, a high
+ ly intelligent serial killer\, over the course of twelve years\, and depic
+ ts the murders that really develop his inner madman.\n\nhttps://www.imdb.c
+ om/title/tt4003440/\n\nIMDb rating: 6.8
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taxi Driver (1976)
+DTSTART;TZID=Europe/London:20230826T210000
+DTEND;TZID=Europe/London:20230826T231500
+DTSTAMP:20230826T210100Z
+UID:ci0959484-tt0075314--2023-8-26-21-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA mentally unstable veteran wor
+ ks as a nighttime taxi driver in New York City\, where the perceived decad
+ ence and sleaze fuels his urge for violent action.\n\nhttps://www.imdb.com
+ /title/tt0075314/\n\nIMDb rating: 8.2
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:André Rieu's 2023 Maastricht Concert: Love Is All Around
+DTSTART;TZID=Europe/London:20230827T150000
+DTEND;TZID=Europe/London:20230827T182000
+DTSTAMP:20230827T150100Z
+UID:ci0959484-tt28523201--2023-8-27-15-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nhttps://www.imdb.com/title/tt28
+ 523201/
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love (2000)
+DTSTART;TZID=Europe/London:20230827T160000
+DTEND;TZID=Europe/London:20230827T180000
+DTSTAMP:20230827T160100Z
+UID:ci0959484-tt0118694--2023-8-27-16-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nTwo neighbors form a strong bond
+  after both suspect extramarital activities of their spouses. However\, th
+ ey agree to keep their bond platonic so as not to commit similar wrongs.\n
+ \nhttps://www.imdb.com/title/tt0118694/\n\nIMDb rating: 8.1
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
