@@ -1,57 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230821T134020Z
+LAST-MODIFIED:20230823T145154Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Oldboy (2003)
-DTSTART;TZID=America/Los_Angeles:20230821T160000
-DTEND;TZID=America/Los_Angeles:20230821T182000
-DTSTAMP:20230821T235300Z
-UID:ci60177107-tt0364569--2023-8-21-16-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
- soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
- t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
- \nIMDb rating: 8.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oldboy (2003)
-DTSTART;TZID=America/Los_Angeles:20230821T190000
-DTEND;TZID=America/Los_Angeles:20230821T212000
-DTSTAMP:20230822T025300Z
-UID:ci60177107-tt0364569--2023-8-21-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
- soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
- t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
- \nIMDb rating: 8.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oldboy (2003)
-DTSTART;TZID=America/Los_Angeles:20230822T160000
-DTEND;TZID=America/Los_Angeles:20230822T182000
-DTSTAMP:20230822T235300Z
-UID:ci60177107-tt0364569--2023-8-22-16-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
- soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
- t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
- \nIMDb rating: 8.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oldboy (2003)
-DTSTART;TZID=America/Los_Angeles:20230822T190000
-DTEND;TZID=America/Los_Angeles:20230822T212000
-DTSTAMP:20230823T025300Z
-UID:ci60177107-tt0364569--2023-8-22-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
- soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
- t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
- \nIMDb rating: 8.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oldboy (2003)
 DTSTART;TZID=America/Los_Angeles:20230823T160000
@@ -181,6 +133,43 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA group of Southern California h
  igh school students are enjoying their most important subjects: sex\, drug
  s and rock n' roll.\n\nhttps://www.imdb.com/title/tt0083929/\n\nIMDb ratin
  g: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Booksmart (2019)
+DTSTART;TZID=America/Los_Angeles:20230831T190000
+DTEND;TZID=America/Los_Angeles:20230831T210500
+DTSTAMP:20230901T025300Z
+UID:ci60177107-tt1489887--2023-8-31-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nOn the eve of their high-school
+  graduation\, two academic superstars and best friends realize they should
+  have worked less and played more. Determined not to fall short of their p
+ eers\, the girls try to cram four years of fun into o...\n\nhttps://www.im
+ db.com/title/tt1489887/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers (1988)
+DTSTART;TZID=America/Los_Angeles:20230831T160000
+DTEND;TZID=America/Los_Angeles:20230831T180500
+DTSTAMP:20230831T235300Z
+UID:ci60177107-tt0097493--2023-8-31-16-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAt Westerburg High where clique
+ s rule\, jocks dominate and all the popular girls are named Heather\, it's
+  going to take a Veronica and mysterious new kid to give teen angst a body
+  count.\n\nhttps://www.imdb.com/title/tt0097493/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plan 9 from Outer Space (1957)
+DTSTART;TZID=America/Los_Angeles:20230901T190000
+DTEND;TZID=America/Los_Angeles:20230901T204000
+DTSTAMP:20230902T025300Z
+UID:ci60177107-tt0052077--2023-9-1-19-0
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
+  their terrible &quot\;Plan 9&quot\; into action. As the aliens resurrect 
+ the dead of the Earth\, the lives of the living are in danger.\n\nhttps://
+ www.imdb.com/title/tt0052077/\n\nIMDb rating: 3.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
