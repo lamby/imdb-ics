@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230823T165510Z
+LAST-MODIFIED:20230824T145257Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:One from the Heart (1981)
-DTSTART;TZID=America/Los_Angeles:20230823T193000
-DTEND;TZID=America/Los_Angeles:20230823T214000
-DTSTAMP:20230824T032300Z
-UID:ci1024213-tt0084445--2023-8-23-19-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA couple has a fight after livi
- ng together 5 years in Las Vegas. They go out and celebrate 4th of July\, 
- each with a new partner. Breakup?\n\nhttps://www.imdb.com/title/tt0084445/
- \n\nIMDb rating: 6.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Scars of Ali Boulala (2021)
 DTSTART;TZID=America/Los_Angeles:20230824T193000

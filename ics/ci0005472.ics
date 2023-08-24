@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230823T165444Z
+LAST-MODIFIED:20230824T145231Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -158,6 +158,33 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nIn 1935\, Hungarian-American par
  e on the Isle of Man. An average British family\, the Irvings\, claimed to
   have been contacted by a mysterious entity at their ...\n\nhttps://www.im
  db.com/title/tt19838620/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nandor Fodor and the Talking Mongoose
+DTSTART;TZID=America/Los_Angeles:20230902T170000
+DTEND;TZID=America/Los_Angeles:20230902T190000
+DTSTAMP:20230903T005300Z
+UID:ci0005472-tt19838620--2023-9-2-17-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nIn 1935\, Hungarian-American par
+ a-psychologist Nandor Fodor began his investigation of a strange occurrenc
+ e on the Isle of Man. An average British family\, the Irvings\, claimed to
+  have been contacted by a mysterious entity at their ...\n\nhttps://www.im
+ db.com/title/tt19838620/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Elephant 6 Recording Co.
+DTSTART;TZID=America/Los_Angeles:20230902T193000
+DTEND;TZID=America/Los_Angeles:20230902T212500
+DTSTAMP:20230903T032300Z
+UID:ci0005472-tt13259956--2023-9-2-19-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn inside look at the '90s psych
+ edelic rock collective that launched Neutral Milk Hotel\, The Olivia Tremo
+ r Control\, and The Apples in Stereo.\n\nhttps://www.imdb.com/title/tt1325
+ 9956/\n\nIMDb rating: 8.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

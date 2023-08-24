@@ -1,71 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230823T165606Z
+LAST-MODIFIED:20230824T145341Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230823T163000
-DTEND;TZID=America/Los_Angeles:20230823T184500
-DTSTAMP:20230824T002300Z
-UID:ci16639653-tt1517268--2023-8-23-16-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230823T191500
-DTEND;TZID=America/Los_Angeles:20230823T213000
-DTSTAMP:20230824T030800Z
-UID:ci16639653-tt1517268--2023-8-23-19-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=America/Los_Angeles:20230823T190000
-DTEND;TZID=America/Los_Angeles:20230823T222000
-DTSTAMP:20230824T025300Z
-UID:ci16639653-tt15398776--2023-8-23-19-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unknown Country
-DTSTART;TZID=America/Los_Angeles:20230823T164500
-DTEND;TZID=America/Los_Angeles:20230823T183000
-DTSTAMP:20230824T003800Z
-UID:ci16639653-tt12783826--2023-8-23-16-45
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAn unexpected invitation rushes 
- a grieving young woman into a lonely road trip through the American Midwes
- t towards the border between Texas and Mexico.\n\nhttps://www.imdb.com/tit
- le/tt12783826/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unknown Country
-DTSTART;TZID=America/Los_Angeles:20230823T193000
-DTEND;TZID=America/Los_Angeles:20230823T211500
-DTSTAMP:20230824T032300Z
-UID:ci16639653-tt12783826--2023-8-23-19-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAn unexpected invitation rushes 
- a grieving young woman into a lonely road trip through the American Midwes
- t towards the border between Texas and Mexico.\n\nhttps://www.imdb.com/tit
- le/tt12783826/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230824T163000
@@ -252,6 +190,48 @@ DTSTART;TZID=America/Los_Angeles:20230901T191500
 DTEND;TZID=America/Los_Angeles:20230901T212500
 DTSTAMP:20230902T030800Z
 UID:ci16639653-tt10088984--2023-9-1-19-15
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
+ t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
+ investigating rising precarity in French society through her experiences i
+ n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
+ /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between Two Worlds (2021)
+DTSTART;TZID=America/Los_Angeles:20230902T140000
+DTEND;TZID=America/Los_Angeles:20230902T161000
+DTSTAMP:20230902T215300Z
+UID:ci16639653-tt10088984--2023-9-2-14-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
+ t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
+ investigating rising precarity in French society through her experiences i
+ n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
+ /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between Two Worlds (2021)
+DTSTART;TZID=America/Los_Angeles:20230902T163000
+DTEND;TZID=America/Los_Angeles:20230902T184000
+DTSTAMP:20230903T002300Z
+UID:ci16639653-tt10088984--2023-9-2-16-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
+ t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
+ investigating rising precarity in French society through her experiences i
+ n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
+ /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between Two Worlds (2021)
+DTSTART;TZID=America/Los_Angeles:20230902T191500
+DTEND;TZID=America/Los_Angeles:20230902T212500
+DTSTAMP:20230903T030800Z
+UID:ci16639653-tt10088984--2023-9-2-19-15
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
  t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
  investigating rising precarity in French society through her experiences i
