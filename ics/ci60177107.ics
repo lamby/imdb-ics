@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230824T145352Z
+LAST-MODIFIED:20230825T150643Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Oldboy (2003)
-DTSTART;TZID=America/Los_Angeles:20230824T160000
-DTEND;TZID=America/Los_Angeles:20230824T182000
-DTSTAMP:20230824T235300Z
-UID:ci60177107-tt0364569--2023-8-24-16-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
- soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
- t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
- \nIMDb rating: 8.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oldboy (2003)
-DTSTART;TZID=America/Los_Angeles:20230824T190000
-DTEND;TZID=America/Los_Angeles:20230824T212000
-DTSTAMP:20230825T025300Z
-UID:ci60177107-tt0364569--2023-8-24-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAfter being kidnapped and impri
- soned for fifteen years\, Oh Dae-Su is released\, only to find that he mus
- t find his captor in five days.\n\nhttps://www.imdb.com/title/tt0364569/\n
- \nIMDb rating: 8.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:School of Rock (2003)
 DTSTART;TZID=America/Los_Angeles:20230825T190000
@@ -157,6 +133,41 @@ UID:ci60177107-tt0083866--2023-9-2-13-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA troubled child summons the co
  urage to help a friendly alien escape from Earth and return to his home pl
  anet.\n\nhttps://www.imdb.com/title/tt0083866/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arrival (2016)
+DTSTART;TZID=America/Los_Angeles:20230903T190000
+DTEND;TZID=America/Los_Angeles:20230903T212000
+DTSTAMP:20230904T025300Z
+UID:ci60177107-tt2543164--2023-9-3-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA linguist works with the milit
+ ary to communicate with alien lifeforms after twelve mysterious spacecraft
+  appear around the world.\n\nhttps://www.imdb.com/title/tt2543164/\n\nIMDb
+  rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors (1986)
+DTSTART;TZID=America/Los_Angeles:20230903T130000
+DTEND;TZID=America/Los_Angeles:20230903T145500
+DTSTAMP:20230903T205300Z
+UID:ci60177107-tt0091419--2023-9-3-13-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA nerdy florist finds his chance
+  for success and romance with the help of a giant man-eating plant who dem
+ ands to be fed.\n\nhttps://www.imdb.com/title/tt0091419/\n\nIMDb rating: 7
+ .1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mars Attacks! (1996)
+DTSTART;TZID=America/Los_Angeles:20230903T160000
+DTEND;TZID=America/Los_Angeles:20230903T181000
+DTSTAMP:20230903T235300Z
+UID:ci60177107-tt0116996--2023-9-3-16-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nEarth is invaded by Martians wi
+ th unbeatable weapons and a cruel sense of humor.\n\nhttps://www.imdb.com/
+ title/tt0116996/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
