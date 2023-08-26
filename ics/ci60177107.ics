@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230825T150643Z
+LAST-MODIFIED:20230826T160558Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:School of Rock (2003)
-DTSTART;TZID=America/Los_Angeles:20230825T190000
-DTEND;TZID=America/Los_Angeles:20230825T211000
-DTSTAMP:20230826T025300Z
-UID:ci60177107-tt0332379--2023-8-25-19-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAfter being kicked out of his r
- ock band\, Dewey Finn becomes a substitute teacher of an uptight elementar
- y private school\, only to try and turn his class into a rock band.\n\nhtt
- ps://www.imdb.com/title/tt0332379/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bring It On (2000)
 DTSTART;TZID=America/Los_Angeles:20230826T160000
@@ -125,7 +113,7 @@ DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:E.T. (1982)
+SUMMARY:E.T. the Extra-Terrestrial (1982)
 DTSTART;TZID=America/Los_Angeles:20230902T130000
 DTEND;TZID=America/Los_Angeles:20230902T151500
 DTSTAMP:20230902T205300Z
@@ -168,6 +156,19 @@ UID:ci60177107-tt0116996--2023-9-3-16-0
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nEarth is invaded by Martians wi
  th unbeatable weapons and a cruel sense of humor.\n\nhttps://www.imdb.com/
  title/tt0116996/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Close Encounters of the Third Kind (1977)
+DTSTART;TZID=America/Los_Angeles:20230904T190000
+DTEND;TZID=America/Los_Angeles:20230904T214000
+DTSTAMP:20230905T025300Z
+UID:ci60177107-tt0075860--2023-9-4-19-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nRoy Neary\, an Indiana electric
+  lineman\, finds his quiet and ordinary daily life turned upside down afte
+ r a close encounter with a UFO\, spurring him to an obsessed cross-country
+  quest for answers as a momentous event approaches.\n\nhttps://www.imdb.co
+ m/title/tt0075860/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

@@ -1,172 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230825T150458Z
+LAST-MODIFIED:20230826T160328Z
 NAME:Arts Picturehouse\, Cambridge
 X-WR-CALNAME:Arts Picturehouse\, Cambridge
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230825T132000
-DTEND;TZID=Europe/London:20230825T153500
-DTSTAMP:20230825T132100Z
-UID:ci0959484-tt1517268--2023-8-25-13-20
+DTSTART;TZID=Europe/London:20230826T114500
+DTEND;TZID=Europe/London:20230826T140000
+DTSTAMP:20230826T114600Z
+UID:ci0959484-tt1517268--2023-8-26-11-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230825T162000
-DTEND;TZID=Europe/London:20230825T183500
-DTSTAMP:20230825T162100Z
-UID:ci0959484-tt1517268--2023-8-25-16-20
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230825T210000
-DTEND;TZID=Europe/London:20230825T231500
-DTSTAMP:20230825T210100Z
-UID:ci0959484-tt1517268--2023-8-25-21-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinderella (1950)
-DTSTART;TZID=Europe/London:20230825T230000
-DTEND;TZID=Europe/London:20230826T003500
-DTSTAMP:20230825T230100Z
-UID:ci0959484-tt0042332--2023-8-25-23-0
-DESCRIPTION:Duration: 1h 14m (74 mins)\n\nWhen Cinderella's cruel stepmoth
- er prevents her from attending the Royal Ball\, she gets some unexpected h
- elp from the lovable mice Gus and Jaq and from her Fairy Godmother.\n\nhtt
- ps://www.imdb.com/title/tt0042332/\n\nIMDb rating: 7.3
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230825T164000
-DTEND;TZID=Europe/London:20230825T200000
-DTSTAMP:20230825T164100Z
-UID:ci0959484-tt15398776--2023-8-25-16-40
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230825T160000
-DTEND;TZID=Europe/London:20230825T174500
-DTSTAMP:20230825T160100Z
-UID:ci0959484-tt8649252--2023-8-25-16-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230825T185000
-DTEND;TZID=Europe/London:20230825T203500
-DTSTAMP:20230825T185100Z
-UID:ci0959484-tt8649252--2023-8-25-18-50
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230825T204500
-DTEND;TZID=Europe/London:20230825T223000
-DTSTAMP:20230825T204600Z
-UID:ci0959484-tt8649252--2023-8-25-20-45
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230825T231500
-DTEND;TZID=Europe/London:20230826T010000
-DTSTAMP:20230825T231600Z
-UID:ci0959484-tt8649252--2023-8-25-23-15
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The House That Jack Built (2018)
-DTSTART;TZID=Europe/London:20230825T202000
-DTEND;TZID=Europe/London:20230825T231500
-DTSTAMP:20230825T202100Z
-UID:ci0959484-tt4003440--2023-8-25-20-20
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nThe story follows Jack\, a high
- ly intelligent serial killer\, over the course of twelve years\, and depic
- ts the murders that really develop his inner madman.\n\nhttps://www.imdb.c
- om/title/tt4003440/\n\nIMDb rating: 6.8
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Innocent
-DTSTART;TZID=Europe/London:20230825T142000
-DTEND;TZID=Europe/London:20230825T162000
-DTSTAMP:20230825T142100Z
-UID:ci0959484-tt19841734--2023-8-25-14-20
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nWhen Abel learns that his mother
-  is about to marry a man in prison\, he freaks out. With the help of his b
- est friend\, he will do whatever it takes to protect her. But meeting his 
- new stepfather may well offer him a new perspective.\n\nhttps://www.imdb.c
- om/title/tt19841734/\n\nIMDb rating: 6.8
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230825T120000
-DTEND;TZID=Europe/London:20230825T135500
-DTSTAMP:20230825T120100Z
-UID:ci0959484-tt21232992--2023-8-25-12-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
-  theater camp in upstate New York must band together with the beloved foun
- der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230825T183000
-DTEND;TZID=Europe/London:20230825T202500
-DTSTAMP:20230825T183100Z
-UID:ci0959484-tt21232992--2023-8-25-18-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
-  theater camp in upstate New York must band together with the beloved foun
- der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.5
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -195,23 +41,11 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230826T234500
-DTEND;TZID=Europe/London:20230827T020000
-DTSTAMP:20230826T234600Z
-UID:ci0959484-tt1517268--2023-8-26-23-45
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230826T004500
-DTEND;TZID=Europe/London:20230826T040500
-DTSTAMP:20230826T004600Z
-UID:ci0959484-tt15398776--2023-8-26-0-45
+DTSTART;TZID=Europe/London:20230826T121500
+DTEND;TZID=Europe/London:20230826T153500
+DTSTAMP:20230826T121600Z
+UID:ci0959484-tt15398776--2023-8-26-12-15
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
@@ -227,20 +61,6 @@ UID:ci0959484-tt15398776--2023-8-26-19-50
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Puss in Boots: The Last Wish
-DTSTART;TZID=Europe/London:20230826T110000
-DTEND;TZID=Europe/London:20230826T130500
-DTSTAMP:20230826T110100Z
-UID:ci0959484-tt3915174--2023-8-26-11-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen Puss in Boots discovers th
- at his passion for adventure has taken its toll and he has burned through 
- eight of his nine lives\, he launches an epic journey to restore them by f
- inding the mythical Last Wish.\n\nhttps://www.imdb.com/title/tt3915174/\n\
- nIMDb rating: 7.9
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -362,10 +182,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230827T153000
-DTEND;TZID=Europe/London:20230827T174500
-DTSTAMP:20230827T153100Z
-UID:ci0959484-tt1517268--2023-8-27-15-30
+DTSTART;TZID=Europe/London:20230827T114500
+DTEND;TZID=Europe/London:20230827T140000
+DTSTAMP:20230827T114600Z
+UID:ci0959484-tt1517268--2023-8-27-11-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -374,10 +194,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230827T234500
-DTEND;TZID=Europe/London:20230828T020000
-DTSTAMP:20230827T234600Z
-UID:ci0959484-tt1517268--2023-8-27-23-45
+DTSTART;TZID=Europe/London:20230827T153000
+DTEND;TZID=Europe/London:20230827T174500
+DTSTAMP:20230827T153100Z
+UID:ci0959484-tt1517268--2023-8-27-15-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.4
@@ -399,10 +219,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230827T001500
-DTEND;TZID=Europe/London:20230827T033500
-DTSTAMP:20230827T001600Z
-UID:ci0959484-tt15398776--2023-8-27-0-15
+DTSTART;TZID=Europe/London:20230827T110000
+DTEND;TZID=Europe/London:20230827T142000
+DTSTAMP:20230827T110100Z
+UID:ci0959484-tt15398776--2023-8-27-11-0
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
@@ -422,14 +242,15 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230827T230000
-DTEND;TZID=Europe/London:20230828T022000
-DTSTAMP:20230827T230100Z
-UID:ci0959484-tt15398776--2023-8-27-23-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230827T112000
+DTEND;TZID=Europe/London:20230827T130500
+DTSTAMP:20230827T112100Z
+UID:ci0959484-tt8649252--2023-8-27-11-20
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -465,19 +286,6 @@ DTSTART;TZID=Europe/London:20230827T202000
 DTEND;TZID=Europe/London:20230827T220500
 DTSTAMP:20230827T202100Z
 UID:ci0959484-tt8649252--2023-8-27-20-20
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230827T232000
-DTEND;TZID=Europe/London:20230828T010500
-DTSTAMP:20230827T232100Z
-UID:ci0959484-tt8649252--2023-8-27-23-20
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
  irl\, lives happily alone in her London flat\, filling it with magic. Sudd
  enly\, her estranged father turns up and forces her to confront reality.\n
@@ -551,14 +359,26 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinderella (1950)
-DTSTART;TZID=Europe/London:20230828T234500
-DTEND;TZID=Europe/London:20230829T012000
-DTSTAMP:20230828T234600Z
-UID:ci0959484-tt0042332--2023-8-28-23-45
+DTSTART;TZID=Europe/London:20230828T114500
+DTEND;TZID=Europe/London:20230828T132000
+DTSTAMP:20230828T114600Z
+UID:ci0959484-tt0042332--2023-8-28-11-45
 DESCRIPTION:Duration: 1h 14m (74 mins)\n\nWhen Cinderella's cruel stepmoth
  er prevents her from attending the Royal Ball\, she gets some unexpected h
  elp from the lovable mice Gus and Jaq and from her Fairy Godmother.\n\nhtt
  ps://www.imdb.com/title/tt0042332/\n\nIMDb rating: 7.3
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230828T120000
+DTEND;TZID=Europe/London:20230828T152000
+DTSTAMP:20230828T120100Z
+UID:ci0959484-tt15398776--2023-8-28-12-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -583,6 +403,19 @@ UID:ci0959484-tt15398776--2023-8-28-19-30
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230828T121000
+DTEND;TZID=Europe/London:20230828T135500
+DTSTAMP:20230828T121100Z
+UID:ci0959484-tt8649252--2023-8-28-12-10
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -627,12 +460,12 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Way of the Dragon (1972)
+SUMMARY:Way of the Dragon (1972)
 DTSTART;TZID=Europe/London:20230828T200000
-DTEND;TZID=Europe/London:20230828T215000
+DTEND;TZID=Europe/London:20230828T220000
 DTSTAMP:20230828T200100Z
 UID:ci0959484-tt0068935--2023-8-28-20-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA man visits his relatives at th
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA man visits his relatives at th
  eir restaurant in Italy and has to help them defend against brutal gangste
  rs harassing them.\n\nhttps://www.imdb.com/title/tt0068935/\n\nIMDb rating
  : 7.2
@@ -691,18 +524,6 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230829T000000
-DTEND;TZID=Europe/London:20230829T032000
-DTSTAMP:20230829T000100Z
-UID:ci0959484-tt15398776--2023-8-29-0-0
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
 DTSTART;TZID=Europe/London:20230829T140000
 DTEND;TZID=Europe/London:20230829T172000
 DTSTAMP:20230829T140100Z
@@ -740,10 +561,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230829T001000
-DTEND;TZID=Europe/London:20230829T015500
-DTSTAMP:20230829T001100Z
-UID:ci0959484-tt8649252--2023-8-29-0-10
+DTSTART;TZID=Europe/London:20230829T120000
+DTEND;TZID=Europe/London:20230829T134500
+DTSTAMP:20230829T120100Z
+UID:ci0959484-tt8649252--2023-8-29-12-0
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
  irl\, lives happily alone in her London flat\, filling it with magic. Sudd
  enly\, her estranged father turns up and forces her to confront reality.\n
@@ -855,6 +676,19 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinderella (1950)
+DTSTART;TZID=Europe/London:20230830T120000
+DTEND;TZID=Europe/London:20230830T133500
+DTSTAMP:20230830T120100Z
+UID:ci0959484-tt0042332--2023-8-30-12-0
+DESCRIPTION:Duration: 1h 14m (74 mins)\n\nWhen Cinderella's cruel stepmoth
+ er prevents her from attending the Royal Ball\, she gets some unexpected h
+ elp from the lovable mice Gus and Jaq and from her Fairy Godmother.\n\nhtt
+ ps://www.imdb.com/title/tt0042332/\n\nIMDb rating: 7.3
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In the Mood for Love (2000)
 DTSTART;TZID=Europe/London:20230830T203000
 DTEND;TZID=Europe/London:20230830T223000
@@ -893,10 +727,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230830T000000
-DTEND;TZID=Europe/London:20230830T014500
-DTSTAMP:20230830T000100Z
-UID:ci0959484-tt8649252--2023-8-30-0-0
+DTSTART;TZID=Europe/London:20230830T120000
+DTEND;TZID=Europe/London:20230830T134500
+DTSTAMP:20230830T120100Z
+UID:ci0959484-tt8649252--2023-8-30-12-0
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
  irl\, lives happily alone in her London flat\, filling it with magic. Sudd
  enly\, her estranged father turns up and forces her to confront reality.\n
@@ -1009,23 +843,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinderella (1950)
-DTSTART;TZID=Europe/London:20230831T000000
-DTEND;TZID=Europe/London:20230831T013500
-DTSTAMP:20230831T000100Z
-UID:ci0959484-tt0042332--2023-8-31-0-0
-DESCRIPTION:Duration: 1h 14m (74 mins)\n\nWhen Cinderella's cruel stepmoth
- er prevents her from attending the Royal Ball\, she gets some unexpected h
- elp from the lovable mice Gus and Jaq and from her Fairy Godmother.\n\nhtt
- ps://www.imdb.com/title/tt0042332/\n\nIMDb rating: 7.3
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinderella (1950)
-DTSTART;TZID=Europe/London:20230831T234500
-DTEND;TZID=Europe/London:20230901T012000
-DTSTAMP:20230831T234600Z
-UID:ci0959484-tt0042332--2023-8-31-23-45
+DTSTART;TZID=Europe/London:20230831T114500
+DTEND;TZID=Europe/London:20230831T132000
+DTSTAMP:20230831T114600Z
+UID:ci0959484-tt0042332--2023-8-31-11-45
 DESCRIPTION:Duration: 1h 14m (74 mins)\n\nWhen Cinderella's cruel stepmoth
  er prevents her from attending the Royal Ball\, she gets some unexpected h
  elp from the lovable mice Gus and Jaq and from her Fairy Godmother.\n\nhtt
@@ -1072,10 +893,10 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230831T000000
-DTEND;TZID=Europe/London:20230831T014500
-DTSTAMP:20230831T000100Z
-UID:ci0959484-tt8649252--2023-8-31-0-0
+DTSTART;TZID=Europe/London:20230831T120000
+DTEND;TZID=Europe/London:20230831T134500
+DTSTAMP:20230831T120100Z
+UID:ci0959484-tt8649252--2023-8-31-12-0
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
  irl\, lives happily alone in her London flat\, filling it with magic. Sudd
  enly\, her estranged father turns up and forces her to confront reality.\n
@@ -1176,24 +997,11 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230901T000000
-DTEND;TZID=Europe/London:20230901T014500
-DTSTAMP:20230901T000100Z
-UID:ci0959484-tt8649252--2023-9-1-0-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.1
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinosaur Island (2014)
-DTSTART;TZID=Europe/London:20230903T230000
-DTEND;TZID=Europe/London:20230904T004500
-DTSTAMP:20230903T230100Z
-UID:ci0959484-tt3261302--2023-9-3-23-0
+SUMMARY:Journey to Dinosaur Island (2014)
+DTSTART;TZID=Europe/London:20230903T110000
+DTEND;TZID=Europe/London:20230903T124500
+DTSTAMP:20230903T110100Z
+UID:ci0959484-tt3261302--2023-9-3-11-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA vacation becomes the adventure
   of a lifetime as a boy finds himself stranded in a world filled with ghos
  t ships and prehistoric creatures. He embarks on a journey that will chang
@@ -1203,7 +1011,7 @@ LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Goodfellas (1990)
+SUMMARY:GoodFellas (1990)
 DTSTART;TZID=Europe/London:20230903T193000
 DTEND;TZID=Europe/London:20230903T221500
 DTSTAMP:20230903T193100Z
@@ -1212,6 +1020,19 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nThe story of Henry Hill and his
   life in the mafia\, covering his relationship with his wife Karen and his
   mob partners Jimmy Conway and Tommy DeVito.\n\nhttps://www.imdb.com/title
  /tt0099685/\n\nIMDb rating: 8.7
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cruising (1980)
+DTSTART;TZID=Europe/London:20230904T204500
+DTEND;TZID=Europe/London:20230904T225000
+DTSTAMP:20230904T204600Z
+UID:ci0959484-tt0080569--2023-9-4-20-45
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA police detective goes underco
+ ver in the underground S&amp\;M gay subculture of New York City to catch a
+  serial killer who is preying on gay men.\n\nhttps://www.imdb.com/title/tt
+ 0080569/\n\nIMDb rating: 6.5
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT

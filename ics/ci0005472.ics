@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230825T150519Z
+LAST-MODIFIED:20230826T160357Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Batman: Mask of the Phantasm (1993)
-DTSTART;TZID=America/Los_Angeles:20230825T190000
-DTEND;TZID=America/Los_Angeles:20230825T204000
-DTSTAMP:20230826T025300Z
-UID:ci0005472-tt0106364--2023-8-25-19-0
-DESCRIPTION:Duration: 1h 16m (76 mins)\n\nBatman is wrongly implicated in 
- a series of murders of mob bosses actually committed by a new vigilante as
- sassin.\n\nhttps://www.imdb.com/title/tt0106364/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aurora's Sunrise
 DTSTART;TZID=America/Los_Angeles:20230826T180000
@@ -163,7 +151,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Elephant 6 Recording Co.
+SUMMARY:A Future History Of: The Elephant 6 Recording Co.
 DTSTART;TZID=America/Los_Angeles:20230902T193000
 DTEND;TZID=America/Los_Angeles:20230902T212500
 DTSTAMP:20230903T032300Z
@@ -171,7 +159,7 @@ UID:ci0005472-tt13259956--2023-9-2-19-30
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn inside look at the '90s psych
  edelic rock collective that launched Neutral Milk Hotel\, The Olivia Tremo
  r Control\, and The Apples in Stereo.\n\nhttps://www.imdb.com/title/tt1325
- 9956/\n\nIMDb rating: 8.3
+ 9956/\n\nIMDb rating: 8.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -190,7 +178,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Elephant 6 Recording Co.
+SUMMARY:A Future History Of: The Elephant 6 Recording Co.
 DTSTART;TZID=America/Los_Angeles:20230903T170000
 DTEND;TZID=America/Los_Angeles:20230903T185500
 DTSTAMP:20230904T005300Z
@@ -198,7 +186,21 @@ UID:ci0005472-tt13259956--2023-9-3-17-0
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn inside look at the '90s psych
  edelic rock collective that launched Neutral Milk Hotel\, The Olivia Tremo
  r Control\, and The Apples in Stereo.\n\nhttps://www.imdb.com/title/tt1325
- 9956/\n\nIMDb rating: 8.3
+ 9956/\n\nIMDb rating: 8.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nandor Fodor and the Talking Mongoose
+DTSTART;TZID=America/Los_Angeles:20230904T193000
+DTEND;TZID=America/Los_Angeles:20230904T213000
+DTSTAMP:20230905T032300Z
+UID:ci0005472-tt19838620--2023-9-4-19-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nIn 1935\, Hungarian-American par
+ a-psychologist Nandor Fodor began his investigation of a strange occurrenc
+ e on the Isle of Man. An average British family\, the Irvings\, claimed to
+  have been contacted by a mysterious entity at their ...\n\nhttps://www.im
+ db.com/title/tt19838620/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

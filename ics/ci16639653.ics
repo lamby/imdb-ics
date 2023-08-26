@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230825T150633Z
+LAST-MODIFIED:20230826T160545Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Eternal Memory
-DTSTART;TZID=America/Los_Angeles:20230825T164500
-DTEND;TZID=America/Los_Angeles:20230825T183000
-DTSTAMP:20230826T003800Z
-UID:ci16639653-tt24082488--2023-8-25-16-45
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
- gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
- isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eternal Memory
 DTSTART;TZID=America/Los_Angeles:20230826T164500
@@ -26,7 +13,7 @@ UID:ci16639653-tt24082488--2023-8-26-16-45
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
+ .com/title/tt24082488/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -39,7 +26,7 @@ UID:ci16639653-tt24082488--2023-8-27-13-0
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
+ .com/title/tt24082488/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -52,7 +39,7 @@ UID:ci16639653-tt24082488--2023-8-27-16-45
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
+ .com/title/tt24082488/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -65,7 +52,7 @@ UID:ci16639653-tt24082488--2023-8-28-19-0
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
+ .com/title/tt24082488/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -78,7 +65,7 @@ UID:ci16639653-tt24082488--2023-8-29-19-0
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
+ .com/title/tt24082488/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -91,7 +78,7 @@ UID:ci16639653-tt24082488--2023-8-30-19-0
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
+ .com/title/tt24082488/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -104,7 +91,7 @@ UID:ci16639653-tt24082488--2023-8-31-19-15
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.6
+ .com/title/tt24082488/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -212,6 +199,48 @@ DTSTART;TZID=America/Los_Angeles:20230903T191500
 DTEND;TZID=America/Los_Angeles:20230903T212500
 DTSTAMP:20230904T030800Z
 UID:ci16639653-tt10088984--2023-9-3-19-15
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
+ t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
+ investigating rising precarity in French society through her experiences i
+ n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
+ /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between Two Worlds (2021)
+DTSTART;TZID=America/Los_Angeles:20230904T140000
+DTEND;TZID=America/Los_Angeles:20230904T161000
+DTSTAMP:20230904T215300Z
+UID:ci16639653-tt10088984--2023-9-4-14-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
+ t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
+ investigating rising precarity in French society through her experiences i
+ n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
+ /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between Two Worlds (2021)
+DTSTART;TZID=America/Los_Angeles:20230904T163000
+DTEND;TZID=America/Los_Angeles:20230904T184000
+DTSTAMP:20230905T002300Z
+UID:ci16639653-tt10088984--2023-9-4-16-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
+ t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
+ investigating rising precarity in French society through her experiences i
+ n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
+ /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between Two Worlds (2021)
+DTSTART;TZID=America/Los_Angeles:20230904T191500
+DTEND;TZID=America/Los_Angeles:20230904T212500
+DTSTAMP:20230905T030800Z
+UID:ci16639653-tt10088984--2023-9-4-19-15
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
  t Florence Aubenas's bestselling non-fiction work Le Quai de Ouistreham\, 
  investigating rising precarity in French society through her experiences i
