@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230826T160357Z
+LAST-MODIFIED:20230827T184914Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Aurora's Sunrise
-DTSTART;TZID=America/Los_Angeles:20230826T180000
-DTEND;TZID=America/Los_Angeles:20230826T200000
-DTSTAMP:20230827T015300Z
-UID:ci0005472-tt20873160--2023-8-26-18-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA genocide survivor becomes a si
- lent movie star: Aurora Mardiganian's odyssey is close to unreal. After lo
- sing her family\, escaping slavery\, and enduring Hollywood greed. She jou
- rneys far to tell the world of the Armenian Genocide.\n\nhttps://www.imdb.
- com/title/tt20873160/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Batman: Mask of the Phantasm (1993)
-DTSTART;TZID=America/Los_Angeles:20230826T160000
-DTEND;TZID=America/Los_Angeles:20230826T174000
-DTSTAMP:20230826T235300Z
-UID:ci0005472-tt0106364--2023-8-26-16-0
-DESCRIPTION:Duration: 1h 16m (76 mins)\n\nBatman is wrongly implicated in 
- a series of murders of mob bosses actually committed by a new vigilante as
- sassin.\n\nhttps://www.imdb.com/title/tt0106364/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aurora's Sunrise
 DTSTART;TZID=America/Los_Angeles:20230827T151500
@@ -151,7 +125,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Future History Of: The Elephant 6 Recording Co.
+SUMMARY:The Elephant 6 Recording Co.
 DTSTART;TZID=America/Los_Angeles:20230902T193000
 DTEND;TZID=America/Los_Angeles:20230902T212500
 DTSTAMP:20230903T032300Z
@@ -178,7 +152,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Future History Of: The Elephant 6 Recording Co.
+SUMMARY:The Elephant 6 Recording Co.
 DTSTART;TZID=America/Los_Angeles:20230903T170000
 DTEND;TZID=America/Los_Angeles:20230903T185500
 DTSTAMP:20230904T005300Z

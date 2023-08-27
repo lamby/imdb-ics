@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230826T160558Z
+LAST-MODIFIED:20230827T185023Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bring It On (2000)
-DTSTART;TZID=America/Los_Angeles:20230826T160000
-DTEND;TZID=America/Los_Angeles:20230826T180000
-DTSTAMP:20230826T235300Z
-UID:ci60177107-tt0204946--2023-8-26-16-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA champion high school cheerlead
- ing squad discovers its previous captain stole all their best routines fro
- m an inner-city school and must scramble to compete at this year's champio
- nships.\n\nhttps://www.imdb.com/title/tt0204946/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers (1988)
-DTSTART;TZID=America/Los_Angeles:20230826T190000
-DTEND;TZID=America/Los_Angeles:20230826T210500
-DTSTAMP:20230827T025300Z
-UID:ci60177107-tt0097493--2023-8-26-19-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAt Westerburg High where clique
- s rule\, jocks dominate and all the popular girls are named Heather\, it's
-  going to take a Veronica and mysterious new kid to give teen angst a body
-  count.\n\nhttps://www.imdb.com/title/tt0097493/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2004)
-DTSTART;TZID=America/Los_Angeles:20230826T133000
-DTEND;TZID=America/Los_Angeles:20230826T153000
-DTSTAMP:20230826T212300Z
-UID:ci60177107-tt0377092--2023-8-26-13-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nCady Heron is a hit with The Pla
- stics\, the A-list girl clique at her new school\, until she makes the mis
- take of falling for Aaron Samuels\, the ex-boyfriend of alpha Plastic Regi
- na George.\n\nhttps://www.imdb.com/title/tt0377092/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:School Daze (1988)
 DTSTART;TZID=America/Los_Angeles:20230828T190000
@@ -113,7 +77,7 @@ DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial (1982)
+SUMMARY:E.T. (1982)
 DTSTART;TZID=America/Los_Angeles:20230902T130000
 DTEND;TZID=America/Los_Angeles:20230902T151500
 DTSTAMP:20230902T205300Z
@@ -169,6 +133,17 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nRoy Neary\, an Indiana electric
  r a close encounter with a UFO\, spurring him to an obsessed cross-country
   quest for answers as a momentous event approaches.\n\nhttps://www.imdb.co
  m/title/tt0075860/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attack the Block (2011)
+DTSTART;TZID=America/Los_Angeles:20230905T190000
+DTEND;TZID=America/Los_Angeles:20230905T205000
+DTSTAMP:20230906T025300Z
+UID:ci60177107-tt1478964--2023-9-5-19-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA teen gang in South London defe
+ nd their block from an alien invasion.\n\nhttps://www.imdb.com/title/tt147
+ 8964/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
