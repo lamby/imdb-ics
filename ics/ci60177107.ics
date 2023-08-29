@@ -1,20 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230827T185023Z
+LAST-MODIFIED:20230829T152203Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:School Daze (1988)
-DTSTART;TZID=America/Los_Angeles:20230828T190000
-DTEND;TZID=America/Los_Angeles:20230828T212500
-DTSTAMP:20230829T025300Z
-UID:ci60177107-tt0096054--2023-8-28-19-0
-DESCRIPTION:Duration: 2h 01m (121 mins)\n\nA not so popular young man want
- s to pledge to a popular fraternity at his historically black college.\n\n
- https://www.imdb.com/title/tt0096054/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Things I Hate About You (1999)
 DTSTART;TZID=America/Los_Angeles:20230829T190000
@@ -144,6 +133,30 @@ UID:ci60177107-tt1478964--2023-9-5-19-0
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA teen gang in South London defe
  nd their block from an alien invasion.\n\nhttps://www.imdb.com/title/tt147
  8964/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plan 9 from Outer Space (1957)
+DTSTART;TZID=America/Los_Angeles:20230906T190000
+DTEND;TZID=America/Los_Angeles:20230906T204000
+DTSTAMP:20230907T025300Z
+UID:ci60177107-tt0052077--2023-9-6-19-0
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
+  their terrible &quot\;Plan 9&quot\; into action. As the aliens resurrect 
+ the dead of the Earth\, the lives of the living are in danger.\n\nhttps://
+ www.imdb.com/title/tt0052077/\n\nIMDb rating: 3.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Came from Outer Space (1953)
+DTSTART;TZID=America/Los_Angeles:20230907T190000
+DTEND;TZID=America/Los_Angeles:20230907T204500
+DTSTAMP:20230908T025300Z
+UID:ci60177107-tt0045920--2023-9-7-19-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA spaceship from another world c
+ rashes in the Arizona desert and only an amateur stargazer and a schooltea
+ cher suspect alien influence when the local townsfolk begin to act strange
+ ly.\n\nhttps://www.imdb.com/title/tt0045920/\n\nIMDb rating: 6.5
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
