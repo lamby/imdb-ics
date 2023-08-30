@@ -1,19 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230829T152154Z
+LAST-MODIFIED:20230830T145611Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
 BEGIN:VEVENT
-SUMMARY:The Eternal Memory
-DTSTART;TZID=America/Los_Angeles:20230829T190000
-DTEND;TZID=America/Los_Angeles:20230829T204500
-DTSTAMP:20230830T025300Z
-UID:ci16639653-tt24082488--2023-8-29-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
- gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
- isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.7
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230830T163000
+DTEND;TZID=America/Los_Angeles:20230830T184500
+DTSTAMP:20230831T002300Z
+UID:ci16639653-tt1517268--2023-8-30-16-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230830T191500
+DTEND;TZID=America/Los_Angeles:20230830T213000
+DTSTAMP:20230831T030800Z
+UID:ci16639653-tt1517268--2023-8-30-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=America/Los_Angeles:20230830T184500
+DTEND;TZID=America/Los_Angeles:20230830T220500
+DTSTAMP:20230831T023800Z
+UID:ci16639653-tt15398776--2023-8-30-18-45
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -31,6 +54,42 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230831T163000
+DTEND;TZID=America/Los_Angeles:20230831T184500
+DTSTAMP:20230901T002300Z
+UID:ci16639653-tt1517268--2023-8-31-16-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230831T193000
+DTEND;TZID=America/Los_Angeles:20230831T212500
+DTSTAMP:20230901T032300Z
+UID:ci16639653-tt17527468--2023-8-31-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=America/Los_Angeles:20230831T184500
+DTEND;TZID=America/Los_Angeles:20230831T220500
+DTSTAMP:20230901T023800Z
+UID:ci16639653-tt15398776--2023-8-31-18-45
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+ \, J. Robert Oppenheimer\, and his role in the development of the atomic b
+ omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Eternal Memory
 DTSTART;TZID=America/Los_Angeles:20230831T191500
 DTEND;TZID=America/Los_Angeles:20230831T210000
@@ -40,6 +99,30 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
  .com/title/tt24082488/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230901T161500
+DTEND;TZID=America/Los_Angeles:20230901T183000
+DTSTAMP:20230902T000800Z
+UID:ci16639653-tt1517268--2023-9-1-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230901T190000
+DTEND;TZID=America/Los_Angeles:20230901T211500
+DTSTAMP:20230902T025300Z
+UID:ci16639653-tt1517268--2023-9-1-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -68,6 +151,66 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
  investigating rising precarity in French society through her experiences i
  n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
  /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230901T170000
+DTEND;TZID=America/Los_Angeles:20230901T185500
+DTSTAMP:20230902T005300Z
+UID:ci16639653-tt17527468--2023-9-1-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230901T193000
+DTEND;TZID=America/Los_Angeles:20230901T212500
+DTSTAMP:20230902T032300Z
+UID:ci16639653-tt17527468--2023-9-1-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230902T133000
+DTEND;TZID=America/Los_Angeles:20230902T154500
+DTSTAMP:20230902T212300Z
+UID:ci16639653-tt1517268--2023-9-2-13-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230902T161500
+DTEND;TZID=America/Los_Angeles:20230902T183000
+DTSTAMP:20230903T000800Z
+UID:ci16639653-tt1517268--2023-9-2-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230902T190000
+DTEND;TZID=America/Los_Angeles:20230902T211500
+DTSTAMP:20230903T025300Z
+UID:ci16639653-tt1517268--2023-9-2-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -114,6 +257,78 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230902T141500
+DTEND;TZID=America/Los_Angeles:20230902T161000
+DTSTAMP:20230902T220800Z
+UID:ci16639653-tt17527468--2023-9-2-14-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230902T170000
+DTEND;TZID=America/Los_Angeles:20230902T185500
+DTSTAMP:20230903T005300Z
+UID:ci16639653-tt17527468--2023-9-2-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230902T193000
+DTEND;TZID=America/Los_Angeles:20230902T212500
+DTSTAMP:20230903T032300Z
+UID:ci16639653-tt17527468--2023-9-2-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230903T133000
+DTEND;TZID=America/Los_Angeles:20230903T154500
+DTSTAMP:20230903T212300Z
+UID:ci16639653-tt1517268--2023-9-3-13-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230903T161500
+DTEND;TZID=America/Los_Angeles:20230903T183000
+DTSTAMP:20230904T000800Z
+UID:ci16639653-tt1517268--2023-9-3-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230903T190000
+DTEND;TZID=America/Los_Angeles:20230903T211500
+DTSTAMP:20230904T025300Z
+UID:ci16639653-tt1517268--2023-9-3-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Between Two Worlds (2021)
 DTSTART;TZID=America/Los_Angeles:20230903T140000
 DTEND;TZID=America/Los_Angeles:20230903T161000
@@ -152,6 +367,78 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
  investigating rising precarity in French society through her experiences i
  n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
  /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230903T141500
+DTEND;TZID=America/Los_Angeles:20230903T161000
+DTSTAMP:20230903T220800Z
+UID:ci16639653-tt17527468--2023-9-3-14-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230903T170000
+DTEND;TZID=America/Los_Angeles:20230903T185500
+DTSTAMP:20230904T005300Z
+UID:ci16639653-tt17527468--2023-9-3-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230903T193000
+DTEND;TZID=America/Los_Angeles:20230903T212500
+DTSTAMP:20230904T032300Z
+UID:ci16639653-tt17527468--2023-9-3-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230904T133000
+DTEND;TZID=America/Los_Angeles:20230904T154500
+DTSTAMP:20230904T212300Z
+UID:ci16639653-tt1517268--2023-9-4-13-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230904T161500
+DTEND;TZID=America/Los_Angeles:20230904T183000
+DTSTAMP:20230905T000800Z
+UID:ci16639653-tt1517268--2023-9-4-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230904T190000
+DTEND;TZID=America/Los_Angeles:20230904T211500
+DTSTAMP:20230905T025300Z
+UID:ci16639653-tt1517268--2023-9-4-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -198,6 +485,66 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230904T141500
+DTEND;TZID=America/Los_Angeles:20230904T161000
+DTSTAMP:20230904T220800Z
+UID:ci16639653-tt17527468--2023-9-4-14-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230904T170000
+DTEND;TZID=America/Los_Angeles:20230904T185500
+DTSTAMP:20230905T005300Z
+UID:ci16639653-tt17527468--2023-9-4-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230904T193000
+DTEND;TZID=America/Los_Angeles:20230904T212500
+DTSTAMP:20230905T032300Z
+UID:ci16639653-tt17527468--2023-9-4-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230905T161500
+DTEND;TZID=America/Los_Angeles:20230905T183000
+DTSTAMP:20230906T000800Z
+UID:ci16639653-tt1517268--2023-9-5-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230905T190000
+DTEND;TZID=America/Los_Angeles:20230905T211500
+DTSTAMP:20230906T025300Z
+UID:ci16639653-tt1517268--2023-9-5-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Between Two Worlds (2021)
 DTSTART;TZID=America/Los_Angeles:20230905T163000
 DTEND;TZID=America/Los_Angeles:20230905T184000
@@ -226,6 +573,54 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230905T170000
+DTEND;TZID=America/Los_Angeles:20230905T185500
+DTSTAMP:20230906T005300Z
+UID:ci16639653-tt17527468--2023-9-5-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230905T193000
+DTEND;TZID=America/Los_Angeles:20230905T212500
+DTSTAMP:20230906T032300Z
+UID:ci16639653-tt17527468--2023-9-5-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230906T161500
+DTEND;TZID=America/Los_Angeles:20230906T183000
+DTSTAMP:20230907T000800Z
+UID:ci16639653-tt1517268--2023-9-6-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230906T190000
+DTEND;TZID=America/Los_Angeles:20230906T211500
+DTSTAMP:20230907T025300Z
+UID:ci16639653-tt1517268--2023-9-6-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Between Two Worlds (2021)
 DTSTART;TZID=America/Los_Angeles:20230906T153000
 DTEND;TZID=America/Los_Angeles:20230906T174000
@@ -240,6 +635,30 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230906T170000
+DTEND;TZID=America/Los_Angeles:20230906T185500
+DTSTAMP:20230907T005300Z
+UID:ci16639653-tt17527468--2023-9-6-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230906T193000
+DTEND;TZID=America/Los_Angeles:20230906T212500
+DTSTAMP:20230907T032300Z
+UID:ci16639653-tt17527468--2023-9-6-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Virgin Suicides (1999)
 DTSTART;TZID=America/Los_Angeles:20230906T180000
 DTEND;TZID=America/Los_Angeles:20230906T200000
@@ -249,6 +668,30 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA group of male friends become o
  bsessed with five mysterious sisters who are sheltered by their strict\, r
  eligious parents in suburban Detroit in the mid 1970s.\n\nhttps://www.imdb
  .com/title/tt0159097/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230907T161500
+DTEND;TZID=America/Los_Angeles:20230907T183000
+DTSTAMP:20230908T000800Z
+UID:ci16639653-tt1517268--2023-9-7-16-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20230907T190000
+DTEND;TZID=America/Los_Angeles:20230907T211500
+DTSTAMP:20230908T025300Z
+UID:ci16639653-tt1517268--2023-9-7-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -277,6 +720,56 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nIt is based on French journalis
  investigating rising precarity in French society through her experiences i
  n the northern port city of Caen.\n\nhttps://www.imdb.com/title/tt10088984
  /\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230907T170000
+DTEND;TZID=America/Los_Angeles:20230907T185500
+DTSTAMP:20230908T005300Z
+UID:ci16639653-tt17527468--2023-9-7-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottoms
+DTSTART;TZID=America/Los_Angeles:20230907T193000
+DTEND;TZID=America/Los_Angeles:20230907T212500
+DTSTAMP:20230908T032300Z
+UID:ci16639653-tt17527468--2023-9-7-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
+ students start a fight club to have sex before graduation.\n\nhttps://www.
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230908T163000
+DTEND;TZID=America/Los_Angeles:20230908T181500
+DTSTAMP:20230909T002300Z
+UID:ci16639653-tt8649252--2023-9-8-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230908T191500
+DTEND;TZID=America/Los_Angeles:20230908T210000
+DTSTAMP:20230909T030800Z
+UID:ci16639653-tt8649252--2023-9-8-19-15
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT

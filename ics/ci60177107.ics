@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230829T152203Z
+LAST-MODIFIED:20230830T145620Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:10 Things I Hate About You (1999)
-DTSTART;TZID=America/Los_Angeles:20230829T190000
-DTEND;TZID=America/Los_Angeles:20230829T210000
-DTSTAMP:20230830T025300Z
-UID:ci60177107-tt0147800--2023-8-29-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA high-school boy\, Cameron\, ca
- nnot date Bianca until her anti-social older sister\, Kat\, has a boyfrien
- d. So\, Cameron pays a mysterious boy\, Patrick\, to charm Kat.\n\nhttps:/
- /www.imdb.com/title/tt0147800/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fast Times at Ridgemont High (1982)
 DTSTART;TZID=America/Los_Angeles:20230830T190000
@@ -74,6 +62,29 @@ UID:ci60177107-tt0083866--2023-9-2-13-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA troubled child summons the co
  urage to help a friendly alien escape from Earth and return to his home pl
  anet.\n\nhttps://www.imdb.com/title/tt0083866/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blob (1958)
+DTSTART;TZID=America/Los_Angeles:20230902T170000
+DTEND;TZID=America/Los_Angeles:20230902T185000
+DTSTAMP:20230903T005300Z
+UID:ci60177107-tt0051418--2023-9-2-17-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nAn alien lifeform consumes every
+ thing in its path as it grows and grows.\n\nhttps://www.imdb.com/title/tt0
+ 051418/\n\nIMDb rating: 6.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blob (1988)
+DTSTART;TZID=America/Los_Angeles:20230902T191500
+DTEND;TZID=America/Los_Angeles:20230902T211000
+DTSTAMP:20230903T030800Z
+UID:ci60177107-tt0094761--2023-9-2-19-15
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA deadly entity from space crash
+ -lands near a small town and begins consuming everyone in its path. Panic 
+ ensues as shady government scientists try to contain the horrific creature
+ .\n\nhttps://www.imdb.com/title/tt0094761/\n\nIMDb rating: 6.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -157,6 +168,17 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA spaceship from another world c
  rashes in the Arizona desert and only an amateur stargazer and a schooltea
  cher suspect alien influence when the local townsfolk begin to act strange
  ly.\n\nhttps://www.imdb.com/title/tt0045920/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantastic Planet (1973)
+DTSTART;TZID=America/Los_Angeles:20230908T190000
+DTEND;TZID=America/Los_Angeles:20230908T203500
+DTSTAMP:20230909T025300Z
+UID:ci60177107-tt0070544--2023-9-8-19-0
+DESCRIPTION:Duration: 1h 12m (72 mins)\n\nOn a faraway planet where blue g
+ iants rule\, oppressed humanoids rebel against their machine-like leaders.
+ \n\nhttps://www.imdb.com/title/tt0070544/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

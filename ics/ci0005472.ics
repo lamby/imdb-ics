@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230829T152047Z
+LAST-MODIFIED:20230830T145504Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Aurora's Sunrise
-DTSTART;TZID=America/Los_Angeles:20230829T210000
-DTEND;TZID=America/Los_Angeles:20230829T230000
-DTSTAMP:20230830T045300Z
-UID:ci0005472-tt20873160--2023-8-29-21-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA genocide survivor becomes a si
- lent movie star: Aurora Mardiganian's odyssey is close to unreal. After lo
- sing her family\, escaping slavery\, and enduring Hollywood greed. She jou
- rneys far to tell the world of the Armenian Genocide.\n\nhttps://www.imdb.
- com/title/tt20873160/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Batman: Mask of the Phantasm (1993)
-DTSTART;TZID=America/Los_Angeles:20230829T190000
-DTEND;TZID=America/Los_Angeles:20230829T204000
-DTSTAMP:20230830T025300Z
-UID:ci0005472-tt0106364--2023-8-29-19-0
-DESCRIPTION:Duration: 1h 16m (76 mins)\n\nBatman is wrongly implicated in 
- a series of murders of mob bosses actually committed by a new vigilante as
- sassin.\n\nhttps://www.imdb.com/title/tt0106364/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batman: Mask of the Phantasm (1993)
 DTSTART;TZID=America/Los_Angeles:20230830T193000
@@ -174,6 +148,33 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nWhen famed paranormal psychologi
   uncovers a mysterious web of hidden motives. Soon\, everyone becomes a su
  spect in his relentless pursuit of the truth.\n\nhttps://www.imdb.com/titl
  e/tt19838620/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amanda
+DTSTART;TZID=America/Los_Angeles:20230908T190000
+DTEND;TZID=America/Los_Angeles:20230908T205500
+DTSTAMP:20230909T025300Z
+UID:ci0005472-tt18469872--2023-9-8-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
+ ted and has never had any friends\, even if it's the thing she wants the m
+ ost. Amanda chooses as her new mission to convince her childhood friend th
+ at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
+ n\nIMDb rating: 6.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cade: The Tortured Crossing
+DTSTART;TZID=America/Los_Angeles:20230908T211500
+DTEND;TZID=America/Los_Angeles:20230908T231500
+DTSTAMP:20230909T050800Z
+UID:ci0005472-tt24786094--2023-9-8-21-15
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
+  twin brother who restores an old mysterious mental asylum. He takes it up
+ on himself to mystically train the patients as warriors for humanity and j
+ ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
