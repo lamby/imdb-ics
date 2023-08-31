@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230830T145504Z
+LAST-MODIFIED:20230831T143844Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Batman: Mask of the Phantasm (1993)
-DTSTART;TZID=America/Los_Angeles:20230830T193000
-DTEND;TZID=America/Los_Angeles:20230830T211000
-DTSTAMP:20230831T032300Z
-UID:ci0005472-tt0106364--2023-8-30-19-30
-DESCRIPTION:Duration: 1h 16m (76 mins)\n\nBatman is wrongly implicated in 
- a series of murders of mob bosses actually committed by a new vigilante as
- sassin.\n\nhttps://www.imdb.com/title/tt0106364/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aurora's Sunrise
 DTSTART;TZID=America/Los_Angeles:20230831T190000
@@ -175,6 +163,47 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
   twin brother who restores an old mysterious mental asylum. He takes it up
  on himself to mystically train the patients as warriors for humanity and j
  ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amanda
+DTSTART;TZID=America/Los_Angeles:20230909T163000
+DTEND;TZID=America/Los_Angeles:20230909T182500
+DTSTAMP:20230910T002300Z
+UID:ci0005472-tt18469872--2023-9-9-16-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
+ ted and has never had any friends\, even if it's the thing she wants the m
+ ost. Amanda chooses as her new mission to convince her childhood friend th
+ at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
+ n\nIMDb rating: 6.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cade: The Tortured Crossing
+DTSTART;TZID=America/Los_Angeles:20230909T211500
+DTEND;TZID=America/Los_Angeles:20230909T231500
+DTSTAMP:20230910T050800Z
+UID:ci0005472-tt24786094--2023-9-9-21-15
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
+  twin brother who restores an old mysterious mental asylum. He takes it up
+ on himself to mystically train the patients as warriors for humanity and j
+ ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slotherhouse
+DTSTART;TZID=America/Los_Angeles:20230909T190000
+DTEND;TZID=America/Los_Angeles:20230909T205500
+DTSTAMP:20230910T025300Z
+UID:ci0005472-tt15422224--2023-9-9-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
+ o be elected as her sorority's president. She adopts a cute sloth\, thinki
+ ng it can become the new mascot and help her win\, until a string of fatal
+ ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
+ mdb.com/title/tt15422224/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

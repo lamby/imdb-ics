@@ -1,58 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230830T145611Z
+LAST-MODIFIED:20230831T143943Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230830T163000
-DTEND;TZID=America/Los_Angeles:20230830T184500
-DTSTAMP:20230831T002300Z
-UID:ci16639653-tt1517268--2023-8-30-16-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230830T191500
-DTEND;TZID=America/Los_Angeles:20230830T213000
-DTSTAMP:20230831T030800Z
-UID:ci16639653-tt1517268--2023-8-30-19-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=America/Los_Angeles:20230830T184500
-DTEND;TZID=America/Los_Angeles:20230830T220500
-DTSTAMP:20230831T023800Z
-UID:ci16639653-tt15398776--2023-8-30-18-45
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eternal Memory
-DTSTART;TZID=America/Los_Angeles:20230830T190000
-DTEND;TZID=America/Los_Angeles:20230830T204500
-DTSTAMP:20230831T025300Z
-UID:ci16639653-tt24082488--2023-8-30-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
- gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
- isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230831T163000
@@ -98,7 +49,7 @@ UID:ci16639653-tt24082488--2023-8-31-19-15
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
  gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
  isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.7
+ .com/title/tt24082488/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -766,6 +717,45 @@ DTSTART;TZID=America/Los_Angeles:20230908T191500
 DTEND;TZID=America/Los_Angeles:20230908T210000
 DTSTAMP:20230909T030800Z
 UID:ci16639653-tt8649252--2023-9-8-19-15
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230909T140000
+DTEND;TZID=America/Los_Angeles:20230909T154500
+DTSTAMP:20230909T215300Z
+UID:ci16639653-tt8649252--2023-9-9-14-0
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230909T163000
+DTEND;TZID=America/Los_Angeles:20230909T181500
+DTSTAMP:20230910T002300Z
+UID:ci16639653-tt8649252--2023-9-9-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230909T191500
+DTEND;TZID=America/Los_Angeles:20230909T210000
+DTSTAMP:20230910T030800Z
+UID:ci16639653-tt8649252--2023-9-9-19-15
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
  irl\, lives happily alone in her London flat\, filling it with magic. Sudd
  enly\, her estranged father turns up and forces her to confront reality.\n

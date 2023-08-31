@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230830T145620Z
+LAST-MODIFIED:20230831T143951Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fast Times at Ridgemont High (1982)
-DTSTART;TZID=America/Los_Angeles:20230830T190000
-DTEND;TZID=America/Los_Angeles:20230830T205000
-DTSTAMP:20230831T025300Z
-UID:ci60177107-tt0083929--2023-8-30-19-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA group of Southern California h
- igh school students are enjoying their most important subjects: sex\, drug
- s and rock n' roll.\n\nhttps://www.imdb.com/title/tt0083929/\n\nIMDb ratin
- g: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Booksmart (2019)
 DTSTART;TZID=America/Los_Angeles:20230831T190000
@@ -179,6 +167,17 @@ UID:ci60177107-tt0070544--2023-9-8-19-0
 DESCRIPTION:Duration: 1h 12m (72 mins)\n\nOn a faraway planet where blue g
  iants rule\, oppressed humanoids rebel against their machine-like leaders.
  \n\nhttps://www.imdb.com/title/tt0070544/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. (1982)
+DTSTART;TZID=America/Los_Angeles:20230909T130000
+DTEND;TZID=America/Los_Angeles:20230909T151500
+DTSTAMP:20230909T205300Z
+UID:ci60177107-tt0083866--2023-9-9-13-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA troubled child summons the co
+ urage to help a friendly alien escape from Earth and return to his home pl
+ anet.\n\nhttps://www.imdb.com/title/tt0083866/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
