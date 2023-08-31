@@ -96,6 +96,12 @@ class ImdbICS:
             "id": "ci60177107",
             "timezone": "America/Los_Angeles",
         },
+        {
+            "name": "SIFF Film Center, Seattle",
+            "address": "305 Harrison Street, Seattle WA 98109",
+            "id": "ci16639652",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
