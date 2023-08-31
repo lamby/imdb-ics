@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230831T143749Z
+LAST-MODIFIED:20230831T182014Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
@@ -829,6 +829,17 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230902T091000
+DTEND;TZID=Europe/London:20230902T112500
+DTSTAMP:20230902T091100Z
+UID:ci0960123-tt1517268--2023-9-2-9-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
+ ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
+ itle/tt1517268/\n\nIMDb rating: 7.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
 DTSTART;TZID=Europe/London:20230902T200500
 DTEND;TZID=Europe/London:20230902T222000
 DTSTAMP:20230902T200600Z
@@ -895,19 +906,6 @@ UID:ci0960123-tt0046183--2023-9-2-13-25
 DESCRIPTION:Duration: 1h 17m (77 mins)\n\nWendy and her brothers are whisk
  ed away to the magical world of Neverland with the hero of their stories\,
   Peter Pan.\n\nhttps://www.imdb.com/title/tt0046183/\n\nIMDb rating: 7.3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gran Turismo
-DTSTART;TZID=Europe/London:20230902T215500
-DTEND;TZID=Europe/London:20230903T003000
-DTSTAMP:20230902T215600Z
-UID:ci0960123-tt4495098--2023-9-2-21-55
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nBased on the unbelievable\, ins
- piring true story of a team of underdogs - a struggling\, working-class ga
- mer\, a failed former race car driver\, and an idealistic motorsport exec 
- - who risk it all to take on the most elite sport in th...\n\nhttps://www.
- imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1012,6 +1010,18 @@ DTSTART;TZID=Europe/London:20230902T114500
 DTEND;TZID=Europe/London:20230902T134500
 DTSTAMP:20230902T114600Z
 UID:ci0960123-tt8589698--2023-9-2-11-45
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe film follows the Turtle brot
+ hers as they work to earn the love of New York City while facing down an a
+ rmy of mutants.\n\nhttps://www.imdb.com/title/tt8589698/\n\nIMDb rating: 7
+ .5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230902T174500
+DTEND;TZID=Europe/London:20230902T194500
+DTSTAMP:20230902T174600Z
+UID:ci0960123-tt8589698--2023-9-2-17-45
 DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe film follows the Turtle brot
  hers as they work to earn the love of New York City while facing down an a
  rmy of mutants.\n\nhttps://www.imdb.com/title/tt8589698/\n\nIMDb rating: 7
@@ -1280,6 +1290,18 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nFollows four Asian American frie
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Joy Ride
+DTSTART;TZID=Europe/London:20230903T225500
+DTEND;TZID=Europe/London:20230904T005000
+DTSTAMP:20230903T225600Z
+UID:ci0960123-tt15268244--2023-9-3-22-55
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nFollows four Asian American frie
+ nds as they bond and discover the truth of what it means to know and love 
+ who you are\, while they travel through China in search of one of their bi
+ rth mothers.\n\nhttps://www.imdb.com/title/tt15268244/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:King of Kotha
 DTSTART;TZID=Europe/London:20230903T221500
 DTEND;TZID=Europe/London:20230904T013000
@@ -1486,18 +1508,6 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe film follows the Turtle brot
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230903T225500
-DTEND;TZID=Europe/London:20230904T005500
-DTSTAMP:20230903T225600Z
-UID:ci0960123-tt8589698--2023-9-3-22-55
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe film follows the Turtle brot
- hers as they work to earn the love of New York City while facing down an a
- rmy of mutants.\n\nhttps://www.imdb.com/title/tt8589698/\n\nIMDb rating: 7
- .5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Equalizer 3
 DTSTART;TZID=Europe/London:20230903T091500
 DTEND;TZID=Europe/London:20230903T112500
@@ -1679,10 +1689,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230904T234500
-DTEND;TZID=Europe/London:20230905T020000
-DTSTAMP:20230904T234600Z
-UID:ci0960123-tt1517268--2023-9-4-23-45
+DTSTART;TZID=Europe/London:20230904T233000
+DTEND;TZID=Europe/London:20230905T014500
+DTSTAMP:20230904T233100Z
+UID:ci0960123-tt1517268--2023-9-4-23-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
  ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
  itle/tt1517268/\n\nIMDb rating: 7.3
@@ -1729,10 +1739,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blue Beetle
-DTSTART;TZID=Europe/London:20230904T224000
-DTEND;TZID=Europe/London:20230905T011000
-DTSTAMP:20230904T224100Z
-UID:ci0960123-tt9362930--2023-9-4-22-40
+DTSTART;TZID=Europe/London:20230904T232000
+DTEND;TZID=Europe/London:20230905T015000
+DTSTAMP:20230904T232100Z
+UID:ci0960123-tt9362930--2023-9-4-23-20
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAn alien scarab chooses Jaime R
  eyes to be its symbiotic host\, bestowing the recent college graduate with
   a suit of armor that's capable of extraordinary powers\, forever changing
@@ -1780,17 +1790,6 @@ DESCRIPTION:Duration: 2h 14m (134 mins)\n\nBased on the unbelievable\, ins
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London:20230904T220000
-DTEND;TZID=Europe/London:20230905T005500
-DTSTAMP:20230904T220100Z
-UID:ci0960123-tt1462764--2023-9-4-22-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Insidious: The Red Door
 DTSTART;TZID=Europe/London:20230904T210000
 DTEND;TZID=Europe/London:20230904T231000
@@ -1803,10 +1802,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: The Red Door
-DTSTART;TZID=Europe/London:20230904T234500
-DTEND;TZID=Europe/London:20230905T015500
-DTSTAMP:20230904T234600Z
-UID:ci0960123-tt13405778--2023-9-4-23-45
+DTSTART;TZID=Europe/London:20230904T230000
+DTEND;TZID=Europe/London:20230905T011000
+DTSTAMP:20230904T230100Z
+UID:ci0960123-tt13405778--2023-9-4-23-0
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
  o The Further than ever before to put their demons to rest once and for al
  l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb rating: 5.5
@@ -1850,10 +1849,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London:20230904T232000
-DTEND;TZID=Europe/London:20230905T022500
-DTSTAMP:20230904T232100Z
-UID:ci0960123-tt9603212--2023-9-4-23-20
+DTSTART;TZID=Europe/London:20230904T224000
+DTEND;TZID=Europe/London:20230905T014500
+DTSTAMP:20230904T224100Z
+UID:ci0960123-tt9603212--2023-9-4-22-40
 DESCRIPTION:Duration: 2h 43m (163 mins)\n\nEthan Hunt and his IMF team mus
  t track down a dangerous weapon before it falls into the wrong hands.\n\nh
  ttps://www.imdb.com/title/tt9603212/\n\nIMDb rating: 8
@@ -1916,10 +1915,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230904T222500
-DTEND;TZID=Europe/London:20230905T014500
-DTSTAMP:20230904T222600Z
-UID:ci0960123-tt15398776--2023-9-4-22-25
+DTSTART;TZID=Europe/London:20230904T220000
+DTEND;TZID=Europe/London:20230905T012000
+DTSTAMP:20230904T220100Z
+UID:ci0960123-tt15398776--2023-9-4-22-0
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
  \, J. Robert Oppenheimer\, and his role in the development of the atomic b
  omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
@@ -1996,10 +1995,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Talk to Me
-DTSTART;TZID=Europe/London:20230904T230000
-DTEND;TZID=Europe/London:20230905T005500
-DTSTAMP:20230904T230100Z
-UID:ci0960123-tt10638522--2023-9-4-23-0
+DTSTART;TZID=Europe/London:20230904T234500
+DTEND;TZID=Europe/London:20230905T014000
+DTSTAMP:20230904T234600Z
+UID:ci0960123-tt10638522--2023-9-4-23-45
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nWhen a group of friends discover
   how to conjure spirits using an embalmed hand\, they become hooked on the
   new thrill\, until one of them goes too far and unleashes terrifying supe
@@ -2081,18 +2080,6 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA young mermaid makes a deal wi
  th a sea witch to trade her beautiful voice for human legs so she can disc
  over the world above water and impress a prince.\n\nhttps://www.imdb.com/t
  itle/tt5971474/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230904T233000
-DTEND;TZID=Europe/London:20230905T012500
-DTSTAMP:20230904T233100Z
-UID:ci0960123-tt21232992--2023-9-4-23-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThe eccentric staff of a rundown
-  theater camp in upstate New York must band together with the beloved foun
- der's bro-y son to keep the camp afloat.\n\nhttps://www.imdb.com/title/tt2
- 1232992/\n\nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2236,28 +2223,6 @@ DESCRIPTION:Duration: 2h 14m (134 mins)\n\nBased on the unbelievable\, ins
  mer\, a failed former race car driver\, and an idealistic motorsport exec 
  - who risk it all to take on the most elite sport in th...\n\nhttps://www.
  imdb.com/title/tt4495098/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London:20230905T232500
-DTEND;TZID=Europe/London:20230906T022000
-DTSTAMP:20230905T232600Z
-UID:ci0960123-tt1462764--2023-9-5-23-25
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nArchaeologist Indiana Jones rac
- es against time to retrieve a legendary artifact that can change the cours
- e of history.\n\nhttps://www.imdb.com/title/tt1462764/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: The Red Door
-DTSTART;TZID=Europe/London:20230905T232000
-DTEND;TZID=Europe/London:20230906T013000
-DTSTAMP:20230905T232100Z
-UID:ci0960123-tt13405778--2023-9-5-23-20
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
- o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb rating: 5.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2689,17 +2654,6 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA single mom named Gabbie hires
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: The Red Door
-DTSTART;TZID=Europe/London:20230906T231000
-DTEND;TZID=Europe/London:20230907T012000
-DTSTAMP:20230906T231100Z
-UID:ci0960123-tt13405778--2023-9-6-23-10
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Lamberts must go deeper int
- o The Further than ever before to put their demons to rest once and for al
- l.\n\nhttps://www.imdb.com/title/tt13405778/\n\nIMDb rating: 5.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jailer
 DTSTART;TZID=Europe/London:20230906T194000
 DTEND;TZID=Europe/London:20230906T225000
@@ -2709,18 +2663,6 @@ DESCRIPTION:Duration: 2h 48m (168 mins)\n\nA retired jailer goes on a manh
  unt to find his son's killers. But the road leads him to a familiar\, albe
  it a bit darker place. Can he emerge from this complex situation successfu
  lly?\n\nhttps://www.imdb.com/title/tt11663228/\n\nIMDb rating: 7.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230906T224500
-DTEND;TZID=Europe/London:20230907T004000
-DTSTAMP:20230906T224600Z
-UID:ci0960123-tt15268244--2023-9-6-22-45
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nFollows four Asian American frie
- nds as they bond and discover the truth of what it means to know and love 
- who you are\, while they travel through China in search of one of their bi
- rth mothers.\n\nhttps://www.imdb.com/title/tt15268244/\n\nIMDb rating: 6.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2879,19 +2821,6 @@ DTSTART;TZID=Europe/London:20230906T204500
 DTEND;TZID=Europe/London:20230906T224000
 DTSTAMP:20230906T204600Z
 UID:ci0960123-tt10638522--2023-9-6-20-45
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nWhen a group of friends discover
-  how to conjure spirits using an embalmed hand\, they become hooked on the
-  new thrill\, until one of them goes too far and unleashes terrifying supe
- rnatural forces.\n\nhttps://www.imdb.com/title/tt10638522/\n\nIMDb rating:
-  7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Talk to Me
-DTSTART;TZID=Europe/London:20230906T230500
-DTEND;TZID=Europe/London:20230907T010000
-DTSTAMP:20230906T230600Z
-UID:ci0960123-tt10638522--2023-9-6-23-5
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nWhen a group of friends discover
   how to conjure spirits using an embalmed hand\, they become hooked on the
   new thrill\, until one of them goes too far and unleashes terrifying supe
@@ -3367,7 +3296,7 @@ DESCRIPTION:Duration: 1h 50m (110 mins)\n\n1956 - France. A priest is murd
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Hundred and One Dalmatians (1961)
+SUMMARY:101 Dalmatians (1961)
 DTSTART;TZID=Europe/London:20230909T130000
 DTEND;TZID=Europe/London:20230909T144000
 DTSTAMP:20230909T130100Z

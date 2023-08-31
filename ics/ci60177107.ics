@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230831T143951Z
+LAST-MODIFIED:20230831T182403Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -42,7 +42,7 @@ DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:E.T. (1982)
+SUMMARY:E.T. the Extra-Terrestrial (1982)
 DTSTART;TZID=America/Los_Angeles:20230902T130000
 DTEND;TZID=America/Los_Angeles:20230902T151500
 DTSTAMP:20230902T205300Z
@@ -170,7 +170,7 @@ DESCRIPTION:Duration: 1h 12m (72 mins)\n\nOn a faraway planet where blue g
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:E.T. (1982)
+SUMMARY:E.T. the Extra-Terrestrial (1982)
 DTSTART;TZID=America/Los_Angeles:20230909T130000
 DTEND;TZID=America/Los_Angeles:20230909T151500
 DTSTAMP:20230909T205300Z
