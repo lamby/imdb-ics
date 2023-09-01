@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230831T182158Z
+LAST-MODIFIED:20230901T150428Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Aurora's Sunrise
-DTSTART;TZID=America/Los_Angeles:20230831T190000
-DTEND;TZID=America/Los_Angeles:20230831T210000
-DTSTAMP:20230901T025300Z
-UID:ci0005472-tt20873160--2023-8-31-19-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA genocide survivor becomes a si
- lent movie star: Aurora Mardiganian's odyssey is close to unreal. After lo
- sing her family\, escaping slavery\, and enduring Hollywood greed. She jou
- rneys far to tell the world of the Armenian Genocide.\n\nhttps://www.imdb.
- com/title/tt20873160/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Batman: Mask of the Phantasm (1993)
-DTSTART;TZID=America/Los_Angeles:20230831T213000
-DTEND;TZID=America/Los_Angeles:20230831T231000
-DTSTAMP:20230901T052300Z
-UID:ci0005472-tt0106364--2023-8-31-21-30
-DESCRIPTION:Duration: 1h 16m (76 mins)\n\nBatman is wrongly implicated in 
- a series of murders of mob bosses actually committed by a new vigilante as
- sassin.\n\nhttps://www.imdb.com/title/tt0106364/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nandor Fodor and the Talking Mongoose
 DTSTART;TZID=America/Los_Angeles:20230901T193000
@@ -203,7 +177,49 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
  o be elected as her sorority's president. She adopts a cute sloth\, thinki
  ng it can become the new mascot and help her win\, until a string of fatal
  ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
- mdb.com/title/tt15422224/\n\nIMDb rating: 7.5
+ mdb.com/title/tt15422224/\n\nIMDb rating: 7.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amanda
+DTSTART;TZID=America/Los_Angeles:20230910T180000
+DTEND;TZID=America/Los_Angeles:20230910T195500
+DTSTAMP:20230911T015300Z
+UID:ci0005472-tt18469872--2023-9-10-18-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
+ ted and has never had any friends\, even if it's the thing she wants the m
+ ost. Amanda chooses as her new mission to convince her childhood friend th
+ at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
+ n\nIMDb rating: 6.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slotherhouse
+DTSTART;TZID=America/Los_Angeles:20230910T154500
+DTEND;TZID=America/Los_Angeles:20230910T174000
+DTSTAMP:20230910T233800Z
+UID:ci0005472-tt15422224--2023-9-10-15-45
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
+ o be elected as her sorority's president. She adopts a cute sloth\, thinki
+ ng it can become the new mascot and help her win\, until a string of fatal
+ ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
+ mdb.com/title/tt15422224/\n\nIMDb rating: 7.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slotherhouse
+DTSTART;TZID=America/Los_Angeles:20230910T201500
+DTEND;TZID=America/Los_Angeles:20230910T221000
+DTSTAMP:20230911T040800Z
+UID:ci0005472-tt15422224--2023-9-10-20-15
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
+ o be elected as her sorority's president. She adopts a cute sloth\, thinki
+ ng it can become the new mascot and help her win\, until a string of fatal
+ ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
+ mdb.com/title/tt15422224/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

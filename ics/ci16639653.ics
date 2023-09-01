@@ -1,58 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230831T182349Z
+LAST-MODIFIED:20230901T150600Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230831T163000
-DTEND;TZID=America/Los_Angeles:20230831T184500
-DTSTAMP:20230901T002300Z
-UID:ci16639653-tt1517268--2023-8-31-16-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART;TZID=America/Los_Angeles:20230831T193000
-DTEND;TZID=America/Los_Angeles:20230831T212500
-DTSTAMP:20230901T032300Z
-UID:ci16639653-tt17527468--2023-8-31-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
- students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=America/Los_Angeles:20230831T184500
-DTEND;TZID=America/Los_Angeles:20230831T220500
-DTSTAMP:20230901T023800Z
-UID:ci16639653-tt15398776--2023-8-31-18-45
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
- \, J. Robert Oppenheimer\, and his role in the development of the atomic b
- omb.\n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eternal Memory
-DTSTART;TZID=America/Los_Angeles:20230831T191500
-DTEND;TZID=America/Los_Angeles:20230831T210000
-DTSTAMP:20230901T030800Z
-UID:ci16639653-tt24082488--2023-8-31-19-15
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nAugusto and Paulina have been to
- gether for 25 years. Eight years ago\, he was diagnosed with Alzheimer's d
- isease. Both fear the day he no longer recognizes her.\n\nhttps://www.imdb
- .com/title/tt24082488/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230901T161500
@@ -113,7 +64,7 @@ DTSTAMP:20230902T005300Z
 UID:ci16639653-tt17527468--2023-9-1-17-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -125,7 +76,7 @@ DTSTAMP:20230902T032300Z
 UID:ci16639653-tt17527468--2023-9-1-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -215,7 +166,7 @@ DTSTAMP:20230902T220800Z
 UID:ci16639653-tt17527468--2023-9-2-14-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -227,7 +178,7 @@ DTSTAMP:20230903T005300Z
 UID:ci16639653-tt17527468--2023-9-2-17-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -239,7 +190,7 @@ DTSTAMP:20230903T032300Z
 UID:ci16639653-tt17527468--2023-9-2-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -329,7 +280,7 @@ DTSTAMP:20230903T220800Z
 UID:ci16639653-tt17527468--2023-9-3-14-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -341,7 +292,7 @@ DTSTAMP:20230904T005300Z
 UID:ci16639653-tt17527468--2023-9-3-17-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -353,7 +304,7 @@ DTSTAMP:20230904T032300Z
 UID:ci16639653-tt17527468--2023-9-3-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -443,7 +394,7 @@ DTSTAMP:20230904T220800Z
 UID:ci16639653-tt17527468--2023-9-4-14-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -455,7 +406,7 @@ DTSTAMP:20230905T005300Z
 UID:ci16639653-tt17527468--2023-9-4-17-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -467,7 +418,7 @@ DTSTAMP:20230905T032300Z
 UID:ci16639653-tt17527468--2023-9-4-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -531,7 +482,7 @@ DTSTAMP:20230906T005300Z
 UID:ci16639653-tt17527468--2023-9-5-17-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -543,7 +494,7 @@ DTSTAMP:20230906T032300Z
 UID:ci16639653-tt17527468--2023-9-5-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -593,7 +544,7 @@ DTSTAMP:20230907T005300Z
 UID:ci16639653-tt17527468--2023-9-6-17-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -605,7 +556,7 @@ DTSTAMP:20230907T032300Z
 UID:ci16639653-tt17527468--2023-9-6-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -682,7 +633,7 @@ DTSTAMP:20230908T005300Z
 UID:ci16639653-tt17527468--2023-9-7-17-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -694,7 +645,7 @@ DTSTAMP:20230908T032300Z
 UID:ci16639653-tt17527468--2023-9-7-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nTwo unpopular queer high school 
  students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7
+ imdb.com/title/tt17527468/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -756,6 +707,45 @@ DTSTART;TZID=America/Los_Angeles:20230909T191500
 DTEND;TZID=America/Los_Angeles:20230909T210000
 DTSTAMP:20230910T030800Z
 UID:ci16639653-tt8649252--2023-9-9-19-15
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230910T140000
+DTEND;TZID=America/Los_Angeles:20230910T154500
+DTSTAMP:20230910T215300Z
+UID:ci16639653-tt8649252--2023-9-10-14-0
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230910T163000
+DTEND;TZID=America/Los_Angeles:20230910T181500
+DTSTAMP:20230911T002300Z
+UID:ci16639653-tt8649252--2023-9-10-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
+ irl\, lives happily alone in her London flat\, filling it with magic. Sudd
+ enly\, her estranged father turns up and forces her to confront reality.\n
+ \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=America/Los_Angeles:20230910T191500
+DTEND;TZID=America/Los_Angeles:20230910T210000
+DTSTAMP:20230911T030800Z
+UID:ci16639653-tt8649252--2023-9-10-19-15
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
  irl\, lives happily alone in her London flat\, filling it with magic. Sudd
  enly\, her estranged father turns up and forces her to confront reality.\n

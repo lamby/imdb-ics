@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230831T182403Z
+LAST-MODIFIED:20230901T150613Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Booksmart (2019)
-DTSTART;TZID=America/Los_Angeles:20230831T190000
-DTEND;TZID=America/Los_Angeles:20230831T210500
-DTSTAMP:20230901T025300Z
-UID:ci60177107-tt1489887--2023-8-31-19-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nOn the eve of their high-school
-  graduation\, two academic superstars and best friends realize they should
-  have worked less and played more. Determined not to fall short of their p
- eers\, the girls try to cram four years of fun into o...\n\nhttps://www.im
- db.com/title/tt1489887/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers (1988)
-DTSTART;TZID=America/Los_Angeles:20230831T160000
-DTEND;TZID=America/Los_Angeles:20230831T180500
-DTSTAMP:20230831T235300Z
-UID:ci60177107-tt0097493--2023-8-31-16-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAt Westerburg High where clique
- s rule\, jocks dominate and all the popular girls are named Heather\, it's
-  going to take a Veronica and mysterious new kid to give teen angst a body
-  count.\n\nhttps://www.imdb.com/title/tt0097493/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plan 9 from Outer Space (1957)
 DTSTART;TZID=America/Los_Angeles:20230901T190000
@@ -178,6 +153,28 @@ UID:ci60177107-tt0083866--2023-9-9-13-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA troubled child summons the co
  urage to help a friendly alien escape from Earth and return to his home pl
  anet.\n\nhttps://www.imdb.com/title/tt0083866/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu (1922)
+DTSTART;TZID=America/Los_Angeles:20230910T150000
+DTEND;TZID=America/Los_Angeles:20230910T165500
+DTSTAMP:20230910T225300Z
+UID:ci60177107-tt0013442--2023-9-10-15-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nVampire Count Orlok expresses in
+ terest in a new residence and real estate agent Hutter's wife.\n\nhttps://
+ www.imdb.com/title/tt0013442/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cabinet of Dr. Caligari (1920)
+DTSTART;TZID=America/Los_Angeles:20230910T180000
+DTEND;TZID=America/Los_Angeles:20230910T192000
+DTSTAMP:20230911T015300Z
+UID:ci60177107-tt0010323--2023-9-10-18-0
+DESCRIPTION:Duration: 0h 58m (58 mins)\n\nHypnotist Dr. Caligari uses a so
+ mnambulist\, Cesare\, to commit murders.\n\nhttps://www.imdb.com/title/tt0
+ 010323/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
