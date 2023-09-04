@@ -1,7 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230901T150508Z
+LAST-MODIFIED:20230904T171620Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Tetsuo: The Iron Man (1989)
+DTSTART;TZID=America/Los_Angeles:20230904T193000
+DTEND;TZID=America/Los_Angeles:20230904T210000
+DTSTAMP:20230905T032300Z
+UID:ci1024213-tt0096251--2023-9-4-19-30
+DESCRIPTION:Duration: 1h 07m (67 mins)\n\nA businessman accidentally kills
+  The Metal Fetishist\, who gets his revenge by slowly turning the man into
+  a grotesque hybrid of flesh and rusty metal.\n\nhttps://www.imdb.com/titl
+ e/tt0096251/\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Strawberries (1957)
+DTSTART;TZID=America/Los_Angeles:20230905T193000
+DTEND;TZID=America/Los_Angeles:20230905T212500
+DTSTAMP:20230906T032300Z
+UID:ci1024213-tt0050986--2023-9-5-19-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nAfter living a life marked by co
+ ldness\, an aging professor is forced to confront the emptiness of his exi
+ stence.\n\nhttps://www.imdb.com/title/tt0050986/\n\nIMDb rating: 8.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:If.... (1968)
+DTSTART;TZID=America/Los_Angeles:20230906T193000
+DTEND;TZID=America/Los_Angeles:20230906T214500
+DTSTAMP:20230907T032300Z
+UID:ci1024213-tt0063850--2023-9-6-19-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nIn this allegorical story\, a r
+ evolution led by pupil Mick Travis takes place at an old established priva
+ te school in England.\n\nhttps://www.imdb.com/title/tt0063850/\n\nIMDb rat
+ ing: 7.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
 END:VCALENDAR

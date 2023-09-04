@@ -1,77 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230901T150428Z
+LAST-MODIFIED:20230904T171551Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Nandor Fodor and the Talking Mongoose
-DTSTART;TZID=America/Los_Angeles:20230901T193000
-DTEND;TZID=America/Los_Angeles:20230901T213000
-DTSTAMP:20230902T032300Z
-UID:ci0005472-tt19838620--2023-9-1-19-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nWhen famed paranormal psychologi
- st Dr. Nandor Fodor investigates a family's claim of a talking animal\, he
-  uncovers a mysterious web of hidden motives. Soon\, everyone becomes a su
- spect in his relentless pursuit of the truth.\n\nhttps://www.imdb.com/titl
- e/tt19838620/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nandor Fodor and the Talking Mongoose
-DTSTART;TZID=America/Los_Angeles:20230902T170000
-DTEND;TZID=America/Los_Angeles:20230902T190000
-DTSTAMP:20230903T005300Z
-UID:ci0005472-tt19838620--2023-9-2-17-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nWhen famed paranormal psychologi
- st Dr. Nandor Fodor investigates a family's claim of a talking animal\, he
-  uncovers a mysterious web of hidden motives. Soon\, everyone becomes a su
- spect in his relentless pursuit of the truth.\n\nhttps://www.imdb.com/titl
- e/tt19838620/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Future History Of: The Elephant 6 Recording Co.
-DTSTART;TZID=America/Los_Angeles:20230902T193000
-DTEND;TZID=America/Los_Angeles:20230902T212500
-DTSTAMP:20230903T032300Z
-UID:ci0005472-tt13259956--2023-9-2-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn inside look at the '90s psych
- edelic rock collective that launched Neutral Milk Hotel\, The Olivia Tremo
- r Control\, and The Apples in Stereo.\n\nhttps://www.imdb.com/title/tt1325
- 9956/\n\nIMDb rating: 8.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nandor Fodor and the Talking Mongoose
-DTSTART;TZID=America/Los_Angeles:20230903T193000
-DTEND;TZID=America/Los_Angeles:20230903T213000
-DTSTAMP:20230904T032300Z
-UID:ci0005472-tt19838620--2023-9-3-19-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nWhen famed paranormal psychologi
- st Dr. Nandor Fodor investigates a family's claim of a talking animal\, he
-  uncovers a mysterious web of hidden motives. Soon\, everyone becomes a su
- spect in his relentless pursuit of the truth.\n\nhttps://www.imdb.com/titl
- e/tt19838620/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Future History Of: The Elephant 6 Recording Co.
-DTSTART;TZID=America/Los_Angeles:20230903T170000
-DTEND;TZID=America/Los_Angeles:20230903T185500
-DTSTAMP:20230904T005300Z
-UID:ci0005472-tt13259956--2023-9-3-17-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn inside look at the '90s psych
- edelic rock collective that launched Neutral Milk Hotel\, The Olivia Tremo
- r Control\, and The Apples in Stereo.\n\nhttps://www.imdb.com/title/tt1325
- 9956/\n\nIMDb rating: 8.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nandor Fodor and the Talking Mongoose
 DTSTART;TZID=America/Los_Angeles:20230904T193000
@@ -82,12 +14,12 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nWhen famed paranormal psychologi
  st Dr. Nandor Fodor investigates a family's claim of a talking animal\, he
   uncovers a mysterious web of hidden motives. Soon\, everyone becomes a su
  spect in his relentless pursuit of the truth.\n\nhttps://www.imdb.com/titl
- e/tt19838620/
+ e/tt19838620/\n\nIMDb rating: 8.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Future History Of: The Elephant 6 Recording Co.
+SUMMARY:The Elephant 6 Recording Co.
 DTSTART;TZID=America/Los_Angeles:20230906T193000
 DTEND;TZID=America/Los_Angeles:20230906T212500
 DTSTAMP:20230907T032300Z
@@ -109,7 +41,7 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nWhen famed paranormal psychologi
  st Dr. Nandor Fodor investigates a family's claim of a talking animal\, he
   uncovers a mysterious web of hidden motives. Soon\, everyone becomes a su
  spect in his relentless pursuit of the truth.\n\nhttps://www.imdb.com/titl
- e/tt19838620/
+ e/tt19838620/\n\nIMDb rating: 8.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -136,7 +68,7 @@ UID:ci0005472-tt24786094--2023-9-8-21-15
 DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
   twin brother who restores an old mysterious mental asylum. He takes it up
  on himself to mystically train the patients as warriors for humanity and j
- ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.9
+ ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -163,7 +95,7 @@ UID:ci0005472-tt24786094--2023-9-9-21-15
 DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
   twin brother who restores an old mysterious mental asylum. He takes it up
  on himself to mystically train the patients as warriors for humanity and j
- ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.9
+ ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -177,7 +109,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
  o be elected as her sorority's president. She adopts a cute sloth\, thinki
  ng it can become the new mascot and help her win\, until a string of fatal
  ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
- mdb.com/title/tt15422224/\n\nIMDb rating: 7.4
+ mdb.com/title/tt15422224/\n\nIMDb rating: 6.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -205,7 +137,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
  o be elected as her sorority's president. She adopts a cute sloth\, thinki
  ng it can become the new mascot and help her win\, until a string of fatal
  ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
- mdb.com/title/tt15422224/\n\nIMDb rating: 7.4
+ mdb.com/title/tt15422224/\n\nIMDb rating: 6.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -219,7 +151,48 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
  o be elected as her sorority's president. She adopts a cute sloth\, thinki
  ng it can become the new mascot and help her win\, until a string of fatal
  ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
- mdb.com/title/tt15422224/\n\nIMDb rating: 7.4
+ mdb.com/title/tt15422224/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amanda
+DTSTART;TZID=America/Los_Angeles:20230911T193000
+DTEND;TZID=America/Los_Angeles:20230911T212500
+DTSTAMP:20230912T032300Z
+UID:ci0005472-tt18469872--2023-9-11-19-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
+ ted and has never had any friends\, even if it's the thing she wants the m
+ ost. Amanda chooses as her new mission to convince her childhood friend th
+ at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
+ n\nIMDb rating: 6.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flesh for Frankenstein (1973)
+DTSTART;TZID=America/Los_Angeles:20230912T193000
+DTEND;TZID=America/Los_Angeles:20230912T212500
+DTSTAMP:20230913T032300Z
+UID:ci0005472-tt0071508--2023-9-12-19-30
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nBaron Frankenstein creates two &
+ quot\;zombies&quot\; - one male\, one female - planning to mate them in or
+ der to create a master race.\n\nhttps://www.imdb.com/title/tt0071508/\n\nI
+ MDb rating: 5.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amanda
+DTSTART;TZID=America/Los_Angeles:20230913T193000
+DTEND;TZID=America/Los_Angeles:20230913T212500
+DTSTAMP:20230914T032300Z
+UID:ci0005472-tt18469872--2023-9-13-19-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
+ ted and has never had any friends\, even if it's the thing she wants the m
+ ost. Amanda chooses as her new mission to convince her childhood friend th
+ at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
+ n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

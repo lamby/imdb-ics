@@ -1,90 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230901T150613Z
+LAST-MODIFIED:20230904T171706Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Plan 9 from Outer Space (1957)
-DTSTART;TZID=America/Los_Angeles:20230901T190000
-DTEND;TZID=America/Los_Angeles:20230901T204000
-DTSTAMP:20230902T025300Z
-UID:ci60177107-tt0052077--2023-9-1-19-0
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
-  their terrible &quot\;Plan 9&quot\; into action. As the aliens resurrect 
- the dead of the Earth\, the lives of the living are in danger.\n\nhttps://
- www.imdb.com/title/tt0052077/\n\nIMDb rating: 3.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial (1982)
-DTSTART;TZID=America/Los_Angeles:20230902T130000
-DTEND;TZID=America/Los_Angeles:20230902T151500
-DTSTAMP:20230902T205300Z
-UID:ci60177107-tt0083866--2023-9-2-13-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA troubled child summons the co
- urage to help a friendly alien escape from Earth and return to his home pl
- anet.\n\nhttps://www.imdb.com/title/tt0083866/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Blob (1958)
-DTSTART;TZID=America/Los_Angeles:20230902T170000
-DTEND;TZID=America/Los_Angeles:20230902T185000
-DTSTAMP:20230903T005300Z
-UID:ci60177107-tt0051418--2023-9-2-17-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nAn alien lifeform consumes every
- thing in its path as it grows and grows.\n\nhttps://www.imdb.com/title/tt0
- 051418/\n\nIMDb rating: 6.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Blob (1988)
-DTSTART;TZID=America/Los_Angeles:20230902T191500
-DTEND;TZID=America/Los_Angeles:20230902T211000
-DTSTAMP:20230903T030800Z
-UID:ci60177107-tt0094761--2023-9-2-19-15
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA deadly entity from space crash
- -lands near a small town and begins consuming everyone in its path. Panic 
- ensues as shady government scientists try to contain the horrific creature
- .\n\nhttps://www.imdb.com/title/tt0094761/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arrival (2016)
-DTSTART;TZID=America/Los_Angeles:20230903T190000
-DTEND;TZID=America/Los_Angeles:20230903T212000
-DTSTAMP:20230904T025300Z
-UID:ci60177107-tt2543164--2023-9-3-19-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA linguist works with the milit
- ary to communicate with alien lifeforms after twelve mysterious spacecraft
-  appear around the world.\n\nhttps://www.imdb.com/title/tt2543164/\n\nIMDb
-  rating: 7.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Shop of Horrors (1986)
-DTSTART;TZID=America/Los_Angeles:20230903T130000
-DTEND;TZID=America/Los_Angeles:20230903T145500
-DTSTAMP:20230903T205300Z
-UID:ci60177107-tt0091419--2023-9-3-13-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA nerdy florist finds his chance
-  for success and romance with the help of a giant man-eating plant who dem
- ands to be fed.\n\nhttps://www.imdb.com/title/tt0091419/\n\nIMDb rating: 7
- .1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mars Attacks! (1996)
-DTSTART;TZID=America/Los_Angeles:20230903T160000
-DTEND;TZID=America/Los_Angeles:20230903T181000
-DTSTAMP:20230903T235300Z
-UID:ci60177107-tt0116996--2023-9-3-16-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nEarth is invaded by Martians wi
- th unbeatable weapons and a cruel sense of humor.\n\nhttps://www.imdb.com/
- title/tt0116996/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Close Encounters of the Third Kind (1977)
 DTSTART;TZID=America/Los_Angeles:20230904T190000
@@ -145,7 +64,7 @@ DESCRIPTION:Duration: 1h 12m (72 mins)\n\nOn a faraway planet where blue g
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial (1982)
+SUMMARY:E.T. (1982)
 DTSTART;TZID=America/Los_Angeles:20230909T130000
 DTEND;TZID=America/Los_Angeles:20230909T151500
 DTSTAMP:20230909T205300Z
@@ -169,12 +88,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Cabinet of Dr. Caligari (1920)
 DTSTART;TZID=America/Los_Angeles:20230910T180000
-DTEND;TZID=America/Los_Angeles:20230910T192000
+DTEND;TZID=America/Los_Angeles:20230910T193000
 DTSTAMP:20230911T015300Z
 UID:ci60177107-tt0010323--2023-9-10-18-0
-DESCRIPTION:Duration: 0h 58m (58 mins)\n\nHypnotist Dr. Caligari uses a so
+DESCRIPTION:Duration: 1h 07m (67 mins)\n\nHypnotist Dr. Caligari uses a so
  mnambulist\, Cesare\, to commit murders.\n\nhttps://www.imdb.com/title/tt0
  010323/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men in Black (1997)
+DTSTART;TZID=America/Los_Angeles:20230911T190000
+DTEND;TZID=America/Los_Angeles:20230911T210000
+DTSTAMP:20230912T025300Z
+UID:ci60177107-tt0119654--2023-9-11-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA police officer joins a secret 
+ organization that polices and monitors extraterrestrial interactions on Ea
+ rth.\n\nhttps://www.imdb.com/title/tt0119654/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contact (1997)
+DTSTART;TZID=America/Los_Angeles:20230913T190000
+DTEND;TZID=America/Los_Angeles:20230913T215000
+DTSTAMP:20230914T025300Z
+UID:ci60177107-tt0118884--2023-9-13-19-0
+DESCRIPTION:Duration: 2h 30m (150 mins)\n\nDr. Ellie Arroway\, after years
+  of searching\, finds conclusive radio proof of extraterrestrial intellige
+ nce\, sending plans for a mysterious machine.\n\nhttps://www.imdb.com/titl
+ e/tt0118884/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
