@@ -1,57 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230904T171706Z
+LAST-MODIFIED:20230908T192441Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Close Encounters of the Third Kind (1977)
-DTSTART;TZID=America/Los_Angeles:20230904T190000
-DTEND;TZID=America/Los_Angeles:20230904T214000
-DTSTAMP:20230905T025300Z
-UID:ci60177107-tt0075860--2023-9-4-19-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nRoy Neary\, an Indiana electric
-  lineman\, finds his quiet and ordinary daily life turned upside down afte
- r a close encounter with a UFO\, spurring him to an obsessed cross-country
-  quest for answers as a momentous event approaches.\n\nhttps://www.imdb.co
- m/title/tt0075860/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Attack the Block (2011)
-DTSTART;TZID=America/Los_Angeles:20230905T190000
-DTEND;TZID=America/Los_Angeles:20230905T205000
-DTSTAMP:20230906T025300Z
-UID:ci60177107-tt1478964--2023-9-5-19-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA teen gang in South London defe
- nd their block from an alien invasion.\n\nhttps://www.imdb.com/title/tt147
- 8964/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plan 9 from Outer Space (1957)
-DTSTART;TZID=America/Los_Angeles:20230906T190000
-DTEND;TZID=America/Los_Angeles:20230906T204000
-DTSTAMP:20230907T025300Z
-UID:ci60177107-tt0052077--2023-9-6-19-0
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
-  their terrible &quot\;Plan 9&quot\; into action. As the aliens resurrect 
- the dead of the Earth\, the lives of the living are in danger.\n\nhttps://
- www.imdb.com/title/tt0052077/\n\nIMDb rating: 3.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Came from Outer Space (1953)
-DTSTART;TZID=America/Los_Angeles:20230907T190000
-DTEND;TZID=America/Los_Angeles:20230907T204500
-DTSTAMP:20230908T025300Z
-UID:ci60177107-tt0045920--2023-9-7-19-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA spaceship from another world c
- rashes in the Arizona desert and only an amateur stargazer and a schooltea
- cher suspect alien influence when the local townsfolk begin to act strange
- ly.\n\nhttps://www.imdb.com/title/tt0045920/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fantastic Planet (1973)
 DTSTART;TZID=America/Los_Angeles:20230908T190000
@@ -117,6 +69,112 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\n\nDr. Ellie Arroway\, after years
   of searching\, finds conclusive radio proof of extraterrestrial intellige
  nce\, sending plans for a mysterious machine.\n\nhttps://www.imdb.com/titl
  e/tt0118884/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Predator (1987)
+DTSTART;TZID=America/Los_Angeles:20230914T190000
+DTEND;TZID=America/Los_Angeles:20230914T211000
+DTSTAMP:20230915T025300Z
+UID:ci60177107-tt0093773--2023-9-14-19-0
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA team of commandos on a missio
+ n in a Central American jungle find themselves hunted by an extraterrestri
+ al warrior.\n\nhttps://www.imdb.com/title/tt0093773/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attack the Block (2011)
+DTSTART;TZID=America/Los_Angeles:20230915T193000
+DTEND;TZID=America/Los_Angeles:20230915T212000
+DTSTAMP:20230916T032300Z
+UID:ci60177107-tt1478964--2023-9-15-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA teen gang in South London defe
+ nd their block from an alien invasion.\n\nhttps://www.imdb.com/title/tt147
+ 8964/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Came from Outer Space (1953)
+DTSTART;TZID=America/Los_Angeles:20230915T170000
+DTEND;TZID=America/Los_Angeles:20230915T184500
+DTSTAMP:20230916T005300Z
+UID:ci60177107-tt0045920--2023-9-15-17-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA spaceship from another world c
+ rashes in the Arizona desert and only an amateur stargazer and a schooltea
+ cher suspect alien influence when the local townsfolk begin to act strange
+ ly.\n\nhttps://www.imdb.com/title/tt0045920/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien vs. Predator (2004)
+DTSTART;TZID=America/Los_Angeles:20230916T160000
+DTEND;TZID=America/Los_Angeles:20230916T180500
+DTSTAMP:20230916T235300Z
+UID:ci60177107-tt0370263--2023-9-16-16-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nDuring an archaeological expedi
+ tion on Bouvetøya Island in Antarctica\, a team of archaeologists and oth
+ er scientists find themselves caught up in a battle between the two legend
+ s. Soon\, the team realize that only one species can win.\n\nhttps://www.i
+ mdb.com/title/tt0370263/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors (1986)
+DTSTART;TZID=America/Los_Angeles:20230916T130000
+DTEND;TZID=America/Los_Angeles:20230916T145500
+DTSTAMP:20230916T205300Z
+UID:ci60177107-tt0091419--2023-9-16-13-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA nerdy florist finds his chance
+  for success and romance with the help of a giant man-eating plant who dem
+ ands to be fed.\n\nhttps://www.imdb.com/title/tt0091419/\n\nIMDb rating: 7
+ .1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mars Attacks! (1996)
+DTSTART;TZID=America/Los_Angeles:20230916T190000
+DTEND;TZID=America/Los_Angeles:20230916T211000
+DTSTAMP:20230917T025300Z
+UID:ci60177107-tt0116996--2023-9-16-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nEarth is invaded by Martians wi
+ th unbeatable weapons and a cruel sense of humor.\n\nhttps://www.imdb.com/
+ title/tt0116996/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Close Encounters of the Third Kind (1977)
+DTSTART;TZID=America/Los_Angeles:20230917T130000
+DTEND;TZID=America/Los_Angeles:20230917T154000
+DTSTAMP:20230917T205300Z
+UID:ci60177107-tt0075860--2023-9-17-13-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nRoy Neary\, an Indiana electric
+  lineman\, finds his quiet and ordinary daily life turned upside down afte
+ r a close encounter with a UFO\, spurring him to an obsessed cross-country
+  quest for answers as a momentous event approaches.\n\nhttps://www.imdb.co
+ m/title/tt0075860/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contact (1997)
+DTSTART;TZID=America/Los_Angeles:20230917T160000
+DTEND;TZID=America/Los_Angeles:20230917T185000
+DTSTAMP:20230917T235300Z
+UID:ci60177107-tt0118884--2023-9-17-16-0
+DESCRIPTION:Duration: 2h 30m (150 mins)\n\nDr. Ellie Arroway\, after years
+  of searching\, finds conclusive radio proof of extraterrestrial intellige
+ nce\, sending plans for a mysterious machine.\n\nhttps://www.imdb.com/titl
+ e/tt0118884/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men in Black (1997)
+DTSTART;TZID=America/Los_Angeles:20230917T193000
+DTEND;TZID=America/Los_Angeles:20230917T213000
+DTSTAMP:20230918T032300Z
+UID:ci60177107-tt0119654--2023-9-17-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA police officer joins a secret 
+ organization that polices and monitors extraterrestrial interactions on Ea
+ rth.\n\nhttps://www.imdb.com/title/tt0119654/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
