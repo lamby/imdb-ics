@@ -1,31 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230908T192441Z
+LAST-MODIFIED:20230910T153018Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fantastic Planet (1973)
-DTSTART;TZID=America/Los_Angeles:20230908T190000
-DTEND;TZID=America/Los_Angeles:20230908T203500
-DTSTAMP:20230909T025300Z
-UID:ci60177107-tt0070544--2023-9-8-19-0
-DESCRIPTION:Duration: 1h 12m (72 mins)\n\nOn a faraway planet where blue g
- iants rule\, oppressed humanoids rebel against their machine-like leaders.
- \n\nhttps://www.imdb.com/title/tt0070544/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E.T. (1982)
-DTSTART;TZID=America/Los_Angeles:20230909T130000
-DTEND;TZID=America/Los_Angeles:20230909T151500
-DTSTAMP:20230909T205300Z
-UID:ci60177107-tt0083866--2023-9-9-13-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA troubled child summons the co
- urage to help a friendly alien escape from Earth and return to his home pl
- anet.\n\nhttps://www.imdb.com/title/tt0083866/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nosferatu (1922)
 DTSTART;TZID=America/Los_Angeles:20230910T150000
@@ -175,6 +153,30 @@ UID:ci60177107-tt0119654--2023-9-17-19-30
 DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA police officer joins a secret 
  organization that polices and monitors extraterrestrial interactions on Ea
  rth.\n\nhttps://www.imdb.com/title/tt0119654/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invasion of the Body Snatchers (1978)
+DTSTART;TZID=America/Los_Angeles:20230918T190000
+DTEND;TZID=America/Los_Angeles:20230918T211500
+DTSTAMP:20230919T025300Z
+UID:ci60177107-tt0077745--2023-9-18-19-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen strange seeds drift to ear
+ th from space\, mysterious pods begin to grow and invade San Francisco\, r
+ eplicating the city's residents one body at a time.\n\nhttps://www.imdb.co
+ m/title/tt0077745/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arrival (2016)
+DTSTART;TZID=America/Los_Angeles:20230919T190000
+DTEND;TZID=America/Los_Angeles:20230919T212000
+DTSTAMP:20230920T025300Z
+UID:ci60177107-tt2543164--2023-9-19-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA linguist works with the milit
+ ary to communicate with alien lifeforms after twelve mysterious spacecraft
+  appear around the world.\n\nhttps://www.imdb.com/title/tt2543164/\n\nIMDb
+  rating: 7.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
