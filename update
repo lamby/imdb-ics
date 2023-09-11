@@ -102,6 +102,12 @@ class ImdbICS:
             "id": "ci16639652",
             "timezone": "America/Los_Angeles",
         },
+        {
+            "name": "Cinemark Totem Lake and XD",
+            "address": "2600 120th Avenue NE, Kirkland WA 98034",
+            "id": "ci1025162",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
