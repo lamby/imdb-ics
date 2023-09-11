@@ -1,7 +1,44 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230910T152937Z
+LAST-MODIFIED:20230911T160302Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Tokyo Fist (1995)
+DTSTART;TZID=America/Los_Angeles:20230911T193000
+DTEND;TZID=America/Los_Angeles:20230911T212000
+DTSTAMP:20230912T032300Z
+UID:ci1024213-tt0114690--2023-9-11-19-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nSuspecting that his childhood fr
+ iend\, a professional boxer\, is having a love affair with his fiancée\, 
+ a businessman starts training rigorously in order to take him down.\n\nhtt
+ ps://www.imdb.com/title/tt0114690/\n\nIMDb rating: 7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nerawareta gakuen (1981)
+DTSTART;TZID=America/Los_Angeles:20230913T193000
+DTEND;TZID=America/Los_Angeles:20230913T212000
+DTSTAMP:20230914T032300Z
+UID:ci1024213-tt0125434--2023-9-13-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMitamura Yuka (Hiroko Yakushimar
+ u) is a normal shy middle school student that has psychic powers. When a n
+ ew student with similar powers begins to show his skills\, by stealing the
+  student government election\, Yuka and her friends ...\n\nhttps://www.imd
+ b.com/title/tt0125434/\n\nIMDb rating: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point Blank (1967)
+DTSTART;TZID=America/Los_Angeles:20230914T193000
+DTEND;TZID=America/Los_Angeles:20230914T212500
+DTSTAMP:20230915T032300Z
+UID:ci1024213-tt0062138--2023-9-14-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter being double-crossed and l
+ eft for dead\, a mysterious man named Walker single-mindedly tries to retr
+ ieve the money that was stolen from him.\n\nhttps://www.imdb.com/title/tt0
+ 062138/\n\nIMDb rating: 7.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
+END:VEVENT
 END:VCALENDAR

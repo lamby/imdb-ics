@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230910T152903Z
+LAST-MODIFIED:20230911T160155Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Amanda
-DTSTART;TZID=America/Los_Angeles:20230910T180000
-DTEND;TZID=America/Los_Angeles:20230910T195500
-DTSTAMP:20230911T015300Z
-UID:ci0005472-tt18469872--2023-9-10-18-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
- ted and has never had any friends\, even if it's the thing she wants the m
- ost. Amanda chooses as her new mission to convince her childhood friend th
- at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
- n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slotherhouse
-DTSTART;TZID=America/Los_Angeles:20230910T154500
-DTEND;TZID=America/Los_Angeles:20230910T174000
-DTSTAMP:20230910T233800Z
-UID:ci0005472-tt15422224--2023-9-10-15-45
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
- o be elected as her sorority's president. She adopts a cute sloth\, thinki
- ng it can become the new mascot and help her win\, until a string of fatal
- ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
- mdb.com/title/tt15422224/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slotherhouse
-DTSTART;TZID=America/Los_Angeles:20230910T201500
-DTEND;TZID=America/Los_Angeles:20230910T221000
-DTSTAMP:20230911T040800Z
-UID:ci0005472-tt15422224--2023-9-10-20-15
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nEmily Young\, a senior\, wants t
- o be elected as her sorority's president. She adopts a cute sloth\, thinki
- ng it can become the new mascot and help her win\, until a string of fatal
- ities implicate the sloth as the main suspect in the m...\n\nhttps://www.i
- mdb.com/title/tt15422224/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amanda
 DTSTART;TZID=America/Los_Angeles:20230911T193000
@@ -247,6 +205,19 @@ DTSTART;TZID=America/Los_Angeles:20230919T193000
 DTEND;TZID=America/Los_Angeles:20230919T212500
 DTSTAMP:20230920T032300Z
 UID:ci0005472-tt22170270--2023-9-19-19-30
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
+ aced with the realities of redevelopment as he is tasked with dismantling 
+ his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
+ 0270/\n\nIMDb rating: 8.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mountains
+DTSTART;TZID=America/Los_Angeles:20230920T193000
+DTEND;TZID=America/Los_Angeles:20230920T212500
+DTSTAMP:20230921T032300Z
+UID:ci0005472-tt22170270--2023-9-20-19-30
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
  aced with the realities of redevelopment as he is tasked with dismantling 
  his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
