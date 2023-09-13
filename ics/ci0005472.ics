@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230911T160155Z
+LAST-MODIFIED:20230913T145222Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Amanda
-DTSTART;TZID=America/Los_Angeles:20230911T193000
-DTEND;TZID=America/Los_Angeles:20230911T212500
-DTSTAMP:20230912T032300Z
-UID:ci0005472-tt18469872--2023-9-11-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
- ted and has never had any friends\, even if it's the thing she wants the m
- ost. Amanda chooses as her new mission to convince her childhood friend th
- at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
- n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flesh for Frankenstein (1973)
-DTSTART;TZID=America/Los_Angeles:20230912T193000
-DTEND;TZID=America/Los_Angeles:20230912T212500
-DTSTAMP:20230913T032300Z
-UID:ci0005472-tt0071508--2023-9-12-19-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nBaron Frankenstein creates two &
- quot\;zombies&quot\; - one male\, one female - planning to mate them in or
- der to create a master race.\n\nhttps://www.imdb.com/title/tt0071508/\n\nI
- MDb rating: 5.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amanda
 DTSTART;TZID=America/Los_Angeles:20230913T193000
@@ -69,7 +42,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen police raid a house in El
  Paso\, they find it full of dead Latinos\, and only one survivor. Known as
   &quot\;The Traveler\,&quot\; he is taken to the police station for questi
  oning. There\, he recounts tales of horrors from his life\, chronicl...\n\
- nhttps://www.imdb.com/title/tt22085392/\n\nIMDb rating: 6.4
+ nhttps://www.imdb.com/title/tt22085392/\n\nIMDb rating: 6.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -222,6 +195,59 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
  aced with the realities of redevelopment as he is tasked with dismantling 
  his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
  0270/\n\nIMDb rating: 8.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy A Gets a Mattress
+DTSTART;TZID=America/Los_Angeles:20230921T180000
+DTEND;TZID=America/Los_Angeles:20230921T194000
+DTSTAMP:20230922T015300Z
+UID:ci0005472-tt28437326--2023-9-21-18-0
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
+ oup home onto the grim summer streets\, Fantasy A\, real-life autistic rap
+ per\, sets off on an odyssey to achieve fame and find a good mattress in t
+ his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
+ db.com/title/tt28437326/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mountains
+DTSTART;TZID=America/Los_Angeles:20230921T200000
+DTEND;TZID=America/Los_Angeles:20230921T215500
+DTSTAMP:20230922T035300Z
+UID:ci0005472-tt22170270--2023-9-21-20-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
+ aced with the realities of redevelopment as he is tasked with dismantling 
+ his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
+ 0270/\n\nIMDb rating: 8.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cade: The Tortured Crossing
+DTSTART;TZID=America/Los_Angeles:20230922T211500
+DTEND;TZID=America/Los_Angeles:20230922T231500
+DTSTAMP:20230923T050800Z
+UID:ci0005472-tt24786094--2023-9-22-21-15
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
+  twin brother who restores an old mysterious mental asylum. He takes it up
+ on himself to mystically train the patients as warriors for humanity and j
+ ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piaffe
+DTSTART;TZID=America/Los_Angeles:20230922T190000
+DTEND;TZID=America/Los_Angeles:20230922T205000
+DTSTAMP:20230923T025300Z
+UID:ci0005472-tt21226876--2023-9-22-19-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen her sibling Zara suffers a 
+ nervous breakdown\, the introvert Eva is forced to take on Zara's job as a
+  Foley artist. Then\, a horsetail starts growing out of her body.\n\nhttps
+ ://www.imdb.com/title/tt21226876/\n\nIMDb rating: 6.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

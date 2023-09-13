@@ -1,20 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230911T160429Z
+LAST-MODIFIED:20230913T145352Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Men in Black (1997)
-DTSTART;TZID=America/Los_Angeles:20230911T190000
-DTEND;TZID=America/Los_Angeles:20230911T210000
-DTSTAMP:20230912T025300Z
-UID:ci60177107-tt0119654--2023-9-11-19-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA police officer joins a secret 
- organization that polices and monitors extraterrestrial interactions on Ea
- rth.\n\nhttps://www.imdb.com/title/tt0119654/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Contact (1997)
 DTSTART;TZID=America/Los_Angeles:20230913T190000
@@ -62,7 +51,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA spaceship from another world c
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AVP: Alien vs. Predator (2004)
+SUMMARY:Alien vs. Predator (2004)
 DTSTART;TZID=America/Los_Angeles:20230916T160000
 DTEND;TZID=America/Los_Angeles:20230916T180500
 DTSTAMP:20230916T235300Z
@@ -166,6 +155,42 @@ UID:ci60177107-tt0070544--2023-9-20-19-0
 DESCRIPTION:Duration: 1h 12m (72 mins)\n\nOn a faraway planet where blue g
  iants rule\, oppressed humanoids rebel against their machine-like leaders.
  \n\nhttps://www.imdb.com/title/tt0070544/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien vs. Predator (2004)
+DTSTART;TZID=America/Los_Angeles:20230921T190000
+DTEND;TZID=America/Los_Angeles:20230921T210500
+DTSTAMP:20230922T025300Z
+UID:ci60177107-tt0370263--2023-9-21-19-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nDuring an archaeological expedi
+ tion on Bouvetøya Island in Antarctica\, a team of archaeologists and oth
+ er scientists find themselves caught up in a battle between the two legend
+ s. Soon\, the team realize that only one species can win.\n\nhttps://www.i
+ mdb.com/title/tt0370263/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors (1986)
+DTSTART;TZID=America/Los_Angeles:20230922T190000
+DTEND;TZID=America/Los_Angeles:20230922T205500
+DTSTAMP:20230923T025300Z
+UID:ci60177107-tt0091419--2023-9-22-19-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA nerdy florist finds his chance
+  for success and romance with the help of a giant man-eating plant who dem
+ ands to be fed.\n\nhttps://www.imdb.com/title/tt0091419/\n\nIMDb rating: 7
+ .1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Predator (1987)
+DTSTART;TZID=America/Los_Angeles:20230922T160000
+DTEND;TZID=America/Los_Angeles:20230922T181000
+DTSTAMP:20230922T235300Z
+UID:ci60177107-tt0093773--2023-9-22-16-0
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA team of commandos on a missio
+ n in a Central American jungle find themselves hunted by an extraterrestri
+ al warrior.\n\nhttps://www.imdb.com/title/tt0093773/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
