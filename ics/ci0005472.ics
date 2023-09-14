@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230913T145222Z
+LAST-MODIFIED:20230914T145359Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Amanda
-DTSTART;TZID=America/Los_Angeles:20230913T193000
-DTEND;TZID=America/Los_Angeles:20230913T212500
-DTSTAMP:20230914T032300Z
-UID:ci0005472-tt18469872--2023-9-13-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAmanda\, 24\, lives mostly isola
- ted and has never had any friends\, even if it's the thing she wants the m
- ost. Amanda chooses as her new mission to convince her childhood friend th
- at they are still best friends.\n\nhttps://www.imdb.com/title/tt18469872/\
- n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amanda
 DTSTART;TZID=America/Los_Angeles:20230914T190000
@@ -42,7 +28,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen police raid a house in El
  Paso\, they find it full of dead Latinos\, and only one survivor. Known as
   &quot\;The Traveler\,&quot\; he is taken to the police station for questi
  oning. There\, he recounts tales of horrors from his life\, chronicl...\n\
- nhttps://www.imdb.com/title/tt22085392/\n\nIMDb rating: 6.3
+ nhttps://www.imdb.com/title/tt22085392/\n\nIMDb rating: 6.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -248,6 +234,33 @@ DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen her sibling Zara suffers a
  nervous breakdown\, the introvert Eva is forced to take on Zara's job as a
   Foley artist. Then\, a horsetail starts growing out of her body.\n\nhttps
  ://www.imdb.com/title/tt21226876/\n\nIMDb rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Piaffe
+DTSTART;TZID=America/Los_Angeles:20230923T170000
+DTEND;TZID=America/Los_Angeles:20230923T185000
+DTSTAMP:20230924T005300Z
+UID:ci0005472-tt21226876--2023-9-23-17-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen her sibling Zara suffers a 
+ nervous breakdown\, the introvert Eva is forced to take on Zara's job as a
+  Foley artist. Then\, a horsetail starts growing out of her body.\n\nhttps
+ ://www.imdb.com/title/tt21226876/\n\nIMDb rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Satanic Hispanics
+DTSTART;TZID=America/Los_Angeles:20230923T211500
+DTEND;TZID=America/Los_Angeles:20230923T232000
+DTSTAMP:20230924T050800Z
+UID:ci0005472-tt22085392--2023-9-23-21-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen police raid a house in El 
+ Paso\, they find it full of dead Latinos\, and only one survivor. Known as
+  &quot\;The Traveler\,&quot\; he is taken to the police station for questi
+ oning. There\, he recounts tales of horrors from his life\, chronicl...\n\
+ nhttps://www.imdb.com/title/tt22085392/\n\nIMDb rating: 6.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

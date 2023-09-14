@@ -1,83 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230913T145344Z
+LAST-MODIFIED:20230914T145508Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230913T161500
-DTEND;TZID=America/Los_Angeles:20230913T183000
-DTSTAMP:20230914T000800Z
-UID:ci16639653-tt1517268--2023-9-13-16-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230913T190000
-DTEND;TZID=America/Los_Angeles:20230913T211500
-DTSTAMP:20230914T025300Z
-UID:ci16639653-tt1517268--2023-9-13-19-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART;TZID=America/Los_Angeles:20230913T164500
-DTEND;TZID=America/Los_Angeles:20230913T184000
-DTSTAMP:20230914T003800Z
-UID:ci16639653-tt17527468--2023-9-13-16-45
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTwo unpopular queer high school 
- students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART;TZID=America/Los_Angeles:20230913T193000
-DTEND;TZID=America/Los_Angeles:20230913T212500
-DTSTAMP:20230914T032300Z
-UID:ci16639653-tt17527468--2023-9-13-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTwo unpopular queer high school 
- students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=America/Los_Angeles:20230913T163000
-DTEND;TZID=America/Los_Angeles:20230913T181500
-DTSTAMP:20230914T002300Z
-UID:ci16639653-tt8649252--2023-9-13-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=America/Los_Angeles:20230913T191500
-DTEND;TZID=America/Los_Angeles:20230913T210000
-DTSTAMP:20230914T030800Z
-UID:ci16639653-tt8649252--2023-9-13-19-15
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nGeorgie\, a dreamy 12-year-old g
- irl\, lives happily alone in her London flat\, filling it with magic. Sudd
- enly\, her estranged father turns up and forces her to confront reality.\n
- \nhttps://www.imdb.com/title/tt8649252/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230914T161500
@@ -410,6 +336,19 @@ DTSTART;TZID=America/Los_Angeles:20230922T193000
 DTEND;TZID=America/Los_Angeles:20230922T212000
 DTSTAMP:20230923T032300Z
 UID:ci16639653-tt22802044--2023-9-22-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nBehind the walls of San Quentin 
+ State Prison\, three men sentenced to life in prison for murder undertake 
+ running a marathon on a quest for redemption and freedom - or something li
+ ke it.\n\nhttps://www.imdb.com/title/tt22802044/\n\nIMDb rating: 9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:26.2 to Life
+DTSTART;TZID=America/Los_Angeles:20230923T133000
+DTEND;TZID=America/Los_Angeles:20230923T152000
+DTSTAMP:20230923T212300Z
+UID:ci16639653-tt22802044--2023-9-23-13-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nBehind the walls of San Quentin 
  State Prison\, three men sentenced to life in prison for murder undertake 
  running a marathon on a quest for redemption and freedom - or something li
