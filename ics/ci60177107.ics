@@ -1,20 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230914T145516Z
+LAST-MODIFIED:20230915T152204Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Predator (1987)
-DTSTART;TZID=America/Los_Angeles:20230914T190000
-DTEND;TZID=America/Los_Angeles:20230914T211000
-DTSTAMP:20230915T025300Z
-UID:ci60177107-tt0093773--2023-9-14-19-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA team of commandos on a missio
- n in a Central American jungle find themselves hunted by an extraterrestri
- al warrior.\n\nhttps://www.imdb.com/title/tt0093773/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Attack the Block (2011)
 DTSTART;TZID=America/Los_Angeles:20230915T193000
@@ -179,6 +168,41 @@ UID:ci60177107-tt0093773--2023-9-22-16-0
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA team of commandos on a missio
  n in a Central American jungle find themselves hunted by an extraterrestri
  al warrior.\n\nhttps://www.imdb.com/title/tt0093773/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arrival (2016)
+DTSTART;TZID=America/Los_Angeles:20230924T160000
+DTEND;TZID=America/Los_Angeles:20230924T182000
+DTSTAMP:20230924T235300Z
+UID:ci60177107-tt2543164--2023-9-24-16-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA linguist works with the milit
+ ary to communicate with alien lifeforms after twelve mysterious spacecraft
+  appear around the world.\n\nhttps://www.imdb.com/title/tt2543164/\n\nIMDb
+  rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Invasion of the Body Snatchers (1978)
+DTSTART;TZID=America/Los_Angeles:20230924T130000
+DTEND;TZID=America/Los_Angeles:20230924T151500
+DTSTAMP:20230924T205300Z
+UID:ci60177107-tt0077745--2023-9-24-13-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen strange seeds drift to ear
+ th from space\, mysterious pods begin to grow and invade San Francisco\, r
+ eplicating the city's residents one body at a time.\n\nhttps://www.imdb.co
+ m/title/tt0077745/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blob (1958)
+DTSTART;TZID=America/Los_Angeles:20230924T190000
+DTEND;TZID=America/Los_Angeles:20230924T205000
+DTSTAMP:20230925T025300Z
+UID:ci60177107-tt0051418--2023-9-24-19-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nAn alien lifeform consumes every
+ thing in its path as it grows and grows.\n\nhttps://www.imdb.com/title/tt0
+ 051418/\n\nIMDb rating: 6.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
