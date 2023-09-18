@@ -1,104 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230915T152204Z
+LAST-MODIFIED:20230918T170009Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Attack the Block (2011)
-DTSTART;TZID=America/Los_Angeles:20230915T193000
-DTEND;TZID=America/Los_Angeles:20230915T212000
-DTSTAMP:20230916T032300Z
-UID:ci60177107-tt1478964--2023-9-15-19-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA teen gang in South London defe
- nd their block from an alien invasion.\n\nhttps://www.imdb.com/title/tt147
- 8964/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Came from Outer Space (1953)
-DTSTART;TZID=America/Los_Angeles:20230915T170000
-DTEND;TZID=America/Los_Angeles:20230915T184500
-DTSTAMP:20230916T005300Z
-UID:ci60177107-tt0045920--2023-9-15-17-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA spaceship from another world c
- rashes in the Arizona desert and only an amateur stargazer and a schooltea
- cher suspect alien influence when the local townsfolk begin to act strange
- ly.\n\nhttps://www.imdb.com/title/tt0045920/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien vs. Predator (2004)
-DTSTART;TZID=America/Los_Angeles:20230916T160000
-DTEND;TZID=America/Los_Angeles:20230916T180500
-DTSTAMP:20230916T235300Z
-UID:ci60177107-tt0370263--2023-9-16-16-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nDuring an archaeological expedi
- tion on Bouvetøya Island in Antarctica\, a team of archaeologists and oth
- er scientists find themselves caught up in a battle between the two legend
- s. Soon\, the team realize that only one species can win.\n\nhttps://www.i
- mdb.com/title/tt0370263/\n\nIMDb rating: 5.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Shop of Horrors (1986)
-DTSTART;TZID=America/Los_Angeles:20230916T130000
-DTEND;TZID=America/Los_Angeles:20230916T145500
-DTSTAMP:20230916T205300Z
-UID:ci60177107-tt0091419--2023-9-16-13-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA nerdy florist finds his chance
-  for success and romance with the help of a giant man-eating plant who dem
- ands to be fed.\n\nhttps://www.imdb.com/title/tt0091419/\n\nIMDb rating: 7
- .1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mars Attacks! (1996)
-DTSTART;TZID=America/Los_Angeles:20230916T190000
-DTEND;TZID=America/Los_Angeles:20230916T211000
-DTSTAMP:20230917T025300Z
-UID:ci60177107-tt0116996--2023-9-16-19-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nEarth is invaded by Martians wi
- th unbeatable weapons and a cruel sense of humor.\n\nhttps://www.imdb.com/
- title/tt0116996/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Close Encounters of the Third Kind (1977)
-DTSTART;TZID=America/Los_Angeles:20230917T130000
-DTEND;TZID=America/Los_Angeles:20230917T154000
-DTSTAMP:20230917T205300Z
-UID:ci60177107-tt0075860--2023-9-17-13-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nRoy Neary\, an Indiana electric
-  lineman\, finds his quiet and ordinary daily life turned upside down afte
- r a close encounter with a UFO\, spurring him to an obsessed cross-country
-  quest for answers as a momentous event approaches.\n\nhttps://www.imdb.co
- m/title/tt0075860/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Contact (1997)
-DTSTART;TZID=America/Los_Angeles:20230917T160000
-DTEND;TZID=America/Los_Angeles:20230917T185000
-DTSTAMP:20230917T235300Z
-UID:ci60177107-tt0118884--2023-9-17-16-0
-DESCRIPTION:Duration: 2h 30m (150 mins)\n\nDr. Ellie Arroway\, after years
-  of searching\, finds conclusive radio proof of extraterrestrial intellige
- nce\, sending plans for a mysterious machine.\n\nhttps://www.imdb.com/titl
- e/tt0118884/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Men in Black (1997)
-DTSTART;TZID=America/Los_Angeles:20230917T193000
-DTEND;TZID=America/Los_Angeles:20230917T213000
-DTSTAMP:20230918T032300Z
-UID:ci60177107-tt0119654--2023-9-17-19-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA police officer joins a secret 
- organization that polices and monitors extraterrestrial interactions on Ea
- rth.\n\nhttps://www.imdb.com/title/tt0119654/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Invasion of the Body Snatchers (1978)
 DTSTART;TZID=America/Los_Angeles:20230918T190000
@@ -203,6 +108,28 @@ UID:ci60177107-tt0051418--2023-9-24-19-0
 DESCRIPTION:Duration: 1h 26m (86 mins)\n\nAn alien lifeform consumes every
  thing in its path as it grows and grows.\n\nhttps://www.imdb.com/title/tt0
  051418/\n\nIMDb rating: 6.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men in Black (1997)
+DTSTART;TZID=America/Los_Angeles:20230925T190000
+DTEND;TZID=America/Los_Angeles:20230925T210000
+DTSTAMP:20230926T025300Z
+UID:ci60177107-tt0119654--2023-9-25-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA police officer joins a secret 
+ organization that polices and monitors extraterrestrial interactions on Ea
+ rth.\n\nhttps://www.imdb.com/title/tt0119654/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attack the Block (2011)
+DTSTART;TZID=America/Los_Angeles:20230926T190000
+DTEND;TZID=America/Los_Angeles:20230926T205000
+DTSTAMP:20230927T025300Z
+UID:ci60177107-tt1478964--2023-9-26-19-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA teen gang in South London defe
+ nd their block from an alien invasion.\n\nhttps://www.imdb.com/title/tt147
+ 8964/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
