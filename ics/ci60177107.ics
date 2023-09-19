@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230918T170009Z
+LAST-MODIFIED:20230919T174652Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers (1978)
-DTSTART;TZID=America/Los_Angeles:20230918T190000
-DTEND;TZID=America/Los_Angeles:20230918T211500
-DTSTAMP:20230919T025300Z
-UID:ci60177107-tt0077745--2023-9-18-19-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen strange seeds drift to ear
- th from space\, mysterious pods begin to grow and invade San Francisco\, r
- eplicating the city's residents one body at a time.\n\nhttps://www.imdb.co
- m/title/tt0077745/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arrival (2016)
 DTSTART;TZID=America/Los_Angeles:20230919T190000
@@ -130,6 +118,18 @@ UID:ci60177107-tt1478964--2023-9-26-19-0
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA teen gang in South London defe
  nd their block from an alien invasion.\n\nhttps://www.imdb.com/title/tt147
  8964/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contact (1997)
+DTSTART;TZID=America/Los_Angeles:20230928T190000
+DTEND;TZID=America/Los_Angeles:20230928T215000
+DTSTAMP:20230929T025300Z
+UID:ci60177107-tt0118884--2023-9-28-19-0
+DESCRIPTION:Duration: 2h 30m (150 mins)\n\nDr. Ellie Arroway\, after years
+  of searching\, finds conclusive radio proof of extraterrestrial intellige
+ nce\, sending plans for a mysterious machine.\n\nhttps://www.imdb.com/titl
+ e/tt0118884/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

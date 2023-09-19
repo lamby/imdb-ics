@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230918T165840Z
+LAST-MODIFIED:20230919T174523Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Our Father\, the Devil (2021)
-DTSTART;TZID=America/Los_Angeles:20230918T193000
-DTEND;TZID=America/Los_Angeles:20230918T214000
-DTSTAMP:20230919T032300Z
-UID:ci0005472-tt13892558--2023-9-18-19-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn African refugee's quiet exis
- tence in a sleepy mountain town in the south of France is upended by the a
- rrival of a charismatic Catholic priest whom she recognizes as the warlord
-  who slaughtered her family.\n\nhttps://www.imdb.com/title/tt13892558/\n\n
- IMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mountains
 DTSTART;TZID=America/Los_Angeles:20230919T193000
@@ -161,6 +147,19 @@ DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen her sibling Zara suffers a
  nervous breakdown\, the introvert Eva is forced to take on Zara's job as a
   Foley artist. Then\, a horsetail starts growing out of her body.\n\nhttps
  ://www.imdb.com/title/tt21226876/\n\nIMDb rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clockwatchers (1997)
+DTSTART;TZID=America/Los_Angeles:20230928T193000
+DTEND;TZID=America/Los_Angeles:20230928T213000
+DTSTAMP:20230929T032300Z
+UID:ci0005472-tt0118866--2023-9-28-19-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nThe relationship between four fe
+ male temps all working for the same credit company is threatened with the 
+ arrival of a new hire\, who lands a permanent position one of the women wa
+ s vying for.\n\nhttps://www.imdb.com/title/tt0118866/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

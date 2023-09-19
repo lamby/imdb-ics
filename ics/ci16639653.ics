@@ -1,85 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230918T165956Z
+LAST-MODIFIED:20230919T174639Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230918T161500
-DTEND;TZID=America/Los_Angeles:20230918T183000
-DTSTAMP:20230919T000800Z
-UID:ci16639653-tt1517268--2023-9-18-16-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20230918T190000
-DTEND;TZID=America/Los_Angeles:20230918T211500
-DTSTAMP:20230919T025300Z
-UID:ci16639653-tt1517268--2023-9-18-19-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie suffers a crisis that le
- ads her to question her world and her existence.\n\nhttps://www.imdb.com/t
- itle/tt1517268/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART;TZID=America/Los_Angeles:20230918T164500
-DTEND;TZID=America/Los_Angeles:20230918T184000
-DTSTAMP:20230919T003800Z
-UID:ci16639653-tt17527468--2023-9-18-16-45
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTwo unpopular queer high school 
- students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART;TZID=America/Los_Angeles:20230918T193000
-DTEND;TZID=America/Los_Angeles:20230918T212500
-DTSTAMP:20230919T032300Z
-UID:ci16639653-tt17527468--2023-9-18-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTwo unpopular queer high school 
- students start a fight club to have sex before graduation.\n\nhttps://www.
- imdb.com/title/tt17527468/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremont
-DTSTART;TZID=America/Los_Angeles:20230918T163000
-DTEND;TZID=America/Los_Angeles:20230918T182500
-DTSTAMP:20230919T002300Z
-UID:ci16639653-tt8591526--2023-9-18-16-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
- e cookie factory. Formerly a translator for the U.S. military\, she strugg
- les to put her life back in order. In a moment of sudden revelation\, she 
- decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremont
-DTSTART;TZID=America/Los_Angeles:20230918T191500
-DTEND;TZID=America/Los_Angeles:20230918T211000
-DTSTAMP:20230919T030800Z
-UID:ci16639653-tt8591526--2023-9-18-19-15
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
- e cookie factory. Formerly a translator for the U.S. military\, she strugg
- les to put her life back in order. In a moment of sudden revelation\, she 
- decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20230919T161500
@@ -138,7 +62,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
  e cookie factory. Formerly a translator for the U.S. military\, she strugg
  les to put her life back in order. In a moment of sudden revelation\, she 
  decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
+ /title/tt8591526/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -152,7 +76,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
  e cookie factory. Formerly a translator for the U.S. military\, she strugg
  les to put her life back in order. In a moment of sudden revelation\, she 
  decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
+ /title/tt8591526/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -214,7 +138,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
  e cookie factory. Formerly a translator for the U.S. military\, she strugg
  les to put her life back in order. In a moment of sudden revelation\, she 
  decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
+ /title/tt8591526/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -228,7 +152,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
  e cookie factory. Formerly a translator for the U.S. military\, she strugg
  les to put her life back in order. In a moment of sudden revelation\, she 
  decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
+ /title/tt8591526/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -290,7 +214,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
  e cookie factory. Formerly a translator for the U.S. military\, she strugg
  les to put her life back in order. In a moment of sudden revelation\, she 
  decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
+ /title/tt8591526/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -304,7 +228,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDonya works for a Chinese fortun
  e cookie factory. Formerly a translator for the U.S. military\, she strugg
  les to put her life back in order. In a moment of sudden revelation\, she 
  decides to send out a special message in a cookie.\n\nhttps://www.imdb.com
- /title/tt8591526/\n\nIMDb rating: 7.2
+ /title/tt8591526/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -666,6 +590,59 @@ DTSTART;TZID=America/Los_Angeles:20230927T190000
 DTEND;TZID=America/Los_Angeles:20230927T212500
 DTSTAMP:20230928T025300Z
 UID:ci16639653-tt13729232--2023-9-27-19-0
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+ al collapse attempts to reconnect with her wealthy\, estranged father and 
+ his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
+ 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumb Money
+DTSTART;TZID=America/Los_Angeles:20230928T193000
+DTEND;TZID=America/Los_Angeles:20230928T213500
+DTSTAMP:20230929T032300Z
+UID:ci16639653-tt13957560--2023-9-28-19-30
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
+ d vs. Goliath tale\, based on the insane true story of everyday people who
+  flipped the script on Wall Street and got rich by turning GameStop (yes\,
+  the mall videogame store) into the world's hottest c...\n\nhttps://www.im
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutt
+DTSTART;TZID=America/Los_Angeles:20230928T163000
+DTEND;TZID=America/Los_Angeles:20230928T182000
+DTSTAMP:20230929T002300Z
+UID:ci16639653-tt22777288--2023-9-28-16-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nWithin the space of 24 hours\, F
+ eña is swept through the extremes of human emotion when people who seemed
+  to disappear when he transitioned are suddenly back in his life.\n\nhttps
+ ://www.imdb.com/title/tt22777288/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Origin of Evil
+DTSTART;TZID=America/Los_Angeles:20230928T161500
+DTEND;TZID=America/Los_Angeles:20230928T184000
+DTSTAMP:20230929T000800Z
+UID:ci16639653-tt13729232--2023-9-28-16-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+ al collapse attempts to reconnect with her wealthy\, estranged father and 
+ his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
+ 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Origin of Evil
+DTSTART;TZID=America/Los_Angeles:20230928T190000
+DTEND;TZID=America/Los_Angeles:20230928T212500
+DTSTAMP:20230929T025300Z
+UID:ci16639653-tt13729232--2023-9-28-19-0
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
