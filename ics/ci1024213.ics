@@ -1,31 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230919T174552Z
+LAST-MODIFIED:20230923T175902Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Little Girl Who Conquered Time (1983)
-DTSTART;TZID=America/Los_Angeles:20230920T193000
-DTEND;TZID=America/Los_Angeles:20230920T213500
-DTSTAMP:20230921T032300Z
-UID:ci1024213-tt0086456--2023-9-20-19-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA high-school girl acquires the
-  ability to time travel.\n\nhttps://www.imdb.com/title/tt0086456/\n\nIMDb 
- rating: 6.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dogleg
-DTSTART;TZID=America/Los_Angeles:20230921T193000
-DTEND;TZID=America/Los_Angeles:20230921T211500
-DTSTAMP:20230922T032300Z
-UID:ci1024213-tt27553113--2023-9-21-19-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nDogleg follows amateur director 
- Alan\, played by Warren\, after he loses his fiance's dog at a gender reve
- al party on the day of an important shoot. As he struggles to finish his l
- atest project with the help of a New York critic\, th...\n\nhttps://www.im
- db.com/title/tt27553113/\n\nIMDb rating: 9.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 END:VCALENDAR
