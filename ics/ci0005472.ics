@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230923T175842Z
+LAST-MODIFIED:20230924T194607Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Piaffe
-DTSTART;TZID=America/Los_Angeles:20230923T170000
-DTEND;TZID=America/Los_Angeles:20230923T185000
-DTSTAMP:20230924T005300Z
-UID:ci0005472-tt21226876--2023-9-23-17-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen her sibling Zara suffers a 
- nervous breakdown\, the introvert Eva is forced to take on Zara's job as a
-  Foley artist. Then\, a horsetail starts growing out of her body.\n\nhttps
- ://www.imdb.com/title/tt21226876/\n\nIMDb rating: 6.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Satanic Hispanics
-DTSTART;TZID=America/Los_Angeles:20230923T211500
-DTEND;TZID=America/Los_Angeles:20230923T232000
-DTSTAMP:20230924T050800Z
-UID:ci0005472-tt22085392--2023-9-23-21-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen police raid a house in El 
- Paso\, they find it full of dead Latinos\, and only one survivor. Known as
-  &quot\;The Traveler\,&quot\; he is taken to the police station for questi
- oning. There\, he recounts tales of horrors from his life\, chronicl...\n\
- nhttps://www.imdb.com/title/tt22085392/\n\nIMDb rating: 5.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piaffe
 DTSTART;TZID=America/Los_Angeles:20230924T180000
@@ -185,6 +158,18 @@ DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAn Arizona logger mysteriously
  disappears for five days in an alleged encounter with a flying saucer in 1
  975. His co-workers endure ridicule and contempt as they are wrongly accus
  ed of murder.\n\nhttps://www.imdb.com/title/tt0106912/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist (1973)
+DTSTART;TZID=America/Los_Angeles:20231003T193000
+DTEND;TZID=America/Los_Angeles:20231003T215500
+DTSTAMP:20231004T032300Z
+UID:ci0005472-tt0070047--2023-10-3-19-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nWhen a young girl is possessed 
+ by a mysterious entity\, her mother seeks the help of two priests to save 
+ her daughter.\n\nhttps://www.imdb.com/title/tt0070047/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

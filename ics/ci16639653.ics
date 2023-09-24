@@ -1,87 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230923T175936Z
+LAST-MODIFIED:20230924T194714Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:26.2 to Life
-DTSTART;TZID=America/Los_Angeles:20230923T133000
-DTEND;TZID=America/Los_Angeles:20230923T152000
-DTSTAMP:20230923T212300Z
-UID:ci16639653-tt22802044--2023-9-23-13-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nBehind the walls of San Quentin 
- State Prison\, three men sentenced to life in prison for murder undertake 
- running a marathon on a quest for redemption and freedom - or something li
- ke it.\n\nhttps://www.imdb.com/title/tt22802044/\n\nIMDb rating: 9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART;TZID=America/Los_Angeles:20230923T163000
-DTEND;TZID=America/Los_Angeles:20230923T182000
-DTSTAMP:20230924T002300Z
-UID:ci16639653-tt22777288--2023-9-23-16-30
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nWithin the space of 24 hours\, F
- eña is swept through the extremes of human emotion when people who seemed
-  to disappear when he transitioned are suddenly back in his life.\n\nhttps
- ://www.imdb.com/title/tt22777288/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutt
-DTSTART;TZID=America/Los_Angeles:20230923T193000
-DTEND;TZID=America/Los_Angeles:20230923T212000
-DTSTAMP:20230924T032300Z
-UID:ci16639653-tt22777288--2023-9-23-19-30
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nWithin the space of 24 hours\, F
- eña is swept through the extremes of human emotion when people who seemed
-  to disappear when he transitioned are suddenly back in his life.\n\nhttps
- ://www.imdb.com/title/tt22777288/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART;TZID=America/Los_Angeles:20230923T131500
-DTEND;TZID=America/Los_Angeles:20230923T154000
-DTSTAMP:20230923T210800Z
-UID:ci16639653-tt13729232--2023-9-23-13-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
- al collapse attempts to reconnect with her wealthy\, estranged father and 
- his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
- 6.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART;TZID=America/Los_Angeles:20230923T161500
-DTEND;TZID=America/Los_Angeles:20230923T184000
-DTSTAMP:20230924T000800Z
-UID:ci16639653-tt13729232--2023-9-23-16-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
- al collapse attempts to reconnect with her wealthy\, estranged father and 
- his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
- 6.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Origin of Evil
-DTSTART;TZID=America/Los_Angeles:20230923T190000
-DTEND;TZID=America/Los_Angeles:20230923T212500
-DTSTAMP:20230924T025300Z
-UID:ci16639653-tt13729232--2023-9-23-19-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
- al collapse attempts to reconnect with her wealthy\, estranged father and 
- his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
- 6.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:26.2 to Life
 DTSTART;TZID=America/Los_Angeles:20230924T163000
@@ -127,7 +49,7 @@ DTSTART;TZID=America/Los_Angeles:20230924T131500
 DTEND;TZID=America/Los_Angeles:20230924T154000
 DTSTAMP:20230924T210800Z
 UID:ci16639653-tt13729232--2023-9-24-13-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -140,7 +62,7 @@ DTSTART;TZID=America/Los_Angeles:20230924T161500
 DTEND;TZID=America/Los_Angeles:20230924T184000
 DTSTAMP:20230925T000800Z
 UID:ci16639653-tt13729232--2023-9-24-16-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -153,7 +75,7 @@ DTSTART;TZID=America/Los_Angeles:20230924T190000
 DTEND;TZID=America/Los_Angeles:20230924T212500
 DTSTAMP:20230925T025300Z
 UID:ci16639653-tt13729232--2023-9-24-19-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -193,7 +115,7 @@ DTSTART;TZID=America/Los_Angeles:20230925T161500
 DTEND;TZID=America/Los_Angeles:20230925T184000
 DTSTAMP:20230926T000800Z
 UID:ci16639653-tt13729232--2023-9-25-16-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -206,7 +128,7 @@ DTSTART;TZID=America/Los_Angeles:20230925T190000
 DTEND;TZID=America/Los_Angeles:20230925T212500
 DTSTAMP:20230926T025300Z
 UID:ci16639653-tt13729232--2023-9-25-19-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -245,7 +167,7 @@ DTSTART;TZID=America/Los_Angeles:20230926T161500
 DTEND;TZID=America/Los_Angeles:20230926T184000
 DTSTAMP:20230927T000800Z
 UID:ci16639653-tt13729232--2023-9-26-16-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -258,7 +180,7 @@ DTSTART;TZID=America/Los_Angeles:20230926T190000
 DTEND;TZID=America/Los_Angeles:20230926T212500
 DTSTAMP:20230927T025300Z
 UID:ci16639653-tt13729232--2023-9-26-19-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -297,7 +219,7 @@ DTSTART;TZID=America/Los_Angeles:20230927T161500
 DTEND;TZID=America/Los_Angeles:20230927T184000
 DTSTAMP:20230928T000800Z
 UID:ci16639653-tt13729232--2023-9-27-16-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -310,7 +232,7 @@ DTSTART;TZID=America/Los_Angeles:20230927T190000
 DTEND;TZID=America/Los_Angeles:20230927T212500
 DTSTAMP:20230928T025300Z
 UID:ci16639653-tt13729232--2023-9-27-19-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -327,7 +249,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -350,7 +272,7 @@ DTSTART;TZID=America/Los_Angeles:20230928T161500
 DTEND;TZID=America/Los_Angeles:20230928T184000
 DTSTAMP:20230929T000800Z
 UID:ci16639653-tt13729232--2023-9-28-16-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -363,7 +285,7 @@ DTSTART;TZID=America/Los_Angeles:20230928T190000
 DTEND;TZID=America/Los_Angeles:20230928T212500
 DTSTAMP:20230929T025300Z
 UID:ci16639653-tt13729232--2023-9-28-19-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA woman on the verge of financi
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA woman on the verge of financi
  al collapse attempts to reconnect with her wealthy\, estranged father and 
  his new family.\n\nhttps://www.imdb.com/title/tt13729232/\n\nIMDb rating: 
  6.6
@@ -380,7 +302,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -394,7 +316,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -436,7 +358,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -450,7 +372,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -464,7 +386,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -520,7 +442,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -534,7 +456,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -548,7 +470,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -604,7 +526,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -618,7 +540,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
  d vs. Goliath tale\, based on the insane true story of everyday people who
   flipped the script on Wall Street and got rich by turning GameStop (yes\,
   the mall videogame store) into the world's hottest c...\n\nhttps://www.im
- db.com/title/tt13957560/\n\nIMDb rating: 7.1
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -642,6 +564,62 @@ DTSTART;TZID=America/Los_Angeles:20231002T193000
 DTEND;TZID=America/Los_Angeles:20231002T212000
 DTSTAMP:20231003T032300Z
 UID:ci16639653-tt0088178--2023-10-2-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nConsidered by critics as the gre
+ atest concert film of all time\, the live performance was shot over the co
+ urse of three nights at Hollywood's Pantages Theater in December of 1983 a
+ nd features Talking Heads' most memorable songs.\n\nhttps://www.imdb.com/t
+ itle/tt0088178/\n\nIMDb rating: 8.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumb Money
+DTSTART;TZID=America/Los_Angeles:20231003T161500
+DTEND;TZID=America/Los_Angeles:20231003T182000
+DTSTAMP:20231004T000800Z
+UID:ci16639653-tt13957560--2023-10-3-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
+ d vs. Goliath tale\, based on the insane true story of everyday people who
+  flipped the script on Wall Street and got rich by turning GameStop (yes\,
+  the mall videogame store) into the world's hottest c...\n\nhttps://www.im
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumb Money
+DTSTART;TZID=America/Los_Angeles:20231003T190000
+DTEND;TZID=America/Los_Angeles:20231003T210500
+DTSTAMP:20231004T025300Z
+UID:ci16639653-tt13957560--2023-10-3-19-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDumb Money is the ultimate Davi
+ d vs. Goliath tale\, based on the insane true story of everyday people who
+  flipped the script on Wall Street and got rich by turning GameStop (yes\,
+  the mall videogame store) into the world's hottest c...\n\nhttps://www.im
+ db.com/title/tt13957560/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense (1984)
+DTSTART;TZID=America/Los_Angeles:20231003T163000
+DTEND;TZID=America/Los_Angeles:20231003T182000
+DTSTAMP:20231004T002300Z
+UID:ci16639653-tt0088178--2023-10-3-16-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nConsidered by critics as the gre
+ atest concert film of all time\, the live performance was shot over the co
+ urse of three nights at Hollywood's Pantages Theater in December of 1983 a
+ nd features Talking Heads' most memorable songs.\n\nhttps://www.imdb.com/t
+ itle/tt0088178/\n\nIMDb rating: 8.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense (1984)
+DTSTART;TZID=America/Los_Angeles:20231003T193000
+DTEND;TZID=America/Los_Angeles:20231003T212000
+DTSTAMP:20231004T032300Z
+UID:ci16639653-tt0088178--2023-10-3-19-30
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nConsidered by critics as the gre
  atest concert film of all time\, the live performance was shot over the co
  urse of three nights at Hollywood's Pantages Theater in December of 1983 a
