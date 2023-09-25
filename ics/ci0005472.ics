@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230924T194607Z
+LAST-MODIFIED:20230925T153707Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Piaffe
-DTSTART;TZID=America/Los_Angeles:20230924T180000
-DTEND;TZID=America/Los_Angeles:20230924T195000
-DTSTAMP:20230925T015300Z
-UID:ci0005472-tt21226876--2023-9-24-18-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen her sibling Zara suffers a 
- nervous breakdown\, the introvert Eva is forced to take on Zara's job as a
-  Foley artist. Then\, a horsetail starts growing out of her body.\n\nhttps
- ://www.imdb.com/title/tt21226876/\n\nIMDb rating: 6.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Satanic Hispanics
-DTSTART;TZID=America/Los_Angeles:20230924T200000
-DTEND;TZID=America/Los_Angeles:20230924T220500
-DTSTAMP:20230925T035300Z
-UID:ci0005472-tt22085392--2023-9-24-20-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen police raid a house in El 
- Paso\, they find it full of dead Latinos\, and only one survivor. Known as
-  &quot\;The Traveler\,&quot\; he is taken to the police station for questi
- oning. There\, he recounts tales of horrors from his life\, chronicl...\n\
- nhttps://www.imdb.com/title/tt22085392/\n\nIMDb rating: 5.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piaffe
 DTSTART;TZID=America/Los_Angeles:20230927T193000
@@ -71,7 +44,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunrise (1927)
+SUMMARY:Sunrise: A Song of Two Humans (1927)
 DTSTART;TZID=America/Los_Angeles:20230929T190000
 DTEND;TZID=America/Los_Angeles:20230929T205500
 DTSTAMP:20230930T025300Z

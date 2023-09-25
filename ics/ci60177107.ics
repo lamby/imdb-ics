@@ -1,44 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230924T194726Z
+LAST-MODIFIED:20230925T153840Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Arrival (2016)
-DTSTART;TZID=America/Los_Angeles:20230924T160000
-DTEND;TZID=America/Los_Angeles:20230924T182000
-DTSTAMP:20230924T235300Z
-UID:ci60177107-tt2543164--2023-9-24-16-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA linguist works with the milit
- ary to communicate with alien lifeforms after twelve mysterious spacecraft
-  appear around the world.\n\nhttps://www.imdb.com/title/tt2543164/\n\nIMDb
-  rating: 7.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers (1978)
-DTSTART;TZID=America/Los_Angeles:20230924T130000
-DTEND;TZID=America/Los_Angeles:20230924T151500
-DTSTAMP:20230924T205300Z
-UID:ci60177107-tt0077745--2023-9-24-13-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen strange seeds drift to ear
- th from space\, mysterious pods begin to grow and invade San Francisco\, r
- eplicating the city's residents one body at a time.\n\nhttps://www.imdb.co
- m/title/tt0077745/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Blob (1958)
-DTSTART;TZID=America/Los_Angeles:20230924T190000
-DTEND;TZID=America/Los_Angeles:20230924T205000
-DTSTAMP:20230925T025300Z
-UID:ci60177107-tt0051418--2023-9-24-19-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nAn alien lifeform consumes every
- thing in its path as it grows and grows.\n\nhttps://www.imdb.com/title/tt0
- 051418/\n\nIMDb rating: 6.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Men in Black (1997)
 DTSTART;TZID=America/Los_Angeles:20230925T190000
@@ -74,7 +39,7 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\n\nDr. Ellie Arroway\, after years
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:E.T. (1982)
+SUMMARY:E.T. the Extra-Terrestrial (1982)
 DTSTART;TZID=America/Los_Angeles:20230929T160000
 DTEND;TZID=America/Los_Angeles:20230929T181500
 DTSTAMP:20230929T235300Z
