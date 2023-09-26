@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230925T153707Z
+LAST-MODIFIED:20230926T103318Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -140,6 +140,18 @@ DTSTART;TZID=America/Los_Angeles:20231003T193000
 DTEND;TZID=America/Los_Angeles:20231003T215500
 DTSTAMP:20231004T032300Z
 UID:ci0005472-tt0070047--2023-10-3-19-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nWhen a young girl is possessed 
+ by a mysterious entity\, her mother seeks the help of two priests to save 
+ her daughter.\n\nhttps://www.imdb.com/title/tt0070047/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist (1973)
+DTSTART;TZID=America/Los_Angeles:20231005T193000
+DTEND;TZID=America/Los_Angeles:20231005T215500
+DTSTAMP:20231006T032300Z
+UID:ci0005472-tt0070047--2023-10-5-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nWhen a young girl is possessed 
  by a mysterious entity\, her mother seeks the help of two priests to save 
  her daughter.\n\nhttps://www.imdb.com/title/tt0070047/\n\nIMDb rating: 8.1
