@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230927T055430Z
+LAST-MODIFIED:20230928T080551Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Piaffe
-DTSTART;TZID=America/Los_Angeles:20230927T193000
-DTEND;TZID=America/Los_Angeles:20230927T212000
-DTSTAMP:20230928T032300Z
-UID:ci0005472-tt21226876--2023-9-27-19-30
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen her sibling Zara suffers a 
- nervous breakdown\, the introvert Eva is forced to take on Zara's job as a
-  Foley artist. Then\, a horsetail starts growing out of her body.\n\nhttps
- ://www.imdb.com/title/tt21226876/\n\nIMDb rating: 6.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clockwatchers (1997)
 DTSTART;TZID=America/Los_Angeles:20230928T193000
@@ -167,6 +154,44 @@ UID:ci0005472-tt0120611--2023-10-6-19-30
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA half-vampire\, half-mortal ma
  n becomes a protector of the mortal race\, while slaying evil vampires.\n\
  nhttps://www.imdb.com/title/tt0120611/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blade (1998)
+DTSTART;TZID=America/Los_Angeles:20231007T213000
+DTEND;TZID=America/Los_Angeles:20231007T235000
+DTSTAMP:20231008T052300Z
+UID:ci0005472-tt0120611--2023-10-7-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA half-vampire\, half-mortal ma
+ n becomes a protector of the mortal race\, while slaying evil vampires.\n\
+ nhttps://www.imdb.com/title/tt0120611/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fire in the Sky (1993)
+DTSTART;TZID=America/Los_Angeles:20231007T143000
+DTEND;TZID=America/Los_Angeles:20231007T164000
+DTSTAMP:20231007T222300Z
+UID:ci0005472-tt0106912--2023-10-7-14-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAn Arizona logger mysteriously 
+ disappears for five days in an alleged encounter with a flying saucer in 1
+ 975. His co-workers endure ridicule and contempt as they are wrongly accus
+ ed of murder.\n\nhttps://www.imdb.com/title/tt0106912/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huesera: The Bone Woman
+DTSTART;TZID=America/Los_Angeles:20231007T190000
+DTEND;TZID=America/Los_Angeles:20231007T210000
+DTSTAMP:20231008T025300Z
+UID:ci0005472-tt11718516--2023-10-7-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nValeria has long dreamed about b
+ ecoming a mother. After learning that she's pregnant\, she expects to feel
+  happy\, yet something's off.\n\nhttps://www.imdb.com/title/tt11718516/\n\
+ nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
