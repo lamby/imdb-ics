@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230928T080551Z
+LAST-MODIFIED:20230929T081948Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Clockwatchers (1997)
-DTSTART;TZID=America/Los_Angeles:20230928T193000
-DTEND;TZID=America/Los_Angeles:20230928T213000
-DTSTAMP:20230929T032300Z
-UID:ci0005472-tt0118866--2023-9-28-19-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nThe relationship between four fe
- male temps all working for the same credit company is threatened with the 
- arrival of a new hire\, who lands a permanent position one of the women wa
- s vying for.\n\nhttps://www.imdb.com/title/tt0118866/\n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cade: The Tortured Crossing
 DTSTART;TZID=America/Los_Angeles:20230929T211500
@@ -188,6 +175,32 @@ DTSTART;TZID=America/Los_Angeles:20231007T190000
 DTEND;TZID=America/Los_Angeles:20231007T210000
 DTSTAMP:20231008T025300Z
 UID:ci0005472-tt11718516--2023-10-7-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nValeria has long dreamed about b
+ ecoming a mother. After learning that she's pregnant\, she expects to feel
+  happy\, yet something's off.\n\nhttps://www.imdb.com/title/tt11718516/\n\
+ nIMDb rating: 6.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fire in the Sky (1993)
+DTSTART;TZID=America/Los_Angeles:20231008T210000
+DTEND;TZID=America/Los_Angeles:20231008T231000
+DTSTAMP:20231009T045300Z
+UID:ci0005472-tt0106912--2023-10-8-21-0
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAn Arizona logger mysteriously 
+ disappears for five days in an alleged encounter with a flying saucer in 1
+ 975. His co-workers endure ridicule and contempt as they are wrongly accus
+ ed of murder.\n\nhttps://www.imdb.com/title/tt0106912/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huesera: The Bone Woman
+DTSTART;TZID=America/Los_Angeles:20231008T163000
+DTEND;TZID=America/Los_Angeles:20231008T183000
+DTSTAMP:20231009T002300Z
+UID:ci0005472-tt11718516--2023-10-8-16-30
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nValeria has long dreamed about b
  ecoming a mother. After learning that she's pregnant\, she expects to feel
   happy\, yet something's off.\n\nhttps://www.imdb.com/title/tt11718516/\n\

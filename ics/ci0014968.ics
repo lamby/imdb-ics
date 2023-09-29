@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230928T080715Z
+LAST-MODIFIED:20230929T082050Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Saw X
-DTSTART;TZID=America/Los_Angeles:20230928T190000
-DTEND;TZID=America/Los_Angeles:20230928T212000
-DTSTAMP:20230929T025300Z
-UID:ci0014968-tt21807222--2023-9-28-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
- ls to Mexico for a risky and experimental medical procedure in hopes of a 
- miracle cure for his cancer only to discover the entire operation is a sca
- m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saw X
-DTSTART;TZID=America/Los_Angeles:20230928T221500
-DTEND;TZID=America/Los_Angeles:20230929T003500
-DTSTAMP:20230929T060800Z
-UID:ci0014968-tt21807222--2023-9-28-22-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
- ls to Mexico for a risky and experimental medical procedure in hopes of a 
- miracle cure for his cancer only to discover the entire operation is a sca
- m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Creator
-DTSTART;TZID=America/Los_Angeles:20230928T183000
-DTEND;TZID=America/Los_Angeles:20230928T210500
-DTSTAMP:20230929T022300Z
-UID:ci0014968-tt11858890--2023-9-28-18-30
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
- etween humans and robots with artificial intelligence\, a former soldier f
- inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
- www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.3
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Creator
-DTSTART;TZID=America/Los_Angeles:20230928T220000
-DTEND;TZID=America/Los_Angeles:20230929T003500
-DTSTAMP:20230929T055300Z
-UID:ci0014968-tt11858890--2023-9-28-22-0
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
- etween humans and robots with artificial intelligence\, a former soldier f
- inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
- www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.3
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAW Patrol: The Mighty Movie
 DTSTART;TZID=America/Los_Angeles:20230929T151500
@@ -67,7 +13,7 @@ UID:ci0014968-tt15837338--2023-9-29-15-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -80,7 +26,7 @@ UID:ci0014968-tt15837338--2023-9-29-18-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -93,7 +39,7 @@ UID:ci0014968-tt15837338--2023-9-29-21-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -107,7 +53,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -121,7 +67,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -135,7 +81,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -187,7 +133,7 @@ UID:ci0014968-tt15837338--2023-9-30-12-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -200,7 +146,7 @@ UID:ci0014968-tt15837338--2023-9-30-15-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -213,7 +159,7 @@ UID:ci0014968-tt15837338--2023-9-30-18-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -226,7 +172,7 @@ UID:ci0014968-tt15837338--2023-9-30-21-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -240,7 +186,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -254,7 +200,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -268,7 +214,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -282,7 +228,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -347,7 +293,7 @@ UID:ci0014968-tt15837338--2023-10-1-12-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -360,7 +306,7 @@ UID:ci0014968-tt15837338--2023-10-1-15-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -373,7 +319,7 @@ UID:ci0014968-tt15837338--2023-10-1-18-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -386,7 +332,7 @@ UID:ci0014968-tt15837338--2023-10-1-21-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -413,7 +359,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -427,7 +373,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -441,7 +387,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -455,7 +401,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -520,7 +466,7 @@ UID:ci0014968-tt15837338--2023-10-2-15-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -533,7 +479,7 @@ UID:ci0014968-tt15837338--2023-10-2-18-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -546,7 +492,7 @@ UID:ci0014968-tt15837338--2023-10-2-21-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -560,7 +506,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -574,7 +520,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -588,7 +534,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -640,7 +586,7 @@ UID:ci0014968-tt15837338--2023-10-3-15-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -653,7 +599,7 @@ UID:ci0014968-tt15837338--2023-10-3-18-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -666,7 +612,7 @@ UID:ci0014968-tt15837338--2023-10-3-21-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -680,7 +626,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -694,7 +640,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -708,7 +654,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -760,7 +706,7 @@ UID:ci0014968-tt15837338--2023-10-4-15-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -773,7 +719,7 @@ UID:ci0014968-tt15837338--2023-10-4-18-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -786,7 +732,7 @@ UID:ci0014968-tt15837338--2023-10-4-21-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
- rating: 6.1
+ rating: 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -813,7 +759,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -827,7 +773,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -841,7 +787,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
  ls to Mexico for a risky and experimental medical procedure in hopes of a 
  miracle cure for his cancer only to discover the entire operation is a sca
  m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 8
+ /\n\nIMDb rating: 7.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -994,6 +940,71 @@ DTSTART;TZID=America/Los_Angeles:20231007T221500
 DTEND;TZID=America/Los_Angeles:20231008T004000
 DTSTAMP:20231008T060800Z
 UID:ci0014968-tt12921446--2023-10-7-22-15
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nSequel to the 1973 film about a
+  12-year-old girl who is possessed by a mysterious demonic entity\, forcin
+ g her mother to seek the help of two priests to save her.\n\nhttps://www.i
+ mdb.com/title/tt12921446/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Lebowski (1998)
+DTSTART;TZID=America/Los_Angeles:20231008T150000
+DTEND;TZID=America/Los_Angeles:20231008T172000
+DTSTAMP:20231008T225300Z
+UID:ci0014968-tt0118715--2023-10-8-15-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nJeff &quot\;The Dude&quot\; Leb
+ owski\, mistaken for a millionaire of the same name\, seeks restitution fo
+ r his ruined rug and enlists his bowling buddies to help get it.\n\nhttps:
+ //www.imdb.com/title/tt0118715/\n\nIMDb rating: 8.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231008T123000
+DTEND;TZID=America/Los_Angeles:20231008T145500
+DTSTAMP:20231008T202300Z
+UID:ci0014968-tt12921446--2023-10-8-12-30
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nSequel to the 1973 film about a
+  12-year-old girl who is possessed by a mysterious demonic entity\, forcin
+ g her mother to seek the help of two priests to save her.\n\nhttps://www.i
+ mdb.com/title/tt12921446/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231008T154500
+DTEND;TZID=America/Los_Angeles:20231008T181000
+DTSTAMP:20231008T233800Z
+UID:ci0014968-tt12921446--2023-10-8-15-45
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nSequel to the 1973 film about a
+  12-year-old girl who is possessed by a mysterious demonic entity\, forcin
+ g her mother to seek the help of two priests to save her.\n\nhttps://www.i
+ mdb.com/title/tt12921446/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231008T190000
+DTEND;TZID=America/Los_Angeles:20231008T212500
+DTSTAMP:20231009T025300Z
+UID:ci0014968-tt12921446--2023-10-8-19-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nSequel to the 1973 film about a
+  12-year-old girl who is possessed by a mysterious demonic entity\, forcin
+ g her mother to seek the help of two priests to save her.\n\nhttps://www.i
+ mdb.com/title/tt12921446/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231008T221500
+DTEND;TZID=America/Los_Angeles:20231009T004000
+DTSTAMP:20231009T060800Z
+UID:ci0014968-tt12921446--2023-10-8-22-15
 DESCRIPTION:Duration: 2h 01m (121 mins)\n\nSequel to the 1973 film about a
   12-year-old girl who is possessed by a mysterious demonic entity\, forcin
  g her mother to seek the help of two priests to save her.\n\nhttps://www.i
