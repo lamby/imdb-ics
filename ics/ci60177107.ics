@@ -1,66 +1,127 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230929T082121Z
+LAST-MODIFIED:20231008T161910Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial (1982)
-DTSTART;TZID=America/Los_Angeles:20230929T160000
-DTEND;TZID=America/Los_Angeles:20230929T181500
-DTSTAMP:20230929T235300Z
-UID:ci60177107-tt0083866--2023-9-29-16-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA troubled child summons the co
- urage to help a friendly alien escape from Earth and return to his home pl
- anet.\n\nhttps://www.imdb.com/title/tt0083866/\n\nIMDb rating: 7.9
+SUMMARY:2 hermanas (2003)
+DTSTART;TZID=America/Los_Angeles:20231008T140000
+DTEND;TZID=America/Los_Angeles:20231008T161500
+DTSTAMP:20231008T215300Z
+UID:ci60177107-tt0365376--2023-10-8-14-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAfter spending time in a mental
+  hospital\, a girl is reunited with her sister and returns home\, only to 
+ see some truly strange events start to happen.\n\nhttps://www.imdb.com/tit
+ le/tt0365376/\n\nIMDb rating: 7.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Blob (1988)
-DTSTART;TZID=America/Los_Angeles:20230929T190000
-DTEND;TZID=America/Los_Angeles:20230929T205500
-DTSTAMP:20230930T025300Z
-UID:ci60177107-tt0094761--2023-9-29-19-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA deadly entity from space crash
- -lands near a small town and begins consuming everyone in its path. Panic 
- ensues as shady government scientists try to contain the horrific creature
- .\n\nhttps://www.imdb.com/title/tt0094761/\n\nIMDb rating: 6.6
+SUMMARY:Re-Sonator (From Beyond) (1986)
+DTSTART;TZID=America/Los_Angeles:20231008T190000
+DTEND;TZID=America/Los_Angeles:20231008T204500
+DTSTAMP:20231009T025300Z
+UID:ci60177107-tt0091083--2023-10-8-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA group of scientists have devel
+ oped the Resonator\, a machine which allows whoever is within range to see
+  beyond normal perceptible reality. But when the experiment succeeds\, the
+ y are immediately attacked by terrible life forms.\n\nhttps://www.imdb.com
+ /title/tt0091083/\n\nIMDb rating: 6.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Close Encounters of the Third Kind (1977)
-DTSTART;TZID=America/Los_Angeles:20230930T190000
-DTEND;TZID=America/Los_Angeles:20230930T214000
-DTSTAMP:20231001T025300Z
-UID:ci60177107-tt0075860--2023-9-30-19-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nRoy Neary\, an Indiana electric
-  lineman\, finds his quiet and ordinary daily life turned upside down afte
- r a close encounter with a UFO\, spurring him to an obsessed cross-country
-  quest for answers as a momentous event approaches.\n\nhttps://www.imdb.co
- m/title/tt0075860/\n\nIMDb rating: 7.6
+SUMMARY:Spookies (1986)
+DTSTART;TZID=America/Los_Angeles:20231008T164500
+DTEND;TZID=America/Los_Angeles:20231008T183000
+DTSTAMP:20231009T003800Z
+UID:ci60177107-tt0090057--2023-10-8-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA wicked sorcerer tries to sacri
+ fice a group of people inside his house with the intention of using their 
+ vitality to keep his wife alive.\n\nhttps://www.imdb.com/title/tt0090057/\
+ n\nIMDb rating: 4.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mars Attacks! (1996)
-DTSTART;TZID=America/Los_Angeles:20230930T160000
-DTEND;TZID=America/Los_Angeles:20230930T181000
-DTSTAMP:20230930T235300Z
-UID:ci60177107-tt0116996--2023-9-30-16-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nEarth is invaded by Martians wi
- th unbeatable weapons and a cruel sense of humor.\n\nhttps://www.imdb.com/
- title/tt0116996/\n\nIMDb rating: 6.4
+SUMMARY:Drácula y las mellizas (1971)
+DTSTART;TZID=America/Los_Angeles:20231009T190000
+DTEND;TZID=America/Los_Angeles:20231009T205000
+DTSTAMP:20231010T025300Z
+UID:ci60177107-tt0069427--2023-10-9-19-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA religious sect led by Gustav W
+ eil hunts all women suspected of witchcraft\, killing a number of innocent
+  victims. Young Frieda\, Gustav's niece\, will involve herself in a devili
+ sh cult\, and become an instrument of Justice in the r...\n\nhttps://www.i
+ mdb.com/title/tt0069427/\n\nIMDb rating: 6.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plan 9 from Outer Space (1957)
-DTSTART;TZID=America/Los_Angeles:20230930T130000
-DTEND;TZID=America/Los_Angeles:20230930T144000
-DTSTAMP:20230930T205300Z
-UID:ci60177107-tt0052077--2023-9-30-13-0
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEvil aliens attack Earth and set
-  their terrible &quot\;Plan 9&quot\; into action. As the aliens resurrect 
- the dead of the Earth\, the lives of the living are in danger.\n\nhttps://
- www.imdb.com/title/tt0052077/\n\nIMDb rating: 3.9
+SUMMARY:Mad Monster Party? (1967)
+DTSTART;TZID=America/Los_Angeles:20231010T190000
+DTEND;TZID=America/Los_Angeles:20231010T205500
+DTSTAMP:20231011T025300Z
+UID:ci60177107-tt0061931--2023-10-10-19-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nOn the Isle of Evil\, the head o
+ f the &quot\;World Organization of Monsters&quot\; reveals his imminent re
+ tirement and that he has refined a formula for total destruction\, only to
+  be upset when the monsters try to steal the formula and kill hi...\n\nhtt
+ ps://www.imdb.com/title/tt0061931/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viernes 13 (1980)
+DTSTART;TZID=America/Los_Angeles:20231013T190000
+DTEND;TZID=America/Los_Angeles:20231013T205500
+DTSTAMP:20231014T025300Z
+UID:ci60177107-tt0080761--2023-10-13-19-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA group of camp counselors tryin
+ g to reopen a summer camp called Crystal Lake\, which has a grim past\, ar
+ e stalked by a mysterious killer.\n\nhttps://www.imdb.com/title/tt0080761/
+ \n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cujo (1983)
+DTSTART;TZID=America/Los_Angeles:20231014T190000
+DTEND;TZID=America/Los_Angeles:20231014T205500
+DTSTAMP:20231015T025300Z
+UID:ci60177107-tt0085382--2023-10-14-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nCujo\, a friendly St. Bernard\, 
+ contracts rabies and conducts a reign of terror on a small American town.\
+ n\nhttps://www.imdb.com/title/tt0085382/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La criada (1960)
+DTSTART;TZID=America/Los_Angeles:20231015T140000
+DTEND;TZID=America/Los_Angeles:20231015T161000
+DTSTAMP:20231015T215300Z
+UID:ci60177107-tt0150980--2023-10-15-14-0
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA composer and his wife are thr
+ own into turmoil when a housemaid becomes more than they bargained for.\n\
+ nhttps://www.imdb.com/title/tt0150980/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El carnaval de las almas (1962)
+DTSTART;TZID=America/Los_Angeles:20231016T190000
+DTEND;TZID=America/Los_Angeles:20231016T204000
+DTSTAMP:20231017T025300Z
+UID:ci60177107-tt0055830--2023-10-16-19-0
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter a traumatic accident\, a w
+ oman becomes drawn to a mysterious abandoned carnival.\n\nhttps://www.imdb
+ .com/title/tt0055830/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drácula de Bram Stoker (1992)
+DTSTART;TZID=America/Los_Angeles:20231017T183000
+DTEND;TZID=America/Los_Angeles:20231017T210000
+DTSTAMP:20231018T022300Z
+UID:ci60177107-tt0103874--2023-10-17-18-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nThe centuries old vampire Count
+  Dracula comes to England to seduce his barrister Jonathan Harker's fianc
+ ée Mina Murray and inflict havoc in the foreign land.\n\nhttps://www.imdb
+ .com/title/tt0103874/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

@@ -1,46 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230929T082135Z
+LAST-MODIFIED:20231008T161932Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Titian. The Empire of Color
-DTSTART;TZID=America/Los_Angeles:20230930T130000
-DTEND;TZID=America/Los_Angeles:20230930T145000
-DTSTAMP:20230930T205300Z
-UID:ci16639652-tt23726942--2023-9-30-13-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAn account of the life and caree
- r of the painter Titian\, active in Venice in the 1500s\, his pre-occupati
- on with expressions of color\, and the way his work changed over time.\n\n
- https://www.imdb.com/title/tt23726942/\n\nIMDb rating: 6.8
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
- 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titian. The Empire of Color
-DTSTART;TZID=America/Los_Angeles:20231001T130000
-DTEND;TZID=America/Los_Angeles:20231001T145000
-DTSTAMP:20231001T205300Z
-UID:ci16639652-tt23726942--2023-10-1-13-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAn account of the life and caree
- r of the painter Titian\, active in Venice in the 1500s\, his pre-occupati
- on with expressions of color\, and the way his work changed over time.\n\n
- https://www.imdb.com/title/tt23726942/\n\nIMDb rating: 6.8
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
- 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titian. The Empire of Color
-DTSTART;TZID=America/Los_Angeles:20231002T190000
-DTEND;TZID=America/Los_Angeles:20231002T205000
-DTSTAMP:20231003T025300Z
-UID:ci16639652-tt23726942--2023-10-2-19-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAn account of the life and caree
- r of the painter Titian\, active in Venice in the 1500s\, his pre-occupati
- on with expressions of color\, and the way his work changed over time.\n\n
- https://www.imdb.com/title/tt23726942/\n\nIMDb rating: 6.8
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
- 9
-END:VEVENT
 END:VCALENDAR
