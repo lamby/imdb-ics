@@ -1,37 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231008T161651Z
+LAST-MODIFIED:20231009T145530Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
-SUMMARY:Fuego en el cielo (1993)
-DTSTART;TZID=America/Los_Angeles:20231008T210000
-DTEND;TZID=America/Los_Angeles:20231008T231000
-DTSTAMP:20231009T045300Z
-UID:ci0005472-tt0106912--2023-10-8-21-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAn Arizona logger mysteriously 
- disappears for five days in an alleged encounter with a flying saucer in 1
- 975. His co-workers endure ridicule and contempt as they are wrongly accus
- ed of murder.\n\nhttps://www.imdb.com/title/tt0106912/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Huesera
-DTSTART;TZID=America/Los_Angeles:20231008T163000
-DTEND;TZID=America/Los_Angeles:20231008T183000
-DTSTAMP:20231009T002300Z
-UID:ci0005472-tt11718516--2023-10-8-16-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nValeria has long dreamed about b
- ecoming a mother. After learning that she's pregnant\, she expects to feel
-  happy\, yet something's off.\n\nhttps://www.imdb.com/title/tt11718516/\n\
- nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El infierno (1911)
+SUMMARY:L'Inferno (1911)
 DTSTART;TZID=America/Los_Angeles:20231009T193000
 DTEND;TZID=America/Los_Angeles:20231009T210500
 DTSTAMP:20231010T032300Z
@@ -82,7 +56,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El ansia (1983)
+SUMMARY:The Hunger (1983)
 DTSTART;TZID=America/Los_Angeles:20231013T190000
 DTEND;TZID=America/Los_Angeles:20231013T210000
 DTSTAMP:20231014T025300Z
@@ -95,7 +69,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Huesera
+SUMMARY:Huesera: The Bone Woman
 DTSTART;TZID=America/Los_Angeles:20231014T203000
 DTEND;TZID=America/Los_Angeles:20231014T223000
 DTSTAMP:20231015T042300Z
@@ -108,7 +82,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El ansia (1983)
+SUMMARY:The Hunger (1983)
 DTSTART;TZID=America/Los_Angeles:20231014T153000
 DTEND;TZID=America/Los_Angeles:20231014T173000
 DTSTAMP:20231014T232300Z
@@ -121,7 +95,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡Suspense! (1961)
+SUMMARY:The Innocents (1961)
 DTSTART;TZID=America/Los_Angeles:20231014T180000
 DTEND;TZID=America/Los_Angeles:20231014T200000
 DTSTAMP:20231015T015300Z
@@ -133,7 +107,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El más allá (1964)
+SUMMARY:Kwaidan (1964)
 DTSTART;TZID=America/Los_Angeles:20231015T201500
 DTEND;TZID=America/Los_Angeles:20231015T234000
 DTSTAMP:20231016T040800Z
@@ -145,7 +119,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El ansia (1983)
+SUMMARY:The Hunger (1983)
 DTSTART;TZID=America/Los_Angeles:20231015T180000
 DTEND;TZID=America/Los_Angeles:20231015T200000
 DTSTAMP:20231016T015300Z
@@ -158,7 +132,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡Suspense! (1961)
+SUMMARY:The Innocents (1961)
 DTSTART;TZID=America/Los_Angeles:20231015T153000
 DTEND;TZID=America/Los_Angeles:20231015T173000
 DTSTAMP:20231015T232300Z
@@ -170,7 +144,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El más allá (1964)
+SUMMARY:Kwaidan (1964)
 DTSTART;TZID=America/Los_Angeles:20231016T190000
 DTEND;TZID=America/Los_Angeles:20231016T222500
 DTSTAMP:20231017T025300Z
@@ -182,7 +156,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¡Suspense! (1961)
+SUMMARY:The Innocents (1961)
 DTSTART;TZID=America/Los_Angeles:20231017T190000
 DTEND;TZID=America/Los_Angeles:20231017T210000
 DTSTAMP:20231018T025300Z
@@ -190,6 +164,18 @@ UID:ci0005472-tt0055018--2023-10-17-19-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA young governess for two child
  ren becomes convinced that the house and grounds are haunted.\n\nhttps://w
  ww.imdb.com/title/tt0055018/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kwaidan (1964)
+DTSTART;TZID=America/Los_Angeles:20231018T190000
+DTEND;TZID=America/Los_Angeles:20231018T222500
+DTSTAMP:20231019T025300Z
+UID:ci0005472-tt0058279--2023-10-18-19-0
+DESCRIPTION:Duration: 3h 03m (183 mins)\n\nA collection of four Japanese f
+ olk tales with supernatural themes.\n\nhttps://www.imdb.com/title/tt005827
+ 9/\n\nIMDb rating: 7.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

@@ -1,48 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231008T161910Z
+LAST-MODIFIED:20231009T145738Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
-SUMMARY:2 hermanas (2003)
-DTSTART;TZID=America/Los_Angeles:20231008T140000
-DTEND;TZID=America/Los_Angeles:20231008T161500
-DTSTAMP:20231008T215300Z
-UID:ci60177107-tt0365376--2023-10-8-14-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAfter spending time in a mental
-  hospital\, a girl is reunited with her sister and returns home\, only to 
- see some truly strange events start to happen.\n\nhttps://www.imdb.com/tit
- le/tt0365376/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Re-Sonator (From Beyond) (1986)
-DTSTART;TZID=America/Los_Angeles:20231008T190000
-DTEND;TZID=America/Los_Angeles:20231008T204500
-DTSTAMP:20231009T025300Z
-UID:ci60177107-tt0091083--2023-10-8-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA group of scientists have devel
- oped the Resonator\, a machine which allows whoever is within range to see
-  beyond normal perceptible reality. But when the experiment succeeds\, the
- y are immediately attacked by terrible life forms.\n\nhttps://www.imdb.com
- /title/tt0091083/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spookies (1986)
-DTSTART;TZID=America/Los_Angeles:20231008T164500
-DTEND;TZID=America/Los_Angeles:20231008T183000
-DTSTAMP:20231009T003800Z
-UID:ci60177107-tt0090057--2023-10-8-16-45
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA wicked sorcerer tries to sacri
- fice a group of people inside his house with the intention of using their 
- vitality to keep his wife alive.\n\nhttps://www.imdb.com/title/tt0090057/\
- n\nIMDb rating: 4.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drácula y las mellizas (1971)
+SUMMARY:Twins of Evil (1971)
 DTSTART;TZID=America/Los_Angeles:20231009T190000
 DTEND;TZID=America/Los_Angeles:20231009T205000
 DTSTAMP:20231010T025300Z
@@ -64,11 +27,11 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nOn the Isle of Evil\, the head o
  f the &quot\;World Organization of Monsters&quot\; reveals his imminent re
  tirement and that he has refined a formula for total destruction\, only to
   be upset when the monsters try to steal the formula and kill hi...\n\nhtt
- ps://www.imdb.com/title/tt0061931/\n\nIMDb rating: 6.6
+ ps://www.imdb.com/title/tt0061931/\n\nIMDb rating: 6.5
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viernes 13 (1980)
+SUMMARY:Friday the 13th (1980)
 DTSTART;TZID=America/Los_Angeles:20231013T190000
 DTEND;TZID=America/Los_Angeles:20231013T205500
 DTSTAMP:20231014T025300Z
@@ -91,18 +54,18 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nCujo\, a friendly St. Bernard\,
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La criada (1960)
+SUMMARY:The Housemaid (1960)
 DTSTART;TZID=America/Los_Angeles:20231015T140000
 DTEND;TZID=America/Los_Angeles:20231015T161000
 DTSTAMP:20231015T215300Z
 UID:ci60177107-tt0150980--2023-10-15-14-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA composer and his wife are thr
  own into turmoil when a housemaid becomes more than they bargained for.\n\
- nhttps://www.imdb.com/title/tt0150980/\n\nIMDb rating: 7.3
+ nhttps://www.imdb.com/title/tt0150980/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El carnaval de las almas (1962)
+SUMMARY:Carnival of Souls (1962)
 DTSTART;TZID=America/Los_Angeles:20231016T190000
 DTEND;TZID=America/Los_Angeles:20231016T204000
 DTSTAMP:20231017T025300Z
@@ -113,7 +76,7 @@ DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter a traumatic accident\, a w
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drácula de Bram Stoker (1992)
+SUMMARY:Bram Stoker's Dracula (1992)
 DTSTART;TZID=America/Los_Angeles:20231017T183000
 DTEND;TZID=America/Los_Angeles:20231017T210000
 DTSTAMP:20231018T022300Z

@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231008T161750Z
+LAST-MODIFIED:20231009T145619Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
 BEGIN:VEVENT
-SUMMARY:Lemmy contra Alphaville (1965)
+SUMMARY:Alphaville (1965)
 DTSTART;TZID=America/Los_Angeles:20231009T193000
 DTEND;TZID=America/Los_Angeles:20231009T213000
 DTSTAMP:20231010T032300Z
@@ -17,7 +17,7 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA U.S. secret agent is sent to t
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lemmy contra Alphaville (1965)
+SUMMARY:Alphaville (1965)
 DTSTART;TZID=America/Los_Angeles:20231010T193000
 DTEND;TZID=America/Los_Angeles:20231010T213000
 DTSTAMP:20231011T032300Z
@@ -29,7 +29,7 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA U.S. secret agent is sent to t
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lemmy contra Alphaville (1965)
+SUMMARY:Alphaville (1965)
 DTSTART;TZID=America/Los_Angeles:20231011T160000
 DTEND;TZID=America/Los_Angeles:20231011T180000
 DTSTAMP:20231011T235300Z
