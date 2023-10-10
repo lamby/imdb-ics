@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231009T145530Z
+LAST-MODIFIED:20231010T063920Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:L'Inferno (1911)
-DTSTART;TZID=America/Los_Angeles:20231009T193000
-DTEND;TZID=America/Los_Angeles:20231009T210500
-DTSTAMP:20231010T032300Z
-UID:ci0005472-tt0002130--2023-10-9-19-30
-DESCRIPTION:Duration: 1h 11m (71 mins)\n\nLoosely adapted from Dante's Div
- ine Comedy and inspired by the illustrations of Gustav Doré the original 
- silent film has been restored and has a new score by Tangerine Dream.\n\nh
- ttps://www.imdb.com/title/tt0002130/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blade (1998)
 DTSTART;TZID=America/Los_Angeles:20231011T193000
@@ -176,6 +163,18 @@ UID:ci0005472-tt0058279--2023-10-18-19-0
 DESCRIPTION:Duration: 3h 03m (183 mins)\n\nA collection of four Japanese f
  olk tales with supernatural themes.\n\nhttps://www.imdb.com/title/tt005827
  9/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins 2: The New Batch (1990)
+DTSTART;TZID=America/Los_Angeles:20231019T190000
+DTEND;TZID=America/Los_Angeles:20231019T211000
+DTSTAMP:20231020T025300Z
+UID:ci0005472-tt0099700--2023-10-19-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe Gremlins are back\, and thi
+ s time\, they've taken control of a New York City media mogul's high-tech 
+ skyscraper.\n\nhttps://www.imdb.com/title/tt0099700/\n\nIMDb rating: 6.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

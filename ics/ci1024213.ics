@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231009T145619Z
+LAST-MODIFIED:20231010T064004Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Alphaville (1965)
-DTSTART;TZID=America/Los_Angeles:20231009T193000
-DTEND;TZID=America/Los_Angeles:20231009T213000
-DTSTAMP:20231010T032300Z
-UID:ci1024213-tt0058898--2023-10-9-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA U.S. secret agent is sent to t
- he distant space city of Alphaville where he must find a missing person an
- d free the city from its tyrannical ruler.\n\nhttps://www.imdb.com/title/t
- t0058898/\n\nIMDb rating: 7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alphaville (1965)
 DTSTART;TZID=America/Los_Angeles:20231010T193000
