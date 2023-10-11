@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231010T064108Z
+LAST-MODIFIED:20231011T065732Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mad Monster Party? (1967)
-DTSTART;TZID=America/Los_Angeles:20231010T190000
-DTEND;TZID=America/Los_Angeles:20231010T205500
-DTSTAMP:20231011T025300Z
-UID:ci60177107-tt0061931--2023-10-10-19-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nOn the Isle of Evil\, the head o
- f the &quot\;World Organization of Monsters&quot\; reveals his imminent re
- tirement and that he has refined a formula for total destruction\, only to
-  be upset when the monsters try to steal the formula and kill hi...\n\nhtt
- ps://www.imdb.com/title/tt0061931/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friday the 13th (1980)
 DTSTART;TZID=America/Los_Angeles:20231013T190000
@@ -48,7 +35,7 @@ DTSTAMP:20231015T215300Z
 UID:ci60177107-tt0150980--2023-10-15-14-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA composer and his wife are thr
  own into turmoil when a housemaid becomes more than they bargained for.\n\
- nhttps://www.imdb.com/title/tt0150980/\n\nIMDb rating: 7.2
+ nhttps://www.imdb.com/title/tt0150980/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -72,6 +59,17 @@ DESCRIPTION:Duration: 2h 08m (128 mins)\n\nThe centuries old vampire Count
   Dracula comes to England to seduce his barrister Jonathan Harker's fianc
  ée Mina Murray and inflict havoc in the foreign land.\n\nhttps://www.imdb
  .com/title/tt0103874/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Near Dark (1987)
+DTSTART;TZID=America/Los_Angeles:20231020T190000
+DTEND;TZID=America/Los_Angeles:20231020T205500
+DTSTAMP:20231021T025300Z
+UID:ci60177107-tt0093605--2023-10-20-19-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA small-town farmer's son reluct
+ antly joins a traveling group of vampires after he is bitten by a beautifu
+ l drifter.\n\nhttps://www.imdb.com/title/tt0093605/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

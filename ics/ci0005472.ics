@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231010T063920Z
+LAST-MODIFIED:20231011T065544Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -172,6 +172,18 @@ DTSTART;TZID=America/Los_Angeles:20231019T190000
 DTEND;TZID=America/Los_Angeles:20231019T211000
 DTSTAMP:20231020T025300Z
 UID:ci0005472-tt0099700--2023-10-19-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe Gremlins are back\, and thi
+ s time\, they've taken control of a New York City media mogul's high-tech 
+ skyscraper.\n\nhttps://www.imdb.com/title/tt0099700/\n\nIMDb rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins 2: The New Batch (1990)
+DTSTART;TZID=America/Los_Angeles:20231020T213000
+DTEND;TZID=America/Los_Angeles:20231020T234000
+DTSTAMP:20231021T052300Z
+UID:ci0005472-tt0099700--2023-10-20-21-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe Gremlins are back\, and thi
  s time\, they've taken control of a New York City media mogul's high-tech 
  skyscraper.\n\nhttps://www.imdb.com/title/tt0099700/\n\nIMDb rating: 6.4
