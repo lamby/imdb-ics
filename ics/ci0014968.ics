@@ -1,57 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231011T065650Z
+LAST-MODIFIED:20231013T065958Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
 BEGIN:VEVENT
-SUMMARY:A Haunting in Venice
-DTSTART;TZID=America/Los_Angeles:20231011T150000
-DTEND;TZID=America/Los_Angeles:20231011T170500
-DTSTAMP:20231011T225300Z
-UID:ci0014968-tt22687790--2023-10-11-15-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
- oirot\, now retired and living in his own exile\, reluctantly attends a se
- ance. But when one of the guests is murdered\, it is up to the former dete
- ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
- t22687790/\n\nIMDb rating: 6.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Haunting in Venice
-DTSTART;TZID=America/Los_Angeles:20231011T191500
-DTEND;TZID=America/Los_Angeles:20231011T212000
-DTSTAMP:20231012T030800Z
-UID:ci0014968-tt22687790--2023-10-11-19-15
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
- oirot\, now retired and living in his own exile\, reluctantly attends a se
- ance. But when one of the guests is murdered\, it is up to the former dete
- ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
- t22687790/\n\nIMDb rating: 6.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Haunting in Venice
-DTSTART;TZID=America/Los_Angeles:20231011T223000
-DTEND;TZID=America/Los_Angeles:20231012T003500
-DTSTAMP:20231012T062300Z
-UID:ci0014968-tt22687790--2023-10-11-22-30
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
- oirot\, now retired and living in his own exile\, reluctantly attends a se
- ance. But when one of the guests is murdered\, it is up to the former dete
- ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
- t22687790/\n\nIMDb rating: 6.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PAW Patrol: The Mighty Movie
-DTSTART;TZID=America/Los_Angeles:20231011T151500
-DTEND;TZID=America/Los_Angeles:20231011T170500
-DTSTAMP:20231011T230800Z
-UID:ci0014968-tt15837338--2023-10-11-15-15
+DTSTART;TZID=America/Los_Angeles:20231013T141500
+DTEND;TZID=America/Los_Angeles:20231013T160500
+DTSTAMP:20231013T220800Z
+UID:ci0014968-tt15837338--2023-10-13-14-15
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
@@ -61,10 +19,10 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAW Patrol: The Mighty Movie
-DTSTART;TZID=America/Los_Angeles:20231011T180000
-DTEND;TZID=America/Los_Angeles:20231011T195000
-DTSTAMP:20231012T015300Z
-UID:ci0014968-tt15837338--2023-10-11-18-0
+DTSTART;TZID=America/Los_Angeles:20231013T181500
+DTEND;TZID=America/Los_Angeles:20231013T200500
+DTSTAMP:20231014T020800Z
+UID:ci0014968-tt15837338--2023-10-13-18-15
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
@@ -74,10 +32,10 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAW Patrol: The Mighty Movie
-DTSTART;TZID=America/Los_Angeles:20231011T210000
-DTEND;TZID=America/Los_Angeles:20231011T225000
-DTSTAMP:20231012T045300Z
-UID:ci0014968-tt15837338--2023-10-11-21-0
+DTSTART;TZID=America/Los_Angeles:20231013T210000
+DTEND;TZID=America/Los_Angeles:20231013T225000
+DTSTAMP:20231014T045300Z
+UID:ci0014968-tt15837338--2023-10-13-21-0
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
  Adventure City and gives the PAW Patrol pups superpowers\, transforming th
  em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
@@ -86,208 +44,50 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saw X
-DTSTART;TZID=America/Los_Angeles:20231011T160000
-DTEND;TZID=America/Los_Angeles:20231011T182000
-DTSTAMP:20231011T235300Z
-UID:ci0014968-tt21807222--2023-10-11-16-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
- ls to Mexico for a risky and experimental medical procedure in hopes of a 
- miracle cure for his cancer only to discover the entire operation is a sca
- m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 7.1
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231013T140000
+DTEND;TZID=America/Los_Angeles:20231013T171000
+DTSTAMP:20231013T215300Z
+UID:ci0014968-tt28814949--2023-10-13-14-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saw X
-DTSTART;TZID=America/Los_Angeles:20231011T181500
-DTEND;TZID=America/Los_Angeles:20231011T203500
-DTSTAMP:20231012T020800Z
-UID:ci0014968-tt21807222--2023-10-11-18-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
- ls to Mexico for a risky and experimental medical procedure in hopes of a 
- miracle cure for his cancer only to discover the entire operation is a sca
- m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 7.1
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231013T143000
+DTEND;TZID=America/Los_Angeles:20231013T174000
+DTSTAMP:20231013T222300Z
+UID:ci0014968-tt28814949--2023-10-13-14-30
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saw X
-DTSTART;TZID=America/Los_Angeles:20231011T213000
-DTEND;TZID=America/Los_Angeles:20231011T235000
-DTSTAMP:20231012T052300Z
-UID:ci0014968-tt21807222--2023-10-11-21-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
- ls to Mexico for a risky and experimental medical procedure in hopes of a 
- miracle cure for his cancer only to discover the entire operation is a sca
- m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
- /\n\nIMDb rating: 7.1
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231013T150000
+DTEND;TZID=America/Los_Angeles:20231013T181000
+DTSTAMP:20231013T225300Z
+UID:ci0014968-tt28814949--2023-10-13-15-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Big Lebowski (1998)
-DTSTART;TZID=America/Los_Angeles:20231011T183000
-DTEND;TZID=America/Los_Angeles:20231011T205000
-DTSTAMP:20231012T022300Z
-UID:ci0014968-tt0118715--2023-10-11-18-30
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nJeff &quot\;The Dude&quot\; Leb
- owski\, mistaken for a millionaire of the same name\, seeks restitution fo
- r his ruined rug and enlists his bowling buddies to help get it.\n\nhttps:
- //www.imdb.com/title/tt0118715/\n\nIMDb rating: 8.1
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Creator
-DTSTART;TZID=America/Los_Angeles:20231011T151500
-DTEND;TZID=America/Los_Angeles:20231011T175000
-DTSTAMP:20231011T230800Z
-UID:ci0014968-tt11858890--2023-10-11-15-15
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
- etween humans and robots with artificial intelligence\, a former soldier f
- inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
- www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Creator
-DTSTART;TZID=America/Los_Angeles:20231011T180000
-DTEND;TZID=America/Los_Angeles:20231011T203500
-DTSTAMP:20231012T015300Z
-UID:ci0014968-tt11858890--2023-10-11-18-0
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
- etween humans and robots with artificial intelligence\, a former soldier f
- inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
- www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Creator
-DTSTART;TZID=America/Los_Angeles:20231011T220000
-DTEND;TZID=America/Los_Angeles:20231012T003500
-DTSTAMP:20231012T055300Z
-UID:ci0014968-tt11858890--2023-10-11-22-0
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
- etween humans and robots with artificial intelligence\, a former soldier f
- inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
- www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Equalizer 3
-DTSTART;TZID=America/Los_Angeles:20231011T153000
-DTEND;TZID=America/Los_Angeles:20231011T174000
-DTSTAMP:20231011T232300Z
-UID:ci0014968-tt17024450--2023-10-11-15-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
- home in Southern Italy but he discovers his friends are under the control 
- of local crime bosses. As events turn deadly\, McCall knows what he has to
-  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
- b.com/title/tt17024450/\n\nIMDb rating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Equalizer 3
-DTSTART;TZID=America/Los_Angeles:20231011T184500
-DTEND;TZID=America/Los_Angeles:20231011T205500
-DTSTAMP:20231012T023800Z
-UID:ci0014968-tt17024450--2023-10-11-18-45
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
- home in Southern Italy but he discovers his friends are under the control 
- of local crime bosses. As events turn deadly\, McCall knows what he has to
-  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
- b.com/title/tt17024450/\n\nIMDb rating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Equalizer 3
-DTSTART;TZID=America/Los_Angeles:20231011T214500
-DTEND;TZID=America/Los_Angeles:20231011T235500
-DTSTAMP:20231012T053800Z
-UID:ci0014968-tt17024450--2023-10-11-21-45
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
- home in Southern Italy but he discovers his friends are under the control 
- of local crime bosses. As events turn deadly\, McCall knows what he has to
-  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
- b.com/title/tt17024450/\n\nIMDb rating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Exorcist: Believer
-DTSTART;TZID=America/Los_Angeles:20231011T144500
-DTEND;TZID=America/Los_Angeles:20231011T170000
-DTSTAMP:20231011T223800Z
-UID:ci0014968-tt12921446--2023-10-11-14-45
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
- he woods and return three days later with no memory of what happened to th
- em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
- ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
- db.com/title/tt12921446/\n\nIMDb rating: 5.1
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Exorcist: Believer
-DTSTART;TZID=America/Los_Angeles:20231011T154500
-DTEND;TZID=America/Los_Angeles:20231011T180000
-DTSTAMP:20231011T233800Z
-UID:ci0014968-tt12921446--2023-10-11-15-45
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
- he woods and return three days later with no memory of what happened to th
- em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
- ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
- db.com/title/tt12921446/\n\nIMDb rating: 5.1
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Exorcist: Believer
-DTSTART;TZID=America/Los_Angeles:20231011T190000
-DTEND;TZID=America/Los_Angeles:20231011T211500
-DTSTAMP:20231012T025300Z
-UID:ci0014968-tt12921446--2023-10-11-19-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
- he woods and return three days later with no memory of what happened to th
- em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
- ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
- db.com/title/tt12921446/\n\nIMDb rating: 5.1
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Exorcist: Believer
-DTSTART;TZID=America/Los_Angeles:20231011T211500
-DTEND;TZID=America/Los_Angeles:20231011T233000
-DTSTAMP:20231012T050800Z
-UID:ci0014968-tt12921446--2023-10-11-21-15
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
- he woods and return three days later with no memory of what happened to th
- em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
- ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
- db.com/title/tt12921446/\n\nIMDb rating: 5.1
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Exorcist: Believer
-DTSTART;TZID=America/Los_Angeles:20231011T221500
-DTEND;TZID=America/Los_Angeles:20231012T003000
-DTSTAMP:20231012T060800Z
-UID:ci0014968-tt12921446--2023-10-11-22-15
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
- he woods and return three days later with no memory of what happened to th
- em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
- ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
- db.com/title/tt12921446/\n\nIMDb rating: 5.1
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231013T153000
+DTEND;TZID=America/Los_Angeles:20231013T184000
+DTSTAMP:20231013T232300Z
+UID:ci0014968-tt28814949--2023-10-13-15-30
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -299,7 +99,7 @@ DTSTAMP:20231014T015300Z
 UID:ci0014968-tt28814949--2023-10-13-18-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -311,7 +111,7 @@ DTSTAMP:20231014T022300Z
 UID:ci0014968-tt28814949--2023-10-13-18-30
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -323,7 +123,31 @@ DTSTAMP:20231014T025300Z
 UID:ci0014968-tt28814949--2023-10-13-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231013T193000
+DTEND;TZID=America/Los_Angeles:20231013T224000
+DTSTAMP:20231014T032300Z
+UID:ci0014968-tt28814949--2023-10-13-19-30
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231013T214500
+DTEND;TZID=America/Los_Angeles:20231014T005500
+DTSTAMP:20231014T053800Z
+UID:ci0014968-tt28814949--2023-10-13-21-45
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -335,7 +159,7 @@ DTSTAMP:20231014T055300Z
 UID:ci0014968-tt28814949--2023-10-13-22-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -347,7 +171,177 @@ DTSTAMP:20231014T062300Z
 UID:ci0014968-tt28814949--2023-10-13-22-30
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231013T144500
+DTEND;TZID=America/Los_Angeles:20231013T172000
+DTSTAMP:20231013T223800Z
+UID:ci0014968-tt11858890--2023-10-13-14-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231013T181500
+DTEND;TZID=America/Los_Angeles:20231013T205000
+DTSTAMP:20231014T020800Z
+UID:ci0014968-tt11858890--2023-10-13-18-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231013T214500
+DTEND;TZID=America/Los_Angeles:20231014T002000
+DTSTAMP:20231014T053800Z
+UID:ci0014968-tt11858890--2023-10-13-21-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231013T154500
+DTEND;TZID=America/Los_Angeles:20231013T180000
+DTSTAMP:20231013T233800Z
+UID:ci0014968-tt12921446--2023-10-13-15-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231013T184500
+DTEND;TZID=America/Los_Angeles:20231013T210000
+DTSTAMP:20231014T023800Z
+UID:ci0014968-tt12921446--2023-10-13-18-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231013T230000
+DTEND;TZID=America/Los_Angeles:20231014T011500
+DTSTAMP:20231014T065300Z
+UID:ci0014968-tt12921446--2023-10-13-23-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231014T111500
+DTEND;TZID=America/Los_Angeles:20231014T130500
+DTSTAMP:20231014T190800Z
+UID:ci0014968-tt15837338--2023-10-14-11-15
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231014T120000
+DTEND;TZID=America/Los_Angeles:20231014T135000
+DTSTAMP:20231014T195300Z
+UID:ci0014968-tt15837338--2023-10-14-12-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231014T160000
+DTEND;TZID=America/Los_Angeles:20231014T175000
+DTSTAMP:20231014T235300Z
+UID:ci0014968-tt15837338--2023-10-14-16-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231014T181500
+DTEND;TZID=America/Los_Angeles:20231014T200500
+DTSTAMP:20231015T020800Z
+UID:ci0014968-tt15837338--2023-10-14-18-15
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231014T210000
+DTEND;TZID=America/Los_Angeles:20231014T225000
+DTSTAMP:20231015T045300Z
+UID:ci0014968-tt15837338--2023-10-14-21-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231014T120000
+DTEND;TZID=America/Los_Angeles:20231014T151000
+DTSTAMP:20231014T195300Z
+UID:ci0014968-tt28814949--2023-10-14-12-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231014T121500
+DTEND;TZID=America/Los_Angeles:20231014T152500
+DTSTAMP:20231014T200800Z
+UID:ci0014968-tt28814949--2023-10-14-12-15
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -359,7 +353,7 @@ DTSTAMP:20231014T215300Z
 UID:ci0014968-tt28814949--2023-10-14-14-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -371,7 +365,7 @@ DTSTAMP:20231014T222300Z
 UID:ci0014968-tt28814949--2023-10-14-14-30
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -383,7 +377,19 @@ DTSTAMP:20231014T225300Z
 UID:ci0014968-tt28814949--2023-10-14-15-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231014T161500
+DTEND;TZID=America/Los_Angeles:20231014T192500
+DTSTAMP:20231015T000800Z
+UID:ci0014968-tt28814949--2023-10-14-16-15
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -395,7 +401,7 @@ DTSTAMP:20231015T015300Z
 UID:ci0014968-tt28814949--2023-10-14-18-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -407,7 +413,7 @@ DTSTAMP:20231015T022300Z
 UID:ci0014968-tt28814949--2023-10-14-18-30
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -419,7 +425,43 @@ DTSTAMP:20231015T025300Z
 UID:ci0014968-tt28814949--2023-10-14-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231014T201500
+DTEND;TZID=America/Los_Angeles:20231014T232500
+DTSTAMP:20231015T040800Z
+UID:ci0014968-tt28814949--2023-10-14-20-15
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231014T214500
+DTEND;TZID=America/Los_Angeles:20231015T005500
+DTSTAMP:20231015T053800Z
+UID:ci0014968-tt28814949--2023-10-14-21-45
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231014T220000
+DTEND;TZID=America/Los_Angeles:20231015T011000
+DTSTAMP:20231015T055300Z
+UID:ci0014968-tt28814949--2023-10-14-22-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -431,7 +473,218 @@ DTSTAMP:20231015T062300Z
 UID:ci0014968-tt28814949--2023-10-14-22-30
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231014T111500
+DTEND;TZID=America/Los_Angeles:20231014T135000
+DTSTAMP:20231014T190800Z
+UID:ci0014968-tt11858890--2023-10-14-11-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231014T144500
+DTEND;TZID=America/Los_Angeles:20231014T172000
+DTSTAMP:20231014T223800Z
+UID:ci0014968-tt11858890--2023-10-14-14-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231014T181500
+DTEND;TZID=America/Los_Angeles:20231014T205000
+DTSTAMP:20231015T020800Z
+UID:ci0014968-tt11858890--2023-10-14-18-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231014T214500
+DTEND;TZID=America/Los_Angeles:20231015T002000
+DTSTAMP:20231015T053800Z
+UID:ci0014968-tt11858890--2023-10-14-21-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231014T110000
+DTEND;TZID=America/Los_Angeles:20231014T131500
+DTSTAMP:20231014T185300Z
+UID:ci0014968-tt12921446--2023-10-14-11-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231014T113000
+DTEND;TZID=America/Los_Angeles:20231014T134500
+DTSTAMP:20231014T192300Z
+UID:ci0014968-tt12921446--2023-10-14-11-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231014T151500
+DTEND;TZID=America/Los_Angeles:20231014T173000
+DTSTAMP:20231014T230800Z
+UID:ci0014968-tt12921446--2023-10-14-15-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231014T184500
+DTEND;TZID=America/Los_Angeles:20231014T210000
+DTSTAMP:20231015T023800Z
+UID:ci0014968-tt12921446--2023-10-14-18-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231014T230000
+DTEND;TZID=America/Los_Angeles:20231015T011500
+DTSTAMP:20231015T065300Z
+UID:ci0014968-tt12921446--2023-10-14-23-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231015T110000
+DTEND;TZID=America/Los_Angeles:20231015T125000
+DTSTAMP:20231015T185300Z
+UID:ci0014968-tt15837338--2023-10-15-11-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231015T113000
+DTEND;TZID=America/Los_Angeles:20231015T132000
+DTSTAMP:20231015T192300Z
+UID:ci0014968-tt15837338--2023-10-15-11-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231015T160000
+DTEND;TZID=America/Los_Angeles:20231015T175000
+DTSTAMP:20231015T235300Z
+UID:ci0014968-tt15837338--2023-10-15-16-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231015T181500
+DTEND;TZID=America/Los_Angeles:20231015T200500
+DTSTAMP:20231016T020800Z
+UID:ci0014968-tt15837338--2023-10-15-18-15
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231015T214500
+DTEND;TZID=America/Los_Angeles:20231015T233500
+DTSTAMP:20231016T053800Z
+UID:ci0014968-tt15837338--2023-10-15-21-45
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231015T120000
+DTEND;TZID=America/Los_Angeles:20231015T151000
+DTSTAMP:20231015T195300Z
+UID:ci0014968-tt28814949--2023-10-15-12-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231015T121500
+DTEND;TZID=America/Los_Angeles:20231015T152500
+DTSTAMP:20231015T200800Z
+UID:ci0014968-tt28814949--2023-10-15-12-15
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -443,7 +696,19 @@ DTSTAMP:20231015T215300Z
 UID:ci0014968-tt28814949--2023-10-15-14-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231015T143000
+DTEND;TZID=America/Los_Angeles:20231015T174000
+DTSTAMP:20231015T222300Z
+UID:ci0014968-tt28814949--2023-10-15-14-30
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -455,7 +720,7 @@ DTSTAMP:20231015T223800Z
 UID:ci0014968-tt28814949--2023-10-15-14-45
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -467,7 +732,7 @@ DTSTAMP:20231016T015300Z
 UID:ci0014968-tt28814949--2023-10-15-18-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -479,7 +744,7 @@ DTSTAMP:20231016T022300Z
 UID:ci0014968-tt28814949--2023-10-15-18-30
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -491,7 +756,177 @@ DTSTAMP:20231016T025300Z
 UID:ci0014968-tt28814949--2023-10-15-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231015T191500
+DTEND;TZID=America/Los_Angeles:20231015T222500
+DTSTAMP:20231016T030800Z
+UID:ci0014968-tt28814949--2023-10-15-19-15
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231015T210000
+DTEND;TZID=America/Los_Angeles:20231016T001000
+DTSTAMP:20231016T045300Z
+UID:ci0014968-tt28814949--2023-10-15-21-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231015T220000
+DTEND;TZID=America/Los_Angeles:20231016T011000
+DTSTAMP:20231016T055300Z
+UID:ci0014968-tt28814949--2023-10-15-22-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231015T223000
+DTEND;TZID=America/Los_Angeles:20231016T014000
+DTSTAMP:20231016T062300Z
+UID:ci0014968-tt28814949--2023-10-15-22-30
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231015T111500
+DTEND;TZID=America/Los_Angeles:20231015T135000
+DTSTAMP:20231015T190800Z
+UID:ci0014968-tt11858890--2023-10-15-11-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231015T141500
+DTEND;TZID=America/Los_Angeles:20231015T165000
+DTSTAMP:20231015T220800Z
+UID:ci0014968-tt11858890--2023-10-15-14-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231015T181500
+DTEND;TZID=America/Los_Angeles:20231015T205000
+DTSTAMP:20231016T020800Z
+UID:ci0014968-tt11858890--2023-10-15-18-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231015T214500
+DTEND;TZID=America/Los_Angeles:20231016T002000
+DTSTAMP:20231016T053800Z
+UID:ci0014968-tt11858890--2023-10-15-21-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231015T113000
+DTEND;TZID=America/Los_Angeles:20231015T134500
+DTSTAMP:20231015T192300Z
+UID:ci0014968-tt12921446--2023-10-15-11-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231015T114500
+DTEND;TZID=America/Los_Angeles:20231015T140000
+DTSTAMP:20231015T193800Z
+UID:ci0014968-tt12921446--2023-10-15-11-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231015T161500
+DTEND;TZID=America/Los_Angeles:20231015T183000
+DTSTAMP:20231016T000800Z
+UID:ci0014968-tt12921446--2023-10-15-16-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231015T184500
+DTEND;TZID=America/Los_Angeles:20231015T210000
+DTSTAMP:20231016T023800Z
+UID:ci0014968-tt12921446--2023-10-15-18-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231015T230000
+DTEND;TZID=America/Los_Angeles:20231016T011500
+DTSTAMP:20231016T065300Z
+UID:ci0014968-tt12921446--2023-10-15-23-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -505,6 +940,856 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA young F.B.I. cadet must recei
  ve the help of an incarcerated and manipulative cannibal killer to help ca
  tch another serial killer\, a madman who skins his victims.\n\nhttps://www
  .imdb.com/title/tt0102926/\n\nIMDb rating: 8.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231016T154500
+DTEND;TZID=America/Los_Angeles:20231016T175000
+DTSTAMP:20231016T233800Z
+UID:ci0014968-tt22687790--2023-10-16-15-45
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231016T184500
+DTEND;TZID=America/Los_Angeles:20231016T205000
+DTSTAMP:20231017T023800Z
+UID:ci0014968-tt22687790--2023-10-16-18-45
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231016T220000
+DTEND;TZID=America/Los_Angeles:20231017T000500
+DTSTAMP:20231017T055300Z
+UID:ci0014968-tt22687790--2023-10-16-22-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231016T150000
+DTEND;TZID=America/Los_Angeles:20231016T165000
+DTSTAMP:20231016T225300Z
+UID:ci0014968-tt15837338--2023-10-16-15-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231016T180000
+DTEND;TZID=America/Los_Angeles:20231016T195000
+DTSTAMP:20231017T015300Z
+UID:ci0014968-tt15837338--2023-10-16-18-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231016T210000
+DTEND;TZID=America/Los_Angeles:20231016T225000
+DTSTAMP:20231017T045300Z
+UID:ci0014968-tt15837338--2023-10-16-21-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231016T160000
+DTEND;TZID=America/Los_Angeles:20231016T182000
+DTSTAMP:20231016T235300Z
+UID:ci0014968-tt21807222--2023-10-16-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231016T191500
+DTEND;TZID=America/Los_Angeles:20231016T213500
+DTSTAMP:20231017T030800Z
+UID:ci0014968-tt21807222--2023-10-16-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231016T223000
+DTEND;TZID=America/Los_Angeles:20231017T005000
+DTSTAMP:20231017T062300Z
+UID:ci0014968-tt21807222--2023-10-16-22-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231016T144500
+DTEND;TZID=America/Los_Angeles:20231016T172000
+DTSTAMP:20231016T223800Z
+UID:ci0014968-tt11858890--2023-10-16-14-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231016T181500
+DTEND;TZID=America/Los_Angeles:20231016T205000
+DTSTAMP:20231017T020800Z
+UID:ci0014968-tt11858890--2023-10-16-18-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231016T214500
+DTEND;TZID=America/Los_Angeles:20231017T002000
+DTSTAMP:20231017T053800Z
+UID:ci0014968-tt11858890--2023-10-16-21-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231016T161500
+DTEND;TZID=America/Los_Angeles:20231016T182500
+DTSTAMP:20231017T000800Z
+UID:ci0014968-tt17024450--2023-10-16-16-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231016T193000
+DTEND;TZID=America/Los_Angeles:20231016T214000
+DTSTAMP:20231017T032300Z
+UID:ci0014968-tt17024450--2023-10-16-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231016T224500
+DTEND;TZID=America/Los_Angeles:20231017T005500
+DTSTAMP:20231017T063800Z
+UID:ci0014968-tt17024450--2023-10-16-22-45
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231016T151500
+DTEND;TZID=America/Los_Angeles:20231016T173000
+DTSTAMP:20231016T230800Z
+UID:ci0014968-tt12921446--2023-10-16-15-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231016T153000
+DTEND;TZID=America/Los_Angeles:20231016T174500
+DTSTAMP:20231016T232300Z
+UID:ci0014968-tt12921446--2023-10-16-15-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231016T183000
+DTEND;TZID=America/Los_Angeles:20231016T204500
+DTSTAMP:20231017T022300Z
+UID:ci0014968-tt12921446--2023-10-16-18-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231016T190000
+DTEND;TZID=America/Los_Angeles:20231016T211500
+DTSTAMP:20231017T025300Z
+UID:ci0014968-tt12921446--2023-10-16-19-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231016T214500
+DTEND;TZID=America/Los_Angeles:20231017T000000
+DTSTAMP:20231017T053800Z
+UID:ci0014968-tt12921446--2023-10-16-21-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231016T221500
+DTEND;TZID=America/Los_Angeles:20231017T003000
+DTSTAMP:20231017T060800Z
+UID:ci0014968-tt12921446--2023-10-16-22-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231017T154500
+DTEND;TZID=America/Los_Angeles:20231017T175000
+DTSTAMP:20231017T233800Z
+UID:ci0014968-tt22687790--2023-10-17-15-45
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231017T184500
+DTEND;TZID=America/Los_Angeles:20231017T205000
+DTSTAMP:20231018T023800Z
+UID:ci0014968-tt22687790--2023-10-17-18-45
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231017T220000
+DTEND;TZID=America/Los_Angeles:20231018T000500
+DTSTAMP:20231018T055300Z
+UID:ci0014968-tt22687790--2023-10-17-22-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231017T150000
+DTEND;TZID=America/Los_Angeles:20231017T165000
+DTSTAMP:20231017T225300Z
+UID:ci0014968-tt15837338--2023-10-17-15-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231017T180000
+DTEND;TZID=America/Los_Angeles:20231017T195000
+DTSTAMP:20231018T015300Z
+UID:ci0014968-tt15837338--2023-10-17-18-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231017T210000
+DTEND;TZID=America/Los_Angeles:20231017T225000
+DTSTAMP:20231018T045300Z
+UID:ci0014968-tt15837338--2023-10-17-21-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231017T160000
+DTEND;TZID=America/Los_Angeles:20231017T182000
+DTSTAMP:20231017T235300Z
+UID:ci0014968-tt21807222--2023-10-17-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231017T191500
+DTEND;TZID=America/Los_Angeles:20231017T213500
+DTSTAMP:20231018T030800Z
+UID:ci0014968-tt21807222--2023-10-17-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231017T223000
+DTEND;TZID=America/Los_Angeles:20231018T005000
+DTSTAMP:20231018T062300Z
+UID:ci0014968-tt21807222--2023-10-17-22-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231017T144500
+DTEND;TZID=America/Los_Angeles:20231017T172000
+DTSTAMP:20231017T223800Z
+UID:ci0014968-tt11858890--2023-10-17-14-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231017T181500
+DTEND;TZID=America/Los_Angeles:20231017T205000
+DTSTAMP:20231018T020800Z
+UID:ci0014968-tt11858890--2023-10-17-18-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231017T214500
+DTEND;TZID=America/Los_Angeles:20231018T002000
+DTSTAMP:20231018T053800Z
+UID:ci0014968-tt11858890--2023-10-17-21-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231017T161500
+DTEND;TZID=America/Los_Angeles:20231017T182500
+DTSTAMP:20231018T000800Z
+UID:ci0014968-tt17024450--2023-10-17-16-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231017T193000
+DTEND;TZID=America/Los_Angeles:20231017T214000
+DTSTAMP:20231018T032300Z
+UID:ci0014968-tt17024450--2023-10-17-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231017T224500
+DTEND;TZID=America/Los_Angeles:20231018T005500
+DTSTAMP:20231018T063800Z
+UID:ci0014968-tt17024450--2023-10-17-22-45
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231017T151500
+DTEND;TZID=America/Los_Angeles:20231017T173000
+DTSTAMP:20231017T230800Z
+UID:ci0014968-tt12921446--2023-10-17-15-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231017T153000
+DTEND;TZID=America/Los_Angeles:20231017T174500
+DTSTAMP:20231017T232300Z
+UID:ci0014968-tt12921446--2023-10-17-15-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231017T183000
+DTEND;TZID=America/Los_Angeles:20231017T204500
+DTSTAMP:20231018T022300Z
+UID:ci0014968-tt12921446--2023-10-17-18-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231017T190000
+DTEND;TZID=America/Los_Angeles:20231017T211500
+DTSTAMP:20231018T025300Z
+UID:ci0014968-tt12921446--2023-10-17-19-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231017T214500
+DTEND;TZID=America/Los_Angeles:20231018T000000
+DTSTAMP:20231018T053800Z
+UID:ci0014968-tt12921446--2023-10-17-21-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231017T221500
+DTEND;TZID=America/Los_Angeles:20231018T003000
+DTSTAMP:20231018T060800Z
+UID:ci0014968-tt12921446--2023-10-17-22-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231018T154500
+DTEND;TZID=America/Los_Angeles:20231018T175000
+DTSTAMP:20231018T233800Z
+UID:ci0014968-tt22687790--2023-10-18-15-45
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231018T184500
+DTEND;TZID=America/Los_Angeles:20231018T205000
+DTSTAMP:20231019T023800Z
+UID:ci0014968-tt22687790--2023-10-18-18-45
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Haunting in Venice
+DTSTART;TZID=America/Los_Angeles:20231018T220000
+DTEND;TZID=America/Los_Angeles:20231019T000500
+DTSTAMP:20231019T055300Z
+UID:ci0014968-tt22687790--2023-10-18-22-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nIn post-World War II Venice\, P
+ oirot\, now retired and living in his own exile\, reluctantly attends a se
+ ance. But when one of the guests is murdered\, it is up to the former dete
+ ctive to once again to uncover the killer.\n\nhttps://www.imdb.com/title/t
+ t22687790/\n\nIMDb rating: 6.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231018T150000
+DTEND;TZID=America/Los_Angeles:20231018T165000
+DTSTAMP:20231018T225300Z
+UID:ci0014968-tt15837338--2023-10-18-15-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231018T180000
+DTEND;TZID=America/Los_Angeles:20231018T195000
+DTSTAMP:20231019T015300Z
+UID:ci0014968-tt15837338--2023-10-18-18-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Mighty Movie
+DTSTART;TZID=America/Los_Angeles:20231018T210000
+DTEND;TZID=America/Los_Angeles:20231018T225000
+DTSTAMP:20231019T045300Z
+UID:ci0014968-tt15837338--2023-10-18-21-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA magical meteor crash lands in 
+ Adventure City and gives the PAW Patrol pups superpowers\, transforming th
+ em into The Mighty Pups\n\nhttps://www.imdb.com/title/tt15837338/\n\nIMDb 
+ rating: 6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231018T160000
+DTEND;TZID=America/Los_Angeles:20231018T182000
+DTSTAMP:20231018T235300Z
+UID:ci0014968-tt21807222--2023-10-18-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231018T191500
+DTEND;TZID=America/Los_Angeles:20231018T213500
+DTSTAMP:20231019T030800Z
+UID:ci0014968-tt21807222--2023-10-18-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saw X
+DTSTART;TZID=America/Los_Angeles:20231018T223000
+DTEND;TZID=America/Los_Angeles:20231019T005000
+DTSTAMP:20231019T062300Z
+UID:ci0014968-tt21807222--2023-10-18-22-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA sick and desperate John trave
+ ls to Mexico for a risky and experimental medical procedure in hopes of a 
+ miracle cure for his cancer only to discover the entire operation is a sca
+ m to defraud the most vulnerable.\n\nhttps://www.imdb.com/title/tt21807222
+ /\n\nIMDb rating: 7.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231018T144500
+DTEND;TZID=America/Los_Angeles:20231018T172000
+DTSTAMP:20231018T223800Z
+UID:ci0014968-tt11858890--2023-10-18-14-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231018T181500
+DTEND;TZID=America/Los_Angeles:20231018T205000
+DTSTAMP:20231019T020800Z
+UID:ci0014968-tt11858890--2023-10-18-18-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Creator
+DTSTART;TZID=America/Los_Angeles:20231018T214500
+DTEND;TZID=America/Los_Angeles:20231019T002000
+DTSTAMP:20231019T053800Z
+UID:ci0014968-tt11858890--2023-10-18-21-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAgainst the backdrop of a war b
+ etween humans and robots with artificial intelligence\, a former soldier f
+ inds the secret weapon\, a robot in the form of a young child.\n\nhttps://
+ www.imdb.com/title/tt11858890/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231018T161500
+DTEND;TZID=America/Los_Angeles:20231018T182500
+DTSTAMP:20231019T000800Z
+UID:ci0014968-tt17024450--2023-10-18-16-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231018T193000
+DTEND;TZID=America/Los_Angeles:20231018T214000
+DTSTAMP:20231019T032300Z
+UID:ci0014968-tt17024450--2023-10-18-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Equalizer 3
+DTSTART;TZID=America/Los_Angeles:20231018T224500
+DTEND;TZID=America/Los_Angeles:20231019T005500
+DTSTAMP:20231019T063800Z
+UID:ci0014968-tt17024450--2023-10-18-22-45
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nRobert McCall finds himself at 
+ home in Southern Italy but he discovers his friends are under the control 
+ of local crime bosses. As events turn deadly\, McCall knows what he has to
+  do: become his friends' protector by taking on the ...\n\nhttps://www.imd
+ b.com/title/tt17024450/\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231018T151500
+DTEND;TZID=America/Los_Angeles:20231018T173000
+DTSTAMP:20231018T230800Z
+UID:ci0014968-tt12921446--2023-10-18-15-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231018T153000
+DTEND;TZID=America/Los_Angeles:20231018T174500
+DTSTAMP:20231018T232300Z
+UID:ci0014968-tt12921446--2023-10-18-15-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231018T190000
+DTEND;TZID=America/Los_Angeles:20231018T211500
+DTSTAMP:20231019T025300Z
+UID:ci0014968-tt12921446--2023-10-18-19-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231018T214500
+DTEND;TZID=America/Los_Angeles:20231019T000000
+DTSTAMP:20231019T053800Z
+UID:ci0014968-tt12921446--2023-10-18-21-45
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcist: Believer
+DTSTART;TZID=America/Los_Angeles:20231018T221500
+DTEND;TZID=America/Los_Angeles:20231019T003000
+DTSTAMP:20231019T060800Z
+UID:ci0014968-tt12921446--2023-10-18-22-15
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWhen two girls disappear into t
+ he woods and return three days later with no memory of what happened to th
+ em\, the father of one girl seeks out Chris MacNeil\, who's been forever a
+ ltered by what happened to her daughter fifty years ago.\n\nhttps://www.im
+ db.com/title/tt12921446/\n\nIMDb rating: 5.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -530,7 +1815,7 @@ UID:ci0014968-tt5537002--2023-10-19-14-30
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 9
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -543,7 +1828,7 @@ UID:ci0014968-tt5537002--2023-10-19-18-15
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 9
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -556,7 +1841,7 @@ UID:ci0014968-tt5537002--2023-10-19-22-0
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 9
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -568,7 +1853,7 @@ DTSTAMP:20231019T213800Z
 UID:ci0014968-tt28814949--2023-10-19-13-45
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -580,7 +1865,7 @@ DTSTAMP:20231020T015300Z
 UID:ci0014968-tt28814949--2023-10-19-18-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -593,7 +1878,7 @@ UID:ci0014968-tt5537002--2023-10-20-14-30
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 9
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -606,7 +1891,7 @@ UID:ci0014968-tt5537002--2023-10-20-18-15
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 9
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -619,7 +1904,7 @@ UID:ci0014968-tt5537002--2023-10-20-22-0
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 9
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -630,10 +1915,10 @@ DTEND;TZID=America/Los_Angeles:20231020T182500
 DTSTAMP:20231020T235300Z
 UID:ci0014968-tt15257160--2023-10-20-16-0
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
- r her and her daughter so she gets a job at a bankrupt pharmacy and Liza's
-  guts catapult the company and her into the high life not knowing that she
-  will soon be in the middle of a criminal conspiracy.\n\nhttps://www.imdb.
- com/title/tt15257160/\n\nIMDb rating: 5.9
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -644,10 +1929,10 @@ DTEND;TZID=America/Los_Angeles:20231020T215500
 DTSTAMP:20231021T032300Z
 UID:ci0014968-tt15257160--2023-10-20-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
- r her and her daughter so she gets a job at a bankrupt pharmacy and Liza's
-  guts catapult the company and her into the high life not knowing that she
-  will soon be in the middle of a criminal conspiracy.\n\nhttps://www.imdb.
- com/title/tt15257160/\n\nIMDb rating: 5.9
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -658,10 +1943,10 @@ DTEND;TZID=America/Los_Angeles:20231021T012500
 DTSTAMP:20231021T065300Z
 UID:ci0014968-tt15257160--2023-10-20-23-0
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
- r her and her daughter so she gets a job at a bankrupt pharmacy and Liza's
-  guts catapult the company and her into the high life not knowing that she
-  will soon be in the middle of a criminal conspiracy.\n\nhttps://www.imdb.
- com/title/tt15257160/\n\nIMDb rating: 5.9
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -673,7 +1958,7 @@ DTSTAMP:20231020T213800Z
 UID:ci0014968-tt28814949--2023-10-20-13-45
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -685,7 +1970,7 @@ DTSTAMP:20231021T015300Z
 UID:ci0014968-tt28814949--2023-10-20-18-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -697,7 +1982,258 @@ DTSTAMP:20231021T060800Z
 UID:ci0014968-tt28814949--2023-10-20-22-15
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231021T143000
+DTEND;TZID=America/Los_Angeles:20231021T182000
+DTSTAMP:20231021T222300Z
+UID:ci0014968-tt5537002--2023-10-21-14-30
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231021T181500
+DTEND;TZID=America/Los_Angeles:20231021T220500
+DTSTAMP:20231022T020800Z
+UID:ci0014968-tt5537002--2023-10-21-18-15
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231021T220000
+DTEND;TZID=America/Los_Angeles:20231022T015000
+DTSTAMP:20231022T055300Z
+UID:ci0014968-tt5537002--2023-10-21-22-0
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231021T123000
+DTEND;TZID=America/Los_Angeles:20231021T145500
+DTSTAMP:20231021T202300Z
+UID:ci0014968-tt15257160--2023-10-21-12-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231021T160000
+DTEND;TZID=America/Los_Angeles:20231021T182500
+DTSTAMP:20231021T235300Z
+UID:ci0014968-tt15257160--2023-10-21-16-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231021T193000
+DTEND;TZID=America/Los_Angeles:20231021T215500
+DTSTAMP:20231022T032300Z
+UID:ci0014968-tt15257160--2023-10-21-19-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231021T230000
+DTEND;TZID=America/Los_Angeles:20231022T012500
+DTSTAMP:20231022T065300Z
+UID:ci0014968-tt15257160--2023-10-21-23-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231021T134500
+DTEND;TZID=America/Los_Angeles:20231021T165500
+DTSTAMP:20231021T213800Z
+UID:ci0014968-tt28814949--2023-10-21-13-45
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231021T180000
+DTEND;TZID=America/Los_Angeles:20231021T211000
+DTSTAMP:20231022T015300Z
+UID:ci0014968-tt28814949--2023-10-21-18-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231021T221500
+DTEND;TZID=America/Los_Angeles:20231022T012500
+DTSTAMP:20231022T060800Z
+UID:ci0014968-tt28814949--2023-10-21-22-15
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blade Runner (1982)
+DTSTART;TZID=America/Los_Angeles:20231022T143000
+DTEND;TZID=America/Los_Angeles:20231022T165000
+DTSTAMP:20231022T222300Z
+UID:ci0014968-tt0083658--2023-10-22-14-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA blade runner must pursue and 
+ terminate four replicants who stole a ship in space and have returned to E
+ arth to find their creator.\n\nhttps://www.imdb.com/title/tt0083658/\n\nIM
+ Db rating: 8.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231022T143000
+DTEND;TZID=America/Los_Angeles:20231022T182000
+DTSTAMP:20231022T222300Z
+UID:ci0014968-tt5537002--2023-10-22-14-30
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231022T180000
+DTEND;TZID=America/Los_Angeles:20231022T215000
+DTSTAMP:20231023T015300Z
+UID:ci0014968-tt5537002--2023-10-22-18-0
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231022T220000
+DTEND;TZID=America/Los_Angeles:20231023T015000
+DTSTAMP:20231023T055300Z
+UID:ci0014968-tt5537002--2023-10-22-22-0
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231022T123000
+DTEND;TZID=America/Los_Angeles:20231022T145500
+DTSTAMP:20231022T202300Z
+UID:ci0014968-tt15257160--2023-10-22-12-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231022T160000
+DTEND;TZID=America/Los_Angeles:20231022T182500
+DTSTAMP:20231022T235300Z
+UID:ci0014968-tt15257160--2023-10-22-16-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231022T193000
+DTEND;TZID=America/Los_Angeles:20231022T215500
+DTSTAMP:20231023T032300Z
+UID:ci0014968-tt15257160--2023-10-22-19-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pain Hustlers
+DTSTART;TZID=America/Los_Angeles:20231022T230000
+DTEND;TZID=America/Los_Angeles:20231023T012500
+DTSTAMP:20231023T065300Z
+UID:ci0014968-tt15257160--2023-10-22-23-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nLiza dreams of a better life fo
+ r her and her daughter. She gets a job at a bankrupt pharmacy\, and Liza's
+  guts catapult the company and her into the high life\, putting her in the
+  middle of a criminal conspiracy.\n\nhttps://www.imdb.com/title/tt15257160
+ /\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231022T180000
+DTEND;TZID=America/Los_Angeles:20231022T211000
+DTSTAMP:20231023T015300Z
+UID:ci0014968-tt28814949--2023-10-22-18-0
+DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT

@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231011T065544Z
+LAST-MODIFIED:20231013T065900Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blade (1998)
-DTSTART;TZID=America/Los_Angeles:20231011T193000
-DTEND;TZID=America/Los_Angeles:20231011T215000
-DTSTAMP:20231012T032300Z
-UID:ci0005472-tt0120611--2023-10-11-19-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA half-vampire\, half-mortal ma
- n becomes a protector of the mortal race\, while slaying evil vampires.\n\
- nhttps://www.imdb.com/title/tt0120611/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Videodrome (1983)
-DTSTART;TZID=America/Los_Angeles:20231012T193000
-DTEND;TZID=America/Los_Angeles:20231012T212000
-DTSTAMP:20231013T032300Z
-UID:ci0005472-tt0086541--2023-10-12-19-30
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA programmer at a TV station tha
- t specializes in adult entertainment searches for the producers of a dange
- rous and bizarre broadcast.\n\nhttps://www.imdb.com/title/tt0086541/\n\nIM
- Db rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cade: The Tortured Crossing
 DTSTART;TZID=America/Los_Angeles:20231013T211500
@@ -187,6 +162,70 @@ UID:ci0005472-tt0099700--2023-10-20-21-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe Gremlins are back\, and thi
  s time\, they've taken control of a New York City media mogul's high-tech 
  skyscraper.\n\nhttps://www.imdb.com/title/tt0099700/\n\nIMDb rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Another Body
+DTSTART;TZID=America/Los_Angeles:20231021T143000
+DTEND;TZID=America/Los_Angeles:20231021T161000
+DTSTAMP:20231021T222300Z
+UID:ci0005472-tt22464734--2023-10-21-14-30
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\n&quot\;Another Body&quot\; follo
+ ws a college student's search for justice after she discovers deepfake por
+ nography of herself circulating online.\n\nhttps://www.imdb.com/title/tt22
+ 464734/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins 2: The New Batch (1990)
+DTSTART;TZID=America/Los_Angeles:20231021T190000
+DTEND;TZID=America/Los_Angeles:20231021T211000
+DTSTAMP:20231022T025300Z
+UID:ci0005472-tt0099700--2023-10-21-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe Gremlins are back\, and thi
+ s time\, they've taken control of a New York City media mogul's high-tech 
+ skyscraper.\n\nhttps://www.imdb.com/title/tt0099700/\n\nIMDb rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Another Body
+DTSTART;TZID=America/Los_Angeles:20231022T140000
+DTEND;TZID=America/Los_Angeles:20231022T154000
+DTSTAMP:20231022T215300Z
+UID:ci0005472-tt22464734--2023-10-22-14-0
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\n&quot\;Another Body&quot\; follo
+ ws a college student's search for justice after she discovers deepfake por
+ nography of herself circulating online.\n\nhttps://www.imdb.com/title/tt22
+ 464734/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rabid (1977)
+DTSTART;TZID=America/Los_Angeles:20231022T160000
+DTEND;TZID=America/Los_Angeles:20231022T175500
+DTSTAMP:20231022T235300Z
+UID:ci0005472-tt0076590--2023-10-22-16-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman develops a taste f
+ or human blood after experimental plastic surgery\, and her victims turn i
+ nto blood-thirsty zombies\, leading into a city-wide epidemic.\n\nhttps://
+ www.imdb.com/title/tt0076590/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Guardian (1990)
+DTSTART;TZID=America/Los_Angeles:20231022T181500
+DTEND;TZID=America/Los_Angeles:20231022T201000
+DTSTAMP:20231023T020800Z
+UID:ci0005472-tt0099710--2023-10-22-18-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young couple with a newborn ba
+ by don't realize that the nanny they hired is a magical nymph who sacrific
+ es infants to an evil tree.\n\nhttps://www.imdb.com/title/tt0099710/\n\nIM
+ Db rating: 5.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
