@@ -1,76 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231013T070019Z
+LAST-MODIFIED:20231014T085329Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Joan Baez I Am a Noise
-DTSTART;TZID=America/Los_Angeles:20231013T160000
-DTEND;TZID=America/Los_Angeles:20231013T181500
-DTSTAMP:20231013T235300Z
-UID:ci16639653-tt26594061--2023-10-13-16-0
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAt the end of a 60-year career\
- , legendary singer and activist Joan Baez takes an honest look back and a 
- deep look inward as she tries to make sense of her large\, history-making 
- life\, and the personal struggles she's kept private.\n\nhttps://www.imdb.
- com/title/tt26594061/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joan Baez I Am a Noise
-DTSTART;TZID=America/Los_Angeles:20231013T193000
-DTEND;TZID=America/Los_Angeles:20231013T214500
-DTSTAMP:20231014T032300Z
-UID:ci16639653-tt26594061--2023-10-13-19-30
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAt the end of a 60-year career\
- , legendary singer and activist Joan Baez takes an honest look back and a 
- deep look inward as she tries to make sense of her large\, history-making 
- life\, and the personal struggles she's kept private.\n\nhttps://www.imdb.
- com/title/tt26594061/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strange Way of Life
-DTSTART;TZID=America/Los_Angeles:20231013T163000
-DTEND;TZID=America/Los_Angeles:20231013T172500
-DTSTAMP:20231014T002300Z
-UID:ci16639653-tt13055264--2023-10-13-16-30
-DESCRIPTION:Duration: 0h 31m (31 mins)\n\nAfter twenty-five years Silva ri
- des a horse across the desert to visit his friend Sheriff Jake. They celeb
- rate the meeting\, but the next morning Jake tells him that reason for his
-  trip is not to go down the memory lane of their fr...\n\nhttps://www.imdb
- .com/title/tt13055264/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231013T190000
-DTEND;TZID=America/Los_Angeles:20231013T221000
-DTSTAMP:20231014T025300Z
-UID:ci16639653-tt28814949--2023-10-13-19-0
-DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
- s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Human Voice (2019)
-DTSTART;TZID=America/Los_Angeles:20231013T171000
-DTEND;TZID=America/Los_Angeles:20231013T193000
-DTSTAMP:20231014T010300Z
-UID:ci16639653-tt10322278--2023-10-13-17-10
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA film adaptation of the one-wo
- man play by Jean Cocteau starring Shelby Satterthwaite as a woman who deal
- s with the emotional turmoils of talking to her lover one last time over t
- he phone.\n\nhttps://www.imdb.com/title/tt10322278/\n\nIMDb rating: 4.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joan Baez I Am a Noise
 DTSTART;TZID=America/Los_Angeles:20231014T133000
@@ -107,7 +40,7 @@ DTSTAMP:20231014T225300Z
 UID:ci16639653-tt28814949--2023-10-14-15-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -119,7 +52,7 @@ DTSTAMP:20231015T025300Z
 UID:ci16639653-tt28814949--2023-10-14-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -199,7 +132,7 @@ DTSTAMP:20231015T225300Z
 UID:ci16639653-tt28814949--2023-10-15-15-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -211,7 +144,7 @@ DTSTAMP:20231016T025300Z
 UID:ci16639653-tt28814949--2023-10-15-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -419,10 +352,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART;TZID=America/Los_Angeles:20231018T190000
-DTEND;TZID=America/Los_Angeles:20231018T215000
+DTEND;TZID=America/Los_Angeles:20231018T215500
 DTSTAMP:20231019T025300Z
 UID:ci16639653-tt17009710--2023-10-18-19-0
-DESCRIPTION:Duration: 2h 30m (150 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
  ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
@@ -545,7 +478,7 @@ DTSTAMP:20231019T225300Z
 UID:ci16639653-tt28814949--2023-10-19-15-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -557,7 +490,7 @@ DTSTAMP:20231020T025300Z
 UID:ci16639653-tt28814949--2023-10-19-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -595,7 +528,7 @@ DTSTAMP:20231020T225300Z
 UID:ci16639653-tt28814949--2023-10-20-15-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -607,7 +540,7 @@ DTSTAMP:20231021T025300Z
 UID:ci16639653-tt28814949--2023-10-20-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -645,7 +578,7 @@ DTSTAMP:20231021T225300Z
 UID:ci16639653-tt28814949--2023-10-21-15-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -657,7 +590,7 @@ DTSTAMP:20231022T025300Z
 UID:ci16639653-tt28814949--2023-10-21-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -709,7 +642,7 @@ DTSTAMP:20231022T225300Z
 UID:ci16639653-tt28814949--2023-10-22-15-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -721,7 +654,33 @@ DTSTAMP:20231023T025300Z
 UID:ci16639653-tt28814949--2023-10-22-19-0
 DESCRIPTION:Duration: 2h 48m (168 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231023T164500
+DTEND;TZID=America/Los_Angeles:20231023T203500
+DTSTAMP:20231024T003800Z
+UID:ci16639653-tt5537002--2023-10-23-16-45
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231023T184500
+DTEND;TZID=America/Los_Angeles:20231023T223500
+DTSTAMP:20231024T023800Z
+UID:ci16639653-tt5537002--2023-10-23-18-45
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
+ he United States are murdered under mysterious circumstances in the 1920s\
+ , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT

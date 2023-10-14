@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231013T065900Z
+LAST-MODIFIED:20231014T085217Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cade: The Tortured Crossing
-DTSTART;TZID=America/Los_Angeles:20231013T211500
-DTEND;TZID=America/Los_Angeles:20231013T231500
-DTSTAMP:20231014T050800Z
-UID:ci0005472-tt24786094--2023-10-13-21-15
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
-  twin brother who restores an old mysterious mental asylum. He takes it up
- on himself to mystically train the patients as warriors for humanity and j
- ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger (1983)
-DTSTART;TZID=America/Los_Angeles:20231013T190000
-DTEND;TZID=America/Los_Angeles:20231013T210000
-DTSTAMP:20231014T025300Z
-UID:ci0005472-tt0085701--2023-10-13-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA love triangle develops between
-  a beautiful yet dangerous vampire (Catherine Deneuve)\, her cellist compa
- nion (David Bowie)\, and a gerontologist (Susan Sarandon).\n\nhttps://www.
- imdb.com/title/tt0085701/\n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Huesera: The Bone Woman
 DTSTART;TZID=America/Los_Angeles:20231014T203000
@@ -174,7 +148,7 @@ UID:ci0005472-tt22464734--2023-10-21-14-30
 DESCRIPTION:Duration: 1h 20m (80 mins)\n\n&quot\;Another Body&quot\; follo
  ws a college student's search for justice after she discovers deepfake por
  nography of herself circulating online.\n\nhttps://www.imdb.com/title/tt22
- 464734/\n\nIMDb rating: 7.8
+ 464734/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -199,7 +173,7 @@ UID:ci0005472-tt22464734--2023-10-22-14-0
 DESCRIPTION:Duration: 1h 20m (80 mins)\n\n&quot\;Another Body&quot\; follo
  ws a college student's search for justice after she discovers deepfake por
  nography of herself circulating online.\n\nhttps://www.imdb.com/title/tt22
- 464734/\n\nIMDb rating: 7.8
+ 464734/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -222,6 +196,32 @@ DTSTART;TZID=America/Los_Angeles:20231022T181500
 DTEND;TZID=America/Los_Angeles:20231022T201000
 DTSTAMP:20231023T020800Z
 UID:ci0005472-tt0099710--2023-10-22-18-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young couple with a newborn ba
+ by don't realize that the nanny they hired is a magical nymph who sacrific
+ es infants to an evil tree.\n\nhttps://www.imdb.com/title/tt0099710/\n\nIM
+ Db rating: 5.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rabid (1977)
+DTSTART;TZID=America/Los_Angeles:20231023T190000
+DTEND;TZID=America/Los_Angeles:20231023T205500
+DTSTAMP:20231024T025300Z
+UID:ci0005472-tt0076590--2023-10-23-19-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman develops a taste f
+ or human blood after experimental plastic surgery\, and her victims turn i
+ nto blood-thirsty zombies\, leading into a city-wide epidemic.\n\nhttps://
+ www.imdb.com/title/tt0076590/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Guardian (1990)
+DTSTART;TZID=America/Los_Angeles:20231023T211500
+DTEND;TZID=America/Los_Angeles:20231023T231000
+DTSTAMP:20231024T050800Z
+UID:ci0005472-tt0099710--2023-10-23-21-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young couple with a newborn ba
  by don't realize that the nanny they hired is a magical nymph who sacrific
  es infants to an evil tree.\n\nhttps://www.imdb.com/title/tt0099710/\n\nIM
