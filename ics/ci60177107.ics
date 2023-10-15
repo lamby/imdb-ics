@@ -1,20 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231014T085343Z
+LAST-MODIFIED:20231015T081536Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cujo (1983)
-DTSTART;TZID=America/Los_Angeles:20231014T190000
-DTEND;TZID=America/Los_Angeles:20231014T205500
-DTSTAMP:20231015T025300Z
-UID:ci60177107-tt0085382--2023-10-14-19-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nCujo\, a friendly St. Bernard\, 
- contracts rabies and conducts a reign of terror on a small American town.\
- n\nhttps://www.imdb.com/title/tt0085382/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Housemaid (1960)
 DTSTART;TZID=America/Los_Angeles:20231015T140000
