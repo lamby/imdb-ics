@@ -1,20 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231015T081536Z
+LAST-MODIFIED:20231016T083608Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Housemaid (1960)
-DTSTART;TZID=America/Los_Angeles:20231015T140000
-DTEND;TZID=America/Los_Angeles:20231015T161000
-DTSTAMP:20231015T215300Z
-UID:ci60177107-tt0150980--2023-10-15-14-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA composer and his wife are thr
- own into turmoil when a housemaid becomes more than they bargained for.\n\
- nhttps://www.imdb.com/title/tt0150980/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carnival of Souls (1962)
 DTSTART;TZID=America/Los_Angeles:20231016T190000
@@ -72,6 +61,18 @@ DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA woman starts exhibiting incre
  asingly disturbing behavior after asking her husband for a divorce. Suspic
  ions of infidelity soon give way to something much more sinister.\n\nhttps
  ://www.imdb.com/title/tt0082933/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat People (1942)
+DTSTART;TZID=America/Los_Angeles:20231025T190000
+DTEND;TZID=America/Los_Angeles:20231025T203500
+DTSTAMP:20231026T025300Z
+UID:ci60177107-tt0034587--2023-10-25-19-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nAn American man marries a Serbia
+ n immigrant who fears that she will turn into the cat person of her homela
+ nd's fables if they are intimate together.\n\nhttps://www.imdb.com/title/t
+ t0034587/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

@@ -1,46 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231015T081308Z
+LAST-MODIFIED:20231016T083435Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kwaidan (1964)
-DTSTART;TZID=America/Los_Angeles:20231015T201500
-DTEND;TZID=America/Los_Angeles:20231015T234000
-DTSTAMP:20231016T040800Z
-UID:ci0005472-tt0058279--2023-10-15-20-15
-DESCRIPTION:Duration: 3h 03m (183 mins)\n\nA collection of four Japanese f
- olk tales with supernatural themes.\n\nhttps://www.imdb.com/title/tt005827
- 9/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger (1983)
-DTSTART;TZID=America/Los_Angeles:20231015T180000
-DTEND;TZID=America/Los_Angeles:20231015T200000
-DTSTAMP:20231016T015300Z
-UID:ci0005472-tt0085701--2023-10-15-18-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA love triangle develops between
-  a beautiful yet dangerous vampire (Catherine Deneuve)\, her cellist compa
- nion (David Bowie)\, and a gerontologist (Susan Sarandon).\n\nhttps://www.
- imdb.com/title/tt0085701/\n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Innocents (1961)
-DTSTART;TZID=America/Los_Angeles:20231015T153000
-DTEND;TZID=America/Los_Angeles:20231015T173000
-DTSTAMP:20231015T232300Z
-UID:ci0005472-tt0055018--2023-10-15-15-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA young governess for two child
- ren becomes convinced that the house and grounds are haunted.\n\nhttps://w
- ww.imdb.com/title/tt0055018/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kwaidan (1964)
 DTSTART;TZID=America/Los_Angeles:20231016T190000
@@ -188,6 +151,19 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young couple with a newborn ba
  by don't realize that the nanny they hired is a magical nymph who sacrific
  es infants to an evil tree.\n\nhttps://www.imdb.com/title/tt0099710/\n\nIM
  Db rating: 5.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rabid (1977)
+DTSTART;TZID=America/Los_Angeles:20231025T213000
+DTEND;TZID=America/Los_Angeles:20231025T232500
+DTSTAMP:20231026T052300Z
+UID:ci0005472-tt0076590--2023-10-25-21-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman develops a taste f
+ or human blood after experimental plastic surgery\, and her victims turn i
+ nto blood-thirsty zombies\, leading into a city-wide epidemic.\n\nhttps://
+ www.imdb.com/title/tt0076590/\n\nIMDb rating: 6.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
