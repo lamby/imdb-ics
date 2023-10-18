@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231017T084432Z
+LAST-MODIFIED:20231018T081337Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Innocents (1961)
-DTSTART;TZID=America/Los_Angeles:20231017T190000
-DTEND;TZID=America/Los_Angeles:20231017T210000
-DTSTAMP:20231018T025300Z
-UID:ci0005472-tt0055018--2023-10-17-19-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA young governess for two child
- ren becomes convinced that the house and grounds are haunted.\n\nhttps://w
- ww.imdb.com/title/tt0055018/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kwaidan (1964)
 DTSTART;TZID=America/Los_Angeles:20231018T190000
@@ -165,6 +153,44 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young couple with a newborn ba
  by don't realize that the nanny they hired is a magical nymph who sacrific
  es infants to an evil tree.\n\nhttps://www.imdb.com/title/tt0099710/\n\nIM
  Db rating: 5.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parents (1989)
+DTSTART;TZID=America/Los_Angeles:20231027T190000
+DTEND;TZID=America/Los_Angeles:20231027T204500
+DTSTAMP:20231028T025300Z
+UID:ci0005472-tt0098068--2023-10-27-19-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA young boy living in 1950s subu
+ rbia suspects that his parents are cannibalistic murderers.\n\nhttps://www
+ .imdb.com/title/tt0098068/\n\nIMDb rating: 6.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suitable Flesh
+DTSTART;TZID=America/Los_Angeles:20231027T230000
+DTEND;TZID=America/Los_Angeles:20231028T010000
+DTSTAMP:20231028T065300Z
+UID:ci0005472-tt21397580--2023-10-27-23-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA psychiatrist becomes obsessed
+  with one of her young clients with multiple personalities.\n\nhttps://www
+ .imdb.com/title/tt21397580/\n\nIMDb rating: 5.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Texas Chain Saw Massacre (1974)
+DTSTART;TZID=America/Los_Angeles:20231027T210000
+DTEND;TZID=America/Los_Angeles:20231027T224500
+DTSTAMP:20231028T045300Z
+UID:ci0005472-tt0072271--2023-10-27-21-0
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
+ exas to visit the grave of a grandfather. On the way they stumble across w
+ hat appears to be a deserted house\, only to discover something sinister w
+ ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
+ 72271/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
