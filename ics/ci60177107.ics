@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231018T081604Z
+LAST-MODIFIED:20231019T090855Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -75,6 +75,43 @@ DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA woman starts exhibiting incre
  asingly disturbing behavior after asking her husband for a divorce. Suspic
  ions of infidelity soon give way to something much more sinister.\n\nhttps
  ://www.imdb.com/title/tt0082933/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula (1992)
+DTSTART;TZID=America/Los_Angeles:20231028T183000
+DTEND;TZID=America/Los_Angeles:20231028T210000
+DTSTAMP:20231029T022300Z
+UID:ci60177107-tt0103874--2023-10-28-18-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nThe centuries old vampire Count
+  Dracula comes to England to seduce his barrister Jonathan Harker's fianc
+ ée Mina Murray and inflict havoc in the foreign land.\n\nhttps://www.imdb
+ .com/title/tt0103874/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Monster Party? (1967)
+DTSTART;TZID=America/Los_Angeles:20231028T130000
+DTEND;TZID=America/Los_Angeles:20231028T145500
+DTSTAMP:20231028T205300Z
+UID:ci60177107-tt0061931--2023-10-28-13-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nOn the Isle of Evil\, the head o
+ f the &quot\;World Organization of Monsters&quot\; reveals his imminent re
+ tirement and that he has refined a formula for total destruction\, only to
+  be upset when the monsters try to steal the formula and kill hi...\n\nhtt
+ ps://www.imdb.com/title/tt0061931/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spookies (1986)
+DTSTART;TZID=America/Los_Angeles:20231028T160000
+DTEND;TZID=America/Los_Angeles:20231028T174500
+DTSTAMP:20231028T235300Z
+UID:ci60177107-tt0090057--2023-10-28-16-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA wicked sorcerer tries to sacri
+ fice a group of people inside his house with the intention of using their 
+ vitality to keep his wife alive.\n\nhttps://www.imdb.com/title/tt0090057/\
+ n\nIMDb rating: 4.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
