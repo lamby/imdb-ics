@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231019T090845Z
+LAST-MODIFIED:20231020T064231Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Joan Baez I Am a Noise
-DTSTART;TZID=America/Los_Angeles:20231019T164500
-DTEND;TZID=America/Los_Angeles:20231019T190000
-DTSTAMP:20231020T003800Z
-UID:ci16639653-tt26594061--2023-10-19-16-45
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAt the end of a 60-year career\
- , legendary singer and activist Joan Baez takes an honest look back and a 
- deep look inward as she tries to make sense of her large\, history-making 
- life\, and the personal struggles she's kept private.\n\nhttps://www.imdb.
- com/title/tt26594061/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joan Baez I Am a Noise
-DTSTART;TZID=America/Los_Angeles:20231019T193000
-DTEND;TZID=America/Los_Angeles:20231019T214500
-DTSTAMP:20231020T032300Z
-UID:ci16639653-tt26594061--2023-10-19-19-30
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAt the end of a 60-year career\
- , legendary singer and activist Joan Baez takes an honest look back and a 
- deep look inward as she tries to make sense of her large\, history-making 
- life\, and the personal struggles she's kept private.\n\nhttps://www.imdb.
- com/title/tt26594061/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231019T150000
-DTEND;TZID=America/Los_Angeles:20231019T181000
-DTSTAMP:20231019T225300Z
-UID:ci16639653-tt28814949--2023-10-19-15-0
-DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
- s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231019T190000
-DTEND;TZID=America/Los_Angeles:20231019T221000
-DTSTAMP:20231020T025300Z
-UID:ci16639653-tt28814949--2023-10-19-19-0
-DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
- s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
 DTSTART;TZID=America/Los_Angeles:20231020T143000
@@ -65,7 +13,7 @@ UID:ci16639653-tt5537002--2023-10-20-14-30
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -78,7 +26,7 @@ UID:ci16639653-tt5537002--2023-10-20-18-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -115,7 +63,7 @@ UID:ci16639653-tt5537002--2023-10-21-14-30
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -128,7 +76,7 @@ UID:ci16639653-tt5537002--2023-10-21-18-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -146,13 +94,26 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231021T190000
-DTEND;TZID=America/Los_Angeles:20231021T221000
-DTSTAMP:20231022T025300Z
-UID:ci16639653-tt28814949--2023-10-21-19-0
+DTSTART;TZID=America/Los_Angeles:20231021T190500
+DTEND;TZID=America/Los_Angeles:20231021T221500
+DTSTAMP:20231022T025800Z
+UID:ci16639653-tt28814949--2023-10-21-19-5
 DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
  w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine (1992)
+DTSTART;TZID=America/Los_Angeles:20231022T191500
+DTEND;TZID=America/Los_Angeles:20231022T223000
+DTSTAMP:20231023T030800Z
+UID:ci16639653-tt0106332--2023-10-22-19-15
+DESCRIPTION:Duration: 2h 51m (171 mins)\n\nTwo boys meet at an opera train
+ ing school in Peking in 1924. Their resulting friendship will span nearly 
+ 70 years and endure some of the most troublesome times in China's history.
+ \n\nhttps://www.imdb.com/title/tt0106332/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -165,7 +126,7 @@ UID:ci16639653-tt5537002--2023-10-22-14-30
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -178,7 +139,7 @@ UID:ci16639653-tt5537002--2023-10-22-18-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -221,6 +182,19 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Farewell My Concubine (1992)
+DTSTART;TZID=America/Los_Angeles:20231023T183000
+DTEND;TZID=America/Los_Angeles:20231023T214500
+DTSTAMP:20231024T022300Z
+UID:ci16639653-tt0106332--2023-10-23-18-30
+DESCRIPTION:Duration: 2h 51m (171 mins)\n\nTwo boys meet at an opera train
+ ing school in Peking in 1924. Their resulting friendship will span nearly 
+ 70 years and endure some of the most troublesome times in China's history.
+ \n\nhttps://www.imdb.com/title/tt0106332/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Killers of the Flower Moon
 DTSTART;TZID=America/Los_Angeles:20231023T164500
 DTEND;TZID=America/Los_Angeles:20231023T203500
@@ -229,7 +203,7 @@ UID:ci16639653-tt5537002--2023-10-23-16-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -242,7 +216,20 @@ UID:ci16639653-tt5537002--2023-10-23-18-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine (1992)
+DTSTART;TZID=America/Los_Angeles:20231024T183000
+DTEND;TZID=America/Los_Angeles:20231024T214500
+DTSTAMP:20231025T022300Z
+UID:ci16639653-tt0106332--2023-10-24-18-30
+DESCRIPTION:Duration: 2h 51m (171 mins)\n\nTwo boys meet at an opera train
+ ing school in Peking in 1924. Their resulting friendship will span nearly 
+ 70 years and endure some of the most troublesome times in China's history.
+ \n\nhttps://www.imdb.com/title/tt0106332/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -255,7 +242,7 @@ UID:ci16639653-tt5537002--2023-10-24-16-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -268,7 +255,20 @@ UID:ci16639653-tt5537002--2023-10-24-18-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine (1992)
+DTSTART;TZID=America/Los_Angeles:20231025T183000
+DTEND;TZID=America/Los_Angeles:20231025T214500
+DTSTAMP:20231026T022300Z
+UID:ci16639653-tt0106332--2023-10-25-18-30
+DESCRIPTION:Duration: 2h 51m (171 mins)\n\nTwo boys meet at an opera train
+ ing school in Peking in 1924. Their resulting friendship will span nearly 
+ 70 years and endure some of the most troublesome times in China's history.
+ \n\nhttps://www.imdb.com/title/tt0106332/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -281,7 +281,7 @@ UID:ci16639653-tt5537002--2023-10-25-16-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -294,7 +294,7 @@ UID:ci16639653-tt5537002--2023-10-25-18-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -307,7 +307,7 @@ UID:ci16639653-tt5537002--2023-10-26-14-30
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -320,7 +320,7 @@ UID:ci16639653-tt5537002--2023-10-26-16-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -333,7 +333,7 @@ UID:ci16639653-tt5537002--2023-10-26-18-45
 DESCRIPTION:Duration: 3h 26m (206 mins)\n\nMembers of the Osage tribe in t
  he United States are murdered under mysterious circumstances in the 1920s\
  , sparking a major F.B.I. investigation involving J. Edgar Hoover.\n\nhttp
- s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.6
+ s://www.imdb.com/title/tt5537002/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -455,6 +455,69 @@ DTSTART;TZID=America/Los_Angeles:20231028T190000
 DTEND;TZID=America/Los_Angeles:20231028T221000
 DTSTAMP:20231029T025300Z
 UID:ci16639653-tt28814949--2023-10-28-19-0
+DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART;TZID=America/Los_Angeles:20231029T151500
+DTEND;TZID=America/Los_Angeles:20231029T163000
+DTSTAMP:20231029T230800Z
+UID:ci16639653-tt28352066--2023-10-29-15-15
+DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
+ the end of the world and the beginning of a new one\, with unforgettable v
+ iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
+ om/title/tt28352066/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART;TZID=America/Los_Angeles:20231029T170000
+DTEND;TZID=America/Los_Angeles:20231029T181500
+DTSTAMP:20231030T005300Z
+UID:ci16639653-tt28352066--2023-10-29-17-0
+DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
+ the end of the world and the beginning of a new one\, with unforgettable v
+ iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
+ om/title/tt28352066/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Within a Time
+DTSTART;TZID=America/Los_Angeles:20231029T193000
+DTEND;TZID=America/Los_Angeles:20231029T204500
+DTSTAMP:20231030T032300Z
+UID:ci16639653-tt28352066--2023-10-29-19-30
+DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
+ the end of the world and the beginning of a new one\, with unforgettable v
+ iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
+ om/title/tt28352066/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231029T150000
+DTEND;TZID=America/Los_Angeles:20231029T181000
+DTSTAMP:20231029T225300Z
+UID:ci16639653-tt28814949--2023-10-29-15-0
+DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231029T190000
+DTEND;TZID=America/Los_Angeles:20231029T221000
+DTSTAMP:20231030T025300Z
+UID:ci16639653-tt28814949--2023-10-29-19-0
 DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
  w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.5

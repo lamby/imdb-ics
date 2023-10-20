@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231019T090855Z
+LAST-MODIFIED:20231020T064241Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -112,6 +112,40 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA wicked sorcerer tries to sacri
  fice a group of people inside his house with the intention of using their 
  vitality to keep his wife alive.\n\nhttps://www.imdb.com/title/tt0090057/\
  n\nIMDb rating: 4.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival of Souls (1962)
+DTSTART;TZID=America/Los_Angeles:20231029T170000
+DTEND;TZID=America/Los_Angeles:20231029T184000
+DTSTAMP:20231030T005300Z
+UID:ci60177107-tt0055830--2023-10-29-17-0
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter a traumatic accident\, a w
+ oman becomes drawn to a mysterious abandoned carnival.\n\nhttps://www.imdb
+ .com/title/tt0055830/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride of Frankenstein (1935)
+DTSTART;TZID=America/Los_Angeles:20231029T191500
+DTEND;TZID=America/Los_Angeles:20231029T205000
+DTSTAMP:20231030T030800Z
+UID:ci60177107-tt0026138--2023-10-29-19-15
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nMary Shelley reveals the main ch
+ aracters of her novel survived: Dr. Frankenstein\, goaded by an even madde
+ r scientist\, builds his monster a mate.\n\nhttps://www.imdb.com/title/tt0
+ 026138/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Train to Busan (2016)
+DTSTART;TZID=America/Los_Angeles:20231029T140000
+DTEND;TZID=America/Los_Angeles:20231029T162000
+DTSTAMP:20231029T215300Z
+UID:ci60177107-tt5700672--2023-10-29-14-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhile a zombie virus breaks out
+  in South Korea\, passengers struggle to survive on the train from Seoul t
+ o Busan.\n\nhttps://www.imdb.com/title/tt5700672/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
