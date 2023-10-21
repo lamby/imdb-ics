@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231020T064112Z
+LAST-MODIFIED:20231021T075112Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gremlins 2: The New Batch (1990)
-DTSTART;TZID=America/Los_Angeles:20231020T213000
-DTEND;TZID=America/Los_Angeles:20231020T234000
-DTSTAMP:20231021T052300Z
-UID:ci0005472-tt0099700--2023-10-20-21-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe Gremlins are back\, and thi
- s time\, they've taken control of a New York City media mogul's high-tech 
- skyscraper.\n\nhttps://www.imdb.com/title/tt0099700/\n\nIMDb rating: 6.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Another Body
 DTSTART;TZID=America/Los_Angeles:20231021T143000
@@ -152,7 +140,7 @@ DTSTAMP:20231028T065300Z
 UID:ci0005472-tt21397580--2023-10-27-23-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA psychiatrist becomes obsessed
   with one of her young clients with multiple personalities.\n\nhttps://www
- .imdb.com/title/tt21397580/\n\nIMDb rating: 5.8
+ .imdb.com/title/tt21397580/\n\nIMDb rating: 5.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -214,7 +202,7 @@ DTSTAMP:20231029T074800Z
 UID:ci0005472-tt21397580--2023-10-28-23-55
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA psychiatrist becomes obsessed
   with one of her young clients with multiple personalities.\n\nhttps://www
- .imdb.com/title/tt21397580/\n\nIMDb rating: 5.8
+ .imdb.com/title/tt21397580/\n\nIMDb rating: 5.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -224,6 +212,32 @@ DTSTART;TZID=America/Los_Angeles:20231028T180000
 DTEND;TZID=America/Los_Angeles:20231028T194500
 DTSTAMP:20231029T015300Z
 UID:ci0005472-tt0072271--2023-10-28-18-0
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
+ exas to visit the grave of a grandfather. On the way they stumble across w
+ hat appears to be a deserted house\, only to discover something sinister w
+ ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
+ 72271/\n\nIMDb rating: 7.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House (1977)
+DTSTART;TZID=America/Los_Angeles:20231030T213000
+DTEND;TZID=America/Los_Angeles:20231030T232000
+DTSTAMP:20231031T052300Z
+UID:ci0005472-tt0076162--2023-10-30-21-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA schoolgirl and six of her clas
+ smates travel to her aunt's country home\, which turns out to be haunted.\
+ n\nhttps://www.imdb.com/title/tt0076162/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Texas Chain Saw Massacre (1974)
+DTSTART;TZID=America/Los_Angeles:20231030T190000
+DTEND;TZID=America/Los_Angeles:20231030T204500
+DTSTAMP:20231031T025300Z
+UID:ci0005472-tt0072271--2023-10-30-19-0
 DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
  exas to visit the grave of a grandfather. On the way they stumble across w
  hat appears to be a deserted house\, only to discover something sinister w
