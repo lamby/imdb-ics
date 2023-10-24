@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231023T072148Z
+LAST-MODIFIED:20231024T051322Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Rabid (1977)
-DTSTART;TZID=America/Los_Angeles:20231023T190000
-DTEND;TZID=America/Los_Angeles:20231023T205500
-DTSTAMP:20231024T025300Z
-UID:ci0005472-tt0076590--2023-10-23-19-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman develops a taste f
- or human blood after experimental plastic surgery\, and her victims turn i
- nto blood-thirsty zombies\, leading into a city-wide epidemic.\n\nhttps://
- www.imdb.com/title/tt0076590/\n\nIMDb rating: 6.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Guardian (1990)
-DTSTART;TZID=America/Los_Angeles:20231023T211500
-DTEND;TZID=America/Los_Angeles:20231023T231000
-DTSTAMP:20231024T050800Z
-UID:ci0005472-tt0099710--2023-10-23-21-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young couple with a newborn ba
- by don't realize that the nanny they hired is a magical nymph who sacrific
- es infants to an evil tree.\n\nhttps://www.imdb.com/title/tt0099710/\n\nIM
- Db rating: 5.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rabid (1977)
 DTSTART;TZID=America/Los_Angeles:20231025T213000
