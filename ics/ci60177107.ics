@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231024T051643Z
+LAST-MODIFIED:20231025T060027Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -123,6 +123,40 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA group of scientists have devel
   beyond normal perceptible reality. But when the experiment succeeds\, the
  y are immediately attacked by terrible life forms.\n\nhttps://www.imdb.com
  /title/tt0091083/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eighth Grade (2018)
+DTSTART;TZID=America/Los_Angeles:20231103T153000
+DTEND;TZID=America/Los_Angeles:20231103T172500
+DTSTAMP:20231103T232300Z
+UID:ci60177107-tt7014006--2023-11-3-15-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn introverted teenage girl trie
+ s to survive the last week of her disastrous eighth grade year before leav
+ ing to start high school.\n\nhttps://www.imdb.com/title/tt7014006/\n\nIMDb
+  rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of Priscilla\, Queen of the Desert (1994)
+DTSTART;TZID=America/Los_Angeles:20231103T174500
+DTEND;TZID=America/Los_Angeles:20231103T195000
+DTSTAMP:20231104T013800Z
+UID:ci60177107-tt0109045--2023-11-3-17-45
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nTwo drag performers and a trans
+ gender woman travel across the desert to perform their unique style of cab
+ aret.\n\nhttps://www.imdb.com/title/tt0109045/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lost Honor of Katharina Blum (1975)
+DTSTART;TZID=America/Los_Angeles:20231103T201500
+DTEND;TZID=America/Los_Angeles:20231103T222500
+DTSTAMP:20231104T040800Z
+UID:ci60177107-tt0073858--2023-11-3-20-15
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young woman's life is scrutin
+ ized by police and tabloid press after she spends the night with a suspect
+ ed terrorist.\n\nhttps://www.imdb.com/title/tt0073858/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

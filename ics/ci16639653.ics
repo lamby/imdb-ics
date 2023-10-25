@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231024T051633Z
+LAST-MODIFIED:20231025T060017Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Farewell My Concubine (1992)
-DTSTART;TZID=America/Los_Angeles:20231024T183000
-DTEND;TZID=America/Los_Angeles:20231024T214500
-DTSTAMP:20231025T022300Z
-UID:ci16639653-tt0106332--2023-10-24-18-30
-DESCRIPTION:Duration: 2h 51m (171 mins)\n\nTwo boys meet at an opera train
- ing school in Peking in 1924. Their resulting friendship will span nearly 
- 70 years and endure some of the most troublesome times in China's history.
- \n\nhttps://www.imdb.com/title/tt0106332/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART;TZID=America/Los_Angeles:20231024T164500
-DTEND;TZID=America/Los_Angeles:20231024T203500
-DTSTAMP:20231025T003800Z
-UID:ci16639653-tt5537002--2023-10-24-16-45
-DESCRIPTION:Duration: 3h 26m (206 mins)\n\nWhen oil is discovered in 1920s
-  Oklahoma under Osage Nation land\, the Osage people are murdered one by o
- ne - until the FBI steps in to unravel the mystery.\n\nhttps://www.imdb.co
- m/title/tt5537002/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers of the Flower Moon
-DTSTART;TZID=America/Los_Angeles:20231024T184500
-DTEND;TZID=America/Los_Angeles:20231024T223500
-DTSTAMP:20231025T023800Z
-UID:ci16639653-tt5537002--2023-10-24-18-45
-DESCRIPTION:Duration: 3h 26m (206 mins)\n\nWhen oil is discovered in 1920s
-  Oklahoma under Osage Nation land\, the Osage people are murdered one by o
- ne - until the FBI steps in to unravel the mystery.\n\nhttps://www.imdb.co
- m/title/tt5537002/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Farewell My Concubine (1992)
 DTSTART;TZID=America/Los_Angeles:20231025T183000
@@ -455,6 +416,54 @@ DTSTART;TZID=America/Los_Angeles:20231102T190000
 DTEND;TZID=America/Los_Angeles:20231102T221000
 DTSTAMP:20231103T025300Z
 UID:ci16639653-tt28814949--2023-11-2-19-0
+DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=America/Los_Angeles:20231103T160000
+DTEND;TZID=America/Los_Angeles:20231103T185500
+DTSTAMP:20231103T235300Z
+UID:ci16639653-tt17009710--2023-11-3-16-0
+DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+ band's murder\, and their blind son faces a moral dilemma as the sole witn
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=America/Los_Angeles:20231103T191500
+DTEND;TZID=America/Los_Angeles:20231103T221000
+DTSTAMP:20231104T030800Z
+UID:ci16639653-tt17009710--2023-11-3-19-15
+DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+ band's murder\, and their blind son faces a moral dilemma as the sole witn
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231103T150000
+DTEND;TZID=America/Los_Angeles:20231103T181000
+DTSTAMP:20231103T225300Z
+UID:ci16639653-tt28814949--2023-11-3-15-0
+DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231103T190000
+DTEND;TZID=America/Los_Angeles:20231103T221000
+DTSTAMP:20231104T025300Z
+UID:ci16639653-tt28814949--2023-11-3-19-0
 DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
  s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
  w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.4

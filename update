@@ -33,7 +33,7 @@ re_duration = re.compile(r"^PT(?P<minutes>\d+)M$")
 class ImdbICS:
     PADDING = 20  # minutes
     START = datetime.date.today()
-    DAYS = 10
+    DAYS = 14
 
     VENUES = [
         {
