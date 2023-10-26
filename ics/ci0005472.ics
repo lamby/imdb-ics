@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231025T055848Z
+LAST-MODIFIED:20231026T073507Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Rabid (1977)
-DTSTART;TZID=America/Los_Angeles:20231025T213000
-DTEND;TZID=America/Los_Angeles:20231025T232500
-DTSTAMP:20231026T052300Z
-UID:ci0005472-tt0076590--2023-10-25-21-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman develops a taste f
- or human blood after experimental plastic surgery\, and her victims turn i
- nto blood-thirsty zombies\, leading into a city-wide epidemic.\n\nhttps://
- www.imdb.com/title/tt0076590/\n\nIMDb rating: 6.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Guardian (1990)
 DTSTART;TZID=America/Los_Angeles:20231026T190000
@@ -49,8 +36,8 @@ DTEND;TZID=America/Los_Angeles:20231028T010000
 DTSTAMP:20231028T065300Z
 UID:ci0005472-tt21397580--2023-10-27-23-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA psychiatrist becomes obsessed
-  with one of her young clients with a background in the supernatural.\n\nh
- ttps://www.imdb.com/title/tt21397580/\n\nIMDb rating: 6
+  with one of her young patients\, who she later discovers is linked to an 
+ ancient curse.\n\nhttps://www.imdb.com/title/tt21397580/\n\nIMDb rating: 6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -111,8 +98,8 @@ DTEND;TZID=America/Los_Angeles:20231029T015500
 DTSTAMP:20231029T074800Z
 UID:ci0005472-tt21397580--2023-10-28-23-55
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA psychiatrist becomes obsessed
-  with one of her young clients with a background in the supernatural.\n\nh
- ttps://www.imdb.com/title/tt21397580/\n\nIMDb rating: 6
+  with one of her young patients\, who she later discovers is linked to an 
+ ancient curse.\n\nhttps://www.imdb.com/title/tt21397580/\n\nIMDb rating: 6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -206,6 +193,127 @@ DESCRIPTION:Duration: 1h 24m (84 mins)\n\nThe story of a Ronin (i.e. a mas
  terless samurai) who wanders the countryside of Japan with his small child
  \, having various adventures.\n\nhttps://www.imdb.com/title/tt0068815/\n\n
  IMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat Person
+DTSTART;TZID=America/Los_Angeles:20231104T160000
+DTEND;TZID=America/Los_Angeles:20231104T182000
+DTSTAMP:20231104T235300Z
+UID:ci0005472-tt14647404--2023-11-4-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
+ re goes on a date with the older Robert\, she finds that IRL Robert doesn'
+ t live up to the Robert she has been flirting with over texts. A razor-sha
+ rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
+ 4647404/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hands That Bind (2021)
+DTSTART;TZID=America/Los_Angeles:20231104T190000
+DTEND;TZID=America/Los_Angeles:20231104T212000
+DTSTAMP:20231105T025300Z
+UID:ci0005472-tt9014060--2023-11-4-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA hired hand plans to eventuall
+ y take over his boss farm are shattered when the landowners son returns to
+  claim his birthright.\n\nhttps://www.imdb.com/title/tt9014060/\n\nIMDb ra
+ ting: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lone Wolf and Cub: Sword of Vengeance (1972)
+DTSTART;TZID=America/Los_Angeles:20231104T213000
+DTEND;TZID=America/Los_Angeles:20231104T231500
+DTSTAMP:20231105T052300Z
+UID:ci0005472-tt0068815--2023-11-4-21-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nThe story of a Ronin (i.e. a mas
+ terless samurai) who wanders the countryside of Japan with his small child
+ \, having various adventures.\n\nhttps://www.imdb.com/title/tt0068815/\n\n
+ IMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat Person
+DTSTART;TZID=America/Los_Angeles:20231105T201500
+DTEND;TZID=America/Los_Angeles:20231105T223500
+DTSTAMP:20231106T040800Z
+UID:ci0005472-tt14647404--2023-11-5-20-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
+ re goes on a date with the older Robert\, she finds that IRL Robert doesn'
+ t live up to the Robert she has been flirting with over texts. A razor-sha
+ rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
+ 4647404/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hands That Bind (2021)
+DTSTART;TZID=America/Los_Angeles:20231105T150000
+DTEND;TZID=America/Los_Angeles:20231105T172000
+DTSTAMP:20231105T225300Z
+UID:ci0005472-tt9014060--2023-11-5-15-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA hired hand plans to eventuall
+ y take over his boss farm are shattered when the landowners son returns to
+  claim his birthright.\n\nhttps://www.imdb.com/title/tt9014060/\n\nIMDb ra
+ ting: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lakota Nation vs. United States
+DTSTART;TZID=America/Los_Angeles:20231105T173000
+DTEND;TZID=America/Los_Angeles:20231105T195000
+DTSTAMP:20231106T012300Z
+UID:ci0005472-tt15468586--2023-11-5-17-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA chronicle about how the Lakot
+ a Indians fight to reclaim control of the Black Hills. Will investigate ho
+ w the sacred land was stolen in violation of treaty agreements and feature
+  interviews with Indigenous citizens.\n\nhttps://www.imdb.com/title/tt1546
+ 8586/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hands That Bind (2021)
+DTSTART;TZID=America/Los_Angeles:20231106T193000
+DTEND;TZID=America/Los_Angeles:20231106T215000
+DTSTAMP:20231107T032300Z
+UID:ci0005472-tt9014060--2023-11-6-19-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA hired hand plans to eventuall
+ y take over his boss farm are shattered when the landowners son returns to
+  claim his birthright.\n\nhttps://www.imdb.com/title/tt9014060/\n\nIMDb ra
+ ting: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hands That Bind (2021)
+DTSTART;TZID=America/Los_Angeles:20231107T193000
+DTEND;TZID=America/Los_Angeles:20231107T215000
+DTSTAMP:20231108T032300Z
+UID:ci0005472-tt9014060--2023-11-7-19-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA hired hand plans to eventuall
+ y take over his boss farm are shattered when the landowners son returns to
+  claim his birthright.\n\nhttps://www.imdb.com/title/tt9014060/\n\nIMDb ra
+ ting: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Court of the Crimson King: King Crimson at 50
+DTSTART;TZID=America/Los_Angeles:20231108T193000
+DTEND;TZID=America/Los_Angeles:20231108T212000
+DTSTAMP:20231109T032300Z
+UID:ci0005472-tt10148150--2023-11-8-19-30
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhat began as a straightforward 
+ documentary about the cult rock band King Crimson as it turned 50\, mutate
+ d into an exploration of time\, death\, family\, and the transcendent powe
+ r of music to change lives. But with jokes.\n\nhttps://www.imdb.com/title/
+ tt10148150/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
