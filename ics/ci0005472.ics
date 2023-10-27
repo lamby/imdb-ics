@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231026T073507Z
+LAST-MODIFIED:20231027T065000Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Guardian (1990)
-DTSTART;TZID=America/Los_Angeles:20231026T190000
-DTEND;TZID=America/Los_Angeles:20231026T205500
-DTSTAMP:20231027T025300Z
-UID:ci0005472-tt0099710--2023-10-26-19-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young couple with a newborn ba
- by don't realize that the nanny they hired is a magical nymph who sacrific
- es infants to an evil tree.\n\nhttps://www.imdb.com/title/tt0099710/\n\nIM
- Db rating: 5.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parents (1989)
 DTSTART;TZID=America/Los_Angeles:20231027T190000
