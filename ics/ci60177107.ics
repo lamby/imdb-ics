@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231027T065404Z
+LAST-MODIFIED:20231028T075554Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Possession (1981)
-DTSTART;TZID=America/Los_Angeles:20231027T183000
-DTEND;TZID=America/Los_Angeles:20231027T205500
-DTSTAMP:20231028T022300Z
-UID:ci60177107-tt0082933--2023-10-27-18-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA woman starts exhibiting incre
- asingly disturbing behavior after asking her husband for a divorce. Suspic
- ions of infidelity soon give way to something much more sinister.\n\nhttps
- ://www.imdb.com/title/tt0082933/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bram Stoker's Dracula (1992)
 DTSTART;TZID=America/Los_Angeles:20231028T183000
@@ -157,6 +145,41 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo Chinese-mainlanders living
  in Hong Kong form a close friendship. Over the years this grows into love\
  , but there are obstacles.\n\nhttps://www.imdb.com/title/tt0117905/\n\nIMD
  b rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OSS 117: Cairo\, Nest of Spies (2006)
+DTSTART;TZID=America/Los_Angeles:20231110T163000
+DTEND;TZID=America/Los_Angeles:20231110T183000
+DTSTAMP:20231111T002300Z
+UID:ci60177107-tt0464913--2023-11-10-16-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nSecret agent OSS 117 foils Nazis
+ \, beds local beauties\, and brings peace to the Middle East.\n\nhttps://w
+ ww.imdb.com/title/tt0464913/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Episode V - The Empire Strikes Back (1980)
+DTSTART;TZID=America/Los_Angeles:20231110T190000
+DTEND;TZID=America/Los_Angeles:20231110T212500
+DTSTAMP:20231111T025300Z
+UID:ci60177107-tt0080684--2023-11-10-19-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nAfter the Rebels are overpowere
+ d by the Empire\, Luke Skywalker begins his Jedi training with Yoda\, whil
+ e his friends are pursued across the galaxy by Darth Vader and bounty hunt
+ er Boba Fett.\n\nhttps://www.imdb.com/title/tt0080684/\n\nIMDb rating: 8.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WarGames (1983)
+DTSTART;TZID=America/Los_Angeles:20231110T134500
+DTEND;TZID=America/Los_Angeles:20231110T160000
+DTSTAMP:20231110T213800Z
+UID:ci60177107-tt0086567--2023-11-10-13-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA young man finds a back door i
+ nto a military central computer in which reality is confused with game-pla
+ ying\, possibly starting World War III.\n\nhttps://www.imdb.com/title/tt00
+ 86567/\n\nIMDb rating: 7.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
