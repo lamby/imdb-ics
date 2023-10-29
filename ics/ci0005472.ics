@@ -1,72 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231028T075337Z
+LAST-MODIFIED:20231029T081408Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:House (1977)
-DTSTART;TZID=America/Los_Angeles:20231028T220000
-DTEND;TZID=America/Los_Angeles:20231028T235000
-DTSTAMP:20231029T055300Z
-UID:ci0005472-tt0076162--2023-10-28-22-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA schoolgirl and six of her clas
- smates travel to her aunt's country home\, which turns out to be haunted.\
- n\nhttps://www.imdb.com/title/tt0076162/\n\nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parents (1989)
-DTSTART;TZID=America/Los_Angeles:20231028T160000
-DTEND;TZID=America/Los_Angeles:20231028T174500
-DTSTAMP:20231028T235300Z
-UID:ci0005472-tt0098068--2023-10-28-16-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA young boy living in 1950s subu
- rbia suspects that his parents are cannibalistic murderers.\n\nhttps://www
- .imdb.com/title/tt0098068/\n\nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parents (1989)
-DTSTART;TZID=America/Los_Angeles:20231028T200000
-DTEND;TZID=America/Los_Angeles:20231028T214500
-DTSTAMP:20231029T035300Z
-UID:ci0005472-tt0098068--2023-10-28-20-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA young boy living in 1950s subu
- rbia suspects that his parents are cannibalistic murderers.\n\nhttps://www
- .imdb.com/title/tt0098068/\n\nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suitable Flesh
-DTSTART;TZID=America/Los_Angeles:20231028T235500
-DTEND;TZID=America/Los_Angeles:20231029T015500
-DTSTAMP:20231029T074800Z
-UID:ci0005472-tt21397580--2023-10-28-23-55
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA psychiatrist becomes obsessed
-  with one of her young patients\, who she later discovers is linked to an 
- ancient curse.\n\nhttps://www.imdb.com/title/tt21397580/\n\nIMDb rating: 5
- .7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Texas Chain Saw Massacre (1974)
-DTSTART;TZID=America/Los_Angeles:20231028T180000
-DTEND;TZID=America/Los_Angeles:20231028T194500
-DTSTAMP:20231029T015300Z
-UID:ci0005472-tt0072271--2023-10-28-18-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
- exas to visit the grave of a grandfather. On the way they stumble across w
- hat appears to be a deserted house\, only to discover something sinister w
- ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
- 72271/\n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:House (1977)
 DTSTART;TZID=America/Los_Angeles:20231030T213000
@@ -259,6 +196,20 @@ DTSTART;TZID=America/Los_Angeles:20231108T193000
 DTEND;TZID=America/Los_Angeles:20231108T212000
 DTSTAMP:20231109T032300Z
 UID:ci0005472-tt10148150--2023-11-8-19-30
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhat began as a straightforward 
+ documentary about the cult rock band King Crimson as it turned 50\, mutate
+ d into an exploration of time\, death\, family\, and the transcendent powe
+ r of music to change lives. But with jokes.\n\nhttps://www.imdb.com/title/
+ tt10148150/\n\nIMDb rating: 7.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Court of the Crimson King: King Crimson at 50
+DTSTART;TZID=America/Los_Angeles:20231109T193000
+DTEND;TZID=America/Los_Angeles:20231109T212000
+DTSTAMP:20231110T032300Z
+UID:ci0005472-tt10148150--2023-11-9-19-30
 DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhat began as a straightforward 
  documentary about the cult rock band King Crimson as it turned 50\, mutate
  d into an exploration of time\, death\, family\, and the transcendent powe
