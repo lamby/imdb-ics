@@ -1,72 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231029T081611Z
+LAST-MODIFIED:20231030T145423Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART;TZID=America/Los_Angeles:20231029T151500
-DTEND;TZID=America/Los_Angeles:20231029T163000
-DTSTAMP:20231029T230800Z
-UID:ci16639653-tt28352066--2023-10-29-15-15
-DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
- the end of the world and the beginning of a new one\, with unforgettable v
- iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART;TZID=America/Los_Angeles:20231029T170000
-DTEND;TZID=America/Los_Angeles:20231029T181500
-DTSTAMP:20231030T005300Z
-UID:ci16639653-tt28352066--2023-10-29-17-0
-DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
- the end of the world and the beginning of a new one\, with unforgettable v
- iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART;TZID=America/Los_Angeles:20231029T193000
-DTEND;TZID=America/Los_Angeles:20231029T204500
-DTSTAMP:20231030T032300Z
-UID:ci16639653-tt28352066--2023-10-29-19-30
-DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
- the end of the world and the beginning of a new one\, with unforgettable v
- iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231029T150000
-DTEND;TZID=America/Los_Angeles:20231029T181000
-DTSTAMP:20231029T225300Z
-UID:ci16639653-tt28814949--2023-10-29-15-0
-DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
- s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231029T190000
-DTEND;TZID=America/Los_Angeles:20231029T221000
-DTSTAMP:20231030T025300Z
-UID:ci16639653-tt28814949--2023-10-29-19-0
-DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
- s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Within a Time
 DTSTART;TZID=America/Los_Angeles:20231030T170000
@@ -76,7 +13,7 @@ UID:ci16639653-tt28352066--2023-10-30-17-0
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -89,7 +26,7 @@ UID:ci16639653-tt28352066--2023-10-30-19-30
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -102,7 +39,7 @@ UID:ci16639653-tt28352066--2023-10-31-17-0
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -115,7 +52,7 @@ UID:ci16639653-tt28352066--2023-10-31-19-30
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -153,7 +90,7 @@ UID:ci16639653-tt28352066--2023-11-1-17-0
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -166,7 +103,7 @@ UID:ci16639653-tt28352066--2023-11-1-19-30
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -179,7 +116,7 @@ UID:ci16639653-tt28352066--2023-11-2-17-0
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -192,7 +129,7 @@ UID:ci16639653-tt28352066--2023-11-2-19-30
 DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
  the end of the world and the beginning of a new one\, with unforgettable v
  iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
+ om/title/tt28352066/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -226,9 +163,9 @@ DTSTART;TZID=America/Los_Angeles:20231103T160000
 DTEND;TZID=America/Los_Angeles:20231103T185500
 DTSTAMP:20231103T235300Z
 UID:ci16639653-tt17009710--2023-11-3-16-0
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -238,9 +175,9 @@ DTSTART;TZID=America/Los_Angeles:20231103T191500
 DTEND;TZID=America/Los_Angeles:20231103T221000
 DTSTAMP:20231104T030800Z
 UID:ci16639653-tt17009710--2023-11-3-19-15
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -274,9 +211,9 @@ DTSTART;TZID=America/Los_Angeles:20231104T124500
 DTEND;TZID=America/Los_Angeles:20231104T154000
 DTSTAMP:20231104T203800Z
 UID:ci16639653-tt17009710--2023-11-4-12-45
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -286,9 +223,9 @@ DTSTART;TZID=America/Los_Angeles:20231104T160000
 DTEND;TZID=America/Los_Angeles:20231104T185500
 DTSTAMP:20231104T235300Z
 UID:ci16639653-tt17009710--2023-11-4-16-0
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -298,9 +235,9 @@ DTSTART;TZID=America/Los_Angeles:20231104T191500
 DTEND;TZID=America/Los_Angeles:20231104T221000
 DTSTAMP:20231105T030800Z
 UID:ci16639653-tt17009710--2023-11-4-19-15
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -334,9 +271,9 @@ DTSTART;TZID=America/Los_Angeles:20231105T124500
 DTEND;TZID=America/Los_Angeles:20231105T154000
 DTSTAMP:20231105T203800Z
 UID:ci16639653-tt17009710--2023-11-5-12-45
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -346,9 +283,9 @@ DTSTART;TZID=America/Los_Angeles:20231105T160000
 DTEND;TZID=America/Los_Angeles:20231105T185500
 DTSTAMP:20231105T235300Z
 UID:ci16639653-tt17009710--2023-11-5-16-0
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -358,9 +295,9 @@ DTSTART;TZID=America/Los_Angeles:20231105T191500
 DTEND;TZID=America/Los_Angeles:20231105T221000
 DTSTAMP:20231106T030800Z
 UID:ci16639653-tt17009710--2023-11-5-19-15
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -394,9 +331,9 @@ DTSTART;TZID=America/Los_Angeles:20231106T160000
 DTEND;TZID=America/Los_Angeles:20231106T185500
 DTSTAMP:20231106T235300Z
 UID:ci16639653-tt17009710--2023-11-6-16-0
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -406,9 +343,9 @@ DTSTART;TZID=America/Los_Angeles:20231106T183000
 DTEND;TZID=America/Los_Angeles:20231106T212500
 DTSTAMP:20231107T022300Z
 UID:ci16639653-tt17009710--2023-11-6-18-30
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -418,9 +355,9 @@ DTSTART;TZID=America/Los_Angeles:20231106T191500
 DTEND;TZID=America/Los_Angeles:20231106T221000
 DTSTAMP:20231107T030800Z
 UID:ci16639653-tt17009710--2023-11-6-19-15
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -430,9 +367,9 @@ DTSTART;TZID=America/Los_Angeles:20231107T160000
 DTEND;TZID=America/Los_Angeles:20231107T185500
 DTSTAMP:20231107T235300Z
 UID:ci16639653-tt17009710--2023-11-7-16-0
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -442,9 +379,9 @@ DTSTART;TZID=America/Los_Angeles:20231107T183000
 DTEND;TZID=America/Los_Angeles:20231107T212500
 DTSTAMP:20231108T022300Z
 UID:ci16639653-tt17009710--2023-11-7-18-30
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -454,9 +391,9 @@ DTSTART;TZID=America/Los_Angeles:20231107T191500
 DTEND;TZID=America/Los_Angeles:20231107T221000
 DTSTAMP:20231108T030800Z
 UID:ci16639653-tt17009710--2023-11-7-19-15
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -466,9 +403,9 @@ DTSTART;TZID=America/Los_Angeles:20231108T160000
 DTEND;TZID=America/Los_Angeles:20231108T185500
 DTSTAMP:20231108T235300Z
 UID:ci16639653-tt17009710--2023-11-8-16-0
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -478,9 +415,9 @@ DTSTART;TZID=America/Los_Angeles:20231108T183000
 DTEND;TZID=America/Los_Angeles:20231108T212500
 DTSTAMP:20231109T022300Z
 UID:ci16639653-tt17009710--2023-11-8-18-30
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -490,9 +427,9 @@ DTSTART;TZID=America/Los_Angeles:20231108T191500
 DTEND;TZID=America/Los_Angeles:20231108T221000
 DTSTAMP:20231109T030800Z
 UID:ci16639653-tt17009710--2023-11-8-19-15
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -502,9 +439,9 @@ DTSTART;TZID=America/Los_Angeles:20231109T160000
 DTEND;TZID=America/Los_Angeles:20231109T185500
 DTSTAMP:20231109T235300Z
 UID:ci16639653-tt17009710--2023-11-9-16-0
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -514,9 +451,9 @@ DTSTART;TZID=America/Los_Angeles:20231109T191500
 DTEND;TZID=America/Los_Angeles:20231109T221000
 DTSTAMP:20231110T030800Z
 UID:ci16639653-tt17009710--2023-11-9-19-15
-DESCRIPTION:Duration: 2h 32m (152 mins)\n\nA woman is suspected of her hus
+DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
  band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.8
+ ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -529,7 +466,7 @@ UID:ci16639653-tt14849194--2023-11-9-19-0
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
- 849194/\n\nIMDb rating: 8.3
+ 849194/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -542,7 +479,7 @@ UID:ci16639653-tt14849194--2023-11-10-16-0
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
- 849194/\n\nIMDb rating: 8.3
+ 849194/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -555,7 +492,7 @@ UID:ci16639653-tt14849194--2023-11-10-19-15
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
- 849194/\n\nIMDb rating: 8.3
+ 849194/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -568,7 +505,7 @@ UID:ci16639653-tt14849194--2023-11-11-12-45
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
- 849194/\n\nIMDb rating: 8.3
+ 849194/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -581,7 +518,7 @@ UID:ci16639653-tt14849194--2023-11-11-16-0
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
- 849194/\n\nIMDb rating: 8.3
+ 849194/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -594,7 +531,46 @@ UID:ci16639653-tt14849194--2023-11-11-19-15
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
- 849194/\n\nIMDb rating: 8.3
+ 849194/\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231112T124500
+DTEND;TZID=America/Los_Angeles:20231112T152000
+DTSTAMP:20231112T203800Z
+UID:ci16639653-tt14849194--2023-11-12-12-45
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231112T160000
+DTEND;TZID=America/Los_Angeles:20231112T183500
+DTSTAMP:20231112T235300Z
+UID:ci16639653-tt14849194--2023-11-12-16-0
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231112T191500
+DTEND;TZID=America/Los_Angeles:20231112T215000
+DTSTAMP:20231113T030800Z
+UID:ci16639653-tt14849194--2023-11-12-19-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT

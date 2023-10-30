@@ -1,43 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231029T081624Z
+LAST-MODIFIED:20231030T145434Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Carnival of Souls (1962)
-DTSTART;TZID=America/Los_Angeles:20231029T170000
-DTEND;TZID=America/Los_Angeles:20231029T184000
-DTSTAMP:20231030T005300Z
-UID:ci60177107-tt0055830--2023-10-29-17-0
-DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter a traumatic accident\, a w
- oman becomes drawn to a mysterious abandoned carnival.\n\nhttps://www.imdb
- .com/title/tt0055830/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bride of Frankenstein (1935)
-DTSTART;TZID=America/Los_Angeles:20231029T191500
-DTEND;TZID=America/Los_Angeles:20231029T205000
-DTSTAMP:20231030T030800Z
-UID:ci60177107-tt0026138--2023-10-29-19-15
-DESCRIPTION:Duration: 1h 15m (75 mins)\n\nMary Shelley reveals the main ch
- aracters of her novel survived: Dr. Frankenstein\, goaded by an even madde
- r scientist\, builds his monster a mate.\n\nhttps://www.imdb.com/title/tt0
- 026138/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan (2016)
-DTSTART;TZID=America/Los_Angeles:20231029T140000
-DTEND;TZID=America/Los_Angeles:20231029T162000
-DTSTAMP:20231029T215300Z
-UID:ci60177107-tt5700672--2023-10-29-14-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhile a zombie virus breaks out
-  in South Korea\, passengers struggle to survive on the train from Seoul t
- o Busan.\n\nhttps://www.imdb.com/title/tt5700672/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Beyond (1986)
 DTSTART;TZID=America/Los_Angeles:20231030T190000
@@ -143,6 +109,53 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA young man finds a back door i
  nto a military central computer in which reality is confused with game-pla
  ying\, possibly starting World War III.\n\nhttps://www.imdb.com/title/tt00
  86567/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blood Simple (1984)
+DTSTART;TZID=America/Los_Angeles:20231112T153000
+DTEND;TZID=America/Los_Angeles:20231112T173000
+DTSTAMP:20231112T232300Z
+UID:ci60177107-tt0086979--2023-11-12-15-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe owner of a seedy small-town 
+ Texas bar discovers that one of his employees is having an affair with his
+  wife. A chaotic chain of misunderstandings\, lies\, and mischief ensues a
+ fter he devises a plot to have them murdered.\n\nhttps://www.imdb.com/titl
+ e/tt0086979/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boyhood (2014)
+DTSTART;TZID=America/Los_Angeles:20231112T120000
+DTEND;TZID=America/Los_Angeles:20231112T150500
+DTSTAMP:20231112T195300Z
+UID:ci60177107-tt1065073--2023-11-12-12-0
+DESCRIPTION:Duration: 2h 45m (165 mins)\n\nThe life of Mason\, from early 
+ childhood to his arrival at college.\n\nhttps://www.imdb.com/title/tt10650
+ 73/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kiss of the Spider Woman (1985)
+DTSTART;TZID=America/Los_Angeles:20231112T200000
+DTEND;TZID=America/Los_Angeles:20231112T222000
+DTSTAMP:20231113T035300Z
+UID:ci60177107-tt0089424--2023-11-12-20-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA gay man and a political priso
+ ner are together in a prison. The gay man narrates the stories of two fake
+  movies and his own life.\n\nhttps://www.imdb.com/title/tt0089424/\n\nIMDb
+  rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run Lola Run (1998)
+DTSTART;TZID=America/Los_Angeles:20231112T180000
+DTEND;TZID=America/Los_Angeles:20231112T194000
+DTSTAMP:20231113T015300Z
+UID:ci60177107-tt0130827--2023-11-12-18-0
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAfter a botched money delivery\,
+  Lola has 20 minutes to come up with 100\,000 Deutschmarks.\n\nhttps://www
+ .imdb.com/title/tt0130827/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
