@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231030T145226Z
+LAST-MODIFIED:20231101T095917Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:House (1977)
-DTSTART;TZID=America/Los_Angeles:20231030T213000
-DTEND;TZID=America/Los_Angeles:20231030T232000
-DTSTAMP:20231031T052300Z
-UID:ci0005472-tt0076162--2023-10-30-21-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA schoolgirl and six of her clas
- smates travel to her aunt's country home\, which turns out to be haunted.\
- n\nhttps://www.imdb.com/title/tt0076162/\n\nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Texas Chain Saw Massacre (1974)
-DTSTART;TZID=America/Los_Angeles:20231030T190000
-DTEND;TZID=America/Los_Angeles:20231030T204500
-DTSTAMP:20231031T025300Z
-UID:ci0005472-tt0072271--2023-10-30-19-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
- exas to visit the grave of a grandfather. On the way they stumble across w
- hat appears to be a deserted house\, only to discover something sinister w
- ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
- 72271/\n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:House (1977)
-DTSTART;TZID=America/Los_Angeles:20231031T190000
-DTEND;TZID=America/Los_Angeles:20231031T205000
-DTSTAMP:20231101T025300Z
-UID:ci0005472-tt0076162--2023-10-31-19-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA schoolgirl and six of her clas
- smates travel to her aunt's country home\, which turns out to be haunted.\
- n\nhttps://www.imdb.com/title/tt0076162/\n\nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Texas Chain Saw Massacre (1974)
-DTSTART;TZID=America/Los_Angeles:20231031T213000
-DTEND;TZID=America/Los_Angeles:20231031T231500
-DTSTAMP:20231101T052300Z
-UID:ci0005472-tt0072271--2023-10-31-21-30
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
- exas to visit the grave of a grandfather. On the way they stumble across w
- hat appears to be a deserted house\, only to discover something sinister w
- ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
- 72271/\n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cat Person
 DTSTART;TZID=America/Los_Angeles:20231103T190000
@@ -215,6 +163,20 @@ DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhat began as a straightforward
  d into an exploration of time\, death\, family\, and the transcendent powe
  r of music to change lives. But with jokes.\n\nhttps://www.imdb.com/title/
  tt10148150/\n\nIMDb rating: 7.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat Person
+DTSTART;TZID=America/Los_Angeles:20231114T193000
+DTEND;TZID=America/Los_Angeles:20231114T215000
+DTSTAMP:20231115T032300Z
+UID:ci0005472-tt14647404--2023-11-14-19-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
+ re goes on a date with the older Robert\, she finds that IRL Robert doesn'
+ t live up to the Robert she has been flirting with over texts. A razor-sha
+ rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
+ 4647404/\n\nIMDb rating: 6.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
