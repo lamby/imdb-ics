@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231101T095917Z
+LAST-MODIFIED:20231102T075336Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -14,7 +14,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
  re goes on a date with the older Robert\, she finds that IRL Robert doesn'
  t live up to the Robert she has been flirting with over texts. A razor-sha
  rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
- 4647404/\n\nIMDb rating: 6.2
+ 4647404/\n\nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -41,7 +41,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
  re goes on a date with the older Robert\, she finds that IRL Robert doesn'
  t live up to the Robert she has been flirting with over texts. A razor-sha
  rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
- 4647404/\n\nIMDb rating: 6.2
+ 4647404/\n\nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -81,7 +81,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
  re goes on a date with the older Robert\, she finds that IRL Robert doesn'
  t live up to the Robert she has been flirting with over texts. A razor-sha
  rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
- 4647404/\n\nIMDb rating: 6.2
+ 4647404/\n\nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -176,7 +176,21 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
  re goes on a date with the older Robert\, she finds that IRL Robert doesn'
  t live up to the Robert she has been flirting with over texts. A razor-sha
  rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
- 4647404/\n\nIMDb rating: 6.2
+ 4647404/\n\nIMDb rating: 6.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cat Person
+DTSTART;TZID=America/Los_Angeles:20231115T193000
+DTEND;TZID=America/Los_Angeles:20231115T215000
+DTSTAMP:20231116T032300Z
+UID:ci0005472-tt14647404--2023-11-15-19-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
+ re goes on a date with the older Robert\, she finds that IRL Robert doesn'
+ t live up to the Robert she has been flirting with over texts. A razor-sha
+ rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
+ 4647404/\n\nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

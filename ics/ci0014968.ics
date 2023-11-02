@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231101T100047Z
+LAST-MODIFIED:20231102T075516Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Five Nights at Freddy's
-DTSTART;TZID=America/Los_Angeles:20231101T160000
-DTEND;TZID=America/Los_Angeles:20231101T181000
-DTSTAMP:20231101T235300Z
-UID:ci0014968-tt4589218--2023-11-1-16-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA troubled security guard begin
- s working at Freddy Fazbear's Pizza. During his first night on the job\, h
- e realizes that the night shift won't be so easy to get through. Pretty so
- on he will unveil what actually happened at Freddy's.\n\nhttps://www.imdb.
- com/title/tt4589218/\n\nIMDb rating: 5.6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Five Nights at Freddy's
-DTSTART;TZID=America/Los_Angeles:20231101T190000
-DTEND;TZID=America/Los_Angeles:20231101T211000
-DTSTAMP:20231102T025300Z
-UID:ci0014968-tt4589218--2023-11-1-19-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA troubled security guard begin
- s working at Freddy Fazbear's Pizza. During his first night on the job\, h
- e realizes that the night shift won't be so easy to get through. Pretty so
- on he will unveil what actually happened at Freddy's.\n\nhttps://www.imdb.
- com/title/tt4589218/\n\nIMDb rating: 5.6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Five Nights at Freddy's
-DTSTART;TZID=America/Los_Angeles:20231101T221500
-DTEND;TZID=America/Los_Angeles:20231102T002500
-DTSTAMP:20231102T060800Z
-UID:ci0014968-tt4589218--2023-11-1-22-15
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA troubled security guard begin
- s working at Freddy Fazbear's Pizza. During his first night on the job\, h
- e realizes that the night shift won't be so easy to get through. Pretty so
- on he will unveil what actually happened at Freddy's.\n\nhttps://www.imdb.
- com/title/tt4589218/\n\nIMDb rating: 5.6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Marvels
 DTSTART;TZID=America/Los_Angeles:20231109T150000
@@ -299,6 +257,45 @@ DTSTART;TZID=America/Los_Angeles:20231114T214500
 DTEND;TZID=America/Los_Angeles:20231114T235000
 DTSTAMP:20231115T053800Z
 UID:ci0014968-tt10676048--2023-11-14-21-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
+ ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
+ rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
+ /
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marvels
+DTSTART;TZID=America/Los_Angeles:20231115T153000
+DTEND;TZID=America/Los_Angeles:20231115T173500
+DTSTAMP:20231115T232300Z
+UID:ci0014968-tt10676048--2023-11-15-15-30
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
+ ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
+ rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
+ /
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marvels
+DTSTART;TZID=America/Los_Angeles:20231115T183000
+DTEND;TZID=America/Los_Angeles:20231115T203500
+DTSTAMP:20231116T022300Z
+UID:ci0014968-tt10676048--2023-11-15-18-30
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
+ ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
+ rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
+ /
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Marvels
+DTSTART;TZID=America/Los_Angeles:20231115T214500
+DTEND;TZID=America/Los_Angeles:20231115T235000
+DTSTAMP:20231116T053800Z
+UID:ci0014968-tt10676048--2023-11-15-21-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
