@@ -1,59 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231102T075549Z
+LAST-MODIFIED:20231103T075542Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART;TZID=America/Los_Angeles:20231102T170000
-DTEND;TZID=America/Los_Angeles:20231102T181500
-DTSTAMP:20231103T005300Z
-UID:ci16639653-tt28352066--2023-11-2-17-0
-DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
- the end of the world and the beginning of a new one\, with unforgettable v
- iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Within a Time
-DTSTART;TZID=America/Los_Angeles:20231102T193000
-DTEND;TZID=America/Los_Angeles:20231102T204500
-DTSTAMP:20231103T032300Z
-UID:ci16639653-tt28352066--2023-11-2-19-30
-DESCRIPTION:Duration: 0h 52m (52 mins)\n\nA comedic apocalyptic vision of 
- the end of the world and the beginning of a new one\, with unforgettable v
- iews and the innocence and hope of a new generation.\n\nhttps://www.imdb.c
- om/title/tt28352066/\n\nIMDb rating: 5.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231102T150000
-DTEND;TZID=America/Los_Angeles:20231102T181000
-DTSTAMP:20231102T225300Z
-UID:ci16639653-tt28814949--2023-11-2-15-0
-DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
- s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taylor Swift: The Eras Tour
-DTSTART;TZID=America/Los_Angeles:20231102T190000
-DTEND;TZID=America/Los_Angeles:20231102T221000
-DTSTAMP:20231103T025300Z
-UID:ci16639653-tt28814949--2023-11-2-19-0
-DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
- s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
- w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART;TZID=America/Los_Angeles:20231103T160000
@@ -542,6 +492,32 @@ DTSTART;TZID=America/Los_Angeles:20231115T191500
 DTEND;TZID=America/Los_Angeles:20231115T215000
 DTSTAMP:20231116T030800Z
 UID:ci16639653-tt14849194--2023-11-15-19-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231116T160000
+DTEND;TZID=America/Los_Angeles:20231116T183500
+DTSTAMP:20231116T235300Z
+UID:ci16639653-tt14849194--2023-11-16-16-0
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231116T191500
+DTEND;TZID=America/Los_Angeles:20231116T215000
+DTSTAMP:20231117T030800Z
+UID:ci16639653-tt14849194--2023-11-16-19-15
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
