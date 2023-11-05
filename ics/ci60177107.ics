@@ -1,43 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231103T075552Z
+LAST-MODIFIED:20231105T074011Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Eighth Grade (2018)
-DTSTART;TZID=America/Los_Angeles:20231103T153000
-DTEND;TZID=America/Los_Angeles:20231103T172500
-DTSTAMP:20231103T232300Z
-UID:ci60177107-tt7014006--2023-11-3-15-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn introverted teenage girl trie
- s to survive the last week of her disastrous eighth grade year before leav
- ing to start high school.\n\nhttps://www.imdb.com/title/tt7014006/\n\nIMDb
-  rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Adventures of Priscilla\, Queen of the Desert (1994)
-DTSTART;TZID=America/Los_Angeles:20231103T174500
-DTEND;TZID=America/Los_Angeles:20231103T195000
-DTSTAMP:20231104T013800Z
-UID:ci60177107-tt0109045--2023-11-3-17-45
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nTwo drag performers and a trans
- gender woman travel across the desert to perform their unique style of cab
- aret.\n\nhttps://www.imdb.com/title/tt0109045/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lost Honor of Katharina Blum (1975)
-DTSTART;TZID=America/Los_Angeles:20231103T201500
-DTEND;TZID=America/Los_Angeles:20231103T222500
-DTSTAMP:20231104T040800Z
-UID:ci60177107-tt0073858--2023-11-3-20-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young woman's life is scrutin
- ized by police and tabloid press after she spends the night with a suspect
- ed terrorist.\n\nhttps://www.imdb.com/title/tt0073858/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Captain Fantastic (2016)
 DTSTART;TZID=America/Los_Angeles:20231106T170000
@@ -167,6 +133,54 @@ UID:ci60177107-tt0130827--2023-11-13-18-0
 DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAfter a botched money delivery\,
   Lola has 20 minutes to come up with 100\,000 Deutschmarks.\n\nhttps://www
  .imdb.com/title/tt0130827/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Facing Windows (2003)
+DTSTART;TZID=America/Los_Angeles:20231117T153000
+DTEND;TZID=America/Los_Angeles:20231117T173500
+DTSTAMP:20231117T232300Z
+UID:ci60177107-tt0352343--2023-11-17-15-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nOverburdened and stuck in a gre
+ ying marriage\, Giovanna takes to caring for the Jewish Holocaust survivor
+  her husband brings home. As she begins to reflect on her life\, she turns
+  to the man who lives across from her ...\n\nhttps://www.imdb.com/title/tt
+ 0352343/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twilight (2008)
+DTSTART;TZID=America/Los_Angeles:20231117T190000
+DTEND;TZID=America/Los_Angeles:20231117T212500
+DTSTAMP:20231118T025300Z
+UID:ci60177107-tt1099212--2023-11-17-19-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nWhen Bella Swan moves to a smal
+ l town in the Pacific Northwest\, she falls in love with Edward Cullen\, a
+  mysterious classmate who reveals himself to be a 108-year-old vampire.\n\
+ nhttps://www.imdb.com/title/tt1099212/\n\nIMDb rating: 5.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run Lola Run (1998)
+DTSTART;TZID=America/Los_Angeles:20231118T164500
+DTEND;TZID=America/Los_Angeles:20231118T182500
+DTSTAMP:20231119T003800Z
+UID:ci60177107-tt0130827--2023-11-18-16-45
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAfter a botched money delivery\,
+  Lola has 20 minutes to come up with 100\,000 Deutschmarks.\n\nhttps://www
+ .imdb.com/title/tt0130827/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twilight (2008)
+DTSTART;TZID=America/Los_Angeles:20231118T190000
+DTEND;TZID=America/Los_Angeles:20231118T212500
+DTSTAMP:20231119T025300Z
+UID:ci60177107-tt1099212--2023-11-18-19-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nWhen Bella Swan moves to a smal
+ l town in the Pacific Northwest\, she falls in love with Edward Cullen\, a
+  mysterious classmate who reveals himself to be a 108-year-old vampire.\n\
+ nhttps://www.imdb.com/title/tt1099212/\n\nIMDb rating: 5.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
