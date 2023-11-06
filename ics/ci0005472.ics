@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231105T073822Z
+LAST-MODIFIED:20231106T074508Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cat Person
-DTSTART;TZID=America/Los_Angeles:20231105T201500
-DTEND;TZID=America/Los_Angeles:20231105T223500
-DTSTAMP:20231106T040800Z
-UID:ci0005472-tt14647404--2023-11-5-20-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
- re goes on a date with the older Robert\, she finds that IRL Robert doesn'
- t live up to the Robert she has been flirting with over texts. A razor-sha
- rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
- 4647404/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hands That Bind (2021)
-DTSTART;TZID=America/Los_Angeles:20231105T150000
-DTEND;TZID=America/Los_Angeles:20231105T172000
-DTSTAMP:20231105T225300Z
-UID:ci0005472-tt9014060--2023-11-5-15-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA hired hand plans to eventuall
- y take over his boss farm are shattered when the landowners son returns to
-  claim his birthright.\n\nhttps://www.imdb.com/title/tt9014060/\n\nIMDb ra
- ting: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lakota Nation vs. United States
-DTSTART;TZID=America/Los_Angeles:20231105T173000
-DTEND;TZID=America/Los_Angeles:20231105T195000
-DTSTAMP:20231106T012300Z
-UID:ci0005472-tt15468586--2023-11-5-17-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA chronicle about how the Lakot
- a Indians fight to reclaim control of the Black Hills. Will investigate ho
- w the sacred land was stolen in violation of treaty agreements and feature
-  interviews with Indigenous citizens.\n\nhttps://www.imdb.com/title/tt1546
- 8586/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hands That Bind (2021)
 DTSTART;TZID=America/Los_Angeles:20231106T193000
@@ -150,7 +109,7 @@ UID:ci0005472-tt24786094--2023-11-17-21-15
 DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
   twin brother who restores an old mysterious mental asylum. He takes it up
  on himself to mystically train the patients as warriors for humanity and j
- ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.5
+ ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -165,6 +124,58 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nJournalist David Farrier (Tickle
  ving deeper he unearths a trail of court cases\, royal bloodlines and ruin
  ed lives\, in this true story of psychological warfare.\n\nhttps://www.imd
  b.com/title/tt21996838/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mister Organ
+DTSTART;TZID=America/Los_Angeles:20231118T191500
+DTEND;TZID=America/Los_Angeles:20231118T211500
+DTSTAMP:20231119T030800Z
+UID:ci0005472-tt21996838--2023-11-18-19-15
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nJournalist David Farrier (Tickle
+ d) is drawn into a game of cat and mouse with a mysterious individual. Del
+ ving deeper he unearths a trail of court cases\, royal bloodlines and ruin
+ ed lives\, in this true story of psychological warfare.\n\nhttps://www.imd
+ b.com/title/tt21996838/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fear and Desire (1952)
+DTSTART;TZID=America/Los_Angeles:20231119T150000
+DTEND;TZID=America/Los_Angeles:20231119T162500
+DTSTAMP:20231119T225300Z
+UID:ci0005472-tt0045758--2023-11-19-15-0
+DESCRIPTION:Duration: 1h 02m (62 mins)\n\nFour soldiers trapped behind ene
+ my lines must confront their fears and desires.\n\nhttps://www.imdb.com/ti
+ tle/tt0045758/\n\nIMDb rating: 5.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mister Organ
+DTSTART;TZID=America/Los_Angeles:20231119T170000
+DTEND;TZID=America/Los_Angeles:20231119T190000
+DTSTAMP:20231120T005300Z
+UID:ci0005472-tt21996838--2023-11-19-17-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nJournalist David Farrier (Tickle
+ d) is drawn into a game of cat and mouse with a mysterious individual. Del
+ ving deeper he unearths a trail of court cases\, royal bloodlines and ruin
+ ed lives\, in this true story of psychological warfare.\n\nhttps://www.imd
+ b.com/title/tt21996838/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=America/Los_Angeles:20231119T193000
+DTEND;TZID=America/Los_Angeles:20231119T214500
+DTSTAMP:20231120T032300Z
+UID:ci0005472-tt16227002--2023-11-19-19-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThe interlocking stories of two
+  young Oglala Lakota men growing up on the Pine Ridge Reservation.\n\nhttp
+ s://www.imdb.com/title/tt16227002/\n\nIMDb rating: 6.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
