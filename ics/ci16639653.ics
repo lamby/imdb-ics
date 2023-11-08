@@ -1,81 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231106T074718Z
+LAST-MODIFIED:20231108T081920Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231106T160000
-DTEND;TZID=America/Los_Angeles:20231106T185500
-DTSTAMP:20231106T235300Z
-UID:ci16639653-tt17009710--2023-11-6-16-0
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231106T183000
-DTEND;TZID=America/Los_Angeles:20231106T212500
-DTSTAMP:20231107T022300Z
-UID:ci16639653-tt17009710--2023-11-6-18-30
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231106T191500
-DTEND;TZID=America/Los_Angeles:20231106T221000
-DTSTAMP:20231107T030800Z
-UID:ci16639653-tt17009710--2023-11-6-19-15
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231107T160000
-DTEND;TZID=America/Los_Angeles:20231107T185500
-DTSTAMP:20231107T235300Z
-UID:ci16639653-tt17009710--2023-11-7-16-0
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231107T183000
-DTEND;TZID=America/Los_Angeles:20231107T212500
-DTSTAMP:20231108T022300Z
-UID:ci16639653-tt17009710--2023-11-7-18-30
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231107T191500
-DTEND;TZID=America/Los_Angeles:20231107T221000
-DTSTAMP:20231108T030800Z
-UID:ci16639653-tt17009710--2023-11-7-19-15
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART;TZID=America/Los_Angeles:20231108T160000
@@ -83,7 +11,7 @@ DTEND;TZID=America/Los_Angeles:20231108T185500
 DTSTAMP:20231108T235300Z
 UID:ci16639653-tt17009710--2023-11-8-16-0
 DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
+ band's murder\, and their blind son faces a moral dilemma as the main witn
  ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
@@ -95,7 +23,7 @@ DTEND;TZID=America/Los_Angeles:20231108T212500
 DTSTAMP:20231109T022300Z
 UID:ci16639653-tt17009710--2023-11-8-18-30
 DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
+ band's murder\, and their blind son faces a moral dilemma as the main witn
  ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
@@ -107,7 +35,7 @@ DTEND;TZID=America/Los_Angeles:20231108T221000
 DTSTAMP:20231109T030800Z
 UID:ci16639653-tt17009710--2023-11-8-19-15
 DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
+ band's murder\, and their blind son faces a moral dilemma as the main witn
  ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
@@ -119,7 +47,7 @@ DTEND;TZID=America/Los_Angeles:20231109T185500
 DTSTAMP:20231109T235300Z
 UID:ci16639653-tt17009710--2023-11-9-16-0
 DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
+ band's murder\, and their blind son faces a moral dilemma as the main witn
  ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
@@ -131,7 +59,7 @@ DTEND;TZID=America/Los_Angeles:20231109T221000
 DTSTAMP:20231110T030800Z
 UID:ci16639653-tt17009710--2023-11-9-19-15
 DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the sole witn
+ band's murder\, and their blind son faces a moral dilemma as the main witn
  ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109

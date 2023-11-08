@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231106T074508Z
+LAST-MODIFIED:20231108T081706Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hands That Bind (2021)
-DTSTART;TZID=America/Los_Angeles:20231106T193000
-DTEND;TZID=America/Los_Angeles:20231106T215000
-DTSTAMP:20231107T032300Z
-UID:ci0005472-tt9014060--2023-11-6-19-30
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA hired hand plans to eventuall
- y take over his boss farm are shattered when the landowners son returns to
-  claim his birthright.\n\nhttps://www.imdb.com/title/tt9014060/\n\nIMDb ra
- ting: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hands That Bind (2021)
-DTSTART;TZID=America/Los_Angeles:20231107T193000
-DTEND;TZID=America/Los_Angeles:20231107T215000
-DTSTAMP:20231108T032300Z
-UID:ci0005472-tt9014060--2023-11-7-19-30
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA hired hand plans to eventuall
- y take over his boss farm are shattered when the landowners son returns to
-  claim his birthright.\n\nhttps://www.imdb.com/title/tt9014060/\n\nIMDb ra
- ting: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Court of the Crimson King: King Crimson at 50
 DTSTART;TZID=America/Los_Angeles:20231108T193000
@@ -176,6 +150,30 @@ UID:ci0005472-tt16227002--2023-11-19-19-30
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThe interlocking stories of two
   young Oglala Lakota men growing up on the Pine Ridge Reservation.\n\nhttp
  s://www.imdb.com/title/tt16227002/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fear and Desire (1952)
+DTSTART;TZID=America/Los_Angeles:20231120T190000
+DTEND;TZID=America/Los_Angeles:20231120T202500
+DTSTAMP:20231121T025300Z
+UID:ci0005472-tt0045758--2023-11-20-19-0
+DESCRIPTION:Duration: 1h 02m (62 mins)\n\nFour soldiers trapped behind ene
+ my lines must confront their fears and desires.\n\nhttps://www.imdb.com/ti
+ tle/tt0045758/\n\nIMDb rating: 5.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fear and Desire (1952)
+DTSTART;TZID=America/Los_Angeles:20231121T193000
+DTEND;TZID=America/Los_Angeles:20231121T205500
+DTSTAMP:20231122T032300Z
+UID:ci0005472-tt0045758--2023-11-21-19-30
+DESCRIPTION:Duration: 1h 02m (62 mins)\n\nFour soldiers trapped behind ene
+ my lines must confront their fears and desires.\n\nhttps://www.imdb.com/ti
+ tle/tt0045758/\n\nIMDb rating: 5.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
