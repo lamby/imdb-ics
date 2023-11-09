@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231108T081920Z
+LAST-MODIFIED:20231109T075613Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231108T160000
-DTEND;TZID=America/Los_Angeles:20231108T185500
-DTSTAMP:20231108T235300Z
-UID:ci16639653-tt17009710--2023-11-8-16-0
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the main witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231108T183000
-DTEND;TZID=America/Los_Angeles:20231108T212500
-DTSTAMP:20231109T022300Z
-UID:ci16639653-tt17009710--2023-11-8-18-30
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the main witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231108T191500
-DTEND;TZID=America/Los_Angeles:20231108T221000
-DTSTAMP:20231109T030800Z
-UID:ci16639653-tt17009710--2023-11-8-19-15
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the main witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART;TZID=America/Los_Angeles:20231109T160000
