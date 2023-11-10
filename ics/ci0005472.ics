@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231109T075435Z
+LAST-MODIFIED:20231110T090841Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:In the Court of the Crimson King: King Crimson at 50
-DTSTART;TZID=America/Los_Angeles:20231109T193000
-DTEND;TZID=America/Los_Angeles:20231109T212000
-DTSTAMP:20231110T032300Z
-UID:ci0005472-tt10148150--2023-11-9-19-30
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhat began as a straightforward 
- documentary about the cult rock band King Crimson as it turned 50\, mutate
- d into an exploration of time\, death\, family\, and the transcendent powe
- r of music to change lives. But with jokes.\n\nhttps://www.imdb.com/title/
- tt10148150/\n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cat Person
 DTSTART;TZID=America/Los_Angeles:20231114T193000
@@ -160,6 +146,19 @@ UID:ci0005472-tt0045758--2023-11-21-19-30
 DESCRIPTION:Duration: 1h 02m (62 mins)\n\nFour soldiers trapped behind ene
  my lines must confront their fears and desires.\n\nhttps://www.imdb.com/ti
  tle/tt0045758/\n\nIMDb rating: 5.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krisha (2015)
+DTSTART;TZID=America/Los_Angeles:20231122T193000
+DTEND;TZID=America/Los_Angeles:20231122T211500
+DTSTAMP:20231123T032300Z
+UID:ci0005472-tt4266638--2023-11-22-19-30
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nKrisha returns for Thanksgiving 
+ dinner after ten years away from her family\, but past demons threaten to 
+ ruin the festivities.\n\nhttps://www.imdb.com/title/tt4266638/\n\nIMDb rat
+ ing: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

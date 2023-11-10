@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231109T075623Z
+LAST-MODIFIED:20231110T091151Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -180,6 +180,30 @@ UID:ci60177107-tt0464913--2023-11-20-19-30
 DESCRIPTION:Duration: 1h 39m (99 mins)\n\nSecret agent OSS 117 foils Nazis
  \, beds local beauties\, and brings peace to the Middle East.\n\nhttps://w
  ww.imdb.com/title/tt0464913/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Episode V - The Empire Strikes Back (1980)
+DTSTART;TZID=America/Los_Angeles:20231123T191500
+DTEND;TZID=America/Los_Angeles:20231123T214000
+DTSTAMP:20231124T030800Z
+UID:ci60177107-tt0080684--2023-11-23-19-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nAfter the Rebels are overpowere
+ d by the Empire\, Luke Skywalker begins his Jedi training with Yoda\, whil
+ e his friends are pursued across the galaxy by Darth Vader and bounty hunt
+ er Boba Fett.\n\nhttps://www.imdb.com/title/tt0080684/\n\nIMDb rating: 8.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet (1993)
+DTSTART;TZID=America/Los_Angeles:20231123T163000
+DTEND;TZID=America/Los_Angeles:20231123T184000
+DTSTAMP:20231124T002300Z
+UID:ci60177107-tt0107156--2023-11-23-16-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nTo satisfy his nagging parents\
+ , a gay landlord and a female tenant agree to a marriage of convenience\, 
+ but his parents arrive to visit and things get out of hand.\n\nhttps://www
+ .imdb.com/title/tt0107156/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR

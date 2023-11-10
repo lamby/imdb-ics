@@ -1,46 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231109T075613Z
+LAST-MODIFIED:20231110T091143Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231109T160000
-DTEND;TZID=America/Los_Angeles:20231109T185500
-DTSTAMP:20231109T235300Z
-UID:ci16639653-tt17009710--2023-11-9-16-0
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the main witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=America/Los_Angeles:20231109T191500
-DTEND;TZID=America/Los_Angeles:20231109T221000
-DTSTAMP:20231110T030800Z
-UID:ci16639653-tt17009710--2023-11-9-19-15
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nA woman is suspected of her hus
- band's murder\, and their blind son faces a moral dilemma as the main witn
- ess.\n\nhttps://www.imdb.com/title/tt17009710/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=America/Los_Angeles:20231109T190000
-DTEND;TZID=America/Los_Angeles:20231109T213500
-DTSTAMP:20231110T025300Z
-UID:ci16639653-tt14849194--2023-11-9-19-0
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
- emote prep school is forced to remain on campus over the holidays with a t
- roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
- 849194/\n\nIMDb rating: 8.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Holdovers
 DTSTART;TZID=America/Los_Angeles:20231110T160000
