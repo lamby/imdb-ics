@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231110T091123Z
+LAST-MODIFIED:20231111T085900Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:The Marvels
-DTSTART;TZID=America/Los_Angeles:20231110T153000
-DTEND;TZID=America/Los_Angeles:20231110T173500
-DTSTAMP:20231110T232300Z
-UID:ci0014968-tt10676048--2023-11-10-15-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
- ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
- rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marvels
-DTSTART;TZID=America/Los_Angeles:20231110T183000
-DTEND;TZID=America/Los_Angeles:20231110T203500
-DTSTAMP:20231111T022300Z
-UID:ci0014968-tt10676048--2023-11-10-18-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
- ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
- rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marvels
-DTSTART;TZID=America/Los_Angeles:20231110T214500
-DTEND;TZID=America/Los_Angeles:20231110T235000
-DTSTAMP:20231111T053800Z
-UID:ci0014968-tt10676048--2023-11-10-21-45
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
- ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
- rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Marvels
 DTSTART;TZID=America/Los_Angeles:20231111T123000
@@ -52,7 +13,7 @@ UID:ci0014968-tt10676048--2023-11-11-12-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -65,7 +26,7 @@ UID:ci0014968-tt10676048--2023-11-11-15-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -78,7 +39,7 @@ UID:ci0014968-tt10676048--2023-11-11-18-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -91,7 +52,7 @@ UID:ci0014968-tt10676048--2023-11-11-21-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -104,7 +65,7 @@ UID:ci0014968-tt10676048--2023-11-12-12-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -117,7 +78,7 @@ UID:ci0014968-tt10676048--2023-11-12-15-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -130,7 +91,7 @@ UID:ci0014968-tt10676048--2023-11-12-18-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -143,7 +104,7 @@ UID:ci0014968-tt10676048--2023-11-12-21-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -156,7 +117,7 @@ UID:ci0014968-tt10676048--2023-11-13-15-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -169,7 +130,7 @@ UID:ci0014968-tt10676048--2023-11-13-18-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -182,7 +143,7 @@ UID:ci0014968-tt10676048--2023-11-13-21-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -195,7 +156,7 @@ UID:ci0014968-tt10676048--2023-11-14-15-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -208,7 +169,7 @@ UID:ci0014968-tt10676048--2023-11-14-18-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -221,7 +182,7 @@ UID:ci0014968-tt10676048--2023-11-14-21-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -234,7 +195,7 @@ UID:ci0014968-tt10676048--2023-11-15-15-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -247,7 +208,7 @@ UID:ci0014968-tt10676048--2023-11-15-18-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -260,17 +221,17 @@ UID:ci0014968-tt10676048--2023-11-15-21-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231116T150000
-DTEND;TZID=America/Los_Angeles:20231116T180500
+DTEND;TZID=America/Los_Angeles:20231116T180000
 DTSTAMP:20231116T225300Z
 UID:ci0014968-tt10545296--2023-11-16-15-0
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -279,10 +240,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231116T181500
-DTEND;TZID=America/Los_Angeles:20231116T212000
+DTEND;TZID=America/Los_Angeles:20231116T211500
 DTSTAMP:20231117T020800Z
 UID:ci0014968-tt10545296--2023-11-16-18-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -291,10 +252,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231116T221500
-DTEND;TZID=America/Los_Angeles:20231117T012000
+DTEND;TZID=America/Los_Angeles:20231117T011500
 DTSTAMP:20231117T060800Z
 UID:ci0014968-tt10545296--2023-11-16-22-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -309,7 +270,7 @@ UID:ci0014968-tt10676048--2023-11-16-15-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -322,7 +283,7 @@ UID:ci0014968-tt10676048--2023-11-16-19-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -335,7 +296,7 @@ UID:ci0014968-tt10676048--2023-11-16-22-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -349,7 +310,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -363,7 +324,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -377,17 +338,17 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231117T144500
-DTEND;TZID=America/Los_Angeles:20231117T175000
+DTEND;TZID=America/Los_Angeles:20231117T174500
 DTSTAMP:20231117T223800Z
 UID:ci0014968-tt10545296--2023-11-17-14-45
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -396,10 +357,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231117T181500
-DTEND;TZID=America/Los_Angeles:20231117T212000
+DTEND;TZID=America/Los_Angeles:20231117T211500
 DTSTAMP:20231118T020800Z
 UID:ci0014968-tt10545296--2023-11-17-18-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -408,10 +369,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231117T221500
-DTEND;TZID=America/Los_Angeles:20231118T012000
+DTEND;TZID=America/Los_Angeles:20231118T011500
 DTSTAMP:20231118T060800Z
 UID:ci0014968-tt10545296--2023-11-17-22-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -426,7 +387,7 @@ UID:ci0014968-tt10676048--2023-11-17-15-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -439,7 +400,7 @@ UID:ci0014968-tt10676048--2023-11-17-18-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -452,7 +413,7 @@ UID:ci0014968-tt10676048--2023-11-17-22-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -466,7 +427,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -480,7 +441,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -494,17 +455,17 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231118T111500
-DTEND;TZID=America/Los_Angeles:20231118T142000
+DTEND;TZID=America/Los_Angeles:20231118T141500
 DTSTAMP:20231118T190800Z
 UID:ci0014968-tt10545296--2023-11-18-11-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -513,10 +474,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231118T144500
-DTEND;TZID=America/Los_Angeles:20231118T175000
+DTEND;TZID=America/Los_Angeles:20231118T174500
 DTSTAMP:20231118T223800Z
 UID:ci0014968-tt10545296--2023-11-18-14-45
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -525,10 +486,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231118T181500
-DTEND;TZID=America/Los_Angeles:20231118T212000
+DTEND;TZID=America/Los_Angeles:20231118T211500
 DTSTAMP:20231119T020800Z
 UID:ci0014968-tt10545296--2023-11-18-18-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -537,10 +498,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231118T221500
-DTEND;TZID=America/Los_Angeles:20231119T012000
+DTEND;TZID=America/Los_Angeles:20231119T011500
 DTSTAMP:20231119T060800Z
 UID:ci0014968-tt10545296--2023-11-18-22-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -555,7 +516,7 @@ UID:ci0014968-tt10676048--2023-11-18-11-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -568,7 +529,7 @@ UID:ci0014968-tt10676048--2023-11-18-15-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -581,7 +542,7 @@ UID:ci0014968-tt10676048--2023-11-18-18-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -594,7 +555,7 @@ UID:ci0014968-tt10676048--2023-11-18-22-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -608,7 +569,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -622,7 +583,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -636,7 +597,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -650,17 +611,17 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231119T111500
-DTEND;TZID=America/Los_Angeles:20231119T142000
+DTEND;TZID=America/Los_Angeles:20231119T141500
 DTSTAMP:20231119T190800Z
 UID:ci0014968-tt10545296--2023-11-19-11-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -669,10 +630,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231119T144500
-DTEND;TZID=America/Los_Angeles:20231119T175000
+DTEND;TZID=America/Los_Angeles:20231119T174500
 DTSTAMP:20231119T223800Z
 UID:ci0014968-tt10545296--2023-11-19-14-45
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -681,10 +642,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231119T181500
-DTEND;TZID=America/Los_Angeles:20231119T212000
+DTEND;TZID=America/Los_Angeles:20231119T211500
 DTSTAMP:20231120T020800Z
 UID:ci0014968-tt10545296--2023-11-19-18-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -693,10 +654,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231119T221500
-DTEND;TZID=America/Los_Angeles:20231120T012000
+DTEND;TZID=America/Los_Angeles:20231120T011500
 DTSTAMP:20231120T060800Z
 UID:ci0014968-tt10545296--2023-11-19-22-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -711,7 +672,7 @@ UID:ci0014968-tt10676048--2023-11-19-11-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -724,7 +685,7 @@ UID:ci0014968-tt10676048--2023-11-19-15-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -737,7 +698,7 @@ UID:ci0014968-tt10676048--2023-11-19-18-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -750,7 +711,7 @@ UID:ci0014968-tt10676048--2023-11-19-22-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -764,7 +725,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -778,7 +739,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -792,7 +753,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -806,17 +767,17 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231120T144000
-DTEND;TZID=America/Los_Angeles:20231120T174500
+DTEND;TZID=America/Los_Angeles:20231120T174000
 DTSTAMP:20231120T223300Z
 UID:ci0014968-tt10545296--2023-11-20-14-40
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -825,10 +786,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231120T181500
-DTEND;TZID=America/Los_Angeles:20231120T212000
+DTEND;TZID=America/Los_Angeles:20231120T211500
 DTSTAMP:20231121T020800Z
 UID:ci0014968-tt10545296--2023-11-20-18-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -837,10 +798,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231120T221500
-DTEND;TZID=America/Los_Angeles:20231121T012000
+DTEND;TZID=America/Los_Angeles:20231121T011500
 DTSTAMP:20231121T060800Z
 UID:ci0014968-tt10545296--2023-11-20-22-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -855,7 +816,7 @@ UID:ci0014968-tt10676048--2023-11-20-15-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -868,7 +829,7 @@ UID:ci0014968-tt10676048--2023-11-20-18-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -881,7 +842,7 @@ UID:ci0014968-tt10676048--2023-11-20-22-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -895,7 +856,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -909,7 +870,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -923,17 +884,17 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231121T144500
-DTEND;TZID=America/Los_Angeles:20231121T175000
+DTEND;TZID=America/Los_Angeles:20231121T174500
 DTSTAMP:20231121T223800Z
 UID:ci0014968-tt10545296--2023-11-21-14-45
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -942,10 +903,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231121T181500
-DTEND;TZID=America/Los_Angeles:20231121T212000
+DTEND;TZID=America/Los_Angeles:20231121T211500
 DTSTAMP:20231122T020800Z
 UID:ci0014968-tt10545296--2023-11-21-18-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -954,10 +915,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231121T221500
-DTEND;TZID=America/Los_Angeles:20231122T012000
+DTEND;TZID=America/Los_Angeles:20231122T011500
 DTSTAMP:20231122T060800Z
 UID:ci0014968-tt10545296--2023-11-21-22-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -972,7 +933,7 @@ UID:ci0014968-tt10676048--2023-11-21-15-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -985,7 +946,7 @@ UID:ci0014968-tt10676048--2023-11-21-18-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -998,7 +959,7 @@ UID:ci0014968-tt10676048--2023-11-21-22-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1012,7 +973,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1026,7 +987,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1040,7 +1001,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1086,10 +1047,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231122T144500
-DTEND;TZID=America/Los_Angeles:20231122T175000
+DTEND;TZID=America/Los_Angeles:20231122T174500
 DTSTAMP:20231122T223800Z
 UID:ci0014968-tt10545296--2023-11-22-14-45
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -1098,10 +1059,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231122T181500
-DTEND;TZID=America/Los_Angeles:20231122T212000
+DTEND;TZID=America/Los_Angeles:20231122T211500
 DTSTAMP:20231123T020800Z
 UID:ci0014968-tt10545296--2023-11-22-18-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -1110,10 +1071,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
 DTSTART;TZID=America/Los_Angeles:20231122T221500
-DTEND;TZID=America/Los_Angeles:20231123T012000
+DTEND;TZID=America/Los_Angeles:20231123T011500
 DTSTAMP:20231123T060800Z
 UID:ci0014968-tt10545296--2023-11-22-22-15
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nCoriolanus Snow mentors and dev
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
@@ -1128,7 +1089,7 @@ UID:ci0014968-tt10676048--2023-11-22-15-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1141,7 +1102,7 @@ UID:ci0014968-tt10676048--2023-11-22-18-45
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1154,7 +1115,7 @@ UID:ci0014968-tt10676048--2023-11-22-22-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /
+ /\n\nIMDb rating: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1168,7 +1129,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1182,7 +1143,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1196,7 +1157,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1236,7 +1197,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1250,7 +1211,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1264,7 +1225,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
- mdb.com/title/tt14362112/\n\nIMDb rating: 6
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1300,6 +1261,87 @@ DTSTART;TZID=America/Los_Angeles:20231123T211500
 DTEND;TZID=America/Los_Angeles:20231123T231000
 DTSTAMP:20231124T050800Z
 UID:ci0014968-tt11304740--2023-11-23-21-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nWish will follow a young girl na
+ med Asha who wishes on a star and gets a more direct answer than she barga
+ ined for when a trouble-making star comes down from the sky to join her.\n
+ \nhttps://www.imdb.com/title/tt11304740/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trolls Band Together
+DTSTART;TZID=America/Los_Angeles:20231124T151500
+DTEND;TZID=America/Los_Angeles:20231124T171000
+DTSTAMP:20231124T230800Z
+UID:ci0014968-tt14362112--2023-11-24-15-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was 
+ once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
+ , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
+ journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trolls Band Together
+DTSTART;TZID=America/Los_Angeles:20231124T180000
+DTEND;TZID=America/Los_Angeles:20231124T195500
+DTSTAMP:20231125T015300Z
+UID:ci0014968-tt14362112--2023-11-24-18-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was 
+ once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
+ , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
+ journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trolls Band Together
+DTSTART;TZID=America/Los_Angeles:20231124T210000
+DTEND;TZID=America/Los_Angeles:20231124T225500
+DTSTAMP:20231125T045300Z
+UID:ci0014968-tt14362112--2023-11-24-21-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was 
+ once part of the boy band 'BroZone' with his brothers\, Floyd\, John Dory\
+ , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
+ journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
+ mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=America/Los_Angeles:20231124T153000
+DTEND;TZID=America/Los_Angeles:20231124T172500
+DTSTAMP:20231124T232300Z
+UID:ci0014968-tt11304740--2023-11-24-15-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nWish will follow a young girl na
+ med Asha who wishes on a star and gets a more direct answer than she barga
+ ined for when a trouble-making star comes down from the sky to join her.\n
+ \nhttps://www.imdb.com/title/tt11304740/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=America/Los_Angeles:20231124T181500
+DTEND;TZID=America/Los_Angeles:20231124T201000
+DTSTAMP:20231125T020800Z
+UID:ci0014968-tt11304740--2023-11-24-18-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nWish will follow a young girl na
+ med Asha who wishes on a star and gets a more direct answer than she barga
+ ined for when a trouble-making star comes down from the sky to join her.\n
+ \nhttps://www.imdb.com/title/tt11304740/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=America/Los_Angeles:20231124T211500
+DTEND;TZID=America/Los_Angeles:20231124T231000
+DTSTAMP:20231125T050800Z
+UID:ci0014968-tt11304740--2023-11-24-21-15
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nWish will follow a young girl na
  med Asha who wishes on a star and gets a more direct answer than she barga
  ined for when a trouble-making star comes down from the sky to join her.\n

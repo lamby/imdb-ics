@@ -1,44 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231110T091151Z
+LAST-MODIFIED:20231111T085928Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:OSS 117: Cairo\, Nest of Spies (2006)
-DTSTART;TZID=America/Los_Angeles:20231110T163000
-DTEND;TZID=America/Los_Angeles:20231110T183000
-DTSTAMP:20231111T002300Z
-UID:ci60177107-tt0464913--2023-11-10-16-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nSecret agent OSS 117 foils Nazis
- \, beds local beauties\, and brings peace to the Middle East.\n\nhttps://w
- ww.imdb.com/title/tt0464913/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: Episode V - The Empire Strikes Back (1980)
-DTSTART;TZID=America/Los_Angeles:20231110T190000
-DTEND;TZID=America/Los_Angeles:20231110T212500
-DTSTAMP:20231111T025300Z
-UID:ci60177107-tt0080684--2023-11-10-19-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nAfter the Rebels are overpowere
- d by the Empire\, Luke Skywalker begins his Jedi training with Yoda\, whil
- e his friends are pursued across the galaxy by Darth Vader and bounty hunt
- er Boba Fett.\n\nhttps://www.imdb.com/title/tt0080684/\n\nIMDb rating: 8.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WarGames (1983)
-DTSTART;TZID=America/Los_Angeles:20231110T134500
-DTEND;TZID=America/Los_Angeles:20231110T160000
-DTSTAMP:20231110T213800Z
-UID:ci60177107-tt0086567--2023-11-10-13-45
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA young man finds a back door i
- nto a military central computer in which reality is confused with game-pla
- ying\, possibly starting World War III.\n\nhttps://www.imdb.com/title/tt00
- 86567/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blood Simple (1984)
 DTSTART;TZID=America/Los_Angeles:20231112T153000
@@ -204,6 +169,54 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nTo satisfy his nagging parents\
  , a gay landlord and a female tenant agree to a marriage of convenience\, 
  but his parents arrive to visit and things get out of hand.\n\nhttps://www
  .imdb.com/title/tt0107156/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Dynamite (2009)
+DTSTART;TZID=America/Los_Angeles:20231124T124500
+DTEND;TZID=America/Los_Angeles:20231124T143000
+DTSTAMP:20231124T203800Z
+UID:ci60177107-tt1190536--2023-11-24-12-45
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nBlack Dynamite is the greatest A
+ frican-American action star of the 1970s. When his only brother is killed 
+ by The Man\, it's up to him to find justice.\n\nhttps://www.imdb.com/title
+ /tt1190536/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eighth Grade (2018)
+DTSTART;TZID=America/Los_Angeles:20231124T150000
+DTEND;TZID=America/Los_Angeles:20231124T165500
+DTSTAMP:20231124T225300Z
+UID:ci60177107-tt7014006--2023-11-24-15-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn introverted teenage girl trie
+ s to survive the last week of her disastrous eighth grade year before leav
+ ing to start high school.\n\nhttps://www.imdb.com/title/tt7014006/\n\nIMDb
+  rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kiss of the Spider Woman (1985)
+DTSTART;TZID=America/Los_Angeles:20231124T193000
+DTEND;TZID=America/Los_Angeles:20231124T215000
+DTSTAMP:20231125T032300Z
+UID:ci60177107-tt0089424--2023-11-24-19-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA gay man and a political priso
+ ner are together in a prison. The gay man narrates the stories of two fake
+  movies and his own life.\n\nhttps://www.imdb.com/title/tt0089424/\n\nIMDb
+  rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trainspotting (1996)
+DTSTART;TZID=America/Los_Angeles:20231124T171500
+DTEND;TZID=America/Los_Angeles:20231124T191000
+DTSTAMP:20231125T010800Z
+UID:ci60177107-tt0117951--2023-11-24-17-15
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nRenton\, deeply immersed in the 
+ Edinburgh drug scene\, tries to clean up and get out\, despite the allure 
+ of the drugs and influence of friends.\n\nhttps://www.imdb.com/title/tt011
+ 7951/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
