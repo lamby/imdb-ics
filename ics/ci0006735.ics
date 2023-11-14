@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231114T074527Z
+LAST-MODIFIED:20231114T141943Z
 NAME:AMC Pacific Place 11\, Seattle
 X-WR-CALNAME:AMC Pacific Place 11\, Seattle
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ DTSTAMP:20231114T221800Z
 UID:ci0006735-tt20836144--2023-11-14-14-25
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA female lawyer defending the m
  urderer discovered a plot.\n\nhttps://www.imdb.com/title/tt20836144/\n\nIM
- Db rating: 5.2
+ Db rating: 5.3
 LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +86,7 @@ DTSTAMP:20231115T010800Z
 UID:ci0006735-tt20836144--2023-11-14-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA female lawyer defending the m
  urderer discovered a plot.\n\nhttps://www.imdb.com/title/tt20836144/\n\nIM
- Db rating: 5.2
+ Db rating: 5.3
 LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
@@ -331,7 +331,7 @@ DTSTAMP:20231115T221800Z
 UID:ci0006735-tt20836144--2023-11-15-14-25
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA female lawyer defending the m
  urderer discovered a plot.\n\nhttps://www.imdb.com/title/tt20836144/\n\nIM
- Db rating: 5.2
+ Db rating: 5.3
 LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
@@ -342,7 +342,7 @@ DTSTAMP:20231116T010800Z
 UID:ci0006735-tt20836144--2023-11-15-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA female lawyer defending the m
  urderer discovered a plot.\n\nhttps://www.imdb.com/title/tt20836144/\n\nIM
- Db rating: 5.2
+ Db rating: 5.3
 LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
@@ -516,6 +516,55 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\n\nWilla and Bill are ex-lovers th
 LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Five Nights at Freddy's
+DTSTART;TZID=America/Los_Angeles:20231116T161500
+DTEND;TZID=America/Los_Angeles:20231116T182500
+DTSTAMP:20231117T000800Z
+UID:ci0006735-tt4589218--2023-11-16-16-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA troubled security guard begin
+ s working at Freddy Fazbear's Pizza. During his first night on the job\, h
+ e realizes that the night shift won't be so easy to get through. Pretty so
+ on he will unveil what actually happened at Freddy's.\n\nhttps://www.imdb.
+ com/title/tt4589218/\n\nIMDb rating: 5.5
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231116T133500
+DTEND;TZID=America/Los_Angeles:20231116T172500
+DTSTAMP:20231116T212800Z
+UID:ci0006735-tt5537002--2023-11-16-13-35
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nWhen oil is discovered in 1920s
+  Oklahoma under Osage Nation land\, the Osage people are murdered one by o
+ ne - until the FBI steps in to unravel the mystery.\n\nhttps://www.imdb.co
+ m/title/tt5537002/\n\nIMDb rating: 8
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231116T153500
+DTEND;TZID=America/Los_Angeles:20231116T192500
+DTSTAMP:20231116T232800Z
+UID:ci0006735-tt5537002--2023-11-16-15-35
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nWhen oil is discovered in 1920s
+  Oklahoma under Osage Nation land\, the Osage people are murdered one by o
+ ne - until the FBI steps in to unravel the mystery.\n\nhttps://www.imdb.co
+ m/title/tt5537002/\n\nIMDb rating: 8
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers of the Flower Moon
+DTSTART;TZID=America/Los_Angeles:20231116T204500
+DTEND;TZID=America/Los_Angeles:20231117T003500
+DTSTAMP:20231117T043800Z
+UID:ci0006735-tt5537002--2023-11-16-20-45
+DESCRIPTION:Duration: 3h 26m (206 mins)\n\nWhen oil is discovered in 1920s
+  Oklahoma under Osage Nation land\, the Osage people are murdered one by o
+ ne - until the FBI steps in to unravel the mystery.\n\nhttps://www.imdb.co
+ m/title/tt5537002/\n\nIMDb rating: 8
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Next Goal Wins
 DTSTART;TZID=America/Los_Angeles:20231116T180000
 DTEND;TZID=America/Los_Angeles:20231116T200500
@@ -535,6 +584,91 @@ UID:ci0006735-tt10767052--2023-11-16-22-10
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe story of the infamously ter
  rible American Samoa soccer team\, known for a brutal 2001 FIFA match they
   lost 31-0.\n\nhttps://www.imdb.com/title/tt10767052/\n\nIMDb rating: 6.5
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=America/Los_Angeles:20231116T135000
+DTEND;TZID=America/Los_Angeles:20231116T160500
+DTSTAMP:20231116T214300Z
+UID:ci0006735-tt22041854--2023-11-16-13-50
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nWhen teenage Priscilla Beaulieu
+  meets Elvis Presley\, the man who is already a meteoric rock-and-roll sup
+ erstar becomes someone entirely unexpected in private moments: a thrilling
+  crush\, an ally in loneliness\, a vulnerable best fri...\n\nhttps://www.i
+ mdb.com/title/tt22041854/\n\nIMDb rating: 7.1
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=America/Los_Angeles:20231116T163000
+DTEND;TZID=America/Los_Angeles:20231116T184500
+DTSTAMP:20231117T002300Z
+UID:ci0006735-tt22041854--2023-11-16-16-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nWhen teenage Priscilla Beaulieu
+  meets Elvis Presley\, the man who is already a meteoric rock-and-roll sup
+ erstar becomes someone entirely unexpected in private moments: a thrilling
+  crush\, an ally in loneliness\, a vulnerable best fri...\n\nhttps://www.i
+ mdb.com/title/tt22041854/\n\nIMDb rating: 7.1
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=America/Los_Angeles:20231116T193000
+DTEND;TZID=America/Los_Angeles:20231116T214500
+DTSTAMP:20231117T032300Z
+UID:ci0006735-tt22041854--2023-11-16-19-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nWhen teenage Priscilla Beaulieu
+  meets Elvis Presley\, the man who is already a meteoric rock-and-roll sup
+ erstar becomes someone entirely unexpected in private moments: a thrilling
+  crush\, an ally in loneliness\, a vulnerable best fri...\n\nhttps://www.i
+ mdb.com/title/tt22041854/\n\nIMDb rating: 7.1
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=America/Los_Angeles:20231116T220000
+DTEND;TZID=America/Los_Angeles:20231117T001500
+DTSTAMP:20231117T055300Z
+UID:ci0006735-tt22041854--2023-11-16-22-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nWhen teenage Priscilla Beaulieu
+  meets Elvis Presley\, the man who is already a meteoric rock-and-roll sup
+ erstar becomes someone entirely unexpected in private moments: a thrilling
+  crush\, an ally in loneliness\, a vulnerable best fri...\n\nhttps://www.i
+ mdb.com/title/tt22041854/\n\nIMDb rating: 7.1
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231116T134000
+DTEND;TZID=America/Los_Angeles:20231116T165000
+DTSTAMP:20231116T213300Z
+UID:ci0006735-tt28814949--2023-11-16-13-40
+DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.3
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231116T182000
+DTEND;TZID=America/Los_Angeles:20231116T213000
+DTSTAMP:20231117T021300Z
+UID:ci0006735-tt28814949--2023-11-16-18-20
+DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.3
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taylor Swift: The Eras Tour
+DTSTART;TZID=America/Los_Angeles:20231116T213000
+DTEND;TZID=America/Los_Angeles:20231117T004000
+DTSTAMP:20231117T052300Z
+UID:ci0006735-tt28814949--2023-11-16-21-30
+DESCRIPTION:Duration: 2h 49m (169 mins)\n\nExperience the breathtaking Era
+ s Tour concert\, performed by the one and only Taylor Swift.\n\nhttps://ww
+ w.imdb.com/title/tt28814949/\n\nIMDb rating: 8.3
 LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
@@ -563,10 +697,46 @@ LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231116T134000
+DTEND;TZID=America/Los_Angeles:20231116T161500
+DTSTAMP:20231116T213300Z
+UID:ci0006735-tt14849194--2023-11-16-13-40
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.4
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231116T162000
+DTEND;TZID=America/Los_Angeles:20231116T185500
+DTSTAMP:20231117T001300Z
+UID:ci0006735-tt14849194--2023-11-16-16-20
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.4
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
 DTSTART;TZID=America/Los_Angeles:20231116T191000
 DTEND;TZID=America/Los_Angeles:20231116T214500
 DTSTAMP:20231117T030300Z
 UID:ci0006735-tt14849194--2023-11-16-19-10
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
+ emote prep school is forced to remain on campus over the holidays with a t
+ roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
+ 849194/\n\nIMDb rating: 8.4
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=America/Los_Angeles:20231116T223000
+DTEND;TZID=America/Los_Angeles:20231117T010500
+DTSTAMP:20231117T062300Z
+UID:ci0006735-tt14849194--2023-11-16-22-30
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA cranky history teacher at a r
  emote prep school is forced to remain on campus over the holidays with a t
  roubled student who has no place to go.\n\nhttps://www.imdb.com/title/tt14
@@ -590,6 +760,17 @@ DTSTART;TZID=America/Los_Angeles:20231116T184000
 DTEND;TZID=America/Los_Angeles:20231116T214000
 DTSTAMP:20231117T023300Z
 UID:ci0006735-tt10545296--2023-11-16-18-40
+DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
+ elops feelings for the female District 12 tribute during the 10th Hunger G
+ ames.\n\nhttps://www.imdb.com/title/tt10545296/
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
+DTSTART;TZID=America/Los_Angeles:20231116T200000
+DTEND;TZID=America/Los_Angeles:20231116T230000
+DTSTAMP:20231117T035300Z
+UID:ci0006735-tt10545296--2023-11-16-20-0
 DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/
@@ -636,30 +817,6 @@ DTSTART;TZID=America/Los_Angeles:20231116T185000
 DTEND;TZID=America/Los_Angeles:20231116T205500
 DTSTAMP:20231117T024300Z
 UID:ci0006735-tt10676048--2023-11-16-18-50
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
- ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
- rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /\n\nIMDb rating: 6.1
-LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marvels
-DTSTART;TZID=America/Los_Angeles:20231116T213000
-DTEND;TZID=America/Los_Angeles:20231116T233500
-DTSTAMP:20231117T052300Z
-UID:ci0006735-tt10676048--2023-11-16-21-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
- ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
- rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /\n\nIMDb rating: 6.1
-LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marvels (3D)
-DTSTART;TZID=America/Los_Angeles:20231116T143000
-DTEND;TZID=America/Los_Angeles:20231116T163500
-DTSTAMP:20231116T222300Z
-UID:ci0006735-tt10676048-3d-2023-11-16-14-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
  ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
  rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
@@ -765,6 +922,18 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nPoppy discovers that Branch was
  , Spruce and Clay. When Floyd is kidnapped\, Branch and Poppy embark on a 
  journey to reunite his two other brothers and rescue F...\n\nhttps://www.i
  mdb.com/title/tt14362112/\n\nIMDb rating: 5.9
+LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Happens Later
+DTSTART;TZID=America/Los_Angeles:20231116T133000
+DTEND;TZID=America/Los_Angeles:20231116T153500
+DTSTAMP:20231116T212300Z
+UID:ci0006735-tt19890316--2023-11-16-13-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nWilla and Bill are ex-lovers th
+ at will see each other for the first time in years when they both find the
+ mselves snowed in\, in-transit\, at an airport overnight.\n\nhttps://www.i
+ mdb.com/title/tt19890316/\n\nIMDb rating: 5.2
 LOCATION:AMC Pacific Place 11\, Seattle\, 600 Pine S.\, Seattle\, 98101
 END:VEVENT
 BEGIN:VEVENT
