@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231115T080353Z
+LAST-MODIFIED:20231116T095052Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cat Person
-DTSTART;TZID=America/Los_Angeles:20231115T193000
-DTEND;TZID=America/Los_Angeles:20231115T215000
-DTSTAMP:20231116T032300Z
-UID:ci0005472-tt14647404--2023-11-15-19-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
- re goes on a date with the older Robert\, she finds that IRL Robert doesn'
- t live up to the Robert she has been flirting with over texts. A razor-sha
- rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
- 4647404/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cat Person
 DTSTART;TZID=America/Los_Angeles:20231116T193000
@@ -149,6 +135,19 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Age of Innocence (1993)
+DTSTART;TZID=America/Los_Angeles:20231124T190000
+DTEND;TZID=America/Los_Angeles:20231124T214000
+DTSTAMP:20231125T025300Z
+UID:ci0005472-tt0106226--2023-11-24-19-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA tale of nineteenth-century Ne
+ w York high society in which a young lawyer falls in love with a woman sep
+ arated from her husband\, while he is engaged to the woman's cousin.\n\nht
+ tps://www.imdb.com/title/tt0106226/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mister Organ
 DTSTART;TZID=America/Los_Angeles:20231125T160000
 DTEND;TZID=America/Los_Angeles:20231125T180000
@@ -163,6 +162,19 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Age of Innocence (1993)
+DTSTART;TZID=America/Los_Angeles:20231125T190000
+DTEND;TZID=America/Los_Angeles:20231125T214000
+DTSTAMP:20231126T025300Z
+UID:ci0005472-tt0106226--2023-11-25-19-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA tale of nineteenth-century Ne
+ w York high society in which a young lawyer falls in love with a woman sep
+ arated from her husband\, while he is engaged to the woman's cousin.\n\nht
+ tps://www.imdb.com/title/tt0106226/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Clearcut (1991)
 DTSTART;TZID=America/Los_Angeles:20231126T193000
 DTEND;TZID=America/Los_Angeles:20231126T213000
@@ -172,6 +184,45 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA white lawyer finds his values
   shaken when he is paired with an angry Indigenous activist who insists on
   kidnapping the head of a logging company to teach him the price of his de
  struction.\n\nhttps://www.imdb.com/title/tt0101592/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Age of Innocence (1993)
+DTSTART;TZID=America/Los_Angeles:20231126T160000
+DTEND;TZID=America/Los_Angeles:20231126T184000
+DTSTAMP:20231126T235300Z
+UID:ci0005472-tt0106226--2023-11-26-16-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA tale of nineteenth-century Ne
+ w York high society in which a young lawyer falls in love with a woman sep
+ arated from her husband\, while he is engaged to the woman's cousin.\n\nht
+ tps://www.imdb.com/title/tt0106226/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Age of Innocence (1993)
+DTSTART;TZID=America/Los_Angeles:20231127T190000
+DTEND;TZID=America/Los_Angeles:20231127T214000
+DTSTAMP:20231128T025300Z
+UID:ci0005472-tt0106226--2023-11-27-19-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA tale of nineteenth-century Ne
+ w York high society in which a young lawyer falls in love with a woman sep
+ arated from her husband\, while he is engaged to the woman's cousin.\n\nht
+ tps://www.imdb.com/title/tt0106226/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Divinity
+DTSTART;TZID=America/Los_Angeles:20231128T193000
+DTEND;TZID=America/Los_Angeles:20231128T212000
+DTSTAMP:20231129T032300Z
+UID:ci0005472-tt15444046--2023-11-28-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nCenters on two mysterious brothe
+ rs\, who abduct a mogul during his quest for immortality. Meanwhile\, a se
+ ductive woman helps them launch a journey of self-discovery.\n\nhttps://ww
+ w.imdb.com/title/tt15444046/\n\nIMDb rating: 5.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
