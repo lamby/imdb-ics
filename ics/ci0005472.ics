@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231116T095052Z
+LAST-MODIFIED:20231117T074344Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cat Person
-DTSTART;TZID=America/Los_Angeles:20231116T193000
-DTEND;TZID=America/Los_Angeles:20231116T215000
-DTSTAMP:20231117T032300Z
-UID:ci0005472-tt14647404--2023-11-16-19-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nWhen Margot\, a college sophomo
- re goes on a date with the older Robert\, she finds that IRL Robert doesn'
- t live up to the Robert she has been flirting with over texts. A razor-sha
- rp exploration of the horrors of dating.\n\nhttps://www.imdb.com/title/tt1
- 4647404/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cade: The Tortured Crossing
 DTSTART;TZID=America/Los_Angeles:20231117T211500
@@ -219,6 +205,19 @@ DTSTART;TZID=America/Los_Angeles:20231128T193000
 DTEND;TZID=America/Los_Angeles:20231128T212000
 DTSTAMP:20231129T032300Z
 UID:ci0005472-tt15444046--2023-11-28-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nCenters on two mysterious brothe
+ rs\, who abduct a mogul during his quest for immortality. Meanwhile\, a se
+ ductive woman helps them launch a journey of self-discovery.\n\nhttps://ww
+ w.imdb.com/title/tt15444046/\n\nIMDb rating: 5.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Divinity
+DTSTART;TZID=America/Los_Angeles:20231130T193000
+DTEND;TZID=America/Los_Angeles:20231130T212000
+DTSTAMP:20231201T032300Z
+UID:ci0005472-tt15444046--2023-11-30-19-30
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nCenters on two mysterious brothe
  rs\, who abduct a mogul during his quest for immortality. Meanwhile\, a se
  ductive woman helps them launch a journey of self-discovery.\n\nhttps://ww
