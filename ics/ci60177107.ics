@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231117T074509Z
+LAST-MODIFIED:20231118T082338Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Facing Windows (2003)
-DTSTART;TZID=America/Los_Angeles:20231117T153000
-DTEND;TZID=America/Los_Angeles:20231117T173500
-DTSTAMP:20231117T232300Z
-UID:ci60177107-tt0352343--2023-11-17-15-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nOverburdened and stuck in a gre
- ying marriage\, Giovanna takes to caring for the Jewish Holocaust survivor
-  her husband brings home. As she begins to reflect on her life\, she turns
-  to the man who lives across from her ...\n\nhttps://www.imdb.com/title/tt
- 0352343/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twilight (2008)
-DTSTART;TZID=America/Los_Angeles:20231117T190000
-DTEND;TZID=America/Los_Angeles:20231117T212500
-DTSTAMP:20231118T025300Z
-UID:ci60177107-tt1099212--2023-11-17-19-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nWhen Bella Swan moves to a smal
- l town in the Pacific Northwest\, she falls in love with Edward Cullen\, a
-  mysterious classmate who reveals himself to be a 108-year-old vampire.\n\
- nhttps://www.imdb.com/title/tt1099212/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Run Lola Run (1998)
 DTSTART;TZID=America/Los_Angeles:20231118T164500
@@ -240,6 +215,29 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA young man finds a back door i
  nto a military central computer in which reality is confused with game-pla
  ying\, possibly starting World War III.\n\nhttps://www.imdb.com/title/tt00
  86567/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of Priscilla\, Queen of the Desert (1994)
+DTSTART;TZID=America/Los_Angeles:20231201T170000
+DTEND;TZID=America/Los_Angeles:20231201T190500
+DTSTAMP:20231202T005300Z
+UID:ci60177107-tt0109045--2023-12-1-17-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nTwo drag performers and a trans
+ gender woman travel across the desert to perform their unique style of cab
+ aret.\n\nhttps://www.imdb.com/title/tt0109045/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet (1993)
+DTSTART;TZID=America/Los_Angeles:20231201T193000
+DTEND;TZID=America/Los_Angeles:20231201T214000
+DTSTAMP:20231202T032300Z
+UID:ci60177107-tt0107156--2023-12-1-19-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nTo satisfy his nagging parents\
+ , a gay landlord and a female tenant agree to a marriage of convenience\, 
+ but his parents arrive to visit and things get out of hand.\n\nhttps://www
+ .imdb.com/title/tt0107156/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
