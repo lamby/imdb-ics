@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231118T082959Z
+LAST-MODIFIED:20231119T073403Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mister Organ
-DTSTART;TZID=America/Los_Angeles:20231118T191500
-DTEND;TZID=America/Los_Angeles:20231118T211500
-DTSTAMP:20231119T030800Z
-UID:ci0005472-tt21996838--2023-11-18-19-15
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nJournalist David Farrier (Tickle
- d) is drawn into a game of cat and mouse with a mysterious individual. Del
- ving deeper he unearths a trail of court cases\, royal bloodlines and ruin
- ed lives\, in this true story of psychological warfare.\n\nhttps://www.imd
- b.com/title/tt21996838/\n\nIMDb rating: 6.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fear and Desire (1952)
 DTSTART;TZID=America/Los_Angeles:20231119T150000
@@ -218,6 +204,46 @@ DTSTART;TZID=America/Los_Angeles:20231201T190000
 DTEND;TZID=America/Los_Angeles:20231201T205500
 DTSTAMP:20231202T025300Z
 UID:ci0005472-tt0100758--2023-12-1-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nFour teenage mutant ninja turtle
+ s emerge from the shadows to protect New York City from a gang of criminal
+  ninjas.\n\nhttps://www.imdb.com/title/tt0100758/\n\nIMDb rating: 6.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raging Grace
+DTSTART;TZID=America/Los_Angeles:20231202T153000
+DTEND;TZID=America/Los_Angeles:20231202T173000
+DTSTAMP:20231202T232300Z
+UID:ci0005472-tt14946978--2023-12-2-15-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nAn undocumented Filipina immigra
+ nt lands a job as a care-worker for a terminal old man\, securing a better
+  life for her and her daughter. But a dark discovery threatens to destroy 
+ everything she's strived for and holds dear.\n\nhttps://www.imdb.com/title
+ /tt14946978/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raging Grace
+DTSTART;TZID=America/Los_Angeles:20231202T180000
+DTEND;TZID=America/Los_Angeles:20231202T200000
+DTSTAMP:20231203T015300Z
+UID:ci0005472-tt14946978--2023-12-2-18-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nAn undocumented Filipina immigra
+ nt lands a job as a care-worker for a terminal old man\, securing a better
+  life for her and her daughter. But a dark discovery threatens to destroy 
+ everything she's strived for and holds dear.\n\nhttps://www.imdb.com/title
+ /tt14946978/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles (1990)
+DTSTART;TZID=America/Los_Angeles:20231202T203000
+DTEND;TZID=America/Los_Angeles:20231202T222500
+DTSTAMP:20231203T042300Z
+UID:ci0005472-tt0100758--2023-12-2-20-30
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nFour teenage mutant ninja turtle
  s emerge from the shadows to protect New York City from a gang of criminal
   ninjas.\n\nhttps://www.imdb.com/title/tt0100758/\n\nIMDb rating: 6.8
