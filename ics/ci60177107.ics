@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231119T073641Z
+LAST-MODIFIED:20231122T080605Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Multiple Maniacs (1970)
-DTSTART;TZID=America/Los_Angeles:20231120T171500
-DTEND;TZID=America/Los_Angeles:20231120T191000
-DTSTAMP:20231121T010800Z
-UID:ci60177107-tt0067454--2023-11-20-17-15
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThe travelling sideshow 'Lady Di
- vine's Cavalcade of Perversions' is actually a front for a group of psycho
- tic kidnappers\, with Lady Divine herself the most vicious and depraved of
-  all\, but her life changes after she gets raped by ...\n\nhttps://www.imd
- b.com/title/tt0067454/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OSS 117: Cairo\, Nest of Spies (2006)
-DTSTART;TZID=America/Los_Angeles:20231120T193000
-DTEND;TZID=America/Los_Angeles:20231120T213000
-DTSTAMP:20231121T032300Z
-UID:ci60177107-tt0464913--2023-11-20-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nSecret agent OSS 117 foils Nazis
- \, beds local beauties\, and brings peace to the Middle East.\n\nhttps://w
- ww.imdb.com/title/tt0464913/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Star Wars: Episode V - The Empire Strikes Back (1980)
 DTSTART;TZID=America/Los_Angeles:20231123T191500
@@ -266,6 +242,55 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThe travelling sideshow 'Lady Di
  tic kidnappers\, with Lady Divine herself the most vicious and depraved of
   all\, but her life changes after she gets raped by ...\n\nhttps://www.imd
  b.com/title/tt0067454/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Dynamite (2009)
+DTSTART;TZID=America/Los_Angeles:20231203T143000
+DTEND;TZID=America/Los_Angeles:20231203T161500
+DTSTAMP:20231203T222300Z
+UID:ci60177107-tt1190536--2023-12-3-14-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nBlack Dynamite is the greatest A
+ frican-American action star of the 1970s. When his only brother is killed 
+ by The Man\, it's up to him to find justice.\n\nhttps://www.imdb.com/title
+ /tt1190536/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain Fantastic (2016)
+DTSTART;TZID=America/Los_Angeles:20231203T113000
+DTEND;TZID=America/Los_Angeles:20231203T135000
+DTSTAMP:20231203T192300Z
+UID:ci60177107-tt3553976--2023-12-3-11-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn the forests of the Pacific N
+ orthwest\, a father devoted to raising his six kids with a rigorous physic
+ al and intellectual education is forced to leave his paradise and enter th
+ e world\, challenging his idea of what it means to be...\n\nhttps://www.im
+ db.com/title/tt3553976/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picnic at Hanging Rock (1975)
+DTSTART;TZID=America/Los_Angeles:20231203T163000
+DTEND;TZID=America/Los_Angeles:20231203T184500
+DTSTAMP:20231204T002300Z
+UID:ci60177107-tt0073540--2023-12-3-16-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
+ a few students and a teacher from an Australian girls' school vanish witho
+ ut a trace. Their absence frustrates and haunts the people left behind.\n\
+ nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trainspotting (1996)
+DTSTART;TZID=America/Los_Angeles:20231203T190000
+DTEND;TZID=America/Los_Angeles:20231203T205500
+DTSTAMP:20231204T025300Z
+UID:ci60177107-tt0117951--2023-12-3-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nRenton\, deeply immersed in the 
+ Edinburgh drug scene\, tries to clean up and get out\, despite the allure 
+ of the drugs and influence of friends.\n\nhttps://www.imdb.com/title/tt011
+ 7951/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
 END:VEVENT
 END:VCALENDAR
