@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231122T080436Z
+LAST-MODIFIED:20231124T081010Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Krisha (2015)
-DTSTART;TZID=America/Los_Angeles:20231122T193000
-DTEND;TZID=America/Los_Angeles:20231122T211500
-DTSTAMP:20231123T032300Z
-UID:ci0005472-tt4266638--2023-11-22-19-30
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nKrisha returns for Thanksgiving 
- dinner after ten years away from her family\, but past demons threaten to 
- ruin the festivities.\n\nhttps://www.imdb.com/title/tt4266638/\n\nIMDb rat
- ing: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Age of Innocence (1993)
 DTSTART;TZID=America/Los_Angeles:20231124T190000
@@ -225,6 +212,33 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nAn undocumented Filipina immigra
   life for her and her daughter. But a dark discovery threatens to destroy 
  everything she's strived for and holds dear.\n\nhttps://www.imdb.com/title
  /tt14946978/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raging Grace
+DTSTART;TZID=America/Los_Angeles:20231206T190000
+DTEND;TZID=America/Los_Angeles:20231206T210000
+DTSTAMP:20231207T025300Z
+UID:ci0005472-tt14946978--2023-12-6-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nAn undocumented Filipina immigra
+ nt lands a job as a care-worker for a terminal old man\, securing a better
+  life for her and her daughter. But a dark discovery threatens to destroy 
+ everything she's strived for and holds dear.\n\nhttps://www.imdb.com/title
+ /tt14946978/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Divinity
+DTSTART;TZID=America/Los_Angeles:20231207T193000
+DTEND;TZID=America/Los_Angeles:20231207T212000
+DTSTAMP:20231208T032300Z
+UID:ci0005472-tt15444046--2023-12-7-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nCenters on two mysterious brothe
+ rs\, who abduct a mogul during his quest for immortality. Meanwhile\, a se
+ ductive woman helps them launch a journey of self-discovery.\n\nhttps://ww
+ w.imdb.com/title/tt15444046/\n\nIMDb rating: 5.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
