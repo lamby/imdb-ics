@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231124T081010Z
+LAST-MODIFIED:20231125T133832Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Age of Innocence (1993)
-DTSTART;TZID=America/Los_Angeles:20231124T190000
-DTEND;TZID=America/Los_Angeles:20231124T214000
-DTSTAMP:20231125T025300Z
-UID:ci0005472-tt0106226--2023-11-24-19-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA tale of nineteenth-century Ne
- w York high society in which a young lawyer falls in love with a woman sep
- arated from her husband\, while he is engaged to the woman's cousin.\n\nht
- tps://www.imdb.com/title/tt0106226/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mister Organ
 DTSTART;TZID=America/Los_Angeles:20231125T160000
@@ -239,6 +226,33 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nCenters on two mysterious brothe
  rs\, who abduct a mogul during his quest for immortality. Meanwhile\, a se
  ductive woman helps them launch a journey of self-discovery.\n\nhttps://ww
  w.imdb.com/title/tt15444046/\n\nIMDb rating: 5.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Knife
+DTSTART;TZID=America/Los_Angeles:20231208T213000
+DTEND;TZID=America/Los_Angeles:20231208T232000
+DTSTAMP:20231209T052300Z
+UID:ci0005472-tt27619382--2023-12-8-21-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
+ chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
+ ishes she'd never been born\, she finds herself in a nightmare parallel un
+ iverse where without her\, things could be much\, much...\n\nhttps://www.i
+ mdb.com/title/tt27619382/\n\nIMDb rating: 5.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20231208T184500
+DTEND;TZID=America/Los_Angeles:20231208T211500
+DTSTAMP:20231209T023800Z
+UID:ci0005472-tt0038650--2023-12-8-18-45
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
