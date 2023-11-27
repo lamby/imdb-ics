@@ -1,32 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231126T084930Z
+LAST-MODIFIED:20231127T090254Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Adventures of Priscilla\, Queen of the Desert (1994)
-DTSTART;TZID=America/Los_Angeles:20231126T194500
-DTEND;TZID=America/Los_Angeles:20231126T215000
-DTSTAMP:20231127T033800Z
-UID:ci60177107-tt0109045--2023-11-26-19-45
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nTwo drag performers and a trans
- gender woman travel across the desert to perform their unique style of cab
- aret.\n\nhttps://www.imdb.com/title/tt0109045/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trainspotting (1996)
-DTSTART;TZID=America/Los_Angeles:20231126T173000
-DTEND;TZID=America/Los_Angeles:20231126T192500
-DTSTAMP:20231127T012300Z
-UID:ci60177107-tt0117951--2023-11-26-17-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nRenton\, deeply immersed in the 
- Edinburgh drug scene\, tries to clean up and get out despite the allure of
-  drugs and the influence of friends.\n\nhttps://www.imdb.com/title/tt01179
- 51/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Picnic at Hanging Rock (1975)
 DTSTART;TZID=America/Los_Angeles:20231127T193000
