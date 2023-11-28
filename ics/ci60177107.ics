@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231127T090615Z
+LAST-MODIFIED:20231128T082713Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Picnic at Hanging Rock (1975)
-DTSTART;TZID=America/Los_Angeles:20231127T193000
-DTEND;TZID=America/Los_Angeles:20231127T214500
-DTSTAMP:20231128T032300Z
-UID:ci60177107-tt0073540--2023-11-27-19-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
- a few students and a teacher from an Australian girls' school vanish witho
- ut a trace. Their absence frustrates and haunts the people left behind.\n\
- nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WarGames (1983)
-DTSTART;TZID=America/Los_Angeles:20231127T170000
-DTEND;TZID=America/Los_Angeles:20231127T191500
-DTSTAMP:20231128T005300Z
-UID:ci60177107-tt0086567--2023-11-27-17-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA young man finds a back door i
- nto a military central computer in which reality is confused with game-pla
- ying\, possibly starting World War III.\n\nhttps://www.imdb.com/title/tt00
- 86567/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Adventures of Priscilla\, Queen of the Desert (1994)
 DTSTART;TZID=America/Los_Angeles:20231201T170000
