@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231128T082541Z
+LAST-MODIFIED:20231130T085139Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Divinity
-DTSTART;TZID=America/Los_Angeles:20231128T193000
-DTEND;TZID=America/Los_Angeles:20231128T212000
-DTSTAMP:20231129T032300Z
-UID:ci0005472-tt15444046--2023-11-28-19-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nCenters on two mysterious brothe
- rs\, who abduct a mogul during his quest for immortality. Meanwhile\, a se
- ductive woman helps them launch a journey of self-discovery.\n\nhttps://ww
- w.imdb.com/title/tt15444046/\n\nIMDb rating: 5.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Divinity
 DTSTART;TZID=America/Los_Angeles:20231130T193000
@@ -265,6 +252,34 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
   help a desperately frustrated businessman by showing him what life would 
  have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
  38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Knife
+DTSTART;TZID=America/Los_Angeles:20231212T211500
+DTEND;TZID=America/Los_Angeles:20231212T230500
+DTSTAMP:20231213T050800Z
+UID:ci0005472-tt27619382--2023-12-12-21-15
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
+ chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
+ ishes she'd never been born\, she finds herself in a nightmare parallel un
+ iverse where without her\, things could be much\, much...\n\nhttps://www.i
+ mdb.com/title/tt27619382/\n\nIMDb rating: 5.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Knife
+DTSTART;TZID=America/Los_Angeles:20231213T190000
+DTEND;TZID=America/Los_Angeles:20231213T205000
+DTSTAMP:20231214T025300Z
+UID:ci0005472-tt27619382--2023-12-13-19-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
+ chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
+ ishes she'd never been born\, she finds herself in a nightmare parallel un
+ iverse where without her\, things could be much\, much...\n\nhttps://www.i
+ mdb.com/title/tt27619382/\n\nIMDb rating: 5.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
