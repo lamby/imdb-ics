@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231204T083235Z
+LAST-MODIFIED:20231207T082009Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Raging Grace
-DTSTART;TZID=America/Los_Angeles:20231204T193000
-DTEND;TZID=America/Los_Angeles:20231204T213000
-DTSTAMP:20231205T032300Z
-UID:ci0005472-tt14946978--2023-12-4-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nAn undocumented Filipina immigra
- nt lands a job as a care-worker for a terminal old man\, securing a better
-  life for her and her daughter. But a dark discovery threatens to destroy 
- everything she's strived for and holds dear.\n\nhttps://www.imdb.com/title
- /tt14946978/\n\nIMDb rating: 6.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Raging Grace
-DTSTART;TZID=America/Los_Angeles:20231206T190000
-DTEND;TZID=America/Los_Angeles:20231206T210000
-DTSTAMP:20231207T025300Z
-UID:ci0005472-tt14946978--2023-12-6-19-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nAn undocumented Filipina immigra
- nt lands a job as a care-worker for a terminal old man\, securing a better
-  life for her and her daughter. But a dark discovery threatens to destroy 
- everything she's strived for and holds dear.\n\nhttps://www.imdb.com/title
- /tt14946978/\n\nIMDb rating: 6.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Divinity
 DTSTART;TZID=America/Los_Angeles:20231207T193000
@@ -55,7 +27,7 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
  chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
  ishes she'd never been born\, she finds herself in a nightmare parallel un
  iverse where without her\, things could be much\, much...\n\nhttps://www.i
- mdb.com/title/tt27619382/\n\nIMDb rating: 5.4
+ mdb.com/title/tt27619382/\n\nIMDb rating: 5.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -120,7 +92,7 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
  chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
  ishes she'd never been born\, she finds herself in a nightmare parallel un
  iverse where without her\, things could be much\, much...\n\nhttps://www.i
- mdb.com/title/tt27619382/\n\nIMDb rating: 5.4
+ mdb.com/title/tt27619382/\n\nIMDb rating: 5.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -160,7 +132,7 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
  chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
  ishes she'd never been born\, she finds herself in a nightmare parallel un
  iverse where without her\, things could be much\, much...\n\nhttps://www.i
- mdb.com/title/tt27619382/\n\nIMDb rating: 5.4
+ mdb.com/title/tt27619382/\n\nIMDb rating: 5.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -174,7 +146,7 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
  chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
  ishes she'd never been born\, she finds herself in a nightmare parallel un
  iverse where without her\, things could be much\, much...\n\nhttps://www.i
- mdb.com/title/tt27619382/\n\nIMDb rating: 5.4
+ mdb.com/title/tt27619382/\n\nIMDb rating: 5.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -236,6 +208,32 @@ DTSTART;TZID=America/Los_Angeles:20231217T180000
 DTEND;TZID=America/Los_Angeles:20231217T203000
 DTSTAMP:20231218T015300Z
 UID:ci0005472-tt0038650--2023-12-17-18-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20231219T190000
+DTEND;TZID=America/Los_Angeles:20231219T213000
+DTSTAMP:20231220T025300Z
+UID:ci0005472-tt0038650--2023-12-19-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20231220T190000
+DTEND;TZID=America/Los_Angeles:20231220T213000
+DTSTAMP:20231221T025300Z
+UID:ci0005472-tt0038650--2023-12-20-19-0
 DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
   help a desperately frustrated businessman by showing him what life would 
  have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
