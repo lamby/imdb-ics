@@ -1,219 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231207T082021Z
+LAST-MODIFIED:20231208T083948Z
 NAME:The Light Cinema\, Cambridge
 X-WR-CALNAME:The Light Cinema\, Cambridge
-BEGIN:VEVENT
-SUMMARY:Extra Ordinary Man
-DTSTART;TZID=Europe/London:20231207T194500
-DTEND;TZID=Europe/London:20231207T220500
-DTSTAMP:20231207T194600Z
-UID:ci0959521-tt23846664--2023-12-7-19-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt23
- 846664/
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoleon
-DTSTART;TZID=Europe/London:20231207T140000
-DTEND;TZID=Europe/London:20231207T170000
-DTSTAMP:20231207T140100Z
-UID:ci0959521-tt13287846--2023-12-7-14-0
-DESCRIPTION:Duration: 2h 38m (158 mins)\n\nAn epic that details the checke
- red rise and fall of French Emperor Napoleon Bonaparte and his relentless 
- journey to power through the prism of his addictive\, volatile relationshi
- p with his wife\, Josephine.\n\nhttps://www.imdb.com/title/tt13287846/\n\n
- IMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoleon
-DTSTART;TZID=Europe/London:20231207T195000
-DTEND;TZID=Europe/London:20231207T225000
-DTSTAMP:20231207T195100Z
-UID:ci0959521-tt13287846--2023-12-7-19-50
-DESCRIPTION:Duration: 2h 38m (158 mins)\n\nAn epic that details the checke
- red rise and fall of French Emperor Napoleon Bonaparte and his relentless 
- journey to power through the prism of his addictive\, volatile relationshi
- p with his wife\, Josephine.\n\nhttps://www.imdb.com/title/tt13287846/\n\n
- IMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoleon (IMAX)
-DTSTART;TZID=Europe/London:20231207T160000
-DTEND;TZID=Europe/London:20231207T190000
-DTSTAMP:20231207T160100Z
-UID:ci0959521-tt13287846-imax-2023-12-7-16-0
-DESCRIPTION:Duration: 2h 38m (158 mins)\n\nAn epic that details the checke
- red rise and fall of French Emperor Napoleon Bonaparte and his relentless 
- journey to power through the prism of his addictive\, volatile relationshi
- p with his wife\, Josephine.\n\nhttps://www.imdb.com/title/tt13287846/\n\n
- IMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231207T140000
-DTEND;TZID=Europe/London:20231207T163500
-DTSTAMP:20231207T140100Z
-UID:ci0959521-tt17351924--2023-12-7-14-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA student at Oxford University 
- finds himself drawn into the world of a charming and aristocratic classmat
- e\, who invites him to his eccentric family's sprawling estate for a summe
- r never to be forgotten.\n\nhttps://www.imdb.com/title/tt17351924/\n\nIMDb
-  rating: 7.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231207T170000
-DTEND;TZID=Europe/London:20231207T193500
-DTSTAMP:20231207T170100Z
-UID:ci0959521-tt17351924--2023-12-7-17-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA student at Oxford University 
- finds himself drawn into the world of a charming and aristocratic classmat
- e\, who invites him to his eccentric family's sprawling estate for a summe
- r never to be forgotten.\n\nhttps://www.imdb.com/title/tt17351924/\n\nIMDb
-  rating: 7.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231207T200000
-DTEND;TZID=Europe/London:20231207T223500
-DTSTAMP:20231207T200100Z
-UID:ci0959521-tt17351924--2023-12-7-20-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA student at Oxford University 
- finds himself drawn into the world of a charming and aristocratic classmat
- e\, who invites him to his eccentric family's sprawling estate for a summe
- r never to be forgotten.\n\nhttps://www.imdb.com/title/tt17351924/\n\nIMDb
-  rating: 7.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spirited
-DTSTART;TZID=Europe/London:20231207T191500
-DTEND;TZID=Europe/London:20231207T214500
-DTSTAMP:20231207T191600Z
-UID:ci0959521-tt10999120--2023-12-7-19-15
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nA musical version of Charles Di
- ckens's story of a miserly misanthrope who is taken on a magical journey.\
- n\nhttps://www.imdb.com/title/tt10999120/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
-DTSTART;TZID=Europe/London:20231207T152000
-DTEND;TZID=Europe/London:20231207T182000
-DTSTAMP:20231207T152100Z
-UID:ci0959521-tt10545296--2023-12-7-15-20
-DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
- elops feelings for the female District 12 tribute during the 10th Hunger G
- ames.\n\nhttps://www.imdb.com/title/tt10545296/\n\nIMDb rating: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
-DTSTART;TZID=Europe/London:20231207T184500
-DTEND;TZID=Europe/London:20231207T214500
-DTSTAMP:20231207T184600Z
-UID:ci0959521-tt10545296--2023-12-7-18-45
-DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
- elops feelings for the female District 12 tribute during the 10th Hunger G
- ames.\n\nhttps://www.imdb.com/title/tt10545296/\n\nIMDb rating: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marvels
-DTSTART;TZID=Europe/London:20231207T144500
-DTEND;TZID=Europe/London:20231207T165000
-DTSTAMP:20231207T144600Z
-UID:ci0959521-tt10676048--2023-12-7-14-45
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
- ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
- rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /\n\nIMDb rating: 6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Marvels
-DTSTART;TZID=Europe/London:20231207T171000
-DTEND;TZID=Europe/London:20231207T191500
-DTSTAMP:20231207T171100Z
-UID:ci0959521-tt10676048--2023-12-7-17-10
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nCarol Danvers gets her powers e
- ntangled with those of Kamala Khan and Monica Rambeau\, forcing them to wo
- rk together to save the universe.\n\nhttps://www.imdb.com/title/tt10676048
- /\n\nIMDb rating: 6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Peasants
-DTSTART;TZID=Europe/London:20231207T171500
-DTEND;TZID=Europe/London:20231207T193000
-DTSTAMP:20231207T171600Z
-UID:ci0959521-tt10651230--2023-12-7-17-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nJagna is a young woman determin
- ed to forge her own path in a late 19th century Polish village - a hotbed 
- of gossip and on-going feuds\, held together\, rich and poor\, by adherenc
- e to colorful traditions and deep-rooted patriarchy.\n\nhttps://www.imdb.c
- om/title/tt10651230/\n\nIMDb rating: 8.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231207T142000
-DTEND;TZID=Europe/London:20231207T161500
-DTSTAMP:20231207T142100Z
-UID:ci0959521-tt11304740--2023-12-7-14-20
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
- n a star and gets a more direct answer than she bargained for when a troub
- le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
- m/title/tt11304740/\n\nIMDb rating: 5.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231207T164500
-DTEND;TZID=Europe/London:20231207T184000
-DTSTAMP:20231207T164600Z
-UID:ci0959521-tt11304740--2023-12-7-16-45
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
- n a star and gets a more direct answer than she bargained for when a troub
- le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
- m/title/tt11304740/\n\nIMDb rating: 5.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231207T180000
-DTEND;TZID=Europe/London:20231207T195500
-DTSTAMP:20231207T180100Z
-UID:ci0959521-tt11304740--2023-12-7-18-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
- n a star and gets a more direct answer than she bargained for when a troub
- le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
- m/title/tt11304740/\n\nIMDb rating: 5.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Animal
 DTSTART;TZID=Europe/London:20231208T185000
@@ -224,7 +14,7 @@ DESCRIPTION:Duration: 3h 24m (204 mins)\n\nA son's love for his father. Of
  ten away due to work the father is unable to comprehend the intensity of h
  is son's love. Ironically\, this fervent love and admiration for his fathe
  r and family creates conflict between the father and...\n\nhttps://www.imd
- b.com/title/tt13751694/\n\nIMDb rating: 7.3
+ b.com/title/tt13751694/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -408,7 +198,7 @@ UID:ci0959521-tt6166392--2023-12-8-11-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -421,7 +211,7 @@ UID:ci0959521-tt6166392--2023-12-8-13-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -434,7 +224,7 @@ UID:ci0959521-tt6166392--2023-12-8-15-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -447,7 +237,7 @@ UID:ci0959521-tt6166392--2023-12-8-17-40
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -460,7 +250,7 @@ UID:ci0959521-tt6166392--2023-12-8-18-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -473,7 +263,7 @@ UID:ci0959521-tt6166392--2023-12-8-20-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -486,7 +276,7 @@ UID:ci0959521-tt6166392-imax-2023-12-8-11-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -499,7 +289,7 @@ UID:ci0959521-tt6166392-imax-2023-12-8-14-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -512,7 +302,7 @@ UID:ci0959521-tt6166392-imax-2023-12-8-16-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -525,7 +315,7 @@ UID:ci0959521-tt6166392-imax-2023-12-8-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -539,7 +329,7 @@ DESCRIPTION:Duration: 3h 24m (204 mins)\n\nA son's love for his father. Of
  ten away due to work the father is unable to comprehend the intensity of h
  is son's love. Ironically\, this fervent love and admiration for his fathe
  r and family creates conflict between the father and...\n\nhttps://www.imd
- b.com/title/tt13751694/\n\nIMDb rating: 7.3
+ b.com/title/tt13751694/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -748,7 +538,7 @@ UID:ci0959521-tt6166392--2023-12-9-12-10
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -761,7 +551,7 @@ UID:ci0959521-tt6166392--2023-12-9-13-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -774,7 +564,7 @@ UID:ci0959521-tt6166392--2023-12-9-14-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -787,7 +577,7 @@ UID:ci0959521-tt6166392--2023-12-9-15-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -800,7 +590,7 @@ UID:ci0959521-tt6166392--2023-12-9-17-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -813,7 +603,7 @@ UID:ci0959521-tt6166392--2023-12-9-18-40
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -826,7 +616,7 @@ UID:ci0959521-tt6166392-imax-2023-12-9-11-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -839,7 +629,7 @@ UID:ci0959521-tt6166392-imax-2023-12-9-14-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -852,7 +642,7 @@ UID:ci0959521-tt6166392-imax-2023-12-9-16-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -865,7 +655,7 @@ UID:ci0959521-tt6166392-imax-2023-12-9-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -879,7 +669,7 @@ DESCRIPTION:Duration: 3h 24m (204 mins)\n\nA son's love for his father. Of
  ten away due to work the father is unable to comprehend the intensity of h
  is son's love. Ironically\, this fervent love and admiration for his fathe
  r and family creates conflict between the father and...\n\nhttps://www.imd
- b.com/title/tt13751694/\n\nIMDb rating: 7.3
+ b.com/title/tt13751694/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1129,7 +919,7 @@ UID:ci0959521-tt6166392--2023-12-10-10-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1142,7 +932,7 @@ UID:ci0959521-tt6166392--2023-12-10-13-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1155,7 +945,7 @@ UID:ci0959521-tt6166392--2023-12-10-14-50
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1168,7 +958,7 @@ UID:ci0959521-tt6166392--2023-12-10-15-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1181,7 +971,7 @@ UID:ci0959521-tt6166392--2023-12-10-17-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1194,7 +984,7 @@ UID:ci0959521-tt6166392--2023-12-10-18-40
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1207,7 +997,7 @@ UID:ci0959521-tt6166392-imax-2023-12-10-11-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1220,7 +1010,7 @@ UID:ci0959521-tt6166392-imax-2023-12-10-14-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1233,7 +1023,7 @@ UID:ci0959521-tt6166392-imax-2023-12-10-16-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1246,7 +1036,7 @@ UID:ci0959521-tt6166392-imax-2023-12-10-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1260,7 +1050,7 @@ DESCRIPTION:Duration: 3h 24m (204 mins)\n\nA son's love for his father. Of
  ten away due to work the father is unable to comprehend the intensity of h
  is son's love. Ironically\, this fervent love and admiration for his fathe
  r and family creates conflict between the father and...\n\nhttps://www.imd
- b.com/title/tt13751694/\n\nIMDb rating: 7.3
+ b.com/title/tt13751694/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1404,7 +1194,7 @@ UID:ci0959521-tt6166392--2023-12-11-15-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1417,7 +1207,7 @@ UID:ci0959521-tt6166392--2023-12-11-18-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1430,7 +1220,7 @@ UID:ci0959521-tt6166392-imax-2023-12-11-14-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1443,7 +1233,7 @@ UID:ci0959521-tt6166392-imax-2023-12-11-16-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1456,7 +1246,7 @@ UID:ci0959521-tt6166392-imax-2023-12-11-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1470,7 +1260,7 @@ DESCRIPTION:Duration: 3h 24m (204 mins)\n\nA son's love for his father. Of
  ten away due to work the father is unable to comprehend the intensity of h
  is son's love. Ironically\, this fervent love and admiration for his fathe
  r and family creates conflict between the father and...\n\nhttps://www.imd
- b.com/title/tt13751694/\n\nIMDb rating: 7.3
+ b.com/title/tt13751694/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1613,7 +1403,7 @@ UID:ci0959521-tt6166392--2023-12-12-15-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1626,7 +1416,7 @@ UID:ci0959521-tt6166392--2023-12-12-18-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1639,7 +1429,7 @@ UID:ci0959521-tt6166392-imax-2023-12-12-14-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1652,7 +1442,7 @@ UID:ci0959521-tt6166392-imax-2023-12-12-16-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1665,7 +1455,7 @@ UID:ci0959521-tt6166392-imax-2023-12-12-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1679,7 +1469,7 @@ DESCRIPTION:Duration: 3h 24m (204 mins)\n\nA son's love for his father. Of
  ten away due to work the father is unable to comprehend the intensity of h
  is son's love. Ironically\, this fervent love and admiration for his fathe
  r and family creates conflict between the father and...\n\nhttps://www.imd
- b.com/title/tt13751694/\n\nIMDb rating: 7.3
+ b.com/title/tt13751694/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1699,10 +1489,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Napoleon
-DTSTART;TZID=Europe/London:20231213T152000
-DTEND;TZID=Europe/London:20231213T182000
-DTSTAMP:20231213T152100Z
-UID:ci0959521-tt13287846--2023-12-13-15-20
+DTSTART;TZID=Europe/London:20231213T154000
+DTEND;TZID=Europe/London:20231213T184000
+DTSTAMP:20231213T154100Z
+UID:ci0959521-tt13287846--2023-12-13-15-40
 DESCRIPTION:Duration: 2h 38m (158 mins)\n\nAn epic that details the checke
  red rise and fall of French Emperor Napoleon Bonaparte and his relentless 
  journey to power through the prism of his addictive\, volatile relationshi
@@ -1713,10 +1503,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Napoleon
-DTSTART;TZID=Europe/London:20231213T184500
-DTEND;TZID=Europe/London:20231213T214500
-DTSTAMP:20231213T184600Z
-UID:ci0959521-tt13287846--2023-12-13-18-45
+DTSTART;TZID=Europe/London:20231213T191000
+DTEND;TZID=Europe/London:20231213T221000
+DTSTAMP:20231213T191100Z
+UID:ci0959521-tt13287846--2023-12-13-19-10
 DESCRIPTION:Duration: 2h 38m (158 mins)\n\nAn epic that details the checke
  red rise and fall of French Emperor Napoleon Bonaparte and his relentless 
  journey to power through the prism of his addictive\, volatile relationshi
@@ -1755,10 +1545,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
-DTSTART;TZID=Europe/London:20231213T115000
-DTEND;TZID=Europe/London:20231213T145000
-DTSTAMP:20231213T115100Z
-UID:ci0959521-tt10545296--2023-12-13-11-50
+DTSTART;TZID=Europe/London:20231213T121000
+DTEND;TZID=Europe/London:20231213T151000
+DTSTAMP:20231213T121100Z
+UID:ci0959521-tt10545296--2023-12-13-12-10
 DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/\n\nIMDb rating: 7.2
@@ -1767,10 +1557,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
-DTSTART;TZID=Europe/London:20231213T151500
-DTEND;TZID=Europe/London:20231213T181500
-DTSTAMP:20231213T151600Z
-UID:ci0959521-tt10545296--2023-12-13-15-15
+DTSTART;TZID=Europe/London:20231213T153500
+DTEND;TZID=Europe/London:20231213T183500
+DTSTAMP:20231213T153600Z
+UID:ci0959521-tt10545296--2023-12-13-15-35
 DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/\n\nIMDb rating: 7.2
@@ -1779,10 +1569,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: The Ballad of Songbirds & Snakes
-DTSTART;TZID=Europe/London:20231213T183000
-DTEND;TZID=Europe/London:20231213T213000
-DTSTAMP:20231213T183100Z
-UID:ci0959521-tt10545296--2023-12-13-18-30
+DTSTART;TZID=Europe/London:20231213T190000
+DTEND;TZID=Europe/London:20231213T220000
+DTSTAMP:20231213T190100Z
+UID:ci0959521-tt10545296--2023-12-13-19-0
 DESCRIPTION:Duration: 2h 37m (157 mins)\n\nCoriolanus Snow mentors and dev
  elops feelings for the female District 12 tribute during the 10th Hunger G
  ames.\n\nhttps://www.imdb.com/title/tt10545296/\n\nIMDb rating: 7.2
@@ -1862,7 +1652,7 @@ UID:ci0959521-tt6166392--2023-12-13-10-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1875,7 +1665,7 @@ UID:ci0959521-tt6166392--2023-12-13-13-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1888,7 +1678,7 @@ UID:ci0959521-tt6166392--2023-12-13-15-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1901,7 +1691,7 @@ UID:ci0959521-tt6166392--2023-12-13-17-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1914,7 +1704,7 @@ UID:ci0959521-tt6166392--2023-12-13-18-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1927,7 +1717,7 @@ UID:ci0959521-tt6166392--2023-12-13-20-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1940,7 +1730,7 @@ UID:ci0959521-tt6166392-imax-2023-12-13-11-20
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1953,7 +1743,7 @@ UID:ci0959521-tt6166392-imax-2023-12-13-14-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1966,7 +1756,7 @@ UID:ci0959521-tt6166392-imax-2023-12-13-16-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1979,7 +1769,7 @@ UID:ci0959521-tt6166392-imax-2023-12-13-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2188,7 +1978,7 @@ UID:ci0959521-tt6166392--2023-12-14-13-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2201,7 +1991,7 @@ UID:ci0959521-tt6166392--2023-12-14-15-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2214,7 +2004,7 @@ UID:ci0959521-tt6166392--2023-12-14-18-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2227,7 +2017,7 @@ UID:ci0959521-tt6166392-imax-2023-12-14-14-0
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2240,7 +2030,7 @@ UID:ci0959521-tt6166392-imax-2023-12-14-16-45
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2253,7 +2043,7 @@ UID:ci0959521-tt6166392-imax-2023-12-14-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
  n a city renowned for its chocolate\, a young and poor Willy Wonka discove
  rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.6
+ /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2361,7 +2151,7 @@ UID:ci0959521-tt13097932--2023-12-17-15-0
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nFollows British humanitarian Ni
  cholas Winton\, who helped save hundreds of Central European children from
   the Nazis on the eve of World War II.\n\nhttps://www.imdb.com/title/tt130
- 97932/\n\nIMDb rating: 7.5
+ 97932/\n\nIMDb rating: 7.4
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2484,6 +2274,73 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nD'Artagnan is forced to join fo
  t as war is declared and Athos\, Porthos and Aramis have already joined th
  e front\, a secret from the past shatters old alliances.\n\nhttps://www.im
  db.com/title/tt12672620/\n\nIMDb rating: 7.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231221T130000
+DTEND;TZID=Europe/London:20231221T151500
+DTSTAMP:20231221T130100Z
+UID:ci0959521-tt9663764--2023-12-21-13-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nAquaman balances his duties as 
+ king and as a member of the Justice League\, all while planning a wedding.
+  Black Manta is on the hunt for Atlantean tech to help rebuild his armor. 
+ Orm plots to escape his Atlantean prison.\n\nhttps://www.imdb.com/title/tt
+ 9663764/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231221T160000
+DTEND;TZID=Europe/London:20231221T181500
+DTSTAMP:20231221T160100Z
+UID:ci0959521-tt9663764--2023-12-21-16-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nAquaman balances his duties as 
+ king and as a member of the Justice League\, all while planning a wedding.
+  Black Manta is on the hunt for Atlantean tech to help rebuild his armor. 
+ Orm plots to escape his Atlantean prison.\n\nhttps://www.imdb.com/title/tt
+ 9663764/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231221T190000
+DTEND;TZID=Europe/London:20231221T211500
+DTSTAMP:20231221T190100Z
+UID:ci0959521-tt9663764--2023-12-21-19-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nAquaman balances his duties as 
+ king and as a member of the Justice League\, all while planning a wedding.
+  Black Manta is on the hunt for Atlantean tech to help rebuild his armor. 
+ Orm plots to escape his Atlantean prison.\n\nhttps://www.imdb.com/title/tt
+ 9663764/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231221T193000
+DTEND;TZID=Europe/London:20231221T223000
+DTSTAMP:20231221T193100Z
+UID:ci0959521-tt15428134--2023-12-21-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nFour friends from a village in 
+ Punjab share a common dream: to go to England. Their problem is that they 
+ have neither the visa nor the ticket. A soldier promises to take them to t
+ he land of their dreams.\n\nhttps://www.imdb.com/title/tt15428134/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salaar
+DTSTART;TZID=Europe/London:20231221T194500
+DTEND;TZID=Europe/London:20231221T225500
+DTSTAMP:20231221T194600Z
+UID:ci0959521-tt13927994--2023-12-21-19-45
+DESCRIPTION:Duration: 2h 50m (170 mins)\n\nA gang leader tries to keep a p
+ romise made to his dying friend and takes on the other criminal gangs.\n\n
+ https://www.imdb.com/title/tt13927994/
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
