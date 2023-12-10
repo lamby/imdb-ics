@@ -1,74 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231208T083935Z
+LAST-MODIFIED:20231210T101658Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Knife
-DTSTART;TZID=America/Los_Angeles:20231208T213000
-DTEND;TZID=America/Los_Angeles:20231208T232000
-DTSTAMP:20231209T052300Z
-UID:ci0005472-tt27619382--2023-12-8-21-30
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAfter saving her town from a psy
- chotic killer\, Winnie Carruthers' life is less than wonderful. When she w
- ishes she'd never been born\, she finds herself in a nightmare parallel un
- iverse where without her\, things could be much\, much...\n\nhttps://www.i
- mdb.com/title/tt27619382/\n\nIMDb rating: 5.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20231208T184500
-DTEND;TZID=America/Los_Angeles:20231208T211500
-DTSTAMP:20231209T023800Z
-UID:ci0005472-tt0038650--2023-12-8-18-45
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cade: The Tortured Crossing
-DTSTART;TZID=America/Los_Angeles:20231209T211500
-DTEND;TZID=America/Los_Angeles:20231209T231500
-DTSTAMP:20231210T050800Z
-UID:ci0005472-tt24786094--2023-12-9-21-15
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
-  twin brother who restores an old mysterious mental asylum. He takes it up
- on himself to mystically train the patients as warriors for humanity and j
- ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20231209T160000
-DTEND;TZID=America/Los_Angeles:20231209T183000
-DTSTAMP:20231209T235300Z
-UID:ci0005472-tt0038650--2023-12-9-16-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Heat (1953)
-DTSTART;TZID=America/Los_Angeles:20231209T190000
-DTEND;TZID=America/Los_Angeles:20231209T205000
-DTSTAMP:20231210T025300Z
-UID:ci0005472-tt0045555--2023-12-9-19-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nTough cop Dave Bannion takes on 
- a politically powerful crime syndicate.\n\nhttps://www.imdb.com/title/tt00
- 45555/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Knife
 DTSTART;TZID=America/Los_Angeles:20231210T193000
@@ -234,6 +169,45 @@ DTSTART;TZID=America/Los_Angeles:20231221T190000
 DTEND;TZID=America/Los_Angeles:20231221T213000
 DTSTAMP:20231222T025300Z
 UID:ci0005472-tt0038650--2023-12-21-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20231222T190000
+DTEND;TZID=America/Los_Angeles:20231222T213000
+DTSTAMP:20231223T025300Z
+UID:ci0005472-tt0038650--2023-12-22-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20231223T160000
+DTEND;TZID=America/Los_Angeles:20231223T183000
+DTSTAMP:20231223T235300Z
+UID:ci0005472-tt0038650--2023-12-23-16-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20231223T190000
+DTEND;TZID=America/Los_Angeles:20231223T213000
+DTSTAMP:20231224T025300Z
+UID:ci0005472-tt0038650--2023-12-23-19-0
 DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
   help a desperately frustrated businessman by showing him what life would 
  have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
