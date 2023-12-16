@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231215T093533Z
+LAST-MODIFIED:20231216T093945Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20231215T184500
-DTEND;TZID=America/Los_Angeles:20231215T211500
-DTSTAMP:20231216T023800Z
-UID:ci0005472-tt0038650--2023-12-15-18-45
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20231216T150000
@@ -196,6 +183,19 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
   help a desperately frustrated businessman by showing him what life would 
  have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
  38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Dirt Roads Taste of Salt
+DTSTART;TZID=America/Los_Angeles:20231229T193000
+DTEND;TZID=America/Los_Angeles:20231229T212500
+DTSTAMP:20231230T032300Z
+UID:ci0005472-tt11534720--2023-12-29-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
+ f a woman's life in Mississippi and an ode to the generations of people\, 
+ places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
+ e/tt11534720/\n\nIMDb rating: 6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
