@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231216T093945Z
+LAST-MODIFIED:20231217T124246Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20231216T150000
-DTEND;TZID=America/Los_Angeles:20231216T173000
-DTSTAMP:20231216T225300Z
-UID:ci0005472-tt0038650--2023-12-16-15-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20231217T150000
@@ -196,6 +183,45 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
  f a woman's life in Mississippi and an ode to the generations of people\, 
  places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
  e/tt11534720/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Dirt Roads Taste of Salt
+DTSTART;TZID=America/Los_Angeles:20231230T160000
+DTEND;TZID=America/Los_Angeles:20231230T175500
+DTSTAMP:20231230T235300Z
+UID:ci0005472-tt11534720--2023-12-30-16-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
+ f a woman's life in Mississippi and an ode to the generations of people\, 
+ places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
+ e/tt11534720/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Dirt Roads Taste of Salt
+DTSTART;TZID=America/Los_Angeles:20231230T190000
+DTEND;TZID=America/Los_Angeles:20231230T205500
+DTSTAMP:20231231T025300Z
+UID:ci0005472-tt11534720--2023-12-30-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
+ f a woman's life in Mississippi and an ode to the generations of people\, 
+ places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
+ e/tt11534720/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cade: The Tortured Crossing
+DTSTART;TZID=America/Los_Angeles:20231230T211500
+DTEND;TZID=America/Los_Angeles:20231230T231500
+DTSTAMP:20231231T050800Z
+UID:ci0005472-tt24786094--2023-12-30-21-15
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNeil Breen stars as an identical
+  twin brother who restores an old mysterious mental asylum. He takes it up
+ on himself to mystically train the patients as warriors for humanity and j
+ ustice.\n\nhttps://www.imdb.com/title/tt24786094/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

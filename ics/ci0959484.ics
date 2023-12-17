@@ -1,125 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231216T093919Z
+LAST-MODIFIED:20231217T124221Z
 NAME:Arts Picturehouse\, Cambridge
 X-WR-CALNAME:Arts Picturehouse\, Cambridge
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231216T210000
-DTEND;TZID=Europe/London:20231216T233500
-DTSTAMP:20231216T210100Z
-UID:ci0959484-tt17351924--2023-12-16-21-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA student at Oxford University 
- finds himself drawn into the world of a charming and aristocratic classmat
- e\, who invites him to his eccentric family's sprawling estate for a summe
- r never to be forgotten.\n\nhttps://www.imdb.com/title/tt17351924/\n\nIMDb
-  rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gruffalo (2009)
-DTSTART;TZID=Europe/London:20231216T110000
-DTEND;TZID=Europe/London:20231216T115000
-DTSTAMP:20231216T110100Z
-UID:ci0959484-tt1461418--2023-12-16-11-0
-DESCRIPTION:Duration: 0h 27m (27 mins)\n\nA cunning mouse goes for a walk 
- in the forest\, and outwits a succession of predators.\n\nhttps://www.imdb
- .com/title/tt1461418/\n\nIMDb rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lord of the Rings: The Fellowship of the Ring (2001)
-DTSTART;TZID=Europe/London:20231216T110000
-DTEND;TZID=Europe/London:20231216T142000
-DTSTAMP:20231216T110100Z
-UID:ci0959484-tt0120737--2023-12-16-11-0
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nA meek Hobbit from the Shire an
- d eight companions set out on a journey to destroy the powerful One Ring a
- nd save Middle-earth from the Dark Lord Sauron.\n\nhttps://www.imdb.com/ti
- tle/tt0120737/\n\nIMDb rating: 8.8
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lost Boys
-DTSTART;TZID=Europe/London:20231216T160000
-DTEND;TZID=Europe/London:20231216T174500
-DTSTAMP:20231216T160100Z
-UID:ci0959484-tt16148552--2023-12-16-16-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nIn a juvenile reform center\, a 
- place governed by the prohibition of physical contact\, Joe and William fa
- ll in love. To love each other\, they will have to break the law.\n\nhttps
- ://www.imdb.com/title/tt16148552/\n\nIMDb rating: 6.9
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol (1992)
-DTSTART;TZID=Europe/London:20231216T110000
-DTEND;TZID=Europe/London:20231216T124500
-DTSTAMP:20231216T110100Z
-UID:ci0959484-tt0104940--2023-12-16-11-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nThe Muppets present their own to
- uching rendition of Charles Dickens' classic tale.\n\nhttps://www.imdb.com
- /title/tt0104940/\n\nIMDb rating: 7.8
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231216T122000
-DTEND;TZID=Europe/London:20231216T144000
-DTSTAMP:20231216T122100Z
-UID:ci0959484-tt6166392--2023-12-16-12-20
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231216T151000
-DTEND;TZID=Europe/London:20231216T173000
-DTSTAMP:20231216T151100Z
-UID:ci0959484-tt6166392--2023-12-16-15-10
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231216T182000
-DTEND;TZID=Europe/London:20231216T204000
-DTSTAMP:20231216T182100Z
-UID:ci0959484-tt6166392--2023-12-16-18-20
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231216T204500
-DTEND;TZID=Europe/London:20231216T230500
-DTSTAMP:20231216T204600Z
-UID:ci0959484-tt6166392--2023-12-16-20-45
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.4
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART;TZID=Europe/London:20231217T114000
@@ -195,18 +79,6 @@ DESCRIPTION:Duration: 1h 23m (83 mins)\n\nIn a juvenile reform center\, a
  place governed by the prohibition of physical contact\, Joe and William fa
  ll in love. To love each other\, they will have to break the law.\n\nhttps
  ://www.imdb.com/title/tt16148552/\n\nIMDb rating: 6.9
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol (1992)
-DTSTART;TZID=Europe/London:20231217T110000
-DTEND;TZID=Europe/London:20231217T124500
-DTSTAMP:20231217T110100Z
-UID:ci0959484-tt0104940--2023-12-17-11-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nThe Muppets present their own to
- uching rendition of Charles Dickens' classic tale.\n\nhttps://www.imdb.com
- /title/tt0104940/\n\nIMDb rating: 7.8
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -1035,6 +907,34 @@ DTSTART;TZID=Europe/London:20231229T174500
 DTEND;TZID=Europe/London:20231229T201000
 DTSTAMP:20231229T174600Z
 UID:ci0959484-tt6587046--2023-12-29-17-45
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA young boy named Mahito yearni
+ ng for his mother ventures into a world shared by the living and the dead.
+  There\, death comes to an end\, and life finds a new beginning. A semi-au
+ tobiographical fantasy from the mind of Hayao Miyazaki.\n\nhttps://www.imd
+ b.com/title/tt6587046/\n\nIMDb rating: 7.7
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy and the Heron
+DTSTART;TZID=Europe/London:20231230T150000
+DTEND;TZID=Europe/London:20231230T172500
+DTSTAMP:20231230T150100Z
+UID:ci0959484-tt6587046--2023-12-30-15-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA young boy named Mahito yearni
+ ng for his mother ventures into a world shared by the living and the dead.
+  There\, death comes to an end\, and life finds a new beginning. A semi-au
+ tobiographical fantasy from the mind of Hayao Miyazaki.\n\nhttps://www.imd
+ b.com/title/tt6587046/\n\nIMDb rating: 7.7
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy and the Heron
+DTSTART;TZID=Europe/London:20231230T174500
+DTEND;TZID=Europe/London:20231230T201000
+DTSTAMP:20231230T174600Z
+UID:ci0959484-tt6587046--2023-12-30-17-45
 DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA young boy named Mahito yearni
  ng for his mother ventures into a world shared by the living and the dead.
   There\, death comes to an end\, and life finds a new beginning. A semi-au
