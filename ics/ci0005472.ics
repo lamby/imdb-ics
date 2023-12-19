@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231218T084439Z
+LAST-MODIFIED:20231219T092043Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -205,6 +205,19 @@ DTSTART;TZID=America/Los_Angeles:20231231T160000
 DTEND;TZID=America/Los_Angeles:20231231T175500
 DTSTAMP:20231231T235300Z
 UID:ci0005472-tt11534720--2023-12-31-16-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
+ f a woman's life in Mississippi and an ode to the generations of people\, 
+ places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
+ e/tt11534720/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Dirt Roads Taste of Salt
+DTSTART;TZID=America/Los_Angeles:20240101T193000
+DTEND;TZID=America/Los_Angeles:20240101T212500
+DTSTAMP:20240102T032300Z
+UID:ci0005472-tt11534720--2024-1-1-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
  f a woman's life in Mississippi and an ode to the generations of people\, 
  places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
