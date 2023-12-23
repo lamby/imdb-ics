@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231222T101132Z
+LAST-MODIFIED:20231223T090053Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20231222T190000
-DTEND;TZID=America/Los_Angeles:20231222T213000
-DTSTAMP:20231223T025300Z
-UID:ci0005472-tt0038650--2023-12-22-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20231223T160000
@@ -222,6 +209,20 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
  f a woman's life in Mississippi and an ode to the generations of people\, 
  places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
  e/tt11534720/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Leaves
+DTSTART;TZID=America/Los_Angeles:20240105T193000
+DTEND;TZID=America/Los_Angeles:20240105T211500
+DTSTAMP:20240106T032300Z
+UID:ci0005472-tt21027780--2024-1-5-19-30
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
+ ely souls in search of love meet by chance in a karaoke bar. However\, the
+ ir path to happiness is beset by obstacles - from lost phone numbers to mi
+ staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
+ mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
