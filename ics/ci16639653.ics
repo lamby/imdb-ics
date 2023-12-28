@@ -1,101 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231227T114527Z
+LAST-MODIFIED:20231228T090801Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Boy and the Heron
-DTSTART;TZID=America/Los_Angeles:20231227T131500
-DTEND;TZID=America/Los_Angeles:20231227T154000
-DTSTAMP:20231227T210800Z
-UID:ci16639653-tt6587046--2023-12-27-13-15
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA young boy named Mahito yearni
- ng for his mother ventures into a world shared by the living and the dead.
-  There\, death comes to an end\, and life finds a new beginning. A semi-au
- tobiographical fantasy from the mind of Hayao Miyazaki.\n\nhttps://www.imd
- b.com/title/tt6587046/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20231227T133000
-DTEND;TZID=America/Los_Angeles:20231227T155500
-DTSTAMP:20231227T212300Z
-UID:ci16639653-tt1856080--2023-12-27-13-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20231227T163000
-DTEND;TZID=America/Los_Angeles:20231227T185500
-DTSTAMP:20231228T002300Z
-UID:ci16639653-tt1856080--2023-12-27-16-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20231227T193000
-DTEND;TZID=America/Los_Angeles:20231227T215500
-DTSTAMP:20231228T032300Z
-UID:ci16639653-tt1856080--2023-12-27-19-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Iron Claw
-DTSTART;TZID=America/Los_Angeles:20231227T130000
-DTEND;TZID=America/Los_Angeles:20231227T153500
-DTSTAMP:20231227T205300Z
-UID:ci16639653-tt21064584--2023-12-27-13-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nThe true story of the inseparab
- le Von Erich brothers\, who made history in the intensely competitive worl
- d of professional wrestling in the early 1980s.\n\nhttps://www.imdb.com/ti
- tle/tt21064584/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Iron Claw
-DTSTART;TZID=America/Los_Angeles:20231227T160000
-DTEND;TZID=America/Los_Angeles:20231227T183500
-DTSTAMP:20231227T235300Z
-UID:ci16639653-tt21064584--2023-12-27-16-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nThe true story of the inseparab
- le Von Erich brothers\, who made history in the intensely competitive worl
- d of professional wrestling in the early 1980s.\n\nhttps://www.imdb.com/ti
- tle/tt21064584/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Iron Claw
-DTSTART;TZID=America/Los_Angeles:20231227T190000
-DTEND;TZID=America/Los_Angeles:20231227T213500
-DTSTAMP:20231228T025300Z
-UID:ci16639653-tt21064584--2023-12-27-19-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nThe true story of the inseparab
- le Von Erich brothers\, who made history in the intensely competitive worl
- d of professional wrestling in the early 1980s.\n\nhttps://www.imdb.com/ti
- tle/tt21064584/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boy and the Heron
 DTSTART;TZID=America/Los_Angeles:20231228T131500
@@ -573,6 +481,32 @@ DTSTART;TZID=America/Los_Angeles:20240109T190000
 DTEND;TZID=America/Los_Angeles:20240109T212500
 DTSTAMP:20240110T025300Z
 UID:ci16639653-tt1856080--2024-1-9-19-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
+ he University of Washington's rowing team\, from their Depression-era begi
+ nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
+ m/title/tt1856080/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boys in the Boat
+DTSTART;TZID=America/Los_Angeles:20240110T160000
+DTEND;TZID=America/Los_Angeles:20240110T182500
+DTSTAMP:20240110T235300Z
+UID:ci16639653-tt1856080--2024-1-10-16-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
+ he University of Washington's rowing team\, from their Depression-era begi
+ nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
+ m/title/tt1856080/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boys in the Boat
+DTSTART;TZID=America/Los_Angeles:20240110T190000
+DTEND;TZID=America/Los_Angeles:20240110T212500
+DTSTAMP:20240111T025300Z
+UID:ci16639653-tt1856080--2024-1-10-19-0
 DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
  he University of Washington's rowing team\, from their Depression-era begi
  nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co

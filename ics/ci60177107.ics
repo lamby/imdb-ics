@@ -1,105 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231227T114535Z
+LAST-MODIFIED:20231228T090811Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=America/Los_Angeles:20231227T160000
-DTEND;TZID=America/Los_Angeles:20231227T184500
-DTSTAMP:20231227T235300Z
-UID:ci60177107-tt14230458--2023-12-27-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nThe incredible tale about the f
- antastical evolution of Bella Baxter\; a young woman brought back to life 
- by the brilliant and unorthodox scientist\, Dr. Godwin Baxter.\n\nhttps://
- www.imdb.com/title/tt14230458/\n\nIMDb rating: 8.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=America/Los_Angeles:20231227T191500
-DTEND;TZID=America/Los_Angeles:20231227T220000
-DTSTAMP:20231228T030800Z
-UID:ci60177107-tt14230458--2023-12-27-19-15
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nThe incredible tale about the f
- antastical evolution of Bella Baxter\; a young woman brought back to life 
- by the brilliant and unorthodox scientist\, Dr. Godwin Baxter.\n\nhttps://
- www.imdb.com/title/tt14230458/\n\nIMDb rating: 8.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20231227T133000
-DTEND;TZID=America/Los_Angeles:20231227T155500
-DTSTAMP:20231227T212300Z
-UID:ci60177107-tt1856080--2023-12-27-13-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20231227T163000
-DTEND;TZID=America/Los_Angeles:20231227T185500
-DTSTAMP:20231228T002300Z
-UID:ci60177107-tt1856080--2023-12-27-16-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20231227T193000
-DTEND;TZID=America/Los_Angeles:20231227T215500
-DTSTAMP:20231228T032300Z
-UID:ci60177107-tt1856080--2023-12-27-19-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=America/Los_Angeles:20231227T130000
-DTEND;TZID=America/Los_Angeles:20231227T152000
-DTSTAMP:20231227T205300Z
-UID:ci60177107-tt6166392--2023-12-27-13-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=America/Los_Angeles:20231227T161500
-DTEND;TZID=America/Los_Angeles:20231227T183500
-DTSTAMP:20231228T000800Z
-UID:ci60177107-tt6166392--2023-12-27-16-15
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=America/Los_Angeles:20231227T193000
-DTEND;TZID=America/Los_Angeles:20231227T215000
-DTSTAMP:20231228T032300Z
-UID:ci60177107-tt6166392--2023-12-27-19-30
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poor Things
 DTSTART;TZID=America/Los_Angeles:20231228T160000
@@ -358,6 +262,32 @@ DTSTART;TZID=America/Los_Angeles:20240109T190000
 DTEND;TZID=America/Los_Angeles:20240109T210500
 DTSTAMP:20240110T025300Z
 UID:ci60177107-tt21192142--2024-1-9-19-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA screenwriter drawn back to hi
+ s childhood home enters into a fledgling relationship with a mysterious ne
+ ighbor as he then discovers his parents appear to be living just as they w
+ ere on the day they died\, 30 years before.\n\nhttps://www.imdb.com/title/
+ tt21192142/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=America/Los_Angeles:20240110T161500
+DTEND;TZID=America/Los_Angeles:20240110T182000
+DTSTAMP:20240111T000800Z
+UID:ci60177107-tt21192142--2024-1-10-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA screenwriter drawn back to hi
+ s childhood home enters into a fledgling relationship with a mysterious ne
+ ighbor as he then discovers his parents appear to be living just as they w
+ ere on the day they died\, 30 years before.\n\nhttps://www.imdb.com/title/
+ tt21192142/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=America/Los_Angeles:20240110T190000
+DTEND;TZID=America/Los_Angeles:20240110T210500
+DTSTAMP:20240111T025300Z
+UID:ci60177107-tt21192142--2024-1-10-19-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA screenwriter drawn back to hi
  s childhood home enters into a fledgling relationship with a mysterious ne
  ighbor as he then discovers his parents appear to be living just as they w
