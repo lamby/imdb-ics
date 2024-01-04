@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240103T100329Z
+LAST-MODIFIED:20240104T103254Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:All Dirt Roads Taste of Salt
-DTSTART;TZID=America/Los_Angeles:20240103T193000
-DTEND;TZID=America/Los_Angeles:20240103T212500
-DTSTAMP:20240104T032300Z
-UID:ci0005472-tt11534720--2024-1-3-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
- f a woman's life in Mississippi and an ode to the generations of people\, 
- places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
- e/tt11534720/\n\nIMDb rating: 6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Dirt Roads Taste of Salt
 DTSTART;TZID=America/Los_Angeles:20240104T193000
@@ -26,7 +13,7 @@ UID:ci0005472-tt11534720--2024-1-4-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
  f a woman's life in Mississippi and an ode to the generations of people\, 
  places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
- e/tt11534720/\n\nIMDb rating: 6
+ e/tt11534720/\n\nIMDb rating: 5.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -261,6 +248,20 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
  ir path to happiness is beset by obstacles - from lost phone numbers to mi
  staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
  mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smoke Sauna Sisterhood
+DTSTART;TZID=America/Los_Angeles:20240117T193000
+DTEND;TZID=America/Los_Angeles:20240117T212000
+DTSTAMP:20240118T032300Z
+UID:ci0005472-tt23640230--2024-1-17-19-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
+ \, women share their innermost secrets and intimate experiences\, washing 
+ off the shame trapped in their bodies and regaining their strength through
+  a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
+ ating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
