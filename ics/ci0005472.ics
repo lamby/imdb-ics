@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240104T103254Z
+LAST-MODIFIED:20240105T084901Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:All Dirt Roads Taste of Salt
-DTSTART;TZID=America/Los_Angeles:20240104T193000
-DTEND;TZID=America/Los_Angeles:20240104T212500
-DTSTAMP:20240105T032300Z
-UID:ci0005472-tt11534720--2024-1-4-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA decades-spanning exploration o
- f a woman's life in Mississippi and an ode to the generations of people\, 
- places\, and ineffable moments that shape us.\n\nhttps://www.imdb.com/titl
- e/tt11534720/\n\nIMDb rating: 5.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fallen Leaves
 DTSTART;TZID=America/Los_Angeles:20240105T193000
@@ -262,6 +249,18 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
  off the shame trapped in their bodies and regaining their strength through
   a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
  ating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founders Day
+DTSTART;TZID=America/Los_Angeles:20240118T193000
+DTEND;TZID=America/Los_Angeles:20240118T214000
+DTSTAMP:20240119T032300Z
+UID:ci0005472-tt23785128--2024-1-18-19-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
+ ies of ominous killings in the days leading up to a heated mayoral electio
+ n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

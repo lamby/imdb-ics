@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240104T103408Z
+LAST-MODIFIED:20240105T085012Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20240104T163000
-DTEND;TZID=America/Los_Angeles:20240104T185500
-DTSTAMP:20240105T002300Z
-UID:ci16639653-tt1856080--2024-1-4-16-30
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boys in the Boat
-DTSTART;TZID=America/Los_Angeles:20240104T193000
-DTEND;TZID=America/Los_Angeles:20240104T215500
-DTSTAMP:20240105T032300Z
-UID:ci16639653-tt1856080--2024-1-4-19-30
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA 1930s-set story centered on t
- he University of Washington's rowing team\, from their Depression-era begi
- nnings to winning gold at the 1936 Berlin Olympics.\n\nhttps://www.imdb.co
- m/title/tt1856080/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boys in the Boat
 DTSTART;TZID=America/Los_Angeles:20240105T160000
