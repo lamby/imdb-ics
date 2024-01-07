@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240106T100134Z
+LAST-MODIFIED:20240107T113310Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-BEGIN:VEVENT
-SUMMARY:Verdi: Nabucco
-DTSTART;TZID=America/Los_Angeles:20240106T095500
-DTEND;TZID=America/Los_Angeles:20240106T132000
-DTSTAMP:20240106T174800Z
-UID:ci0001864-tt28136667--2024-1-6-9-55
-DESCRIPTION:Duration: 3h 05m (185 mins)\n\nA powerful play depicting Nebuc
- hadnezzar's (Nabucco) destruction of ancient Jerusalem.\n\nhttps://www.imd
- b.com/title/tt28136667/
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Verdi: Nabucco
 DTSTART;TZID=America/Los_Angeles:20240110T130000
