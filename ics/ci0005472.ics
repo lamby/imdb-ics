@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240107T113229Z
+LAST-MODIFIED:20240108T091806Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fallen Leaves
-DTSTART;TZID=America/Los_Angeles:20240107T140000
-DTEND;TZID=America/Los_Angeles:20240107T154500
-DTSTAMP:20240107T215300Z
-UID:ci0005472-tt21027780--2024-1-7-14-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
- ely souls in search of love meet by chance in a karaoke bar. However\, the
- ir path to happiness is beset by obstacles - from lost phone numbers to mi
- staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fallen Leaves
-DTSTART;TZID=America/Los_Angeles:20240107T193000
-DTEND;TZID=America/Los_Angeles:20240107T211500
-DTSTAMP:20240108T032300Z
-UID:ci0005472-tt21027780--2024-1-7-19-30
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
- ely souls in search of love meet by chance in a karaoke bar. However\, the
- ir path to happiness is beset by obstacles - from lost phone numbers to mi
- staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Abyss (1989)
-DTSTART;TZID=America/Los_Angeles:20240107T160000
-DTEND;TZID=America/Los_Angeles:20240107T184000
-DTSTAMP:20240107T235300Z
-UID:ci0005472-tt0096754--2024-1-7-16-0
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA civilian diving team is enlis
- ted to search for a lost nuclear submarine and faces danger while encounte
- ring an alien aquatic species.\n\nhttps://www.imdb.com/title/tt0096754/\n\
- nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Abyss (1989)
 DTSTART;TZID=America/Los_Angeles:20240108T190000
@@ -270,6 +229,33 @@ UID:ci0005472-tt23785128--2024-1-20-19-0
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
  ies of ominous killings in the days leading up to a heated mayoral electio
  n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Still Small Voice
+DTSTART;TZID=America/Los_Angeles:20240121T150000
+DTEND;TZID=America/Los_Angeles:20240121T165500
+DTSTAMP:20240121T225300Z
+UID:ci0005472-tt24079744--2024-1-21-15-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
+ gins a yearlong residency in spiritual care\, only to discover that to suc
+ cessfully tend to her patients\, she must look deep within herself.\n\nhtt
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Occupied City
+DTSTART;TZID=America/Los_Angeles:20240121T173000
+DTEND;TZID=America/Los_Angeles:20240121T220000
+DTSTAMP:20240122T012300Z
+UID:ci0005472-tt9573150--2024-1-21-17-30
+DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
+ ent in this excavation of the Nazi occupation of Amsterdam: a journey from
+  World War II to recent years of pandemic and protest and a provocative\, 
+ life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
+ db.com/title/tt9573150/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
