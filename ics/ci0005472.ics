@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240108T091806Z
+LAST-MODIFIED:20240109T100652Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Abyss (1989)
-DTSTART;TZID=America/Los_Angeles:20240108T190000
-DTEND;TZID=America/Los_Angeles:20240108T214000
-DTSTAMP:20240109T025300Z
-UID:ci0005472-tt0096754--2024-1-8-19-0
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA civilian diving team is enlis
- ted to search for a lost nuclear submarine and faces danger while encounte
- ring an alien aquatic species.\n\nhttps://www.imdb.com/title/tt0096754/\n\
- nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fallen Leaves
 DTSTART;TZID=America/Los_Angeles:20240109T193000
@@ -68,7 +55,7 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
  \, women share their innermost secrets and intimate experiences\, washing 
  off the shame trapped in their bodies and regaining their strength through
   a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
- ating: 7.5
+ ating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -124,7 +111,7 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
  \, women share their innermost secrets and intimate experiences\, washing 
  off the shame trapped in their bodies and regaining their strength through
   a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
- ating: 7.5
+ ating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -138,7 +125,7 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
  \, women share their innermost secrets and intimate experiences\, washing 
  off the shame trapped in their bodies and regaining their strength through
   a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
- ating: 7.5
+ ating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -166,7 +153,7 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
  \, women share their innermost secrets and intimate experiences\, washing 
  off the shame trapped in their bodies and regaining their strength through
   a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
- ating: 7.5
+ ating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -256,6 +243,18 @@ DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
   World War II to recent years of pandemic and protest and a provocative\, 
  life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
  db.com/title/tt9573150/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founders Day
+DTSTART;TZID=America/Los_Angeles:20240122T193000
+DTEND;TZID=America/Los_Angeles:20240122T214000
+DTSTAMP:20240123T032300Z
+UID:ci0005472-tt23785128--2024-1-22-19-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
+ ies of ominous killings in the days leading up to a heated mayoral electio
+ n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
