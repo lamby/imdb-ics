@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240109T100652Z
+LAST-MODIFIED:20240110T091139Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fallen Leaves
-DTSTART;TZID=America/Los_Angeles:20240109T193000
-DTEND;TZID=America/Los_Angeles:20240109T211500
-DTSTAMP:20240110T032300Z
-UID:ci0005472-tt21027780--2024-1-9-19-30
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
- ely souls in search of love meet by chance in a karaoke bar. However\, the
- ir path to happiness is beset by obstacles - from lost phone numbers to mi
- staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Abyss (1989)
 DTSTART;TZID=America/Los_Angeles:20240110T190000
@@ -255,6 +241,19 @@ UID:ci0005472-tt23785128--2024-1-22-19-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
  ies of ominous killings in the days leading up to a heated mayoral electio
  n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Still Small Voice
+DTSTART;TZID=America/Los_Angeles:20240123T193000
+DTEND;TZID=America/Los_Angeles:20240123T212500
+DTSTAMP:20240124T032300Z
+UID:ci0005472-tt24079744--2024-1-23-19-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
+ gins a yearlong residency in spiritual care\, only to discover that to suc
+ cessfully tend to her patients\, she must look deep within herself.\n\nhtt
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

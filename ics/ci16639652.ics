@@ -1,7 +1,55 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240109T100824Z
+LAST-MODIFIED:20240110T091321Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
+BEGIN:VEVENT
+SUMMARY:Exhibition on Screen: Klimt and The Kiss
+DTSTART;TZID=America/Los_Angeles:20240113T130000
+DTEND;TZID=America/Los_Angeles:20240113T145000
+DTSTAMP:20240113T205300Z
+UID:ci16639652-tt29661422--2024-1-13-13-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nExperts examine the qualities th
+ at make Gustav Klimt's painting 'The Kiss' the iconic and enduring work it
+  is.\n\nhttps://www.imdb.com/title/tt29661422/\n\nIMDb rating: 7.6
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
+ 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition on Screen: Klimt and The Kiss
+DTSTART;TZID=America/Los_Angeles:20240114T130000
+DTEND;TZID=America/Los_Angeles:20240114T145000
+DTSTAMP:20240114T205300Z
+UID:ci16639652-tt29661422--2024-1-14-13-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nExperts examine the qualities th
+ at make Gustav Klimt's painting 'The Kiss' the iconic and enduring work it
+  is.\n\nhttps://www.imdb.com/title/tt29661422/\n\nIMDb rating: 7.6
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
+ 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition on Screen: Klimt and The Kiss
+DTSTART;TZID=America/Los_Angeles:20240115T130000
+DTEND;TZID=America/Los_Angeles:20240115T145000
+DTSTAMP:20240115T205300Z
+UID:ci16639652-tt29661422--2024-1-15-13-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nExperts examine the qualities th
+ at make Gustav Klimt's painting 'The Kiss' the iconic and enduring work it
+  is.\n\nhttps://www.imdb.com/title/tt29661422/\n\nIMDb rating: 7.6
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
+ 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition on Screen: Klimt and The Kiss
+DTSTART;TZID=America/Los_Angeles:20240115T190000
+DTEND;TZID=America/Los_Angeles:20240115T205000
+DTSTAMP:20240116T025300Z
+UID:ci16639652-tt29661422--2024-1-15-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nExperts examine the qualities th
+ at make Gustav Klimt's painting 'The Kiss' the iconic and enduring work it
+  is.\n\nhttps://www.imdb.com/title/tt29661422/\n\nIMDb rating: 7.6
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
+ 9
+END:VEVENT
 END:VCALENDAR
