@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240110T091224Z
+LAST-MODIFIED:20240112T091725Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-BEGIN:VEVENT
-SUMMARY:Verdi: Nabucco
-DTSTART;TZID=America/Los_Angeles:20240110T130000
-DTEND;TZID=America/Los_Angeles:20240110T162500
-DTSTAMP:20240110T205300Z
-UID:ci0001864-tt28136667--2024-1-10-13-0
-DESCRIPTION:Duration: 3h 05m (185 mins)\n\nA powerful play depicting Nebuc
- hadnezzar's (Nabucco) destruction of ancient Jerusalem.\n\nhttps://www.imd
- b.com/title/tt28136667/
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Giselle: Ballet in Cinema
 DTSTART;TZID=America/Los_Angeles:20240121T150000
@@ -61,6 +49,17 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAn investigation into how Bisho
  p Michael Curry's teachings of unconditional\, sacrificial love are applie
  d in the wider community. Also interviews with well-known personalities an
  d common people.\n\nhttps://www.imdb.com/title/tt14116090/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giselle: Ballet in Cinema
+DTSTART;TZID=America/Los_Angeles:20240124T190000
+DTEND;TZID=America/Los_Angeles:20240124T212000
+DTSTAMP:20240125T025300Z
+UID:ci0001864-tt30797162--2024-1-24-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt30
+ 797162/
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  98052
 END:VEVENT

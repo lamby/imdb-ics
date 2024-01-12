@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240110T091139Z
+LAST-MODIFIED:20240112T091646Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Abyss (1989)
-DTSTART;TZID=America/Los_Angeles:20240110T190000
-DTEND;TZID=America/Los_Angeles:20240110T214000
-DTSTAMP:20240111T025300Z
-UID:ci0005472-tt0096754--2024-1-10-19-0
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA civilian diving team is enlis
- ted to search for a lost nuclear submarine and faces danger while encounte
- ring an alien aquatic species.\n\nhttps://www.imdb.com/title/tt0096754/\n\
- nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fallen Leaves
-DTSTART;TZID=America/Los_Angeles:20240111T193000
-DTEND;TZID=America/Los_Angeles:20240111T211500
-DTSTAMP:20240112T032300Z
-UID:ci0005472-tt21027780--2024-1-11-19-30
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
- ely souls in search of love meet by chance in a karaoke bar. However\, the
- ir path to happiness is beset by obstacles - from lost phone numbers to mi
- staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smoke Sauna Sisterhood
 DTSTART;TZID=America/Los_Angeles:20240112T193000
@@ -164,7 +137,7 @@ UID:ci0005472-tt24079744--2024-1-19-19-0
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
  gins a yearlong residency in spiritual care\, only to discover that to suc
  cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.2
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -189,7 +162,7 @@ UID:ci0005472-tt24079744--2024-1-20-16-30
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
  gins a yearlong residency in spiritual care\, only to discover that to suc
  cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.2
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -214,7 +187,7 @@ UID:ci0005472-tt24079744--2024-1-21-15-0
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
  gins a yearlong residency in spiritual care\, only to discover that to suc
  cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.2
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -253,7 +226,19 @@ UID:ci0005472-tt24079744--2024-1-23-19-30
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
  gins a yearlong residency in spiritual care\, only to discover that to suc
  cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.2
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Founders Day
+DTSTART;TZID=America/Los_Angeles:20240124T193000
+DTEND;TZID=America/Los_Angeles:20240124T214000
+DTSTAMP:20240125T032300Z
+UID:ci0005472-tt23785128--2024-1-24-19-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
+ ies of ominous killings in the days leading up to a heated mayoral electio
+ n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
