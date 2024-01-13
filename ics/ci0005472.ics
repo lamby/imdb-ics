@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240112T091646Z
+LAST-MODIFIED:20240113T093454Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Smoke Sauna Sisterhood
-DTSTART;TZID=America/Los_Angeles:20240112T193000
-DTEND;TZID=America/Los_Angeles:20240112T212000
-DTSTAMP:20240113T032300Z
-UID:ci0005472-tt23640230--2024-1-12-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
- \, women share their innermost secrets and intimate experiences\, washing 
- off the shame trapped in their bodies and regaining their strength through
-  a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
- ating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fallen Leaves
 DTSTART;TZID=America/Los_Angeles:20240113T160000
@@ -239,6 +225,20 @@ UID:ci0005472-tt23785128--2024-1-24-19-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
  ies of ominous killings in the days leading up to a heated mayoral electio
  n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Disappearance of Shere Hite
+DTSTART;TZID=America/Los_Angeles:20240126T190000
+DTEND;TZID=America/Los_Angeles:20240126T212000
+DTSTAMP:20240127T025300Z
+UID:ci0005472-tt24078380--2024-1-26-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
+ he Hite Report liberated female orgasm by revealing the most private exper
+ iences of thousands of anonymous surveys. Her findings rocked the American
+  establishment and conversations about gender and s...\n\nhttps://www.imdb
+ .com/title/tt24078380/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
