@@ -1,79 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240113T093454Z
+LAST-MODIFIED:20240116T091538Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fallen Leaves
-DTSTART;TZID=America/Los_Angeles:20240113T160000
-DTEND;TZID=America/Los_Angeles:20240113T174500
-DTSTAMP:20240113T235300Z
-UID:ci0005472-tt21027780--2024-1-13-16-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
- ely souls in search of love meet by chance in a karaoke bar. However\, the
- ir path to happiness is beset by obstacles - from lost phone numbers to mi
- staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Occupied City
-DTSTART;TZID=America/Los_Angeles:20240113T180000
-DTEND;TZID=America/Los_Angeles:20240113T223000
-DTSTAMP:20240114T015300Z
-UID:ci0005472-tt9573150--2024-1-13-18-0
-DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
- ent in this excavation of the Nazi occupation of Amsterdam: a journey from
-  World War II to recent years of pandemic and protest and a provocative\, 
- life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
- db.com/title/tt9573150/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Occupied City
-DTSTART;TZID=America/Los_Angeles:20240114T140000
-DTEND;TZID=America/Los_Angeles:20240114T183000
-DTSTAMP:20240114T215300Z
-UID:ci0005472-tt9573150--2024-1-14-14-0
-DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
- ent in this excavation of the Nazi occupation of Amsterdam: a journey from
-  World War II to recent years of pandemic and protest and a provocative\, 
- life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
- db.com/title/tt9573150/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smoke Sauna Sisterhood
-DTSTART;TZID=America/Los_Angeles:20240114T193000
-DTEND;TZID=America/Los_Angeles:20240114T212000
-DTSTAMP:20240115T032300Z
-UID:ci0005472-tt23640230--2024-1-14-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
- \, women share their innermost secrets and intimate experiences\, washing 
- off the shame trapped in their bodies and regaining their strength through
-  a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
- ating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smoke Sauna Sisterhood
-DTSTART;TZID=America/Los_Angeles:20240115T193000
-DTEND;TZID=America/Los_Angeles:20240115T212000
-DTSTAMP:20240116T032300Z
-UID:ci0005472-tt23640230--2024-1-15-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nIn the darkness of a smoke sauna
- \, women share their innermost secrets and intimate experiences\, washing 
- off the shame trapped in their bodies and regaining their strength through
-  a sense of communion.\n\nhttps://www.imdb.com/title/tt23640230/\n\nIMDb r
- ating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fallen Leaves
 DTSTART;TZID=America/Los_Angeles:20240116T193000
@@ -238,7 +168,63 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
  he Hite Report liberated female orgasm by revealing the most private exper
  iences of thousands of anonymous surveys. Her findings rocked the American
   establishment and conversations about gender and s...\n\nhttps://www.imdb
- .com/title/tt24078380/\n\nIMDb rating: 7.6
+ .com/title/tt24078380/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Disappearance of Shere Hite
+DTSTART;TZID=America/Los_Angeles:20240127T161500
+DTEND;TZID=America/Los_Angeles:20240127T183500
+DTSTAMP:20240128T000800Z
+UID:ci0005472-tt24078380--2024-1-27-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
+ he Hite Report liberated female orgasm by revealing the most private exper
+ iences of thousands of anonymous surveys. Her findings rocked the American
+  establishment and conversations about gender and s...\n\nhttps://www.imdb
+ .com/title/tt24078380/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Occupied City
+DTSTART;TZID=America/Los_Angeles:20240128T173000
+DTEND;TZID=America/Los_Angeles:20240128T220000
+DTSTAMP:20240129T012300Z
+UID:ci0005472-tt9573150--2024-1-28-17-30
+DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
+ ent in this excavation of the Nazi occupation of Amsterdam: a journey from
+  World War II to recent years of pandemic and protest and a provocative\, 
+ life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
+ db.com/title/tt9573150/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Disappearance of Shere Hite
+DTSTART;TZID=America/Los_Angeles:20240128T150000
+DTEND;TZID=America/Los_Angeles:20240128T172000
+DTSTAMP:20240128T225300Z
+UID:ci0005472-tt24078380--2024-1-28-15-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
+ he Hite Report liberated female orgasm by revealing the most private exper
+ iences of thousands of anonymous surveys. Her findings rocked the American
+  establishment and conversations about gender and s...\n\nhttps://www.imdb
+ .com/title/tt24078380/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Disappearance of Shere Hite
+DTSTART;TZID=America/Los_Angeles:20240129T191500
+DTEND;TZID=America/Los_Angeles:20240129T213500
+DTSTAMP:20240130T030800Z
+UID:ci0005472-tt24078380--2024-1-29-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
+ he Hite Report liberated female orgasm by revealing the most private exper
+ iences of thousands of anonymous surveys. Her findings rocked the American
+  establishment and conversations about gender and s...\n\nhttps://www.imdb
+ .com/title/tt24078380/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
