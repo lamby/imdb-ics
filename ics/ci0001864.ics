@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240116T092618Z
+LAST-MODIFIED:20240118T185420Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
 BEGIN:VEVENT
@@ -108,6 +108,31 @@ DTSTART;TZID=America/Los_Angeles:20240129T193000
 DTEND;TZID=America/Los_Angeles:20240129T213500
 DTSTAMP:20240130T032300Z
 UID:ci0001864-tt0032138--2024-1-29-19-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nYoung Dorothy Gale and her dog 
+ Toto are swept away by a tornado from their Kansas farm to the magical Lan
+ d of Oz\, and embark on a quest with three new friends to see the Wizard\,
+  who can return her to her home and fulfill the other...\n\nhttps://www.im
+ db.com/title/tt0032138/\n\nIMDb rating: 8.1
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bizet: Carmen
+DTSTART;TZID=America/Los_Angeles:20240131T130000
+DTEND;TZID=America/Los_Angeles:20240131T170500
+DTSTAMP:20240131T205300Z
+UID:ci0001864-tt28136672--2024-1-31-13-0
+DESCRIPTION:Duration: 3h 45m (225 mins)\n\nhttps://www.imdb.com/title/tt28
+ 136672/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wizard of Oz (1939)
+DTSTART;TZID=America/Los_Angeles:20240131T193000
+DTEND;TZID=America/Los_Angeles:20240131T213500
+DTSTAMP:20240201T032300Z
+UID:ci0001864-tt0032138--2024-1-31-19-30
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nYoung Dorothy Gale and her dog 
  Toto are swept away by a tornado from their Kansas farm to the magical Lan
  d of Oz\, and embark on a quest with three new friends to see the Wizard\,
