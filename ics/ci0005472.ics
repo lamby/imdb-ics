@@ -1,71 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240118T211927Z
+LAST-MODIFIED:20240121T193533Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Founders Day
-DTSTART;TZID=America/Los_Angeles:20240118T193000
-DTEND;TZID=America/Los_Angeles:20240118T214000
-DTSTAMP:20240119T032300Z
-UID:ci0005472-tt23785128--2024-1-18-19-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
- ies of ominous killings in the days leading up to a heated mayoral electio
- n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Still Small Voice
-DTSTART;TZID=America/Los_Angeles:20240119T190000
-DTEND;TZID=America/Los_Angeles:20240119T205500
-DTSTAMP:20240120T025300Z
-UID:ci0005472-tt24079744--2024-1-19-19-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
- gins a yearlong residency in spiritual care\, only to discover that to suc
- cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Founders Day
-DTSTART;TZID=America/Los_Angeles:20240119T210000
-DTEND;TZID=America/Los_Angeles:20240119T231000
-DTSTAMP:20240120T045300Z
-UID:ci0005472-tt23785128--2024-1-19-21-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
- ies of ominous killings in the days leading up to a heated mayoral electio
- n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Still Small Voice
-DTSTART;TZID=America/Los_Angeles:20240120T163000
-DTEND;TZID=America/Los_Angeles:20240120T182500
-DTSTAMP:20240121T002300Z
-UID:ci0005472-tt24079744--2024-1-20-16-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
- gins a yearlong residency in spiritual care\, only to discover that to suc
- cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Founders Day
-DTSTART;TZID=America/Los_Angeles:20240120T190000
-DTEND;TZID=America/Los_Angeles:20240120T211000
-DTSTAMP:20240121T025300Z
-UID:ci0005472-tt23785128--2024-1-20-19-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
- ies of ominous killings in the days leading up to a heated mayoral electio
- n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Still Small Voice
 DTSTART;TZID=America/Los_Angeles:20240121T150000
@@ -75,7 +13,7 @@ UID:ci0005472-tt24079744--2024-1-21-15-0
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
  gins a yearlong residency in spiritual care\, only to discover that to suc
  cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -103,7 +41,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
  ely souls in search of love meet by chance in a karaoke bar. However\, the
  ir path to happiness is beset by obstacles - from lost phone numbers to mi
  staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
+ mdb.com/title/tt21027780/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -115,7 +53,7 @@ DTSTAMP:20240123T032300Z
 UID:ci0005472-tt23785128--2024-1-22-19-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
  ies of ominous killings in the days leading up to a heated mayoral electio
- n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.7
+ n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -128,7 +66,7 @@ UID:ci0005472-tt24079744--2024-1-23-19-30
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAn aspiring hospital chaplain be
  gins a yearlong residency in spiritual care\, only to discover that to suc
  cessfully tend to her patients\, she must look deep within herself.\n\nhtt
- ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7.1
+ ps://www.imdb.com/title/tt24079744/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -142,7 +80,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
  ely souls in search of love meet by chance in a karaoke bar. However\, the
  ir path to happiness is beset by obstacles - from lost phone numbers to mi
  staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
+ mdb.com/title/tt21027780/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -156,7 +94,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
  ely souls in search of love meet by chance in a karaoke bar. However\, the
  ir path to happiness is beset by obstacles - from lost phone numbers to mi
  staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
+ mdb.com/title/tt21027780/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -168,7 +106,7 @@ DTSTAMP:20240125T032300Z
 UID:ci0005472-tt23785128--2024-1-24-19-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
  ies of ominous killings in the days leading up to a heated mayoral electio
- n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.7
+ n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -182,7 +120,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
  ely souls in search of love meet by chance in a karaoke bar. However\, the
  ir path to happiness is beset by obstacles - from lost phone numbers to mi
  staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.6
+ mdb.com/title/tt21027780/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -267,6 +205,33 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
  iences of thousands of anonymous surveys. Her findings rocked the American
   establishment and conversations about gender and s...\n\nhttps://www.imdb
  .com/title/tt24078380/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20240202T190000
+DTEND;TZID=America/Los_Angeles:20240202T211500
+DTSTAMP:20240203T025300Z
+UID:ci0005472-tt0087763--2024-2-2-19-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA man who has struggled persona
+ lly has conflicts with his upwardly mobile lawyer brother and well to-do f
+ iancee and is reluctantly to be the best man at their wedding.\n\nhttps://
+ www.imdb.com/title/tt0087763/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Occupied City
+DTSTART;TZID=America/Los_Angeles:20240203T180000
+DTEND;TZID=America/Los_Angeles:20240203T223000
+DTSTAMP:20240204T015300Z
+UID:ci0005472-tt9573150--2024-2-3-18-0
+DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
+ ent in this excavation of the Nazi occupation of Amsterdam: a journey from
+  World War II to recent years of pandemic and protest and a provocative\, 
+ life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
+ db.com/title/tt9573150/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
