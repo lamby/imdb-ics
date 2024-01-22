@@ -109,7 +109,13 @@ class ImdbICS:
             "timezone": "America/Los_Angeles",
         },
         {
-            "name": "Cinemark Totem Lake and XD",
+            "name": "Cinemark Lincoln Square, Bellevue",
+            "address": "700 Bellevue Way NE, Bellevue WA 98004",
+            "id": "ci0014104",
+            "timezone": "America/Los_Angeles",
+        },
+        {
+            "name": "Cinemark Totem Lake, Kirkland",
             "address": "2600 120th Avenue NE, Kirkland WA 98034",
             "id": "ci1025162",
             "timezone": "America/Los_Angeles",
