@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240124T140927Z
+LAST-MODIFIED:20240125T154816Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fallen Leaves
-DTSTART;TZID=America/Los_Angeles:20240124T173000
-DTEND;TZID=America/Los_Angeles:20240124T191500
-DTSTAMP:20240125T012300Z
-UID:ci0005472-tt21027780--2024-1-24-17-30
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nIn modern-day Helsinki\, two lon
- ely souls in search of love meet by chance in a karaoke bar. However\, the
- ir path to happiness is beset by obstacles - from lost phone numbers to mi
- staken addresses\, alcoholism\, and a charming stray dog.\n\nhttps://www.i
- mdb.com/title/tt21027780/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Founders Day
-DTSTART;TZID=America/Los_Angeles:20240124T193000
-DTEND;TZID=America/Los_Angeles:20240124T214000
-DTSTAMP:20240125T032300Z
-UID:ci0005472-tt23785128--2024-1-24-19-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA small town is shaken by a ser
- ies of ominous killings in the days leading up to a heated mayoral electio
- n.\n\nhttps://www.imdb.com/title/tt23785128/\n\nIMDb rating: 4.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fallen Leaves
 DTSTART;TZID=America/Los_Angeles:20240125T173000
@@ -142,6 +116,17 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One from the Heart: Reprise
+DTSTART;TZID=America/Los_Angeles:20240202T210000
+DTEND;TZID=America/Los_Angeles:20240202T232000
+DTSTAMP:20240203T045300Z
+UID:ci0005472-tt30767670--2024-2-2-21-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt30
+ 767670/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Occupied City
 DTSTART;TZID=America/Los_Angeles:20240203T180000
 DTEND;TZID=America/Los_Angeles:20240203T223000
@@ -152,6 +137,17 @@ DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
   World War II to recent years of pandemic and protest and a provocative\, 
  life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
  db.com/title/tt9573150/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One from the Heart: Reprise
+DTSTART;TZID=America/Los_Angeles:20240203T160000
+DTEND;TZID=America/Los_Angeles:20240203T182000
+DTSTAMP:20240203T235300Z
+UID:ci0005472-tt30767670--2024-2-3-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt30
+ 767670/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -183,11 +179,46 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One from the Heart: Reprise
+DTSTART;TZID=America/Los_Angeles:20240204T193000
+DTEND;TZID=America/Los_Angeles:20240204T215000
+DTSTAMP:20240205T032300Z
+UID:ci0005472-tt30767670--2024-2-4-19-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt30
+ 767670/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (1983)
 DTSTART;TZID=America/Los_Angeles:20240205T193000
 DTEND;TZID=America/Los_Angeles:20240205T214500
 DTSTAMP:20240206T032300Z
 UID:ci0005472-tt0087763--2024-2-5-19-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA man who has struggled persona
+ lly has conflicts with his upwardly mobile lawyer brother and well to-do f
+ iancee and is reluctantly to be the best man at their wedding.\n\nhttps://
+ www.imdb.com/title/tt0087763/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One from the Heart: Reprise
+DTSTART;TZID=America/Los_Angeles:20240206T193000
+DTEND;TZID=America/Los_Angeles:20240206T215000
+DTSTAMP:20240207T032300Z
+UID:ci0005472-tt30767670--2024-2-6-19-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt30
+ 767670/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20240207T193000
+DTEND;TZID=America/Los_Angeles:20240207T214500
+DTSTAMP:20240208T032300Z
+UID:ci0005472-tt0087763--2024-2-7-19-30
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA man who has struggled persona
  lly has conflicts with his upwardly mobile lawyer brother and well to-do f
  iancee and is reluctantly to be the best man at their wedding.\n\nhttps://
