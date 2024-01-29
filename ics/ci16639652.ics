@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240126T161818Z
+LAST-MODIFIED:20240129T011917Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Romeo & Juliet (2021)
-DTSTART;TZID=America/Los_Angeles:20240127T130000
-DTEND;TZID=America/Los_Angeles:20240127T145500
-DTSTAMP:20240127T205300Z
-UID:ci16639652-tt13366258--2024-1-27-13-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAdaptation of Shakespeare's trag
- edy set in modern-day Italy where two young lovers strive to transcend a v
- iolent world where Catholic and secular values clash.\n\nhttps://www.imdb.
- com/title/tt13366258/\n\nIMDb rating: 7.4
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
- 9
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Romeo & Juliet (2021)
 DTSTART;TZID=America/Los_Angeles:20240128T130000
@@ -26,7 +13,7 @@ UID:ci16639652-tt13366258--2024-1-28-13-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAdaptation of Shakespeare's trag
  edy set in modern-day Italy where two young lovers strive to transcend a v
  iolent world where Catholic and secular values clash.\n\nhttps://www.imdb.
- com/title/tt13366258/\n\nIMDb rating: 7.4
+ com/title/tt13366258/\n\nIMDb rating: 7.3
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
  9
 END:VEVENT
@@ -39,7 +26,7 @@ UID:ci16639652-tt13366258--2024-1-29-19-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAdaptation of Shakespeare's trag
  edy set in modern-day Italy where two young lovers strive to transcend a v
  iolent world where Catholic and secular values clash.\n\nhttps://www.imdb.
- com/title/tt13366258/\n\nIMDb rating: 7.4
+ com/title/tt13366258/\n\nIMDb rating: 7.3
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
  9
 END:VEVENT
