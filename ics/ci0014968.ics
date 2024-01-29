@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240129T011820Z
+LAST-MODIFIED:20240129T152110Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Training Day (2001)
-DTSTART;TZID=America/Los_Angeles:20240128T150000
-DTEND;TZID=America/Los_Angeles:20240128T172500
-DTSTAMP:20240128T225300Z
-UID:ci0014968-tt0139654--2024-1-28-15-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA rookie cop spends his first d
- ay as a Los Angeles narcotics officer with a rogue detective who isn't wha
- t he appears to be.\n\nhttps://www.imdb.com/title/tt0139654/\n\nIMDb ratin
- g: 7.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stranger in My Own Skin
 DTSTART;TZID=America/Los_Angeles:20240131T193000
@@ -339,6 +326,19 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nIn 1936\, archaeologist and adv
  enturer Indiana Jones is hired by the U.S. government to find the Ark of t
  he Covenant before the Nazis can obtain its awesome powers.\n\nhttps://www
  .imdb.com/title/tt0082971/\n\nIMDb rating: 8.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casablanca (1942)
+DTSTART;TZID=America/Los_Angeles:20240211T150000
+DTEND;TZID=America/Los_Angeles:20240211T170500
+DTSTAMP:20240211T225300Z
+UID:ci0014968-tt0034583--2024-2-11-15-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA cynical expatriate American c
+ afe owner struggles to decide whether or not to help his former lover and 
+ her fugitive husband escape the Nazis in French Morocco.\n\nhttps://www.im
+ db.com/title/tt0034583/\n\nIMDb rating: 8.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT

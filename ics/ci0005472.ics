@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240129T011717Z
+LAST-MODIFIED:20240129T152020Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Occupied City
-DTSTART;TZID=America/Los_Angeles:20240128T150000
-DTEND;TZID=America/Los_Angeles:20240128T193000
-DTSTAMP:20240128T225300Z
-UID:ci0005472-tt9573150--2024-1-28-15-0
-DESCRIPTION:Duration: 4h 06m (246 mins)\n\nThe past collides with the pres
- ent in this excavation of the Nazi occupation of Amsterdam: a journey from
-  World War II to recent years of pandemic and protest and a provocative\, 
- life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
- db.com/title/tt9573150/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Disappearance of Shere Hite
-DTSTART;TZID=America/Los_Angeles:20240128T200000
-DTEND;TZID=America/Los_Angeles:20240128T222000
-DTSTAMP:20240129T035300Z
-UID:ci0005472-tt24078380--2024-1-28-20-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
- he Hite Report liberated female orgasm by revealing the most private exper
- iences of thousands of anonymous surveys. Her findings rocked the American
-  establishment and conversations about gender and s...\n\nhttps://www.imdb
- .com/title/tt24078380/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Disappearance of Shere Hite
 DTSTART;TZID=America/Los_Angeles:20240129T191500
