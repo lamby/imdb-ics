@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240129T152020Z
+LAST-MODIFIED:20240130T145824Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Disappearance of Shere Hite
-DTSTART;TZID=America/Los_Angeles:20240129T191500
-DTEND;TZID=America/Los_Angeles:20240129T213500
-DTSTAMP:20240130T030800Z
-UID:ci0005472-tt24078380--2024-1-29-19-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nShere Hite's bestselling book T
- he Hite Report liberated female orgasm by revealing the most private exper
- iences of thousands of anonymous surveys. Her findings rocked the American
-  establishment and conversations about gender and s...\n\nhttps://www.imdb
- .com/title/tt24078380/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Disappearance of Shere Hite
 DTSTART;TZID=America/Los_Angeles:20240131T191500
@@ -190,6 +176,19 @@ DTSTAMP:20240211T022300Z
 UID:ci0005472-tt13262926--2024-2-10-18-30
 DESCRIPTION:Duration: 0h 26m (26 mins)\n\nhttps://www.imdb.com/title/tt132
  62926/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She Is Conann
+DTSTART;TZID=America/Los_Angeles:20240212T191500
+DTEND;TZID=America/Los_Angeles:20240212T212000
+DTSTAMP:20240213T030800Z
+UID:ci0005472-tt16090596--2024-2-12-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nConan's life at different stage
+ s is shown with a different aesthetic and rhythm from the Sumerian era to 
+ the near future.\n\nhttps://www.imdb.com/title/tt16090596/\n\nIMDb rating:
+  6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

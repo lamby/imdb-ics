@@ -1,31 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240129T152149Z
+LAST-MODIFIED:20240130T150102Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Modern Times (1936)
-DTSTART;TZID=America/Los_Angeles:20240129T171500
-DTEND;TZID=America/Los_Angeles:20240129T190500
-DTSTAMP:20240130T010800Z
-UID:ci60177107-tt0027977--2024-1-29-17-15
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe Tramp struggles to live in m
- odern industrial society with the help of a young homeless woman.\n\nhttps
- ://www.imdb.com/title/tt0027977/\n\nIMDb rating: 8.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Kid (1921)
-DTSTART;TZID=America/Los_Angeles:20240129T193000
-DTEND;TZID=America/Los_Angeles:20240129T210000
-DTSTAMP:20240130T032300Z
-UID:ci60177107-tt0012349--2024-1-29-19-30
-DESCRIPTION:Duration: 1h 08m (68 mins)\n\nThe Tramp cares for an abandoned
-  child\, but events put their relationship in jeopardy.\n\nhttps://www.imd
- b.com/title/tt0012349/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:City Lights (1931)
 DTSTART;TZID=America/Los_Angeles:20240130T164500
