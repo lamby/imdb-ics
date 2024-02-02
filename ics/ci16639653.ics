@@ -1,89 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240201T154853Z
+LAST-MODIFIED:20240202T153751Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:American Fiction
-DTSTART;TZID=America/Los_Angeles:20240201T163000
-DTEND;TZID=America/Los_Angeles:20240201T185000
-DTSTAMP:20240202T002300Z
-UID:ci16639653-tt23561236--2024-2-1-16-30
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA novelist who's fed up with th
- e establishment profiting from &quot\;Black&quot\; entertainment uses a pe
- n name to write a book that propels him into the heart of hypocrisy and th
- e madness he claims to disdain.\n\nhttps://www.imdb.com/title/tt23561236/\
- n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Fiction
-DTSTART;TZID=America/Los_Angeles:20240201T191500
-DTEND;TZID=America/Los_Angeles:20240201T213500
-DTSTAMP:20240202T030800Z
-UID:ci16639653-tt23561236--2024-2-1-19-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA novelist who's fed up with th
- e establishment profiting from &quot\;Black&quot\; entertainment uses a pe
- n name to write a book that propels him into the heart of hypocrisy and th
- e madness he claims to disdain.\n\nhttps://www.imdb.com/title/tt23561236/\
- n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=America/Los_Angeles:20240201T154500
-DTEND;TZID=America/Los_Angeles:20240201T183000
-DTSTAMP:20240201T233800Z
-UID:ci16639653-tt14230458--2024-2-1-15-45
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nThe incredible tale about the f
- antastical evolution of Bella Baxter\, a young woman brought back to life 
- by the brilliant and unorthodox scientist Dr. Godwin Baxter.\n\nhttps://ww
- w.imdb.com/title/tt14230458/\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=America/Los_Angeles:20240201T190000
-DTEND;TZID=America/Los_Angeles:20240201T214500
-DTSTAMP:20240202T025300Z
-UID:ci16639653-tt14230458--2024-2-1-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nThe incredible tale about the f
- antastical evolution of Bella Baxter\, a young woman brought back to life 
- by the brilliant and unorthodox scientist Dr. Godwin Baxter.\n\nhttps://ww
- w.imdb.com/title/tt14230458/\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=America/Los_Angeles:20240201T161500
-DTEND;TZID=America/Los_Angeles:20240201T182000
-DTSTAMP:20240202T000800Z
-UID:ci16639653-tt7160372--2024-2-1-16-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe commandant of Auschwitz\, R
- udolf Höss\, and his wife Hedwig\, strive to build a dream life for their
-  family in a house and garden next to the camp.\n\nhttps://www.imdb.com/ti
- tle/tt7160372/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=America/Los_Angeles:20240201T193000
-DTEND;TZID=America/Los_Angeles:20240201T213500
-DTSTAMP:20240202T032300Z
-UID:ci16639653-tt7160372--2024-2-1-19-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe commandant of Auschwitz\, R
- udolf Höss\, and his wife Hedwig\, strive to build a dream life for their
-  family in a house and garden next to the camp.\n\nhttps://www.imdb.com/ti
- tle/tt7160372/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Zone of Interest
 DTSTART;TZID=America/Los_Angeles:20240202T161500
@@ -120,7 +40,7 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThe Pet Shop Boys perform hit s
  ongs like West End Girls\, Suburbia\, Opportunities\, and It's a Sin live 
  in concert in Copenhagen during their Dreamworld tour. The lavish concert 
  film features many of their classic tracks.\n\nhttps://www.imdb.com/title/
- tt30222532/\n\nIMDb rating: 8.2
+ tt30222532/\n\nIMDb rating: 8.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -134,7 +54,7 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThe Pet Shop Boys perform hit s
  ongs like West End Girls\, Suburbia\, Opportunities\, and It's a Sin live 
  in concert in Copenhagen during their Dreamworld tour. The lavish concert 
  film features many of their classic tracks.\n\nhttps://www.imdb.com/title/
- tt30222532/\n\nIMDb rating: 8.2
+ tt30222532/\n\nIMDb rating: 8.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -157,6 +77,32 @@ DTSTART;TZID=America/Los_Angeles:20240214T190000
 DTEND;TZID=America/Los_Angeles:20240214T213500
 DTSTAMP:20240215T025300Z
 UID:ci16639653-tt19760052--2024-2-14-19-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
+ med cook\, and Dodin\, the fine gourmet with whom she has been working for
+  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
+  rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=America/Los_Angeles:20240215T154500
+DTEND;TZID=America/Los_Angeles:20240215T182000
+DTSTAMP:20240215T233800Z
+UID:ci16639653-tt19760052--2024-2-15-15-45
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
+ med cook\, and Dodin\, the fine gourmet with whom she has been working for
+  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
+  rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=America/Los_Angeles:20240215T190000
+DTEND;TZID=America/Los_Angeles:20240215T213500
+DTSTAMP:20240216T025300Z
+UID:ci16639653-tt19760052--2024-2-15-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
  med cook\, and Dodin\, the fine gourmet with whom she has been working for
   over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
