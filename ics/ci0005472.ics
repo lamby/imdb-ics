@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240202T153638Z
+LAST-MODIFIED:20240203T160054Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:My Brother's Wedding (1983)
-DTSTART;TZID=America/Los_Angeles:20240202T190000
-DTEND;TZID=America/Los_Angeles:20240202T211500
-DTSTAMP:20240203T025300Z
-UID:ci0005472-tt0087763--2024-2-2-19-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA man who has struggled persona
- lly has conflicts with his upwardly mobile lawyer brother and well to-do f
- iancee and is reluctantly to be the best man at their wedding.\n\nhttps://
- www.imdb.com/title/tt0087763/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise
-DTSTART;TZID=America/Los_Angeles:20240202T210000
-DTEND;TZID=America/Los_Angeles:20240202T225500
-DTSTAMP:20240203T045300Z
-UID:ci0005472-tt30767670--2024-2-2-21-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nhttps://www.imdb.com/title/tt307
- 67670/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Occupied City
 DTSTART;TZID=America/Los_Angeles:20240203T180000
@@ -188,6 +164,20 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nConan's life at different stage
  s is shown with a different aesthetic and rhythm from the Sumerian era to 
  the near future.\n\nhttps://www.imdb.com/title/tt16090596/\n\nIMDb rating:
   6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fitting In
+DTSTART;TZID=America/Los_Angeles:20240216T191500
+DTEND;TZID=America/Los_Angeles:20240216T212000
+DTSTAMP:20240217T030800Z
+UID:ci0005472-tt21103576--2024-2-16-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA teen girl is diagnosed with a
+  reproductive condition that upends her plans to have a sex life\, propell
+ ing her to explore unusual methods. Her relationships are challenged with 
+ everyone in her life\, but most importantly\, herself.\n\nhttps://www.imdb
+ .com/title/tt21103576/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT

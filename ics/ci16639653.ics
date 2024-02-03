@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240202T153751Z
+LAST-MODIFIED:20240203T160203Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=America/Los_Angeles:20240202T161500
-DTEND;TZID=America/Los_Angeles:20240202T182000
-DTSTAMP:20240203T000800Z
-UID:ci16639653-tt7160372--2024-2-2-16-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe commandant of Auschwitz\, R
- udolf Höss\, and his wife Hedwig\, strive to build a dream life for their
-  family in a house and garden next to the camp.\n\nhttps://www.imdb.com/ti
- tle/tt7160372/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=America/Los_Angeles:20240202T193000
-DTEND;TZID=America/Los_Angeles:20240202T213500
-DTSTAMP:20240203T032300Z
-UID:ci16639653-tt7160372--2024-2-2-19-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe commandant of Auschwitz\, R
- udolf Höss\, and his wife Hedwig\, strive to build a dream life for their
-  family in a house and garden next to the camp.\n\nhttps://www.imdb.com/ti
- tle/tt7160372/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PET SHOP BOYS DREAMWORLD: THE HITS LIVE
 DTSTART;TZID=America/Los_Angeles:20240204T133000
@@ -40,7 +14,7 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThe Pet Shop Boys perform hit s
  ongs like West End Girls\, Suburbia\, Opportunities\, and It's a Sin live 
  in concert in Copenhagen during their Dreamworld tour. The lavish concert 
  film features many of their classic tracks.\n\nhttps://www.imdb.com/title/
- tt30222532/\n\nIMDb rating: 8.5
+ tt30222532/\n\nIMDb rating: 8.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -54,7 +28,7 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThe Pet Shop Boys perform hit s
  ongs like West End Girls\, Suburbia\, Opportunities\, and It's a Sin live 
  in concert in Copenhagen during their Dreamworld tour. The lavish concert 
  film features many of their classic tracks.\n\nhttps://www.imdb.com/title/
- tt30222532/\n\nIMDb rating: 8.5
+ tt30222532/\n\nIMDb rating: 8.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -103,6 +77,56 @@ DTSTART;TZID=America/Los_Angeles:20240215T190000
 DTEND;TZID=America/Los_Angeles:20240215T213500
 DTSTAMP:20240216T025300Z
 UID:ci16639653-tt19760052--2024-2-15-19-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
+ med cook\, and Dodin\, the fine gourmet with whom she has been working for
+  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
+  rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfect Days
+DTSTART;TZID=America/Los_Angeles:20240216T161500
+DTEND;TZID=America/Los_Angeles:20240216T184000
+DTSTAMP:20240217T000800Z
+UID:ci16639653-tt27503384--2024-2-16-16-15
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA janitor in Japan drives betwe
+ en jobs listening to rock music.\n\nhttps://www.imdb.com/title/tt27503384/
+ \n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfect Days
+DTSTART;TZID=America/Los_Angeles:20240216T191500
+DTEND;TZID=America/Los_Angeles:20240216T214000
+DTSTAMP:20240217T030800Z
+UID:ci16639653-tt27503384--2024-2-16-19-15
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nA janitor in Japan drives betwe
+ en jobs listening to rock music.\n\nhttps://www.imdb.com/title/tt27503384/
+ \n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=America/Los_Angeles:20240216T154500
+DTEND;TZID=America/Los_Angeles:20240216T182000
+DTSTAMP:20240216T233800Z
+UID:ci16639653-tt19760052--2024-2-16-15-45
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
+ med cook\, and Dodin\, the fine gourmet with whom she has been working for
+  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
+  rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=America/Los_Angeles:20240216T190000
+DTEND;TZID=America/Los_Angeles:20240216T213500
+DTSTAMP:20240217T025300Z
+UID:ci16639653-tt19760052--2024-2-16-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
  med cook\, and Dodin\, the fine gourmet with whom she has been working for
   over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
