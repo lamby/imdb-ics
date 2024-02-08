@@ -1,31 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240207T150338Z
+LAST-MODIFIED:20240208T154643Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Promised Land
-DTSTART;TZID=America/Los_Angeles:20240207T161500
-DTEND;TZID=America/Los_Angeles:20240207T184500
-DTSTAMP:20240208T000800Z
-UID:ci60177107-tt20561198--2024-2-7-16-15
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nThe story of Ludvig Kahlen who 
- pursued his lifelong dream: To make the heath bring him wealth and honor.\
- n\nhttps://www.imdb.com/title/tt20561198/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Promised Land
-DTSTART;TZID=America/Los_Angeles:20240207T191500
-DTEND;TZID=America/Los_Angeles:20240207T214500
-DTSTAMP:20240208T030800Z
-UID:ci60177107-tt20561198--2024-2-7-19-15
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nThe story of Ludvig Kahlen who 
- pursued his lifelong dream: To make the heath bring him wealth and honor.\
- n\nhttps://www.imdb.com/title/tt20561198/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Promised Land
 DTSTART;TZID=America/Los_Angeles:20240208T161500

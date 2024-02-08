@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240207T150236Z
+LAST-MODIFIED:20240208T154441Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Clean Slate (1981)
-DTSTART;TZID=America/Los_Angeles:20240207T193000
-DTEND;TZID=America/Los_Angeles:20240207T220000
-DTSTAMP:20240208T032300Z
-UID:ci1024213-tt0082206--2024-2-7-19-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nA pathetic police chief\, humil
- iated by everyone around him\, suddenly wants a clean slate in life - and 
- resorts to drastic means to do so.\n\nhttps://www.imdb.com/title/tt0082206
- /\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clean Slate (1981)
 DTSTART;TZID=America/Los_Angeles:20240208T193000
