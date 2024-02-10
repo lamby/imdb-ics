@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240209T151412Z
+LAST-MODIFIED:20240210T161607Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -214,6 +214,32 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA teen girl is diagnosed with a
  ing her to explore unusual methods. Her relationships are challenged with 
  everyone in her life\, but most importantly\, herself.\n\nhttps://www.imdb
  .com/title/tt21103576/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleopatra Jones (1973)
+DTSTART;TZID=America/Los_Angeles:20240223T211500
+DTEND;TZID=America/Los_Angeles:20240223T230500
+DTSTAMP:20240224T050800Z
+UID:ci0005472-tt0069890--2024-2-23-21-15
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDuring the 1970s\, U.S. Special 
+ Agent Cleopatra Jones proves to be an invaluable asset to the local police
+  forces in the war on drugs.\n\nhttps://www.imdb.com/title/tt0069890/\n\nI
+ MDb rating: 5.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Kills (1979)
+DTSTART;TZID=America/Los_Angeles:20240223T190000
+DTEND;TZID=America/Los_Angeles:20240223T210000
+DTSTAMP:20240224T025300Z
+UID:ci0005472-tt0080139--2024-2-23-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nThe younger brother of an assass
+ inated US President is led down a rabbit hole of conspiracies and dead end
+ s after learning of a man claiming to be the real shooter.\n\nhttps://www.
+ imdb.com/title/tt0080139/\n\nIMDb rating: 6.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
