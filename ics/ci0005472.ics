@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240211T182411Z
+LAST-MODIFIED:20240212T160913Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ DESCRIPTION:Duration: 4h 26m (266 mins)\n\nThe past collides with the pres
  ent in this excavation of the Nazi occupation of Amsterdam: a journey from
   World War II to recent years of pandemic and protest and a provocative\, 
  life-affirming reflection on memory\, time and what's...\n\nhttps://www.im
- db.com/title/tt9573150/\n\nIMDb rating: 7
+ db.com/title/tt9573150/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
@@ -229,6 +229,45 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDuring the 1970s\, U.S. Special
  Agent Cleopatra Jones proves to be an invaluable asset to the local police
   forces in the war on drugs.\n\nhttps://www.imdb.com/title/tt0069890/\n\nI
  MDb rating: 5.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claudine (1974)
+DTSTART;TZID=America/Los_Angeles:20240225T180000
+DTEND;TZID=America/Los_Angeles:20240225T195500
+DTSTAMP:20240226T015300Z
+UID:ci0005472-tt0071334--2024-2-25-18-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nIn the 1970s Harlem\, garbage co
+ llector Roop feels intimidated by the idea of dating Claudine who is a sin
+ gle mother of six on welfare.\n\nhttps://www.imdb.com/title/tt0071334/\n\n
+ IMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Kills (1979)
+DTSTART;TZID=America/Los_Angeles:20240225T154500
+DTEND;TZID=America/Los_Angeles:20240225T174500
+DTSTAMP:20240225T233800Z
+UID:ci0005472-tt0080139--2024-2-25-15-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nThe younger brother of an assass
+ inated US President is led down a rabbit hole of conspiracies and dead end
+ s after learning of a man claiming to be the real shooter.\n\nhttps://www.
+ imdb.com/title/tt0080139/\n\nIMDb rating: 6.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Kills (1979)
+DTSTART;TZID=America/Los_Angeles:20240225T201500
+DTEND;TZID=America/Los_Angeles:20240225T221500
+DTSTAMP:20240226T040800Z
+UID:ci0005472-tt0080139--2024-2-25-20-15
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nThe younger brother of an assass
+ inated US President is led down a rabbit hole of conspiracies and dead end
+ s after learning of a man claiming to be the real shooter.\n\nhttps://www.
+ imdb.com/title/tt0080139/\n\nIMDb rating: 6.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
