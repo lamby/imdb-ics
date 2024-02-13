@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240212T161143Z
+LAST-MODIFIED:20240213T171936Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:River's Edge (1986)
-DTSTART;TZID=America/Los_Angeles:20240212T190000
-DTEND;TZID=America/Los_Angeles:20240212T210000
-DTSTAMP:20240213T025300Z
-UID:ci16639653-tt0091860--2024-2-12-19-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA high school slacker commits a 
- shocking act and proceeds to let his friends in on the secret. However\, t
- he friends' reaction is almost as ambiguous and perplexing as the crime it
- self.\n\nhttps://www.imdb.com/title/tt0091860/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Taste of Things
 DTSTART;TZID=America/Los_Angeles:20240214T190000
@@ -24,9 +11,9 @@ DTEND;TZID=America/Los_Angeles:20240214T213500
 DTSTAMP:20240215T025300Z
 UID:ci16639653-tt19760052--2024-2-14-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -37,9 +24,9 @@ DTEND;TZID=America/Los_Angeles:20240215T182000
 DTSTAMP:20240215T233800Z
 UID:ci16639653-tt19760052--2024-2-15-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -50,9 +37,9 @@ DTEND;TZID=America/Los_Angeles:20240215T213500
 DTSTAMP:20240216T025300Z
 UID:ci16639653-tt19760052--2024-2-15-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -87,9 +74,9 @@ DTEND;TZID=America/Los_Angeles:20240216T182000
 DTSTAMP:20240216T233800Z
 UID:ci16639653-tt19760052--2024-2-16-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -100,9 +87,9 @@ DTEND;TZID=America/Los_Angeles:20240216T213500
 DTSTAMP:20240217T025300Z
 UID:ci16639653-tt19760052--2024-2-16-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -149,9 +136,9 @@ DTEND;TZID=America/Los_Angeles:20240217T150500
 DTSTAMP:20240217T202300Z
 UID:ci16639653-tt19760052--2024-2-17-12-30
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -162,9 +149,9 @@ DTEND;TZID=America/Los_Angeles:20240217T182000
 DTSTAMP:20240217T233800Z
 UID:ci16639653-tt19760052--2024-2-17-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -175,9 +162,9 @@ DTEND;TZID=America/Los_Angeles:20240217T213500
 DTSTAMP:20240218T025300Z
 UID:ci16639653-tt19760052--2024-2-17-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -224,9 +211,9 @@ DTEND;TZID=America/Los_Angeles:20240218T150500
 DTSTAMP:20240218T202300Z
 UID:ci16639653-tt19760052--2024-2-18-12-30
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -237,9 +224,9 @@ DTEND;TZID=America/Los_Angeles:20240218T182000
 DTSTAMP:20240218T233800Z
 UID:ci16639653-tt19760052--2024-2-18-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -250,9 +237,9 @@ DTEND;TZID=America/Los_Angeles:20240218T213500
 DTSTAMP:20240219T025300Z
 UID:ci16639653-tt19760052--2024-2-18-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -287,9 +274,9 @@ DTEND;TZID=America/Los_Angeles:20240219T182000
 DTSTAMP:20240219T233800Z
 UID:ci16639653-tt19760052--2024-2-19-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -300,9 +287,9 @@ DTEND;TZID=America/Los_Angeles:20240219T213500
 DTSTAMP:20240220T025300Z
 UID:ci16639653-tt19760052--2024-2-19-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -337,9 +324,9 @@ DTEND;TZID=America/Los_Angeles:20240220T182000
 DTSTAMP:20240220T233800Z
 UID:ci16639653-tt19760052--2024-2-20-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -350,9 +337,9 @@ DTEND;TZID=America/Los_Angeles:20240220T213500
 DTSTAMP:20240221T025300Z
 UID:ci16639653-tt19760052--2024-2-20-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -387,9 +374,9 @@ DTEND;TZID=America/Los_Angeles:20240221T182000
 DTSTAMP:20240221T233800Z
 UID:ci16639653-tt19760052--2024-2-21-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -400,9 +387,9 @@ DTEND;TZID=America/Los_Angeles:20240221T213500
 DTSTAMP:20240222T025300Z
 UID:ci16639653-tt19760052--2024-2-21-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -437,9 +424,9 @@ DTEND;TZID=America/Los_Angeles:20240222T182000
 DTSTAMP:20240222T233800Z
 UID:ci16639653-tt19760052--2024-2-22-15-45
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT
@@ -450,9 +437,22 @@ DTEND;TZID=America/Los_Angeles:20240222T213500
 DTSTAMP:20240223T025300Z
 UID:ci16639653-tt19760052--2024-2-22-19-0
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe story of Eugenie\, an estee
- med cook\, and Dodin\, the fine gourmet with whom she has been working for
-  over the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb
-  rating: 7.5
+ med cook\, and Dodin\, the fine gourmet who she has been working for over 
+ the last 20 years.\n\nhttps://www.imdb.com/title/tt19760052/\n\nIMDb ratin
+ g: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jennifer's Body (2009)
+DTSTART;TZID=America/Los_Angeles:20240226T190000
+DTEND;TZID=America/Los_Angeles:20240226T210500
+DTSTAMP:20240227T025300Z
+UID:ci16639653-tt1131734--2024-2-26-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA newly-possessed high-school c
+ heerleader turns into a succubus who specializes in killing her male class
+ mates. Can her best friend put an end to the horror?\n\nhttps://www.imdb.c
+ om/title/tt1131734/\n\nIMDb rating: 5.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, 98109
 END:VEVENT

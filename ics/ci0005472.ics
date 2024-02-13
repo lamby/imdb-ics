@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240212T160913Z
+LAST-MODIFIED:20240213T171637Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:She Is Conann
-DTSTART;TZID=America/Los_Angeles:20240212T191500
-DTEND;TZID=America/Los_Angeles:20240212T212000
-DTSTAMP:20240213T030800Z
-UID:ci0005472-tt16090596--2024-2-12-19-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nConan's life at different stage
- s is shown with a different aesthetic and rhythm from the Sumerian era to 
- the near future.\n\nhttps://www.imdb.com/title/tt16090596/\n\nIMDb rating:
-  6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She Is Conann
 DTSTART;TZID=America/Los_Angeles:20240215T191500
@@ -268,6 +255,19 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\n\nThe younger brother of an assass
  inated US President is led down a rabbit hole of conspiracies and dead end
  s after learning of a man claiming to be the real shooter.\n\nhttps://www.
  imdb.com/title/tt0080139/\n\nIMDb rating: 6.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claudine (1974)
+DTSTART;TZID=America/Los_Angeles:20240226T193000
+DTEND;TZID=America/Los_Angeles:20240226T212500
+DTSTAMP:20240227T032300Z
+UID:ci0005472-tt0071334--2024-2-26-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nIn the 1970s Harlem\, garbage co
+ llector Roop feels intimidated by the idea of dating Claudine who is a sin
+ gle mother of six on welfare.\n\nhttps://www.imdb.com/title/tt0071334/\n\n
+ IMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
