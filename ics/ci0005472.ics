@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240213T171637Z
+LAST-MODIFIED:20240214T074757Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -268,6 +268,19 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nIn the 1970s Harlem\, garbage co
  llector Roop feels intimidated by the idea of dating Claudine who is a sin
  gle mother of six on welfare.\n\nhttps://www.imdb.com/title/tt0071334/\n\n
  IMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Kills (1979)
+DTSTART;TZID=America/Los_Angeles:20240227T193000
+DTEND;TZID=America/Los_Angeles:20240227T213000
+DTSTAMP:20240228T032300Z
+UID:ci0005472-tt0080139--2024-2-27-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nThe younger brother of an assass
+ inated US President is led down a rabbit hole of conspiracies and dead end
+ s after learning of a man claiming to be the real shooter.\n\nhttps://www.
+ imdb.com/title/tt0080139/\n\nIMDb rating: 6.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
