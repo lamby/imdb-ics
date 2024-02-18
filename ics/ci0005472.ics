@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240217T073849Z
+LAST-MODIFIED:20240218T080949Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fitting In
-DTSTART;TZID=America/Los_Angeles:20240217T190000
-DTEND;TZID=America/Los_Angeles:20240217T210500
-DTSTAMP:20240218T025300Z
-UID:ci0005472-tt21103576--2024-2-17-19-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA teen girl is diagnosed with a
-  reproductive condition that upends her plans to have a sex life\, propell
- ing her to explore unusual methods. Her relationships are challenged with 
- everyone in her life\, but most importantly\, herself.\n\nhttps://www.imdb
- .com/title/tt21103576/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She Is Conann
-DTSTART;TZID=America/Los_Angeles:20240217T163000
-DTEND;TZID=America/Los_Angeles:20240217T183500
-DTSTAMP:20240218T002300Z
-UID:ci0005472-tt16090596--2024-2-17-16-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nConan's life at different stage
- s is shown with a different aesthetic and rhythm from the Sumerian era to 
- the near future.\n\nhttps://www.imdb.com/title/tt16090596/\n\nIMDb rating:
-  6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bacurau (2019)
 DTSTART;TZID=America/Los_Angeles:20240218T190000
@@ -289,6 +262,32 @@ DTSTART;TZID=America/Los_Angeles:20240301T193000
 DTEND;TZID=America/Los_Angeles:20240301T213000
 DTSTAMP:20240302T032300Z
 UID:ci0005472-tt26612950--2024-3-1-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
+ ected of theft\, teacher Carla Nowak decides to get to the bottom of the m
+ atter. Caught between her ideals and the school system\, the consequences 
+ of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
+ 2950/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concrete Utopia
+DTSTART;TZID=America/Los_Angeles:20240302T190000
+DTEND;TZID=America/Los_Angeles:20240302T213000
+DTSTAMP:20240303T025300Z
+UID:ci0005472-tt13086266--2024-3-2-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nSurvivors from a massive earthq
+ uake struggle for a new life in Seoul.\n\nhttps://www.imdb.com/title/tt130
+ 86266/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Teachers' Lounge
+DTSTART;TZID=America/Los_Angeles:20240302T163000
+DTEND;TZID=America/Los_Angeles:20240302T183000
+DTSTAMP:20240303T002300Z
+UID:ci0005472-tt26612950--2024-3-2-16-30
 DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
  ected of theft\, teacher Carla Nowak decides to get to the bottom of the m
  atter. Caught between her ideals and the school system\, the consequences 
