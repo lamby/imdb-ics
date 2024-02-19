@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240218T081145Z
+LAST-MODIFIED:20240219T105907Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -10,6 +10,20 @@ DTSTART;TZID=America/Los_Angeles:20240302T130000
 DTEND;TZID=America/Los_Angeles:20240302T150000
 DTSTAMP:20240302T205300Z
 UID:ci16639652-tt29578220--2024-3-2-13-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAndrew Scott brings multiple ch
+ aracters to life in Chekhov's Uncle Vanya\, filmed live in West End\, Lond
+ on. Hopes\, dreams\, and regrets are thrust into sharp focus in this one-m
+ an adaptation which explores the complexities of human ...\n\nhttps://www.
+ imdb.com/title/tt29578220/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, 9810
+ 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Theatre Live: Vanya
+DTSTART;TZID=America/Los_Angeles:20240303T130000
+DTEND;TZID=America/Los_Angeles:20240303T150000
+DTSTAMP:20240303T205300Z
+UID:ci16639652-tt29578220--2024-3-3-13-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAndrew Scott brings multiple ch
  aracters to life in Chekhov's Uncle Vanya\, filmed live in West End\, Lond
  on. Hopes\, dreams\, and regrets are thrust into sharp focus in this one-m
