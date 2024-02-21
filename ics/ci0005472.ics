@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240220T093619Z
+LAST-MODIFIED:20240221T084908Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:She Is Conann
-DTSTART;TZID=America/Los_Angeles:20240220T191500
-DTEND;TZID=America/Los_Angeles:20240220T212000
-DTSTAMP:20240221T030800Z
-UID:ci0005472-tt16090596--2024-2-20-19-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nConan's life at different stage
- s is shown with a different aesthetic and rhythm from the Sumerian era to 
- the near future.\n\nhttps://www.imdb.com/title/tt16090596/\n\nIMDb rating:
-  6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fitting In
 DTSTART;TZID=America/Los_Angeles:20240221T191500
@@ -279,6 +266,18 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
  atter. Caught between her ideals and the school system\, the consequences 
  of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
  2950/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concrete Utopia
+DTSTART;TZID=America/Los_Angeles:20240305T190000
+DTEND;TZID=America/Los_Angeles:20240305T213000
+DTSTAMP:20240306T025300Z
+UID:ci0005472-tt13086266--2024-3-5-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nSurvivors from a massive earthq
+ uake struggle for a new life in Seoul.\n\nhttps://www.imdb.com/title/tt130
+ 86266/\n\nIMDb rating: 6.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
