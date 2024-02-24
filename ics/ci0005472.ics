@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240223T104159Z
+LAST-MODIFIED:20240224T092531Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cleopatra Jones (1973)
-DTSTART;TZID=America/Los_Angeles:20240223T211500
-DTEND;TZID=America/Los_Angeles:20240223T230500
-DTSTAMP:20240224T050800Z
-UID:ci0005472-tt0069890--2024-2-23-21-15
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDuring the 1970s\, U.S. Special 
- Agent Cleopatra Jones proves to be an invaluable asset to the local police
-  forces in the war on drugs.\n\nhttps://www.imdb.com/title/tt0069890/\n\nI
- MDb rating: 5.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winter Kills (1979)
-DTSTART;TZID=America/Los_Angeles:20240223T190000
-DTEND;TZID=America/Los_Angeles:20240223T210000
-DTSTAMP:20240224T025300Z
-UID:ci0005472-tt0080139--2024-2-23-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nThe younger brother of an assass
- inated US President is led down a rabbit hole of conspiracies and dead end
- s after learning of a man claiming to be the real shooter.\n\nhttps://www.
- imdb.com/title/tt0080139/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Claudine (1974)
 DTSTART;TZID=America/Los_Angeles:20240224T190000
@@ -278,6 +252,19 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
  atter. Caught between her ideals and the school system\, the consequences 
  of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
  2950/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=America/Los_Angeles:20240308T190000
+DTEND;TZID=America/Los_Angeles:20240308T205500
+DTSTAMP:20240309T025300Z
+UID:ci0005472-tt22890246--2024-3-8-19-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThree British teenage girls go o
+ n a rites-of-passage holiday - drinking\, clubbing and hooking up\, in wha
+ t should be the best summer of their lives.\n\nhttps://www.imdb.com/title/
+ tt22890246/\n\nIMDb rating: 6.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
