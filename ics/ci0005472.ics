@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240224T092531Z
+LAST-MODIFIED:20240225T081735Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Claudine (1974)
-DTSTART;TZID=America/Los_Angeles:20240224T190000
-DTEND;TZID=America/Los_Angeles:20240224T205500
-DTSTAMP:20240225T025300Z
-UID:ci0005472-tt0071334--2024-2-24-19-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nIn the 1970s Harlem\, garbage co
- llector Roop feels intimidated by the idea of dating Claudine who is a sin
- gle mother of six on welfare.\n\nhttps://www.imdb.com/title/tt0071334/\n\n
- IMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cleopatra Jones (1973)
-DTSTART;TZID=America/Los_Angeles:20240224T211500
-DTEND;TZID=America/Los_Angeles:20240224T230500
-DTSTAMP:20240225T050800Z
-UID:ci0005472-tt0069890--2024-2-24-21-15
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDuring the 1970s\, U.S. Special 
- Agent Cleopatra Jones proves to be an invaluable asset to the local police
-  forces in the war on drugs.\n\nhttps://www.imdb.com/title/tt0069890/\n\nI
- MDb rating: 5.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Claudine (1974)
 DTSTART;TZID=America/Los_Angeles:20240225T180000
@@ -265,6 +239,33 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThree British teenage girls go o
  n a rites-of-passage holiday - drinking\, clubbing and hooking up\, in wha
  t should be the best summer of their lives.\n\nhttps://www.imdb.com/title/
  tt22890246/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=America/Los_Angeles:20240309T191500
+DTEND;TZID=America/Los_Angeles:20240309T211000
+DTSTAMP:20240310T030800Z
+UID:ci0005472-tt22890246--2024-3-9-19-15
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThree British teenage girls go o
+ n a rites-of-passage holiday - drinking\, clubbing and hooking up\, in wha
+ t should be the best summer of their lives.\n\nhttps://www.imdb.com/title/
+ tt22890246/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Teachers' Lounge
+DTSTART;TZID=America/Los_Angeles:20240309T163000
+DTEND;TZID=America/Los_Angeles:20240309T183000
+DTSTAMP:20240310T002300Z
+UID:ci0005472-tt26612950--2024-3-9-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
+ ected of theft\, teacher Carla Nowak decides to get to the bottom of the m
+ atter. Caught between her ideals and the school system\, the consequences 
+ of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
+ 2950/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
