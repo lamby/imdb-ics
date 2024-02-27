@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240226T092630Z
+LAST-MODIFIED:20240227T101541Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Claudine (1974)
-DTSTART;TZID=America/Los_Angeles:20240226T193000
-DTEND;TZID=America/Los_Angeles:20240226T212500
-DTSTAMP:20240227T032300Z
-UID:ci0005472-tt0071334--2024-2-26-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nIn the 1970s Harlem\, garbage co
- llector Roop feels intimidated by the idea of dating Claudine who is a sin
- gle mother of six on welfare.\n\nhttps://www.imdb.com/title/tt0071334/\n\n
- IMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Kills (1979)
 DTSTART;TZID=America/Los_Angeles:20240227T193000
@@ -267,6 +254,19 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
  atter. Caught between her ideals and the school system\, the consequences 
  of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
  2950/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=America/Los_Angeles:20240311T193000
+DTEND;TZID=America/Los_Angeles:20240311T212500
+DTSTAMP:20240312T032300Z
+UID:ci0005472-tt22890246--2024-3-11-19-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThree British teenage girls go o
+ n a rites-of-passage holiday - drinking\, clubbing and hooking up\, in wha
+ t should be the best summer of their lives.\n\nhttps://www.imdb.com/title/
+ tt22890246/\n\nIMDb rating: 6.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
