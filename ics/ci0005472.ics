@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240227T101541Z
+LAST-MODIFIED:20240228T093523Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Winter Kills (1979)
-DTSTART;TZID=America/Los_Angeles:20240227T193000
-DTEND;TZID=America/Los_Angeles:20240227T213000
-DTSTAMP:20240228T032300Z
-UID:ci0005472-tt0080139--2024-2-27-19-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nThe younger brother of an assass
- inated US President is led down a rabbit hole of conspiracies and dead end
- s after learning of a man claiming to be the real shooter.\n\nhttps://www.
- imdb.com/title/tt0080139/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Claudine (1974)
 DTSTART;TZID=America/Los_Angeles:20240228T193000
@@ -267,6 +254,20 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThree British teenage girls go o
  n a rites-of-passage holiday - drinking\, clubbing and hooking up\, in wha
  t should be the best summer of their lives.\n\nhttps://www.imdb.com/title/
  tt22890246/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Teachers' Lounge
+DTSTART;TZID=America/Los_Angeles:20240312T193000
+DTEND;TZID=America/Los_Angeles:20240312T213000
+DTSTAMP:20240313T032300Z
+UID:ci0005472-tt26612950--2024-3-12-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
+ ected of theft\, teacher Carla Nowak decides to get to the bottom of the m
+ atter. Caught between her ideals and the school system\, the consequences 
+ of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
+ 2950/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
