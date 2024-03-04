@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240303T153911Z
+LAST-MODIFIED:20240304T122742Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Concrete Utopia
-DTSTART;TZID=America/Los_Angeles:20240303T173000
-DTEND;TZID=America/Los_Angeles:20240303T200000
-DTSTAMP:20240304T012300Z
-UID:ci0005472-tt13086266--2024-3-3-17-30
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nSurvivors from a massive earthq
- uake struggle for a new life in Seoul.\n\nhttps://www.imdb.com/title/tt130
- 86266/\n\nIMDb rating: 6.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Teachers' Lounge
-DTSTART;TZID=America/Los_Angeles:20240303T151500
-DTEND;TZID=America/Los_Angeles:20240303T171500
-DTSTAMP:20240303T230800Z
-UID:ci0005472-tt26612950--2024-3-3-15-15
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
- ected of theft\, teacher Carla Nowak decides to get to the bottom of the m
- atter. Caught between her ideals and the school system\, the consequences 
- of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
- 2950/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Teachers' Lounge
-DTSTART;TZID=America/Los_Angeles:20240303T201500
-DTEND;TZID=America/Los_Angeles:20240303T221500
-DTSTAMP:20240304T040800Z
-UID:ci0005472-tt26612950--2024-3-3-20-15
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
- ected of theft\, teacher Carla Nowak decides to get to the bottom of the m
- atter. Caught between her ideals and the school system\, the consequences 
- of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
- 2950/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Teachers' Lounge
 DTSTART;TZID=America/Los_Angeles:20240304T193000
@@ -291,6 +251,46 @@ DTSTART;TZID=America/Los_Angeles:20240316T203000
 DTEND;TZID=America/Los_Angeles:20240316T224000
 DTSTAMP:20240317T042300Z
 UID:ci0005472-tt12818328--2024-3-16-20-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alam (2022)
+DTSTART;TZID=America/Los_Angeles:20240317T153000
+DTEND;TZID=America/Los_Angeles:20240317T174000
+DTSTAMP:20240317T232300Z
+UID:ci0005472-tt21998510--2024-3-17-15-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nIn a Palestinian town\, Tamer a
+ nd his friends lead a typical high school student's life until the arrival
+  of the beautiful Maysaa'. To please her\, Tamer agrees to take part in a 
+ mysterious flag operation on the eve of Israel's Inde...\n\nhttps://www.im
+ db.com/title/tt21998510/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=America/Los_Angeles:20240317T180000
+DTEND;TZID=America/Los_Angeles:20240317T195500
+DTSTAMP:20240318T015300Z
+UID:ci0005472-tt22890246--2024-3-17-18-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThree British teenage girls go o
+ n a rites-of-passage holiday - drinking\, clubbing and hooking up\, in wha
+ t should be the best summer of their lives.\n\nhttps://www.imdb.com/title/
+ tt22890246/\n\nIMDb rating: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20240317T201500
+DTEND;TZID=America/Los_Angeles:20240317T222500
+DTSTAMP:20240318T040800Z
+UID:ci0005472-tt12818328--2024-3-17-20-15
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
