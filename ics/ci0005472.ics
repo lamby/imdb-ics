@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240304T122742Z
+LAST-MODIFIED:20240305T110254Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Teachers' Lounge
-DTSTART;TZID=America/Los_Angeles:20240304T193000
-DTEND;TZID=America/Los_Angeles:20240304T213000
-DTSTAMP:20240305T032300Z
-UID:ci0005472-tt26612950--2024-3-4-19-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen one of her students is susp
- ected of theft\, teacher Carla Nowak decides to get to the bottom of the m
- atter. Caught between her ideals and the school system\, the consequences 
- of her actions threaten to break her.\n\nhttps://www.imdb.com/title/tt2661
- 2950/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Concrete Utopia
 DTSTART;TZID=America/Los_Angeles:20240305T190000
@@ -291,6 +277,19 @@ DTSTART;TZID=America/Los_Angeles:20240317T201500
 DTEND;TZID=America/Los_Angeles:20240317T222500
 DTSTAMP:20240318T040800Z
 UID:ci0005472-tt12818328--2024-3-17-20-15
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20240318T191500
+DTEND;TZID=America/Los_Angeles:20240318T212500
+DTSTAMP:20240319T030800Z
+UID:ci0005472-tt12818328--2024-3-18-19-15
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
