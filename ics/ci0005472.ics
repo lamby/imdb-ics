@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240305T110254Z
+LAST-MODIFIED:20240306T091702Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Concrete Utopia
-DTSTART;TZID=America/Los_Angeles:20240305T190000
-DTEND;TZID=America/Los_Angeles:20240305T213000
-DTSTAMP:20240306T025300Z
-UID:ci0005472-tt13086266--2024-3-5-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nSurvivors from a massive earthq
- uake struggle for a new life in Seoul.\n\nhttps://www.imdb.com/title/tt130
- 86266/\n\nIMDb rating: 6.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
- 05
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Teachers' Lounge
 DTSTART;TZID=America/Los_Angeles:20240306T193000
@@ -294,6 +282,20 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
  eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
+ 05
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alam (2022)
+DTSTART;TZID=America/Los_Angeles:20240319T191500
+DTEND;TZID=America/Los_Angeles:20240319T212500
+DTSTAMP:20240320T030800Z
+UID:ci0005472-tt21998510--2024-3-19-19-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nIn a Palestinian town\, Tamer a
+ nd his friends lead a typical high school student's life until the arrival
+  of the beautiful Maysaa'. To please her\, Tamer agrees to take part in a 
+ mysterious flag operation on the eve of Israel's Inde...\n\nhttps://www.im
+ db.com/title/tt21998510/\n\nIMDb rating: 6.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, 981
  05
 END:VEVENT
