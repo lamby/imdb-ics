@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240306T091803Z
+LAST-MODIFIED:20240307T072016Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=America/Los_Angeles:20240306T143000
-DTEND;TZID=America/Los_Angeles:20240306T174000
-DTSTAMP:20240306T222300Z
-UID:ci0014968-tt15239678--2024-3-6-14-30
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 9
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=America/Los_Angeles:20240306T180000
-DTEND;TZID=America/Los_Angeles:20240306T211000
-DTSTAMP:20240307T015300Z
-UID:ci0014968-tt15239678--2024-3-6-18-0
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 9
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=America/Los_Angeles:20240306T220000
-DTEND;TZID=America/Los_Angeles:20240307T011000
-DTSTAMP:20240307T055300Z
-UID:ci0014968-tt15239678--2024-3-6-22-0
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 9
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
 DTSTART;TZID=America/Los_Angeles:20240307T143000
@@ -85,7 +49,7 @@ UID:ci0014968-tt26658104--2024-3-7-18-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -98,7 +62,7 @@ UID:ci0014968-tt26658104--2024-3-7-22-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -189,7 +153,7 @@ UID:ci0014968-tt26658104--2024-3-8-14-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -202,7 +166,7 @@ UID:ci0014968-tt26658104--2024-3-8-18-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -215,7 +179,7 @@ UID:ci0014968-tt26658104--2024-3-8-22-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -318,7 +282,7 @@ UID:ci0014968-tt26658104--2024-3-9-11-20
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -331,7 +295,7 @@ UID:ci0014968-tt26658104--2024-3-9-14-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -344,7 +308,7 @@ UID:ci0014968-tt26658104--2024-3-9-18-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -357,7 +321,7 @@ UID:ci0014968-tt26658104--2024-3-9-22-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -474,7 +438,7 @@ UID:ci0014968-tt26658104--2024-3-10-11-20
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -487,7 +451,7 @@ UID:ci0014968-tt26658104--2024-3-10-14-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -500,7 +464,7 @@ UID:ci0014968-tt26658104--2024-3-10-18-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -513,7 +477,7 @@ UID:ci0014968-tt26658104--2024-3-10-22-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -618,7 +582,7 @@ UID:ci0014968-tt26658104--2024-3-11-15-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -631,7 +595,7 @@ UID:ci0014968-tt26658104--2024-3-11-18-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -644,7 +608,7 @@ UID:ci0014968-tt26658104--2024-3-11-22-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -735,7 +699,7 @@ UID:ci0014968-tt26658104--2024-3-12-15-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -748,7 +712,7 @@ UID:ci0014968-tt26658104--2024-3-12-18-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -761,7 +725,7 @@ UID:ci0014968-tt26658104--2024-3-12-22-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -852,7 +816,7 @@ UID:ci0014968-tt26658104--2024-3-13-15-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -865,7 +829,7 @@ UID:ci0014968-tt26658104--2024-3-13-18-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -878,7 +842,7 @@ UID:ci0014968-tt26658104--2024-3-13-22-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/
+ 04/\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -932,7 +896,7 @@ DTSTAMP:20240315T020800Z
 UID:ci0014968-tt10720352--2024-3-14-18-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -944,7 +908,7 @@ DTSTAMP:20240315T052300Z
 UID:ci0014968-tt10720352--2024-3-14-21-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -956,7 +920,7 @@ DTSTAMP:20240315T225300Z
 UID:ci0014968-tt10720352--2024-3-15-15-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -968,7 +932,7 @@ DTSTAMP:20240316T020800Z
 UID:ci0014968-tt10720352--2024-3-15-18-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -980,7 +944,7 @@ DTSTAMP:20240316T052300Z
 UID:ci0014968-tt10720352--2024-3-15-21-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -992,7 +956,7 @@ DTSTAMP:20240316T193800Z
 UID:ci0014968-tt10720352--2024-3-16-11-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1004,7 +968,7 @@ DTSTAMP:20240316T225300Z
 UID:ci0014968-tt10720352--2024-3-16-15-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1016,7 +980,7 @@ DTSTAMP:20240317T020800Z
 UID:ci0014968-tt10720352--2024-3-16-18-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1028,7 +992,7 @@ DTSTAMP:20240317T052300Z
 UID:ci0014968-tt10720352--2024-3-16-21-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1040,7 +1004,7 @@ DTSTAMP:20240317T193800Z
 UID:ci0014968-tt10720352--2024-3-17-11-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1052,7 +1016,7 @@ DTSTAMP:20240317T225300Z
 UID:ci0014968-tt10720352--2024-3-17-15-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1064,7 +1028,7 @@ DTSTAMP:20240318T020800Z
 UID:ci0014968-tt10720352--2024-3-17-18-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1076,7 +1040,7 @@ DTSTAMP:20240318T052300Z
 UID:ci0014968-tt10720352--2024-3-17-21-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1088,7 +1052,7 @@ DTSTAMP:20240318T225300Z
 UID:ci0014968-tt10720352--2024-3-18-15-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1100,7 +1064,7 @@ DTSTAMP:20240319T020800Z
 UID:ci0014968-tt10720352--2024-3-18-18-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1112,7 +1076,7 @@ DTSTAMP:20240319T052300Z
 UID:ci0014968-tt10720352--2024-3-18-21-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1124,7 +1088,7 @@ DTSTAMP:20240319T225300Z
 UID:ci0014968-tt10720352--2024-3-19-15-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1136,7 +1100,7 @@ DTSTAMP:20240320T020800Z
 UID:ci0014968-tt10720352--2024-3-19-18-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
@@ -1148,7 +1112,43 @@ DTSTAMP:20240320T052300Z
 UID:ci0014968-tt10720352--2024-3-19-21-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
  y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
- mdb.com/title/tt10720352/\n\nIMDb rating: 6.1
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arthur the King
+DTSTART;TZID=America/Los_Angeles:20240320T150000
+DTEND;TZID=America/Los_Angeles:20240320T165000
+DTSTAMP:20240320T225300Z
+UID:ci0014968-tt10720352--2024-3-20-15-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
+ y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arthur the King
+DTSTART;TZID=America/Los_Angeles:20240320T181500
+DTEND;TZID=America/Los_Angeles:20240320T200500
+DTSTAMP:20240321T020800Z
+UID:ci0014968-tt10720352--2024-3-20-18-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
+ y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arthur the King
+DTSTART;TZID=America/Los_Angeles:20240320T213000
+DTEND;TZID=America/Los_Angeles:20240320T232000
+DTSTAMP:20240321T052300Z
+UID:ci0014968-tt10720352--2024-3-20-21-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn adventure racer adopts a stra
+ y dog named Arthur to join him in an epic endurance race.\n\nhttps://www.i
+ mdb.com/title/tt10720352/\n\nIMDb rating: 5.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, 98052
 END:VEVENT
