@@ -1,7 +1,83 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240307T072056Z
+LAST-MODIFIED:20240321T121118Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
+BEGIN:VEVENT
+SUMMARY:About Dry Grasses
+DTSTART;TZID=America/Los_Angeles:20240321T180000
+DTEND;TZID=America/Los_Angeles:20240321T214000
+DTSTAMP:20240322T015300Z
+UID:ci16639653-tt13231544--2024-3-21-18-0
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nA young teacher hopes to be tra
+ nsferred to Istanbul after four years of mandatory service in a remote vil
+ lage\, but is accused of inappropriate contact by two students. After losi
+ ng hope\, a colleague offers him new perspectives on ...\n\nhttps://www.im
+ db.com/title/tt13231544/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anselm
+DTSTART;TZID=America/Los_Angeles:20240321T160000
+DTEND;TZID=America/Los_Angeles:20240321T175500
+DTSTAMP:20240321T235300Z
+UID:ci16639653-tt27502250--2024-3-21-16-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAnselm Kiefer is one of the grea
+ test contemporary artists. His past and present diffuse the line between f
+ ilm and painting\, thus giving a unique cinematic experience that dives de
+ ep into an artist's work and reveals his life path.\n\nhttps://www.imdb.co
+ m/title/tt27502250/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;TZID=America/Los_Angeles:20240321T161500
+DTEND;TZID=America/Los_Angeles:20240321T182000
+DTSTAMP:20240322T000800Z
+UID:ci16639653-tt19637052--2024-3-21-16-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nGym manager Lou falls for Jacki
+ e\, a bodybuilder who is passing through town en route to a competition in
+  Las Vegas.\n\nhttps://www.imdb.com/title/tt19637052/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Lies Bleeding
+DTSTART;TZID=America/Los_Angeles:20240321T190000
+DTEND;TZID=America/Los_Angeles:20240321T210500
+DTSTAMP:20240322T025300Z
+UID:ci16639653-tt19637052--2024-3-21-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nGym manager Lou falls for Jacki
+ e\, a bodybuilder who is passing through town en route to a competition in
+  Las Vegas.\n\nhttps://www.imdb.com/title/tt19637052/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nope (2022)
+DTSTART;TZID=America/Los_Angeles:20240322T193000
+DTEND;TZID=America/Los_Angeles:20240322T220000
+DTSTAMP:20240323T032300Z
+UID:ci16639653-tt10954984--2024-3-22-19-30
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nThe residents of a lonely gulch
+  in inland California bear witness to an uncanny and chilling discovery.\n
+ \nhttps://www.imdb.com/title/tt10954984/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nope (2022)
+DTSTART;TZID=America/Los_Angeles:20240327T190000
+DTEND;TZID=America/Los_Angeles:20240327T213000
+DTSTAMP:20240328T025300Z
+UID:ci16639653-tt10954984--2024-3-27-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nThe residents of a lonely gulch
+  in inland California bear witness to an uncanny and chilling discovery.\n
+ \nhttps://www.imdb.com/title/tt10954984/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
 END:VCALENDAR

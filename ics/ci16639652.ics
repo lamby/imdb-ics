@@ -1,7 +1,71 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240307T072117Z
+LAST-MODIFIED:20240321T121153Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
+BEGIN:VEVENT
+SUMMARY:Ennio (2021)
+DTSTART;TZID=America/Los_Angeles:20240322T183000
+DTEND;TZID=America/Los_Angeles:20240322T213000
+DTSTAMP:20240323T022300Z
+UID:ci16639652-tt3031654--2024-3-22-18-30
+DESCRIPTION:Duration: 2h 36m (156 mins)\n\nA documentary on the legendary 
+ film composer Ennio Morricone.\n\nhttps://www.imdb.com/title/tt3031654/\n\
+ nIMDb rating: 8.2
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ennio (2021)
+DTSTART;TZID=America/Los_Angeles:20240323T183000
+DTEND;TZID=America/Los_Angeles:20240323T213000
+DTSTAMP:20240324T022300Z
+UID:ci16639652-tt3031654--2024-3-23-18-30
+DESCRIPTION:Duration: 2h 36m (156 mins)\n\nA documentary on the legendary 
+ film composer Ennio Morricone.\n\nhttps://www.imdb.com/title/tt3031654/\n\
+ nIMDb rating: 8.2
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ennio (2021)
+DTSTART;TZID=America/Los_Angeles:20240324T120000
+DTEND;TZID=America/Los_Angeles:20240324T150000
+DTSTAMP:20240324T195300Z
+UID:ci16639652-tt3031654--2024-3-24-12-0
+DESCRIPTION:Duration: 2h 36m (156 mins)\n\nA documentary on the legendary 
+ film composer Ennio Morricone.\n\nhttps://www.imdb.com/title/tt3031654/\n\
+ nIMDb rating: 8.2
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense (1984)
+DTSTART;TZID=America/Los_Angeles:20240330T163000
+DTEND;TZID=America/Los_Angeles:20240330T182000
+DTSTAMP:20240331T002300Z
+UID:ci16639652-tt0088178--2024-3-30-16-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nConsidered by critics as the gre
+ atest concert film of all time\, the live performance was shot over the co
+ urse of three nights at Hollywood's Pantages Theater in December of 1983 a
+ nd features Talking Heads' most memorable songs.\n\nhttps://www.imdb.com/t
+ itle/tt0088178/\n\nIMDb rating: 8.7
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense (1984)
+DTSTART;TZID=America/Los_Angeles:20240330T190000
+DTEND;TZID=America/Los_Angeles:20240330T205000
+DTSTAMP:20240331T025300Z
+UID:ci16639652-tt0088178--2024-3-30-19-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nConsidered by critics as the gre
+ atest concert film of all time\, the live performance was shot over the co
+ urse of three nights at Hollywood's Pantages Theater in December of 1983 a
+ nd features Talking Heads' most memorable songs.\n\nhttps://www.imdb.com/t
+ itle/tt0088178/\n\nIMDb rating: 8.7
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
 END:VCALENDAR

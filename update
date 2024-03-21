@@ -39,85 +39,71 @@ class ImdbICS:
     VENUES = [
         {
             "name": "Vue Cambridge",
-            "address": "105 Grafton Centre, Cambridge CB1 1PS",
             "id": "ci0960123",
             "timezone": "Europe/London",
         },
         {
             "name": "Arts Picturehouse, Cambridge",
-            "address": "38-39 St Andrew's St, Cambridge CB2 3AR",
             "id": "ci0959484",
             "timezone": "Europe/London",
         },
         {
             "name": "Grand Illusion Cinema, Seattle",
-            "address": "1403 NE 50th St, Seattle WA 98105",
             "id": "ci0005472",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "The Light Cinema, Cambridge",
-            "address": "Cambridge Leisure Park, Cambridge CB1 7DY",
             "id": "ci0959521",
             "timezone": "Europe/London",
         },
         {
             "name": "The Beacon, Seattle",
-            "address": "4405 Rainier Ave South, Seattle WA 98118",
             "id": "ci1024213",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "Regal Bella Bottega, Redmond",
-            "address": "8890 NE 161st Avenue, Redmond WA 98052",
             "id": "ci0001864",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "iPic Theaters at Redmond Town Center, Redmond",
-            "address": "16451 N.E. 74th Street, Redmond WA 98052",
             "id": "ci0014968",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "AMC Pacific Place 11, Seattle",
-            "address": "600 Pine S., Seattle WA 98101",
             "id": "ci0006735",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "AMC Pacific Place 12, Woodinville",
-            "address": "17640 Garden Way, Woodinville WA 98072",
             "id": "ci0004663",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "SIFF Cinema Uptown, Seattle",
-            "address": "511 Queen Anne Avenue North, Seattle WA 98109",
             "id": "ci16639653",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "SIFF Cinema Egyptian, Seattle",
-            "address": "805 East Pine, Seattle WA 98122",
             "id": "ci60177107",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "SIFF Film Center, Seattle",
-            "address": "305 Harrison Street, Seattle WA 98109",
             "id": "ci16639652",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "Cinemark Lincoln Square, Bellevue",
-            "address": "700 Bellevue Way NE, Bellevue WA 98004",
             "id": "ci0014104",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "Cinemark Totem Lake, Kirkland",
-            "address": "2600 120th Avenue NE, Kirkland WA 98034",
             "id": "ci1025162",
             "timezone": "America/Los_Angeles",
         },
@@ -203,13 +189,16 @@ class ImdbICS:
 
         soup = self.get_soup(base_url)
 
-        venue["address"] = "{}, {}, {}".format(
-            self.text(soup, "span[itemprop=streetAddress]"),
-            self.text(soup, "span[itemprop=addressLocality]"),
-            self.text(soup, "span[itemprop=postalCode]"),
-        )
+        address_parts = []
+        for x in soup.select("div.description span"):
+            part = x.text.strip()
+            if part == "|":
+                # After we hit a "|" it will just be a phone number
+                break
+            address_parts.append(part)
+        venue["address"] = ", ".join(address_parts)
 
-        logging.debug(f"Found info for '{venue['name']}'")
+        logging.debug(f"Found info for '{venue['name']}' ({venue['address']})")
 
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
