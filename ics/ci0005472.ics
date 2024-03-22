@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240321T120608Z
+LAST-MODIFIED:20240322T085158Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Sweet East
-DTSTART;TZID=America/Los_Angeles:20240321T191500
-DTEND;TZID=America/Los_Angeles:20240321T212000
-DTSTAMP:20240322T030800Z
-UID:ci0005472-tt27546190--2024-3-21-19-15
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA picaresque journey through th
- e cities and woods of the Eastern seaboard of the U.S undertaken by Lillia
- n\, a high school senior from South Carolina. She gets her first glimpse o
- f the wider world on a class trip to Washington\, D.C.\n\nhttps://www.imdb
- .com/title/tt27546190/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Night with the Devil
 DTSTART;TZID=America/Los_Angeles:20240322T211500
@@ -285,6 +271,18 @@ DTSTART;TZID=America/Los_Angeles:20240403T193000
 DTEND;TZID=America/Los_Angeles:20240403T212500
 DTSTAMP:20240404T032300Z
 UID:ci0005472-tt0025878--2024-4-3-19-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
+ d his wealthy wife Nora investigate a murder case\, mostly for the fun of 
+ it.\n\nhttps://www.imdb.com/title/tt0025878/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Thin Man (1934)
+DTSTART;TZID=America/Los_Angeles:20240404T193000
+DTEND;TZID=America/Los_Angeles:20240404T212500
+DTSTAMP:20240405T032300Z
+UID:ci0005472-tt0025878--2024-4-4-19-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
  d his wealthy wife Nora investigate a murder case\, mostly for the fun of 
  it.\n\nhttps://www.imdb.com/title/tt0025878/\n\nIMDb rating: 7.9

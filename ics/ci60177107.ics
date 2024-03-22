@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240321T121131Z
+LAST-MODIFIED:20240322T085357Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Creature from the Black Lagoon (1954)
-DTSTART;TZID=America/Los_Angeles:20240321T170000
-DTEND;TZID=America/Los_Angeles:20240321T184000
-DTSTAMP:20240322T005300Z
-UID:ci60177107-tt0046876--2024-3-21-17-0
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nA strange prehistoric beast lurk
- s in the depths of the Amazonian jungle. A group of scientists try to capt
- ure the animal and bring it back to civilization for study.\n\nhttps://www
- .imdb.com/title/tt0046876/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Host (2006)
-DTSTART;TZID=America/Los_Angeles:20240321T190000
-DTEND;TZID=America/Los_Angeles:20240321T212000
-DTSTAMP:20240322T025300Z
-UID:ci60177107-tt0468492--2024-3-21-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA monster emerges from Seoul's 
- Han River and begins attacking people. One victim's loving family does wha
- t it can to rescue her from its clutches.\n\nhttps://www.imdb.com/title/tt
- 0468492/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nope (2022)
 DTSTART;TZID=America/Los_Angeles:20240322T193000

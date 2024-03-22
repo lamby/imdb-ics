@@ -1,32 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240321T120801Z
+LAST-MODIFIED:20240322T085242Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:3-Iron (2004)
-DTSTART;TZID=America/Los_Angeles:20240321T163000
-DTEND;TZID=America/Los_Angeles:20240321T182000
-DTSTAMP:20240322T002300Z
-UID:ci1024213-tt0423866--2024-3-21-16-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA transient young man breaks int
- o empty homes to partake of the vacationing residents' lives for a few day
- s.\n\nhttps://www.imdb.com/title/tt0423866/\n\nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foragers (2022)
-DTSTART;TZID=America/Los_Angeles:20240321T193000
-DTEND;TZID=America/Los_Angeles:20240321T205500
-DTSTAMP:20240322T032300Z
-UID:ci1024213-tt20866632--2024-3-21-19-30
-DESCRIPTION:Duration: 1h 05m (65 mins)\n\nElderly Palestinians are caught 
- between their right to forage their own land and the harsh restrictions im
- posed by their occupiers on the basis of preservation.\n\nhttps://www.imdb
- .com/title/tt20866632/\n\nIMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 END:VCALENDAR
