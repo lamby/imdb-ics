@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240322T085357Z
+LAST-MODIFIED:20240323T091459Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Nope (2022)
-DTSTART;TZID=America/Los_Angeles:20240322T193000
-DTEND;TZID=America/Los_Angeles:20240322T220000
-DTSTAMP:20240323T032300Z
-UID:ci60177107-tt10954984--2024-3-22-19-30
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nThe residents of a lonely gulch
-  in inland California bear witness to an uncanny and chilling discovery.\n
- \nhttps://www.imdb.com/title/tt10954984/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pacific Rim (2013)
-DTSTART;TZID=America/Los_Angeles:20240322T163000
-DTEND;TZID=America/Los_Angeles:20240322T190500
-DTSTAMP:20240323T002300Z
-UID:ci60177107-tt1663662--2024-3-22-16-30
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nAs a war between humankind and 
- monstrous sea creatures wages on\, a former pilot and a trainee are paired
-  up to drive a seemingly obsolete special weapon in a desperate effort to 
- save the world from the apocalypse.\n\nhttps://www.imdb.com/title/tt166366
- 2/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:King Kong (2005)
 DTSTART;TZID=America/Los_Angeles:20240323T100000
