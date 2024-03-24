@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240323T091459Z
+LAST-MODIFIED:20240324T073237Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:King Kong (2005)
-DTSTART;TZID=America/Los_Angeles:20240323T100000
-DTEND;TZID=America/Los_Angeles:20240323T133000
-DTSTAMP:20240323T175300Z
-UID:ci60177107-tt0360717--2024-3-23-10-0
-DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA greedy film producer assemble
- s a team of moviemakers and sets out for the infamous Skull Island\, where
-  they find more than just cannibalistic natives.\n\nhttps://www.imdb.com/t
- itle/tt0360717/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eve's Bayou (1997)
 DTSTART;TZID=America/Los_Angeles:20240325T193000

@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240323T091259Z
+LAST-MODIFIED:20240324T073050Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20240323T160000
-DTEND;TZID=America/Los_Angeles:20240323T175500
-DTSTAMP:20240323T235300Z
-UID:ci0005472-tt14966898--2024-3-23-16-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20240323T201500
-DTEND;TZID=America/Los_Angeles:20240323T221000
-DTSTAMP:20240324T040800Z
-UID:ci0005472-tt14966898--2024-3-23-20-15
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Can See Forever
-DTSTART;TZID=America/Los_Angeles:20240323T181500
-DTEND;TZID=America/Los_Angeles:20240323T195500
-DTSTAMP:20240324T020800Z
-UID:ci0005472-tt30979453--2024-3-23-18-15
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nA documentary offering insights 
- into singer-songwriter Sam Beam\, the man behind Iron and Wine. Filmed ove
- r 3 years\, it goes beyond the typical concert film to probe the mythos ar
- ound Beam through candid interviews and backstage fo...\n\nhttps://www.imd
- b.com/title/tt30979453/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Night with the Devil
 DTSTART;TZID=America/Los_Angeles:20240324T201500
@@ -272,6 +234,44 @@ UID:ci0005472-tt7575046--2024-4-5-19-0
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
  rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
  ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddle of Fire
+DTSTART;TZID=America/Los_Angeles:20240406T163000
+DTEND;TZID=America/Los_Angeles:20240406T184500
+DTSTAMP:20240407T002300Z
+UID:ci0005472-tt7575046--2024-4-6-16-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
+ rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
+ ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddle of Fire
+DTSTART;TZID=America/Los_Angeles:20240406T190000
+DTEND;TZID=America/Los_Angeles:20240406T211500
+DTSTAMP:20240407T025300Z
+UID:ci0005472-tt7575046--2024-4-6-19-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
+ rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
+ ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:They Shot the Piano Player
+DTSTART;TZID=America/Los_Angeles:20240406T140000
+DTEND;TZID=America/Los_Angeles:20240406T160500
+DTSTAMP:20240406T215300Z
+UID:ci0005472-tt11242654--2024-4-6-14-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nNew York\, 2010. Jeff Harris\, 
+ a music journalist\, sets out to uncover the truth about Francisco Tenóri
+ o Júnior\, a young Brazilian samba-jazz pianist who disappeared in Buenos
+  Aires on March 18\, 1976.\n\nhttps://www.imdb.com/title/tt11242654/\n\nIM
+ Db rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

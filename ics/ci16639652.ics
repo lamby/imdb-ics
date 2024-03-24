@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240323T091518Z
+LAST-MODIFIED:20240324T073255Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Ennio (2021)
-DTSTART;TZID=America/Los_Angeles:20240323T183000
-DTEND;TZID=America/Los_Angeles:20240323T213000
-DTSTAMP:20240324T022300Z
-UID:ci16639652-tt3031654--2024-3-23-18-30
-DESCRIPTION:Duration: 2h 36m (156 mins)\n\nA documentary on the legendary 
- film composer Ennio Morricone.\n\nhttps://www.imdb.com/title/tt3031654/\n\
- nIMDb rating: 8.2
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ennio (2021)
 DTSTART;TZID=America/Los_Angeles:20240324T120000
