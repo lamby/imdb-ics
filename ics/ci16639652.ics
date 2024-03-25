@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240324T073255Z
+LAST-MODIFIED:20240325T080223Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Ennio (2021)
-DTSTART;TZID=America/Los_Angeles:20240324T120000
-DTEND;TZID=America/Los_Angeles:20240324T150000
-DTSTAMP:20240324T195300Z
-UID:ci16639652-tt3031654--2024-3-24-12-0
-DESCRIPTION:Duration: 2h 36m (156 mins)\n\nA documentary on the legendary 
- film composer Ennio Morricone.\n\nhttps://www.imdb.com/title/tt3031654/\n\
- nIMDb rating: 8.2
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stop Making Sense (1984)
 DTSTART;TZID=America/Los_Angeles:20240330T163000

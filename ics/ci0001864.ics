@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240324T073141Z
+LAST-MODIFIED:20240325T080109Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-BEGIN:VEVENT
-SUMMARY:Christspiracy
-DTSTART;TZID=America/Los_Angeles:20240324T153000
-DTEND;TZID=America/Los_Angeles:20240324T174500
-DTSTAMP:20240324T232300Z
-UID:ci0001864-tt29630794--2024-3-24-15-30
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nThe moral dimension of humanity
- 's interaction with nonhuman animals and the industries that profit from t
- heir exploitation\, as informed by world religions. A historical explanati
- on of how the current global situation came to be.\n\nhttps://www.imdb.com
- /title/tt29630794/\n\nIMDb rating: 9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rascal Does Not Dream of a Sister Venturing Out
-DTSTART;TZID=America/Los_Angeles:20240324T140000
-DTEND;TZID=America/Los_Angeles:20240324T153500
-DTSTAMP:20240324T215300Z
-UID:ci0001864-tt27348312--2024-3-24-14-0
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nAfter a draining December\, Saku
- ta is quickly nearing the end of his second year of high school. Since Mai
-  is a third-year student\, they don't have much time left together before 
- graduation rolls around. Meanwhile\, his sister\, Kaed...\n\nhttps://www.i
- mdb.com/title/tt27348312/\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rascal Does Not Dream of a Sister Venturing Out
 DTSTART;TZID=America/Los_Angeles:20240325T190000
@@ -42,7 +14,7 @@ DESCRIPTION:Duration: 1h 13m (73 mins)\n\nAfter a draining December\, Saku
  ta is quickly nearing the end of his second year of high school. Since Mai
   is a third-year student\, they don't have much time left together before 
  graduation rolls around. Meanwhile\, his sister\, Kaed...\n\nhttps://www.i
- mdb.com/title/tt27348312/\n\nIMDb rating: 7.2
+ mdb.com/title/tt27348312/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -367,6 +339,76 @@ DTSTART;TZID=America/Los_Angeles:20240406T214000
 DTEND;TZID=America/Los_Angeles:20240407T000000
 DTSTAMP:20240407T053300Z
 UID:ci0001864-tt22334258--2024-4-6-21-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
+ s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
+ n achingly beautiful love story. After the tragic loss of his best friend\
+ , a grieving young architect launches a search for her secret twi...\n\nht
+ tps://www.imdb.com/title/tt22334258/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gone with the Wind (1939)
+DTSTART;TZID=America/Los_Angeles:20240407T133000
+DTEND;TZID=America/Los_Angeles:20240407T175000
+DTSTAMP:20240407T212300Z
+UID:ci0001864-tt0031381--2024-4-7-13-30
+DESCRIPTION:Duration: 3h 58m (238 mins)\n\nA sheltered and manipulative So
+ uthern belle and a roguish profiteer face off in a turbulent romance as th
+ e society around them crumbles with the end of slavery and is rebuilt duri
+ ng the Civil War and Reconstruction periods.\n\nhttps://www.imdb.com/title
+ /tt0031381/\n\nIMDb rating: 8.2
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gone with the Wind (1939)
+DTSTART;TZID=America/Los_Angeles:20240407T190000
+DTEND;TZID=America/Los_Angeles:20240407T232000
+DTSTAMP:20240408T025300Z
+UID:ci0001864-tt0031381--2024-4-7-19-0
+DESCRIPTION:Duration: 3h 58m (238 mins)\n\nA sheltered and manipulative So
+ uthern belle and a roguish profiteer face off in a turbulent romance as th
+ e society around them crumbles with the end of slavery and is rebuilt duri
+ ng the Civil War and Reconstruction periods.\n\nhttps://www.imdb.com/title
+ /tt0031381/\n\nIMDb rating: 8.2
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Someone Like You
+DTSTART;TZID=America/Los_Angeles:20240407T131000
+DTEND;TZID=America/Los_Angeles:20240407T153000
+DTSTAMP:20240407T210300Z
+UID:ci0001864-tt22334258--2024-4-7-13-10
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
+ s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
+ n achingly beautiful love story. After the tragic loss of his best friend\
+ , a grieving young architect launches a search for her secret twi...\n\nht
+ tps://www.imdb.com/title/tt22334258/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Someone Like You
+DTSTART;TZID=America/Los_Angeles:20240407T160000
+DTEND;TZID=America/Los_Angeles:20240407T182000
+DTSTAMP:20240407T235300Z
+UID:ci0001864-tt22334258--2024-4-7-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
+ s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
+ n achingly beautiful love story. After the tragic loss of his best friend\
+ , a grieving young architect launches a search for her secret twi...\n\nht
+ tps://www.imdb.com/title/tt22334258/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Someone Like You
+DTSTART;TZID=America/Los_Angeles:20240407T185000
+DTEND;TZID=America/Los_Angeles:20240407T211000
+DTSTAMP:20240408T024300Z
+UID:ci0001864-tt22334258--2024-4-7-18-50
 DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
