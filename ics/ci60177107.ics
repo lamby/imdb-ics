@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240325T080207Z
+LAST-MODIFIED:20240326T083043Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Eve's Bayou (1997)
-DTSTART;TZID=America/Los_Angeles:20240325T193000
-DTEND;TZID=America/Los_Angeles:20240325T214000
-DTSTAMP:20240326T032300Z
-UID:ci60177107-tt0119080--2024-3-25-19-30
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nWhat did little Eve see--and ho
- w will it haunt her? Husband\, father and womanizer Louis Batiste is the h
- ead of an affluent family\, but it's the women who rule this gothic world 
- of secrets\, lies and mystic forces.\n\nhttps://www.imdb.com/title/tt01190
- 80/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Top Knot Detective (2017)
-DTSTART;TZID=America/Los_Angeles:20240325T163000
-DTEND;TZID=America/Los_Angeles:20240325T182000
-DTSTAMP:20240326T002300Z
-UID:ci60177107-tt4119054--2024-3-25-16-30
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThis is the story of how a faile
- d Japanese samurai series became an instant cult classic.\n\nhttps://www.i
- mdb.com/title/tt4119054/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pacific Rim (2013)
 DTSTART;TZID=America/Los_Angeles:20240326T163000
