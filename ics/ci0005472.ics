@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240326T082854Z
+LAST-MODIFIED:20240327T095521Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -119,7 +119,7 @@ UID:ci0005472-tt0070239--2024-3-31-17-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nFilm version of the musical sta
  ge play\, presenting the last few weeks of Christ's life told in an anachr
  onistic manner.\n\nhttps://www.imdb.com/title/tt0070239/\n\nIMDb rating: 7
- .4
+ .3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -253,6 +253,18 @@ DTSTART;TZID=America/Los_Angeles:20240407T180000
 DTEND;TZID=America/Los_Angeles:20240407T201500
 DTSTAMP:20240408T015300Z
 UID:ci0005472-tt7575046--2024-4-7-18-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
+ rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
+ ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddle of Fire
+DTSTART;TZID=America/Los_Angeles:20240409T191500
+DTEND;TZID=America/Los_Angeles:20240409T213000
+DTSTAMP:20240410T030800Z
+UID:ci0005472-tt7575046--2024-4-9-19-15
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
  rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
  ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1

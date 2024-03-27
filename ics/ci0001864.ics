@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240326T082942Z
+LAST-MODIFIED:20240327T095611Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-BEGIN:VEVENT
-SUMMARY:Winnie-the-Pooh: Blood and Honey 2
-DTSTART;TZID=America/Los_Angeles:20240326T193000
-DTEND;TZID=America/Los_Angeles:20240326T213000
-DTSTAMP:20240327T032300Z
-UID:ci0001864-tt23330554--2024-3-26-19-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nNot wanting to live in the shad
- ows any longer\, Winnie-the-Pooh\, Piglet\, Owl and Tigger take their figh
- t to the town of Ashdown\, leaving a bloody trail of death and mayhem in t
- heir wake.\n\nhttps://www.imdb.com/title/tt23330554/\n\nIMDb rating: 4.1
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chinatown (1974)
 DTSTART;TZID=America/Los_Angeles:20240327T183000
@@ -39,7 +26,7 @@ UID:ci0001864-tt23330554--2024-3-27-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nNot wanting to live in the shad
  ows any longer\, Winnie-the-Pooh\, Piglet\, Owl and Tigger take their figh
  t to the town of Ashdown\, leaving a bloody trail of death and mayhem in t
- heir wake.\n\nhttps://www.imdb.com/title/tt23330554/\n\nIMDb rating: 4.1
+ heir wake.\n\nhttps://www.imdb.com/title/tt23330554/\n\nIMDb rating: 6.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -65,7 +52,7 @@ UID:ci0001864-tt23330554--2024-3-28-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nNot wanting to live in the shad
  ows any longer\, Winnie-the-Pooh\, Piglet\, Owl and Tigger take their figh
  t to the town of Ashdown\, leaving a bloody trail of death and mayhem in t
- heir wake.\n\nhttps://www.imdb.com/title/tt23330554/\n\nIMDb rating: 4.1
+ heir wake.\n\nhttps://www.imdb.com/title/tt23330554/\n\nIMDb rating: 6.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -451,6 +438,48 @@ DTSTART;TZID=America/Los_Angeles:20240408T185000
 DTEND;TZID=America/Los_Angeles:20240408T211000
 DTSTAMP:20240409T024300Z
 UID:ci0001864-tt22334258--2024-4-8-18-50
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
+ s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
+ n achingly beautiful love story. After the tragic loss of his best friend\
+ , a grieving young architect launches a search for her secret twi...\n\nht
+ tps://www.imdb.com/title/tt22334258/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Someone Like You
+DTSTART;TZID=America/Los_Angeles:20240409T131000
+DTEND;TZID=America/Los_Angeles:20240409T153000
+DTSTAMP:20240409T210300Z
+UID:ci0001864-tt22334258--2024-4-9-13-10
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
+ s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
+ n achingly beautiful love story. After the tragic loss of his best friend\
+ , a grieving young architect launches a search for her secret twi...\n\nht
+ tps://www.imdb.com/title/tt22334258/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Someone Like You
+DTSTART;TZID=America/Los_Angeles:20240409T160000
+DTEND;TZID=America/Los_Angeles:20240409T182000
+DTSTAMP:20240409T235300Z
+UID:ci0001864-tt22334258--2024-4-9-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
+ s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
+ n achingly beautiful love story. After the tragic loss of his best friend\
+ , a grieving young architect launches a search for her secret twi...\n\nht
+ tps://www.imdb.com/title/tt22334258/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Someone Like You
+DTSTART;TZID=America/Los_Angeles:20240409T185000
+DTEND;TZID=America/Los_Angeles:20240409T211000
+DTSTAMP:20240410T024300Z
+UID:ci0001864-tt22334258--2024-4-9-18-50
 DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
