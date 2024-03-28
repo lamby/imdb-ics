@@ -1,38 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240327T095711Z
+LAST-MODIFIED:20240328T083148Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
-SUMMARY:Nope (2022)
-DTSTART;TZID=America/Los_Angeles:20240327T190000
-DTEND;TZID=America/Los_Angeles:20240327T213000
-DTSTAMP:20240328T025300Z
-UID:ci60177107-tt10954984--2024-3-27-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nThe residents of a lonely gulch
-  in inland California bear witness to an uncanny and chilling discovery.\n
- \nhttps://www.imdb.com/title/tt10954984/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tremors (1990)
-DTSTART;TZID=America/Los_Angeles:20240327T163000
-DTEND;TZID=America/Los_Angeles:20240327T183000
-DTSTAMP:20240328T002300Z
-UID:ci60177107-tt0100814--2024-3-27-16-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNatives of a small isolated town
-  defend themselves against strange underground creatures which are killing
-  them one by one.\n\nhttps://www.imdb.com/title/tt0100814/\n\nIMDb rating:
-  7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Top Knot Detective (2017)
 DTSTART;TZID=America/Los_Angeles:20240328T171500
-DTEND;TZID=America/Los_Angeles:20240328T190500
+DTEND;TZID=America/Los_Angeles:20240328T191000
 DTSTAMP:20240329T010800Z
 UID:ci60177107-tt4119054--2024-3-28-17-15
 DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThis is the story of how a faile
@@ -44,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloverfield (2008)
 DTSTART;TZID=America/Los_Angeles:20240329T160000
-DTEND;TZID=America/Los_Angeles:20240329T174500
+DTEND;TZID=America/Los_Angeles:20240329T175000
 DTSTAMP:20240329T235300Z
 UID:ci60177107-tt1060277--2024-3-29-16-0
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA group of friends venture deep 
@@ -56,13 +31,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Host (2006)
 DTSTART;TZID=America/Los_Angeles:20240330T130000
-DTEND;TZID=America/Los_Angeles:20240330T152000
+DTEND;TZID=America/Los_Angeles:20240330T152500
 DTSTAMP:20240330T205300Z
 UID:ci60177107-tt0468492--2024-3-30-13-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA monster emerges from Seoul's 
  Han River and begins attacking people. One victim's loving family does wha
  t it can to rescue her from its clutches.\n\nhttps://www.imdb.com/title/tt
  0468492/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's Only Life After All
+DTSTART;TZID=America/Los_Angeles:20240410T190000
+DTEND;TZID=America/Los_Angeles:20240410T213000
+DTSTAMP:20240411T025300Z
+UID:ci60177107-tt12716222--2024-4-10-19-0
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nKnown for stirring harmonies an
+ d socially conscious lyrics\, iconic folk rock duo Indigo Girls are the su
+ bject of this intimate and insightful documentary\, which tracks their dec
+ ades-long career.\n\nhttps://www.imdb.com/title/tt12716222/\n\nIMDb rating
+ : 8.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

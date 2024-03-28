@@ -1,25 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240327T095521Z
+LAST-MODIFIED:20240328T082950Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20240327T193000
-DTEND;TZID=America/Los_Angeles:20240327T212500
-DTSTAMP:20240328T032300Z
-UID:ci0005472-tt14966898--2024-3-27-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kumiko\, The Treasure Hunter (2014)
 DTSTART;TZID=America/Los_Angeles:20240328T181500
-DTEND;TZID=America/Los_Angeles:20240328T202000
+DTEND;TZID=America/Los_Angeles:20240328T202500
 DTSTAMP:20240329T020800Z
 UID:ci0005472-tt3263614--2024-3-28-18-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA jaded Japanese woman discover
@@ -32,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Night with the Devil
 DTSTART;TZID=America/Los_Angeles:20240328T203000
-DTEND;TZID=America/Los_Angeles:20240328T222500
+DTEND;TZID=America/Los_Angeles:20240328T223000
 DTSTAMP:20240329T042300Z
 UID:ci0005472-tt14966898--2024-3-28-20-30
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
@@ -44,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kumiko\, The Treasure Hunter (2014)
 DTSTART;TZID=America/Los_Angeles:20240329T211500
-DTEND;TZID=America/Los_Angeles:20240329T232000
+DTEND;TZID=America/Los_Angeles:20240329T232500
 DTSTAMP:20240330T050800Z
 UID:ci0005472-tt3263614--2024-3-29-21-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA jaded Japanese woman discover
@@ -57,7 +45,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:They Shot the Piano Player
 DTSTART;TZID=America/Los_Angeles:20240329T190000
-DTEND;TZID=America/Los_Angeles:20240329T210500
+DTEND;TZID=America/Los_Angeles:20240329T211000
 DTSTAMP:20240330T025300Z
 UID:ci0005472-tt11242654--2024-3-29-19-0
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nNew York\, 2010. Jeff Harris\, 
@@ -71,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dragon Inn (1992)
 DTSTART;TZID=America/Los_Angeles:20240330T163000
-DTEND;TZID=America/Los_Angeles:20240330T182000
+DTEND;TZID=America/Los_Angeles:20240330T182500
 DTSTAMP:20240331T002300Z
 UID:ci0005472-tt0105859--2024-3-30-16-30
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nDuring the Ming Dynasty\, Tsao S
@@ -85,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:They Shot the Piano Player
 DTSTART;TZID=America/Los_Angeles:20240330T190000
-DTEND;TZID=America/Los_Angeles:20240330T210500
+DTEND;TZID=America/Los_Angeles:20240330T211000
 DTSTAMP:20240331T025300Z
 UID:ci0005472-tt11242654--2024-3-30-19-0
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nNew York\, 2010. Jeff Harris\, 
@@ -99,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dragon Inn (1992)
 DTSTART;TZID=America/Los_Angeles:20240331T200000
-DTEND;TZID=America/Los_Angeles:20240331T215000
+DTEND;TZID=America/Los_Angeles:20240331T215500
 DTSTAMP:20240401T035300Z
 UID:ci0005472-tt0105859--2024-3-31-20-0
 DESCRIPTION:Duration: 1h 28m (88 mins)\n\nDuring the Ming Dynasty\, Tsao S
@@ -113,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jesus Christ Superstar (1973)
 DTSTART;TZID=America/Los_Angeles:20240331T173000
-DTEND;TZID=America/Los_Angeles:20240331T194000
+DTEND;TZID=America/Los_Angeles:20240331T194500
 DTSTAMP:20240401T012300Z
 UID:ci0005472-tt0070239--2024-3-31-17-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nFilm version of the musical sta
@@ -126,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:They Shot the Piano Player
 DTSTART;TZID=America/Los_Angeles:20240331T151500
-DTEND;TZID=America/Los_Angeles:20240331T172000
+DTEND;TZID=America/Los_Angeles:20240331T172500
 DTSTAMP:20240331T230800Z
 UID:ci0005472-tt11242654--2024-3-31-15-15
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nNew York\, 2010. Jeff Harris\, 
@@ -138,9 +126,21 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Night with the Devil
+DTSTART;TZID=America/Los_Angeles:20240401T213000
+DTEND;TZID=America/Los_Angeles:20240401T233000
+DTSTAMP:20240402T052300Z
+UID:ci0005472-tt14966898--2024-4-1-21-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
+ 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
+ n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Thin Man (1934)
 DTSTART;TZID=America/Los_Angeles:20240401T193000
-DTEND;TZID=America/Los_Angeles:20240401T212500
+DTEND;TZID=America/Los_Angeles:20240401T213000
 DTSTAMP:20240402T032300Z
 UID:ci0005472-tt0025878--2024-4-1-19-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
@@ -150,9 +150,21 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Night with the Devil
+DTSTART;TZID=America/Los_Angeles:20240402T213000
+DTEND;TZID=America/Los_Angeles:20240402T233000
+DTSTAMP:20240403T052300Z
+UID:ci0005472-tt14966898--2024-4-2-21-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
+ 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
+ n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Thin Man (1934)
 DTSTART;TZID=America/Los_Angeles:20240402T193000
-DTEND;TZID=America/Los_Angeles:20240402T212500
+DTEND;TZID=America/Los_Angeles:20240402T213000
 DTSTAMP:20240403T032300Z
 UID:ci0005472-tt0025878--2024-4-2-19-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
@@ -162,9 +174,21 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Night with the Devil
+DTSTART;TZID=America/Los_Angeles:20240403T213000
+DTEND;TZID=America/Los_Angeles:20240403T233000
+DTSTAMP:20240404T052300Z
+UID:ci0005472-tt14966898--2024-4-3-21-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
+ 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
+ n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Thin Man (1934)
 DTSTART;TZID=America/Los_Angeles:20240403T193000
-DTEND;TZID=America/Los_Angeles:20240403T212500
+DTEND;TZID=America/Los_Angeles:20240403T213000
 DTSTAMP:20240404T032300Z
 UID:ci0005472-tt0025878--2024-4-3-19-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
@@ -176,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Thin Man (1934)
 DTSTART;TZID=America/Los_Angeles:20240404T193000
-DTEND;TZID=America/Los_Angeles:20240404T212500
+DTEND;TZID=America/Los_Angeles:20240404T213000
 DTSTAMP:20240405T032300Z
 UID:ci0005472-tt0025878--2024-4-4-19-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
@@ -188,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240405T190000
-DTEND;TZID=America/Los_Angeles:20240405T211500
+DTEND;TZID=America/Los_Angeles:20240405T212000
 DTSTAMP:20240406T025300Z
 UID:ci0005472-tt7575046--2024-4-5-19-0
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
@@ -200,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240406T163000
-DTEND;TZID=America/Los_Angeles:20240406T184500
+DTEND;TZID=America/Los_Angeles:20240406T185000
 DTSTAMP:20240407T002300Z
 UID:ci0005472-tt7575046--2024-4-6-16-30
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
@@ -212,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240406T190000
-DTEND;TZID=America/Los_Angeles:20240406T211500
+DTEND;TZID=America/Los_Angeles:20240406T212000
 DTSTAMP:20240407T025300Z
 UID:ci0005472-tt7575046--2024-4-6-19-0
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
@@ -224,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:They Shot the Piano Player
 DTSTART;TZID=America/Los_Angeles:20240406T140000
-DTEND;TZID=America/Los_Angeles:20240406T160500
+DTEND;TZID=America/Los_Angeles:20240406T161000
 DTSTAMP:20240406T215300Z
 UID:ci0005472-tt11242654--2024-4-6-14-0
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nNew York\, 2010. Jeff Harris\, 
@@ -238,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240407T153000
-DTEND;TZID=America/Los_Angeles:20240407T174500
+DTEND;TZID=America/Los_Angeles:20240407T175000
 DTSTAMP:20240407T232300Z
 UID:ci0005472-tt7575046--2024-4-7-15-30
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
@@ -250,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240407T180000
-DTEND;TZID=America/Los_Angeles:20240407T201500
+DTEND;TZID=America/Los_Angeles:20240407T202000
 DTSTAMP:20240408T015300Z
 UID:ci0005472-tt7575046--2024-4-7-18-0
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
@@ -260,14 +284,39 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Night with the Devil
+DTSTART;TZID=America/Los_Angeles:20240408T193000
+DTEND;TZID=America/Los_Angeles:20240408T213000
+DTSTAMP:20240409T032300Z
+UID:ci0005472-tt14966898--2024-4-8-19-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
+ 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
+ n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240409T191500
-DTEND;TZID=America/Los_Angeles:20240409T213000
+DTEND;TZID=America/Los_Angeles:20240409T213500
 DTSTAMP:20240410T030800Z
 UID:ci0005472-tt7575046--2024-4-9-19-15
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
  rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
  ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kim's Video
+DTSTART;TZID=America/Los_Angeles:20240412T190000
+DTEND;TZID=America/Los_Angeles:20240412T205000
+DTSTAMP:20240413T025300Z
+UID:ci0005472-tt24132144--2024-4-12-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
+ s of various cinema genres\, the filmmaker sets off on a quest to find a l
+ egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
+ .imdb.com/title/tt24132144/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
