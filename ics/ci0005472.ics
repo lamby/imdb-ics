@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240328T082950Z
+LAST-MODIFIED:20240329T083408Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kumiko\, The Treasure Hunter (2014)
-DTSTART;TZID=America/Los_Angeles:20240328T181500
-DTEND;TZID=America/Los_Angeles:20240328T202500
-DTSTAMP:20240329T020800Z
-UID:ci0005472-tt3263614--2024-3-28-18-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA jaded Japanese woman discover
- s a hidden copy of Fargo (1996) on VHS\, believing it to be a treasure map
-  indicating the location of a large case of money.\n\nhttps://www.imdb.com
- /title/tt3263614/\n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20240328T203000
-DTEND;TZID=America/Los_Angeles:20240328T223000
-DTSTAMP:20240329T042300Z
-UID:ci0005472-tt14966898--2024-3-28-20-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kumiko\, The Treasure Hunter (2014)
 DTSTART;TZID=America/Los_Angeles:20240329T211500
@@ -107,7 +82,7 @@ UID:ci0005472-tt0070239--2024-3-31-17-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nFilm version of the musical sta
  ge play\, presenting the last few weeks of Christ's life told in an anachr
  onistic manner.\n\nhttps://www.imdb.com/title/tt0070239/\n\nIMDb rating: 7
- .3
+ .4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -317,6 +292,44 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
  s of various cinema genres\, the filmmaker sets off on a quest to find a l
  egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
  .imdb.com/title/tt24132144/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kim's Video
+DTSTART;TZID=America/Los_Angeles:20240413T143000
+DTEND;TZID=America/Los_Angeles:20240413T162000
+DTSTAMP:20240413T222300Z
+UID:ci0005472-tt24132144--2024-4-13-14-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
+ s of various cinema genres\, the filmmaker sets off on a quest to find a l
+ egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
+ .imdb.com/title/tt24132144/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kim's Video
+DTSTART;TZID=America/Los_Angeles:20240413T191500
+DTEND;TZID=America/Los_Angeles:20240413T210500
+DTSTAMP:20240414T030800Z
+UID:ci0005472-tt24132144--2024-4-13-19-15
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
+ s of various cinema genres\, the filmmaker sets off on a quest to find a l
+ egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
+ .imdb.com/title/tt24132144/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddle of Fire
+DTSTART;TZID=America/Los_Angeles:20240413T164500
+DTEND;TZID=America/Los_Angeles:20240413T190500
+DTSTAMP:20240414T003800Z
+UID:ci0005472-tt7575046--2024-4-13-16-45
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
+ rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
+ ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
