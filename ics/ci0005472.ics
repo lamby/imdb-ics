@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240329T083408Z
+LAST-MODIFIED:20240330T083830Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kumiko\, The Treasure Hunter (2014)
-DTSTART;TZID=America/Los_Angeles:20240329T211500
-DTEND;TZID=America/Los_Angeles:20240329T232500
-DTSTAMP:20240330T050800Z
-UID:ci0005472-tt3263614--2024-3-29-21-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA jaded Japanese woman discover
- s a hidden copy of Fargo (1996) on VHS\, believing it to be a treasure map
-  indicating the location of a large case of money.\n\nhttps://www.imdb.com
- /title/tt3263614/\n\nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:They Shot the Piano Player
-DTSTART;TZID=America/Los_Angeles:20240329T190000
-DTEND;TZID=America/Los_Angeles:20240329T211000
-DTSTAMP:20240330T025300Z
-UID:ci0005472-tt11242654--2024-3-29-19-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nNew York\, 2010. Jeff Harris\, 
- a music journalist\, sets out to uncover the truth about Francisco Tenóri
- o Júnior\, a young Brazilian samba-jazz pianist who disappeared in Buenos
-  Aires on March 18\, 1976.\n\nhttps://www.imdb.com/title/tt11242654/\n\nIM
- Db rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dragon Inn (1992)
 DTSTART;TZID=America/Los_Angeles:20240330T163000
@@ -327,6 +300,45 @@ DTSTART;TZID=America/Los_Angeles:20240413T164500
 DTEND;TZID=America/Los_Angeles:20240413T190500
 DTSTAMP:20240414T003800Z
 UID:ci0005472-tt7575046--2024-4-13-16-45
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
+ rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
+ ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=America/Los_Angeles:20240414T173000
+DTEND;TZID=America/Los_Angeles:20240414T192000
+DTSTAMP:20240415T012300Z
+UID:ci0005472-tt22857256--2024-4-14-17-30
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nYears after leaving her Palestin
+ ian village to pursue an acting career in France\, Hiam Abbass returns hom
+ e with her daughter\, in this intimate documentary about four generations 
+ of women and their shared legacy of separation.\n\nhttps://www.imdb.com/ti
+ tle/tt22857256/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kim's Video
+DTSTART;TZID=America/Los_Angeles:20240414T151500
+DTEND;TZID=America/Los_Angeles:20240414T170500
+DTSTAMP:20240414T230800Z
+UID:ci0005472-tt24132144--2024-4-14-15-15
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
+ s of various cinema genres\, the filmmaker sets off on a quest to find a l
+ egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
+ .imdb.com/title/tt24132144/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddle of Fire
+DTSTART;TZID=America/Los_Angeles:20240414T193000
+DTEND;TZID=America/Los_Angeles:20240414T215000
+DTSTAMP:20240415T032300Z
+UID:ci0005472-tt7575046--2024-4-14-19-30
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
  rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
  ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1

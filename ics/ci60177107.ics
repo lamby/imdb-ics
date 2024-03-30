@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240329T083811Z
+LAST-MODIFIED:20240330T084100Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cloverfield (2008)
-DTSTART;TZID=America/Los_Angeles:20240329T160000
-DTEND;TZID=America/Los_Angeles:20240329T175000
-DTSTAMP:20240329T235300Z
-UID:ci60177107-tt1060277--2024-3-29-16-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA group of friends venture deep 
- into the streets of New York on a rescue mission during a rampaging monste
- r attack.\n\nhttps://www.imdb.com/title/tt1060277/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Host (2006)
 DTSTART;TZID=America/Los_Angeles:20240330T130000
