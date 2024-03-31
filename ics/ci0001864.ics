@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240330T083939Z
+LAST-MODIFIED:20240331T090635Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
 BEGIN:VEVENT
@@ -531,6 +531,34 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
  tps://www.imdb.com/title/tt22334258/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irena's Vow
+DTSTART;TZID=America/Los_Angeles:20240415T160000
+DTEND;TZID=America/Los_Angeles:20240415T183000
+DTSTAMP:20240415T235300Z
+UID:ci0001864-tt19869662--2024-4-15-16-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows the life of a Polish nu
+ rse Irene Gut Opdyke who was awarded the Righteous Among the Nations medal
+  for showing remarkable courage in her attempt to save Polish Jews during 
+ World War II.\n\nhttps://www.imdb.com/title/tt19869662/\n\nIMDb rating: 7.
+ 5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irena's Vow
+DTSTART;TZID=America/Los_Angeles:20240415T190000
+DTEND;TZID=America/Los_Angeles:20240415T213000
+DTSTAMP:20240416T025300Z
+UID:ci0001864-tt19869662--2024-4-15-19-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nFollows the life of a Polish nu
+ rse Irene Gut Opdyke who was awarded the Righteous Among the Nations medal
+  for showing remarkable courage in her attempt to save Polish Jews during 
+ World War II.\n\nhttps://www.imdb.com/title/tt19869662/\n\nIMDb rating: 7.
+ 5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
