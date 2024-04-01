@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240331T090529Z
+LAST-MODIFIED:20240401T072505Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Dragon Inn (1992)
-DTSTART;TZID=America/Los_Angeles:20240331T200000
-DTEND;TZID=America/Los_Angeles:20240331T215500
-DTSTAMP:20240401T035300Z
-UID:ci0005472-tt0105859--2024-3-31-20-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nDuring the Ming Dynasty\, Tsao S
- iu-yan\, a power-crazed eunuch who rules his desert region of China as if 
- he were the Emperor\, ruthlessly thwarts plots against him and sets a trap
-  for one of this enemies at the Dragon Gate Inn.\n\nhttps://www.imdb.com/t
- itle/tt0105859/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesus Christ Superstar (1973)
-DTSTART;TZID=America/Los_Angeles:20240331T173000
-DTEND;TZID=America/Los_Angeles:20240331T194500
-DTSTAMP:20240401T012300Z
-UID:ci0005472-tt0070239--2024-3-31-17-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nFilm version of the musical sta
- ge play\, presenting the last few weeks of Christ's life told in an anachr
- onistic manner.\n\nhttps://www.imdb.com/title/tt0070239/\n\nIMDb rating: 7
- .4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:They Shot the Piano Player
-DTSTART;TZID=America/Los_Angeles:20240331T151500
-DTEND;TZID=America/Los_Angeles:20240331T172500
-DTSTAMP:20240331T230800Z
-UID:ci0005472-tt11242654--2024-3-31-15-15
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nNew York\, 2010. Jeff Harris\, 
- a music journalist\, sets out to uncover the truth about Francisco Tenóri
- o Júnior\, a young Brazilian samba-jazz pianist who disappeared in Buenos
-  Aires on March 18\, 1976.\n\nhttps://www.imdb.com/title/tt11242654/\n\nIM
- Db rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Night with the Devil
 DTSTART;TZID=America/Los_Angeles:20240401T213000
@@ -327,6 +286,18 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
  s of various cinema genres\, the filmmaker sets off on a quest to find a l
  egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
  .imdb.com/title/tt24132144/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddle of Fire
+DTSTART;TZID=America/Los_Angeles:20240416T191500
+DTEND;TZID=America/Los_Angeles:20240416T213500
+DTSTAMP:20240417T030800Z
+UID:ci0005472-tt7575046--2024-4-16-19-15
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
+ rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
+ ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

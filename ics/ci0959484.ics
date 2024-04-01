@@ -1,191 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240331T090457Z
+LAST-MODIFIED:20240401T072443Z
 NAME:Arts Picturehouse\, Cambridge
 X-WR-CALNAME:Arts Picturehouse\, Cambridge
-BEGIN:VEVENT
-SUMMARY:City of God (2002)
-DTSTART;TZID=Europe/London:20240331T193000
-DTEND;TZID=Europe/London:20240331T220500
-DTSTAMP:20240331T193100Z
-UID:ci0959484-tt0317248--2024-3-31-19-30
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nIn the slums of Rio\, two kids'
-  paths diverge as one struggles to become a photographer and the other a k
- ingpin.\n\nhttps://www.imdb.com/title/tt0317248/\n\nIMDb rating: 8.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drift
-DTSTART;TZID=Europe/London:20240331T181000
-DTEND;TZID=Europe/London:20240331T201000
-DTSTAMP:20240331T181100Z
-UID:ci0959484-tt20415224--2024-3-31-18-10
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nJacqueline escapes her war-torn 
- country to a Greek island. She meets an unmoored tour guide and the two be
- come close as they each find hope in the other.\n\nhttps://www.imdb.com/ti
- tle/tt20415224/\n\nIMDb rating: 6.2
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240331T153000
-DTEND;TZID=Europe/London:20240331T184500
-DTSTAMP:20240331T153100Z
-UID:ci0959484-tt15239678--2024-3-31-15-30
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .8
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240331T190000
-DTEND;TZID=Europe/London:20240331T221500
-DTSTAMP:20240331T190100Z
-UID:ci0959484-tt15239678--2024-3-31-19-0
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .8
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monster
-DTSTART;TZID=Europe/London:20240331T104500
-DTEND;TZID=Europe/London:20240331T132000
-DTSTAMP:20240331T104600Z
-UID:ci0959484-tt23736044--2024-3-31-10-45
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nA mother demands answers from h
- er son's teacher when her son begins acting strangely.\n\nhttps://www.imdb
- .com/title/tt23736044/\n\nIMDb rating: 7.9
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240331T160000
-DTEND;TZID=Europe/London:20240331T180000
-DTSTAMP:20240331T160100Z
-UID:ci0959484-tt13397574--2024-3-31-16-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240331T201500
-DTEND;TZID=Europe/London:20240331T221500
-DTSTAMP:20240331T201600Z
-UID:ci0959484-tt13397574--2024-3-31-20-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Theatre Live: The Motive and the Cue
-DTSTART;TZID=Europe/London:20240331T135000
-DTEND;TZID=Europe/London:20240331T171500
-DTSTAMP:20240331T135100Z
-UID:ci0959484-tt23781890--2024-3-31-13-50
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nExplores acting giants Burton a
- nd Gielgud staged Hamlet on Broadway in 1964.\n\nhttps://www.imdb.com/titl
- e/tt23781890/\n\nIMDb rating: 8.7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orlando\, My Political Biography
-DTSTART;TZID=Europe/London:20240331T171500
-DTEND;TZID=Europe/London:20240331T192000
-DTSTAMP:20240331T171600Z
-UID:ci0959484-tt26448981--2024-3-31-17-15
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nAcademic virtuoso turned filmmak
- er Paul B. Preciado's Berlin Film Festival award-winning doc tells his and
-  others' stories of transition through unique reenactments and visual inte
- rpretations of Virginia Woolf's Orlando: A Biography.\n\nhttps://www.imdb.
- com/title/tt26448981/\n\nIMDb rating: 7
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Perfect Days
-DTSTART;TZID=Europe/London:20240331T110000
-DTEND;TZID=Europe/London:20240331T133000
-DTSTAMP:20240331T110100Z
-UID:ci0959484-tt27503384--2024-3-31-11-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nHirayama cleans public toilets 
- in Tokyo\, lives his life in simplicity and daily tranquility. Some encoun
- ters also lead him to reflect on himself.\n\nhttps://www.imdb.com/title/tt
- 27503384/\n\nIMDb rating: 7.9
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot Dreams
-DTSTART;TZID=Europe/London:20240331T114000
-DTEND;TZID=Europe/London:20240331T135000
-DTSTAMP:20240331T114100Z
-UID:ci0959484-tt13429870--2024-3-31-11-40
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nThe adventures and misfortunes 
- of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
- m/title/tt13429870/\n\nIMDb rating: 7.6
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lavender Hill Mob (1951)
-DTSTART;TZID=Europe/London:20240331T133000
-DTEND;TZID=Europe/London:20240331T152000
-DTSTAMP:20240331T133100Z
-UID:ci0959484-tt0044829--2024-3-31-13-30
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA meek bank clerk who oversees t
- he shipment of bullion joins with an eccentric neighbor to steal gold bars
-  and smuggle them out of the country as miniature Eiffel Towers.\n\nhttps:
- //www.imdb.com/title/tt0044829/\n\nIMDb rating: 7.5
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Snail and the Whale (2019)
-DTSTART;TZID=Europe/London:20240331T110000
-DTEND;TZID=Europe/London:20240331T115500
-DTSTAMP:20240331T110100Z
-UID:ci0959484-tt9303756--2024-3-31-11-0
-DESCRIPTION:Duration: 0h 27m (27 mins)\n\nA tiny snail goes on an amazing 
- journey by hitching a ride on the tail of a huge humpback whale. Based on 
- the picture book written by Julia Donaldson and illustrated by Axel Scheff
- ler.\n\nhttps://www.imdb.com/title/tt9303756/\n\nIMDb rating: 7.3
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240331T134000
-DTEND;TZID=Europe/London:20240331T154500
-DTSTAMP:20240331T134100Z
-UID:ci0959484-tt20234774--2024-3-31-13-40
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
- dge\, CB2 3AR
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drift
 DTSTART;TZID=Europe/London:20240401T111500
@@ -882,7 +700,7 @@ UID:ci0959484-tt16311464--2024-4-11-20-15
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nFifteen years after she got bur
  nt when the pub where she slept as a child caught fire\, Franky (23) seeks
   revenge because she still hasn't found any answers.\n\nhttps://www.imdb.c
- om/title/tt16311464/\n\nIMDb rating: 6.7
+ om/title/tt16311464/\n\nIMDb rating: 6.5
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
@@ -1104,6 +922,72 @@ DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
  /tt21261712/
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Black
+DTSTART;TZID=Europe/London:20240416T124000
+DTEND;TZID=Europe/London:20240416T151000
+DTSTAMP:20240416T124100Z
+UID:ci0959484-tt21261712--2024-4-16-12-40
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
+ ouse\, through the journey of adolescence to adulthood and the creation of
+  one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
+ /tt21261712/
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Black
+DTSTART;TZID=Europe/London:20240416T152000
+DTEND;TZID=Europe/London:20240416T175000
+DTSTAMP:20240416T152100Z
+UID:ci0959484-tt21261712--2024-4-16-15-20
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
+ ouse\, through the journey of adolescence to adulthood and the creation of
+  one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
+ /tt21261712/
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Black
+DTSTART;TZID=Europe/London:20240416T180000
+DTEND;TZID=Europe/London:20240416T203000
+DTSTAMP:20240416T180100Z
+UID:ci0959484-tt21261712--2024-4-16-18-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
+ ouse\, through the journey of adolescence to adulthood and the creation of
+  one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
+ /tt21261712/
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Black
+DTSTART;TZID=Europe/London:20240416T204000
+DTEND;TZID=Europe/London:20240416T231000
+DTSTAMP:20240416T204100Z
+UID:ci0959484-tt21261712--2024-4-16-20-40
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
+ ouse\, through the journey of adolescence to adulthood and the creation of
+  one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
+ /tt21261712/
+LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
+ dge\, CB2 3AR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge on the River Kwai (1957)
+DTSTART;TZID=Europe/London:20240416T130000
+DTEND;TZID=Europe/London:20240416T161000
+DTSTAMP:20240416T130100Z
+UID:ci0959484-tt0050212--2024-4-16-13-0
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nBritish POWs are forced to buil
+ d a railway bridge across the river Kwai for their Japanese captors in occ
+ upied Burma\, not knowing that the allied forces are planning a daring com
+ mando raid through the jungle to destroy it.\n\nhttps://www.imdb.com/title
+ /tt0050212/\n\nIMDb rating: 8.1
 LOCATION:Arts Picturehouse\, Cambridge\, 38-39 St Andrew's Street\, Cambri
  dge\, CB2 3AR
 END:VEVENT
