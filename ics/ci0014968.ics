@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240401T072617Z
+LAST-MODIFIED:20240402T083906Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=America/Los_Angeles:20240401T154500
-DTEND;TZID=America/Los_Angeles:20240401T180500
-DTSTAMP:20240401T233800Z
-UID:ci0014968-tt14539740--2024-4-1-15-45
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=America/Los_Angeles:20240401T190000
-DTEND;TZID=America/Los_Angeles:20240401T212000
-DTSTAMP:20240402T025300Z
-UID:ci0014968-tt14539740--2024-4-1-19-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=America/Los_Angeles:20240401T221500
-DTEND;TZID=America/Los_Angeles:20240402T003500
-DTSTAMP:20240402T060800Z
-UID:ci0014968-tt14539740--2024-4-1-22-15
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
 DTSTART;TZID=America/Los_Angeles:20240402T154500
@@ -721,6 +682,19 @@ DTSTART;TZID=America/Los_Angeles:20240414T150000
 DTEND;TZID=America/Los_Angeles:20240414T173000
 DTSTAMP:20240414T225300Z
 UID:ci0014968-tt0073195--2024-4-14-15-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240417T183000
+DTEND;TZID=America/Los_Angeles:20240417T210000
+DTSTAMP:20240418T022300Z
+UID:ci0014968-tt0073195--2024-4-17-18-30
 DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
  haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
  rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
