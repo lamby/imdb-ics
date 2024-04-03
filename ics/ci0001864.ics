@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240402T083840Z
+LAST-MODIFIED:20240403T074059Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-BEGIN:VEVENT
-SUMMARY:Someone Like You
-DTSTART;TZID=America/Los_Angeles:20240402T131000
-DTEND;TZID=America/Los_Angeles:20240402T153500
-DTSTAMP:20240402T210300Z
-UID:ci0001864-tt22334258--2024-4-2-13-10
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
- s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
- n achingly beautiful love story. After the tragic loss of his best friend\
- , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Someone Like You
-DTSTART;TZID=America/Los_Angeles:20240402T160000
-DTEND;TZID=America/Los_Angeles:20240402T182500
-DTSTAMP:20240402T235300Z
-UID:ci0001864-tt22334258--2024-4-2-16-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
- s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
- n achingly beautiful love story. After the tragic loss of his best friend\
- , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Someone Like You
-DTSTART;TZID=America/Los_Angeles:20240402T185000
-DTEND;TZID=America/Los_Angeles:20240402T211500
-DTSTAMP:20240403T024300Z
-UID:ci0001864-tt22334258--2024-4-2-18-50
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
- s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
- n achingly beautiful love story. After the tragic loss of his best friend\
- , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Someone Like You
 DTSTART;TZID=America/Los_Angeles:20240403T131000
@@ -56,7 +14,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -70,7 +28,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -84,7 +42,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -111,7 +69,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -125,7 +83,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -139,7 +97,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -166,7 +124,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -180,7 +138,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -194,7 +152,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -208,7 +166,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -222,7 +180,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -236,7 +194,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -250,7 +208,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -264,7 +222,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -306,7 +264,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -320,7 +278,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -334,7 +292,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -362,7 +320,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -376,7 +334,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -390,7 +348,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -404,7 +362,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -418,7 +376,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -432,7 +390,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -460,7 +418,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -474,7 +432,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -488,7 +446,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -502,7 +460,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -516,7 +474,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
@@ -530,7 +488,7 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nBased on the novel by #1 NYTime
  s bestselling author Karen Kingsbury\, &quot\;Someone Like You&quot\; is a
  n achingly beautiful love story. After the tragic loss of his best friend\
  , a grieving young architect launches a search for her secret twi...\n\nht
- tps://www.imdb.com/title/tt22334258/
+ tps://www.imdb.com/title/tt22334258/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
