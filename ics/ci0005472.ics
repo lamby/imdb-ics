@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240403T074003Z
+LAST-MODIFIED:20240405T075224Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20240403T213000
-DTEND;TZID=America/Los_Angeles:20240403T233000
-DTSTAMP:20240404T052300Z
-UID:ci0005472-tt14966898--2024-4-3-21-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Thin Man (1934)
-DTSTART;TZID=America/Los_Angeles:20240403T193000
-DTEND;TZID=America/Los_Angeles:20240403T213000
-DTSTAMP:20240404T032300Z
-UID:ci0005472-tt0025878--2024-4-3-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
- d his wealthy wife Nora investigate a murder case\, mostly for the fun of 
- it.\n\nhttps://www.imdb.com/title/tt0025878/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Thin Man (1934)
-DTSTART;TZID=America/Los_Angeles:20240404T193000
-DTEND;TZID=America/Los_Angeles:20240404T213000
-DTSTAMP:20240405T032300Z
-UID:ci0005472-tt0025878--2024-4-4-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFormer detective Nick Charles an
- d his wealthy wife Nora investigate a murder case\, mostly for the fun of 
- it.\n\nhttps://www.imdb.com/title/tt0025878/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240405T190000
@@ -267,15 +231,42 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kim's Video
-DTSTART;TZID=America/Los_Angeles:20240418T193000
-DTEND;TZID=America/Los_Angeles:20240418T212000
-DTSTAMP:20240419T032300Z
-UID:ci0005472-tt24132144--2024-4-18-19-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
- s of various cinema genres\, the filmmaker sets off on a quest to find a l
- egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
- .imdb.com/title/tt24132144/\n\nIMDb rating: 7.2
+SUMMARY:Omen
+DTSTART;TZID=America/Los_Angeles:20240419T190000
+DTEND;TZID=America/Los_Angeles:20240419T210000
+DTSTAMP:20240420T025300Z
+UID:ci0005472-tt21086802--2024-4-19-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
+ , a young Congolese man returns to his birthplace of Kinshasa to confront 
+ the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
+ t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omen
+DTSTART;TZID=America/Los_Angeles:20240420T161500
+DTEND;TZID=America/Los_Angeles:20240420T181500
+DTSTAMP:20240421T000800Z
+UID:ci0005472-tt21086802--2024-4-20-16-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
+ , a young Congolese man returns to his birthplace of Kinshasa to confront 
+ the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
+ t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reefer Madness (1936)
+DTSTART;TZID=America/Los_Angeles:20240420T190000
+DTEND;TZID=America/Los_Angeles:20240420T203500
+DTSTAMP:20240421T025300Z
+UID:ci0005472-tt0028346--2024-4-20-19-0
+DESCRIPTION:Duration: 1h 06m (66 mins)\n\nCautionary tale that features a 
+ fictionalized take on marijuana use. A trio of drug dealers lead innocent 
+ teenagers to become addicted to &quot\;reefer&quot\; cigarettes by holding
+  wild parties with jazz music.\n\nhttps://www.imdb.com/title/tt0028346/\n\
+ nIMDb rating: 3.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

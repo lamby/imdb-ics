@@ -1,26 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240403T073751Z
+LAST-MODIFIED:20240405T075106Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
-SUMMARY:Bob Marley: One Love
-DTSTART;TZID=Europe/London:20240403T185000
-DTEND;TZID=Europe/London:20240403T210500
-DTSTAMP:20240403T185100Z
-UID:ci0960123-tt8521778--2024-4-3-18-50
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
- b Marley overcame adversity\, and the journey behind his revolutionary mus
- ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240403T131000
-DTEND;TZID=Europe/London:20240403T162500
-DTSTAMP:20240403T131100Z
-UID:ci0960123-tt15239678--2024-4-3-13-10
+DTSTART;TZID=Europe/London:20240405T144500
+DTEND;TZID=Europe/London:20240405T180000
+DTSTAMP:20240405T144600Z
+UID:ci0960123-tt15239678--2024-4-5-14-45
 DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
@@ -29,10 +18,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240403T183000
-DTEND;TZID=Europe/London:20240403T214500
-DTSTAMP:20240403T183100Z
-UID:ci0960123-tt15239678--2024-4-3-18-30
+DTSTART;TZID=Europe/London:20240405T163000
+DTEND;TZID=Europe/London:20240405T194500
+DTSTAMP:20240405T163100Z
+UID:ci0960123-tt15239678--2024-4-5-16-30
 DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
@@ -41,10 +30,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240403T194000
-DTEND;TZID=Europe/London:20240403T225500
-DTSTAMP:20240403T194100Z
-UID:ci0960123-tt15239678--2024-4-3-19-40
+DTSTART;TZID=Europe/London:20240405T184500
+DTEND;TZID=Europe/London:20240405T220000
+DTSTAMP:20240405T184600Z
+UID:ci0960123-tt15239678--2024-4-5-18-45
 DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
@@ -53,10 +42,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240403T203500
-DTEND;TZID=Europe/London:20240403T235000
-DTSTAMP:20240403T203600Z
-UID:ci0960123-tt15239678--2024-4-3-20-35
+DTSTART;TZID=Europe/London:20240405T203000
+DTEND;TZID=Europe/London:20240405T234500
+DTSTAMP:20240405T203100Z
+UID:ci0960123-tt15239678--2024-4-5-20-30
 DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
@@ -65,10 +54,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T121000
-DTEND;TZID=Europe/London:20240403T143000
-DTSTAMP:20240403T121100Z
-UID:ci0960123-tt21235248--2024-4-3-12-10
+DTSTART;TZID=Europe/London:20240405T115500
+DTEND;TZID=Europe/London:20240405T141500
+DTSTAMP:20240405T115600Z
+UID:ci0960123-tt21235248--2024-4-5-11-55
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -77,10 +66,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T144000
-DTEND;TZID=Europe/London:20240403T170000
-DTSTAMP:20240403T144100Z
-UID:ci0960123-tt21235248--2024-4-3-14-40
+DTSTART;TZID=Europe/London:20240405T135500
+DTEND;TZID=Europe/London:20240405T161500
+DTSTAMP:20240405T135600Z
+UID:ci0960123-tt21235248--2024-4-5-13-55
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -89,10 +78,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T164000
-DTEND;TZID=Europe/London:20240403T190000
-DTSTAMP:20240403T164100Z
-UID:ci0960123-tt21235248--2024-4-3-16-40
+DTSTART;TZID=Europe/London:20240405T164500
+DTEND;TZID=Europe/London:20240405T190500
+DTSTAMP:20240405T164600Z
+UID:ci0960123-tt21235248--2024-4-5-16-45
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -101,10 +90,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T215000
-DTEND;TZID=Europe/London:20240404T001000
-DTSTAMP:20240403T215100Z
-UID:ci0960123-tt21235248--2024-4-3-21-50
+DTSTART;TZID=Europe/London:20240405T181500
+DTEND;TZID=Europe/London:20240405T203500
+DTSTAMP:20240405T181600Z
+UID:ci0960123-tt21235248--2024-4-5-18-15
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -113,94 +102,82 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T132500
-DTEND;TZID=Europe/London:20240403T154500
-DTSTAMP:20240403T132600Z
-UID:ci0960123-tt14539740--2024-4-3-13-25
+DTSTART;TZID=Europe/London:20240405T121000
+DTEND;TZID=Europe/London:20240405T143000
+DTSTAMP:20240405T121100Z
+UID:ci0960123-tt14539740--2024-4-5-12-10
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T140500
-DTEND;TZID=Europe/London:20240403T162500
-DTSTAMP:20240403T140600Z
-UID:ci0960123-tt14539740--2024-4-3-14-5
+DTSTART;TZID=Europe/London:20240405T140000
+DTEND;TZID=Europe/London:20240405T162000
+DTSTAMP:20240405T140100Z
+UID:ci0960123-tt14539740--2024-4-5-14-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T151500
-DTEND;TZID=Europe/London:20240403T173500
-DTSTAMP:20240403T151600Z
-UID:ci0960123-tt14539740--2024-4-3-15-15
+DTSTART;TZID=Europe/London:20240405T191500
+DTEND;TZID=Europe/London:20240405T213500
+DTSTAMP:20240405T191600Z
+UID:ci0960123-tt14539740--2024-4-5-19-15
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T160000
-DTEND;TZID=Europe/London:20240403T182000
-DTSTAMP:20240403T160100Z
-UID:ci0960123-tt14539740--2024-4-3-16-0
+DTSTART;TZID=Europe/London:20240405T230000
+DTEND;TZID=Europe/London:20240406T012000
+DTSTAMP:20240405T230100Z
+UID:ci0960123-tt14539740--2024-4-5-23-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T180000
-DTEND;TZID=Europe/London:20240403T202000
-DTSTAMP:20240403T180100Z
-UID:ci0960123-tt14539740--2024-4-3-18-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T200000
-DTEND;TZID=Europe/London:20240403T222000
-DTSTAMP:20240403T200100Z
-UID:ci0960123-tt14539740--2024-4-3-20-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire (3D)
-DTSTART;TZID=Europe/London:20240403T102500
-DTEND;TZID=Europe/London:20240403T124500
-DTSTAMP:20240403T102600Z
-UID:ci0960123-tt14539740-3d-2024-4-3-10-25
+DTSTART;TZID=Europe/London:20240405T143000
+DTEND;TZID=Europe/London:20240405T165000
+DTSTAMP:20240405T143100Z
+UID:ci0960123-tt14539740-3d-2024-4-5-14-30
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240405T171000
+DTEND;TZID=Europe/London:20240405T193000
+DTSTAMP:20240405T171100Z
+UID:ci0960123-tt14539740-3d-2024-4-5-17-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Imaginary
-DTSTART;TZID=Europe/London:20240403T173500
-DTEND;TZID=Europe/London:20240403T194500
-DTSTAMP:20240403T173600Z
-UID:ci0960123-tt26658104--2024-4-3-17-35
+DTSTART;TZID=Europe/London:20240405T234500
+DTEND;TZID=Europe/London:20240406T015500
+DTSTAMP:20240405T234600Z
+UID:ci0960123-tt26658104--2024-4-5-23-45
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
  d home to discover that the imaginary friend she left behind is very real 
  and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
@@ -209,485 +186,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Immaculate
-DTSTART;TZID=Europe/London:20240403T211000
-DTEND;TZID=Europe/London:20240403T230500
-DTSTAMP:20240403T211100Z
-UID:ci0960123-tt23137390--2024-4-3-21-10
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
- h\, is warmly welcomed to the picture-perfect Italian countryside where sh
- e is offered a new role at an illustrious convent. But it becomes clear to
-  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
- b.com/title/tt23137390/\n\nIMDb rating: 6.3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T101500
-DTEND;TZID=Europe/London:20240403T121500
-DTSTAMP:20240403T101600Z
-UID:ci0960123-tt21692408--2024-4-3-10-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T111000
-DTEND;TZID=Europe/London:20240403T131000
-DTSTAMP:20240403T111100Z
-UID:ci0960123-tt21692408--2024-4-3-11-10
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T123500
-DTEND;TZID=Europe/London:20240403T143500
-DTSTAMP:20240403T123600Z
-UID:ci0960123-tt21692408--2024-4-3-12-35
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T134500
-DTEND;TZID=Europe/London:20240403T154500
-DTSTAMP:20240403T134600Z
-UID:ci0960123-tt21692408--2024-4-3-13-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T150000
-DTEND;TZID=Europe/London:20240403T170000
-DTSTAMP:20240403T150100Z
-UID:ci0960123-tt21692408--2024-4-3-15-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T152000
-DTEND;TZID=Europe/London:20240403T172000
-DTSTAMP:20240403T152100Z
-UID:ci0960123-tt21692408--2024-4-3-15-20
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T161500
-DTEND;TZID=Europe/London:20240403T181500
-DTSTAMP:20240403T161600Z
-UID:ci0960123-tt21692408--2024-4-3-16-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T173000
-DTEND;TZID=Europe/London:20240403T193000
-DTSTAMP:20240403T173100Z
-UID:ci0960123-tt21692408--2024-4-3-17-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T191000
-DTEND;TZID=Europe/London:20240403T211000
-DTSTAMP:20240403T191100Z
-UID:ci0960123-tt21692408--2024-4-3-19-10
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manjummel Boys
-DTSTART;TZID=Europe/London:20240403T212500
-DTEND;TZID=Europe/London:20240404T000500
-DTSTAMP:20240403T212600Z
-UID:ci0960123-tt26458038--2024-4-3-21-25
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA group of friends get into a d
- aring rescue mission to save their friend from Guna Caves\, a perilously d
- eep pit from where nobody has ever been brought back.\n\nhttps://www.imdb.
- com/title/tt26458038/\n\nIMDb rating: 8.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Poppins (1964)
-DTSTART;TZID=Europe/London:20240403T121500
-DTEND;TZID=Europe/London:20240403T150000
-DTSTAMP:20240403T121600Z
-UID:ci0960123-tt0058331--2024-4-3-12-15
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nIn turn of the century London\,
-  a magical nanny employs music and adventure to help two neglected childre
- n become closer to their father.\n\nhttps://www.imdb.com/title/tt0058331/\
- n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240403T094000
-DTEND;TZID=Europe/London:20240403T113000
-DTSTAMP:20240403T094100Z
-UID:ci0960123-tt6495056--2024-4-3-9-40
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
- e their overprotective father to go on the vacation of a lifetime.\n\nhttp
- s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240403T113500
-DTEND;TZID=Europe/London:20240403T132500
-DTSTAMP:20240403T113600Z
-UID:ci0960123-tt6495056--2024-4-3-11-35
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
- e their overprotective father to go on the vacation of a lifetime.\n\nhttp
- s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240403T165500
-DTEND;TZID=Europe/London:20240403T185500
-DTSTAMP:20240403T165600Z
-UID:ci0960123-tt13397574--2024-4-3-16-55
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Rabbit (2018)
-DTSTART;TZID=Europe/London:20240403T100000
-DTEND;TZID=Europe/London:20240403T120000
-DTSTAMP:20240403T100100Z
-UID:ci0960123-tt5117670--2024-4-3-10-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA rebellious rabbit tries to sne
- ak into a farmer's vegetable garden.\n\nhttps://www.imdb.com/title/tt51176
- 70/\n\nIMDb rating: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goat Life
-DTSTART;TZID=Europe/London:20240403T192500
-DTEND;TZID=Europe/London:20240403T223500
-DTSTAMP:20240403T192600Z
-UID:ci0960123-tt5525650--2024-4-3-19-25
-DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
- dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
- oney. However\, in a twist of fate\, he finds himself living a slave-like 
- existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
- .com/title/tt5525650/\n\nIMDb rating: 8.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goat Life
-DTSTART;TZID=Europe/London:20240403T200000
-DTEND;TZID=Europe/London:20240403T231000
-DTSTAMP:20240403T200100Z
-UID:ci0960123-tt5525650--2024-4-3-20-0
-DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
- dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
- oney. However\, in a twist of fate\, he finds himself living a slave-like 
- existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
- .com/title/tt5525650/\n\nIMDb rating: 8.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Eggs: An African Rescue (2021)
-DTSTART;TZID=Europe/London:20240403T095500
-DTEND;TZID=Europe/London:20240403T115000
-DTSTAMP:20240403T095600Z
-UID:ci0960123-tt8049994--2024-4-3-9-55
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
-  his egg children after they're taken away for a gourmet food event in Afr
- ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Eggs: An African Rescue (2021)
-DTSTART;TZID=Europe/London:20240403T115500
-DTEND;TZID=Europe/London:20240403T135000
-DTSTAMP:20240403T115600Z
-UID:ci0960123-tt8049994--2024-4-3-11-55
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
-  his egg children after they're taken away for a gourmet food event in Afr
- ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240403T172000
-DTEND;TZID=Europe/London:20240403T192500
-DTSTAMP:20240403T172100Z
-UID:ci0960123-tt20234774--2024-4-3-17-20
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20240403T103000
-DTEND;TZID=Europe/London:20240403T125500
-DTSTAMP:20240403T103100Z
-UID:ci0960123-tt6166392--2024-4-3-10-30
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bob Marley: One Love
-DTSTART;TZID=Europe/London:20240404T195000
-DTEND;TZID=Europe/London:20240404T220500
-DTSTAMP:20240404T195100Z
-UID:ci0960123-tt8521778--2024-4-4-19-50
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
- b Marley overcame adversity\, and the journey behind his revolutionary mus
- ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bob Marley: One Love
-DTSTART;TZID=Europe/London:20240404T221500
-DTEND;TZID=Europe/London:20240405T003000
-DTSTAMP:20240404T221600Z
-UID:ci0960123-tt8521778--2024-4-4-22-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
- b Marley overcame adversity\, and the journey behind his revolutionary mus
- ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240404T193500
-DTEND;TZID=Europe/London:20240404T225000
-DTSTAMP:20240404T193600Z
-UID:ci0960123-tt15239678--2024-4-4-19-35
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240404T215500
-DTEND;TZID=Europe/London:20240405T011000
-DTSTAMP:20240404T215600Z
-UID:ci0960123-tt15239678--2024-4-4-21-55
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T120000
-DTEND;TZID=Europe/London:20240404T142000
-DTSTAMP:20240404T120100Z
-UID:ci0960123-tt21235248--2024-4-4-12-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T143500
-DTEND;TZID=Europe/London:20240404T165500
-DTSTAMP:20240404T143600Z
-UID:ci0960123-tt21235248--2024-4-4-14-35
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T170000
-DTEND;TZID=Europe/London:20240404T192000
-DTSTAMP:20240404T170100Z
-UID:ci0960123-tt21235248--2024-4-4-17-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T191000
-DTEND;TZID=Europe/London:20240404T213000
-DTSTAMP:20240404T191100Z
-UID:ci0960123-tt21235248--2024-4-4-19-10
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T104500
-DTEND;TZID=Europe/London:20240404T130500
-DTSTAMP:20240404T104600Z
-UID:ci0960123-tt14539740--2024-4-4-10-45
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T114000
-DTEND;TZID=Europe/London:20240404T140000
-DTSTAMP:20240404T114100Z
-UID:ci0960123-tt14539740--2024-4-4-11-40
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T132500
-DTEND;TZID=Europe/London:20240404T154500
-DTSTAMP:20240404T132600Z
-UID:ci0960123-tt14539740--2024-4-4-13-25
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T151500
-DTEND;TZID=Europe/London:20240404T173500
-DTSTAMP:20240404T151600Z
-UID:ci0960123-tt14539740--2024-4-4-15-15
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T155000
-DTEND;TZID=Europe/London:20240404T181000
-DTSTAMP:20240404T155100Z
-UID:ci0960123-tt14539740--2024-4-4-15-50
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T180000
-DTEND;TZID=Europe/London:20240404T202000
-DTSTAMP:20240404T180100Z
-UID:ci0960123-tt14539740--2024-4-4-18-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T200000
-DTEND;TZID=Europe/London:20240404T222000
-DTSTAMP:20240404T200100Z
-UID:ci0960123-tt14539740--2024-4-4-20-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire (3D)
-DTSTART;TZID=Europe/London:20240404T142000
-DTEND;TZID=Europe/London:20240404T164000
-DTSTAMP:20240404T142100Z
-UID:ci0960123-tt14539740-3d-2024-4-4-14-20
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Imaginary
-DTSTART;TZID=Europe/London:20240404T174500
-DTEND;TZID=Europe/London:20240404T195500
-DTSTAMP:20240404T174600Z
-UID:ci0960123-tt26658104--2024-4-4-17-45
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
- d home to discover that the imaginary friend she left behind is very real 
- and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
- 04/\n\nIMDb rating: 4.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immaculate
-DTSTART;TZID=Europe/London:20240404T203500
-DTEND;TZID=Europe/London:20240404T223000
-DTSTAMP:20240404T203600Z
-UID:ci0960123-tt23137390--2024-4-4-20-35
+DTSTART;TZID=Europe/London:20240405T193000
+DTEND;TZID=Europe/London:20240405T212500
+DTSTAMP:20240405T193100Z
+UID:ci0960123-tt23137390--2024-4-5-19-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
  h\, is warmly welcomed to the picture-perfect Italian countryside where sh
  e is offered a new role at an illustrious convent. But it becomes clear to
@@ -697,10 +199,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Immaculate
-DTSTART;TZID=Europe/London:20240404T230000
-DTEND;TZID=Europe/London:20240405T005500
-DTSTAMP:20240404T230100Z
-UID:ci0960123-tt23137390--2024-4-4-23-0
+DTSTART;TZID=Europe/London:20240405T214000
+DTEND;TZID=Europe/London:20240405T233500
+DTSTAMP:20240405T214100Z
+UID:ci0960123-tt23137390--2024-4-5-21-40
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
  h\, is warmly welcomed to the picture-perfect Italian countryside where sh
  e is offered a new role at an illustrious convent. But it becomes clear to
@@ -710,10 +212,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T101500
-DTEND;TZID=Europe/London:20240404T121500
-DTSTAMP:20240404T101600Z
-UID:ci0960123-tt21692408--2024-4-4-10-15
+DTSTART;TZID=Europe/London:20240405T101500
+DTEND;TZID=Europe/London:20240405T121500
+DTSTAMP:20240405T101600Z
+UID:ci0960123-tt21692408--2024-4-5-10-15
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -723,284 +225,15 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T112500
-DTEND;TZID=Europe/London:20240404T132500
-DTSTAMP:20240404T112600Z
-UID:ci0960123-tt21692408--2024-4-4-11-25
+DTSTART;TZID=Europe/London:20240405T113500
+DTEND;TZID=Europe/London:20240405T133500
+DTSTAMP:20240405T113600Z
+UID:ci0960123-tt21692408--2024-4-5-11-35
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
  ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
  b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T123500
-DTEND;TZID=Europe/London:20240404T143500
-DTSTAMP:20240404T123600Z
-UID:ci0960123-tt21692408--2024-4-4-12-35
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T131000
-DTEND;TZID=Europe/London:20240404T151000
-DTSTAMP:20240404T131100Z
-UID:ci0960123-tt21692408--2024-4-4-13-10
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T134500
-DTEND;TZID=Europe/London:20240404T154500
-DTSTAMP:20240404T134600Z
-UID:ci0960123-tt21692408--2024-4-4-13-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T150000
-DTEND;TZID=Europe/London:20240404T170000
-DTSTAMP:20240404T150100Z
-UID:ci0960123-tt21692408--2024-4-4-15-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T153000
-DTEND;TZID=Europe/London:20240404T173000
-DTSTAMP:20240404T153100Z
-UID:ci0960123-tt21692408--2024-4-4-15-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T161500
-DTEND;TZID=Europe/London:20240404T181500
-DTSTAMP:20240404T161600Z
-UID:ci0960123-tt21692408--2024-4-4-16-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T173000
-DTEND;TZID=Europe/London:20240404T193000
-DTSTAMP:20240404T173100Z
-UID:ci0960123-tt21692408--2024-4-4-17-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manjummel Boys
-DTSTART;TZID=Europe/London:20240404T224000
-DTEND;TZID=Europe/London:20240405T012000
-DTSTAMP:20240404T224100Z
-UID:ci0960123-tt26458038--2024-4-4-22-40
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA group of friends get into a d
- aring rescue mission to save their friend from Guna Caves\, a perilously d
- eep pit from where nobody has ever been brought back.\n\nhttps://www.imdb.
- com/title/tt26458038/\n\nIMDb rating: 8.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Poppins (1964)
-DTSTART;TZID=Europe/London:20240404T122500
-DTEND;TZID=Europe/London:20240404T151000
-DTSTAMP:20240404T122600Z
-UID:ci0960123-tt0058331--2024-4-4-12-25
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nIn turn of the century London\,
-  a magical nanny employs music and adventure to help two neglected childre
- n become closer to their father.\n\nhttps://www.imdb.com/title/tt0058331/\
- n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240404T094500
-DTEND;TZID=Europe/London:20240404T113500
-DTSTAMP:20240404T094600Z
-UID:ci0960123-tt6495056--2024-4-4-9-45
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
- e their overprotective father to go on the vacation of a lifetime.\n\nhttp
- s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240404T171500
-DTEND;TZID=Europe/London:20240404T190500
-DTSTAMP:20240404T171600Z
-UID:ci0960123-tt6495056--2024-4-4-17-15
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
- e their overprotective father to go on the vacation of a lifetime.\n\nhttp
- s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mobile Suit Gundam Seed Freedom
-DTSTART;TZID=Europe/London:20240404T162000
-DTEND;TZID=Europe/London:20240404T185000
-DTSTAMP:20240404T162100Z
-UID:ci0960123-tt14759062--2024-4-4-16-20
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nMovie sequel to Mobile Suit Gun
- dam Seed Destiny (2004).\n\nhttps://www.imdb.com/title/tt14759062/\n\nIMDb
-  rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240404T182500
-DTEND;TZID=Europe/London:20240404T202500
-DTSTAMP:20240404T182600Z
-UID:ci0960123-tt13397574--2024-4-4-18-25
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Rabbit (2018)
-DTSTART;TZID=Europe/London:20240404T100000
-DTEND;TZID=Europe/London:20240404T120000
-DTSTAMP:20240404T100100Z
-UID:ci0960123-tt5117670--2024-4-4-10-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA rebellious rabbit tries to sne
- ak into a farmer's vegetable garden.\n\nhttps://www.imdb.com/title/tt51176
- 70/\n\nIMDb rating: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shaitaan
-DTSTART;TZID=Europe/London:20240404T223500
-DTEND;TZID=Europe/London:20240405T011500
-DTSTAMP:20240404T223600Z
-UID:ci0960123-tt27744786--2024-4-4-22-35
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA timeless tale of battle betwe
- en good and evil with a family embodying the forces of righteousness while
-  a man symbolizes malevolence.\n\nhttps://www.imdb.com/title/tt27744786/\n
- \nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goat Life
-DTSTART;TZID=Europe/London:20240404T204000
-DTEND;TZID=Europe/London:20240404T235000
-DTSTAMP:20240404T204100Z
-UID:ci0960123-tt5525650--2024-4-4-20-40
-DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
- dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
- oney. However\, in a twist of fate\, he finds himself living a slave-like 
- existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
- .com/title/tt5525650/\n\nIMDb rating: 8.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goat Life
-DTSTART;TZID=Europe/London:20240404T204000
-DTEND;TZID=Europe/London:20240404T235000
-DTSTAMP:20240404T204100Z
-UID:ci0960123-tt5525650--2024-4-4-20-40
-DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
- dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
- oney. However\, in a twist of fate\, he finds himself living a slave-like 
- existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
- .com/title/tt5525650/\n\nIMDb rating: 8.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240404T223000
-DTEND;TZID=Europe/London:20240405T004000
-DTSTAMP:20240404T223100Z
-UID:ci0960123-tt7160372--2024-4-4-22-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAuschwitz commandant Rudolf Hö
- ss and his wife Hedwig strive to build a dream life for their family in a 
- house and garden beside the camp.\n\nhttps://www.imdb.com/title/tt7160372/
- \n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Eggs: An African Rescue (2021)
-DTSTART;TZID=Europe/London:20240404T092500
-DTEND;TZID=Europe/London:20240404T112000
-DTSTAMP:20240404T092600Z
-UID:ci0960123-tt8049994--2024-4-4-9-25
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
-  his egg children after they're taken away for a gourmet food event in Afr
- ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Eggs: An African Rescue (2021)
-DTSTART;TZID=Europe/London:20240404T110000
-DTEND;TZID=Europe/London:20240404T125500
-DTSTAMP:20240404T110100Z
-UID:ci0960123-tt8049994--2024-4-4-11-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
-  his egg children after they're taken away for a gourmet food event in Afr
- ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240404T201000
-DTEND;TZID=Europe/London:20240404T221500
-DTSTAMP:20240404T201100Z
-UID:ci0960123-tt20234774--2024-4-4-20-10
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20240404T103000
-DTEND;TZID=Europe/London:20240404T125500
-DTSTAMP:20240404T103100Z
-UID:ci0960123-tt6166392--2024-4-4-10-30
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1009,6 +242,32 @@ DTSTART;TZID=Europe/London:20240405T123000
 DTEND;TZID=Europe/London:20240405T143000
 DTSTAMP:20240405T123100Z
 UID:ci0960123-tt21692408--2024-4-5-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T133500
+DTEND;TZID=Europe/London:20240405T153500
+DTSTAMP:20240405T133600Z
+UID:ci0960123-tt21692408--2024-4-5-13-35
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T141500
+DTEND;TZID=Europe/London:20240405T161500
+DTSTAMP:20240405T141600Z
+UID:ci0960123-tt21692408--2024-4-5-14-15
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1030,6 +289,58 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T155000
+DTEND;TZID=Europe/London:20240405T175000
+DTSTAMP:20240405T155100Z
+UID:ci0960123-tt21692408--2024-4-5-15-50
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T170000
+DTEND;TZID=Europe/London:20240405T190000
+DTSTAMP:20240405T170100Z
+UID:ci0960123-tt21692408--2024-4-5-17-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T194500
+DTEND;TZID=Europe/London:20240405T214500
+DTSTAMP:20240405T194600Z
+UID:ci0960123-tt21692408--2024-4-5-19-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (3D)
+DTSTART;TZID=Europe/London:20240405T220500
+DTEND;TZID=Europe/London:20240406T000500
+DTSTAMP:20240405T220600Z
+UID:ci0960123-tt21692408-3d-2024-4-5-22-5
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mary Poppins Returns (2018)
 DTSTART;TZID=Europe/London:20240405T110000
 DTEND;TZID=Europe/London:20240405T133500
@@ -1042,11 +353,443 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA few decades after her origina
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240405T112000
+DTEND;TZID=Europe/London:20240405T131000
+DTSTAMP:20240405T112100Z
+UID:ci0960123-tt6495056--2024-4-5-11-20
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240405T132000
+DTEND;TZID=Europe/London:20240405T151000
+DTSTAMP:20240405T132100Z
+UID:ci0960123-tt6495056--2024-4-5-13-20
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240405T201500
+DTEND;TZID=Europe/London:20240405T224500
+DTSTAMP:20240405T201600Z
+UID:ci0960123-tt9214772--2024-4-5-20-15
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240405T233000
+DTEND;TZID=Europe/London:20240406T020000
+DTSTAMP:20240405T233100Z
+UID:ci0960123-tt9214772--2024-4-5-23-30
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240405T095500
+DTEND;TZID=Europe/London:20240405T115500
+DTSTAMP:20240405T095600Z
+UID:ci0960123-tt13397574--2024-4-5-9-55
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240405T180500
+DTEND;TZID=Europe/London:20240405T200500
+DTSTAMP:20240405T180600Z
+UID:ci0960123-tt18938922--2024-4-5-18-5
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240405T160500
+DTEND;TZID=Europe/London:20240405T183000
+DTSTAMP:20240405T160600Z
+UID:ci0960123-tt5672290--2024-4-5-16-5
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240405T172500
+DTEND;TZID=Europe/London:20240405T195000
+DTSTAMP:20240405T172600Z
+UID:ci0960123-tt5672290--2024-4-5-17-25
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240405T205500
+DTEND;TZID=Europe/London:20240405T232000
+DTSTAMP:20240405T205600Z
+UID:ci0960123-tt5672290--2024-4-5-20-55
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240405T234500
+DTEND;TZID=Europe/London:20240406T021000
+DTSTAMP:20240405T234600Z
+UID:ci0960123-tt5672290--2024-4-5-23-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240405T200000
+DTEND;TZID=Europe/London:20240405T231000
+DTSTAMP:20240405T200100Z
+UID:ci0960123-tt5525650--2024-4-5-20-0
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240405T221500
+DTEND;TZID=Europe/London:20240406T012500
+DTSTAMP:20240405T221600Z
+UID:ci0960123-tt5525650--2024-4-5-22-15
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240405T093000
+DTEND;TZID=Europe/London:20240405T114000
+DTSTAMP:20240405T093100Z
+UID:ci0960123-tt7160372--2024-4-5-9-30
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAuschwitz commandant Rudolf Hö
+ ss and his wife Hedwig strive to build a dream life for their family in a 
+ house and garden beside the camp.\n\nhttps://www.imdb.com/title/tt7160372/
+ \n\nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Eggs: An African Rescue (2021)
+DTSTART;TZID=Europe/London:20240405T092000
+DTEND;TZID=Europe/London:20240405T111500
+DTSTAMP:20240405T092100Z
+UID:ci0960123-tt8049994--2024-4-5-9-20
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
+  his egg children after they're taken away for a gourmet food event in Afr
+ ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240405T215000
+DTEND;TZID=Europe/London:20240405T235500
+DTSTAMP:20240405T215100Z
+UID:ci0960123-tt20234774--2024-4-5-21-50
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20240405T100000
+DTEND;TZID=Europe/London:20240405T120000
+DTSTAMP:20240405T100100Z
+UID:ci0960123-tt11304740--2024-4-5-10-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
+ n a star and gets a more direct answer than she bargained for when a troub
+ le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
+ m/title/tt11304740/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love
+DTSTART;TZID=Europe/London:20240406T212000
+DTEND;TZID=Europe/London:20240406T233500
+DTSTAMP:20240406T212100Z
+UID:ci0960123-tt8521778--2024-4-6-21-20
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
+ b Marley overcame adversity\, and the journey behind his revolutionary mus
+ ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love
+DTSTART;TZID=Europe/London:20240406T235000
+DTEND;TZID=Europe/London:20240407T020500
+DTSTAMP:20240406T235100Z
+UID:ci0960123-tt8521778--2024-4-6-23-50
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
+ b Marley overcame adversity\, and the journey behind his revolutionary mus
+ ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240406T163500
+DTEND;TZID=Europe/London:20240406T195000
+DTSTAMP:20240406T163600Z
+UID:ci0960123-tt15239678--2024-4-6-16-35
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240406T202500
+DTEND;TZID=Europe/London:20240406T234000
+DTSTAMP:20240406T202600Z
+UID:ci0960123-tt15239678--2024-4-6-20-25
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240406T121000
+DTEND;TZID=Europe/London:20240406T143000
+DTSTAMP:20240406T121100Z
+UID:ci0960123-tt21235248--2024-4-6-12-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240406T153000
+DTEND;TZID=Europe/London:20240406T175000
+DTSTAMP:20240406T153100Z
+UID:ci0960123-tt21235248--2024-4-6-15-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240406T184500
+DTEND;TZID=Europe/London:20240406T210500
+DTSTAMP:20240406T184600Z
+UID:ci0960123-tt21235248--2024-4-6-18-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240406T170000
+DTEND;TZID=Europe/London:20240406T192000
+DTSTAMP:20240406T170100Z
+UID:ci0960123-tt14539740--2024-4-6-17-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240406T195000
+DTEND;TZID=Europe/London:20240406T221000
+DTSTAMP:20240406T195100Z
+UID:ci0960123-tt14539740--2024-4-6-19-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240406T115500
+DTEND;TZID=Europe/London:20240406T141500
+DTSTAMP:20240406T115600Z
+UID:ci0960123-tt14539740-3d-2024-4-6-11-55
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240406T231000
+DTEND;TZID=Europe/London:20240407T013000
+DTSTAMP:20240406T231100Z
+UID:ci0960123-tt14539740-3d-2024-4-6-23-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240406T151500
+DTEND;TZID=Europe/London:20240406T171000
+DTSTAMP:20240406T151600Z
+UID:ci0960123-tt23137390--2024-4-6-15-15
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240406T183000
+DTEND;TZID=Europe/London:20240406T202500
+DTSTAMP:20240406T183100Z
+UID:ci0960123-tt23137390--2024-4-6-18-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240406T222000
+DTEND;TZID=Europe/London:20240407T001500
+DTSTAMP:20240406T222100Z
+UID:ci0960123-tt23137390--2024-4-6-22-20
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T101500
+DTEND;TZID=Europe/London:20240406T121500
+DTSTAMP:20240406T101600Z
+UID:ci0960123-tt21692408--2024-4-6-10-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T113000
+DTEND;TZID=Europe/London:20240406T133000
+DTSTAMP:20240406T113100Z
+UID:ci0960123-tt21692408--2024-4-6-11-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240406T123000
 DTEND;TZID=Europe/London:20240406T143000
 DTSTAMP:20240406T123100Z
 UID:ci0960123-tt21692408--2024-4-6-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T131500
+DTEND;TZID=Europe/London:20240406T151500
+DTSTAMP:20240406T131600Z
+UID:ci0960123-tt21692408--2024-4-6-13-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T135000
+DTEND;TZID=Europe/London:20240406T155000
+DTSTAMP:20240406T135100Z
+UID:ci0960123-tt21692408--2024-4-6-13-50
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T143000
+DTEND;TZID=Europe/London:20240406T163000
+DTSTAMP:20240406T143100Z
+UID:ci0960123-tt21692408--2024-4-6-14-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1068,6 +811,143 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T161000
+DTEND;TZID=Europe/London:20240406T181000
+DTSTAMP:20240406T161100Z
+UID:ci0960123-tt21692408--2024-4-6-16-10
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T171500
+DTEND;TZID=Europe/London:20240406T191500
+DTSTAMP:20240406T171600Z
+UID:ci0960123-tt21692408--2024-4-6-17-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T181000
+DTEND;TZID=Europe/London:20240406T201000
+DTSTAMP:20240406T181100Z
+UID:ci0960123-tt21692408--2024-4-6-18-10
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T193500
+DTEND;TZID=Europe/London:20240406T213500
+DTSTAMP:20240406T193600Z
+UID:ci0960123-tt21692408--2024-4-6-19-35
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T215000
+DTEND;TZID=Europe/London:20240406T235000
+DTSTAMP:20240406T215100Z
+UID:ci0960123-tt21692408--2024-4-6-21-50
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T235500
+DTEND;TZID=Europe/London:20240407T015500
+DTSTAMP:20240406T235600Z
+UID:ci0960123-tt21692408--2024-4-6-23-55
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manjummel Boys
+DTSTART;TZID=Europe/London:20240406T233500
+DTEND;TZID=Europe/London:20240407T021500
+DTSTAMP:20240406T233600Z
+UID:ci0960123-tt26458038--2024-4-6-23-35
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA group of friends get into a d
+ aring rescue mission to save their friend from Guna Caves\, a perilously d
+ eep pit from where nobody has ever been brought back.\n\nhttps://www.imdb.
+ com/title/tt26458038/\n\nIMDb rating: 8.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240406T110000
+DTEND;TZID=Europe/London:20240406T125000
+DTSTAMP:20240406T110100Z
+UID:ci0960123-tt6495056--2024-4-6-11-0
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240406T144500
+DTEND;TZID=Europe/London:20240406T163500
+DTSTAMP:20240406T144600Z
+UID:ci0960123-tt6495056--2024-4-6-14-45
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240406T200500
+DTEND;TZID=Europe/London:20240406T223500
+DTSTAMP:20240406T200600Z
+UID:ci0960123-tt9214772--2024-4-6-20-5
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240406T093500
+DTEND;TZID=Europe/London:20240406T113500
+DTSTAMP:20240406T093600Z
+UID:ci0960123-tt13397574--2024-4-6-9-35
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Peter Rabbit (2018)
 DTSTART;TZID=Europe/London:20240406T110000
 DTEND;TZID=Europe/London:20240406T130000
@@ -1079,11 +959,372 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA rebellious rabbit tries to sne
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240406T160000
+DTEND;TZID=Europe/London:20240406T180000
+DTSTAMP:20240406T160100Z
+UID:ci0960123-tt18938922--2024-4-6-16-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240406T130000
+DTEND;TZID=Europe/London:20240406T152500
+DTSTAMP:20240406T130100Z
+UID:ci0960123-tt5672290--2024-4-6-13-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240406T173000
+DTEND;TZID=Europe/London:20240406T195500
+DTSTAMP:20240406T173100Z
+UID:ci0960123-tt5672290--2024-4-6-17-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240406T205500
+DTEND;TZID=Europe/London:20240406T232000
+DTSTAMP:20240406T205600Z
+UID:ci0960123-tt5672290--2024-4-6-20-55
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240406T191000
+DTEND;TZID=Europe/London:20240406T222000
+DTSTAMP:20240406T191100Z
+UID:ci0960123-tt5525650--2024-4-6-19-10
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240406T204000
+DTEND;TZID=Europe/London:20240406T235000
+DTSTAMP:20240406T204100Z
+UID:ci0960123-tt5525650--2024-4-6-20-40
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240406T224500
+DTEND;TZID=Europe/London:20240407T015500
+DTSTAMP:20240406T224600Z
+UID:ci0960123-tt5525650--2024-4-6-22-45
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240406T094500
+DTEND;TZID=Europe/London:20240406T115500
+DTSTAMP:20240406T094600Z
+UID:ci0960123-tt7160372--2024-4-6-9-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAuschwitz commandant Rudolf Hö
+ ss and his wife Hedwig strive to build a dream life for their family in a 
+ house and garden beside the camp.\n\nhttps://www.imdb.com/title/tt7160372/
+ \n\nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Eggs: An African Rescue (2021)
+DTSTART;TZID=Europe/London:20240406T091500
+DTEND;TZID=Europe/London:20240406T111000
+DTSTAMP:20240406T091600Z
+UID:ci0960123-tt8049994--2024-4-6-9-15
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
+  his egg children after they're taken away for a gourmet food event in Afr
+ ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240406T165000
+DTEND;TZID=Europe/London:20240406T185500
+DTSTAMP:20240406T165100Z
+UID:ci0960123-tt20234774--2024-4-6-16-50
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20240406T100000
+DTEND;TZID=Europe/London:20240406T120000
+DTSTAMP:20240406T100100Z
+UID:ci0960123-tt11304740--2024-4-6-10-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
+ n a star and gets a more direct answer than she bargained for when a troub
+ le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
+ m/title/tt11304740/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love
+DTSTART;TZID=Europe/London:20240407T143500
+DTEND;TZID=Europe/London:20240407T165000
+DTSTAMP:20240407T143600Z
+UID:ci0960123-tt8521778--2024-4-7-14-35
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
+ b Marley overcame adversity\, and the journey behind his revolutionary mus
+ ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240407T162500
+DTEND;TZID=Europe/London:20240407T194000
+DTSTAMP:20240407T162600Z
+UID:ci0960123-tt15239678--2024-4-7-16-25
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240407T184500
+DTEND;TZID=Europe/London:20240407T220000
+DTSTAMP:20240407T184600Z
+UID:ci0960123-tt15239678--2024-4-7-18-45
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T114500
+DTEND;TZID=Europe/London:20240407T140500
+DTSTAMP:20240407T114600Z
+UID:ci0960123-tt21235248--2024-4-7-11-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T135000
+DTEND;TZID=Europe/London:20240407T161000
+DTSTAMP:20240407T135100Z
+UID:ci0960123-tt21235248--2024-4-7-13-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T161000
+DTEND;TZID=Europe/London:20240407T183000
+DTSTAMP:20240407T161100Z
+UID:ci0960123-tt21235248--2024-4-7-16-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T221500
+DTEND;TZID=Europe/London:20240408T003500
+DTSTAMP:20240407T221600Z
+UID:ci0960123-tt21235248--2024-4-7-22-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240407T155500
+DTEND;TZID=Europe/London:20240407T181500
+DTSTAMP:20240407T155600Z
+UID:ci0960123-tt14539740--2024-4-7-15-55
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240407T191500
+DTEND;TZID=Europe/London:20240407T213500
+DTSTAMP:20240407T191600Z
+UID:ci0960123-tt14539740--2024-4-7-19-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240407T211500
+DTEND;TZID=Europe/London:20240407T233500
+DTSTAMP:20240407T211600Z
+UID:ci0960123-tt14539740-3d-2024-4-7-21-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imaginary
+DTSTART;TZID=Europe/London:20240407T215000
+DTEND;TZID=Europe/London:20240408T000000
+DTSTAMP:20240407T215100Z
+UID:ci0960123-tt26658104--2024-4-7-21-50
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
+ d home to discover that the imaginary friend she left behind is very real 
+ and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
+ 04/\n\nIMDb rating: 4.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240407T001000
+DTEND;TZID=Europe/London:20240407T020500
+DTSTAMP:20240407T001100Z
+UID:ci0960123-tt23137390--2024-4-7-0-10
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240407T195500
+DTEND;TZID=Europe/London:20240407T215000
+DTSTAMP:20240407T195600Z
+UID:ci0960123-tt23137390--2024-4-7-19-55
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240407T221500
+DTEND;TZID=Europe/London:20240408T001000
+DTSTAMP:20240407T221600Z
+UID:ci0960123-tt23137390--2024-4-7-22-15
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T000500
+DTEND;TZID=Europe/London:20240407T020500
+DTSTAMP:20240407T000600Z
+UID:ci0960123-tt21692408--2024-4-7-0-5
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T101500
+DTEND;TZID=Europe/London:20240407T121500
+DTSTAMP:20240407T101600Z
+UID:ci0960123-tt21692408--2024-4-7-10-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240407T123000
 DTEND;TZID=Europe/London:20240407T143000
 DTSTAMP:20240407T123100Z
 UID:ci0960123-tt21692408--2024-4-7-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T132000
+DTEND;TZID=Europe/London:20240407T152000
+DTSTAMP:20240407T132100Z
+UID:ci0960123-tt21692408--2024-4-7-13-20
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T142000
+DTEND;TZID=Europe/London:20240407T162000
+DTSTAMP:20240407T142100Z
+UID:ci0960123-tt21692408--2024-4-7-14-20
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1105,6 +1346,58 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T153500
+DTEND;TZID=Europe/London:20240407T173500
+DTSTAMP:20240407T153600Z
+UID:ci0960123-tt21692408--2024-4-7-15-35
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T171500
+DTEND;TZID=Europe/London:20240407T191500
+DTSTAMP:20240407T171600Z
+UID:ci0960123-tt21692408--2024-4-7-17-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T204500
+DTEND;TZID=Europe/London:20240407T224500
+DTSTAMP:20240407T204600Z
+UID:ci0960123-tt21692408--2024-4-7-20-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T223000
+DTEND;TZID=Europe/London:20240408T003000
+DTSTAMP:20240407T223100Z
+UID:ci0960123-tt21692408--2024-4-7-22-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mary Poppins Returns (2018)
 DTSTART;TZID=Europe/London:20240407T110000
 DTEND;TZID=Europe/London:20240407T133500
@@ -1117,11 +1410,444 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA few decades after her origina
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240407T112000
+DTEND;TZID=Europe/London:20240407T131000
+DTSTAMP:20240407T112100Z
+UID:ci0960123-tt6495056--2024-4-7-11-20
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240407T133500
+DTEND;TZID=Europe/London:20240407T152500
+DTSTAMP:20240407T133600Z
+UID:ci0960123-tt6495056--2024-4-7-13-35
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240407T163500
+DTEND;TZID=Europe/London:20240407T190500
+DTSTAMP:20240407T163600Z
+UID:ci0960123-tt9214772--2024-4-7-16-35
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240407T193000
+DTEND;TZID=Europe/London:20240407T220000
+DTSTAMP:20240407T193100Z
+UID:ci0960123-tt9214772--2024-4-7-19-30
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240407T221000
+DTEND;TZID=Europe/London:20240408T004000
+DTSTAMP:20240407T221100Z
+UID:ci0960123-tt9214772--2024-4-7-22-10
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240407T154500
+DTEND;TZID=Europe/London:20240407T174500
+DTSTAMP:20240407T154600Z
+UID:ci0960123-tt13397574--2024-4-7-15-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240407T180500
+DTEND;TZID=Europe/London:20240407T200500
+DTSTAMP:20240407T180600Z
+UID:ci0960123-tt18938922--2024-4-7-18-5
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240407T130500
+DTEND;TZID=Europe/London:20240407T153000
+DTSTAMP:20240407T130600Z
+UID:ci0960123-tt5672290--2024-4-7-13-5
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240407T175500
+DTEND;TZID=Europe/London:20240407T202000
+DTSTAMP:20240407T175600Z
+UID:ci0960123-tt5672290--2024-4-7-17-55
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240407T205500
+DTEND;TZID=Europe/London:20240407T232000
+DTSTAMP:20240407T205600Z
+UID:ci0960123-tt5672290--2024-4-7-20-55
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240407T170000
+DTEND;TZID=Europe/London:20240407T201000
+DTSTAMP:20240407T170100Z
+UID:ci0960123-tt5525650--2024-4-7-17-0
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240407T183000
+DTEND;TZID=Europe/London:20240407T214000
+DTSTAMP:20240407T183100Z
+UID:ci0960123-tt5525650--2024-4-7-18-30
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Inventor
+DTSTART;TZID=Europe/London:20240407T095000
+DTEND;TZID=Europe/London:20240407T115500
+DTSTAMP:20240407T095100Z
+UID:ci0960123-tt5822848--2024-4-7-9-50
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nInventing flying contraptions\,
+  war machines and studying cadavers\, Leonardo da Vinci tackles the meanin
+ g of life itself with the help of French princess Marguerite de Nevarre.\n
+ \nhttps://www.imdb.com/title/tt5822848/\n\nIMDb rating: 5.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240407T121000
+DTEND;TZID=Europe/London:20240407T142000
+DTSTAMP:20240407T121100Z
+UID:ci0960123-tt7160372--2024-4-7-12-10
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAuschwitz commandant Rudolf Hö
+ ss and his wife Hedwig strive to build a dream life for their family in a 
+ house and garden beside the camp.\n\nhttps://www.imdb.com/title/tt7160372/
+ \n\nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240407T092500
+DTEND;TZID=Europe/London:20240407T113000
+DTSTAMP:20240407T092600Z
+UID:ci0960123-tt20234774--2024-4-7-9-25
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20240407T100000
+DTEND;TZID=Europe/London:20240407T120000
+DTSTAMP:20240407T100100Z
+UID:ci0960123-tt11304740--2024-4-7-10-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
+ n a star and gets a more direct answer than she bargained for when a troub
+ le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
+ m/title/tt11304740/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240408T154500
+DTEND;TZID=Europe/London:20240408T190000
+DTSTAMP:20240408T154600Z
+UID:ci0960123-tt15239678--2024-4-8-15-45
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240408T200000
+DTEND;TZID=Europe/London:20240408T231500
+DTSTAMP:20240408T200100Z
+UID:ci0960123-tt15239678--2024-4-8-20-0
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T124500
+DTEND;TZID=Europe/London:20240408T150500
+DTSTAMP:20240408T124600Z
+UID:ci0960123-tt21235248--2024-4-8-12-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T143500
+DTEND;TZID=Europe/London:20240408T165500
+DTSTAMP:20240408T143600Z
+UID:ci0960123-tt21235248--2024-4-8-14-35
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T162500
+DTEND;TZID=Europe/London:20240408T184500
+DTSTAMP:20240408T162600Z
+UID:ci0960123-tt21235248--2024-4-8-16-25
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240408T171500
+DTEND;TZID=Europe/London:20240408T193500
+DTSTAMP:20240408T171600Z
+UID:ci0960123-tt14539740--2024-4-8-17-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240408T213000
+DTEND;TZID=Europe/London:20240408T235000
+DTSTAMP:20240408T213100Z
+UID:ci0960123-tt14539740--2024-4-8-21-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240408T102500
+DTEND;TZID=Europe/London:20240408T124500
+DTSTAMP:20240408T102600Z
+UID:ci0960123-tt14539740-3d-2024-4-8-10-25
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240408T151500
+DTEND;TZID=Europe/London:20240408T173500
+DTSTAMP:20240408T151600Z
+UID:ci0960123-tt14539740-3d-2024-4-8-15-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240408T223000
+DTEND;TZID=Europe/London:20240409T005000
+DTSTAMP:20240408T223100Z
+UID:ci0960123-tt14539740-3d-2024-4-8-22-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imaginary
+DTSTART;TZID=Europe/London:20240408T000000
+DTEND;TZID=Europe/London:20240408T021000
+DTSTAMP:20240408T000100Z
+UID:ci0960123-tt26658104--2024-4-8-0-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
+ d home to discover that the imaginary friend she left behind is very real 
+ and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
+ 04/\n\nIMDb rating: 4.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imaginary
+DTSTART;TZID=Europe/London:20240408T093000
+DTEND;TZID=Europe/London:20240408T114000
+DTSTAMP:20240408T093100Z
+UID:ci0960123-tt26658104--2024-4-8-9-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA woman returns to her childhoo
+ d home to discover that the imaginary friend she left behind is very real 
+ and unhappy that she abandoned him.\n\nhttps://www.imdb.com/title/tt266581
+ 04/\n\nIMDb rating: 4.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240408T002500
+DTEND;TZID=Europe/London:20240408T022000
+DTSTAMP:20240408T002600Z
+UID:ci0960123-tt23137390--2024-4-8-0-25
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240408T183000
+DTEND;TZID=Europe/London:20240408T202500
+DTSTAMP:20240408T183100Z
+UID:ci0960123-tt23137390--2024-4-8-18-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240408T220000
+DTEND;TZID=Europe/London:20240408T235500
+DTSTAMP:20240408T220100Z
+UID:ci0960123-tt23137390--2024-4-8-22-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T101500
+DTEND;TZID=Europe/London:20240408T121500
+DTSTAMP:20240408T101600Z
+UID:ci0960123-tt21692408--2024-4-8-10-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T113000
+DTEND;TZID=Europe/London:20240408T133000
+DTSTAMP:20240408T113100Z
+UID:ci0960123-tt21692408--2024-4-8-11-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240408T123000
 DTEND;TZID=Europe/London:20240408T143000
 DTSTAMP:20240408T123100Z
 UID:ci0960123-tt21692408--2024-4-8-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T132000
+DTEND;TZID=Europe/London:20240408T152000
+DTSTAMP:20240408T132100Z
+UID:ci0960123-tt21692408--2024-4-8-13-20
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T135000
+DTEND;TZID=Europe/London:20240408T155000
+DTSTAMP:20240408T135100Z
+UID:ci0960123-tt21692408--2024-4-8-13-50
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1143,6 +1869,71 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T161000
+DTEND;TZID=Europe/London:20240408T181000
+DTSTAMP:20240408T161100Z
+UID:ci0960123-tt21692408--2024-4-8-16-10
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T191500
+DTEND;TZID=Europe/London:20240408T211500
+DTSTAMP:20240408T191600Z
+UID:ci0960123-tt21692408--2024-4-8-19-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T222500
+DTEND;TZID=Europe/London:20240409T002500
+DTSTAMP:20240408T222600Z
+UID:ci0960123-tt21692408--2024-4-8-22-25
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (3D)
+DTSTART;TZID=Europe/London:20240408T130000
+DTEND;TZID=Europe/London:20240408T150000
+DTSTAMP:20240408T130100Z
+UID:ci0960123-tt21692408-3d-2024-4-8-13-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (3D)
+DTSTART;TZID=Europe/London:20240408T201500
+DTEND;TZID=Europe/London:20240408T221500
+DTSTAMP:20240408T201600Z
+UID:ci0960123-tt21692408-3d-2024-4-8-20-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mad Max (1979)
 DTSTART;TZID=Europe/London:20240408T194500
 DTEND;TZID=Europe/London:20240408T214000
@@ -1154,6 +1945,51 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nIn a self-destructing world\, a
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240408T091500
+DTEND;TZID=Europe/London:20240408T110500
+DTSTAMP:20240408T091600Z
+UID:ci0960123-tt6495056--2024-4-8-9-15
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240408T115500
+DTEND;TZID=Europe/London:20240408T134500
+DTSTAMP:20240408T115600Z
+UID:ci0960123-tt6495056--2024-4-8-11-55
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240408T141000
+DTEND;TZID=Europe/London:20240408T160000
+DTSTAMP:20240408T141100Z
+UID:ci0960123-tt6495056--2024-4-8-14-10
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240408T192500
+DTEND;TZID=Europe/London:20240408T215500
+DTSTAMP:20240408T192600Z
+UID:ci0960123-tt9214772--2024-4-8-19-25
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:National Theatre Live: The Motive and the Cue
 DTSTART;TZID=Europe/London:20240408T190000
 DTEND;TZID=Europe/London:20240408T222500
@@ -1161,7 +1997,7 @@ DTSTAMP:20240408T190100Z
 UID:ci0960123-tt23781890--2024-4-8-19-0
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nExplores acting giants Burton a
  nd Gielgud staged Hamlet on Broadway in 1964.\n\nhttps://www.imdb.com/titl
- e/tt23781890/\n\nIMDb rating: 8.6
+ e/tt23781890/\n\nIMDb rating: 8.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,11 +2012,397 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA rebellious rabbit tries to sne
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240408T002500
+DTEND;TZID=Europe/London:20240408T022500
+DTSTAMP:20240408T002600Z
+UID:ci0960123-tt18938922--2024-4-8-0-25
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240408T173000
+DTEND;TZID=Europe/London:20240408T193000
+DTSTAMP:20240408T173100Z
+UID:ci0960123-tt18938922--2024-4-8-17-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240408T222500
+DTEND;TZID=Europe/London:20240409T002500
+DTSTAMP:20240408T222600Z
+UID:ci0960123-tt18938922--2024-4-8-22-25
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240408T133500
+DTEND;TZID=Europe/London:20240408T160000
+DTSTAMP:20240408T133600Z
+UID:ci0960123-tt5672290--2024-4-8-13-35
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240408T170000
+DTEND;TZID=Europe/London:20240408T192500
+DTSTAMP:20240408T170100Z
+UID:ci0960123-tt5672290--2024-4-8-17-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240408T194500
+DTEND;TZID=Europe/London:20240408T221000
+DTSTAMP:20240408T194600Z
+UID:ci0960123-tt5672290--2024-4-8-19-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240408T220000
+DTEND;TZID=Europe/London:20240409T002500
+DTSTAMP:20240408T220100Z
+UID:ci0960123-tt5672290--2024-4-8-22-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240408T153000
+DTEND;TZID=Europe/London:20240408T184000
+DTSTAMP:20240408T153100Z
+UID:ci0960123-tt5525650--2024-4-8-15-30
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240408T204000
+DTEND;TZID=Europe/London:20240408T235000
+DTSTAMP:20240408T204100Z
+UID:ci0960123-tt5525650--2024-4-8-20-40
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240408T121000
+DTEND;TZID=Europe/London:20240408T142000
+DTSTAMP:20240408T121100Z
+UID:ci0960123-tt7160372--2024-4-8-12-10
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAuschwitz commandant Rudolf Hö
+ ss and his wife Hedwig strive to build a dream life for their family in a 
+ house and garden beside the camp.\n\nhttps://www.imdb.com/title/tt7160372/
+ \n\nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Eggs: An African Rescue (2021)
+DTSTART;TZID=Europe/London:20240408T095500
+DTEND;TZID=Europe/London:20240408T115000
+DTSTAMP:20240408T095600Z
+UID:ci0960123-tt8049994--2024-4-8-9-55
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
+  his egg children after they're taken away for a gourmet food event in Afr
+ ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240408T175500
+DTEND;TZID=Europe/London:20240408T200000
+DTSTAMP:20240408T175600Z
+UID:ci0960123-tt20234774--2024-4-8-17-55
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20240408T100000
+DTEND;TZID=Europe/London:20240408T120000
+DTSTAMP:20240408T100100Z
+UID:ci0960123-tt11304740--2024-4-8-10-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
+ n a star and gets a more direct answer than she bargained for when a troub
+ le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
+ m/title/tt11304740/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love
+DTSTART;TZID=Europe/London:20240409T171500
+DTEND;TZID=Europe/London:20240409T193000
+DTSTAMP:20240409T171600Z
+UID:ci0960123-tt8521778--2024-4-9-17-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
+ b Marley overcame adversity\, and the journey behind his revolutionary mus
+ ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240409T141000
+DTEND;TZID=Europe/London:20240409T172500
+DTSTAMP:20240409T141100Z
+UID:ci0960123-tt15239678--2024-4-9-14-10
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240409T185000
+DTEND;TZID=Europe/London:20240409T220500
+DTSTAMP:20240409T185100Z
+UID:ci0960123-tt15239678--2024-4-9-18-50
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240409T203000
+DTEND;TZID=Europe/London:20240409T234500
+DTSTAMP:20240409T203100Z
+UID:ci0960123-tt15239678--2024-4-9-20-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240409T095500
+DTEND;TZID=Europe/London:20240409T121500
+DTSTAMP:20240409T095600Z
+UID:ci0960123-tt21235248--2024-4-9-9-55
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240409T130000
+DTEND;TZID=Europe/London:20240409T152000
+DTSTAMP:20240409T130100Z
+UID:ci0960123-tt21235248--2024-4-9-13-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240409T153500
+DTEND;TZID=Europe/London:20240409T175500
+DTSTAMP:20240409T153600Z
+UID:ci0960123-tt21235248--2024-4-9-15-35
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240409T124500
+DTEND;TZID=Europe/London:20240409T150500
+DTSTAMP:20240409T124600Z
+UID:ci0960123-tt14539740--2024-4-9-12-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240409T155000
+DTEND;TZID=Europe/London:20240409T181000
+DTSTAMP:20240409T155100Z
+UID:ci0960123-tt14539740--2024-4-9-15-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240409T181000
+DTEND;TZID=Europe/London:20240409T203000
+DTSTAMP:20240409T181100Z
+UID:ci0960123-tt14539740--2024-4-9-18-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T213500
+DTSTAMP:20240409T191600Z
+UID:ci0960123-tt14539740--2024-4-9-19-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240409T152000
+DTEND;TZID=Europe/London:20240409T174000
+DTSTAMP:20240409T152100Z
+UID:ci0960123-tt14539740-3d-2024-4-9-15-20
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240409T215500
+DTEND;TZID=Europe/London:20240409T235000
+DTSTAMP:20240409T215600Z
+UID:ci0960123-tt23137390--2024-4-9-21-55
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T102500
+DTEND;TZID=Europe/London:20240409T122500
+DTSTAMP:20240409T102600Z
+UID:ci0960123-tt21692408--2024-4-9-10-25
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T113500
+DTEND;TZID=Europe/London:20240409T133500
+DTSTAMP:20240409T113600Z
+UID:ci0960123-tt21692408--2024-4-9-11-35
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240409T123000
 DTEND;TZID=Europe/London:20240409T143000
 DTSTAMP:20240409T123100Z
 UID:ci0960123-tt21692408--2024-4-9-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T131500
+DTEND;TZID=Europe/London:20240409T151500
+DTSTAMP:20240409T131600Z
+UID:ci0960123-tt21692408--2024-4-9-13-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T134500
+DTEND;TZID=Europe/London:20240409T154500
+DTSTAMP:20240409T134600Z
+UID:ci0960123-tt21692408--2024-4-9-13-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T142000
+DTEND;TZID=Europe/London:20240409T162000
+DTSTAMP:20240409T142100Z
+UID:ci0960123-tt21692408--2024-4-9-14-20
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1202,6 +2424,58 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T160000
+DTEND;TZID=Europe/London:20240409T180000
+DTSTAMP:20240409T160100Z
+UID:ci0960123-tt21692408--2024-4-9-16-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T175500
+DTEND;TZID=Europe/London:20240409T195500
+DTSTAMP:20240409T175600Z
+UID:ci0960123-tt21692408--2024-4-9-17-55
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T183500
+DTEND;TZID=Europe/London:20240409T203500
+DTSTAMP:20240409T183600Z
+UID:ci0960123-tt21692408--2024-4-9-18-35
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T205000
+DTEND;TZID=Europe/London:20240409T225000
+DTSTAMP:20240409T205100Z
+UID:ci0960123-tt21692408--2024-4-9-20-50
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mary Poppins Returns (2018)
 DTSTART;TZID=Europe/London:20240409T110000
 DTEND;TZID=Europe/London:20240409T133500
@@ -1211,6 +2485,105 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA few decades after her origina
  l visit\, Mary Poppins\, the magical nanny\, returns to help the Banks sib
  lings and Michael's children through a difficult time in their lives.\n\nh
  ttps://www.imdb.com/title/tt5028340/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240409T092000
+DTEND;TZID=Europe/London:20240409T111000
+DTSTAMP:20240409T092100Z
+UID:ci0960123-tt6495056--2024-4-9-9-20
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240409T112000
+DTEND;TZID=Europe/London:20240409T131000
+DTSTAMP:20240409T112100Z
+UID:ci0960123-tt6495056--2024-4-9-11-20
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240409T201500
+DTEND;TZID=Europe/London:20240409T224500
+DTSTAMP:20240409T201600Z
+UID:ci0960123-tt9214772--2024-4-9-20-15
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240409T163500
+DTEND;TZID=Europe/London:20240409T183500
+DTSTAMP:20240409T163600Z
+UID:ci0960123-tt18938922--2024-4-9-16-35
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240409T133500
+DTEND;TZID=Europe/London:20240409T160000
+DTSTAMP:20240409T133600Z
+UID:ci0960123-tt5672290--2024-4-9-13-35
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240409T162500
+DTEND;TZID=Europe/London:20240409T185000
+DTSTAMP:20240409T162600Z
+UID:ci0960123-tt5672290--2024-4-9-16-25
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240409T205500
+DTEND;TZID=Europe/London:20240409T232000
+DTSTAMP:20240409T205600Z
+UID:ci0960123-tt5672290--2024-4-9-20-55
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240409T194000
+DTEND;TZID=Europe/London:20240409T225000
+DTSTAMP:20240409T194100Z
+UID:ci0960123-tt5525650--2024-4-9-19-40
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1227,11 +2600,234 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nPoppy discovers that Branch was
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240409T104000
+DTEND;TZID=Europe/London:20240409T124500
+DTSTAMP:20240409T104100Z
+UID:ci0960123-tt20234774--2024-4-9-10-40
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20240409T100000
+DTEND;TZID=Europe/London:20240409T120000
+DTSTAMP:20240409T100100Z
+UID:ci0960123-tt11304740--2024-4-9-10-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
+ n a star and gets a more direct answer than she bargained for when a troub
+ le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
+ m/title/tt11304740/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240410T143000
+DTEND;TZID=Europe/London:20240410T174500
+DTSTAMP:20240410T143100Z
+UID:ci0960123-tt15239678--2024-4-10-14-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240410T163000
+DTEND;TZID=Europe/London:20240410T194500
+DTSTAMP:20240410T163100Z
+UID:ci0960123-tt15239678--2024-4-10-16-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240410T185500
+DTEND;TZID=Europe/London:20240410T221000
+DTSTAMP:20240410T185600Z
+UID:ci0960123-tt15239678--2024-4-10-18-55
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240410T115500
+DTEND;TZID=Europe/London:20240410T141500
+DTSTAMP:20240410T115600Z
+UID:ci0960123-tt21235248--2024-4-10-11-55
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240410T141000
+DTEND;TZID=Europe/London:20240410T163000
+DTSTAMP:20240410T141100Z
+UID:ci0960123-tt21235248--2024-4-10-14-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240410T164500
+DTEND;TZID=Europe/London:20240410T190500
+DTSTAMP:20240410T164600Z
+UID:ci0960123-tt21235248--2024-4-10-16-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240410T151500
+DTEND;TZID=Europe/London:20240410T173500
+DTSTAMP:20240410T151600Z
+UID:ci0960123-tt14539740--2024-4-10-15-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240410T171500
+DTEND;TZID=Europe/London:20240410T193500
+DTSTAMP:20240410T171600Z
+UID:ci0960123-tt14539740--2024-4-10-17-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240410T214500
+DTEND;TZID=Europe/London:20240411T000500
+DTSTAMP:20240410T214600Z
+UID:ci0960123-tt14539740--2024-4-10-21-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240410T134000
+DTEND;TZID=Europe/London:20240410T160000
+DTSTAMP:20240410T134100Z
+UID:ci0960123-tt14539740-3d-2024-4-10-13-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240410T180500
+DTEND;TZID=Europe/London:20240410T200000
+DTSTAMP:20240410T180600Z
+UID:ci0960123-tt23137390--2024-4-10-18-5
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240410T222500
+DTEND;TZID=Europe/London:20240411T002000
+DTSTAMP:20240410T222600Z
+UID:ci0960123-tt23137390--2024-4-10-22-25
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T101500
+DTEND;TZID=Europe/London:20240410T121500
+DTSTAMP:20240410T101600Z
+UID:ci0960123-tt21692408--2024-4-10-10-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T112000
+DTEND;TZID=Europe/London:20240410T132000
+DTSTAMP:20240410T112100Z
+UID:ci0960123-tt21692408--2024-4-10-11-20
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240410T123000
 DTEND;TZID=Europe/London:20240410T143000
 DTSTAMP:20240410T123100Z
 UID:ci0960123-tt21692408--2024-4-10-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T130000
+DTEND;TZID=Europe/London:20240410T150000
+DTSTAMP:20240410T130100Z
+UID:ci0960123-tt21692408--2024-4-10-13-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T135500
+DTEND;TZID=Europe/London:20240410T155500
+DTSTAMP:20240410T135600Z
+UID:ci0960123-tt21692408--2024-4-10-13-55
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1253,6 +2849,32 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T184000
+DTEND;TZID=Europe/London:20240410T204000
+DTSTAMP:20240410T184100Z
+UID:ci0960123-tt21692408--2024-4-10-18-40
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T192500
+DTEND;TZID=Europe/London:20240410T212500
+DTSTAMP:20240410T192600Z
+UID:ci0960123-tt21692408--2024-4-10-19-25
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Maidaan
 DTSTART;TZID=Europe/London:20240410T200000
 DTEND;TZID=Europe/London:20240410T233000
@@ -1264,6 +2886,64 @@ DESCRIPTION:Duration: 3h 01m (181 mins)\n\nInspired by the Indian national
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240410T094000
+DTEND;TZID=Europe/London:20240410T113000
+DTSTAMP:20240410T094100Z
+UID:ci0960123-tt6495056--2024-4-10-9-40
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240410T114000
+DTEND;TZID=Europe/London:20240410T133000
+DTSTAMP:20240410T114100Z
+UID:ci0960123-tt6495056--2024-4-10-11-40
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240410T161500
+DTEND;TZID=Europe/London:20240410T180500
+DTSTAMP:20240410T161600Z
+UID:ci0960123-tt6495056--2024-4-10-16-15
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240410T205500
+DTEND;TZID=Europe/London:20240410T232500
+DTSTAMP:20240410T205600Z
+UID:ci0960123-tt9214772--2024-4-10-20-55
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240410T122000
+DTEND;TZID=Europe/London:20240410T142000
+DTSTAMP:20240410T122100Z
+UID:ci0960123-tt13397574--2024-4-10-12-20
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Peter Rabbit (2018)
 DTSTART;TZID=Europe/London:20240410T110000
 DTEND;TZID=Europe/London:20240410T130000
@@ -1272,6 +2952,313 @@ UID:ci0960123-tt5117670--2024-4-10-11-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA rebellious rabbit tries to sne
  ak into a farmer's vegetable garden.\n\nhttps://www.imdb.com/title/tt51176
  70/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240410T181500
+DTEND;TZID=Europe/London:20240410T201500
+DTSTAMP:20240410T181600Z
+UID:ci0960123-tt18938922--2024-4-10-18-15
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240410T131500
+DTEND;TZID=Europe/London:20240410T154000
+DTSTAMP:20240410T131600Z
+UID:ci0960123-tt5672290--2024-4-10-13-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240410T160500
+DTEND;TZID=Europe/London:20240410T183000
+DTSTAMP:20240410T160600Z
+UID:ci0960123-tt5672290--2024-4-10-16-5
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240410T211000
+DTEND;TZID=Europe/London:20240410T233500
+DTSTAMP:20240410T211100Z
+UID:ci0960123-tt5672290--2024-4-10-21-10
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240410T144500
+DTEND;TZID=Europe/London:20240410T175500
+DTSTAMP:20240410T144600Z
+UID:ci0960123-tt5525650--2024-4-10-14-45
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240410T195000
+DTEND;TZID=Europe/London:20240410T230000
+DTSTAMP:20240410T195100Z
+UID:ci0960123-tt5525650--2024-4-10-19-50
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240410T103500
+DTEND;TZID=Europe/London:20240410T124500
+DTSTAMP:20240410T103600Z
+UID:ci0960123-tt7160372--2024-4-10-10-35
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAuschwitz commandant Rudolf Hö
+ ss and his wife Hedwig strive to build a dream life for their family in a 
+ house and garden beside the camp.\n\nhttps://www.imdb.com/title/tt7160372/
+ \n\nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Eggs: An African Rescue (2021)
+DTSTART;TZID=Europe/London:20240410T092500
+DTEND;TZID=Europe/London:20240410T112000
+DTSTAMP:20240410T092600Z
+UID:ci0960123-tt8049994--2024-4-10-9-25
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nToto and his friends must rescue
+  his egg children after they're taken away for a gourmet food event in Afr
+ ica.\n\nhttps://www.imdb.com/title/tt8049994/\n\nIMDb rating: 5.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20240410T100000
+DTEND;TZID=Europe/London:20240410T120000
+DTSTAMP:20240410T100100Z
+UID:ci0960123-tt11304740--2024-4-10-10-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
+ n a star and gets a more direct answer than she bargained for when a troub
+ le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
+ m/title/tt11304740/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love
+DTSTART;TZID=Europe/London:20240411T093000
+DTEND;TZID=Europe/London:20240411T114500
+DTSTAMP:20240411T093100Z
+UID:ci0960123-tt8521778--2024-4-11-9-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe story of how reggae icon Bo
+ b Marley overcame adversity\, and the journey behind his revolutionary mus
+ ic.\n\nhttps://www.imdb.com/title/tt8521778/\n\nIMDb rating: 6.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;TZID=Europe/London:20240411T204500
+DTEND;TZID=Europe/London:20240411T230000
+DTSTAMP:20240411T204600Z
+UID:ci0960123-tt17279496--2024-4-11-20-45
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
+ ture America\, following a team of military-embedded journalists as they r
+ ace against time to reach DC before rebel factions descend upon the White 
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War
+DTSTART;TZID=Europe/London:20240411T231000
+DTEND;TZID=Europe/London:20240412T012500
+DTSTAMP:20240411T231100Z
+UID:ci0960123-tt17279496--2024-4-11-23-10
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
+ ture America\, following a team of military-embedded journalists as they r
+ ace against time to reach DC before rebel factions descend upon the White 
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240411T115500
+DTEND;TZID=Europe/London:20240411T151000
+DTSTAMP:20240411T115600Z
+UID:ci0960123-tt15239678--2024-4-11-11-55
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240411T140000
+DTEND;TZID=Europe/London:20240411T171500
+DTSTAMP:20240411T140100Z
+UID:ci0960123-tt15239678--2024-4-11-14-0
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240411T193000
+DTEND;TZID=Europe/London:20240411T224500
+DTSTAMP:20240411T193100Z
+UID:ci0960123-tt15239678--2024-4-11-19-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T104000
+DTEND;TZID=Europe/London:20240411T130000
+DTSTAMP:20240411T104100Z
+UID:ci0960123-tt21235248--2024-4-11-10-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T124000
+DTEND;TZID=Europe/London:20240411T150000
+DTSTAMP:20240411T124100Z
+UID:ci0960123-tt21235248--2024-4-11-12-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T154500
+DTEND;TZID=Europe/London:20240411T180500
+DTSTAMP:20240411T154600Z
+UID:ci0960123-tt21235248--2024-4-11-15-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T181000
+DTEND;TZID=Europe/London:20240411T203000
+DTSTAMP:20240411T181100Z
+UID:ci0960123-tt21235248--2024-4-11-18-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240411T153000
+DTEND;TZID=Europe/London:20240411T175000
+DTSTAMP:20240411T153100Z
+UID:ci0960123-tt14539740--2024-4-11-15-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240411T202000
+DTEND;TZID=Europe/London:20240411T224000
+DTSTAMP:20240411T202100Z
+UID:ci0960123-tt14539740--2024-4-11-20-20
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (3D)
+DTSTART;TZID=Europe/London:20240411T112500
+DTEND;TZID=Europe/London:20240411T134500
+DTSTAMP:20240411T112600Z
+UID:ci0960123-tt14539740-3d-2024-4-11-11-25
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240411T163000
+DTEND;TZID=Europe/London:20240411T182500
+DTSTAMP:20240411T163100Z
+UID:ci0960123-tt23137390--2024-4-11-16-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immaculate
+DTSTART;TZID=Europe/London:20240411T230000
+DTEND;TZID=Europe/London:20240412T005500
+DTSTAMP:20240411T230100Z
+UID:ci0960123-tt23137390--2024-4-11-23-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
+ h\, is warmly welcomed to the picture-perfect Italian countryside where sh
+ e is offered a new role at an illustrious convent. But it becomes clear to
+  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
+ b.com/title/tt23137390/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T102500
+DTEND;TZID=Europe/London:20240411T122500
+DTSTAMP:20240411T102600Z
+UID:ci0960123-tt21692408--2024-4-11-10-25
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1289,10 +3276,75 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T133000
+DTEND;TZID=Europe/London:20240411T153000
+DTSTAMP:20240411T133100Z
+UID:ci0960123-tt21692408--2024-4-11-13-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T141500
+DTEND;TZID=Europe/London:20240411T161500
+DTSTAMP:20240411T141600Z
+UID:ci0960123-tt21692408--2024-4-11-14-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240411T150000
 DTEND;TZID=Europe/London:20240411T170000
 DTSTAMP:20240411T150100Z
 UID:ci0960123-tt21692408--2024-4-11-15-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T171500
+DTEND;TZID=Europe/London:20240411T191500
+DTSTAMP:20240411T171600Z
+UID:ci0960123-tt21692408--2024-4-11-17-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T232000
+DTEND;TZID=Europe/London:20240412T012000
+DTSTAMP:20240411T232100Z
+UID:ci0960123-tt21692408--2024-4-11-23-20
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4 (3D)
+DTSTART;TZID=Europe/London:20240411T234000
+DTEND;TZID=Europe/London:20240412T014000
+DTSTAMP:20240411T234100Z
+UID:ci0960123-tt21692408-3d-2024-4-11-23-40
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1324,6 +3376,179 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA few decades after her origina
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240411T101000
+DTEND;TZID=Europe/London:20240411T120000
+DTSTAMP:20240411T101100Z
+UID:ci0960123-tt6495056--2024-4-11-10-10
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240411T131500
+DTEND;TZID=Europe/London:20240411T150500
+DTSTAMP:20240411T131600Z
+UID:ci0960123-tt6495056--2024-4-11-13-15
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240411T151500
+DTEND;TZID=Europe/London:20240411T170500
+DTSTAMP:20240411T151600Z
+UID:ci0960123-tt6495056--2024-4-11-15-15
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240411T193500
+DTEND;TZID=Europe/London:20240411T220500
+DTSTAMP:20240411T193600Z
+UID:ci0960123-tt9214772--2024-4-11-19-35
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240411T230000
+DTEND;TZID=Europe/London:20240412T013000
+DTSTAMP:20240411T230100Z
+UID:ci0960123-tt9214772--2024-4-11-23-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240411T180500
+DTEND;TZID=Europe/London:20240411T200500
+DTSTAMP:20240411T180600Z
+UID:ci0960123-tt13397574--2024-4-11-18-5
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seize Them!
+DTSTART;TZID=Europe/London:20240411T174500
+DTEND;TZID=Europe/London:20240411T194500
+DTSTAMP:20240411T174600Z
+UID:ci0960123-tt18938922--2024-4-11-17-45
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nDark Ages Britain where Queen Da
+ gan is toppled by a revolution led by Humble Joan. The Queen becomes a fug
+ itive in her own land\, and must face hardship and danger as she embarks o
+ n a voyage to win back her throne.\n\nhttps://www.imdb.com/title/tt1893892
+ 2/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240411T135000
+DTEND;TZID=Europe/London:20240411T161500
+DTSTAMP:20240411T135100Z
+UID:ci0960123-tt5672290--2024-4-11-13-50
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240411T164500
+DTEND;TZID=Europe/London:20240411T191000
+DTSTAMP:20240411T164600Z
+UID:ci0960123-tt5672290--2024-4-11-16-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240411T204000
+DTEND;TZID=Europe/London:20240411T230500
+DTSTAMP:20240411T204100Z
+UID:ci0960123-tt5672290--2024-4-11-20-40
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240411T184000
+DTEND;TZID=Europe/London:20240411T215000
+DTSTAMP:20240411T184100Z
+UID:ci0960123-tt5525650--2024-4-11-18-40
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goat Life
+DTSTART;TZID=Europe/London:20240411T222000
+DTEND;TZID=Europe/London:20240412T013000
+DTSTAMP:20240411T222100Z
+UID:ci0960123-tt5525650--2024-4-11-22-20
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nThe real-life incident of an In
+ dian migrant worker\, Najeeb Muhammad\, who goes to Saudi Arabia to earn m
+ oney. However\, in a twist of fate\, he finds himself living a slave-like 
+ existence\, herding goats in the middle of the desert.\n\nhttps://www.imdb
+ .com/title/tt5525650/\n\nIMDb rating: 8.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240411T182000
+DTEND;TZID=Europe/London:20240411T202500
+DTSTAMP:20240411T182100Z
+UID:ci0960123-tt20234774--2024-4-11-18-20
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20240411T100000
+DTEND;TZID=Europe/London:20240411T120000
+DTSTAMP:20240411T100100Z
+UID:ci0960123-tt11304740--2024-4-11-10-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA young girl named Asha wishes o
+ n a star and gets a more direct answer than she bargained for when a troub
+ le-making star comes down from the sky to join her.\n\nhttps://www.imdb.co
+ m/title/tt11304740/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Back to Black
 DTSTART;TZID=Europe/London:20240412T170000
 DTEND;TZID=Europe/London:20240412T193000
@@ -1348,7 +3573,7 @@ DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mad Max 2 (1981)
+SUMMARY:Mad Max 2: The Road Warrior (1981)
 DTSTART;TZID=Europe/London:20240412T204500
 DTEND;TZID=Europe/London:20240412T225000
 DTSTAMP:20240412T204600Z
@@ -1553,6 +3778,30 @@ DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
  /tt21261712/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Max Beyond Thunderdome (1985)
+DTSTART;TZID=Europe/London:20240419T201500
+DTEND;TZID=Europe/London:20240419T223000
+DTSTAMP:20240419T201600Z
+UID:ci0960123-tt0089530--2024-4-19-20-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAfter being exiled from the mos
+ t advanced town in post apocalyptic Australia\, a drifter travels with a g
+ roup of abandoned children to rebel against the town's queen.\n\nhttps://w
+ ww.imdb.com/title/tt0089530/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Transylvania 2 (2015)
+DTSTART;TZID=Europe/London:20240420T143000
+DTEND;TZID=Europe/London:20240420T162500
+DTSTAMP:20240420T143100Z
+UID:ci0960123-tt2510894--2024-4-20-14-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDracula and his friends try to b
+ ring out the monster in his half human\, half vampire grandson in order to
+  keep Mavis from leaving the hotel.\n\nhttps://www.imdb.com/title/tt251089
+ 4/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 END:VCALENDAR

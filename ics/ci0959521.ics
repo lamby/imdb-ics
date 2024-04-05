@@ -1,536 +1,28 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240403T074018Z
+LAST-MODIFIED:20240405T075241Z
 NAME:The Light Cinema\, Cambridge
 X-WR-CALNAME:The Light Cinema\, Cambridge
 BEGIN:VEVENT
-SUMMARY:Wallace & Gromit: A Grand Day Out (1989)
-DTSTART;TZID=Europe/London:20240403T100000
-DTEND;TZID=Europe/London:20240403T105000
-DTSTAMP:20240403T100100Z
-UID:ci0959521-tt0104361--2024-4-3-10-0
-DESCRIPTION:Duration: 0h 23m (23 mins)\n\nTo replenish their depleted supp
- ly of cheese\, inventor Wallace and his dog Gromit travel to the moon in a
-  homemade rocket-ship.\n\nhttps://www.imdb.com/title/tt0104361/\n\nIMDb ra
- ting: 7.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wallace & Gromit: A Grand Day Out (1989)
-DTSTART;TZID=Europe/London:20240403T122000
-DTEND;TZID=Europe/London:20240403T131000
-DTSTAMP:20240403T122100Z
-UID:ci0959521-tt0104361--2024-4-3-12-20
-DESCRIPTION:Duration: 0h 23m (23 mins)\n\nTo replenish their depleted supp
- ly of cheese\, inventor Wallace and his dog Gromit travel to the moon in a
-  homemade rocket-ship.\n\nhttps://www.imdb.com/title/tt0104361/\n\nIMDb ra
- ting: 7.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crew
-DTSTART;TZID=Europe/London:20240403T191500
-DTEND;TZID=Europe/London:20240403T214000
-DTSTAMP:20240403T191600Z
-UID:ci0959521-tt21383812--2024-4-3-19-15
+DTSTART;TZID=Europe/London:20240405T165000
+DTEND;TZID=Europe/London:20240405T191500
+DTSTAMP:20240405T165100Z
+UID:ci0959521-tt21383812--2024-4-5-16-50
 DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows three hard-working wome
  n as their destinies lead to some unwarranted situations and they end up c
  aught in a web of lies.\n\nhttps://www.imdb.com/title/tt21383812/\n\nIMDb 
- rating: 8.4
+ rating: 8.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240403T160500
-DTEND;TZID=Europe/London:20240403T192000
-DTSTAMP:20240403T160600Z
-UID:ci0959521-tt15239678--2024-4-3-16-5
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two (IMAX)
-DTSTART;TZID=Europe/London:20240403T124500
-DTEND;TZID=Europe/London:20240403T160000
-DTSTAMP:20240403T124600Z
-UID:ci0959521-tt15239678-imax-2024-4-3-12-45
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two (IMAX)
-DTSTART;TZID=Europe/London:20240403T191000
-DTEND;TZID=Europe/London:20240403T222500
-DTSTAMP:20240403T191100Z
-UID:ci0959521-tt15239678-imax-2024-4-3-19-10
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T114500
-DTEND;TZID=Europe/London:20240403T140500
-DTSTAMP:20240403T114600Z
-UID:ci0959521-tt21235248--2024-4-3-11-45
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T143000
-DTEND;TZID=Europe/London:20240403T165000
-DTSTAMP:20240403T143100Z
-UID:ci0959521-tt21235248--2024-4-3-14-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T162000
-DTEND;TZID=Europe/London:20240403T184000
-DTSTAMP:20240403T162100Z
-UID:ci0959521-tt21235248--2024-4-3-16-20
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T171500
-DTEND;TZID=Europe/London:20240403T193500
-DTSTAMP:20240403T171600Z
-UID:ci0959521-tt21235248--2024-4-3-17-15
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T192000
-DTEND;TZID=Europe/London:20240403T214000
-DTSTAMP:20240403T192100Z
-UID:ci0959521-tt21235248--2024-4-3-19-20
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240403T200000
-DTEND;TZID=Europe/London:20240403T222000
-DTSTAMP:20240403T200100Z
-UID:ci0959521-tt21235248--2024-4-3-20-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T121000
-DTEND;TZID=Europe/London:20240403T143000
-DTSTAMP:20240403T121100Z
-UID:ci0959521-tt14539740--2024-4-3-12-10
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T133000
-DTEND;TZID=Europe/London:20240403T155000
-DTSTAMP:20240403T133100Z
-UID:ci0959521-tt14539740--2024-4-3-13-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T145000
-DTEND;TZID=Europe/London:20240403T171000
-DTSTAMP:20240403T145100Z
-UID:ci0959521-tt14539740--2024-4-3-14-50
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T193000
-DTEND;TZID=Europe/London:20240403T215000
-DTSTAMP:20240403T193100Z
-UID:ci0959521-tt14539740--2024-4-3-19-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240403T201500
-DTEND;TZID=Europe/London:20240403T223500
-DTSTAMP:20240403T201600Z
-UID:ci0959521-tt14539740--2024-4-3-20-15
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire (IMAX)
-DTSTART;TZID=Europe/London:20240403T100000
-DTEND;TZID=Europe/London:20240403T122000
-DTSTAMP:20240403T100100Z
-UID:ci0959521-tt14539740-imax-2024-4-3-10-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire (IMAX)
-DTSTART;TZID=Europe/London:20240403T163000
-DTEND;TZID=Europe/London:20240403T185000
-DTSTAMP:20240403T163100Z
-UID:ci0959521-tt14539740-imax-2024-4-3-16-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T101500
-DTEND;TZID=Europe/London:20240403T121500
-DTSTAMP:20240403T101600Z
-UID:ci0959521-tt21692408--2024-4-3-10-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T111500
-DTEND;TZID=Europe/London:20240403T131500
-DTSTAMP:20240403T111600Z
-UID:ci0959521-tt21692408--2024-4-3-11-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T123000
-DTEND;TZID=Europe/London:20240403T143000
-DTSTAMP:20240403T123100Z
-UID:ci0959521-tt21692408--2024-4-3-12-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T133000
-DTEND;TZID=Europe/London:20240403T153000
-DTSTAMP:20240403T133100Z
-UID:ci0959521-tt21692408--2024-4-3-13-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T140000
-DTEND;TZID=Europe/London:20240403T160000
-DTSTAMP:20240403T140100Z
-UID:ci0959521-tt21692408--2024-4-3-14-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T144500
-DTEND;TZID=Europe/London:20240403T164500
-DTSTAMP:20240403T144600Z
-UID:ci0959521-tt21692408--2024-4-3-14-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T154500
-DTEND;TZID=Europe/London:20240403T174500
-DTSTAMP:20240403T154600Z
-UID:ci0959521-tt21692408--2024-4-3-15-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T170000
-DTEND;TZID=Europe/London:20240403T190000
-DTSTAMP:20240403T170100Z
-UID:ci0959521-tt21692408--2024-4-3-17-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T180000
-DTEND;TZID=Europe/London:20240403T200000
-DTSTAMP:20240403T180100Z
-UID:ci0959521-tt21692408--2024-4-3-18-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240403T190000
-DTEND;TZID=Europe/London:20240403T210000
-DTSTAMP:20240403T190100Z
-UID:ci0959521-tt21692408--2024-4-3-19-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=Europe/London:20240403T171000
-DTEND;TZID=Europe/London:20240403T191000
-DTSTAMP:20240403T171100Z
-UID:ci0959521-tt14966898--2024-4-3-17-10
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240403T100000
-DTEND;TZID=Europe/London:20240403T115000
-DTSTAMP:20240403T100100Z
-UID:ci0959521-tt6495056--2024-4-3-10-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
- e their overprotective father to go on the vacation of a lifetime.\n\nhttp
- s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240403T110000
-DTEND;TZID=Europe/London:20240403T130000
-DTSTAMP:20240403T110100Z
-UID:ci0959521-tt13397574--2024-4-3-11-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240403T173000
-DTEND;TZID=Europe/London:20240403T193000
-DTSTAMP:20240403T173100Z
-UID:ci0959521-tt13397574--2024-4-3-17-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240403T194500
-DTEND;TZID=Europe/London:20240403T214500
-DTSTAMP:20240403T194600Z
-UID:ci0959521-tt13397574--2024-4-3-19-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240403T100500
-DTEND;TZID=Europe/London:20240403T121000
-DTSTAMP:20240403T100600Z
-UID:ci0959521-tt20234774--2024-4-3-10-5
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240403T122000
-DTEND;TZID=Europe/London:20240403T142500
-DTSTAMP:20240403T122100Z
-UID:ci0959521-tt20234774--2024-4-3-12-20
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240403T144500
-DTEND;TZID=Europe/London:20240403T165000
-DTSTAMP:20240403T144600Z
-UID:ci0959521-tt20234774--2024-4-3-14-45
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wallace & Gromit: A Grand Day Out (1989)
-DTSTART;TZID=Europe/London:20240404T100000
-DTEND;TZID=Europe/London:20240404T105000
-DTSTAMP:20240404T100100Z
-UID:ci0959521-tt0104361--2024-4-4-10-0
-DESCRIPTION:Duration: 0h 23m (23 mins)\n\nTo replenish their depleted supp
- ly of cheese\, inventor Wallace and his dog Gromit travel to the moon in a
-  homemade rocket-ship.\n\nhttps://www.imdb.com/title/tt0104361/\n\nIMDb ra
- ting: 7.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crew
-DTSTART;TZID=Europe/London:20240404T181500
-DTEND;TZID=Europe/London:20240404T204000
-DTSTAMP:20240404T181600Z
-UID:ci0959521-tt21383812--2024-4-4-18-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows three hard-working wome
- n as their destinies lead to some unwarranted situations and they end up c
- aught in a web of lies.\n\nhttps://www.imdb.com/title/tt21383812/\n\nIMDb 
- rating: 8.4
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240404T124000
-DTEND;TZID=Europe/London:20240404T155500
-DTSTAMP:20240404T124100Z
-UID:ci0959521-tt15239678--2024-4-4-12-40
+DTSTART;TZID=Europe/London:20240405T131500
+DTEND;TZID=Europe/London:20240405T163000
+DTSTAMP:20240405T131600Z
+UID:ci0959521-tt15239678--2024-4-5-13-15
 DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
@@ -540,10 +32,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240404T191500
-DTEND;TZID=Europe/London:20240404T223000
-DTSTAMP:20240404T191600Z
-UID:ci0959521-tt15239678--2024-4-4-19-15
+DTSTART;TZID=Europe/London:20240405T194000
+DTEND;TZID=Europe/London:20240405T225500
+DTSTAMP:20240405T194100Z
+UID:ci0959521-tt15239678--2024-4-5-19-40
 DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
@@ -553,10 +45,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two (IMAX)
-DTSTART;TZID=Europe/London:20240404T163000
-DTEND;TZID=Europe/London:20240404T194500
-DTSTAMP:20240404T163100Z
-UID:ci0959521-tt15239678-imax-2024-4-4-16-30
+DTSTART;TZID=Europe/London:20240405T160000
+DTEND;TZID=Europe/London:20240405T191500
+DTSTAMP:20240405T160100Z
+UID:ci0959521-tt15239678-imax-2024-4-5-16-0
 DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
@@ -566,10 +58,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T114500
-DTEND;TZID=Europe/London:20240404T140500
-DTSTAMP:20240404T114600Z
-UID:ci0959521-tt21235248--2024-4-4-11-45
+DTSTART;TZID=Europe/London:20240405T110000
+DTEND;TZID=Europe/London:20240405T132000
+DTSTAMP:20240405T110100Z
+UID:ci0959521-tt21235248--2024-4-5-11-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -579,10 +71,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T143000
-DTEND;TZID=Europe/London:20240404T165000
-DTSTAMP:20240404T143100Z
-UID:ci0959521-tt21235248--2024-4-4-14-30
+DTSTART;TZID=Europe/London:20240405T134500
+DTEND;TZID=Europe/London:20240405T160500
+DTSTAMP:20240405T134600Z
+UID:ci0959521-tt21235248--2024-4-5-13-45
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -592,10 +84,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T162000
-DTEND;TZID=Europe/London:20240404T184000
-DTSTAMP:20240404T162100Z
-UID:ci0959521-tt21235248--2024-4-4-16-20
+DTSTART;TZID=Europe/London:20240405T163000
+DTEND;TZID=Europe/London:20240405T185000
+DTSTAMP:20240405T163100Z
+UID:ci0959521-tt21235248--2024-4-5-16-30
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -605,36 +97,10 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T171500
-DTEND;TZID=Europe/London:20240404T193500
-DTSTAMP:20240404T171600Z
-UID:ci0959521-tt21235248--2024-4-4-17-15
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T192000
-DTEND;TZID=Europe/London:20240404T214000
-DTSTAMP:20240404T192100Z
-UID:ci0959521-tt21235248--2024-4-4-19-20
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
- t artifact unleashes an evil force\, Ghostbusters new and old must join fo
- rces to protect their home and save the world from a second ice age.\n\nht
- tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghostbusters: Frozen Empire
-DTSTART;TZID=Europe/London:20240404T200000
-DTEND;TZID=Europe/London:20240404T222000
-DTSTAMP:20240404T200100Z
-UID:ci0959521-tt21235248--2024-4-4-20-0
+DTSTART;TZID=Europe/London:20240405T191000
+DTEND;TZID=Europe/London:20240405T213000
+DTSTAMP:20240405T191100Z
+UID:ci0959521-tt21235248--2024-4-5-19-10
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
@@ -644,327 +110,79 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T121500
-DTEND;TZID=Europe/London:20240404T143500
-DTSTAMP:20240404T121600Z
-UID:ci0959521-tt14539740--2024-4-4-12-15
+DTSTART;TZID=Europe/London:20240405T142000
+DTEND;TZID=Europe/London:20240405T164000
+DTSTAMP:20240405T142100Z
+UID:ci0959521-tt14539740--2024-4-5-14-20
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T145000
-DTEND;TZID=Europe/London:20240404T171000
-DTSTAMP:20240404T145100Z
-UID:ci0959521-tt14539740--2024-4-4-14-50
+DTSTART;TZID=Europe/London:20240405T180000
+DTEND;TZID=Europe/London:20240405T202000
+DTSTAMP:20240405T180100Z
+UID:ci0959521-tt14539740--2024-4-5-18-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T161000
-DTEND;TZID=Europe/London:20240404T183000
-DTSTAMP:20240404T161100Z
-UID:ci0959521-tt14539740--2024-4-4-16-10
+DTSTART;TZID=Europe/London:20240405T195000
+DTEND;TZID=Europe/London:20240405T221000
+DTSTAMP:20240405T195100Z
+UID:ci0959521-tt14539740--2024-4-5-19-50
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire
-DTSTART;TZID=Europe/London:20240404T184500
-DTEND;TZID=Europe/London:20240404T210500
-DTSTAMP:20240404T184600Z
-UID:ci0959521-tt14539740--2024-4-4-18-45
+DTSTART;TZID=Europe/London:20240405T204000
+DTEND;TZID=Europe/London:20240405T230000
+DTSTAMP:20240405T204100Z
+UID:ci0959521-tt14539740--2024-4-5-20-40
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire (IMAX)
-DTSTART;TZID=Europe/London:20240404T111000
-DTEND;TZID=Europe/London:20240404T133000
-DTSTAMP:20240404T111100Z
-UID:ci0959521-tt14539740-imax-2024-4-4-11-10
+DTSTART;TZID=Europe/London:20240405T104000
+DTEND;TZID=Europe/London:20240405T130000
+DTSTAMP:20240405T104100Z
+UID:ci0959521-tt14539740-imax-2024-4-5-10-40
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Godzilla x Kong: The New Empire (IMAX)
-DTSTART;TZID=Europe/London:20240404T135000
-DTEND;TZID=Europe/London:20240404T161000
-DTSTAMP:20240404T135100Z
-UID:ci0959521-tt14539740-imax-2024-4-4-13-50
+DTSTART;TZID=Europe/London:20240405T132000
+DTEND;TZID=Europe/London:20240405T154000
+DTSTAMP:20240405T132100Z
+UID:ci0959521-tt14539740-imax-2024-4-5-13-20
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
  nd Kong\, clash in an epic battle as humans unravel their intertwined orig
  ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla x Kong: The New Empire (IMAX)
-DTSTART;TZID=Europe/London:20240404T200000
-DTEND;TZID=Europe/London:20240404T222000
-DTSTAMP:20240404T200100Z
-UID:ci0959521-tt14539740-imax-2024-4-4-20-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
- nd Kong\, clash in an epic battle as humans unravel their intertwined orig
- ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
- tle/tt14539740/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immaculate
-DTSTART;TZID=Europe/London:20240404T171000
-DTEND;TZID=Europe/London:20240404T190500
-DTSTAMP:20240404T171100Z
-UID:ci0959521-tt23137390--2024-4-4-17-10
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCecilia\, a woman of devout fait
- h\, is warmly welcomed to the picture-perfect Italian countryside where sh
- e is offered a new role at an illustrious convent. But it becomes clear to
-  Cecilia that her new home harbors dark and horrifyi...\n\nhttps://www.imd
- b.com/title/tt23137390/\n\nIMDb rating: 6.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T101500
-DTEND;TZID=Europe/London:20240404T121500
-DTSTAMP:20240404T101600Z
-UID:ci0959521-tt21692408--2024-4-4-10-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T111500
-DTEND;TZID=Europe/London:20240404T131500
-DTSTAMP:20240404T111600Z
-UID:ci0959521-tt21692408--2024-4-4-11-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T123000
-DTEND;TZID=Europe/London:20240404T143000
-DTSTAMP:20240404T123100Z
-UID:ci0959521-tt21692408--2024-4-4-12-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T133000
-DTEND;TZID=Europe/London:20240404T153000
-DTSTAMP:20240404T133100Z
-UID:ci0959521-tt21692408--2024-4-4-13-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T140000
-DTEND;TZID=Europe/London:20240404T160000
-DTSTAMP:20240404T140100Z
-UID:ci0959521-tt21692408--2024-4-4-14-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T144500
-DTEND;TZID=Europe/London:20240404T164500
-DTSTAMP:20240404T144600Z
-UID:ci0959521-tt21692408--2024-4-4-14-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T154500
-DTEND;TZID=Europe/London:20240404T174500
-DTSTAMP:20240404T154600Z
-UID:ci0959521-tt21692408--2024-4-4-15-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T170000
-DTEND;TZID=Europe/London:20240404T190000
-DTSTAMP:20240404T170100Z
-UID:ci0959521-tt21692408--2024-4-4-17-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Panda 4
-DTSTART;TZID=Europe/London:20240404T190000
-DTEND;TZID=Europe/London:20240404T210000
-DTSTAMP:20240404T190100Z
-UID:ci0959521-tt21692408--2024-4-4-19-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
-  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
- w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
- ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
- b.com/title/tt21692408/\n\nIMDb rating: 6.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240404T101000
-DTEND;TZID=Europe/London:20240404T120000
-DTSTAMP:20240404T101100Z
-UID:ci0959521-tt6495056--2024-4-4-10-10
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
- e their overprotective father to go on the vacation of a lifetime.\n\nhttp
- s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240404T102000
-DTEND;TZID=Europe/London:20240404T122000
-DTSTAMP:20240404T102100Z
-UID:ci0959521-tt13397574--2024-4-4-10-20
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240404T173000
-DTEND;TZID=Europe/London:20240404T193000
-DTSTAMP:20240404T173100Z
-UID:ci0959521-tt13397574--2024-4-4-17-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothers' Instinct
-DTSTART;TZID=Europe/London:20240404T194500
-DTEND;TZID=Europe/London:20240404T214500
-DTSTAMP:20240404T194600Z
-UID:ci0959521-tt13397574--2024-4-4-19-45
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
- nal lifestyle with successful husbands and sons of the same age. Life's pe
- rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
- cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
- .com/title/tt13397574/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240404T122000
-DTEND;TZID=Europe/London:20240404T142500
-DTSTAMP:20240404T122100Z
-UID:ci0959521-tt20234774--2024-4-4-12-20
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240404T144500
-DTEND;TZID=Europe/London:20240404T165000
-DTSTAMP:20240404T144600Z
-UID:ci0959521-tt20234774--2024-4-4-14-45
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
- ncluding conservative local Edith--begin to receive letters full of hilari
- ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
- ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
- db.com/title/tt20234774/\n\nIMDb rating: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20240404T112000
-DTEND;TZID=Europe/London:20240404T134500
-DTSTAMP:20240404T112100Z
-UID:ci0959521-tt6166392--2024-4-4-11-20
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWith dreams of opening a shop i
- n a city renowned for its chocolate\, a young and poor Willy Wonka discove
- rs that the industry is run by a cartel of greedy chocolatiers.\n\nhttps:/
- /www.imdb.com/title/tt6166392/\n\nIMDb rating: 7
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1012,10 +230,38 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T111500
+DTEND;TZID=Europe/London:20240405T131500
+DTSTAMP:20240405T111600Z
+UID:ci0959521-tt21692408--2024-4-5-11-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240405T123000
 DTEND;TZID=Europe/London:20240405T143000
 DTSTAMP:20240405T123100Z
 UID:ci0959521-tt21692408--2024-4-5-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T133000
+DTEND;TZID=Europe/London:20240405T153000
+DTSTAMP:20240405T133100Z
+UID:ci0959521-tt21692408--2024-4-5-13-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1040,6 +286,20 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240405T154500
+DTEND;TZID=Europe/London:20240405T174500
+DTSTAMP:20240405T154600Z
+UID:ci0959521-tt21692408--2024-4-5-15-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240405T171000
 DTEND;TZID=Europe/London:20240405T191000
 DTSTAMP:20240405T171100Z
@@ -1049,6 +309,31 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
  ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
  b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Night with the Devil
+DTSTART;TZID=Europe/London:20240405T215000
+DTEND;TZID=Europe/London:20240405T235000
+DTSTAMP:20240405T215100Z
+UID:ci0959521-tt14966898--2024-4-5-21-50
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
+ 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
+ n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240405T114500
+DTEND;TZID=Europe/London:20240405T141500
+DTSTAMP:20240405T114600Z
+UID:ci0959521-tt9214772--2024-4-5-11-45
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1093,6 +378,20 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240405T100000
+DTEND;TZID=Europe/London:20240405T120000
+DTSTAMP:20240405T100100Z
+UID:ci0959521-tt13397574--2024-4-5-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
 DTSTART;TZID=Europe/London:20240405T101000
 DTEND;TZID=Europe/London:20240405T121000
 DTSTAMP:20240405T101100Z
@@ -1106,6 +405,34 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240405T121000
+DTEND;TZID=Europe/London:20240405T141000
+DTSTAMP:20240405T121100Z
+UID:ci0959521-tt13397574--2024-4-5-12-10
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240405T134000
+DTEND;TZID=Europe/London:20240405T160500
+DTSTAMP:20240405T134100Z
+UID:ci0959521-tt5672290--2024-4-5-13-40
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The First Omen
 DTSTART;TZID=Europe/London:20240405T162000
 DTEND;TZID=Europe/London:20240405T184500
@@ -1115,7 +442,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1129,7 +456,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1143,7 +470,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1157,6 +484,188 @@ DESCRIPTION:Duration: 2h 09m (129 mins)\n\nAfter an argument with her youn
  ger sister\, Le Ying moves out on her own. She meets a boxing trainer and 
  starts boxing.\n\nhttps://www.imdb.com/title/tt28151876/\n\nIMDb rating: 6
  .9
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crew
+DTSTART;TZID=Europe/London:20240406T163000
+DTEND;TZID=Europe/London:20240406T185500
+DTSTAMP:20240406T163100Z
+UID:ci0959521-tt21383812--2024-4-6-16-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows three hard-working wome
+ n as their destinies lead to some unwarranted situations and they end up c
+ aught in a web of lies.\n\nhttps://www.imdb.com/title/tt21383812/\n\nIMDb 
+ rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240406T130000
+DTEND;TZID=Europe/London:20240406T161500
+DTSTAMP:20240406T130100Z
+UID:ci0959521-tt15239678--2024-4-6-13-0
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240406T161500
+DTEND;TZID=Europe/London:20240406T193000
+DTSTAMP:20240406T161600Z
+UID:ci0959521-tt15239678--2024-4-6-16-15
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240406T193000
+DTEND;TZID=Europe/London:20240406T224500
+DTSTAMP:20240406T193100Z
+UID:ci0959521-tt15239678-imax-2024-4-6-19-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240406T110000
+DTEND;TZID=Europe/London:20240406T132000
+DTSTAMP:20240406T110100Z
+UID:ci0959521-tt21235248--2024-4-6-11-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240406T134500
+DTEND;TZID=Europe/London:20240406T160500
+DTSTAMP:20240406T134600Z
+UID:ci0959521-tt21235248--2024-4-6-13-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240406T163000
+DTEND;TZID=Europe/London:20240406T185000
+DTSTAMP:20240406T163100Z
+UID:ci0959521-tt21235248--2024-4-6-16-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240406T191500
+DTEND;TZID=Europe/London:20240406T213500
+DTSTAMP:20240406T191600Z
+UID:ci0959521-tt21235248--2024-4-6-19-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240406T121500
+DTEND;TZID=Europe/London:20240406T143500
+DTSTAMP:20240406T121600Z
+UID:ci0959521-tt14539740--2024-4-6-12-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240406T181500
+DTEND;TZID=Europe/London:20240406T203500
+DTSTAMP:20240406T181600Z
+UID:ci0959521-tt14539740--2024-4-6-18-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240406T194500
+DTEND;TZID=Europe/London:20240406T220500
+DTSTAMP:20240406T194600Z
+UID:ci0959521-tt14539740--2024-4-6-19-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240406T205000
+DTEND;TZID=Europe/London:20240406T231000
+DTSTAMP:20240406T205100Z
+UID:ci0959521-tt14539740--2024-4-6-20-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240406T104500
+DTEND;TZID=Europe/London:20240406T130500
+DTSTAMP:20240406T104600Z
+UID:ci0959521-tt14539740-imax-2024-4-6-10-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240406T132000
+DTEND;TZID=Europe/London:20240406T154000
+DTSTAMP:20240406T132100Z
+UID:ci0959521-tt14539740-imax-2024-4-6-13-20
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1190,10 +699,38 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T111500
+DTEND;TZID=Europe/London:20240406T131500
+DTSTAMP:20240406T111600Z
+UID:ci0959521-tt21692408--2024-4-6-11-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240406T123000
 DTEND;TZID=Europe/London:20240406T143000
 DTSTAMP:20240406T123100Z
 UID:ci0959521-tt21692408--2024-4-6-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T133000
+DTEND;TZID=Europe/London:20240406T153000
+DTSTAMP:20240406T133100Z
+UID:ci0959521-tt21692408--2024-4-6-13-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1218,6 +755,20 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240406T155000
+DTEND;TZID=Europe/London:20240406T175000
+DTSTAMP:20240406T155100Z
+UID:ci0959521-tt21692408--2024-4-6-15-50
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240406T170000
 DTEND;TZID=Europe/London:20240406T190000
 DTSTAMP:20240406T170100Z
@@ -1227,6 +778,30 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
  ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
  b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Night with the Devil
+DTSTART;TZID=Europe/London:20240406T214000
+DTEND;TZID=Europe/London:20240406T234000
+DTSTAMP:20240406T214100Z
+UID:ci0959521-tt14966898--2024-4-6-21-40
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
+ 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
+ n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240406T100000
+DTEND;TZID=Europe/London:20240406T115000
+DTSTAMP:20240406T100100Z
+UID:ci0959521-tt6495056--2024-4-6-10-0
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1283,6 +858,34 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240406T110000
+DTEND;TZID=Europe/London:20240406T132500
+DTSTAMP:20240406T110100Z
+UID:ci0959521-tt5672290--2024-4-6-11-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
+DTSTART;TZID=Europe/London:20240406T134000
+DTEND;TZID=Europe/London:20240406T160500
+DTSTAMP:20240406T134100Z
+UID:ci0959521-tt5672290--2024-4-6-13-40
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
+ to Rome to begin a life of service to the church\, but encounters a darkne
+ ss that causes her to question her faith and uncovers a terrifying conspir
+ acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Omen
 DTSTART;TZID=Europe/London:20240406T162000
 DTEND;TZID=Europe/London:20240406T184500
 DTSTAMP:20240406T162100Z
@@ -1291,7 +894,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1305,7 +908,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1319,7 +922,20 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We 12
+DTSTART;TZID=Europe/London:20240406T191500
+DTEND;TZID=Europe/London:20240406T212000
+DTSTAMP:20240406T191600Z
+UID:ci0959521-tt27140372--2024-4-6-19-15
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nEstranged members of a crime-fig
+ hting group must collaborate to steal a scientific invention that could de
+ stroy global ecosystems in this Cantonese-language action comedy.\n\nhttps
+ ://www.imdb.com/title/tt27140372/\n\nIMDb rating: 5.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1350,6 +966,58 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crew
+DTSTART;TZID=Europe/London:20240407T203000
+DTEND;TZID=Europe/London:20240407T225500
+DTSTAMP:20240407T203100Z
+UID:ci0959521-tt21383812--2024-4-7-20-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows three hard-working wome
+ n as their destinies lead to some unwarranted situations and they end up c
+ aught in a web of lies.\n\nhttps://www.imdb.com/title/tt21383812/\n\nIMDb 
+ rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240407T154500
+DTEND;TZID=Europe/London:20240407T190000
+DTSTAMP:20240407T154600Z
+UID:ci0959521-tt15239678--2024-4-7-15-45
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240407T191500
+DTEND;TZID=Europe/London:20240407T223000
+DTSTAMP:20240407T191600Z
+UID:ci0959521-tt15239678--2024-4-7-19-15
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240407T123500
+DTEND;TZID=Europe/London:20240407T155000
+DTSTAMP:20240407T123600Z
+UID:ci0959521-tt15239678-imax-2024-4-7-12-35
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ex Machina (2015)
 DTSTART;TZID=Europe/London:20240407T193000
 DTEND;TZID=Europe/London:20240407T214500
@@ -1359,6 +1027,136 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nA young programmer is selected
  to participate in a ground-breaking experiment in synthetic intelligence b
  y evaluating the human qualities of a highly advanced humanoid A.I.\n\nhtt
  ps://www.imdb.com/title/tt0470752/\n\nIMDb rating: 7.7
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T121000
+DTEND;TZID=Europe/London:20240407T143000
+DTSTAMP:20240407T121100Z
+UID:ci0959521-tt21235248--2024-4-7-12-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T144000
+DTEND;TZID=Europe/London:20240407T170000
+DTSTAMP:20240407T144100Z
+UID:ci0959521-tt21235248--2024-4-7-14-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T172000
+DTEND;TZID=Europe/London:20240407T194000
+DTSTAMP:20240407T172100Z
+UID:ci0959521-tt21235248--2024-4-7-17-20
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240407T200000
+DTEND;TZID=Europe/London:20240407T222000
+DTSTAMP:20240407T200100Z
+UID:ci0959521-tt21235248--2024-4-7-20-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240407T122000
+DTEND;TZID=Europe/London:20240407T144000
+DTSTAMP:20240407T122100Z
+UID:ci0959521-tt14539740--2024-4-7-12-20
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240407T145000
+DTEND;TZID=Europe/London:20240407T171000
+DTSTAMP:20240407T145100Z
+UID:ci0959521-tt14539740--2024-4-7-14-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240407T180000
+DTEND;TZID=Europe/London:20240407T202000
+DTSTAMP:20240407T180100Z
+UID:ci0959521-tt14539740--2024-4-7-18-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240407T194500
+DTEND;TZID=Europe/London:20240407T220500
+DTSTAMP:20240407T194600Z
+UID:ci0959521-tt14539740--2024-4-7-19-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240407T204000
+DTEND;TZID=Europe/London:20240407T230000
+DTSTAMP:20240407T204100Z
+UID:ci0959521-tt14539740--2024-4-7-20-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240407T100000
+DTEND;TZID=Europe/London:20240407T122000
+DTSTAMP:20240407T100100Z
+UID:ci0959521-tt14539740-imax-2024-4-7-10-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1406,10 +1204,38 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T111500
+DTEND;TZID=Europe/London:20240407T131500
+DTSTAMP:20240407T111600Z
+UID:ci0959521-tt21692408--2024-4-7-11-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240407T124000
 DTEND;TZID=Europe/London:20240407T144000
 DTSTAMP:20240407T124100Z
 UID:ci0959521-tt21692408--2024-4-7-12-40
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T133000
+DTEND;TZID=Europe/London:20240407T153000
+DTSTAMP:20240407T133100Z
+UID:ci0959521-tt21692408--2024-4-7-13-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1429,6 +1255,32 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
  ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
  b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240407T171500
+DTEND;TZID=Europe/London:20240407T191500
+DTSTAMP:20240407T171600Z
+UID:ci0959521-tt21692408--2024-4-7-17-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration
+DTSTART;TZID=Europe/London:20240407T101000
+DTEND;TZID=Europe/London:20240407T120000
+DTSTAMP:20240407T101100Z
+UID:ci0959521-tt6495056--2024-4-7-10-10
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA family of ducks try to convinc
+ e their overprotective father to go on the vacation of a lifetime.\n\nhttp
+ s://www.imdb.com/title/tt6495056/\n\nIMDb rating: 6.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1468,7 +1320,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1482,7 +1334,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1496,7 +1348,34 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We 12
+DTSTART;TZID=Europe/London:20240407T181000
+DTEND;TZID=Europe/London:20240407T201500
+DTSTAMP:20240407T181100Z
+UID:ci0959521-tt27140372--2024-4-7-18-10
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nEstranged members of a crime-fig
+ hting group must collaborate to steal a scientific invention that could de
+ stroy global ecosystems in this Cantonese-language action comedy.\n\nhttps
+ ://www.imdb.com/title/tt27140372/\n\nIMDb rating: 5.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240407T121000
+DTEND;TZID=Europe/London:20240407T141500
+DTSTAMP:20240407T121100Z
+UID:ci0959521-tt20234774--2024-4-7-12-10
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1514,6 +1393,97 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240408T191500
+DTEND;TZID=Europe/London:20240408T223000
+DTSTAMP:20240408T191600Z
+UID:ci0959521-tt15239678--2024-4-8-19-15
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240408T124000
+DTEND;TZID=Europe/London:20240408T155500
+DTSTAMP:20240408T124100Z
+UID:ci0959521-tt15239678-imax-2024-4-8-12-40
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240408T160500
+DTEND;TZID=Europe/London:20240408T192000
+DTSTAMP:20240408T160600Z
+UID:ci0959521-tt15239678-imax-2024-4-8-16-5
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T101000
+DTEND;TZID=Europe/London:20240408T123000
+DTSTAMP:20240408T101100Z
+UID:ci0959521-tt21235248--2024-4-8-10-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T115000
+DTEND;TZID=Europe/London:20240408T141000
+DTSTAMP:20240408T115100Z
+UID:ci0959521-tt21235248--2024-4-8-11-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T143000
+DTEND;TZID=Europe/London:20240408T165000
+DTSTAMP:20240408T143100Z
+UID:ci0959521-tt21235248--2024-4-8-14-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T171000
+DTEND;TZID=Europe/London:20240408T193000
+DTSTAMP:20240408T171100Z
+UID:ci0959521-tt21235248--2024-4-8-17-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghostbusters: Frozen Empire
 DTSTART;TZID=Europe/London:20240408T190000
 DTEND;TZID=Europe/London:20240408T212000
@@ -1523,6 +1493,84 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
  t artifact unleashes an evil force\, Ghostbusters new and old must join fo
  rces to protect their home and save the world from a second ice age.\n\nht
  tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240408T195000
+DTEND;TZID=Europe/London:20240408T221000
+DTSTAMP:20240408T195100Z
+UID:ci0959521-tt21235248--2024-4-8-19-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240408T134500
+DTEND;TZID=Europe/London:20240408T160500
+DTSTAMP:20240408T134600Z
+UID:ci0959521-tt14539740--2024-4-8-13-45
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240408T162000
+DTEND;TZID=Europe/London:20240408T184000
+DTSTAMP:20240408T162100Z
+UID:ci0959521-tt14539740--2024-4-8-16-20
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240408T180000
+DTEND;TZID=Europe/London:20240408T202000
+DTSTAMP:20240408T180100Z
+UID:ci0959521-tt14539740--2024-4-8-18-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240408T204000
+DTEND;TZID=Europe/London:20240408T230000
+DTSTAMP:20240408T204100Z
+UID:ci0959521-tt14539740--2024-4-8-20-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240408T100000
+DTEND;TZID=Europe/London:20240408T122000
+DTSTAMP:20240408T100100Z
+UID:ci0959521-tt14539740-imax-2024-4-8-10-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1556,10 +1604,38 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T111500
+DTEND;TZID=Europe/London:20240408T131500
+DTSTAMP:20240408T111600Z
+UID:ci0959521-tt21692408--2024-4-8-11-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240408T123000
 DTEND;TZID=Europe/London:20240408T143000
 DTSTAMP:20240408T123100Z
 UID:ci0959521-tt21692408--2024-4-8-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T133000
+DTEND;TZID=Europe/London:20240408T153000
+DTSTAMP:20240408T133100Z
+UID:ci0959521-tt21692408--2024-4-8-13-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1584,6 +1660,20 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240408T154500
+DTEND;TZID=Europe/London:20240408T174500
+DTSTAMP:20240408T154600Z
+UID:ci0959521-tt21692408--2024-4-8-15-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240408T170000
 DTEND;TZID=Europe/London:20240408T190000
 DTSTAMP:20240408T170100Z
@@ -1593,6 +1683,86 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
  ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
  b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240408T120000
+DTEND;TZID=Europe/London:20240408T143000
+DTSTAMP:20240408T120100Z
+UID:ci0959521-tt9214772--2024-4-8-12-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240408T144500
+DTEND;TZID=Europe/London:20240408T171500
+DTSTAMP:20240408T144600Z
+UID:ci0959521-tt9214772--2024-4-8-14-45
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240408T173000
+DTEND;TZID=Europe/London:20240408T200000
+DTSTAMP:20240408T173100Z
+UID:ci0959521-tt9214772--2024-4-8-17-30
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monkey Man
+DTSTART;TZID=Europe/London:20240408T201500
+DTEND;TZID=Europe/London:20240408T224500
+DTSTAMP:20240408T201600Z
+UID:ci0959521-tt9214772--2024-4-8-20-15
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAn anonymous young man unleashe
+ s a campaign of vengeance against the corrupt leaders who murdered his mot
+ her and continue to systemically victimize the poor and powerless.\n\nhttp
+ s://www.imdb.com/title/tt9214772/\n\nIMDb rating: 7.4
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240408T100000
+DTEND;TZID=Europe/London:20240408T120000
+DTSTAMP:20240408T100100Z
+UID:ci0959521-tt13397574--2024-4-8-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240408T122000
+DTEND;TZID=Europe/London:20240408T142000
+DTSTAMP:20240408T122100Z
+UID:ci0959521-tt13397574--2024-4-8-12-20
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1618,7 +1788,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1632,7 +1802,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1646,7 +1816,49 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240408T115000
+DTEND;TZID=Europe/London:20240408T135500
+DTSTAMP:20240408T115100Z
+UID:ci0959521-tt20234774--2024-4-8-11-50
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240408T142000
+DTEND;TZID=Europe/London:20240408T162500
+DTSTAMP:20240408T142100Z
+UID:ci0959521-tt20234774--2024-4-8-14-20
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240408T164000
+DTEND;TZID=Europe/London:20240408T184500
+DTSTAMP:20240408T164100Z
+UID:ci0959521-tt20234774--2024-4-8-16-40
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1659,7 +1871,187 @@ UID:ci0959521-tt17279496-imax-2024-4-9-19-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daghabaaz Dil
+DTSTART;TZID=Europe/London:20240409T200000
+DTEND;TZID=Europe/London:20240409T223500
+DTSTAMP:20240409T200100Z
+UID:ci0959521-tt31179846--2024-4-9-20-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nhttps://www.imdb.com/title/tt31
+ 179846/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240409T110000
+DTEND;TZID=Europe/London:20240409T141500
+DTSTAMP:20240409T110100Z
+UID:ci0959521-tt15239678--2024-4-9-11-0
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240409T143000
+DTEND;TZID=Europe/London:20240409T174500
+DTSTAMP:20240409T143100Z
+UID:ci0959521-tt15239678--2024-4-9-14-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240409T193000
+DTEND;TZID=Europe/London:20240409T224500
+DTSTAMP:20240409T193100Z
+UID:ci0959521-tt15239678--2024-4-9-19-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240409T153000
+DTEND;TZID=Europe/London:20240409T184500
+DTSTAMP:20240409T153100Z
+UID:ci0959521-tt15239678-imax-2024-4-9-15-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240409T115000
+DTEND;TZID=Europe/London:20240409T141000
+DTSTAMP:20240409T115100Z
+UID:ci0959521-tt21235248--2024-4-9-11-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240409T143000
+DTEND;TZID=Europe/London:20240409T165000
+DTSTAMP:20240409T143100Z
+UID:ci0959521-tt21235248--2024-4-9-14-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240409T171000
+DTEND;TZID=Europe/London:20240409T193000
+DTSTAMP:20240409T171100Z
+UID:ci0959521-tt21235248--2024-4-9-17-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240409T195000
+DTEND;TZID=Europe/London:20240409T221000
+DTSTAMP:20240409T195100Z
+UID:ci0959521-tt21235248--2024-4-9-19-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240409T154000
+DTEND;TZID=Europe/London:20240409T180000
+DTSTAMP:20240409T154100Z
+UID:ci0959521-tt14539740--2024-4-9-15-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240409T180000
+DTEND;TZID=Europe/London:20240409T202000
+DTSTAMP:20240409T180100Z
+UID:ci0959521-tt14539740--2024-4-9-18-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240409T204000
+DTEND;TZID=Europe/London:20240409T230000
+DTSTAMP:20240409T204100Z
+UID:ci0959521-tt14539740--2024-4-9-20-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240409T100000
+DTEND;TZID=Europe/London:20240409T122000
+DTSTAMP:20240409T100100Z
+UID:ci0959521-tt14539740-imax-2024-4-9-10-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240409T125000
+DTEND;TZID=Europe/London:20240409T151000
+DTSTAMP:20240409T125100Z
+UID:ci0959521-tt14539740-imax-2024-4-9-12-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1669,6 +2061,20 @@ DTSTART;TZID=Europe/London:20240409T101500
 DTEND;TZID=Europe/London:20240409T121500
 DTSTAMP:20240409T101600Z
 UID:ci0959521-tt21692408--2024-4-9-10-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T110000
+DTEND;TZID=Europe/London:20240409T130000
+DTSTAMP:20240409T110100Z
+UID:ci0959521-tt21692408--2024-4-9-11-0
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1693,6 +2099,20 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T131500
+DTEND;TZID=Europe/London:20240409T151500
+DTSTAMP:20240409T131600Z
+UID:ci0959521-tt21692408--2024-4-9-13-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240409T144500
 DTEND;TZID=Europe/London:20240409T164500
 DTSTAMP:20240409T144600Z
@@ -1707,10 +2127,38 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T153000
+DTEND;TZID=Europe/London:20240409T173000
+DTSTAMP:20240409T153100Z
+UID:ci0959521-tt21692408--2024-4-9-15-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240409T170000
 DTEND;TZID=Europe/London:20240409T190000
 DTSTAMP:20240409T170100Z
 UID:ci0959521-tt21692408--2024-4-9-17-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240409T174500
+DTEND;TZID=Europe/London:20240409T194500
+DTSTAMP:20240409T174600Z
+UID:ci0959521-tt21692408--2024-4-9-17-45
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1771,6 +2219,20 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240409T204500
+DTEND;TZID=Europe/London:20240409T224500
+DTSTAMP:20240409T204600Z
+UID:ci0959521-tt13397574--2024-4-9-20-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The First Omen
 DTSTART;TZID=Europe/London:20240409T120000
 DTEND;TZID=Europe/London:20240409T142500
@@ -1780,7 +2242,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1794,7 +2256,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1808,21 +2270,330 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The First Omen
-DTSTART;TZID=Europe/London:20240409T200000
-DTEND;TZID=Europe/London:20240409T222500
-DTSTAMP:20240409T200100Z
-UID:ci0959521-tt5672290--2024-4-9-20-0
+DTSTART;TZID=Europe/London:20240409T201500
+DTEND;TZID=Europe/London:20240409T224000
+DTSTAMP:20240409T201600Z
+UID:ci0959521-tt5672290--2024-4-9-20-15
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent 
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240409T105000
+DTEND;TZID=Europe/London:20240409T125500
+DTSTAMP:20240409T105100Z
+UID:ci0959521-tt20234774--2024-4-9-10-50
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240409T131500
+DTEND;TZID=Europe/London:20240409T152000
+DTSTAMP:20240409T131600Z
+UID:ci0959521-tt20234774--2024-4-9-13-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240409T182000
+DTEND;TZID=Europe/London:20240409T202500
+DTSTAMP:20240409T182100Z
+UID:ci0959521-tt20234774--2024-4-9-18-20
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240410T110000
+DTEND;TZID=Europe/London:20240410T141500
+DTSTAMP:20240410T110100Z
+UID:ci0959521-tt15239678--2024-4-10-11-0
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240410T160000
+DTEND;TZID=Europe/London:20240410T191500
+DTSTAMP:20240410T160100Z
+UID:ci0959521-tt15239678-imax-2024-4-10-16-0
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240410T193000
+DTEND;TZID=Europe/London:20240410T224500
+DTSTAMP:20240410T193100Z
+UID:ci0959521-tt15239678-imax-2024-4-10-19-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240410T115000
+DTEND;TZID=Europe/London:20240410T141000
+DTSTAMP:20240410T115100Z
+UID:ci0959521-tt21235248--2024-4-10-11-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240410T143000
+DTEND;TZID=Europe/London:20240410T165000
+DTSTAMP:20240410T143100Z
+UID:ci0959521-tt21235248--2024-4-10-14-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240410T171000
+DTEND;TZID=Europe/London:20240410T193000
+DTSTAMP:20240410T171100Z
+UID:ci0959521-tt21235248--2024-4-10-17-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240410T195000
+DTEND;TZID=Europe/London:20240410T221000
+DTSTAMP:20240410T195100Z
+UID:ci0959521-tt21235248--2024-4-10-19-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240410T142000
+DTEND;TZID=Europe/London:20240410T164000
+DTSTAMP:20240410T142100Z
+UID:ci0959521-tt14539740--2024-4-10-14-20
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240410T170000
+DTEND;TZID=Europe/London:20240410T192000
+DTSTAMP:20240410T170100Z
+UID:ci0959521-tt14539740--2024-4-10-17-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240410T180000
+DTEND;TZID=Europe/London:20240410T202000
+DTSTAMP:20240410T180100Z
+UID:ci0959521-tt14539740--2024-4-10-18-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240410T204000
+DTEND;TZID=Europe/London:20240410T230000
+DTSTAMP:20240410T204100Z
+UID:ci0959521-tt14539740--2024-4-10-20-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240410T103000
+DTEND;TZID=Europe/London:20240410T125000
+DTSTAMP:20240410T103100Z
+UID:ci0959521-tt14539740-imax-2024-4-10-10-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240410T131500
+DTEND;TZID=Europe/London:20240410T153500
+DTSTAMP:20240410T131600Z
+UID:ci0959521-tt14539740-imax-2024-4-10-13-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T101500
+DTEND;TZID=Europe/London:20240410T121500
+DTSTAMP:20240410T101600Z
+UID:ci0959521-tt21692408--2024-4-10-10-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T111500
+DTEND;TZID=Europe/London:20240410T131500
+DTSTAMP:20240410T111600Z
+UID:ci0959521-tt21692408--2024-4-10-11-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T123000
+DTEND;TZID=Europe/London:20240410T143000
+DTSTAMP:20240410T123100Z
+UID:ci0959521-tt21692408--2024-4-10-12-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T133000
+DTEND;TZID=Europe/London:20240410T153000
+DTSTAMP:20240410T133100Z
+UID:ci0959521-tt21692408--2024-4-10-13-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T144500
+DTEND;TZID=Europe/London:20240410T164500
+DTSTAMP:20240410T144600Z
+UID:ci0959521-tt21692408--2024-4-10-14-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T154500
+DTEND;TZID=Europe/London:20240410T174500
+DTSTAMP:20240410T154600Z
+UID:ci0959521-tt21692408--2024-4-10-15-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240410T170000
+DTEND;TZID=Europe/London:20240410T190000
+DTSTAMP:20240410T170100Z
+UID:ci0959521-tt21692408--2024-4-10-17-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1878,6 +2649,20 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240410T165000
+DTEND;TZID=Europe/London:20240410T185000
+DTSTAMP:20240410T165100Z
+UID:ci0959521-tt13397574--2024-4-10-16-50
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The First Omen
 DTSTART;TZID=Europe/London:20240410T120000
 DTEND;TZID=Europe/London:20240410T142500
@@ -1887,7 +2672,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1901,7 +2686,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1915,7 +2700,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1929,7 +2714,35 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240410T114500
+DTEND;TZID=Europe/London:20240410T135000
+DTSTAMP:20240410T114600Z
+UID:ci0959521-tt20234774--2024-4-10-11-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240410T143000
+DTEND;TZID=Europe/London:20240410T163500
+DTSTAMP:20240410T143100Z
+UID:ci0959521-tt20234774--2024-4-10-14-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1942,7 +2755,7 @@ UID:ci0959521-tt17279496-imax-2024-4-11-17-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1955,7 +2768,150 @@ UID:ci0959521-tt17279496-imax-2024-4-11-19-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240411T112000
+DTEND;TZID=Europe/London:20240411T143500
+DTSTAMP:20240411T112100Z
+UID:ci0959521-tt15239678--2024-4-11-11-20
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=Europe/London:20240411T194000
+DTEND;TZID=Europe/London:20240411T225500
+DTSTAMP:20240411T194100Z
+UID:ci0959521-tt15239678--2024-4-11-19-40
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two (IMAX)
+DTSTART;TZID=Europe/London:20240411T133000
+DTEND;TZID=Europe/London:20240411T164500
+DTSTAMP:20240411T133100Z
+UID:ci0959521-tt15239678-imax-2024-4-11-13-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .8
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T115000
+DTEND;TZID=Europe/London:20240411T141000
+DTSTAMP:20240411T115100Z
+UID:ci0959521-tt21235248--2024-4-11-11-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T143000
+DTEND;TZID=Europe/London:20240411T165000
+DTSTAMP:20240411T143100Z
+UID:ci0959521-tt21235248--2024-4-11-14-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T171000
+DTEND;TZID=Europe/London:20240411T193000
+DTSTAMP:20240411T171100Z
+UID:ci0959521-tt21235248--2024-4-11-17-10
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240411T195000
+DTEND;TZID=Europe/London:20240411T221000
+DTSTAMP:20240411T195100Z
+UID:ci0959521-tt21235248--2024-4-11-19-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240411T141500
+DTEND;TZID=Europe/London:20240411T163500
+DTSTAMP:20240411T141600Z
+UID:ci0959521-tt14539740--2024-4-11-14-15
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240411T170000
+DTEND;TZID=Europe/London:20240411T192000
+DTSTAMP:20240411T170100Z
+UID:ci0959521-tt14539740--2024-4-11-17-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire
+DTSTART;TZID=Europe/London:20240411T194000
+DTEND;TZID=Europe/London:20240411T220000
+DTSTAMP:20240411T194100Z
+UID:ci0959521-tt14539740--2024-4-11-19-40
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (IMAX)
+DTSTART;TZID=Europe/London:20240411T105000
+DTEND;TZID=Europe/London:20240411T131000
+DTSTAMP:20240411T105100Z
+UID:ci0959521-tt14539740-imax-2024-4-11-10-50
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nTwo ancient titans\, Godzilla a
+ nd Kong\, clash in an epic battle as humans unravel their intertwined orig
+ ins and connection to Skull Island's mysteries.\n\nhttps://www.imdb.com/ti
+ tle/tt14539740/\n\nIMDb rating: 6.6
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1965,6 +2921,20 @@ DTSTART;TZID=Europe/London:20240411T100000
 DTEND;TZID=Europe/London:20240411T120000
 DTSTAMP:20240411T100100Z
 UID:ci0959521-tt21692408--2024-4-11-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T104500
+DTEND;TZID=Europe/London:20240411T124500
+DTSTAMP:20240411T104600Z
+UID:ci0959521-tt21692408--2024-4-11-10-45
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -1989,10 +2959,38 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T130000
+DTEND;TZID=Europe/London:20240411T150000
+DTSTAMP:20240411T130100Z
+UID:ci0959521-tt21692408--2024-4-11-13-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
 DTSTART;TZID=Europe/London:20240411T143000
 DTEND;TZID=Europe/London:20240411T163000
 DTSTAMP:20240411T143100Z
 UID:ci0959521-tt21692408--2024-4-11-14-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T151500
+DTEND;TZID=Europe/London:20240411T171500
+DTSTAMP:20240411T151600Z
+UID:ci0959521-tt21692408--2024-4-11-15-15
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
   Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
@@ -2012,6 +3010,32 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
  w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
  ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
  b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Panda 4
+DTSTART;TZID=Europe/London:20240411T173000
+DTEND;TZID=Europe/London:20240411T193000
+DTSTAMP:20240411T173100Z
+UID:ci0959521-tt21692408--2024-4-11-17-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAfter Po is tapped to become the
+  Spiritual Leader of the Valley of Peace\, he needs to find and train a ne
+ w Dragon Warrior\, while a wicked sorceress plans to re-summon all the mas
+ ter villains whom Po has vanquished to the spirit re...\n\nhttps://www.imd
+ b.com/title/tt21692408/\n\nIMDb rating: 6.5
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maidaan
+DTSTART;TZID=Europe/London:20240411T155000
+DTEND;TZID=Europe/London:20240411T192000
+DTSTAMP:20240411T155100Z
+UID:ci0959521-tt10869778--2024-4-11-15-50
+DESCRIPTION:Duration: 3h 01m (181 mins)\n\nInspired by the Indian national
+  football team coach and manager Syed Abdul Rahim\, who is regarded as the
+  architect of Indian football.\n\nhttps://www.imdb.com/title/tt10869778/
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2067,6 +3091,34 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240411T100000
+DTEND;TZID=Europe/London:20240411T120000
+DTSTAMP:20240411T100100Z
+UID:ci0959521-tt13397574--2024-4-11-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothers' Instinct
+DTSTART;TZID=Europe/London:20240411T122000
+DTEND;TZID=Europe/London:20240411T142000
+DTSTAMP:20240411T122100Z
+UID:ci0959521-tt13397574--2024-4-11-12-20
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nAlice and Celine live a traditio
+ nal lifestyle with successful husbands and sons of the same age. Life's pe
+ rfect harmony is suddenly shattered after a tragic accident. Guilt\, suspi
+ cion and paranoia combine to unravel their sisterly...\n\nhttps://www.imdb
+ .com/title/tt13397574/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The First Omen
 DTSTART;TZID=Europe/London:20240411T144000
 DTEND;TZID=Europe/London:20240411T170500
@@ -2076,7 +3128,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2090,7 +3142,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2104,7 +3156,7 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA young American woman is sent
  to Rome to begin a life of service to the church\, but encounters a darkne
  ss that causes her to question her faith and uncovers a terrifying conspir
  acy that hopes to bring about the birth of evil inca...\n\nhttps://www.imd
- b.com/title/tt5672290/\n\nIMDb rating: 8.7
+ b.com/title/tt5672290/\n\nIMDb rating: 6.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2114,8 +3166,23 @@ DTSTART;TZID=Europe/London:20240411T194500
 DTEND;TZID=Europe/London:20240411T221000
 DTSTAMP:20240411T194600Z
 UID:ci0959521-tt28364355--2024-4-11-19-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
- 364355/
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe story evolves around cheris
+ hed memories or a reunion among a group of friends after a substantial pas
+ sage of time.\n\nhttps://www.imdb.com/title/tt28364355/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240411T114500
+DTEND;TZID=Europe/London:20240411T135000
+DTSTAMP:20240411T114600Z
+UID:ci0959521-tt20234774--2024-4-11-11-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nWhen people in Littlehampton--i
+ ncluding conservative local Edith--begin to receive letters full of hilari
+ ous profanities\, rowdy Irish migrant Rose is charged with the crime. Susp
+ ecting that something is amiss\, the town's women inv...\n\nhttps://www.im
+ db.com/title/tt20234774/\n\nIMDb rating: 7.1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2193,7 +3260,7 @@ UID:ci0959521-tt17279496--2024-4-12-20-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2206,7 +3273,7 @@ UID:ci0959521-tt17279496-imax-2024-4-12-13-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2219,7 +3286,7 @@ UID:ci0959521-tt17279496-imax-2024-4-12-15-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2232,7 +3299,7 @@ UID:ci0959521-tt17279496-imax-2024-4-12-18-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2280,8 +3347,9 @@ DTSTART;TZID=Europe/London:20240412T195000
 DTEND;TZID=Europe/London:20240412T221500
 DTSTAMP:20240412T195100Z
 UID:ci0959521-tt28364355--2024-4-12-19-50
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
- 364355/
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe story evolves around cheris
+ hed memories or a reunion among a group of friends after a substantial pas
+ sage of time.\n\nhttps://www.imdb.com/title/tt28364355/
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2346,7 +3414,7 @@ UID:ci0959521-tt17279496--2024-4-13-14-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2359,7 +3427,7 @@ UID:ci0959521-tt17279496-imax-2024-4-13-10-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2372,7 +3440,7 @@ UID:ci0959521-tt17279496-imax-2024-4-13-12-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2385,7 +3453,7 @@ UID:ci0959521-tt17279496-imax-2024-4-13-17-10
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2398,7 +3466,7 @@ UID:ci0959521-tt17279496-imax-2024-4-13-19-40
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2411,7 +3479,7 @@ UID:ci0959521-tt27816875--2024-4-13-10-10
 DESCRIPTION:Duration: 1h 21m (81 mins)\n\nAn evil tech genius threatens to
   turn the city into a metaverse simulation\, leaving the Combat Wombat to 
  save the day.\n\nhttps://www.imdb.com/title/tt27816875/\n\nIMDb rating: 5.
- 2
+ 1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2515,7 +3583,7 @@ UID:ci0959521-tt17279496--2024-4-14-15-40
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2528,7 +3596,7 @@ UID:ci0959521-tt17279496-imax-2024-4-14-11-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2541,7 +3609,7 @@ UID:ci0959521-tt17279496-imax-2024-4-14-13-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2554,7 +3622,7 @@ UID:ci0959521-tt17279496-imax-2024-4-14-18-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2567,7 +3635,7 @@ UID:ci0959521-tt17279496-imax-2024-4-14-20-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2580,7 +3648,7 @@ UID:ci0959521-tt27816875--2024-4-14-10-0
 DESCRIPTION:Duration: 1h 21m (81 mins)\n\nAn evil tech genius threatens to
   turn the city into a metaverse simulation\, leaving the Combat Wombat to 
  save the day.\n\nhttps://www.imdb.com/title/tt27816875/\n\nIMDb rating: 5.
- 2
+ 1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2682,7 +3750,7 @@ UID:ci0959521-tt17279496-imax-2024-4-15-14-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2695,7 +3763,7 @@ UID:ci0959521-tt17279496-imax-2024-4-15-17-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2708,7 +3776,7 @@ UID:ci0959521-tt17279496-imax-2024-4-15-19-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2800,7 +3868,7 @@ UID:ci0959521-tt17279496-imax-2024-4-16-11-40
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2813,7 +3881,7 @@ UID:ci0959521-tt17279496-imax-2024-4-16-14-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2826,7 +3894,7 @@ UID:ci0959521-tt17279496-imax-2024-4-16-17-10
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2839,7 +3907,7 @@ UID:ci0959521-tt17279496-imax-2024-4-16-19-40
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2929,7 +3997,7 @@ UID:ci0959521-tt17279496-imax-2024-4-17-12-0
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2942,7 +4010,7 @@ UID:ci0959521-tt17279496-imax-2024-4-17-14-40
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2955,7 +4023,7 @@ UID:ci0959521-tt17279496-imax-2024-4-17-19-20
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -3000,10 +4068,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aavesham
 DTSTART;TZID=Europe/London:20240418T193000
-DTEND;TZID=Europe/London:20240418T215500
+DTEND;TZID=Europe/London:20240418T222500
 DTSTAMP:20240418T193100Z
 UID:ci0959521-tt26660021--2024-4-18-19-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nShowcases a family who lives in
+DESCRIPTION:Duration: 2h 30m (150 mins)\n\nShowcases a family who lives in
   Bengaluru\; following them as they play Ojo board.\n\nhttps://www.imdb.co
  m/title/tt26660021/
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
@@ -3070,7 +4138,7 @@ UID:ci0959521-tt17279496-imax-2024-4-18-11-40
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -3083,7 +4151,7 @@ UID:ci0959521-tt17279496-imax-2024-4-18-14-30
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -3096,7 +4164,7 @@ UID:ci0959521-tt17279496-imax-2024-4-18-17-10
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -3109,7 +4177,7 @@ UID:ci0959521-tt17279496-imax-2024-4-18-19-40
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA journey across a dystopian fu
  ture America\, following a team of military-embedded journalists as they r
  ace against time to reach DC before rebel factions descend upon the White 
- House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.1
+ House.\n\nhttps://www.imdb.com/title/tt17279496/\n\nIMDb rating: 7.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -3121,7 +4189,109 @@ DTSTAMP:20240418T140100Z
 UID:ci0959521-tt23781890--2024-4-18-14-0
 DESCRIPTION:Duration: 3h 00m (180 mins)\n\nExplores acting giants Burton a
  nd Gielgud staged Hamlet on Broadway in 1964.\n\nhttps://www.imdb.com/titl
- e/tt23781890/\n\nIMDb rating: 8.6
+ e/tt23781890/\n\nIMDb rating: 8.7
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aavesham
+DTSTART;TZID=Europe/London:20240419T111000
+DTEND;TZID=Europe/London:20240419T140500
+DTSTAMP:20240419T111100Z
+UID:ci0959521-tt26660021--2024-4-19-11-10
+DESCRIPTION:Duration: 2h 30m (150 mins)\n\nShowcases a family who lives in
+  Bengaluru\; following them as they play Ojo board.\n\nhttps://www.imdb.co
+ m/title/tt26660021/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aavesham
+DTSTART;TZID=Europe/London:20240419T191500
+DTEND;TZID=Europe/London:20240419T221000
+DTSTAMP:20240419T191600Z
+UID:ci0959521-tt26660021--2024-4-19-19-15
+DESCRIPTION:Duration: 2h 30m (150 mins)\n\nShowcases a family who lives in
+  Bengaluru\; following them as they play Ojo board.\n\nhttps://www.imdb.co
+ m/title/tt26660021/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budda. Dzieciak '98
+DTSTART;TZID=Europe/London:20240419T200000
+DTEND;TZID=Europe/London:20240419T215000
+DTSTAMP:20240419T200100Z
+UID:ci0959521-tt31867917--2024-4-19-20-0
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nPopular Polish you-tuber Budda t
+ alks about motivation and says that everyone can have a Lamborghini if the
+ y want it (no\, not everyone can have a Lamborghini)\n\nhttps://www.imdb.c
+ om/title/tt31867917/\n\nIMDb rating: 6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;TZID=Europe/London:20240419T170000
+DTEND;TZID=Europe/London:20240419T191500
+DTSTAMP:20240419T170100Z
+UID:ci0959521-tt28490044--2024-4-19-17-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nTakumi and his daughter Hana li
+ ve in Mizubiki Village\, close to Tokyo. One day\, the village inhabitants
+  become aware of a plan to build a camping site near Takumi's house offeri
+ ng city residents a comfortable &quot\;escape&quot\; to nature.\n\nhttps:/
+ /www.imdb.com/title/tt28490044/\n\nIMDb rating: 7.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wallace & Gromit: A Close Shave (1995)
+DTSTART;TZID=Europe/London:20240419T110000
+DTEND;TZID=Europe/London:20240419T115500
+DTSTAMP:20240419T110100Z
+UID:ci0959521-tt0112691--2024-4-19-11-0
+DESCRIPTION:Duration: 0h 30m (30 mins)\n\nWallace's whirlwind romance with
+  the owner of the local wool shop puts his head in a spin\; Gromit is fram
+ ed for sheep-rustling in a fiendish criminal plot.\n\nhttps://www.imdb.com
+ /title/tt0112691/\n\nIMDb rating: 8.1
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Budda. Dzieciak '98
+DTSTART;TZID=Europe/London:20240420T200000
+DTEND;TZID=Europe/London:20240420T215000
+DTSTAMP:20240420T200100Z
+UID:ci0959521-tt31867917--2024-4-20-20-0
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nPopular Polish you-tuber Budda t
+ alks about motivation and says that everyone can have a Lamborghini if the
+ y want it (no\, not everyone can have a Lamborghini)\n\nhttps://www.imdb.c
+ om/title/tt31867917/\n\nIMDb rating: 6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed (1994)
+DTSTART;TZID=Europe/London:20240420T190000
+DTEND;TZID=Europe/London:20240420T212500
+DTSTAMP:20240420T190100Z
+UID:ci0959521-tt0111257--2024-4-20-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA young police officer must pre
+ vent a bomb exploding aboard a city bus by keeping its speed above 50 mph.
+ \n\nhttps://www.imdb.com/title/tt0111257/\n\nIMDb rating: 7.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wallace & Gromit: A Close Shave (1995)
+DTSTART;TZID=Europe/London:20240420T100000
+DTEND;TZID=Europe/London:20240420T105500
+DTSTAMP:20240420T100100Z
+UID:ci0959521-tt0112691--2024-4-20-10-0
+DESCRIPTION:Duration: 0h 30m (30 mins)\n\nWallace's whirlwind romance with
+  the owner of the local wool shop puts his head in a spin\; Gromit is fram
+ ed for sheep-rustling in a fiendish criminal plot.\n\nhttps://www.imdb.com
+ /title/tt0112691/\n\nIMDb rating: 8.1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
