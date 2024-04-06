@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240405T075224Z
+LAST-MODIFIED:20240406T073941Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Riddle of Fire
-DTSTART;TZID=America/Los_Angeles:20240405T190000
-DTEND;TZID=America/Los_Angeles:20240405T212000
-DTSTAMP:20240406T025300Z
-UID:ci0005472-tt7575046--2024-4-5-19-0
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
- rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
- ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Riddle of Fire
 DTSTART;TZID=America/Los_Angeles:20240406T163000
@@ -267,6 +255,47 @@ DESCRIPTION:Duration: 1h 06m (66 mins)\n\nCautionary tale that features a
  teenagers to become addicted to &quot\;reefer&quot\; cigarettes by holding
   wild parties with jazz music.\n\nhttps://www.imdb.com/title/tt0028346/\n\
  nIMDb rating: 3.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=America/Los_Angeles:20240421T173000
+DTEND;TZID=America/Los_Angeles:20240421T192000
+DTSTAMP:20240422T012300Z
+UID:ci0005472-tt22857256--2024-4-21-17-30
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nYears after leaving her Palestin
+ ian village to pursue an acting career in France\, Hiam Abbass returns hom
+ e with her daughter\, in this intimate documentary about four generations 
+ of women and their shared legacy of separation.\n\nhttps://www.imdb.com/ti
+ tle/tt22857256/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omen
+DTSTART;TZID=America/Los_Angeles:20240421T151500
+DTEND;TZID=America/Los_Angeles:20240421T171500
+DTSTAMP:20240421T230800Z
+UID:ci0005472-tt21086802--2024-4-21-15-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
+ , a young Congolese man returns to his birthplace of Kinshasa to confront 
+ the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
+ t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Love and a Major Organ
+DTSTART;TZID=America/Los_Angeles:20240421T193000
+DTEND;TZID=America/Los_Angeles:20240421T213000
+DTSTAMP:20240422T032300Z
+UID:ci0005472-tt23464394--2024-4-21-19-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
+ ts are made of objects and suppressing emotions is self-care\, a lonely wo
+ man rips out her own heart for the man she loves\, only to discover that h
+ e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
+ rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
