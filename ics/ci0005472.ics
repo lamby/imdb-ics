@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240407T081755Z
+LAST-MODIFIED:20240408T073720Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Riddle of Fire
-DTSTART;TZID=America/Los_Angeles:20240407T153000
-DTEND;TZID=America/Los_Angeles:20240407T175000
-DTSTAMP:20240407T232300Z
-UID:ci0005472-tt7575046--2024-4-7-15-30
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
- rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
- ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riddle of Fire
-DTSTART;TZID=America/Los_Angeles:20240407T180000
-DTEND;TZID=America/Los_Angeles:20240407T202000
-DTSTAMP:20240408T015300Z
-UID:ci0005472-tt7575046--2024-4-7-18-0
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
- rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
- ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Night with the Devil
 DTSTART;TZID=America/Los_Angeles:20240408T193000
@@ -271,6 +247,33 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
  , a young Congolese man returns to his birthplace of Kinshasa to confront 
  the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
  t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omen
+DTSTART;TZID=America/Los_Angeles:20240423T181500
+DTEND;TZID=America/Los_Angeles:20240423T201500
+DTSTAMP:20240424T020800Z
+UID:ci0005472-tt21086802--2024-4-23-18-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
+ , a young Congolese man returns to his birthplace of Kinshasa to confront 
+ the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
+ t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Love and a Major Organ
+DTSTART;TZID=America/Los_Angeles:20240423T203000
+DTEND;TZID=America/Los_Angeles:20240423T223000
+DTSTAMP:20240424T042300Z
+UID:ci0005472-tt23464394--2024-4-23-20-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
+ ts are made of objects and suppressing emotions is self-care\, a lonely wo
+ man rips out her own heart for the man she loves\, only to discover that h
+ e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
+ rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
