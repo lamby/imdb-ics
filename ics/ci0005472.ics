@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240408T073720Z
+LAST-MODIFIED:20240410T083739Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20240408T193000
-DTEND;TZID=America/Los_Angeles:20240408T213000
-DTSTAMP:20240409T032300Z
-UID:ci0005472-tt14966898--2024-4-8-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riddle of Fire
-DTSTART;TZID=America/Los_Angeles:20240409T191500
-DTEND;TZID=America/Los_Angeles:20240409T213500
-DTSTAMP:20240410T030800Z
-UID:ci0005472-tt7575046--2024-4-9-19-15
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree mischievous children emba
- rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
- ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kim's Video
 DTSTART;TZID=America/Los_Angeles:20240412T190000
@@ -269,6 +245,60 @@ DTSTART;TZID=America/Los_Angeles:20240423T203000
 DTEND;TZID=America/Los_Angeles:20240423T223000
 DTSTAMP:20240424T042300Z
 UID:ci0005472-tt23464394--2024-4-23-20-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
+ ts are made of objects and suppressing emotions is self-care\, a lonely wo
+ man rips out her own heart for the man she loves\, only to discover that h
+ e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
+ rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omen
+DTSTART;TZID=America/Los_Angeles:20240424T203000
+DTEND;TZID=America/Los_Angeles:20240424T223000
+DTSTAMP:20240425T042300Z
+UID:ci0005472-tt21086802--2024-4-24-20-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
+ , a young Congolese man returns to his birthplace of Kinshasa to confront 
+ the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
+ t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Love and a Major Organ
+DTSTART;TZID=America/Los_Angeles:20240424T181500
+DTEND;TZID=America/Los_Angeles:20240424T201500
+DTSTAMP:20240425T020800Z
+UID:ci0005472-tt23464394--2024-4-24-18-15
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
+ ts are made of objects and suppressing emotions is self-care\, a lonely wo
+ man rips out her own heart for the man she loves\, only to discover that h
+ e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
+ rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omen
+DTSTART;TZID=America/Los_Angeles:20240425T181500
+DTEND;TZID=America/Los_Angeles:20240425T201500
+DTSTAMP:20240426T020800Z
+UID:ci0005472-tt21086802--2024-4-25-18-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
+ , a young Congolese man returns to his birthplace of Kinshasa to confront 
+ the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
+ t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Love and a Major Organ
+DTSTART;TZID=America/Los_Angeles:20240425T203000
+DTEND;TZID=America/Los_Angeles:20240425T223000
+DTSTAMP:20240426T042300Z
+UID:ci0005472-tt23464394--2024-4-25-20-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
