@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240410T083739Z
+LAST-MODIFIED:20240412T075337Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -299,6 +299,33 @@ DTSTART;TZID=America/Los_Angeles:20240425T203000
 DTEND;TZID=America/Los_Angeles:20240425T223000
 DTSTAMP:20240426T042300Z
 UID:ci0005472-tt23464394--2024-4-25-20-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
+ ts are made of objects and suppressing emotions is self-care\, a lonely wo
+ man rips out her own heart for the man she loves\, only to discover that h
+ e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
+ rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omen
+DTSTART;TZID=America/Los_Angeles:20240426T203000
+DTEND;TZID=America/Los_Angeles:20240426T223000
+DTSTAMP:20240427T042300Z
+UID:ci0005472-tt21086802--2024-4-26-20-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
+ , a young Congolese man returns to his birthplace of Kinshasa to confront 
+ the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
+ t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Love and a Major Organ
+DTSTART;TZID=America/Los_Angeles:20240427T160000
+DTEND;TZID=America/Los_Angeles:20240427T180000
+DTSTAMP:20240427T235300Z
+UID:ci0005472-tt23464394--2024-4-27-16-0
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
