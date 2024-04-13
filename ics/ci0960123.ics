@@ -1,71 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240412T075243Z
+LAST-MODIFIED:20240413T073611Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
-BEGIN:VEVENT
-SUMMARY:Back to Black
-DTSTART;TZID=Europe/London:20240412T170000
-DTEND;TZID=Europe/London:20240412T193000
-DTSTAMP:20240412T170100Z
-UID:ci0960123-tt21261712--2024-4-12-17-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
- ouse\, through the journey of adolescence to adulthood and the creation of
-  one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back to Black
-DTSTART;TZID=Europe/London:20240412T200000
-DTEND;TZID=Europe/London:20240412T223000
-DTSTAMP:20240412T200100Z
-UID:ci0960123-tt21261712--2024-4-12-20-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
- ouse\, through the journey of adolescence to adulthood and the creation of
-  one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Max 2: The Road Warrior (1981)
-DTSTART;TZID=Europe/London:20240412T204500
-DTEND;TZID=Europe/London:20240412T225000
-DTSTAMP:20240412T204600Z
-UID:ci0960123-tt0082694--2024-4-12-20-45
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nIn the post-apocalyptic Australi
- an wasteland\, a cynical drifter agrees to help a small\, gasoline-rich co
- mmunity escape a horde of bandits.\n\nhttps://www.imdb.com/title/tt0082694
- /\n\nIMDb rating: 7.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suga/Agust: Tour D-Day - The Movie
-DTSTART;TZID=Europe/London:20240412T160000
-DTEND;TZID=Europe/London:20240412T175000
-DTSTAMP:20240412T160100Z
-UID:ci0960123-tt31579728--2024-4-12-16-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA film of the encore concert by 
- Agust D\, also known as SUGA of BTS. Tune in to relive the moments from th
- e concert encompassing his rich musical world and performances\, explosive
-  energy\, and joint performance.\n\nhttps://www.imdb.com/title/tt31579728/
- \n\nIMDb rating: 8.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suga/Agust: Tour D-Day - The Movie
-DTSTART;TZID=Europe/London:20240412T180000
-DTEND;TZID=Europe/London:20240412T195000
-DTSTAMP:20240412T180100Z
-UID:ci0960123-tt31579728--2024-4-12-18-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA film of the encore concert by 
- Agust D\, also known as SUGA of BTS. Tune in to relive the moments from th
- e concert encompassing his rich musical world and performances\, explosive
-  energy\, and joint performance.\n\nhttps://www.imdb.com/title/tt31579728/
- \n\nIMDb rating: 8.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to Black
 DTSTART;TZID=Europe/London:20240413T140000
@@ -75,7 +13,7 @@ UID:ci0960123-tt21261712--2024-4-13-14-0
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +25,7 @@ UID:ci0960123-tt21261712--2024-4-13-17-0
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +37,7 @@ UID:ci0960123-tt21261712--2024-4-13-20-0
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +62,7 @@ DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA film of the encore concert by
  Agust D\, also known as SUGA of BTS. Tune in to relive the moments from th
  e concert encompassing his rich musical world and performances\, explosive
   energy\, and joint performance.\n\nhttps://www.imdb.com/title/tt31579728/
- \n\nIMDb rating: 8.8
+ \n\nIMDb rating: 8.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +75,7 @@ DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA film of the encore concert by
  Agust D\, also known as SUGA of BTS. Tune in to relive the moments from th
  e concert encompassing his rich musical world and performances\, explosive
   energy\, and joint performance.\n\nhttps://www.imdb.com/title/tt31579728/
- \n\nIMDb rating: 8.8
+ \n\nIMDb rating: 8.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -149,7 +87,7 @@ UID:ci0960123-tt21261712--2024-4-14-13-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -161,7 +99,7 @@ UID:ci0960123-tt21261712--2024-4-14-16-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -173,7 +111,7 @@ UID:ci0960123-tt21261712--2024-4-14-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -197,7 +135,7 @@ UID:ci0960123-tt21261712--2024-4-15-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -235,7 +173,7 @@ UID:ci0960123-tt21261712--2024-4-16-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -260,7 +198,7 @@ UID:ci0960123-tt21261712--2024-4-17-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -285,7 +223,7 @@ UID:ci0960123-tt21261712--2024-4-18-19-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe life and music of Amy Wineh
  ouse\, through the journey of adolescence to adulthood and the creation of
   one of the best-selling albums of our time.\n\nhttps://www.imdb.com/title
- /tt21261712/\n\nIMDb rating: 6.5
+ /tt21261712/\n\nIMDb rating: 6.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -459,6 +397,81 @@ DTSTART;TZID=Europe/London:20240427T193000
 DTEND;TZID=Europe/London:20240427T215500
 DTSTAMP:20240427T193100Z
 UID:ci0960123-tt21800162--2024-4-27-19-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTrying to escape from the patri
+ archy in the Italian post-war society\, Delia plots an act of rebellion ag
+ ainst her violent husband.\n\nhttps://www.imdb.com/title/tt21800162/\n\nIM
+ Db rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire
+DTSTART;TZID=Europe/London:20240428T103000
+DTEND;TZID=Europe/London:20240428T125000
+DTSTAMP:20240428T103100Z
+UID:ci0960123-tt21235248--2024-4-28-10-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen the discovery of an ancien
+ t artifact unleashes an evil force\, Ghostbusters new and old must join fo
+ rces to protect their home and save the world from a second ice age.\n\nht
+ tps://www.imdb.com/title/tt21235248/\n\nIMDb rating: 6.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotel Transylvania 3: Summer Vacation (2018)
+DTSTART;TZID=Europe/London:20240428T143000
+DTEND;TZID=Europe/London:20240428T163500
+DTSTAMP:20240428T143100Z
+UID:ci0960123-tt5220122--2024-4-28-14-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nCount Dracula and company partic
+ ipate in a cruise for sea-loving monsters\, unaware that their boat is bei
+ ng commandeered by the monster-hating Van Helsing family.\n\nhttps://www.i
+ mdb.com/title/tt5220122/\n\nIMDb rating: 6.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spy x Family Code: White
+DTSTART;TZID=Europe/London:20240428T150000
+DTEND;TZID=Europe/London:20240428T171500
+DTSTAMP:20240428T150100Z
+UID:ci0960123-tt26684398--2024-4-28-15-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAfter receiving an order to be 
+ replaced in Operation Strix\, Loid decides to help Anya win a cooking comp
+ etition at Eden Academy\, by making the director's favorite meal in order 
+ to prevent his replacement.\n\nhttps://www.imdb.com/title/tt26684398/\n\nI
+ MDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spy x Family Code: White
+DTSTART;TZID=Europe/London:20240428T174000
+DTEND;TZID=Europe/London:20240428T195500
+DTSTAMP:20240428T174100Z
+UID:ci0960123-tt26684398--2024-4-28-17-40
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAfter receiving an order to be 
+ replaced in Operation Strix\, Loid decides to help Anya win a cooking comp
+ etition at Eden Academy\, by making the director's favorite meal in order 
+ to prevent his replacement.\n\nhttps://www.imdb.com/title/tt26684398/\n\nI
+ MDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spy x Family Code: White
+DTSTART;TZID=Europe/London:20240428T191500
+DTEND;TZID=Europe/London:20240428T213000
+DTSTAMP:20240428T191600Z
+UID:ci0960123-tt26684398--2024-4-28-19-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAfter receiving an order to be 
+ replaced in Operation Strix\, Loid decides to help Anya win a cooking comp
+ etition at Eden Academy\, by making the director's favorite meal in order 
+ to prevent his replacement.\n\nhttps://www.imdb.com/title/tt26684398/\n\nI
+ MDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:There's Still Tomorrow
+DTSTART;TZID=Europe/London:20240428T193000
+DTEND;TZID=Europe/London:20240428T215500
+DTSTAMP:20240428T193100Z
+UID:ci0960123-tt21800162--2024-4-28-19-30
 DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTrying to escape from the patri
  archy in the Italian post-war society\, Delia plots an act of rebellion ag
  ainst her violent husband.\n\nhttps://www.imdb.com/title/tt21800162/\n\nIM
