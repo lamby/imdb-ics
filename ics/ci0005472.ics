@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240414T073748Z
+LAST-MODIFIED:20240415T071519Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bye Bye Tiberias
-DTSTART;TZID=America/Los_Angeles:20240414T173000
-DTEND;TZID=America/Los_Angeles:20240414T192000
-DTSTAMP:20240415T012300Z
-UID:ci0005472-tt22857256--2024-4-14-17-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nYears after leaving her Palestin
- ian village to pursue an acting career in France\, Hiam Abbass returns hom
- e with her daughter\, in this intimate documentary about four generations 
- of women and their shared legacy of separation.\n\nhttps://www.imdb.com/ti
- tle/tt22857256/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kim's Video
-DTSTART;TZID=America/Los_Angeles:20240414T151500
-DTEND;TZID=America/Los_Angeles:20240414T170500
-DTSTAMP:20240414T230800Z
-UID:ci0005472-tt24132144--2024-4-14-15-15
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
- s of various cinema genres\, the filmmaker sets off on a quest to find a l
- egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
- .imdb.com/title/tt24132144/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riddle of Fire
-DTSTART;TZID=America/Los_Angeles:20240414T193000
-DTEND;TZID=America/Los_Angeles:20240414T215000
-DTSTAMP:20240415T032300Z
-UID:ci0005472-tt7575046--2024-4-14-19-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThree mischievous children emba
- rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
- ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kim's Video
 DTSTART;TZID=America/Los_Angeles:20240415T193000
@@ -64,7 +25,7 @@ DTSTAMP:20240417T030800Z
 UID:ci0005472-tt7575046--2024-4-16-19-15
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThree mischievous children emba
  rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
- ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 7.1
+ ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 6.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
