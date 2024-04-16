@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240415T071626Z
+LAST-MODIFIED:20240416T070748Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
 BEGIN:VEVENT
@@ -49,6 +49,19 @@ DTSTART;TZID=America/Los_Angeles:20240428T150000
 DTEND;TZID=America/Los_Angeles:20240428T171500
 DTSTAMP:20240428T225300Z
 UID:ci0014968-tt0114814--2024-4-28-15-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe sole survivor of a pier sho
+ ot-out tells the story of how a notorious criminal influenced the events t
+ hat began with five criminals meeting in a seemingly random police lineup.
+ \n\nhttps://www.imdb.com/title/tt0114814/\n\nIMDb rating: 8.5
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Usual Suspects (1995)
+DTSTART;TZID=America/Los_Angeles:20240501T183000
+DTEND;TZID=America/Los_Angeles:20240501T204500
+DTSTAMP:20240502T022300Z
+UID:ci0014968-tt0114814--2024-5-1-18-30
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nThe sole survivor of a pier sho
  ot-out tells the story of how a notorious criminal influenced the events t
  hat began with five criminals meeting in a seemingly random police lineup.
