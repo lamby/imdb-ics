@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240416T070638Z
+LAST-MODIFIED:20240417T082709Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Riddle of Fire
-DTSTART;TZID=America/Los_Angeles:20240416T191500
-DTEND;TZID=America/Los_Angeles:20240416T213500
-DTSTAMP:20240417T030800Z
-UID:ci0005472-tt7575046--2024-4-16-19-15
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nThree mischievous children emba
- rk on a woodland odyssey when their mother sends them on an errand.\n\nhtt
- ps://www.imdb.com/title/tt7575046/\n\nIMDb rating: 6.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kim's Video
 DTSTART;TZID=America/Los_Angeles:20240417T193000
@@ -106,7 +94,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.6
+ rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -146,7 +134,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.6
+ rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -173,7 +161,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.6
+ rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -200,7 +188,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.6
+ rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -227,7 +215,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.6
+ rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
