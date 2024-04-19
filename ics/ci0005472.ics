@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240417T082709Z
+LAST-MODIFIED:20240419T084021Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kim's Video
-DTSTART;TZID=America/Los_Angeles:20240417T193000
-DTEND;TZID=America/Los_Angeles:20240417T212000
-DTSTAMP:20240418T032300Z
-UID:ci0005472-tt24132144--2024-4-17-19-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nPlaying with the forms and trope
- s of various cinema genres\, the filmmaker sets off on a quest to find a l
- egendary lost video collection of 55\,000 movies in Sicily.\n\nhttps://www
- .imdb.com/title/tt24132144/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omen
 DTSTART;TZID=America/Los_Angeles:20240419T190000
