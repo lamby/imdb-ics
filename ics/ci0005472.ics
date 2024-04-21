@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240419T084021Z
+LAST-MODIFIED:20240421T090004Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Omen
-DTSTART;TZID=America/Los_Angeles:20240419T190000
-DTEND;TZID=America/Los_Angeles:20240419T210000
-DTSTAMP:20240420T025300Z
-UID:ci0005472-tt21086802--2024-4-19-19-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
- , a young Congolese man returns to his birthplace of Kinshasa to confront 
- the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
- t21086802/\n\nIMDb rating: 6.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omen
-DTSTART;TZID=America/Los_Angeles:20240420T161500
-DTEND;TZID=America/Los_Angeles:20240420T181500
-DTSTAMP:20240421T000800Z
-UID:ci0005472-tt21086802--2024-4-20-16-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
- , a young Congolese man returns to his birthplace of Kinshasa to confront 
- the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
- t21086802/\n\nIMDb rating: 6.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reefer Madness (1936)
-DTSTART;TZID=America/Los_Angeles:20240420T190000
-DTEND;TZID=America/Los_Angeles:20240420T203500
-DTSTAMP:20240421T025300Z
-UID:ci0005472-tt0028346--2024-4-20-19-0
-DESCRIPTION:Duration: 1h 06m (66 mins)\n\nCautionary tale that features a 
- fictionalized take on marijuana use. A trio of drug dealers lead innocent 
- teenagers to become addicted to &quot\;reefer&quot\; cigarettes by holding
-  wild parties with jazz music.\n\nhttps://www.imdb.com/title/tt0028346/\n\
- nIMDb rating: 3.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bye Bye Tiberias
 DTSTART;TZID=America/Los_Angeles:20240421T173000
@@ -180,6 +140,20 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicken for Linda!
+DTSTART;TZID=America/Los_Angeles:20240426T183000
+DTEND;TZID=America/Los_Angeles:20240426T201000
+DTSTAMP:20240427T022300Z
+UID:ci0005472-tt21042126--2024-4-26-18-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
+ els guilty after unfairly punishing her daughter Linda and would do anythi
+ ng to make it up to her. She sets off to make a chicken with peppers\, eve
+ n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
+ 42126/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Omen
 DTSTART;TZID=America/Los_Angeles:20240426T203000
 DTEND;TZID=America/Los_Angeles:20240426T223000
@@ -189,6 +163,60 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
  , a young Congolese man returns to his birthplace of Kinshasa to confront 
  the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
  t21086802/\n\nIMDb rating: 6.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicken for Linda!
+DTSTART;TZID=America/Los_Angeles:20240427T140000
+DTEND;TZID=America/Los_Angeles:20240427T154000
+DTSTAMP:20240427T215300Z
+UID:ci0005472-tt21042126--2024-4-27-14-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
+ els guilty after unfairly punishing her daughter Linda and would do anythi
+ ng to make it up to her. She sets off to make a chicken with peppers\, eve
+ n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
+ 42126/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicken for Linda!
+DTSTART;TZID=America/Los_Angeles:20240427T180000
+DTEND;TZID=America/Los_Angeles:20240427T194000
+DTSTAMP:20240428T015300Z
+UID:ci0005472-tt21042126--2024-4-27-18-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
+ els guilty after unfairly punishing her daughter Linda and would do anythi
+ ng to make it up to her. She sets off to make a chicken with peppers\, eve
+ n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
+ 42126/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enter the Clones of Bruce
+DTSTART;TZID=America/Los_Angeles:20240427T200000
+DTEND;TZID=America/Los_Angeles:20240427T220500
+DTSTAMP:20240428T035300Z
+UID:ci0005472-tt27331483--2024-4-27-20-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nEnter the Clones of Bruce dives
+  into the Bruce Lee exploitation craze\, otherwise known as Bruceploitatio
+ n.\n\nhttps://www.imdb.com/title/tt27331483/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadly Hands of Kung Fu (1977)
+DTSTART;TZID=America/Los_Angeles:20240427T221500
+DTEND;TZID=America/Los_Angeles:20240428T002000
+DTSTAMP:20240428T060800Z
+UID:ci0005472-tt0165362--2024-4-27-22-15
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nThe soul of Bruce Lee travels to
+  the Underworld where he fights with Dracula\, James Bond\, The Man with N
+ o Name\, and others. Along the way he befriends the One-Armed Swordsman\, 
+ Caine from the TV show Kung Fu\, and Popeye the Sailor.\n\nhttps://www.imd
+ b.com/title/tt0165362/\n\nIMDb rating: 5.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -203,6 +231,190 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
  rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicken for Linda!
+DTSTART;TZID=America/Los_Angeles:20240428T160000
+DTEND;TZID=America/Los_Angeles:20240428T174000
+DTSTAMP:20240428T235300Z
+UID:ci0005472-tt21042126--2024-4-28-16-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
+ els guilty after unfairly punishing her daughter Linda and would do anythi
+ ng to make it up to her. She sets off to make a chicken with peppers\, eve
+ n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
+ 42126/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enter the Clones of Bruce
+DTSTART;TZID=America/Los_Angeles:20240428T180000
+DTEND;TZID=America/Los_Angeles:20240428T200500
+DTSTAMP:20240429T015300Z
+UID:ci0005472-tt27331483--2024-4-28-18-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nEnter the Clones of Bruce dives
+  into the Bruce Lee exploitation craze\, otherwise known as Bruceploitatio
+ n.\n\nhttps://www.imdb.com/title/tt27331483/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Clones of Bruce Lee (1980)
+DTSTART;TZID=America/Los_Angeles:20240428T201500
+DTEND;TZID=America/Los_Angeles:20240428T221500
+DTSTAMP:20240429T040800Z
+UID:ci0005472-tt0075859--2024-4-28-20-15
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA brilliant professor gathers ce
+ lls from the late Bruce Lee and creates three clones\, who are trained in 
+ martial arts and sent out to fight crime.\n\nhttps://www.imdb.com/title/tt
+ 0075859/\n\nIMDb rating: 4.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicken for Linda!
+DTSTART;TZID=America/Los_Angeles:20240429T193000
+DTEND;TZID=America/Los_Angeles:20240429T211000
+DTSTAMP:20240430T032300Z
+UID:ci0005472-tt21042126--2024-4-29-19-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
+ els guilty after unfairly punishing her daughter Linda and would do anythi
+ ng to make it up to her. She sets off to make a chicken with peppers\, eve
+ n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
+ 42126/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enter the Clones of Bruce
+DTSTART;TZID=America/Los_Angeles:20240430T190000
+DTEND;TZID=America/Los_Angeles:20240430T210500
+DTSTAMP:20240501T025300Z
+UID:ci0005472-tt27331483--2024-4-30-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nEnter the Clones of Bruce dives
+  into the Bruce Lee exploitation craze\, otherwise known as Bruceploitatio
+ n.\n\nhttps://www.imdb.com/title/tt27331483/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicken for Linda!
+DTSTART;TZID=America/Los_Angeles:20240501T193000
+DTEND;TZID=America/Los_Angeles:20240501T211000
+DTSTAMP:20240502T032300Z
+UID:ci0005472-tt21042126--2024-5-1-19-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
+ els guilty after unfairly punishing her daughter Linda and would do anythi
+ ng to make it up to her. She sets off to make a chicken with peppers\, eve
+ n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
+ 42126/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicken for Linda!
+DTSTART;TZID=America/Los_Angeles:20240502T193000
+DTEND;TZID=America/Los_Angeles:20240502T211000
+DTSTAMP:20240503T032300Z
+UID:ci0005472-tt21042126--2024-5-2-19-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
+ els guilty after unfairly punishing her daughter Linda and would do anythi
+ ng to make it up to her. She sets off to make a chicken with peppers\, eve
+ n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
+ 42126/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Time
+DTSTART;TZID=America/Los_Angeles:20240503T193000
+DTEND;TZID=America/Los_Angeles:20240503T211500
+DTSTAMP:20240504T032300Z
+UID:ci0005472-tt24806518--2024-5-3-19-30
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
+ ies and his relative youth\, a man decides to quit his cushy desk job and 
+ 'embrace life' - only to realize he has no idea what to do with this newfo
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Time
+DTSTART;TZID=America/Los_Angeles:20240504T180000
+DTEND;TZID=America/Los_Angeles:20240504T194500
+DTSTAMP:20240505T015300Z
+UID:ci0005472-tt24806518--2024-5-4-18-0
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
+ ies and his relative youth\, a man decides to quit his cushy desk job and 
+ 'embrace life' - only to realize he has no idea what to do with this newfo
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20240504T200000
+DTEND;TZID=America/Los_Angeles:20240504T221500
+DTSTAMP:20240505T035300Z
+UID:ci0005472-tt12818328--2024-5-4-20-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Beast
+DTSTART;TZID=America/Los_Angeles:20240504T150000
+DTEND;TZID=America/Los_Angeles:20240504T175500
+DTSTAMP:20240504T225300Z
+UID:ci0005472-tt14407336--2024-5-4-15-0
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nThe plot is set partly in a nea
+ r future in which artificial intelligence is in control of everyone's live
+ s and human emotions are perceived as a threat.\n\nhttps://www.imdb.com/ti
+ tle/tt14407336/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Time
+DTSTART;TZID=America/Los_Angeles:20240505T140000
+DTEND;TZID=America/Los_Angeles:20240505T154500
+DTSTAMP:20240505T215300Z
+UID:ci0005472-tt24806518--2024-5-5-14-0
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
+ ies and his relative youth\, a man decides to quit his cushy desk job and 
+ 'embrace life' - only to realize he has no idea what to do with this newfo
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Beast
+DTSTART;TZID=America/Los_Angeles:20240505T160000
+DTEND;TZID=America/Los_Angeles:20240505T185500
+DTSTAMP:20240505T235300Z
+UID:ci0005472-tt14407336--2024-5-5-16-0
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nThe plot is set partly in a nea
+ r future in which artificial intelligence is in control of everyone's live
+ s and human emotions are perceived as a threat.\n\nhttps://www.imdb.com/ti
+ tle/tt14407336/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uncropped
+DTSTART;TZID=America/Los_Angeles:20240506T190000
+DTEND;TZID=America/Los_Angeles:20240506T212000
+DTSTAMP:20240507T025300Z
+UID:ci0005472-tt29483775--2024-5-6-19-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nThe stories behind iconic image
+ s of New York and celebrities\, from Alfred Hitchcock to Muhammad Ali\, re
+ counted by photojournalist James Hamilton.\n\nhttps://www.imdb.com/title/t
+ t29483775/\n\nIMDb rating: 9.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

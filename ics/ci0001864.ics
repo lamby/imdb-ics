@@ -1,20 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240419T084110Z
+LAST-MODIFIED:20240421T090102Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-BEGIN:VEVENT
-SUMMARY:Puccini: La Rondine
-DTSTART;TZID=America/Los_Angeles:20240420T095500
-DTEND;TZID=America/Los_Angeles:20240420T122000
-DTSTAMP:20240420T174800Z
-UID:ci0001864-tt28136951--2024-4-20-9-55
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
- 136951/
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puccini: La Rondine
 DTSTART;TZID=America/Los_Angeles:20240424T130000
@@ -23,6 +12,32 @@ DTSTAMP:20240424T205300Z
 UID:ci0001864-tt28136951--2024-4-24-13-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
  136951/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel Magnolias (1989)
+DTSTART;TZID=America/Los_Angeles:20240505T163000
+DTEND;TZID=America/Los_Angeles:20240505T185500
+DTSTAMP:20240506T002300Z
+UID:ci0001864-tt0098384--2024-5-5-16-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA young beautician\, newly arri
+ ved in a small Louisiana town\, finds work at the local salon\, where a sm
+ all group of women share a close bond of friendship\, and welcome her into
+  the fold.\n\nhttps://www.imdb.com/title/tt0098384/\n\nIMDb rating: 7.3
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel Magnolias (1989)
+DTSTART;TZID=America/Los_Angeles:20240505T190000
+DTEND;TZID=America/Los_Angeles:20240505T212500
+DTSTAMP:20240506T025300Z
+UID:ci0001864-tt0098384--2024-5-5-19-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA young beautician\, newly arri
+ ved in a small Louisiana town\, finds work at the local salon\, where a sm
+ all group of women share a close bond of friendship\, and welcome her into
+  the fold.\n\nhttps://www.imdb.com/title/tt0098384/\n\nIMDb rating: 7.3
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
