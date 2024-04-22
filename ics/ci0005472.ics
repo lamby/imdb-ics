@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240421T090004Z
+LAST-MODIFIED:20240422T082418Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bye Bye Tiberias
-DTSTART;TZID=America/Los_Angeles:20240421T173000
-DTEND;TZID=America/Los_Angeles:20240421T192000
-DTSTAMP:20240422T012300Z
-UID:ci0005472-tt22857256--2024-4-21-17-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nYears after leaving her Palestin
- ian village to pursue an acting career in France\, Hiam Abbass returns hom
- e with her daughter\, in this intimate documentary about four generations 
- of women and their shared legacy of separation.\n\nhttps://www.imdb.com/ti
- tle/tt22857256/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omen
-DTSTART;TZID=America/Los_Angeles:20240421T151500
-DTEND;TZID=America/Los_Angeles:20240421T171500
-DTSTAMP:20240421T230800Z
-UID:ci0005472-tt21086802--2024-4-21-15-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
- , a young Congolese man returns to his birthplace of Kinshasa to confront 
- the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
- t21086802/\n\nIMDb rating: 6.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:With Love and a Major Organ
-DTSTART;TZID=America/Los_Angeles:20240421T193000
-DTEND;TZID=America/Los_Angeles:20240421T213000
-DTSTAMP:20240422T032300Z
-UID:ci0005472-tt23464394--2024-4-21-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
- ts are made of objects and suppressing emotions is self-care\, a lonely wo
- man rips out her own heart for the man she loves\, only to discover that h
- e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omen
 DTSTART;TZID=America/Los_Angeles:20240422T193000
@@ -336,7 +295,7 @@ UID:ci0005472-tt24806518--2024-5-3-19-30
 DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
  ies and his relative youth\, a man decides to quit his cushy desk job and 
  'embrace life' - only to realize he has no idea what to do with this newfo
- und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -349,7 +308,7 @@ UID:ci0005472-tt24806518--2024-5-4-18-0
 DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
  ies and his relative youth\, a man decides to quit his cushy desk job and 
  'embrace life' - only to realize he has no idea what to do with this newfo
- und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -388,7 +347,7 @@ UID:ci0005472-tt24806518--2024-5-5-14-0
 DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
  ies and his relative youth\, a man decides to quit his cushy desk job and 
  'embrace life' - only to realize he has no idea what to do with this newfo
- und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -414,7 +373,20 @@ UID:ci0005472-tt29483775--2024-5-6-19-0
 DESCRIPTION:Duration: 1h 51m (111 mins)\n\nThe stories behind iconic image
  s of New York and celebrities\, from Alfred Hitchcock to Muhammad Ali\, re
  counted by photojournalist James Hamilton.\n\nhttps://www.imdb.com/title/t
- t29483775/\n\nIMDb rating: 9.2
+ t29483775/\n\nIMDb rating: 9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Time
+DTSTART;TZID=America/Los_Angeles:20240507T193000
+DTEND;TZID=America/Los_Angeles:20240507T211500
+DTSTAMP:20240508T032300Z
+UID:ci0005472-tt24806518--2024-5-7-19-30
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
+ ies and his relative youth\, a man decides to quit his cushy desk job and 
+ 'embrace life' - only to realize he has no idea what to do with this newfo
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

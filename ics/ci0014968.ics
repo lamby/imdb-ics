@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240421T090112Z
+LAST-MODIFIED:20240422T082524Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Psycho (1960)
-DTSTART;TZID=America/Los_Angeles:20240421T150000
-DTEND;TZID=America/Los_Angeles:20240421T171500
-DTSTAMP:20240421T225300Z
-UID:ci0014968-tt0054215--2024-4-21-15-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA Phoenix secretary embezzles $
- 40\,000 from her employer's client\, goes on the run and checks into a rem
- ote motel run by a young man under the domination of his mother.\n\nhttps:
- //www.imdb.com/title/tt0054215/\n\nIMDb rating: 8.5
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psycho (1960)
 DTSTART;TZID=America/Los_Angeles:20240424T183000
@@ -242,6 +229,42 @@ DTSTART;TZID=America/Los_Angeles:20240506T213000
 DTEND;TZID=America/Los_Angeles:20240507T000500
 DTSTAMP:20240507T052300Z
 UID:ci0014968-tt1684562--2024-5-6-21-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA down-and-out stuntman must fi
+ nd the missing star of his ex-girlfriend's blockbuster film.\n\nhttps://ww
+ w.imdb.com/title/tt1684562/\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fall Guy
+DTSTART;TZID=America/Los_Angeles:20240507T143000
+DTEND;TZID=America/Los_Angeles:20240507T170500
+DTSTAMP:20240507T222300Z
+UID:ci0014968-tt1684562--2024-5-7-14-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA down-and-out stuntman must fi
+ nd the missing star of his ex-girlfriend's blockbuster film.\n\nhttps://ww
+ w.imdb.com/title/tt1684562/\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fall Guy
+DTSTART;TZID=America/Los_Angeles:20240507T180000
+DTEND;TZID=America/Los_Angeles:20240507T203500
+DTSTAMP:20240508T015300Z
+UID:ci0014968-tt1684562--2024-5-7-18-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA down-and-out stuntman must fi
+ nd the missing star of his ex-girlfriend's blockbuster film.\n\nhttps://ww
+ w.imdb.com/title/tt1684562/\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fall Guy
+DTSTART;TZID=America/Los_Angeles:20240507T213000
+DTEND;TZID=America/Los_Angeles:20240508T000500
+DTSTAMP:20240508T052300Z
+UID:ci0014968-tt1684562--2024-5-7-21-30
 DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA down-and-out stuntman must fi
  nd the missing star of his ex-girlfriend's blockbuster film.\n\nhttps://ww
  w.imdb.com/title/tt1684562/\n\nIMDb rating: 7.4
