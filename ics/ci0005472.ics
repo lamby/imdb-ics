@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240422T083444Z
+LAST-MODIFIED:20240423T073925Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Omen
-DTSTART;TZID=America/Los_Angeles:20240422T193000
-DTEND;TZID=America/Los_Angeles:20240422T213000
-DTSTAMP:20240423T032300Z
-UID:ci0005472-tt21086802--2024-4-22-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
- , a young Congolese man returns to his birthplace of Kinshasa to confront 
- the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
- t21086802/\n\nIMDb rating: 6.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omen
 DTSTART;TZID=America/Los_Angeles:20240423T181500
@@ -387,6 +374,19 @@ DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
  ies and his relative youth\, a man decides to quit his cushy desk job and 
  'embrace life' - only to realize he has no idea what to do with this newfo
  und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Beast
+DTSTART;TZID=America/Los_Angeles:20240508T190000
+DTEND;TZID=America/Los_Angeles:20240508T215500
+DTSTAMP:20240509T025300Z
+UID:ci0005472-tt14407336--2024-5-8-19-0
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nThe plot is set partly in a nea
+ r future in which artificial intelligence is in control of everyone's live
+ s and human emotions are perceived as a threat.\n\nhttps://www.imdb.com/ti
+ tle/tt14407336/\n\nIMDb rating: 6.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
