@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240423T073925Z
+LAST-MODIFIED:20240424T075847Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Omen
-DTSTART;TZID=America/Los_Angeles:20240423T181500
-DTEND;TZID=America/Los_Angeles:20240423T201500
-DTSTAMP:20240424T020800Z
-UID:ci0005472-tt21086802--2024-4-23-18-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter spending years in Belgium\
- , a young Congolese man returns to his birthplace of Kinshasa to confront 
- the intricacies of his family and culture.\n\nhttps://www.imdb.com/title/t
- t21086802/\n\nIMDb rating: 6.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:With Love and a Major Organ
-DTSTART;TZID=America/Los_Angeles:20240423T203000
-DTEND;TZID=America/Los_Angeles:20240423T223000
-DTSTAMP:20240424T042300Z
-UID:ci0005472-tt23464394--2024-4-23-20-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
- ts are made of objects and suppressing emotions is self-care\, a lonely wo
- man rips out her own heart for the man she loves\, only to discover that h
- e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omen
 DTSTART;TZID=America/Los_Angeles:20240424T203000
@@ -54,7 +27,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.5
+ rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -81,7 +54,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.5
+ rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -176,7 +149,7 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nIn an alternate world where hear
  ts are made of objects and suppressing emotions is self-care\, a lonely wo
  man rips out her own heart for the man she loves\, only to discover that h
  e has run away with it.\n\nhttps://www.imdb.com/title/tt23464394/\n\nIMDb 
- rating: 7.5
+ rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -387,6 +360,19 @@ DESCRIPTION:Duration: 2h 26m (146 mins)\n\nThe plot is set partly in a nea
  r future in which artificial intelligence is in control of everyone's live
  s and human emotions are perceived as a threat.\n\nhttps://www.imdb.com/ti
  tle/tt14407336/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Time
+DTSTART;TZID=America/Los_Angeles:20240509T193000
+DTEND;TZID=America/Los_Angeles:20240509T211500
+DTSTAMP:20240510T032300Z
+UID:ci0005472-tt24806518--2024-5-9-19-30
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
+ ies and his relative youth\, a man decides to quit his cushy desk job and 
+ 'embrace life' - only to realize he has no idea what to do with this newfo
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
