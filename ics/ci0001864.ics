@@ -1,20 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240424T080940Z
+LAST-MODIFIED:20240430T092133Z
 NAME:Regal Bella Bottega\, Redmond
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-BEGIN:VEVENT
-SUMMARY:Puccini: La Rondine
-DTSTART;TZID=America/Los_Angeles:20240424T130000
-DTEND;TZID=America/Los_Angeles:20240424T152500
-DTSTAMP:20240424T205300Z
-UID:ci0001864-tt28136951--2024-4-24-13-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
- 136951/
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
- WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel Magnolias (1989)
 DTSTART;TZID=America/Los_Angeles:20240505T163000
@@ -51,6 +40,28 @@ DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA young beautician\, newly arri
  ved in a small Louisiana town\, finds work at the local salon\, where a sm
  all group of women share a close bond of friendship\, and welcome her into
   the fold.\n\nhttps://www.imdb.com/title/tt0098384/\n\nIMDb rating: 7.3
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puccini: Madama Butterfly
+DTSTART;TZID=America/Los_Angeles:20240511T095500
+DTEND;TZID=America/Los_Angeles:20240511T122000
+DTSTAMP:20240511T174800Z
+UID:ci0001864-tt28136952--2024-5-11-9-55
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
+ 136952/
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
+ WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puccini: Madama Butterfly
+DTSTART;TZID=America/Los_Angeles:20240515T130000
+DTEND;TZID=America/Los_Angeles:20240515T152500
+DTSTAMP:20240515T205300Z
+UID:ci0001864-tt28136952--2024-5-15-13-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt28
+ 136952/
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond\, 
  WA\, 98052
 END:VEVENT
