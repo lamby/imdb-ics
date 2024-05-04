@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240430T092042Z
+LAST-MODIFIED:20240504T074506Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Enter the Clones of Bruce
-DTSTART;TZID=America/Los_Angeles:20240430T190000
-DTEND;TZID=America/Los_Angeles:20240430T210500
-DTSTAMP:20240501T025300Z
-UID:ci0005472-tt27331483--2024-4-30-19-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nEnter the Clones of Bruce dives
-  into the Bruce Lee exploitation craze\, otherwise known as Bruceploitatio
- n.\n\nhttps://www.imdb.com/title/tt27331483/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicken for Linda!
-DTSTART;TZID=America/Los_Angeles:20240501T193000
-DTEND;TZID=America/Los_Angeles:20240501T211000
-DTSTAMP:20240502T032300Z
-UID:ci0005472-tt21042126--2024-5-1-19-30
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
- els guilty after unfairly punishing her daughter Linda and would do anythi
- ng to make it up to her. She sets off to make a chicken with peppers\, eve
- n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
- 42126/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicken for Linda!
-DTSTART;TZID=America/Los_Angeles:20240502T193000
-DTEND;TZID=America/Los_Angeles:20240502T211000
-DTSTAMP:20240503T032300Z
-UID:ci0005472-tt21042126--2024-5-2-19-30
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA loving mom\, Paulette\, who fe
- els guilty after unfairly punishing her daughter Linda and would do anythi
- ng to make it up to her. She sets off to make a chicken with peppers\, eve
- n though she doesn't know how to cook.\n\nhttps://www.imdb.com/title/tt210
- 42126/\n\nIMDb rating: 7.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Time
-DTSTART;TZID=America/Los_Angeles:20240503T193000
-DTEND;TZID=America/Los_Angeles:20240503T211500
-DTSTAMP:20240504T032300Z
-UID:ci0005472-tt24806518--2024-5-3-19-30
-DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
- ies and his relative youth\, a man decides to quit his cushy desk job and 
- 'embrace life' - only to realize he has no idea what to do with this newfo
- und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Time
 DTSTART;TZID=America/Los_Angeles:20240504T180000
