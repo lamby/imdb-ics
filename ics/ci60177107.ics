@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240504T074718Z
+LAST-MODIFIED:20240505T072006Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cure (1997)
-DTSTART;TZID=America/Los_Angeles:20240504T141500
-DTEND;TZID=America/Los_Angeles:20240504T163500
-DTSTAMP:20240504T220800Z
-UID:ci60177107-tt0123948--2024-5-4-14-15
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA frustrated detective deals wi
- th the case of several gruesome murders committed by people who have no re
- collection of what they've done.\n\nhttps://www.imdb.com/title/tt0123948/\
- n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Corn Island (2014)
 DTSTART;TZID=America/Los_Angeles:20240505T113000
