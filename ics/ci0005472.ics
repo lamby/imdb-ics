@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240505T071647Z
+LAST-MODIFIED:20240507T083317Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Free Time
-DTSTART;TZID=America/Los_Angeles:20240505T140000
-DTEND;TZID=America/Los_Angeles:20240505T154500
-DTSTAMP:20240505T215300Z
-UID:ci0005472-tt24806518--2024-5-5-14-0
-DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
- ies and his relative youth\, a man decides to quit his cushy desk job and 
- 'embrace life' - only to realize he has no idea what to do with this newfo
- und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Beast
-DTSTART;TZID=America/Los_Angeles:20240505T160000
-DTEND;TZID=America/Los_Angeles:20240505T185500
-DTSTAMP:20240505T235300Z
-UID:ci0005472-tt14407336--2024-5-5-16-0
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nThe plot is set partly in a nea
- r future in which artificial intelligence is in control of everyone's live
- s and human emotions are perceived as a threat.\n\nhttps://www.imdb.com/ti
- tle/tt14407336/\n\nIMDb rating: 6.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uncropped
-DTSTART;TZID=America/Los_Angeles:20240506T190000
-DTEND;TZID=America/Los_Angeles:20240506T212000
-DTSTAMP:20240507T025300Z
-UID:ci0005472-tt29483775--2024-5-6-19-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nThe stories behind iconic image
- s of New York and celebrities\, from Alfred Hitchcock to Muhammad Ali\, re
- counted by photojournalist James Hamilton.\n\nhttps://www.imdb.com/title/t
- t29483775/\n\nIMDb rating: 8.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Time
 DTSTART;TZID=America/Los_Angeles:20240507T193000
@@ -52,7 +13,7 @@ UID:ci0005472-tt24806518--2024-5-7-19-30
 DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
  ies and his relative youth\, a man decides to quit his cushy desk job and 
  'embrace life' - only to realize he has no idea what to do with this newfo
- und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -78,7 +39,7 @@ UID:ci0005472-tt24806518--2024-5-9-19-30
 DESCRIPTION:Duration: 1h 18m (78 mins)\n\nApproaching the end of his twent
  ies and his relative youth\, a man decides to quit his cushy desk job and 
  'embrace life' - only to realize he has no idea what to do with this newfo
- und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.3
+ und freedom.\n\nhttps://www.imdb.com/title/tt24806518/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
