@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240515T074712Z
+LAST-MODIFIED:20240516T072026Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Tantura (2022)
-DTSTART;TZID=America/Los_Angeles:20240515T193000
-DTEND;TZID=America/Los_Angeles:20240515T213000
-DTSTAMP:20240516T032300Z
-UID:ci0005472-tt16378034--2024-5-15-19-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn the war of 1948 hundreds of P
- alestinian villages were depopulated. Israelis call it 'The War of Indepen
- dence. Palestinians call it 'Nakba&quot\;'. The film examines one village-
-  Tantura and why &quot\;Nakba&quot\; is taboo in Israeli society.\n\nhttps
- ://www.imdb.com/title/tt16378034/\n\nIMDb rating: 8.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Beast
 DTSTART;TZID=America/Los_Angeles:20240516T190000
@@ -149,7 +135,7 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSet in the 23rd century on Mars\
  , the plot follows the investigation on a murder case carried out by the c
  ouple formed by private investigator Aline Ruby and her android companion 
  Carlos Rivera.\n\nhttps://www.imdb.com/title/tt26915336/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -177,7 +163,7 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSet in the 23rd century on Mars\
  , the plot follows the investigation on a murder case carried out by the c
  ouple formed by private investigator Aline Ruby and her android companion 
  Carlos Rivera.\n\nhttps://www.imdb.com/title/tt26915336/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -203,7 +189,7 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSet in the 23rd century on Mars\
  , the plot follows the investigation on a murder case carried out by the c
  ouple formed by private investigator Aline Ruby and her android companion 
  Carlos Rivera.\n\nhttps://www.imdb.com/title/tt26915336/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -217,7 +203,7 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSet in the 23rd century on Mars\
  , the plot follows the investigation on a murder case carried out by the c
  ouple formed by private investigator Aline Ruby and her android companion 
  Carlos Rivera.\n\nhttps://www.imdb.com/title/tt26915336/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -243,7 +229,7 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSet in the 23rd century on Mars\
  , the plot follows the investigation on a murder case carried out by the c
  ouple formed by private investigator Aline Ruby and her android companion 
  Carlos Rivera.\n\nhttps://www.imdb.com/title/tt26915336/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -256,6 +242,19 @@ UID:ci0005472-tt0175880--2024-5-30-19-0
 DESCRIPTION:Duration: 3h 08m (188 mins)\n\nAn epic mosaic of interrelated 
  characters in search of love\, forgiveness and meaning in the San Fernando
   Valley.\n\nhttps://www.imdb.com/title/tt0175880/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Day (1996)
+DTSTART;TZID=America/Los_Angeles:20240531T191500
+DTEND;TZID=America/Los_Angeles:20240531T213000
+DTSTAMP:20240601T030800Z
+UID:ci0005472-tt0117247--2024-5-31-19-15
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and 
+ their young children unexpectedly intersect on one hectic\, stressful day 
+ in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
+  6.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
