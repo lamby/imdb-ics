@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240516T072026Z
+LAST-MODIFIED:20240517T071155Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Beast
-DTSTART;TZID=America/Los_Angeles:20240516T190000
-DTEND;TZID=America/Los_Angeles:20240516T215500
-DTSTAMP:20240517T025300Z
-UID:ci0005472-tt14407336--2024-5-16-19-0
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nIn the near future artificial i
- ntelligence is in control of everyone's lives and human emotions are perce
- ived as a threat.\n\nhttps://www.imdb.com/title/tt14407336/\n\nIMDb rating
- : 6.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gasoline Rainbow
 DTSTART;TZID=America/Los_Angeles:20240517T203000
@@ -251,6 +238,55 @@ DTSTART;TZID=America/Los_Angeles:20240531T191500
 DTEND;TZID=America/Los_Angeles:20240531T213000
 DTSTAMP:20240601T030800Z
 UID:ci0005472-tt0117247--2024-5-31-19-15
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and 
+ their young children unexpectedly intersect on one hectic\, stressful day 
+ in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
+  6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Anden (2020)
+DTSTART;TZID=America/Los_Angeles:20240531T213000
+DTEND;TZID=America/Los_Angeles:20240531T222500
+DTSTAMP:20240601T052300Z
+UID:ci0005472-tt13262926--2024-5-31-21-30
+DESCRIPTION:Duration: 0h 26m (26 mins)\n\nhttps://www.imdb.com/title/tt132
+ 62926/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funeral Parade of Roses (1969)
+DTSTART;TZID=America/Los_Angeles:20240601T180000
+DTEND;TZID=America/Los_Angeles:20240601T201000
+DTSTAMP:20240602T015300Z
+UID:ci0005472-tt0064068--2024-6-1-18-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe trials and tribulations of 
+ Eddie and other transvestites in Japan.\n\nhttps://www.imdb.com/title/tt00
+ 64068/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20240601T203000
+DTEND;TZID=America/Los_Angeles:20240601T224500
+DTSTAMP:20240602T042300Z
+UID:ci0005472-tt12818328--2024-6-1-20-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Day (1996)
+DTSTART;TZID=America/Los_Angeles:20240601T140000
+DTEND;TZID=America/Los_Angeles:20240601T161500
+DTSTAMP:20240601T215300Z
+UID:ci0005472-tt0117247--2024-6-1-14-0
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and 
  their young children unexpectedly intersect on one hectic\, stressful day 
  in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
