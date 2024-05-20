@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240518T070701Z
+LAST-MODIFIED:20240520T091814Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gasoline Rainbow
-DTSTART;TZID=America/Los_Angeles:20240518T180000
-DTEND;TZID=America/Los_Angeles:20240518T201500
-DTSTAMP:20240519T015300Z
-UID:ci0005472-tt28494031--2024-5-18-18-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollows 5 teenagers from small-
- town Oregon who\, with high school in the rearview\, decide to embark on o
- ne last adventure: to make it to a place they've never been -the Pacific c
- oast\, 500 miles away. Their plan\, in full: &quot\;F**k it.&quot\;\n\nhtt
- ps://www.imdb.com/title/tt28494031/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gasoline Rainbow
-DTSTART;TZID=America/Los_Angeles:20240519T140000
-DTEND;TZID=America/Los_Angeles:20240519T161500
-DTSTAMP:20240519T215300Z
-UID:ci0005472-tt28494031--2024-5-19-14-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollows 5 teenagers from small-
- town Oregon who\, with high school in the rearview\, decide to embark on o
- ne last adventure: to make it to a place they've never been -the Pacific c
- oast\, 500 miles away. Their plan\, in full: &quot\;F**k it.&quot\;\n\nhtt
- ps://www.imdb.com/title/tt28494031/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gasoline Rainbow
-DTSTART;TZID=America/Los_Angeles:20240519T190000
-DTEND;TZID=America/Los_Angeles:20240519T211500
-DTSTAMP:20240520T025300Z
-UID:ci0005472-tt28494031--2024-5-19-19-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollows 5 teenagers from small-
- town Oregon who\, with high school in the rearview\, decide to embark on o
- ne last adventure: to make it to a place they've never been -the Pacific c
- oast\, 500 miles away. Their plan\, in full: &quot\;F**k it.&quot\;\n\nhtt
- ps://www.imdb.com/title/tt28494031/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gasoline Rainbow
 DTSTART;TZID=America/Los_Angeles:20240520T191500
@@ -268,6 +226,19 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Happy Man (2009)
+DTSTART;TZID=America/Los_Angeles:20240601T160000
+DTEND;TZID=America/Los_Angeles:20240601T181500
+DTSTAMP:20240601T235300Z
+UID:ci0005472-tt1075115--2024-6-1-16-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA touching politically incorrec
+ t comedy and a triumph of happiness over human mediocrity. Starring Pierre
+  RICHARD\, Sylvie TESTUD and Remy GIRARD.\n\nhttps://www.imdb.com/title/tt
+ 1075115/\n\nIMDb rating: 5.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Fine Day (1996)
 DTSTART;TZID=America/Los_Angeles:20240601T140000
 DTEND;TZID=America/Los_Angeles:20240601T161500
@@ -293,11 +264,49 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Happy Man (2009)
+DTSTART;TZID=America/Los_Angeles:20240602T180000
+DTEND;TZID=America/Los_Angeles:20240602T201500
+DTSTAMP:20240603T015300Z
+UID:ci0005472-tt1075115--2024-6-2-18-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA touching politically incorrec
+ t comedy and a triumph of happiness over human mediocrity. Starring Pierre
+  RICHARD\, Sylvie TESTUD and Remy GIRARD.\n\nhttps://www.imdb.com/title/tt
+ 1075115/\n\nIMDb rating: 5.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Fine Day (1996)
 DTSTART;TZID=America/Los_Angeles:20240602T200000
 DTEND;TZID=America/Los_Angeles:20240602T221500
 DTSTAMP:20240603T035300Z
 UID:ci0005472-tt0117247--2024-6-2-20-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and 
+ their young children unexpectedly intersect on one hectic\, stressful day 
+ in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
+  6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funeral Parade of Roses (1969)
+DTSTART;TZID=America/Los_Angeles:20240603T191500
+DTEND;TZID=America/Los_Angeles:20240603T212500
+DTSTAMP:20240604T030800Z
+UID:ci0005472-tt0064068--2024-6-3-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe trials and tribulations of 
+ Eddie and other transvestites in Japan.\n\nhttps://www.imdb.com/title/tt00
+ 64068/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Day (1996)
+DTSTART;TZID=America/Los_Angeles:20240604T193000
+DTEND;TZID=America/Los_Angeles:20240604T214500
+DTSTAMP:20240605T032300Z
+UID:ci0005472-tt0117247--2024-6-4-19-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and 
  their young children unexpectedly intersect on one hectic\, stressful day 
  in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
