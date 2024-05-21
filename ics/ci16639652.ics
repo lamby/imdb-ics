@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240520T092025Z
+LAST-MODIFIED:20240521T073742Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -62,6 +62,19 @@ DTSTART;TZID=America/Los_Angeles:20240604T190000
 DTEND;TZID=America/Los_Angeles:20240604T205000
 DTSTAMP:20240605T025300Z
 UID:ci16639652-tt14712274--2024-6-4-19-0
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nWhen Jaime\, a self-described &q
+ uot\;guy's girl\,&quot\; and her boyfriend break up\, all of her guy frien
+ ds simultaneously profess their secret\, undying love for her.\n\nhttps://
+ www.imdb.com/title/tt14712274/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guy Friends
+DTSTART;TZID=America/Los_Angeles:20240605T190000
+DTEND;TZID=America/Los_Angeles:20240605T205000
+DTSTAMP:20240606T025300Z
+UID:ci16639652-tt14712274--2024-6-5-19-0
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nWhen Jaime\, a self-described &q
  uot\;guy's girl\,&quot\; and her boyfriend break up\, all of her guy frien
  ds simultaneously profess their secret\, undying love for her.\n\nhttps://

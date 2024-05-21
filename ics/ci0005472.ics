@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240520T091814Z
+LAST-MODIFIED:20240521T073539Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gasoline Rainbow
-DTSTART;TZID=America/Los_Angeles:20240520T191500
-DTEND;TZID=America/Los_Angeles:20240520T213000
-DTSTAMP:20240521T030800Z
-UID:ci0005472-tt28494031--2024-5-20-19-15
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollows 5 teenagers from small-
- town Oregon who\, with high school in the rearview\, decide to embark on o
- ne last adventure: to make it to a place they've never been -the Pacific c
- oast\, 500 miles away. Their plan\, in full: &quot\;F**k it.&quot\;\n\nhtt
- ps://www.imdb.com/title/tt28494031/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magnolia (1999)
 DTSTART;TZID=America/Los_Angeles:20240521T190000
@@ -311,6 +297,18 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and
  their young children unexpectedly intersect on one hectic\, stressful day 
  in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
   6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funeral Parade of Roses (1969)
+DTSTART;TZID=America/Los_Angeles:20240605T191500
+DTEND;TZID=America/Los_Angeles:20240605T212500
+DTSTAMP:20240606T030800Z
+UID:ci0005472-tt0064068--2024-6-5-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe trials and tribulations of 
+ Eddie and other transvestites in Japan.\n\nhttps://www.imdb.com/title/tt00
+ 64068/\n\nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
