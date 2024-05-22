@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240521T073539Z
+LAST-MODIFIED:20240522T061451Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Magnolia (1999)
-DTSTART;TZID=America/Los_Angeles:20240521T190000
-DTEND;TZID=America/Los_Angeles:20240521T223500
-DTSTAMP:20240522T025300Z
-UID:ci0005472-tt0175880--2024-5-21-19-0
-DESCRIPTION:Duration: 3h 08m (188 mins)\n\nAn epic mosaic of interrelated 
- characters in search of love\, forgiveness and meaning in the San Fernando
-  Valley.\n\nhttps://www.imdb.com/title/tt0175880/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gasoline Rainbow
 DTSTART;TZID=America/Los_Angeles:20240522T191500
@@ -309,6 +297,19 @@ UID:ci0005472-tt0064068--2024-6-5-19-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe trials and tribulations of 
  Eddie and other transvestites in Japan.\n\nhttps://www.imdb.com/title/tt00
  64068/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Day (1996)
+DTSTART;TZID=America/Los_Angeles:20240606T193000
+DTEND;TZID=America/Los_Angeles:20240606T214500
+DTSTAMP:20240607T032300Z
+UID:ci0005472-tt0117247--2024-6-6-19-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and 
+ their young children unexpectedly intersect on one hectic\, stressful day 
+ in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
+  6.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
