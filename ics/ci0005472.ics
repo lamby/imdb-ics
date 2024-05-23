@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240522T061451Z
+LAST-MODIFIED:20240523T072549Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gasoline Rainbow
-DTSTART;TZID=America/Los_Angeles:20240522T191500
-DTEND;TZID=America/Los_Angeles:20240522T213000
-DTSTAMP:20240523T030800Z
-UID:ci0005472-tt28494031--2024-5-22-19-15
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollows 5 teenagers from small-
- town Oregon who\, with high school in the rearview\, decide to embark on o
- ne last adventure: to make it to a place they've never been -the Pacific c
- oast\, 500 miles away. Their plan\, in full: &quot\;F**k it.&quot\;\n\nhtt
- ps://www.imdb.com/title/tt28494031/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magnolia (1999)
 DTSTART;TZID=America/Los_Angeles:20240523T190000
@@ -310,6 +296,18 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nThe lives of two strangers and
  their young children unexpectedly intersect on one hectic\, stressful day 
  in New York City.\n\nhttps://www.imdb.com/title/tt0117247/\n\nIMDb rating:
   6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flipside
+DTSTART;TZID=America/Los_Angeles:20240607T193000
+DTEND;TZID=America/Los_Angeles:20240607T213000
+DTSTAMP:20240608T032300Z
+UID:ci0005472-tt28575316--2024-6-7-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA comical attempt to save a New 
+ Jersey record store and confront a mid-life crisis.\n\nhttps://www.imdb.co
+ m/title/tt28575316/\n\nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
