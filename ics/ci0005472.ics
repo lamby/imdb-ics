@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240525T070918Z
+LAST-MODIFIED:20240526T090112Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gasoline Rainbow
-DTSTART;TZID=America/Los_Angeles:20240525T140000
-DTEND;TZID=America/Los_Angeles:20240525T161500
-DTSTAMP:20240525T215300Z
-UID:ci0005472-tt28494031--2024-5-25-14-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollows 5 teenagers from small-
- town Oregon who\, with high school in the rearview\, decide to embark on o
- ne last adventure: to make it to a place they've never been -the Pacific c
- oast\, 500 miles away. Their plan\, in full: &quot\;F**k it.&quot\;\n\nhtt
- ps://www.imdb.com/title/tt28494031/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mars Express
-DTSTART;TZID=America/Los_Angeles:20240525T193000
-DTEND;TZID=America/Los_Angeles:20240525T212500
-DTSTAMP:20240526T032300Z
-UID:ci0005472-tt26915336--2024-5-25-19-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSet in the 23rd century on Mars\
- , the plot follows the investigation on a murder case carried out by the c
- ouple formed by private investigator Aline Ruby and her android companion 
- Carlos Rivera.\n\nhttps://www.imdb.com/title/tt26915336/\n\nIMDb rating: 7
- .5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magnolia (1999)
 DTSTART;TZID=America/Los_Angeles:20240526T200000
@@ -373,6 +345,20 @@ UID:ci0005472-tt28575316--2024-6-9-20-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA comical attempt to save a New 
  Jersey record store and confront a mid-life crisis.\n\nhttps://www.imdb.co
  m/title/tt28575316/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Break the Game
+DTSTART;TZID=America/Los_Angeles:20240610T193000
+DTEND;TZID=America/Los_Angeles:20240610T211000
+DTSTAMP:20240611T032300Z
+UID:ci0005472-tt8235170--2024-6-10-19-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nAfter coming out as trans\, worl
+ d-record-holding gamer\, Narcissa Wright loses her massive fanbase. To win
+  them back\, she sets out to break a new record in The Legend of Zelda: Br
+ eath of the Wild and live-stream every minute of her ...\n\nhttps://www.im
+ db.com/title/tt8235170/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
