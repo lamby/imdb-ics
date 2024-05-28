@@ -1,427 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240527T074303Z
+LAST-MODIFIED:20240528T100251Z
 NAME:The Light Cinema\, Cambridge
 X-WR-CALNAME:The Light Cinema\, Cambridge
-BEGIN:VEVENT
-SUMMARY:A Clockwork Orange (1971)
-DTSTART;TZID=Europe/London:20240527T194000
-DTEND;TZID=Europe/London:20240527T222500
-DTSTAMP:20240527T194100Z
-UID:ci0959521-tt0066921--2024-5-27-19-40
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn the future\, a sadistic gang
-  leader is imprisoned and volunteers for a conduct-aversion experiment\, b
- ut it doesn't go as planned.\n\nhttps://www.imdb.com/title/tt0066921/\n\nI
- MDb rating: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=Europe/London:20240527T101500
-DTEND;TZID=Europe/London:20240527T131000
-DTSTAMP:20240527T101600Z
-UID:ci0959521-tt12037194--2024-5-27-10-15
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=Europe/London:20240527T134500
-DTEND;TZID=Europe/London:20240527T164000
-DTSTAMP:20240527T134600Z
-UID:ci0959521-tt12037194--2024-5-27-13-45
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=Europe/London:20240527T170000
-DTEND;TZID=Europe/London:20240527T195500
-DTSTAMP:20240527T170100Z
-UID:ci0959521-tt12037194--2024-5-27-17-0
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=Europe/London:20240527T201500
-DTEND;TZID=Europe/London:20240527T231000
-DTSTAMP:20240527T201600Z
-UID:ci0959521-tt12037194--2024-5-27-20-15
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga (IMAX)
-DTSTART;TZID=Europe/London:20240527T124500
-DTEND;TZID=Europe/London:20240527T154000
-DTSTAMP:20240527T124600Z
-UID:ci0959521-tt12037194-imax-2024-5-27-12-45
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga (IMAX)
-DTSTART;TZID=Europe/London:20240527T160000
-DTEND;TZID=Europe/London:20240527T185500
-DTSTAMP:20240527T160100Z
-UID:ci0959521-tt12037194-imax-2024-5-27-16-0
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga (IMAX)
-DTSTART;TZID=Europe/London:20240527T191500
-DTEND;TZID=Europe/London:20240527T221000
-DTSTAMP:20240527T191600Z
-UID:ci0959521-tt12037194-imax-2024-5-27-19-15
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 8
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hit Man
-DTSTART;TZID=Europe/London:20240527T101000
-DTEND;TZID=Europe/London:20240527T123000
-DTSTAMP:20240527T101100Z
-UID:ci0959521-tt20215968--2024-5-27-10-10
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA professor moonlighting as a h
- it man of sorts for his city police department\, descends into dangerous\,
-  dubious territory when he finds himself attracted to a woman who enlists 
- his services.\n\nhttps://www.imdb.com/title/tt20215968/\n\nIMDb rating: 7.
- 5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hit Man
-DTSTART;TZID=Europe/London:20240527T150000
-DTEND;TZID=Europe/London:20240527T172000
-DTSTAMP:20240527T150100Z
-UID:ci0959521-tt20215968--2024-5-27-15-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA professor moonlighting as a h
- it man of sorts for his city police department\, descends into dangerous\,
-  dubious territory when he finds himself attracted to a woman who enlists 
- his services.\n\nhttps://www.imdb.com/title/tt20215968/\n\nIMDb rating: 7.
- 5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hit Man
-DTSTART;TZID=Europe/London:20240527T203000
-DTEND;TZID=Europe/London:20240527T225000
-DTSTAMP:20240527T203100Z
-UID:ci0959521-tt20215968--2024-5-27-20-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA professor moonlighting as a h
- it man of sorts for his city police department\, descends into dangerous\,
-  dubious territory when he finds himself attracted to a woman who enlists 
- his services.\n\nhttps://www.imdb.com/title/tt20215968/\n\nIMDb rating: 7.
- 5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IF
-DTSTART;TZID=Europe/London:20240527T110000
-DTEND;TZID=Europe/London:20240527T131000
-DTSTAMP:20240527T110100Z
-UID:ci0959521-tt11152168--2024-5-27-11-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young girl who goes through a
-  difficult experience begins to see everyone's imaginary friends who have 
- been left behind as their real-life friends have grown up.\n\nhttps://www.
- imdb.com/title/tt11152168/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IF
-DTSTART;TZID=Europe/London:20240527T120000
-DTEND;TZID=Europe/London:20240527T141000
-DTSTAMP:20240527T120100Z
-UID:ci0959521-tt11152168--2024-5-27-12-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young girl who goes through a
-  difficult experience begins to see everyone's imaginary friends who have 
- been left behind as their real-life friends have grown up.\n\nhttps://www.
- imdb.com/title/tt11152168/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IF
-DTSTART;TZID=Europe/London:20240527T130000
-DTEND;TZID=Europe/London:20240527T151000
-DTSTAMP:20240527T130100Z
-UID:ci0959521-tt11152168--2024-5-27-13-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young girl who goes through a
-  difficult experience begins to see everyone's imaginary friends who have 
- been left behind as their real-life friends have grown up.\n\nhttps://www.
- imdb.com/title/tt11152168/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IF
-DTSTART;TZID=Europe/London:20240527T143000
-DTEND;TZID=Europe/London:20240527T164000
-DTSTAMP:20240527T143100Z
-UID:ci0959521-tt11152168--2024-5-27-14-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young girl who goes through a
-  difficult experience begins to see everyone's imaginary friends who have 
- been left behind as their real-life friends have grown up.\n\nhttps://www.
- imdb.com/title/tt11152168/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IF
-DTSTART;TZID=Europe/London:20240527T153000
-DTEND;TZID=Europe/London:20240527T174000
-DTSTAMP:20240527T153100Z
-UID:ci0959521-tt11152168--2024-5-27-15-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young girl who goes through a
-  difficult experience begins to see everyone's imaginary friends who have 
- been left behind as their real-life friends have grown up.\n\nhttps://www.
- imdb.com/title/tt11152168/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IF
-DTSTART;TZID=Europe/London:20240527T180000
-DTEND;TZID=Europe/London:20240527T201000
-DTSTAMP:20240527T180100Z
-UID:ci0959521-tt11152168--2024-5-27-18-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young girl who goes through a
-  difficult experience begins to see everyone's imaginary friends who have 
- been left behind as their real-life friends have grown up.\n\nhttps://www.
- imdb.com/title/tt11152168/\n\nIMDb rating: 6.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twilight of the Warriors: Walled In
-DTSTART;TZID=Europe/London:20240527T134000
-DTEND;TZID=Europe/London:20240527T161500
-DTSTAMP:20240527T134100Z
-UID:ci0959521-tt20316748--2024-5-27-13-40
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nFollows troubled youth Chan Lok
- -kwun as he accidentally enters the Walled City\, discovers the order amid
- st its chaos\, and learns important life lessons along the way.\n\nhttps:/
- /www.imdb.com/title/tt20316748/\n\nIMDb rating: 7.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twilight of the Warriors: Walled In
-DTSTART;TZID=Europe/London:20240527T171000
-DTEND;TZID=Europe/London:20240527T194500
-DTSTAMP:20240527T171100Z
-UID:ci0959521-tt20316748--2024-5-27-17-10
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nFollows troubled youth Chan Lok
- -kwun as he accidentally enters the Walled City\, discovers the order amid
- st its chaos\, and learns important life lessons along the way.\n\nhttps:/
- /www.imdb.com/title/tt20316748/\n\nIMDb rating: 7.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twilight of the Warriors: Walled In
-DTSTART;TZID=Europe/London:20240527T190000
-DTEND;TZID=Europe/London:20240527T213500
-DTSTAMP:20240527T190100Z
-UID:ci0959521-tt20316748--2024-5-27-19-0
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nFollows troubled youth Chan Lok
- -kwun as he accidentally enters the Walled City\, discovers the order amid
- st its chaos\, and learns important life lessons along the way.\n\nhttps:/
- /www.imdb.com/title/tt20316748/\n\nIMDb rating: 7.5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kingdom of the Planet of the Apes
-DTSTART;TZID=Europe/London:20240527T112000
-DTEND;TZID=Europe/London:20240527T141000
-DTSTAMP:20240527T112100Z
-UID:ci0959521-tt11389872--2024-5-27-11-20
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nMany years after the reign of C
- aesar\, a young ape goes on a journey that will lead him to question every
- thing he's been taught about the past and make choices that will define a 
- future for apes and humans alike.\n\nhttps://www.imdb.com/title/tt11389872
- /\n\nIMDb rating: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kingdom of the Planet of the Apes
-DTSTART;TZID=Europe/London:20240527T163000
-DTEND;TZID=Europe/London:20240527T192000
-DTSTAMP:20240527T163100Z
-UID:ci0959521-tt11389872--2024-5-27-16-30
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nMany years after the reign of C
- aesar\, a young ape goes on a journey that will lead him to question every
- thing he's been taught about the past and make choices that will define a 
- future for apes and humans alike.\n\nhttps://www.imdb.com/title/tt11389872
- /\n\nIMDb rating: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kingdom of the Planet of the Apes
-DTSTART;TZID=Europe/London:20240527T194500
-DTEND;TZID=Europe/London:20240527T223500
-DTSTAMP:20240527T194600Z
-UID:ci0959521-tt11389872--2024-5-27-19-45
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nMany years after the reign of C
- aesar\, a young ape goes on a journey that will lead him to question every
- thing he's been taught about the past and make choices that will define a 
- future for apes and humans alike.\n\nhttps://www.imdb.com/title/tt11389872
- /\n\nIMDb rating: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thalavan
-DTSTART;TZID=Europe/London:20240527T133000
-DTEND;TZID=Europe/London:20240527T161000
-DTSTAMP:20240527T133100Z
-UID:ci0959521-tt27510257--2024-5-27-13-30
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nExplores how hierarchy works wi
- thin a police station.\n\nhttps://www.imdb.com/title/tt27510257/\n\nIMDb r
- ating: 7.9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fall Guy
-DTSTART;TZID=Europe/London:20240527T174000
-DTEND;TZID=Europe/London:20240527T201500
-DTSTAMP:20240527T174100Z
-UID:ci0959521-tt1684562--2024-5-27-17-40
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA down-and-out stuntman must fi
- nd the missing star of his ex-girlfriend's blockbuster film.\n\nhttps://ww
- w.imdb.com/title/tt1684562/\n\nIMDb rating: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fall Guy
-DTSTART;TZID=Europe/London:20240527T203000
-DTEND;TZID=Europe/London:20240527T230500
-DTSTAMP:20240527T203100Z
-UID:ci0959521-tt1684562--2024-5-27-20-30
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA down-and-out stuntman must fi
- nd the missing star of his ex-girlfriend's blockbuster film.\n\nhttps://ww
- w.imdb.com/title/tt1684562/\n\nIMDb rating: 7.1
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Garfield Movie
-DTSTART;TZID=Europe/London:20240527T100000
-DTEND;TZID=Europe/London:20240527T121000
-DTSTAMP:20240527T100100Z
-UID:ci0959521-tt5779228--2024-5-27-10-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter Garfield's unexpected reu
- nion with his long-lost father\, ragged alley cat Vic\, he and his canine 
- friend Odie are forced from their perfectly pampered lives to join Vic on 
- a risky heist.\n\nhttps://www.imdb.com/title/tt5779228/\n\nIMDb rating: 5.
- 9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Garfield Movie
-DTSTART;TZID=Europe/London:20240527T113000
-DTEND;TZID=Europe/London:20240527T134000
-DTSTAMP:20240527T113100Z
-UID:ci0959521-tt5779228--2024-5-27-11-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter Garfield's unexpected reu
- nion with his long-lost father\, ragged alley cat Vic\, he and his canine 
- friend Odie are forced from their perfectly pampered lives to join Vic on 
- a risky heist.\n\nhttps://www.imdb.com/title/tt5779228/\n\nIMDb rating: 5.
- 9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Garfield Movie
-DTSTART;TZID=Europe/London:20240527T140000
-DTEND;TZID=Europe/London:20240527T161000
-DTSTAMP:20240527T140100Z
-UID:ci0959521-tt5779228--2024-5-27-14-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter Garfield's unexpected reu
- nion with his long-lost father\, ragged alley cat Vic\, he and his canine 
- friend Odie are forced from their perfectly pampered lives to join Vic on 
- a risky heist.\n\nhttps://www.imdb.com/title/tt5779228/\n\nIMDb rating: 5.
- 9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Garfield Movie
-DTSTART;TZID=Europe/London:20240527T163000
-DTEND;TZID=Europe/London:20240527T184000
-DTSTAMP:20240527T163100Z
-UID:ci0959521-tt5779228--2024-5-27-16-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter Garfield's unexpected reu
- nion with his long-lost father\, ragged alley cat Vic\, he and his canine 
- friend Odie are forced from their perfectly pampered lives to join Vic on 
- a risky heist.\n\nhttps://www.imdb.com/title/tt5779228/\n\nIMDb rating: 5.
- 9
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Turbo
-DTSTART;TZID=Europe/London:20240527T200000
-DTEND;TZID=Europe/London:20240527T230000
-DTSTAMP:20240527T200100Z
-UID:ci0959521-tt29608104--2024-5-27-20-0
-DESCRIPTION:Duration: 2h 35m (155 mins)\n\nJose\, a jeep driver from Idukk
- i gets in trouble and is forced to relocate to Chennai where he gets entan
- gled with Indhu and his best friend\, Jerry. A bunch of surprises in the f
- orm of Vetrivel and others await Jose in Chennai.\n\nhttps://www.imdb.com/
- title/tt29608104/\n\nIMDb rating: 6.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weathering with You (2019)
-DTSTART;TZID=Europe/London:20240527T170000
-DTEND;TZID=Europe/London:20240527T192000
-DTSTAMP:20240527T170100Z
-UID:ci0959521-tt9426210--2024-5-27-17-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nSet during a period of exceptio
- nally rainy weather\, high-school boy Hodaka Morishima runs away from his 
- troubled rural home to Tokyo and befriends an orphan girl who can manipula
- te the weather.\n\nhttps://www.imdb.com/title/tt9426210/\n\nIMDb rating: 7
- .5
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Furiosa: A Mad Max Saga
 DTSTART;TZID=Europe/London:20240528T112000
@@ -728,7 +310,7 @@ DTSTAMP:20240528T194100Z
 UID:ci0959521-tt27510257--2024-5-28-19-40
 DESCRIPTION:Duration: 2h 11m (131 mins)\n\nExplores how hierarchy works wi
  thin a police station.\n\nhttps://www.imdb.com/title/tt27510257/\n\nIMDb r
- ating: 7.9
+ ating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -877,7 +459,7 @@ UID:ci0959521-tt16426418--2024-5-29-18-45
 DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTashi\, a former tennis prodigy
   turned coach\, turned her husband into a champion. But to overcome a losi
  ng streak\, he needs to face his ex-best friend and Tashi's ex-boyfriend.\
- n\nhttps://www.imdb.com/title/tt16426418/\n\nIMDb rating: 7.5
+ n\nhttps://www.imdb.com/title/tt16426418/\n\nIMDb rating: 7.4
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1751,10 +1333,10 @@ DTSTART;TZID=Europe/London:20240531T161500
 DTEND;TZID=Europe/London:20240531T180500
 DTSTAMP:20240531T161600Z
 UID:ci0959521-tt30476486--2024-5-31-16-15
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, Karasun
- o High volleyball team advances past preliminary round of Harutaka tournam
- ent in Miyagi prefecture to reach the third round.\n\nhttps://www.imdb.com
- /title/tt30476486/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, the Kar
+ asuno High volleyball team advances past the preliminary round of the Haru
+ taka tournament in Miyagi prefecture to reach the third round.\n\nhttps://
+ www.imdb.com/title/tt30476486/\n\nIMDb rating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1764,10 +1346,10 @@ DTSTART;TZID=Europe/London:20240531T180000
 DTEND;TZID=Europe/London:20240531T195000
 DTSTAMP:20240531T180100Z
 UID:ci0959521-tt30476486-imax-2024-5-31-18-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, Karasun
- o High volleyball team advances past preliminary round of Harutaka tournam
- ent in Miyagi prefecture to reach the third round.\n\nhttps://www.imdb.com
- /title/tt30476486/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, the Kar
+ asuno High volleyball team advances past the preliminary round of the Haru
+ taka tournament in Miyagi prefecture to reach the third round.\n\nhttps://
+ www.imdb.com/title/tt30476486/\n\nIMDb rating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1915,10 +1497,10 @@ DTSTART;TZID=Europe/London:20240601T143000
 DTEND;TZID=Europe/London:20240601T162000
 DTSTAMP:20240601T143100Z
 UID:ci0959521-tt30476486-imax-2024-6-1-14-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, Karasun
- o High volleyball team advances past preliminary round of Harutaka tournam
- ent in Miyagi prefecture to reach the third round.\n\nhttps://www.imdb.com
- /title/tt30476486/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, the Kar
+ asuno High volleyball team advances past the preliminary round of the Haru
+ taka tournament in Miyagi prefecture to reach the third round.\n\nhttps://
+ www.imdb.com/title/tt30476486/\n\nIMDb rating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2081,10 +1663,10 @@ DTSTART;TZID=Europe/London:20240602T173000
 DTEND;TZID=Europe/London:20240602T192000
 DTSTAMP:20240602T173100Z
 UID:ci0959521-tt30476486--2024-6-2-17-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, Karasun
- o High volleyball team advances past preliminary round of Harutaka tournam
- ent in Miyagi prefecture to reach the third round.\n\nhttps://www.imdb.com
- /title/tt30476486/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, the Kar
+ asuno High volleyball team advances past the preliminary round of the Haru
+ taka tournament in Miyagi prefecture to reach the third round.\n\nhttps://
+ www.imdb.com/title/tt30476486/\n\nIMDb rating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2094,10 +1676,10 @@ DTSTART;TZID=Europe/London:20240602T194000
 DTEND;TZID=Europe/London:20240602T213000
 DTSTAMP:20240602T194100Z
 UID:ci0959521-tt30476486--2024-6-2-19-40
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, Karasun
- o High volleyball team advances past preliminary round of Harutaka tournam
- ent in Miyagi prefecture to reach the third round.\n\nhttps://www.imdb.com
- /title/tt30476486/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, the Kar
+ asuno High volleyball team advances past the preliminary round of the Haru
+ taka tournament in Miyagi prefecture to reach the third round.\n\nhttps://
+ www.imdb.com/title/tt30476486/\n\nIMDb rating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2107,10 +1689,10 @@ DTSTART;TZID=Europe/London:20240602T113000
 DTEND;TZID=Europe/London:20240602T132000
 DTSTAMP:20240602T113100Z
 UID:ci0959521-tt30476486-imax-2024-6-2-11-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, Karasun
- o High volleyball team advances past preliminary round of Harutaka tournam
- ent in Miyagi prefecture to reach the third round.\n\nhttps://www.imdb.com
- /title/tt30476486/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, the Kar
+ asuno High volleyball team advances past the preliminary round of the Haru
+ taka tournament in Miyagi prefecture to reach the third round.\n\nhttps://
+ www.imdb.com/title/tt30476486/\n\nIMDb rating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2246,10 +1828,10 @@ DTSTART;TZID=Europe/London:20240603T180000
 DTEND;TZID=Europe/London:20240603T195000
 DTSTAMP:20240603T180100Z
 UID:ci0959521-tt30476486-imax-2024-6-3-18-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, Karasun
- o High volleyball team advances past preliminary round of Harutaka tournam
- ent in Miyagi prefecture to reach the third round.\n\nhttps://www.imdb.com
- /title/tt30476486/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nDespite a strong field\, the Kar
+ asuno High volleyball team advances past the preliminary round of the Haru
+ taka tournament in Miyagi prefecture to reach the third round.\n\nhttps://
+ www.imdb.com/title/tt30476486/\n\nIMDb rating: 7.7
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2946,6 +2528,84 @@ DESCRIPTION:Duration: 1h 50m (110 mins)\n\nThis Summer\, the world's favor
  ite Bad Boys are back with their iconic mix of edge-of-your seat action an
  d outrageous comedy but this time with a twist: Miami's finest are now on 
  the run.\n\nhttps://www.imdb.com/title/tt4919268/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Boys: Ride or Die
+DTSTART;TZID=Europe/London:20240612T110000
+DTEND;TZID=Europe/London:20240612T131500
+DTSTAMP:20240612T110100Z
+UID:ci0959521-tt4919268--2024-6-12-11-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nThis Summer\, the world's favor
+ ite Bad Boys are back with their iconic mix of edge-of-your seat action an
+ d outrageous comedy but this time with a twist: Miami's finest are now on 
+ the run.\n\nhttps://www.imdb.com/title/tt4919268/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Boys: Ride or Die
+DTSTART;TZID=Europe/London:20240612T134500
+DTEND;TZID=Europe/London:20240612T160000
+DTSTAMP:20240612T134600Z
+UID:ci0959521-tt4919268--2024-6-12-13-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nThis Summer\, the world's favor
+ ite Bad Boys are back with their iconic mix of edge-of-your seat action an
+ d outrageous comedy but this time with a twist: Miami's finest are now on 
+ the run.\n\nhttps://www.imdb.com/title/tt4919268/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Boys: Ride or Die
+DTSTART;TZID=Europe/London:20240612T162000
+DTEND;TZID=Europe/London:20240612T183500
+DTSTAMP:20240612T162100Z
+UID:ci0959521-tt4919268--2024-6-12-16-20
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nThis Summer\, the world's favor
+ ite Bad Boys are back with their iconic mix of edge-of-your seat action an
+ d outrageous comedy but this time with a twist: Miami's finest are now on 
+ the run.\n\nhttps://www.imdb.com/title/tt4919268/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Boys: Ride or Die
+DTSTART;TZID=Europe/London:20240612T190000
+DTEND;TZID=Europe/London:20240612T211500
+DTSTAMP:20240612T190100Z
+UID:ci0959521-tt4919268--2024-6-12-19-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nThis Summer\, the world's favor
+ ite Bad Boys are back with their iconic mix of edge-of-your seat action an
+ d outrageous comedy but this time with a twist: Miami's finest are now on 
+ the run.\n\nhttps://www.imdb.com/title/tt4919268/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Metal Jacket (1987)
+DTSTART;TZID=Europe/London:20240612T194500
+DTEND;TZID=Europe/London:20240612T221000
+DTSTAMP:20240612T194600Z
+UID:ci0959521-tt0093058--2024-6-12-19-45
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA pragmatic U.S. Marine observe
+ s the dehumanizing effects the Vietnam War has on his fellow recruits from
+  their brutal boot camp training to the bloody street fighting in Hue.\n\n
+ https://www.imdb.com/title/tt0093058/\n\nIMDb rating: 8.3
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High Society (1956)
+DTSTART;TZID=Europe/London:20240612T120000
+DTEND;TZID=Europe/London:20240612T142000
+DTSTAMP:20240612T120100Z
+UID:ci0959521-tt0049314--2024-6-12-12-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nWith socialite Tracy Lord about
+  to remarry\, her ex-husband - with the help of a sympathetic reporter - h
+ as 48 hours to convince her that she really still loves him.\n\nhttps://ww
+ w.imdb.com/title/tt0049314/\n\nIMDb rating: 6.9
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT

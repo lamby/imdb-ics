@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240527T074241Z
+LAST-MODIFIED:20240528T100229Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mars Express
-DTSTART;TZID=America/Los_Angeles:20240527T183000
-DTEND;TZID=America/Los_Angeles:20240527T202500
-DTSTAMP:20240528T022300Z
-UID:ci0005472-tt26915336--2024-5-27-18-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSet in the 23rd century on Mars\
- , the plot follows the investigation on a murder case carried out by the c
- ouple formed by private investigator Aline Ruby and her android companion 
- Carlos Rivera.\n\nhttps://www.imdb.com/title/tt26915336/\n\nIMDb rating: 7
- .5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magnolia (1999)
 DTSTART;TZID=America/Los_Angeles:20240528T190000
@@ -345,6 +331,20 @@ UID:ci0005472-tt28575316--2024-6-11-19-30
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA comical attempt to save a New 
  Jersey record store and confront a mid-life crisis.\n\nhttps://www.imdb.co
  m/title/tt28575316/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Break the Game
+DTSTART;TZID=America/Los_Angeles:20240612T193000
+DTEND;TZID=America/Los_Angeles:20240612T211000
+DTSTAMP:20240613T032300Z
+UID:ci0005472-tt8235170--2024-6-12-19-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nAfter coming out as trans\, worl
+ d-record-holding gamer\, Narcissa Wright loses her massive fanbase. To win
+  them back\, she sets out to break a new record in The Legend of Zelda: Br
+ eath of the Wild and live-stream every minute of her ...\n\nhttps://www.im
+ db.com/title/tt8235170/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
