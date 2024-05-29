@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240528T100229Z
+LAST-MODIFIED:20240529T072653Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Magnolia (1999)
-DTSTART;TZID=America/Los_Angeles:20240528T190000
-DTEND;TZID=America/Los_Angeles:20240528T223500
-DTSTAMP:20240529T025300Z
-UID:ci0005472-tt0175880--2024-5-28-19-0
-DESCRIPTION:Duration: 3h 08m (188 mins)\n\nAn epic mosaic of interrelated 
- characters in search of love\, forgiveness and meaning in the San Fernando
-  Valley.\n\nhttps://www.imdb.com/title/tt0175880/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mars Express
 DTSTART;TZID=America/Los_Angeles:20240529T203000
@@ -345,6 +333,19 @@ DESCRIPTION:Duration: 1h 13m (73 mins)\n\nAfter coming out as trans\, worl
   them back\, she sets out to break a new record in The Legend of Zelda: Br
  eath of the Wild and live-stream every minute of her ...\n\nhttps://www.im
  db.com/title/tt8235170/\n\nIMDb rating: 7.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Matrix (1999)
+DTSTART;TZID=America/Los_Angeles:20240613T191500
+DTEND;TZID=America/Los_Angeles:20240613T220000
+DTSTAMP:20240614T030800Z
+UID:ci0005472-tt0133093--2024-6-13-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nWhen a beautiful stranger leads
+  computer hacker Neo to a forbidding underworld\, he discovers the shockin
+ g truth--the life he knows is the elaborate deception of an evil cyber-int
+ elligence.\n\nhttps://www.imdb.com/title/tt0133093/\n\nIMDb rating: 8.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
