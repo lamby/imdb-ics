@@ -1,71 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240529T072903Z
+LAST-MODIFIED:20240530T081604Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Babes
-DTSTART;TZID=America/Los_Angeles:20240529T161500
-DTEND;TZID=America/Los_Angeles:20240529T182500
-DTSTAMP:20240530T000800Z
-UID:ci16639653-tt21276958--2024-5-29-16-15
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
- , one single and wanting a baby\, the other already a mother\, navigate ch
- allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babes
-DTSTART;TZID=America/Los_Angeles:20240529T191500
-DTEND;TZID=America/Los_Angeles:20240529T212500
-DTSTAMP:20240530T030800Z
-UID:ci16639653-tt21276958--2024-5-29-19-15
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
- , one single and wanting a baby\, the other already a mother\, navigate ch
- allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Saw the TV Glow
-DTSTART;TZID=America/Los_Angeles:20240529T164500
-DTEND;TZID=America/Los_Angeles:20240529T185000
-DTSTAMP:20240530T003800Z
-UID:ci16639653-tt15574270--2024-5-29-16-45
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
- ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Saw the TV Glow
-DTSTART;TZID=America/Los_Angeles:20240529T193000
-DTEND;TZID=America/Los_Angeles:20240529T213500
-DTSTAMP:20240530T032300Z
-UID:ci16639653-tt15574270--2024-5-29-19-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
- ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildcat
-DTSTART;TZID=America/Los_Angeles:20240529T160000
-DTEND;TZID=America/Los_Angeles:20240529T181000
-DTSTAMP:20240529T235300Z
-UID:ci16639653-tt26442871--2024-5-29-16-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nFollows the life of writer Flan
- nery O'Connor while she was struggling to publish her first novel.\n\nhttp
- s://www.imdb.com/title/tt26442871/\n\nIMDb rating: 6.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babes
 DTSTART;TZID=America/Los_Angeles:20240530T161500
@@ -75,7 +13,7 @@ UID:ci16639653-tt21276958--2024-5-30-16-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
  , one single and wanting a baby\, the other already a mother\, navigate ch
  allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.5
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -88,7 +26,7 @@ UID:ci16639653-tt21276958--2024-5-30-19-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
  , one single and wanting a baby\, the other already a mother\, navigate ch
  allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.5
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -141,11 +79,61 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
+SUMMARY:Babes
 DTSTART;TZID=America/Los_Angeles:20240531T163000
-DTEND;TZID=America/Los_Angeles:20240531T185500
+DTEND;TZID=America/Los_Angeles:20240531T184000
 DTSTAMP:20240601T002300Z
-UID:ci16639653-tt15275946--2024-5-31-16-30
+UID:ci16639653-tt21276958--2024-5-31-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240531T191500
+DTEND;TZID=America/Los_Angeles:20240531T212500
+DTSTAMP:20240601T030800Z
+UID:ci16639653-tt21276958--2024-5-31-19-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240531T164500
+DTEND;TZID=America/Los_Angeles:20240531T185000
+DTSTAMP:20240601T003800Z
+UID:ci16639653-tt15574270--2024-5-31-16-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240531T193000
+DTEND;TZID=America/Los_Angeles:20240531T213500
+DTSTAMP:20240601T032300Z
+UID:ci16639653-tt15574270--2024-5-31-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know Your Place (2022)
+DTSTART;TZID=America/Los_Angeles:20240531T161500
+DTEND;TZID=America/Los_Angeles:20240531T184000
+DTSTAMP:20240601T000800Z
+UID:ci16639653-tt15275946--2024-5-31-16-15
 DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
  forming city\, a young Eritrean-American boy confronts the realities of ch
  ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
@@ -163,6 +151,81 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
  forming city\, a young Eritrean-American boy confronts the realities of ch
  ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
  .3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240601T140000
+DTEND;TZID=America/Los_Angeles:20240601T161000
+DTSTAMP:20240601T215300Z
+UID:ci16639653-tt21276958--2024-6-1-14-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240601T163000
+DTEND;TZID=America/Los_Angeles:20240601T184000
+DTSTAMP:20240602T002300Z
+UID:ci16639653-tt21276958--2024-6-1-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240601T191500
+DTEND;TZID=America/Los_Angeles:20240601T212500
+DTSTAMP:20240602T030800Z
+UID:ci16639653-tt21276958--2024-6-1-19-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240601T141500
+DTEND;TZID=America/Los_Angeles:20240601T162000
+DTSTAMP:20240601T220800Z
+UID:ci16639653-tt15574270--2024-6-1-14-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240601T164500
+DTEND;TZID=America/Los_Angeles:20240601T185000
+DTSTAMP:20240602T003800Z
+UID:ci16639653-tt15574270--2024-6-1-16-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240601T193000
+DTEND;TZID=America/Los_Angeles:20240601T213500
+DTSTAMP:20240602T032300Z
+UID:ci16639653-tt15574270--2024-6-1-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -206,6 +269,69 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240602T140000
+DTEND;TZID=America/Los_Angeles:20240602T161000
+DTSTAMP:20240602T215300Z
+UID:ci16639653-tt21276958--2024-6-2-14-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240602T163000
+DTEND;TZID=America/Los_Angeles:20240602T184000
+DTSTAMP:20240603T002300Z
+UID:ci16639653-tt21276958--2024-6-2-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240602T191500
+DTEND;TZID=America/Los_Angeles:20240602T212500
+DTSTAMP:20240603T030800Z
+UID:ci16639653-tt21276958--2024-6-2-19-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240602T164500
+DTEND;TZID=America/Los_Angeles:20240602T185000
+DTSTAMP:20240603T003800Z
+UID:ci16639653-tt15574270--2024-6-2-16-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240602T193000
+DTEND;TZID=America/Los_Angeles:20240602T213500
+DTSTAMP:20240603T032300Z
+UID:ci16639653-tt15574270--2024-6-2-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Know Your Place (2022)
 DTSTART;TZID=America/Los_Angeles:20240602T133000
 DTEND;TZID=America/Los_Angeles:20240602T155500
@@ -215,6 +341,69 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
  forming city\, a young Eritrean-American boy confronts the realities of ch
  ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
  .3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know Your Place (2022)
+DTSTART;TZID=America/Los_Angeles:20240602T190000
+DTEND;TZID=America/Los_Angeles:20240602T212500
+DTSTAMP:20240603T025300Z
+UID:ci16639653-tt15275946--2024-6-2-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
+ forming city\, a young Eritrean-American boy confronts the realities of ch
+ ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
+ .3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240603T163000
+DTEND;TZID=America/Los_Angeles:20240603T184000
+DTSTAMP:20240604T002300Z
+UID:ci16639653-tt21276958--2024-6-3-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240603T191500
+DTEND;TZID=America/Los_Angeles:20240603T212500
+DTSTAMP:20240604T030800Z
+UID:ci16639653-tt21276958--2024-6-3-19-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240603T164500
+DTEND;TZID=America/Los_Angeles:20240603T185000
+DTSTAMP:20240604T003800Z
+UID:ci16639653-tt15574270--2024-6-3-16-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240603T193000
+DTEND;TZID=America/Los_Angeles:20240603T213500
+DTSTAMP:20240604T032300Z
+UID:ci16639653-tt15574270--2024-6-3-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -245,6 +434,56 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240604T163000
+DTEND;TZID=America/Los_Angeles:20240604T184000
+DTSTAMP:20240605T002300Z
+UID:ci16639653-tt21276958--2024-6-4-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240604T191500
+DTEND;TZID=America/Los_Angeles:20240604T212500
+DTSTAMP:20240605T030800Z
+UID:ci16639653-tt21276958--2024-6-4-19-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240604T164500
+DTEND;TZID=America/Los_Angeles:20240604T185000
+DTSTAMP:20240605T003800Z
+UID:ci16639653-tt15574270--2024-6-4-16-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240604T193000
+DTEND;TZID=America/Los_Angeles:20240604T213500
+DTSTAMP:20240605T032300Z
+UID:ci16639653-tt15574270--2024-6-4-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Know Your Place (2022)
 DTSTART;TZID=America/Los_Angeles:20240604T161500
 DTEND;TZID=America/Los_Angeles:20240604T184000
@@ -271,6 +510,19 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240605T163000
+DTEND;TZID=America/Los_Angeles:20240605T184000
+DTSTAMP:20240606T002300Z
+UID:ci16639653-tt21276958--2024-6-5-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:But I'm a Cheerleader (1999)
 DTSTART;TZID=America/Los_Angeles:20240605T180000
 DTEND;TZID=America/Los_Angeles:20240605T200000
@@ -279,6 +531,18 @@ UID:ci16639653-tt0179116--2024-6-5-18-0
 DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA naive teenager is sent to reha
  b camp when her straitlaced parents and friends suspect her of being a les
  bian.\n\nhttps://www.imdb.com/title/tt0179116/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240605T193000
+DTEND;TZID=America/Los_Angeles:20240605T213500
+DTSTAMP:20240606T032300Z
+UID:ci16639653-tt15574270--2024-6-5-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -309,6 +573,56 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240606T163000
+DTEND;TZID=America/Los_Angeles:20240606T184000
+DTSTAMP:20240607T002300Z
+UID:ci16639653-tt21276958--2024-6-6-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babes
+DTSTART;TZID=America/Los_Angeles:20240606T191500
+DTEND;TZID=America/Los_Angeles:20240606T212500
+DTSTAMP:20240607T030800Z
+UID:ci16639653-tt21276958--2024-6-6-19-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
+ , one single and wanting a baby\, the other already a mother\, navigate ch
+ allenges to their bond when Eden pursues pregnancy alone after a one-night
+  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240606T164500
+DTEND;TZID=America/Los_Angeles:20240606T185000
+DTSTAMP:20240607T003800Z
+UID:ci16639653-tt15574270--2024-6-6-16-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240606T193000
+DTEND;TZID=America/Los_Angeles:20240606T213500
+DTSTAMP:20240607T032300Z
+UID:ci16639653-tt15574270--2024-6-6-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Know Your Place (2022)
 DTSTART;TZID=America/Los_Angeles:20240606T161500
 DTEND;TZID=America/Los_Angeles:20240606T184000
@@ -331,6 +645,59 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
  forming city\, a young Eritrean-American boy confronts the realities of ch
  ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
  .3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oasis (2002)
+DTSTART;TZID=America/Los_Angeles:20240614T190000
+DTEND;TZID=America/Los_Angeles:20240614T214000
+DTSTAMP:20240615T025300Z
+UID:ci16639653-tt0320193--2024-6-14-19-0
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAn irresponsible and childish e
+ x-con befriends a girl with cerebral palsy and develops a progressively st
+ ronger bond with her.\n\nhttps://www.imdb.com/title/tt0320193/\n\nIMDb rat
+ ing: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peppermint Candy (1999)
+DTSTART;TZID=America/Los_Angeles:20240614T160000
+DTEND;TZID=America/Los_Angeles:20240614T183500
+DTSTAMP:20240614T235300Z
+UID:ci16639653-tt0247613--2024-6-14-16-0
+DESCRIPTION:Duration: 2h 09m (129 mins)\n\nFollowing a man's suicide\, tim
+ e traverses back to reveal six chapters of his life on why he committed su
+ icide.\n\nhttps://www.imdb.com/title/tt0247613/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo
+DTSTART;TZID=America/Los_Angeles:20240614T161500
+DTEND;TZID=America/Los_Angeles:20240614T182500
+DTSTAMP:20240615T000800Z
+UID:ci16639653-tt27715185--2024-6-14-16-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
+ ith the disappointment of two impossible loves: a passionate but destructi
+ ve crush on Oliver and a distant and cold relationship with his mother Cla
+ ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
+ db.com/title/tt27715185/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo
+DTSTART;TZID=America/Los_Angeles:20240614T193000
+DTEND;TZID=America/Los_Angeles:20240614T214000
+DTSTAMP:20240615T032300Z
+UID:ci16639653-tt27715185--2024-6-14-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
+ ith the disappointment of two impossible loves: a passionate but destructi
+ ve crush on Oliver and a distant and cold relationship with his mother Cla
+ ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
+ db.com/title/tt27715185/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
