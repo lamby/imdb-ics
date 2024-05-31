@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240530T081620Z
+LAST-MODIFIED:20240531T072944Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Evil Does Not Exist
-DTSTART;TZID=America/Los_Angeles:20240530T163000
-DTEND;TZID=America/Los_Angeles:20240530T184500
-DTSTAMP:20240531T002300Z
-UID:ci60177107-tt28490044--2024-5-30-16-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nTakumi and his daughter Hana li
- ve in Mizubiki Village\, close to Tokyo. One day\, the village inhabitants
-  become aware of a plan to build a camping site near Takumi's house\, offe
- ring residents a comfortable escape to nature.\n\nhttps://www.imdb.com/tit
- le/tt28490044/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evil Does Not Exist
-DTSTART;TZID=America/Los_Angeles:20240530T191500
-DTEND;TZID=America/Los_Angeles:20240530T213000
-DTSTAMP:20240531T030800Z
-UID:ci60177107-tt28490044--2024-5-30-19-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nTakumi and his daughter Hana li
- ve in Mizubiki Village\, close to Tokyo. One day\, the village inhabitants
-  become aware of a plan to build a camping site near Takumi's house\, offe
- ring residents a comfortable escape to nature.\n\nhttps://www.imdb.com/tit
- le/tt28490044/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evil Does Not Exist
 DTSTART;TZID=America/Los_Angeles:20240531T163000
@@ -410,6 +382,56 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSummertime. A cruising spot for
  el\, an attractive\, potent and lethally dangerous man. Franck knows this 
  but wants to live out his passion anyway.\n\nhttps://www.imdb.com/title/tt
  2852458/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basic Instinct (1992)
+DTSTART;TZID=America/Los_Angeles:20240615T194500
+DTEND;TZID=America/Los_Angeles:20240615T222000
+DTSTAMP:20240616T033800Z
+UID:ci60177107-tt0103772--2024-6-15-19-45
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nA violent police detective inve
+ stigates a brutal murder that might involve a manipulative and seductive n
+ ovelist.\n\nhttps://www.imdb.com/title/tt0103772/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cruel Intentions (1999)
+DTSTART;TZID=America/Los_Angeles:20240615T120000
+DTEND;TZID=America/Los_Angeles:20240615T140500
+DTSTAMP:20240615T195300Z
+UID:ci60177107-tt0139134--2024-6-15-12-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nTwo vicious step-siblings of an 
+ elite Manhattan prep school make a wager: to deflower the new headmaster's
+  daughter before the start of term.\n\nhttps://www.imdb.com/title/tt013913
+ 4/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatal Attraction (1987)
+DTSTART;TZID=America/Los_Angeles:20240615T170000
+DTEND;TZID=America/Los_Angeles:20240615T192500
+DTSTAMP:20240616T005300Z
+UID:ci60177107-tt0093010--2024-6-15-17-0
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA married man's one-night stand
+  comes back to haunt him when that lover begins to stalk him and his famil
+ y.\n\nhttps://www.imdb.com/title/tt0093010/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunger (1983)
+DTSTART;TZID=America/Los_Angeles:20240615T143000
+DTEND;TZID=America/Los_Angeles:20240615T163500
+DTSTAMP:20240615T222300Z
+UID:ci60177107-tt0085701--2024-6-15-14-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA love triangle develops between
+  a beautiful yet dangerous vampire (Catherine Deneuve)\, her cellist compa
+ nion (David Bowie)\, and a gerontologist (Susan Sarandon).\n\nhttps://www.
+ imdb.com/title/tt0085701/\n\nIMDb rating: 6.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
