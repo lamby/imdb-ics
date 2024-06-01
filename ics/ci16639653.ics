@@ -1,85 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240531T072925Z
+LAST-MODIFIED:20240601T081344Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Babes
-DTSTART;TZID=America/Los_Angeles:20240531T163000
-DTEND;TZID=America/Los_Angeles:20240531T184000
-DTSTAMP:20240601T002300Z
-UID:ci16639653-tt21276958--2024-5-31-16-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
- , one single and wanting a baby\, the other already a mother\, navigate ch
- allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babes
-DTSTART;TZID=America/Los_Angeles:20240531T191500
-DTEND;TZID=America/Los_Angeles:20240531T212500
-DTSTAMP:20240601T030800Z
-UID:ci16639653-tt21276958--2024-5-31-19-15
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
- , one single and wanting a baby\, the other already a mother\, navigate ch
- allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Saw the TV Glow
-DTSTART;TZID=America/Los_Angeles:20240531T164500
-DTEND;TZID=America/Los_Angeles:20240531T185000
-DTSTAMP:20240601T003800Z
-UID:ci16639653-tt15574270--2024-5-31-16-45
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
- ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Saw the TV Glow
-DTSTART;TZID=America/Los_Angeles:20240531T193000
-DTEND;TZID=America/Los_Angeles:20240531T213500
-DTSTAMP:20240601T032300Z
-UID:ci16639653-tt15574270--2024-5-31-19-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
- ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
-DTSTART;TZID=America/Los_Angeles:20240531T161500
-DTEND;TZID=America/Los_Angeles:20240531T184000
-DTSTAMP:20240601T000800Z
-UID:ci16639653-tt15275946--2024-5-31-16-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
- forming city\, a young Eritrean-American boy confronts the realities of ch
- ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
-DTSTART;TZID=America/Los_Angeles:20240531T190000
-DTEND;TZID=America/Los_Angeles:20240531T212500
-DTSTAMP:20240601T025300Z
-UID:ci16639653-tt15275946--2024-5-31-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
- forming city\, a young Eritrean-American boy confronts the realities of ch
- ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babes
 DTSTART;TZID=America/Los_Angeles:20240601T140000
@@ -127,7 +51,7 @@ DTSTAMP:20240601T220800Z
 UID:ci16639653-tt15574270--2024-6-1-14-15
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -139,7 +63,7 @@ DTSTAMP:20240602T003800Z
 UID:ci16639653-tt15574270--2024-6-1-16-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -151,7 +75,7 @@ DTSTAMP:20240602T032300Z
 UID:ci16639653-tt15574270--2024-6-1-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -241,7 +165,7 @@ DTSTAMP:20240603T003800Z
 UID:ci16639653-tt15574270--2024-6-2-16-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -253,7 +177,7 @@ DTSTAMP:20240603T032300Z
 UID:ci16639653-tt15574270--2024-6-2-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -317,7 +241,7 @@ DTSTAMP:20240604T003800Z
 UID:ci16639653-tt15574270--2024-6-3-16-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -329,7 +253,7 @@ DTSTAMP:20240604T032300Z
 UID:ci16639653-tt15574270--2024-6-3-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -393,7 +317,7 @@ DTSTAMP:20240605T003800Z
 UID:ci16639653-tt15574270--2024-6-4-16-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -405,7 +329,7 @@ DTSTAMP:20240605T032300Z
 UID:ci16639653-tt15574270--2024-6-4-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -468,7 +392,7 @@ DTSTAMP:20240606T032300Z
 UID:ci16639653-tt15574270--2024-6-5-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -532,7 +456,7 @@ DTSTAMP:20240607T003800Z
 UID:ci16639653-tt15574270--2024-6-6-16-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -544,7 +468,7 @@ DTSTAMP:20240607T032300Z
 UID:ci16639653-tt15574270--2024-6-6-19-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
  ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.9
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -698,6 +622,86 @@ DTSTART;TZID=America/Los_Angeles:20240615T193000
 DTEND;TZID=America/Los_Angeles:20240615T214000
 DTSTAMP:20240616T032300Z
 UID:ci16639653-tt27715185--2024-6-15-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
+ ith the disappointment of two impossible loves: a passionate but destructi
+ ve crush on Oliver and a distant and cold relationship with his mother Cla
+ ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
+ db.com/title/tt27715185/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Fish (1997)
+DTSTART;TZID=America/Los_Angeles:20240616T190000
+DTEND;TZID=America/Los_Angeles:20240616T212000
+DTSTAMP:20240617T025300Z
+UID:ci16639653-tt0126838--2024-6-16-19-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nReturning home and finding his 
+ town drastically changed\, a former soldier falls in with gangsters.\n\nht
+ tps://www.imdb.com/title/tt0126838/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oasis (2002)
+DTSTART;TZID=America/Los_Angeles:20240616T130000
+DTEND;TZID=America/Los_Angeles:20240616T154000
+DTSTAMP:20240616T205300Z
+UID:ci16639653-tt0320193--2024-6-16-13-0
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAn irresponsible and childish e
+ x-con befriends a girl with cerebral palsy and develops a progressively st
+ ronger bond with her.\n\nhttps://www.imdb.com/title/tt0320193/\n\nIMDb rat
+ ing: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry (2010)
+DTSTART;TZID=America/Los_Angeles:20240616T160000
+DTEND;TZID=America/Los_Angeles:20240616T184500
+DTSTAMP:20240616T235300Z
+UID:ci16639653-tt1287878--2024-6-16-16-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA sixty-something woman\, faced
+  with the discovery of a heinous family crime and in the early stages of A
+ lzheimer's disease\, finds strength and purpose when she enrolls in a poet
+ ry class.\n\nhttps://www.imdb.com/title/tt1287878/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo
+DTSTART;TZID=America/Los_Angeles:20240616T131500
+DTEND;TZID=America/Los_Angeles:20240616T152500
+DTSTAMP:20240616T210800Z
+UID:ci16639653-tt27715185--2024-6-16-13-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
+ ith the disappointment of two impossible loves: a passionate but destructi
+ ve crush on Oliver and a distant and cold relationship with his mother Cla
+ ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
+ db.com/title/tt27715185/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo
+DTSTART;TZID=America/Los_Angeles:20240616T161500
+DTEND;TZID=America/Los_Angeles:20240616T182500
+DTSTAMP:20240617T000800Z
+UID:ci16639653-tt27715185--2024-6-16-16-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
+ ith the disappointment of two impossible loves: a passionate but destructi
+ ve crush on Oliver and a distant and cold relationship with his mother Cla
+ ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
+ db.com/title/tt27715185/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo
+DTSTART;TZID=America/Los_Angeles:20240616T193000
+DTEND;TZID=America/Los_Angeles:20240616T214000
+DTSTAMP:20240617T032300Z
+UID:ci16639653-tt27715185--2024-6-16-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
  ith the disappointment of two impossible loves: a passionate but destructi
  ve crush on Oliver and a distant and cold relationship with his mother Cla

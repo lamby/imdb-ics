@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240531T073014Z
+LAST-MODIFIED:20240601T081443Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Guy Friends
-DTSTART;TZID=America/Los_Angeles:20240531T190000
-DTEND;TZID=America/Los_Angeles:20240531T205000
-DTSTAMP:20240601T025300Z
-UID:ci16639652-tt14712274--2024-5-31-19-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nWhen Jaime\, a self-described &q
- uot\;guy's girl\,&quot\; and her boyfriend break up\, all of her guy frien
- ds simultaneously profess their secret\, undying love for her.\n\nhttps://
- www.imdb.com/title/tt14712274/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:John Singer Sargent: Fashion and Swagger
 DTSTART;TZID=America/Los_Angeles:20240601T130000
@@ -169,6 +156,32 @@ DTSTART;TZID=America/Los_Angeles:20240615T190000
 DTEND;TZID=America/Los_Angeles:20240615T211000
 DTSTAMP:20240616T025300Z
 UID:ci16639652-tt28490873--2024-6-15-19-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nRyuichi Sakamoto's last perform
+ ance\, a concert film featuring just him and his piano playing for the las
+ t time before passing away.\n\nhttps://www.imdb.com/title/tt28490873/\n\nI
+ MDb rating: 8.1
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryuichi Sakamoto: Opus
+DTSTART;TZID=America/Los_Angeles:20240616T163000
+DTEND;TZID=America/Los_Angeles:20240616T184000
+DTSTAMP:20240617T002300Z
+UID:ci16639652-tt28490873--2024-6-16-16-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nRyuichi Sakamoto's last perform
+ ance\, a concert film featuring just him and his piano playing for the las
+ t time before passing away.\n\nhttps://www.imdb.com/title/tt28490873/\n\nI
+ MDb rating: 8.1
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryuichi Sakamoto: Opus
+DTSTART;TZID=America/Los_Angeles:20240616T190000
+DTEND;TZID=America/Los_Angeles:20240616T211000
+DTSTAMP:20240617T025300Z
+UID:ci16639652-tt28490873--2024-6-16-19-0
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nRyuichi Sakamoto's last perform
  ance\, a concert film featuring just him and his piano playing for the las
  t time before passing away.\n\nhttps://www.imdb.com/title/tt28490873/\n\nI
