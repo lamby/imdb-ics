@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240603T080602Z
+LAST-MODIFIED:20240604T061643Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Spider-Man: No Way Home (2021)
-DTSTART;TZID=America/Los_Angeles:20240603T183000
-DTEND;TZID=America/Los_Angeles:20240603T212500
-DTSTAMP:20240604T022300Z
-UID:ci0014968-tt10872600--2024-6-3-18-30
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nWith Spider-Man's identity now 
- revealed\, Peter asks Doctor Strange for help. When a spell goes wrong\, d
- angerous foes from other worlds start to appear\, forcing Peter to discove
- r what it truly means to be Spider-Man.\n\nhttps://www.imdb.com/title/tt10
- 872600/\n\nIMDb rating: 8.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inside Out 2 (IMAX)
 DTSTART;TZID=America/Los_Angeles:20240613T150000
@@ -252,6 +238,42 @@ DTSTART;TZID=America/Los_Angeles:20240618T210000
 DTEND;TZID=America/Los_Angeles:20240618T230500
 DTSTAMP:20240619T045300Z
 UID:ci0014968-tt22022452-imax-2024-6-18-21-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nFollow Riley\, in her teenage y
+ ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
+ /
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2 (IMAX)
+DTSTART;TZID=America/Los_Angeles:20240619T150000
+DTEND;TZID=America/Los_Angeles:20240619T170500
+DTSTAMP:20240619T225300Z
+UID:ci0014968-tt22022452-imax-2024-6-19-15-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nFollow Riley\, in her teenage y
+ ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
+ /
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2 (IMAX)
+DTSTART;TZID=America/Los_Angeles:20240619T180000
+DTEND;TZID=America/Los_Angeles:20240619T200500
+DTSTAMP:20240620T015300Z
+UID:ci0014968-tt22022452-imax-2024-6-19-18-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nFollow Riley\, in her teenage y
+ ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
+ /
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2 (IMAX)
+DTSTART;TZID=America/Los_Angeles:20240619T210000
+DTEND;TZID=America/Los_Angeles:20240619T230500
+DTSTAMP:20240620T045300Z
+UID:ci0014968-tt22022452-imax-2024-6-19-21-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nFollow Riley\, in her teenage y
  ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
  /

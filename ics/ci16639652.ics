@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240603T080726Z
+LAST-MODIFIED:20240604T061808Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:John Singer Sargent: Fashion and Swagger
-DTSTART;TZID=America/Los_Angeles:20240603T190000
-DTEND;TZID=America/Los_Angeles:20240603T205500
-DTSTAMP:20240604T025300Z
-UID:ci16639652-tt30498392--2024-6-3-19-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFilm explores John Singer Sargen
- t's mastery in portraying subjects' identities through clothing in 50 pain
- tings and wardrobes\, comparing public identity portrayal then and now\, e
- xamining his influence on art\, culture\, and fashion.\n\nhttps://www.imdb
- .com/title/tt30498392/\n\nIMDb rating: 7.9
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guy Friends
-DTSTART;TZID=America/Los_Angeles:20240603T160000
-DTEND;TZID=America/Los_Angeles:20240603T175000
-DTSTAMP:20240603T235300Z
-UID:ci16639652-tt14712274--2024-6-3-16-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nWhen Jaime\, a self-described &q
- uot\;guy's girl\,&quot\; and her boyfriend break up\, all of her guy frien
- ds simultaneously profess their secret\, undying love for her.\n\nhttps://
- www.imdb.com/title/tt14712274/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guy Friends
 DTSTART;TZID=America/Los_Angeles:20240604T190000

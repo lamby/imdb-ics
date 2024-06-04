@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240603T080742Z
+LAST-MODIFIED:20240604T061821Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=America/Los_Angeles:20240603T154500
-DTEND;TZID=America/Los_Angeles:20240603T184000
-DTSTAMP:20240603T233800Z
-UID:ci5397678-tt12037194--2024-6-3-15-45
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=America/Los_Angeles:20240603T193000
-DTEND;TZID=America/Los_Angeles:20240603T222500
-DTSTAMP:20240604T032300Z
-UID:ci5397678-tt12037194--2024-6-3-19-30
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nThe origin story of renegade wa
- rrior Furiosa before her encounter and teamup with Mad Max.\n\nhttps://www
- .imdb.com/title/tt12037194/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Furiosa: A Mad Max Saga
 DTSTART;TZID=America/Los_Angeles:20240604T154500
