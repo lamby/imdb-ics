@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240605T083813Z
+LAST-MODIFIED:20240606T063331Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Funeral Parade of Roses (1969)
-DTSTART;TZID=America/Los_Angeles:20240605T191500
-DTEND;TZID=America/Los_Angeles:20240605T212500
-DTSTAMP:20240606T030800Z
-UID:ci0005472-tt0064068--2024-6-5-19-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe trials and tribulations of 
- Eddie and other transvestites in Japan.\n\nhttps://www.imdb.com/title/tt00
- 64068/\n\nIMDb rating: 7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Day (1996)
 DTSTART;TZID=America/Los_Angeles:20240606T193000
@@ -328,6 +316,19 @@ DESCRIPTION:Duration: 2h 16m (136 mins)\n\nWhen a beautiful stranger leads
   computer hacker Neo to a forbidding underworld\, he discovers the shockin
  g truth--the life he knows is the elaborate deception of an evil cyber-int
  elligence.\n\nhttps://www.imdb.com/title/tt0133093/\n\nIMDb rating: 8.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Used to Be Funny
+DTSTART;TZID=America/Los_Angeles:20240621T190000
+DTEND;TZID=America/Los_Angeles:20240621T211000
+DTSTAMP:20240622T025300Z
+UID:ci0005472-tt16300138--2024-6-21-19-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
+ gling with PTSD\, weighs whether or not to join the search for a missing t
+ eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
+ \nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
