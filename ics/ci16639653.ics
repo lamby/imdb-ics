@@ -1,85 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240606T063545Z
+LAST-MODIFIED:20240607T082145Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Babes
-DTSTART;TZID=America/Los_Angeles:20240606T163000
-DTEND;TZID=America/Los_Angeles:20240606T184000
-DTSTAMP:20240607T002300Z
-UID:ci16639653-tt21276958--2024-6-6-16-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
- , one single and wanting a baby\, the other already a mother\, navigate ch
- allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babes
-DTSTART;TZID=America/Los_Angeles:20240606T191500
-DTEND;TZID=America/Los_Angeles:20240606T212500
-DTSTAMP:20240607T030800Z
-UID:ci16639653-tt21276958--2024-6-6-19-15
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLifelong friends Eden and Dawn\
- , one single and wanting a baby\, the other already a mother\, navigate ch
- allenges to their bond when Eden pursues pregnancy alone after a one-night
-  stand.\n\nhttps://www.imdb.com/title/tt21276958/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Saw the TV Glow
-DTSTART;TZID=America/Los_Angeles:20240606T164500
-DTEND;TZID=America/Los_Angeles:20240606T185000
-DTSTAMP:20240607T003800Z
-UID:ci16639653-tt15574270--2024-6-6-16-45
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
- ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Saw the TV Glow
-DTSTART;TZID=America/Los_Angeles:20240606T193000
-DTEND;TZID=America/Los_Angeles:20240606T213500
-DTSTAMP:20240607T032300Z
-UID:ci16639653-tt15574270--2024-6-6-19-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
- ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
- ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
-DTSTART;TZID=America/Los_Angeles:20240606T161500
-DTEND;TZID=America/Los_Angeles:20240606T184000
-DTSTAMP:20240607T000800Z
-UID:ci16639653-tt15275946--2024-6-6-16-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
- forming city\, a young Eritrean-American boy confronts the realities of ch
- ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
-DTSTART;TZID=America/Los_Angeles:20240606T190000
-DTEND;TZID=America/Los_Angeles:20240606T212500
-DTSTAMP:20240607T025300Z
-UID:ci16639653-tt15275946--2024-6-6-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
- forming city\, a young Eritrean-American boy confronts the realities of ch
- ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oasis (2002)
 DTSTART;TZID=America/Los_Angeles:20240614T190000
@@ -472,7 +396,7 @@ UID:ci16639653-tt30321095--2024-6-20-19-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.2
+ 0321095/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -512,7 +436,7 @@ UID:ci16639653-tt30321095--2024-6-21-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.2
+ 0321095/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -525,7 +449,46 @@ UID:ci16639653-tt30321095--2024-6-21-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.2
+ 0321095/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostlight
+DTSTART;TZID=America/Los_Angeles:20240622T134500
+DTEND;TZID=America/Los_Angeles:20240622T160000
+DTSTAMP:20240622T213800Z
+UID:ci16639653-tt30321095--2024-6-22-13-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
+ pectedly joins a local theater's production of Romeo and Juliet\, the dram
+ a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
+ 0321095/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostlight
+DTSTART;TZID=America/Los_Angeles:20240622T163000
+DTEND;TZID=America/Los_Angeles:20240622T184500
+DTSTAMP:20240623T002300Z
+UID:ci16639653-tt30321095--2024-6-22-16-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
+ pectedly joins a local theater's production of Romeo and Juliet\, the dram
+ a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
+ 0321095/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostlight
+DTSTART;TZID=America/Los_Angeles:20240622T191500
+DTEND;TZID=America/Los_Angeles:20240622T213000
+DTSTAMP:20240623T030800Z
+UID:ci16639653-tt30321095--2024-6-22-19-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
+ pectedly joins a local theater's production of Romeo and Juliet\, the dram
+ a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
+ 0321095/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
