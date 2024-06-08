@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240607T082205Z
+LAST-MODIFIED:20240608T083230Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Purple Rain (1984)
-DTSTART;TZID=America/Los_Angeles:20240607T190000
-DTEND;TZID=America/Los_Angeles:20240607T212000
-DTSTAMP:20240608T025300Z
-UID:ci60177107-tt0087957--2024-6-7-19-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA young musician\, tormented by
-  an abusive situation at home\, must contend with a rival singer\, a burge
- oning romance\, and his own dissatisfied band\, as his star begins to rise
- .\n\nhttps://www.imdb.com/title/tt0087957/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Body Double (1984)
 DTSTART;TZID=America/Los_Angeles:20240609T193000
@@ -339,6 +326,58 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA police officer goes undercove
  r in the underground S&amp\;M gay subculture of New York City to catch a s
  erial killer who is preying on gay men.\n\nhttps://www.imdb.com/title/tt00
  80569/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Heat (1981)
+DTSTART;TZID=America/Los_Angeles:20240623T163000
+DTEND;TZID=America/Los_Angeles:20240623T185000
+DTSTAMP:20240624T002300Z
+UID:ci60177107-tt0082089--2024-6-23-16-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nDuring an extreme heatwave\, a 
+ beautiful Florida woman and a seedy lawyer engage in an affair while plott
+ ing the murder of her rich husband.\n\nhttps://www.imdb.com/title/tt008208
+ 9/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cruel Intentions (1999)
+DTSTART;TZID=America/Los_Angeles:20240623T141500
+DTEND;TZID=America/Los_Angeles:20240623T162000
+DTSTAMP:20240623T220800Z
+UID:ci60177107-tt0139134--2024-6-23-14-15
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nTwo vicious step-siblings of an 
+ elite Manhattan prep school make a wager: to deflower the new headmaster's
+  daughter before the start of term.\n\nhttps://www.imdb.com/title/tt013913
+ 4/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neptune Frost (2021)
+DTSTART;TZID=America/Los_Angeles:20240623T190000
+DTEND;TZID=America/Los_Angeles:20240623T211000
+DTSTAMP:20240624T025300Z
+UID:ci60177107-tt11873472--2024-6-23-19-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAn intersex African hacker\, a 
+ coltan miner and the virtual marvel born as a result of their union.\n\nht
+ tps://www.imdb.com/title/tt11873472/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stranger by the Lake (2013)
+DTSTART;TZID=America/Los_Angeles:20240623T120000
+DTEND;TZID=America/Los_Angeles:20240623T140500
+DTSTAMP:20240623T195300Z
+UID:ci60177107-tt2852458--2024-6-23-12-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSummertime. A cruising spot for
+  men\, tucked away on the shores of a lake. Franck falls in love with Mich
+ el\, an attractive\, potent and lethally dangerous man. Franck knows this 
+ but wants to live out his passion anyway.\n\nhttps://www.imdb.com/title/tt
+ 2852458/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

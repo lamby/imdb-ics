@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240607T082145Z
+LAST-MODIFIED:20240608T083211Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
 BEGIN:VEVENT
@@ -396,7 +396,7 @@ UID:ci16639653-tt30321095--2024-6-20-19-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -436,7 +436,7 @@ UID:ci16639653-tt30321095--2024-6-21-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -449,7 +449,7 @@ UID:ci16639653-tt30321095--2024-6-21-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -462,7 +462,7 @@ UID:ci16639653-tt30321095--2024-6-22-13-45
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -475,7 +475,7 @@ UID:ci16639653-tt30321095--2024-6-22-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -488,7 +488,33 @@ UID:ci16639653-tt30321095--2024-6-22-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostlight
+DTSTART;TZID=America/Los_Angeles:20240623T163000
+DTEND;TZID=America/Los_Angeles:20240623T184500
+DTSTAMP:20240624T002300Z
+UID:ci16639653-tt30321095--2024-6-23-16-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
+ pectedly joins a local theater's production of Romeo and Juliet\, the dram
+ a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
+ 0321095/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostlight
+DTSTART;TZID=America/Los_Angeles:20240623T191500
+DTEND;TZID=America/Los_Angeles:20240623T213000
+DTSTAMP:20240624T030800Z
+UID:ci16639653-tt30321095--2024-6-23-19-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
+ pectedly joins a local theater's production of Romeo and Juliet\, the dram
+ a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
