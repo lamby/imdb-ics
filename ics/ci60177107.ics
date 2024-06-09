@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240608T083230Z
+LAST-MODIFIED:20240609T084808Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -378,6 +378,32 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSummertime. A cruising spot for
  el\, an attractive\, potent and lethally dangerous man. Franck knows this 
  but wants to live out his passion anyway.\n\nhttps://www.imdb.com/title/tt
  2852458/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crash (1996)
+DTSTART;TZID=America/Los_Angeles:20240624T170000
+DTEND;TZID=America/Los_Angeles:20240624T190500
+DTSTAMP:20240625T005300Z
+UID:ci60177107-tt0115964--2024-6-24-17-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter getting into a serious ca
+ r accident\, a TV director discovers an underground sub-culture of scarred
+ \, omnisexual car-crash victims who use car accidents and the raw sexual e
+ nergy they produce to try to rejuvenate his sex life ...\n\nhttps://www.im
+ db.com/title/tt0115964/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatal Attraction (1987)
+DTSTART;TZID=America/Los_Angeles:20240624T193000
+DTEND;TZID=America/Los_Angeles:20240624T215500
+DTSTAMP:20240625T032300Z
+UID:ci60177107-tt0093010--2024-6-24-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA married man's one-night stand
+  comes back to haunt him when that lover begins to stalk him and his famil
+ y.\n\nhttps://www.imdb.com/title/tt0093010/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
