@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240612T083352Z
+LAST-MODIFIED:20240613T081556Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Body Double (1984)
-DTSTART;TZID=America/Los_Angeles:20240612T170000
-DTEND;TZID=America/Los_Angeles:20240612T192000
-DTSTAMP:20240613T005300Z
-UID:ci60177107-tt0086984--2024-6-12-17-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA young actor's obsession with 
- spying on a beautiful woman who lives nearby leads to a baffling series of
-  events with drastic consequences.\n\nhttps://www.imdb.com/title/tt0086984
- /\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Crying Game (1992)
-DTSTART;TZID=America/Los_Angeles:20240612T193000
-DTEND;TZID=America/Los_Angeles:20240612T215000
-DTSTAMP:20240613T032300Z
-UID:ci60177107-tt0104036--2024-6-12-19-30
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA British soldier kidnapped by 
- the IRA soon befriends one of his captors\, who then becomes drawn into th
- e soldier's world.\n\nhttps://www.imdb.com/title/tt0104036/\n\nIMDb rating
- : 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bound (1996)
 DTSTART;TZID=America/Los_Angeles:20240613T170000
