@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240613T081556Z
+LAST-MODIFIED:20240614T080242Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bound (1996)
-DTSTART;TZID=America/Los_Angeles:20240613T170000
-DTEND;TZID=America/Los_Angeles:20240613T191500
-DTSTAMP:20240614T005300Z
-UID:ci60177107-tt0115736--2024-6-13-17-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nTough ex-con Corky and her love
- r Violet concoct a scheme to steal millions of stashed mob money and pin t
- he blame on Violet's crooked boyfriend Caesar.\n\nhttps://www.imdb.com/tit
- le/tt0115736/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stranger by the Lake (2013)
-DTSTART;TZID=America/Los_Angeles:20240613T193000
-DTEND;TZID=America/Los_Angeles:20240613T213500
-DTSTAMP:20240614T032300Z
-UID:ci60177107-tt2852458--2024-6-13-19-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSummertime. A cruising spot for
-  men\, tucked away on the shores of a lake. Franck falls in love with Mich
- el\, an attractive\, potent and lethally dangerous man. Franck knows this 
- but wants to live out his passion anyway.\n\nhttps://www.imdb.com/title/tt
- 2852458/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Body Heat (1981)
 DTSTART;TZID=America/Los_Angeles:20240614T193000
