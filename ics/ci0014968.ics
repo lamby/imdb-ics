@@ -1,57 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240616T094558Z
+LAST-MODIFIED:20240617T075535Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-BEGIN:VEVENT
-SUMMARY:Inside Out 2 (IMAX)
-DTSTART;TZID=America/Los_Angeles:20240616T120000
-DTEND;TZID=America/Los_Angeles:20240616T140500
-DTSTAMP:20240616T195300Z
-UID:ci0014968-tt22022452-imax-2024-6-16-12-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nFollows Riley\, in her teenage y
- ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
- /\n\nIMDb rating: 8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2 (IMAX)
-DTSTART;TZID=America/Los_Angeles:20240616T150000
-DTEND;TZID=America/Los_Angeles:20240616T170500
-DTSTAMP:20240616T225300Z
-UID:ci0014968-tt22022452-imax-2024-6-16-15-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nFollows Riley\, in her teenage y
- ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
- /\n\nIMDb rating: 8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2 (IMAX)
-DTSTART;TZID=America/Los_Angeles:20240616T180000
-DTEND;TZID=America/Los_Angeles:20240616T200500
-DTSTAMP:20240617T015300Z
-UID:ci0014968-tt22022452-imax-2024-6-16-18-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nFollows Riley\, in her teenage y
- ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
- /\n\nIMDb rating: 8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2 (IMAX)
-DTSTART;TZID=America/Los_Angeles:20240616T210000
-DTEND;TZID=America/Los_Angeles:20240616T230500
-DTSTAMP:20240617T045300Z
-UID:ci0014968-tt22022452-imax-2024-6-16-21-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nFollows Riley\, in her teenage y
- ears\, encountering new emotions.\n\nhttps://www.imdb.com/title/tt22022452
- /\n\nIMDb rating: 8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inside Out 2 (IMAX)
 DTSTART;TZID=America/Los_Angeles:20240617T150000
@@ -679,6 +631,39 @@ DTSTART;TZID=America/Los_Angeles:20240701T214500
 DTEND;TZID=America/Los_Angeles:20240701T235000
 DTSTAMP:20240702T053800Z
 UID:ci0014968-tt13433802--2024-7-1-21-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nPlot under wraps.\n\nhttps://ww
+ w.imdb.com/title/tt13433802/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=America/Los_Angeles:20240702T151500
+DTEND;TZID=America/Los_Angeles:20240702T172000
+DTSTAMP:20240702T230800Z
+UID:ci0014968-tt13433802--2024-7-2-15-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nPlot under wraps.\n\nhttps://ww
+ w.imdb.com/title/tt13433802/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=America/Los_Angeles:20240702T183000
+DTEND;TZID=America/Los_Angeles:20240702T203500
+DTSTAMP:20240703T022300Z
+UID:ci0014968-tt13433802--2024-7-2-18-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nPlot under wraps.\n\nhttps://ww
+ w.imdb.com/title/tt13433802/
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=America/Los_Angeles:20240702T214500
+DTEND;TZID=America/Los_Angeles:20240702T235000
+DTSTAMP:20240703T053800Z
+UID:ci0014968-tt13433802--2024-7-2-21-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nPlot under wraps.\n\nhttps://ww
  w.imdb.com/title/tt13433802/
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 

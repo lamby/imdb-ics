@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240616T094703Z
+LAST-MODIFIED:20240617T075628Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Basic Instinct (1992)
-DTSTART;TZID=America/Los_Angeles:20240616T130000
-DTEND;TZID=America/Los_Angeles:20240616T153500
-DTSTAMP:20240616T205300Z
-UID:ci60177107-tt0103772--2024-6-16-13-0
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nA violent police detective inve
- stigates a brutal murder that might involve a manipulative and seductive n
- ovelist.\n\nhttps://www.imdb.com/title/tt0103772/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fatal Attraction (1987)
 DTSTART;TZID=America/Los_Angeles:20240617T193000
