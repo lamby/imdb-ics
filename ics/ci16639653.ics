@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240617T075609Z
+LAST-MODIFIED:20240618T163736Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Green Fish (1997)
-DTSTART;TZID=America/Los_Angeles:20240617T160000
-DTEND;TZID=America/Los_Angeles:20240617T182000
-DTSTAMP:20240617T235300Z
-UID:ci16639653-tt0126838--2024-6-17-16-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nReturning home and finding his 
- town drastically changed\, a former soldier falls in with gangsters.\n\nht
- tps://www.imdb.com/title/tt0126838/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poetry (2010)
-DTSTART;TZID=America/Los_Angeles:20240617T190000
-DTEND;TZID=America/Los_Angeles:20240617T214500
-DTSTAMP:20240618T025300Z
-UID:ci16639653-tt1287878--2024-6-17-19-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA sixty-something woman\, faced
-  with the discovery of a heinous family crime and in the early stages of A
- lzheimer's disease\, finds strength and purpose when she enrolls in a poet
- ry class.\n\nhttps://www.imdb.com/title/tt1287878/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo
-DTSTART;TZID=America/Los_Angeles:20240617T161500
-DTEND;TZID=America/Los_Angeles:20240617T182500
-DTSTAMP:20240618T000800Z
-UID:ci16639653-tt27715185--2024-6-17-16-15
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
- ith the disappointment of two impossible loves: a passionate but destructi
- ve crush on Oliver and a distant and cold relationship with his mother Cla
- ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
- db.com/title/tt27715185/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo
-DTSTART;TZID=America/Los_Angeles:20240617T193000
-DTEND;TZID=America/Los_Angeles:20240617T214000
-DTSTAMP:20240618T032300Z
-UID:ci16639653-tt27715185--2024-6-17-19-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
- ith the disappointment of two impossible loves: a passionate but destructi
- ve crush on Oliver and a distant and cold relationship with his mother Cla
- ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
- db.com/title/tt27715185/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Green Fish (1997)
 DTSTART;TZID=America/Los_Angeles:20240618T190000
@@ -184,7 +131,7 @@ UID:ci16639653-tt30321095--2024-6-20-19-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -224,7 +171,7 @@ UID:ci16639653-tt30321095--2024-6-21-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -237,7 +184,7 @@ UID:ci16639653-tt30321095--2024-6-21-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -250,7 +197,7 @@ UID:ci16639653-tt30321095--2024-6-22-13-45
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -263,7 +210,7 @@ UID:ci16639653-tt30321095--2024-6-22-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -276,7 +223,7 @@ UID:ci16639653-tt30321095--2024-6-22-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -289,7 +236,7 @@ UID:ci16639653-tt30321095--2024-6-23-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -302,7 +249,7 @@ UID:ci16639653-tt30321095--2024-6-23-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -315,7 +262,7 @@ UID:ci16639653-tt30321095--2024-6-24-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -328,7 +275,7 @@ UID:ci16639653-tt30321095--2024-6-24-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -341,7 +288,7 @@ UID:ci16639653-tt30321095--2024-6-25-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -354,7 +301,7 @@ UID:ci16639653-tt30321095--2024-6-26-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -367,7 +314,7 @@ UID:ci16639653-tt30321095--2024-6-26-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -380,7 +327,7 @@ UID:ci16639653-tt30321095--2024-6-27-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -393,7 +340,7 @@ UID:ci16639653-tt30321095--2024-6-27-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8.1
+ 0321095/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240617T075628Z
+LAST-MODIFIED:20240618T163752Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fatal Attraction (1987)
-DTSTART;TZID=America/Los_Angeles:20240617T193000
-DTEND;TZID=America/Los_Angeles:20240617T215500
-DTSTAMP:20240618T032300Z
-UID:ci60177107-tt0093010--2024-6-17-19-30
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA married man's one-night stand
-  comes back to haunt him when that lover begins to stalk him and his famil
- y.\n\nhttps://www.imdb.com/title/tt0093010/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger (1983)
-DTSTART;TZID=America/Los_Angeles:20240617T171500
-DTEND;TZID=America/Los_Angeles:20240617T192000
-DTSTAMP:20240618T010800Z
-UID:ci60177107-tt0085701--2024-6-17-17-15
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA love triangle develops between
-  a beautiful yet dangerous vampire (Catherine Deneuve)\, her cellist compa
- nion (David Bowie)\, and a gerontologist (Susan Sarandon).\n\nhttps://www.
- imdb.com/title/tt0085701/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cruel Intentions (1999)
 DTSTART;TZID=America/Los_Angeles:20240618T194500
