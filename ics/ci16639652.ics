@@ -1,7 +1,111 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240618T170059Z
+LAST-MODIFIED:20240619T140859Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
+BEGIN:VEVENT
+SUMMARY:To Wong Foo\, Thanks for Everything! Julie Newmar (1995)
+DTSTART;TZID=America/Los_Angeles:20240628T193000
+DTEND;TZID=America/Los_Angeles:20240628T214500
+DTSTAMP:20240629T032300Z
+UID:ci16639652-tt0114682--2024-6-28-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nThree drag queens travel cross-
+ country until their car breaks down\, leaving them stranded in a small tow
+ n.\n\nhttps://www.imdb.com/title/tt0114682/\n\nIMDb rating: 6.7
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D.E.B.S. (2003)
+DTSTART;TZID=America/Los_Angeles:20240629T190000
+DTEND;TZID=America/Los_Angeles:20240629T194000
+DTSTAMP:20240630T025300Z
+UID:ci16639652-tt0337953--2024-6-29-19-0
+DESCRIPTION:Duration: 0h 11m (11 mins)\n\nA quartet of girls from a prep h
+ igh school are recruited by a secret paramilitary academy to conduct cloak
+ -and-dagger missions.\n\nhttps://www.imdb.com/title/tt0337953/\n\nIMDb rat
+ ing: 6.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love\, Simon (2018)
+DTSTART;TZID=America/Los_Angeles:20240629T163000
+DTEND;TZID=America/Los_Angeles:20240629T184500
+DTSTAMP:20240630T002300Z
+UID:ci16639652-tt5164432--2024-6-29-16-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSimon Spier keeps a huge secret
+  from his family\, his friends and all of his classmates: he's gay. When t
+ hat secret is threatened\, Simon must face everyone and come to terms with
+  his identity.\n\nhttps://www.imdb.com/title/tt5164432/\n\nIMDb rating: 7.
+ 5
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strange World (2022)
+DTSTART;TZID=America/Los_Angeles:20240629T140000
+DTEND;TZID=America/Los_Angeles:20240629T161000
+DTSTAMP:20240629T215300Z
+UID:ci16639652-tt10298840--2024-6-29-14-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nThe legendary Clades are a fami
+ ly of explorers whose differences threaten to topple their latest and most
+  crucial mission.\n\nhttps://www.imdb.com/title/tt10298840/\n\nIMDb rating
+ : 5.7
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D.E.B.S. (2003)
+DTSTART;TZID=America/Los_Angeles:20240630T170000
+DTEND;TZID=America/Los_Angeles:20240630T174000
+DTSTAMP:20240701T005300Z
+UID:ci16639652-tt0337953--2024-6-30-17-0
+DESCRIPTION:Duration: 0h 11m (11 mins)\n\nA quartet of girls from a prep h
+ igh school are recruited by a secret paramilitary academy to conduct cloak
+ -and-dagger missions.\n\nhttps://www.imdb.com/title/tt0337953/\n\nIMDb rat
+ ing: 6.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love\, Simon (2018)
+DTSTART;TZID=America/Los_Angeles:20240630T120000
+DTEND;TZID=America/Los_Angeles:20240630T141500
+DTSTAMP:20240630T195300Z
+UID:ci16639652-tt5164432--2024-6-30-12-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSimon Spier keeps a huge secret
+  from his family\, his friends and all of his classmates: he's gay. When t
+ hat secret is threatened\, Simon must face everyone and come to terms with
+  his identity.\n\nhttps://www.imdb.com/title/tt5164432/\n\nIMDb rating: 7.
+ 5
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strange World (2022)
+DTSTART;TZID=America/Los_Angeles:20240630T191500
+DTEND;TZID=America/Los_Angeles:20240630T212500
+DTSTAMP:20240701T030800Z
+UID:ci16639652-tt10298840--2024-6-30-19-15
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nThe legendary Clades are a fami
+ ly of explorers whose differences threaten to topple their latest and most
+  crucial mission.\n\nhttps://www.imdb.com/title/tt10298840/\n\nIMDb rating
+ : 5.7
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To Wong Foo\, Thanks for Everything! Julie Newmar (1995)
+DTSTART;TZID=America/Los_Angeles:20240630T143000
+DTEND;TZID=America/Los_Angeles:20240630T164500
+DTSTAMP:20240630T222300Z
+UID:ci16639652-tt0114682--2024-6-30-14-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nThree drag queens travel cross-
+ country until their car breaks down\, leaving them stranded in a small tow
+ n.\n\nhttps://www.imdb.com/title/tt0114682/\n\nIMDb rating: 6.7
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
 END:VCALENDAR

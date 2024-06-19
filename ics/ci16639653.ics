@@ -1,71 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240618T170022Z
+LAST-MODIFIED:20240619T140820Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
 BEGIN:VEVENT
-SUMMARY:Green Fish (1997)
-DTSTART;TZID=America/Los_Angeles:20240618T190000
-DTEND;TZID=America/Los_Angeles:20240618T212000
-DTSTAMP:20240619T025300Z
-UID:ci16639653-tt0126838--2024-6-18-19-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nReturning home and finding his 
- town drastically changed\, a former soldier falls in with gangsters.\n\nht
- tps://www.imdb.com/title/tt0126838/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oasis (2002)
-DTSTART;TZID=America/Los_Angeles:20240618T190000
-DTEND;TZID=America/Los_Angeles:20240618T214000
-DTSTAMP:20240619T025300Z
-UID:ci16639653-tt0320193--2024-6-18-19-0
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nAn irresponsible and childish e
- x-con befriends a girl with cerebral palsy and develops a progressively st
- ronger bond with her.\n\nhttps://www.imdb.com/title/tt0320193/\n\nIMDb rat
- ing: 7.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy (1999)
-DTSTART;TZID=America/Los_Angeles:20240618T160000
-DTEND;TZID=America/Los_Angeles:20240618T183500
-DTSTAMP:20240618T235300Z
-UID:ci16639653-tt0247613--2024-6-18-16-0
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nFollowing a man's suicide\, tim
- e traverses back to reveal six chapters of his life on why he committed su
- icide.\n\nhttps://www.imdb.com/title/tt0247613/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo
-DTSTART;TZID=America/Los_Angeles:20240618T161500
-DTEND;TZID=America/Los_Angeles:20240618T182500
-DTSTAMP:20240619T000800Z
-UID:ci16639653-tt27715185--2024-6-18-16-15
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
- ith the disappointment of two impossible loves: a passionate but destructi
- ve crush on Oliver and a distant and cold relationship with his mother Cla
- ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
- db.com/title/tt27715185/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo
-DTSTART;TZID=America/Los_Angeles:20240618T193000
-DTEND;TZID=America/Los_Angeles:20240618T214000
-DTSTAMP:20240619T032300Z
-UID:ci16639653-tt27715185--2024-6-18-19-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
- ith the disappointment of two impossible loves: a passionate but destructi
- ve crush on Oliver and a distant and cold relationship with his mother Cla
- ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
- db.com/title/tt27715185/\n\nIMDb rating: 7.2
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240619T163000
+DTEND;TZID=America/Los_Angeles:20240619T183500
+DTSTAMP:20240620T002300Z
+UID:ci16639653-tt15574270--2024-6-19-16-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -109,6 +56,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Solo
+DTSTART;TZID=America/Los_Angeles:20240619T193000
+DTEND;TZID=America/Los_Angeles:20240619T214000
+DTSTAMP:20240620T032300Z
+UID:ci16639653-tt27715185--2024-6-19-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nFollows Simon\, who must deal w
+ ith the disappointment of two impossible loves: a passionate but destructi
+ ve crush on Oliver and a distant and cold relationship with his mother Cla
+ ire\, who has just moved back in after a 15-year abse...\n\nhttps://www.im
+ db.com/title/tt27715185/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Right to Read
 DTSTART;TZID=America/Los_Angeles:20240619T191500
 DTEND;TZID=America/Los_Angeles:20240619T210000
@@ -123,15 +84,26 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghostlight
-DTSTART;TZID=America/Los_Angeles:20240620T193000
-DTEND;TZID=America/Los_Angeles:20240620T214500
-DTSTAMP:20240621T032300Z
-UID:ci16639653-tt30321095--2024-6-20-19-30
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
- pectedly joins a local theater's production of Romeo and Juliet\, the dram
- a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+SUMMARY:Green Fish (1997)
+DTSTART;TZID=America/Los_Angeles:20240620T190000
+DTEND;TZID=America/Los_Angeles:20240620T212000
+DTSTAMP:20240621T025300Z
+UID:ci16639653-tt0126838--2024-6-20-19-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nReturning home and finding his 
+ town drastically changed\, a former soldier falls in with gangsters.\n\nht
+ tps://www.imdb.com/title/tt0126838/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Saw the TV Glow
+DTSTART;TZID=America/Los_Angeles:20240620T163000
+DTEND;TZID=America/Los_Angeles:20240620T183500
+DTSTAMP:20240621T002300Z
+UID:ci16639653-tt15574270--2024-6-20-16-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTwo teenagers bond over their l
+ ove of a supernatural TV show\, but it is mysteriously cancelled.\n\nhttps
+ ://www.imdb.com/title/tt15574270/\n\nIMDb rating: 6.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -163,6 +135,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240620T191500
+DTEND;TZID=America/Los_Angeles:20240620T214000
+DTSTAMP:20240621T030800Z
+UID:ci16639653-tt21454134--2024-6-20-19-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghostlight
 DTSTART;TZID=America/Los_Angeles:20240621T163000
 DTEND;TZID=America/Los_Angeles:20240621T184500
@@ -171,7 +157,7 @@ UID:ci16639653-tt30321095--2024-6-21-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -184,7 +170,61 @@ UID:ci16639653-tt30321095--2024-6-21-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240621T161500
+DTEND;TZID=America/Los_Angeles:20240621T184000
+DTSTAMP:20240622T000800Z
+UID:ci16639653-tt21454134--2024-6-21-16-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240621T190000
+DTEND;TZID=America/Los_Angeles:20240621T212500
+DTSTAMP:20240622T025300Z
+UID:ci16639653-tt21454134--2024-6-21-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240621T164500
+DTEND;TZID=America/Los_Angeles:20240621T185000
+DTSTAMP:20240622T003800Z
+UID:ci16639653-tt23778968--2024-6-21-16-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240621T193000
+DTEND;TZID=America/Los_Angeles:20240621T213500
+DTSTAMP:20240622T032300Z
+UID:ci16639653-tt23778968--2024-6-21-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -197,7 +237,7 @@ UID:ci16639653-tt30321095--2024-6-22-13-45
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -210,7 +250,7 @@ UID:ci16639653-tt30321095--2024-6-22-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -223,7 +263,88 @@ UID:ci16639653-tt30321095--2024-6-22-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240622T133000
+DTEND;TZID=America/Los_Angeles:20240622T155500
+DTSTAMP:20240622T212300Z
+UID:ci16639653-tt21454134--2024-6-22-13-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240622T161500
+DTEND;TZID=America/Los_Angeles:20240622T184000
+DTSTAMP:20240623T000800Z
+UID:ci16639653-tt21454134--2024-6-22-16-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240622T190000
+DTEND;TZID=America/Los_Angeles:20240622T212500
+DTSTAMP:20240623T025300Z
+UID:ci16639653-tt21454134--2024-6-22-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240622T140000
+DTEND;TZID=America/Los_Angeles:20240622T160500
+DTSTAMP:20240622T215300Z
+UID:ci16639653-tt23778968--2024-6-22-14-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240622T164500
+DTEND;TZID=America/Los_Angeles:20240622T185000
+DTSTAMP:20240623T003800Z
+UID:ci16639653-tt23778968--2024-6-22-16-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240622T193000
+DTEND;TZID=America/Los_Angeles:20240622T213500
+DTSTAMP:20240623T032300Z
+UID:ci16639653-tt23778968--2024-6-22-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -236,7 +357,7 @@ UID:ci16639653-tt30321095--2024-6-23-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -249,7 +370,88 @@ UID:ci16639653-tt30321095--2024-6-23-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240623T133000
+DTEND;TZID=America/Los_Angeles:20240623T155500
+DTSTAMP:20240623T212300Z
+UID:ci16639653-tt21454134--2024-6-23-13-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240623T161500
+DTEND;TZID=America/Los_Angeles:20240623T184000
+DTSTAMP:20240624T000800Z
+UID:ci16639653-tt21454134--2024-6-23-16-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240623T190000
+DTEND;TZID=America/Los_Angeles:20240623T212500
+DTSTAMP:20240624T025300Z
+UID:ci16639653-tt21454134--2024-6-23-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240623T140000
+DTEND;TZID=America/Los_Angeles:20240623T160500
+DTSTAMP:20240623T215300Z
+UID:ci16639653-tt23778968--2024-6-23-14-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240623T164500
+DTEND;TZID=America/Los_Angeles:20240623T185000
+DTSTAMP:20240624T003800Z
+UID:ci16639653-tt23778968--2024-6-23-16-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240623T193000
+DTEND;TZID=America/Los_Angeles:20240623T213500
+DTSTAMP:20240624T032300Z
+UID:ci16639653-tt23778968--2024-6-23-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -262,7 +464,7 @@ UID:ci16639653-tt30321095--2024-6-24-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -275,7 +477,61 @@ UID:ci16639653-tt30321095--2024-6-24-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240624T161500
+DTEND;TZID=America/Los_Angeles:20240624T184000
+DTSTAMP:20240625T000800Z
+UID:ci16639653-tt21454134--2024-6-24-16-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240624T190000
+DTEND;TZID=America/Los_Angeles:20240624T212500
+DTSTAMP:20240625T025300Z
+UID:ci16639653-tt21454134--2024-6-24-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240624T164500
+DTEND;TZID=America/Los_Angeles:20240624T185000
+DTSTAMP:20240625T003800Z
+UID:ci16639653-tt23778968--2024-6-24-16-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240624T193000
+DTEND;TZID=America/Los_Angeles:20240624T213500
+DTSTAMP:20240625T032300Z
+UID:ci16639653-tt23778968--2024-6-24-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -288,7 +544,61 @@ UID:ci16639653-tt30321095--2024-6-25-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostlight
+DTSTART;TZID=America/Los_Angeles:20240625T191500
+DTEND;TZID=America/Los_Angeles:20240625T213000
+DTSTAMP:20240626T030800Z
+UID:ci16639653-tt30321095--2024-6-25-19-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
+ pectedly joins a local theater's production of Romeo and Juliet\, the dram
+ a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240625T161500
+DTEND;TZID=America/Los_Angeles:20240625T184000
+DTSTAMP:20240626T000800Z
+UID:ci16639653-tt21454134--2024-6-25-16-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240625T190000
+DTEND;TZID=America/Los_Angeles:20240625T212500
+DTSTAMP:20240626T025300Z
+UID:ci16639653-tt21454134--2024-6-25-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240625T164500
+DTEND;TZID=America/Los_Angeles:20240625T185000
+DTSTAMP:20240626T003800Z
+UID:ci16639653-tt23778968--2024-6-25-16-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -301,7 +611,7 @@ UID:ci16639653-tt30321095--2024-6-26-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -314,7 +624,61 @@ UID:ci16639653-tt30321095--2024-6-26-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240626T161500
+DTEND;TZID=America/Los_Angeles:20240626T184000
+DTSTAMP:20240627T000800Z
+UID:ci16639653-tt21454134--2024-6-26-16-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240626T190000
+DTEND;TZID=America/Los_Angeles:20240626T212500
+DTSTAMP:20240627T025300Z
+UID:ci16639653-tt21454134--2024-6-26-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240626T164500
+DTEND;TZID=America/Los_Angeles:20240626T185000
+DTSTAMP:20240627T003800Z
+UID:ci16639653-tt23778968--2024-6-26-16-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240626T193000
+DTEND;TZID=America/Los_Angeles:20240626T213500
+DTSTAMP:20240627T032300Z
+UID:ci16639653-tt23778968--2024-6-26-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -327,7 +691,7 @@ UID:ci16639653-tt30321095--2024-6-27-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -340,7 +704,73 @@ UID:ci16639653-tt30321095--2024-6-27-19-15
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a construction worker unex
  pectedly joins a local theater's production of Romeo and Juliet\, the dram
  a onstage starts to mirror his own life.\n\nhttps://www.imdb.com/title/tt3
- 0321095/\n\nIMDb rating: 8
+ 0321095/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240627T161500
+DTEND;TZID=America/Los_Angeles:20240627T184000
+DTSTAMP:20240628T000800Z
+UID:ci16639653-tt21454134--2024-6-27-16-15
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=America/Los_Angeles:20240627T190000
+DTEND;TZID=America/Los_Angeles:20240627T212500
+DTSTAMP:20240628T025300Z
+UID:ci16639653-tt21454134--2024-6-27-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nAfter a chance encounter\, head
+ strong Kathy is drawn to Benny\, member of Midwestern motorcycle club the 
+ Vandals. As the club transforms into a dangerous underworld of violence\, 
+ Benny must choose between Kathy and his loyalty to the...\n\nhttps://www.i
+ mdb.com/title/tt21454134/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240627T164500
+DTEND;TZID=America/Los_Angeles:20240627T185000
+DTSTAMP:20240628T003800Z
+UID:ci16639653-tt23778968--2024-6-27-16-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240627T193000
+DTEND;TZID=America/Los_Angeles:20240627T213500
+DTSTAMP:20240628T032300Z
+UID:ci16639653-tt23778968--2024-6-27-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love & Basketball (2000)
+DTSTART;TZID=America/Los_Angeles:20240703T180000
+DTEND;TZID=America/Los_Angeles:20240703T203000
+DTSTAMP:20240704T015300Z
+UID:ci16639653-tt0199725--2024-7-3-18-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nMonica and Quincy love and play
+  basketball together through many life challenges from childhood to adulth
+ ood.\n\nhttps://www.imdb.com/title/tt0199725/\n\nIMDb rating: 7.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
