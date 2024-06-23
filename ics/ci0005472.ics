@@ -1,90 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240619T140633Z
+LAST-MODIFIED:20240623T150906Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Queendom
-DTSTART;TZID=America/Los_Angeles:20240619T193000
-DTEND;TZID=America/Los_Angeles:20240619T213500
-DTSTAMP:20240620T032300Z
-UID:ci0005472-tt26083700--2024-6-19-19-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nIn defiance of Russia's anti-LGT
- BQ laws\, a queer\, 21-year-old artist risks her life performing in surrea
- l costumes throughout Moscow. Jenna Marvin's radical public performances b
- lend artistry and activism in this SXSW documentary.\n\nhttps://www.imdb.c
- om/title/tt26083700/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Matrix (1999)
-DTSTART;TZID=America/Los_Angeles:20240620T191500
-DTEND;TZID=America/Los_Angeles:20240620T220000
-DTSTAMP:20240621T030800Z
-UID:ci0005472-tt0133093--2024-6-20-19-15
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nWhen a beautiful stranger leads
-  computer hacker Neo to a forbidding underworld\, he discovers the shockin
- g truth--the life he knows is the elaborate deception of an evil cyber-int
- elligence.\n\nhttps://www.imdb.com/title/tt0133093/\n\nIMDb rating: 8.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Used to Be Funny
-DTSTART;TZID=America/Los_Angeles:20240621T190000
-DTEND;TZID=America/Los_Angeles:20240621T211000
-DTSTAMP:20240622T025300Z
-UID:ci0005472-tt16300138--2024-6-21-19-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
- gling with PTSD\, weighs whether or not to join the search for a missing t
- eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cora Bora
-DTSTART;TZID=America/Los_Angeles:20240622T191500
-DTEND;TZID=America/Los_Angeles:20240622T211500
-DTSTAMP:20240623T030800Z
-UID:ci0005472-tt20221208--2024-6-22-19-15
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nFollows Cora\, who feels that he
- r relationship is not going well. She goes back home to win her girlfriend
-  back but she will realize that it's much more than her love life that nee
- ds salvaging.\n\nhttps://www.imdb.com/title/tt20221208/\n\nIMDb rating: 6.
- 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Used to Be Funny
-DTSTART;TZID=America/Los_Angeles:20240622T164500
-DTEND;TZID=America/Los_Angeles:20240622T185500
-DTSTAMP:20240623T003800Z
-UID:ci0005472-tt16300138--2024-6-22-16-45
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
- gling with PTSD\, weighs whether or not to join the search for a missing t
- eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queendom
-DTSTART;TZID=America/Los_Angeles:20240622T141500
-DTEND;TZID=America/Los_Angeles:20240622T162000
-DTSTAMP:20240622T220800Z
-UID:ci0005472-tt26083700--2024-6-22-14-15
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nIn defiance of Russia's anti-LGT
- BQ laws\, a queer\, 21-year-old artist risks her life performing in surrea
- l costumes throughout Moscow. Jenna Marvin's radical public performances b
- lend artistry and activism in this SXSW documentary.\n\nhttps://www.imdb.c
- om/title/tt26083700/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cora Bora
 DTSTART;TZID=America/Los_Angeles:20240623T170000
@@ -95,7 +14,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nFollows Cora\, who feels that he
  r relationship is not going well. She goes back home to win her girlfriend
   back but she will realize that it's much more than her love life that nee
  ds salvaging.\n\nhttps://www.imdb.com/title/tt20221208/\n\nIMDb rating: 6.
- 8
+ 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -108,7 +27,7 @@ UID:ci0005472-tt16300138--2024-6-23-14-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
  gling with PTSD\, weighs whether or not to join the search for a missing t
  eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
+ \nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -121,7 +40,7 @@ UID:ci0005472-tt16300138--2024-6-23-19-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
  gling with PTSD\, weighs whether or not to join the search for a missing t
  eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
+ \nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -135,7 +54,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nFollows Cora\, who feels that he
  r relationship is not going well. She goes back home to win her girlfriend
   back but she will realize that it's much more than her love life that nee
  ds salvaging.\n\nhttps://www.imdb.com/title/tt20221208/\n\nIMDb rating: 6.
- 8
+ 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -148,7 +67,7 @@ UID:ci0005472-tt16300138--2024-6-25-19-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
  gling with PTSD\, weighs whether or not to join the search for a missing t
  eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
+ \nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -162,7 +81,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nFollows Cora\, who feels that he
  r relationship is not going well. She goes back home to win her girlfriend
   back but she will realize that it's much more than her love life that nee
  ds salvaging.\n\nhttps://www.imdb.com/title/tt20221208/\n\nIMDb rating: 6.
- 8
+ 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -176,7 +95,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nFollows Cora\, who feels that he
  r relationship is not going well. She goes back home to win her girlfriend
   back but she will realize that it's much more than her love life that nee
  ds salvaging.\n\nhttps://www.imdb.com/title/tt20221208/\n\nIMDb rating: 6.
- 8
+ 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -189,7 +108,7 @@ UID:ci0005472-tt16300138--2024-6-30-18-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
  gling with PTSD\, weighs whether or not to join the search for a missing t
  eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
+ \nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -202,7 +121,7 @@ UID:ci0005472-tt16300138--2024-7-1-19-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
  gling with PTSD\, weighs whether or not to join the search for a missing t
  eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
+ \nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -216,7 +135,7 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nFollows Cora\, who feels that he
  r relationship is not going well. She goes back home to win her girlfriend
   back but she will realize that it's much more than her love life that nee
  ds salvaging.\n\nhttps://www.imdb.com/title/tt20221208/\n\nIMDb rating: 6.
- 8
+ 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -229,7 +148,142 @@ UID:ci0005472-tt16300138--2024-7-3-19-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nSam\, a stand-up comedian strug
  gling with PTSD\, weighs whether or not to join the search for a missing t
  eenage girl she used to nanny.\n\nhttps://www.imdb.com/title/tt16300138/\n
- \nIMDb rating: 6.8
+ \nIMDb rating: 6.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=America/Los_Angeles:20240705T193000
+DTEND;TZID=America/Los_Angeles:20240705T212500
+DTSTAMP:20240706T032300Z
+UID:ci0005472-tt21813994--2024-7-5-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
+ ance\, a Native American hustler kidnaps her niece from the child's white 
+ grandparents and sets out for the state powwow in hopes of keeping what is
+  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
+ nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronicles of a Wandering Saint
+DTSTART;TZID=America/Los_Angeles:20240706T140000
+DTEND;TZID=America/Los_Angeles:20240706T155000
+DTSTAMP:20240706T215300Z
+UID:ci0005472-tt11317110--2024-7-6-14-0
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
+ tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
+ hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
+ b.com/title/tt11317110/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronicles of a Wandering Saint
+DTSTART;TZID=America/Los_Angeles:20240706T181500
+DTEND;TZID=America/Los_Angeles:20240706T200500
+DTSTAMP:20240707T020800Z
+UID:ci0005472-tt11317110--2024-7-6-18-15
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
+ tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
+ hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
+ b.com/title/tt11317110/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=America/Los_Angeles:20240706T160000
+DTEND;TZID=America/Los_Angeles:20240706T175500
+DTSTAMP:20240706T235300Z
+UID:ci0005472-tt21813994--2024-7-6-16-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
+ ance\, a Native American hustler kidnaps her niece from the child's white 
+ grandparents and sets out for the state powwow in hopes of keeping what is
+  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
+ nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy A Gets a Mattress
+DTSTART;TZID=America/Los_Angeles:20240706T203000
+DTEND;TZID=America/Los_Angeles:20240706T221500
+DTSTAMP:20240707T042300Z
+UID:ci0005472-tt28437326--2024-7-6-20-30
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
+ oup home onto the grim summer streets\, Fantasy A\, real-life autistic rap
+ per\, sets off on an odyssey to achieve fame and find a good mattress in t
+ his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
+ db.com/title/tt28437326/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronicles of a Wandering Saint
+DTSTART;TZID=America/Los_Angeles:20240707T161500
+DTEND;TZID=America/Los_Angeles:20240707T180500
+DTSTAMP:20240708T000800Z
+UID:ci0005472-tt11317110--2024-7-7-16-15
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
+ tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
+ hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
+ b.com/title/tt11317110/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronicles of a Wandering Saint
+DTSTART;TZID=America/Los_Angeles:20240707T203000
+DTEND;TZID=America/Los_Angeles:20240707T222000
+DTSTAMP:20240708T042300Z
+UID:ci0005472-tt11317110--2024-7-7-20-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
+ tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
+ hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
+ b.com/title/tt11317110/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=America/Los_Angeles:20240707T140000
+DTEND;TZID=America/Los_Angeles:20240707T155500
+DTSTAMP:20240707T215300Z
+UID:ci0005472-tt21813994--2024-7-7-14-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
+ ance\, a Native American hustler kidnaps her niece from the child's white 
+ grandparents and sets out for the state powwow in hopes of keeping what is
+  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
+ nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=America/Los_Angeles:20240707T181500
+DTEND;TZID=America/Los_Angeles:20240707T201000
+DTSTAMP:20240708T020800Z
+UID:ci0005472-tt21813994--2024-7-7-18-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
+ ance\, a Native American hustler kidnaps her niece from the child's white 
+ grandparents and sets out for the state powwow in hopes of keeping what is
+  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
+ nIMDb rating: 7.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronicles of a Wandering Saint
+DTSTART;TZID=America/Los_Angeles:20240708T193000
+DTEND;TZID=America/Los_Angeles:20240708T212000
+DTSTAMP:20240709T032300Z
+UID:ci0005472-tt11317110--2024-7-8-19-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
+ tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
+ hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
+ b.com/title/tt11317110/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
