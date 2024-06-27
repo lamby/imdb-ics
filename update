@@ -112,6 +112,11 @@ class ImdbICS:
             "id": "ci1025162",
             "timezone": "America/Los_Angeles",
         },
+        {
+            "name": "Central Cinema, Seattle",
+            "id": "ci0015312",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
