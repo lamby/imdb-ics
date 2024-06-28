@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240626T141124Z
+LAST-MODIFIED:20240628T131703Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cora Bora
-DTSTART;TZID=America/Los_Angeles:20240626T193000
-DTEND;TZID=America/Los_Angeles:20240626T213000
-DTSTAMP:20240627T032300Z
-UID:ci0005472-tt20221208--2024-6-26-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nFollows Cora\, who feels that he
- r relationship is not going well. She goes back home to win her girlfriend
-  back but she will realize that it's much more than her love life that nee
- ds salvaging.\n\nhttps://www.imdb.com/title/tt20221208/\n\nIMDb rating: 6.
- 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cora Bora
 DTSTART;TZID=America/Los_Angeles:20240630T154500
@@ -95,7 +81,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.2
+ nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -135,7 +121,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.2
+ nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -189,7 +175,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.2
+ nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -203,7 +189,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.2
+ nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -230,7 +216,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.2
+ nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -257,7 +243,44 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.2
+ nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot Dreams
+DTSTART;TZID=America/Los_Angeles:20240712T193000
+DTEND;TZID=America/Los_Angeles:20240712T214000
+DTSTAMP:20240713T032300Z
+UID:ci0005472-tt13429870--2024-7-12-19-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
+ of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
+ m/title/tt13429870/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20240713T203000
+DTEND;TZID=America/Los_Angeles:20240713T224500
+DTSTAMP:20240714T042300Z
+UID:ci0005472-tt12818328--2024-7-13-20-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot Dreams
+DTSTART;TZID=America/Los_Angeles:20240713T180000
+DTEND;TZID=America/Los_Angeles:20240713T201000
+DTSTAMP:20240714T015300Z
+UID:ci0005472-tt13429870--2024-7-13-18-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
+ of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
+ m/title/tt13429870/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
