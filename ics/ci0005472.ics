@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240628T131703Z
+LAST-MODIFIED:20240630T151936Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -121,7 +121,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -135,7 +135,7 @@ DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
  oup home onto the grim summer streets\, Fantasy A\, real-life autistic rap
  per\, sets off on an odyssey to achieve fame and find a good mattress in t
  his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
- db.com/title/tt28437326/\n\nIMDb rating: 8.6
+ db.com/title/tt28437326/\n\nIMDb rating: 8.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -175,7 +175,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -189,7 +189,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -216,7 +216,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -243,7 +243,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
  ance\, a Native American hustler kidnaps her niece from the child's white 
  grandparents and sets out for the state powwow in hopes of keeping what is
   left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -274,10 +274,60 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robot Dreams
+DTSTART;TZID=America/Los_Angeles:20240713T153000
+DTEND;TZID=America/Los_Angeles:20240713T174000
+DTSTAMP:20240713T232300Z
+UID:ci0005472-tt13429870--2024-7-13-15-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
+ of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
+ m/title/tt13429870/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot Dreams
 DTSTART;TZID=America/Los_Angeles:20240713T180000
 DTEND;TZID=America/Los_Angeles:20240713T201000
 DTSTAMP:20240714T015300Z
 UID:ci0005472-tt13429870--2024-7-13-18-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
+ of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
+ m/title/tt13429870/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=America/Los_Angeles:20240714T180000
+DTEND;TZID=America/Los_Angeles:20240714T195500
+DTSTAMP:20240715T015300Z
+UID:ci0005472-tt21813994--2024-7-14-18-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
+ ance\, a Native American hustler kidnaps her niece from the child's white 
+ grandparents and sets out for the state powwow in hopes of keeping what is
+  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
+ nIMDb rating: 6.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot Dreams
+DTSTART;TZID=America/Los_Angeles:20240714T153000
+DTEND;TZID=America/Los_Angeles:20240714T174000
+DTSTAMP:20240714T232300Z
+UID:ci0005472-tt13429870--2024-7-14-15-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
+ of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
+ m/title/tt13429870/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot Dreams
+DTSTART;TZID=America/Los_Angeles:20240715T193000
+DTEND;TZID=America/Los_Angeles:20240715T214000
+DTSTAMP:20240716T032300Z
+UID:ci0005472-tt13429870--2024-7-15-19-30
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
  of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
  m/title/tt13429870/\n\nIMDb rating: 7.6
