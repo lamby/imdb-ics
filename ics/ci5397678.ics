@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240704T162802Z
+LAST-MODIFIED:20240705T134731Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240704T133000
-DTEND;TZID=America/Los_Angeles:20240704T153500
-DTSTAMP:20240704T212300Z
-UID:ci5397678-tt13433802--2024-7-4-13-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA woman named Sam finds herself 
- trapped in New York City during the early stages of an invasion by alien c
- reatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title/tt134
- 33802/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240704T163000
-DTEND;TZID=America/Los_Angeles:20240704T183500
-DTSTAMP:20240705T002300Z
-UID:ci5397678-tt13433802--2024-7-4-16-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA woman named Sam finds herself 
- trapped in New York City during the early stages of an invasion by alien c
- reatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title/tt134
- 33802/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Quiet Place: Day One
 DTSTART;TZID=America/Los_Angeles:20240705T133000

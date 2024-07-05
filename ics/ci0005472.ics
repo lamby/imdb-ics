@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240704T162601Z
+LAST-MODIFIED:20240705T134528Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -327,6 +327,31 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
  \nIMDb rating: 8.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Longlegs
+DTSTART;TZID=America/Los_Angeles:20240720T190000
+DTEND;TZID=America/Los_Angeles:20240720T211000
+DTSTAMP:20240721T025300Z
+UID:ci0005472-tt23468450--2024-7-20-19-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
+  an FBI agent uncovers a series of occult clues that she must solve to end
+  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
+ \nIMDb rating: 8.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music for Black Pigeons (2022)
+DTSTART;TZID=America/Los_Angeles:20240720T160000
+DTEND;TZID=America/Los_Angeles:20240720T180000
+DTSTAMP:20240720T235300Z
+UID:ci0005472-tt21376876--2024-7-20-16-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA documentary that explores the 
+ lives and processes of some of the world's most renowned and prolific jazz
+  musicians.\n\nhttps://www.imdb.com/title/tt21376876/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
