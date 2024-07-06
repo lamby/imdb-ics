@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240705T134711Z
+LAST-MODIFIED:20240706T160341Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240705T151500
-DTEND;TZID=America/Los_Angeles:20240705T182500
-DTSTAMP:20240705T230800Z
-UID:ci60177107-tt22408160--2024-7-5-15-15
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240705T190000
-DTEND;TZID=America/Los_Angeles:20240705T221000
-DTSTAMP:20240706T025300Z
-UID:ci60177107-tt22408160--2024-7-5-19-0
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinds of Kindness
 DTSTART;TZID=America/Los_Angeles:20240706T114500
@@ -286,6 +258,32 @@ DTSTART;TZID=America/Los_Angeles:20240720T180000
 DTEND;TZID=America/Los_Angeles:20240720T215500
 DTSTAMP:20240721T015300Z
 UID:ci60177107-tt0047478--2024-7-20-18-0
+DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
+ d by bandits hire a veteran samurai for protection\, who gathers six other
+  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
+ ing: 8.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brother from Another Planet (1984)
+DTSTART;TZID=America/Los_Angeles:20240721T190000
+DTEND;TZID=America/Los_Angeles:20240721T211500
+DTSTAMP:20240722T025300Z
+UID:ci60177107-tt0087004--2024-7-21-19-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nA mute alien with the appearanc
+ e of a black human is chased by outer-space bounty hunters through the str
+ eets of Harlem.\n\nhttps://www.imdb.com/title/tt0087004/\n\nIMDb rating: 6
+ .7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seven Samurai (1954)
+DTSTART;TZID=America/Los_Angeles:20240721T131500
+DTEND;TZID=America/Los_Angeles:20240721T171000
+DTSTAMP:20240721T210800Z
+UID:ci60177107-tt0047478--2024-7-21-13-15
 DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
  d by bandits hire a veteran samurai for protection\, who gathers six other
   samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
