@@ -1,90 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240707T160205Z
+LAST-MODIFIED:20240710T072657Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Chronicles of a Wandering Saint
-DTSTART;TZID=America/Los_Angeles:20240707T161500
-DTEND;TZID=America/Los_Angeles:20240707T180500
-DTSTAMP:20240708T000800Z
-UID:ci0005472-tt11317110--2024-7-7-16-15
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
- tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
- hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
- b.com/title/tt11317110/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronicles of a Wandering Saint
-DTSTART;TZID=America/Los_Angeles:20240707T203000
-DTEND;TZID=America/Los_Angeles:20240707T222000
-DTSTAMP:20240708T042300Z
-UID:ci0005472-tt11317110--2024-7-7-20-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
- tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
- hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
- b.com/title/tt11317110/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fancy Dance
-DTSTART;TZID=America/Los_Angeles:20240707T140000
-DTEND;TZID=America/Los_Angeles:20240707T155500
-DTSTAMP:20240707T215300Z
-UID:ci0005472-tt21813994--2024-7-7-14-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
- ance\, a Native American hustler kidnaps her niece from the child's white 
- grandparents and sets out for the state powwow in hopes of keeping what is
-  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fancy Dance
-DTSTART;TZID=America/Los_Angeles:20240707T181500
-DTEND;TZID=America/Los_Angeles:20240707T201000
-DTSTAMP:20240708T020800Z
-UID:ci0005472-tt21813994--2024-7-7-18-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
- ance\, a Native American hustler kidnaps her niece from the child's white 
- grandparents and sets out for the state powwow in hopes of keeping what is
-  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronicles of a Wandering Saint
-DTSTART;TZID=America/Los_Angeles:20240708T193000
-DTEND;TZID=America/Los_Angeles:20240708T212000
-DTSTAMP:20240709T032300Z
-UID:ci0005472-tt11317110--2024-7-8-19-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
- tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
- hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
- b.com/title/tt11317110/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fancy Dance
-DTSTART;TZID=America/Los_Angeles:20240709T193000
-DTEND;TZID=America/Los_Angeles:20240709T212500
-DTSTAMP:20240710T032300Z
-UID:ci0005472-tt21813994--2024-7-9-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
- ance\, a Native American hustler kidnaps her niece from the child's white 
- grandparents and sets out for the state powwow in hopes of keeping what is
-  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chronicles of a Wandering Saint
 DTSTART;TZID=America/Los_Angeles:20240710T193000
@@ -232,7 +151,7 @@ UID:ci0005472-tt23468450--2024-7-18-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 8.3
+ \nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -245,7 +164,7 @@ UID:ci0005472-tt23468450--2024-7-19-19-15
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 8.3
+ \nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -258,7 +177,7 @@ UID:ci0005472-tt23468450--2024-7-19-21-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 8.3
+ \nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -271,7 +190,7 @@ UID:ci0005472-tt23468450--2024-7-20-19-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 8.3
+ \nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -296,7 +215,7 @@ UID:ci0005472-tt23468450--2024-7-21-15-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 8.3
+ \nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -309,7 +228,7 @@ UID:ci0005472-tt23468450--2024-7-21-20-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 8.3
+ \nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -334,7 +253,58 @@ UID:ci0005472-tt23468450--2024-7-22-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 8.3
+ \nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Longlegs
+DTSTART;TZID=America/Los_Angeles:20240723T193000
+DTEND;TZID=America/Los_Angeles:20240723T214000
+DTSTAMP:20240724T032300Z
+UID:ci0005472-tt23468450--2024-7-23-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
+  an FBI agent uncovers a series of occult clues that she must solve to end
+  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
+ \nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Longlegs
+DTSTART;TZID=America/Los_Angeles:20240724T213000
+DTEND;TZID=America/Los_Angeles:20240724T234000
+DTSTAMP:20240725T052300Z
+UID:ci0005472-tt23468450--2024-7-24-21-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
+  an FBI agent uncovers a series of occult clues that she must solve to end
+  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
+ \nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The People's Joker (2022)
+DTSTART;TZID=America/Los_Angeles:20240724T190000
+DTEND;TZID=America/Los_Angeles:20240724T210000
+DTSTAMP:20240725T025300Z
+UID:ci0005472-tt21651430--2024-7-24-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAn aspiring clown grappling with
+  her gender identity combats a fascistic caped crusader.\n\nhttps://www.im
+ db.com/title/tt21651430/\n\nIMDb rating: 6.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Longlegs
+DTSTART;TZID=America/Los_Angeles:20240725T193000
+DTEND;TZID=America/Los_Angeles:20240725T214000
+DTSTAMP:20240726T032300Z
+UID:ci0005472-tt23468450--2024-7-25-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
+  an FBI agent uncovers a series of occult clues that she must solve to end
+  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
+ \nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
