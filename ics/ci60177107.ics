@@ -1,65 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240710T072853Z
+LAST-MODIFIED:20240712T080238Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240710T151500
-DTEND;TZID=America/Los_Angeles:20240710T182500
-DTSTAMP:20240710T230800Z
-UID:ci60177107-tt22408160--2024-7-10-15-15
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240710T190000
-DTEND;TZID=America/Los_Angeles:20240710T221000
-DTSTAMP:20240711T025300Z
-UID:ci60177107-tt22408160--2024-7-10-19-0
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240711T151500
-DTEND;TZID=America/Los_Angeles:20240711T182500
-DTSTAMP:20240711T230800Z
-UID:ci60177107-tt22408160--2024-7-11-15-15
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240711T190000
-DTEND;TZID=America/Los_Angeles:20240711T221000
-DTSTAMP:20240712T025300Z
-UID:ci60177107-tt22408160--2024-7-11-19-0
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monsieur Hulot's Holiday (1953)
 DTSTART;TZID=America/Los_Angeles:20240712T190000
@@ -93,7 +37,7 @@ UID:ci60177107-tt23468450--2024-7-16-19-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -251,6 +195,85 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA human soldier is sent from 20
  from the same year\, which has been programmed to execute a young woman wh
  ose unborn son is the key to humanity's future salvat...\n\nhttps://www.im
  db.com/title/tt0088247/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Fat Liar (2002)
+DTSTART;TZID=America/Los_Angeles:20240726T180000
+DTEND;TZID=America/Los_Angeles:20240726T195500
+DTSTAMP:20240727T015300Z
+UID:ci60177107-tt0265298--2024-7-26-18-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nFourteen-year-old Jason Shepherd
+  has a reputation for stretching the truth. So\, when big-time Hollywood p
+ roducer Marty Wolf steals his class paper and turns it into a smash hit mo
+ vie\, no one believes Jason's latest tall tale.\n\nhttps://www.imdb.com/ti
+ tle/tt0265298/\n\nIMDb rating: 5.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scooby-Doo (2002)
+DTSTART;TZID=America/Los_Angeles:20240726T203000
+DTEND;TZID=America/Los_Angeles:20240726T222500
+DTSTAMP:20240727T042300Z
+UID:ci60177107-tt0267913--2024-7-26-20-30
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nAfter an acrimonious break up\, 
+ the Mystery Inc. gang are individually brought to an island resort to inve
+ stigate strange goings on.\n\nhttps://www.imdb.com/title/tt0267913/\n\nIMD
+ b rating: 5.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Josie and the Pussycats (2001)
+DTSTART;TZID=America/Los_Angeles:20240727T133000
+DTEND;TZID=America/Los_Angeles:20240727T153500
+DTSTAMP:20240727T212300Z
+UID:ci60177107-tt0236348--2024-7-27-13-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA girl group find themselves in 
+ the middle of a conspiracy to deliver subliminal messages through popular 
+ music.\n\nhttps://www.imdb.com/title/tt0236348/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mummy (1999)
+DTSTART;TZID=America/Los_Angeles:20240727T200000
+DTEND;TZID=America/Los_Angeles:20240727T223000
+DTSTAMP:20240728T035300Z
+UID:ci60177107-tt0120616--2024-7-27-20-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nAt an archaeological dig in the
+  ancient city of Hamunaptra\, an American serving in the French Foreign Le
+ gion accidentally awakens a mummy who begins to wreak havoc as he searches
+  for the reincarnation of his long-lost love.\n\nhttps://www.imdb.com/titl
+ e/tt0120616/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uptown Girls (2003)
+DTSTART;TZID=America/Los_Angeles:20240727T110000
+DTEND;TZID=America/Los_Angeles:20240727T130000
+DTSTAMP:20240727T185300Z
+UID:ci60177107-tt0263757--2024-7-27-11-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA grown-up woman who kept her ch
+ ildish instincts and behavior starts working as the nanny of an 8-year-old
+  girl who actually acts like an adult. But everything ends right-side up.\
+ n\nhttps://www.imdb.com/title/tt0263757/\n\nIMDb rating: 6.2
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Van Helsing (2004)
+DTSTART;TZID=America/Los_Angeles:20240727T163000
+DTEND;TZID=America/Los_Angeles:20240727T191000
+DTSTAMP:20240728T002300Z
+UID:ci60177107-tt0338526--2024-7-27-16-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nThe famed monster hunter is sen
+ t to Transylvania to stop Count Dracula\, who is using Dr. Frankenstein's 
+ research and a werewolf for nefarious purposes.\n\nhttps://www.imdb.com/ti
+ tle/tt0338526/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

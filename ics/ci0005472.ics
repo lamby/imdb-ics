@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240710T072657Z
+LAST-MODIFIED:20240712T080053Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Chronicles of a Wandering Saint
-DTSTART;TZID=America/Los_Angeles:20240710T193000
-DTEND;TZID=America/Los_Angeles:20240710T212000
-DTSTAMP:20240711T032300Z
-UID:ci0005472-tt11317110--2024-7-10-19-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nIn a tiny rural village in Argen
- tina\, Rita Lopez\, a pious yet insatiably competitive woman\, discovers t
- hat staging a miracle could be her ticket to sainthood.\n\nhttps://www.imd
- b.com/title/tt11317110/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fancy Dance
-DTSTART;TZID=America/Los_Angeles:20240711T193000
-DTEND;TZID=America/Los_Angeles:20240711T212500
-DTSTAMP:20240712T032300Z
-UID:ci0005472-tt21813994--2024-7-11-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
- ance\, a Native American hustler kidnaps her niece from the child's white 
- grandparents and sets out for the state powwow in hopes of keeping what is
-  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robot Dreams
 DTSTART;TZID=America/Los_Angeles:20240712T193000
@@ -151,7 +124,7 @@ UID:ci0005472-tt23468450--2024-7-18-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -164,7 +137,7 @@ UID:ci0005472-tt23468450--2024-7-19-19-15
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -177,7 +150,7 @@ UID:ci0005472-tt23468450--2024-7-19-21-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -190,7 +163,7 @@ UID:ci0005472-tt23468450--2024-7-20-19-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -215,7 +188,7 @@ UID:ci0005472-tt23468450--2024-7-21-15-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -228,7 +201,7 @@ UID:ci0005472-tt23468450--2024-7-21-20-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -253,7 +226,7 @@ UID:ci0005472-tt23468450--2024-7-22-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -266,7 +239,7 @@ UID:ci0005472-tt23468450--2024-7-23-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -279,7 +252,7 @@ UID:ci0005472-tt23468450--2024-7-24-21-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -304,7 +277,73 @@ UID:ci0005472-tt23468450--2024-7-25-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
   an FBI agent uncovers a series of occult clues that she must solve to end
   his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.8
+ \nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vourdalak
+DTSTART;TZID=America/Los_Angeles:20240726T191500
+DTEND;TZID=America/Los_Angeles:20240726T211500
+DTSTAMP:20240727T030800Z
+UID:ci0005472-tt28313478--2024-7-26-19-15
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
+ arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
+ the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
+ nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Shark
+DTSTART;TZID=America/Los_Angeles:20240727T203000
+DTEND;TZID=America/Los_Angeles:20240727T223500
+DTSTAMP:20240728T042300Z
+UID:ci0005472-tt9755806--2024-7-27-20-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThree firefighters must save New
+  Orleans from a shark attack.\n\nhttps://www.imdb.com/title/tt9755806/\n\n
+ IMDb rating: 5.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vourdalak
+DTSTART;TZID=America/Los_Angeles:20240727T161500
+DTEND;TZID=America/Los_Angeles:20240727T181500
+DTSTAMP:20240728T000800Z
+UID:ci0005472-tt28313478--2024-7-27-16-15
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
+ arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
+ the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
+ nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time of the Heathen (1961)
+DTSTART;TZID=America/Los_Angeles:20240727T141500
+DTEND;TZID=America/Los_Angeles:20240727T155500
+DTSTAMP:20240727T220800Z
+UID:ci0005472-tt0056589--2024-7-27-14-15
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA wandering drifter\, religious 
+ fanatic Gaunt\, accidentally sees the rape/murder of a black woman\, Marie
+ \, by farm boy Ted. The boy's father\, Link accuses Gaunt of committing th
+ e crime and attempts to get his son to kill both Gaunt ...\n\nhttps://www.
+ imdb.com/title/tt0056589/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time of the Heathen (1961)
+DTSTART;TZID=America/Los_Angeles:20240727T183000
+DTEND;TZID=America/Los_Angeles:20240727T201000
+DTSTAMP:20240728T022300Z
+UID:ci0005472-tt0056589--2024-7-27-18-30
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA wandering drifter\, religious 
+ fanatic Gaunt\, accidentally sees the rape/murder of a black woman\, Marie
+ \, by farm boy Ted. The boy's father\, Link accuses Gaunt of committing th
+ e crime and attempts to get his son to kill both Gaunt ...\n\nhttps://www.
+ imdb.com/title/tt0056589/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

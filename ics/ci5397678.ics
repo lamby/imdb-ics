@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240710T072921Z
+LAST-MODIFIED:20240712T080310Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240710T163000
-DTEND;TZID=America/Los_Angeles:20240710T183500
-DTSTAMP:20240711T002300Z
-UID:ci5397678-tt13433802--2024-7-10-16-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA woman named Sam finds herself 
- trapped in New York City during the early stages of an invasion by alien c
- reatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title/tt134
- 33802/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240710T193000
-DTEND;TZID=America/Los_Angeles:20240710T213500
-DTSTAMP:20240711T032300Z
-UID:ci5397678-tt13433802--2024-7-10-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA woman named Sam finds herself 
- trapped in New York City during the early stages of an invasion by alien c
- reatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title/tt134
- 33802/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240711T163000
-DTEND;TZID=America/Los_Angeles:20240711T183500
-DTSTAMP:20240712T002300Z
-UID:ci5397678-tt13433802--2024-7-11-16-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA woman named Sam finds herself 
- trapped in New York City during the early stages of an invasion by alien c
- reatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title/tt134
- 33802/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240711T193000
-DTEND;TZID=America/Los_Angeles:20240711T213500
-DTSTAMP:20240712T032300Z
-UID:ci5397678-tt13433802--2024-7-11-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA woman named Sam finds herself 
- trapped in New York City during the early stages of an invasion by alien c
- reatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title/tt134
- 33802/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Quiet Place: Day One
 DTSTART;TZID=America/Los_Angeles:20240712T143000
@@ -491,6 +439,78 @@ DTSTART;TZID=America/Los_Angeles:20240725T193000
 DTEND;TZID=America/Los_Angeles:20240725T220500
 DTSTAMP:20240726T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-25-19-30
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=America/Los_Angeles:20240726T161500
+DTEND;TZID=America/Los_Angeles:20240726T185000
+DTSTAMP:20240727T000800Z
+UID:ci5397678-tt6263850--2024-7-26-16-15
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine (3D)
+DTSTART;TZID=America/Los_Angeles:20240726T130000
+DTEND;TZID=America/Los_Angeles:20240726T153500
+DTSTAMP:20240726T205300Z
+UID:ci5397678-tt6263850-3d-2024-7-26-13-0
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine (3D)
+DTSTART;TZID=America/Los_Angeles:20240726T193000
+DTEND;TZID=America/Los_Angeles:20240726T220500
+DTSTAMP:20240727T032300Z
+UID:ci5397678-tt6263850-3d-2024-7-26-19-30
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=America/Los_Angeles:20240727T161500
+DTEND;TZID=America/Los_Angeles:20240727T185000
+DTSTAMP:20240728T000800Z
+UID:ci5397678-tt6263850--2024-7-27-16-15
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine (3D)
+DTSTART;TZID=America/Los_Angeles:20240727T130000
+DTEND;TZID=America/Los_Angeles:20240727T153500
+DTSTAMP:20240727T205300Z
+UID:ci5397678-tt6263850-3d-2024-7-27-13-0
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine (3D)
+DTSTART;TZID=America/Los_Angeles:20240727T193000
+DTEND;TZID=America/Los_Angeles:20240727T220500
+DTSTAMP:20240728T032300Z
+UID:ci5397678-tt6263850-3d-2024-7-27-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
   to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
