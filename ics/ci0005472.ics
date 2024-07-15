@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240714T062219Z
+LAST-MODIFIED:20240715T065520Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fancy Dance
-DTSTART;TZID=America/Los_Angeles:20240714T180000
-DTEND;TZID=America/Los_Angeles:20240714T195500
-DTSTAMP:20240715T015300Z
-UID:ci0005472-tt21813994--2024-7-14-18-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing her sister's disappear
- ance\, a Native American hustler kidnaps her niece from the child's white 
- grandparents and sets out for the state powwow in hopes of keeping what is
-  left of their family intact.\n\nhttps://www.imdb.com/title/tt21813994/\n\
- nIMDb rating: 6.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot Dreams
-DTSTART;TZID=America/Los_Angeles:20240714T153000
-DTEND;TZID=America/Los_Angeles:20240714T174000
-DTSTAMP:20240714T232300Z
-UID:ci0005472-tt13429870--2024-7-14-15-30
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
- of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
- m/title/tt13429870/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robot Dreams
-DTSTART;TZID=America/Los_Angeles:20240714T201500
-DTEND;TZID=America/Los_Angeles:20240714T222500
-DTSTAMP:20240715T040800Z
-UID:ci0005472-tt13429870--2024-7-14-20-15
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nThe adventures and misfortunes 
- of Dog and Robot in New York City during the 1980s.\n\nhttps://www.imdb.co
- m/title/tt13429870/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robot Dreams
 DTSTART;TZID=America/Los_Angeles:20240715T193000
@@ -348,6 +310,20 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
  arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
  the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
  nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time of the Heathen (1961)
+DTSTART;TZID=America/Los_Angeles:20240730T193000
+DTEND;TZID=America/Los_Angeles:20240730T211000
+DTSTAMP:20240731T032300Z
+UID:ci0005472-tt0056589--2024-7-30-19-30
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA wandering drifter\, religious 
+ fanatic Gaunt\, accidentally sees the rape/murder of a black woman\, Marie
+ \, by farm boy Ted. The boy's father\, Link accuses Gaunt of committing th
+ e crime and attempts to get his son to kill both Gaunt ...\n\nhttps://www.
+ imdb.com/title/tt0056589/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
