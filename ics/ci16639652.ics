@@ -1,21 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240715T065746Z
+LAST-MODIFIED:20240717T081849Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Macbeth
-DTSTART;TZID=America/Los_Angeles:20240715T190000
-DTEND;TZID=America/Los_Angeles:20240715T220500
-DTSTAMP:20240716T025300Z
-UID:ci16639652-tt32236501--2024-7-15-19-0
-DESCRIPTION:Duration: 2h 36m (156 mins)\n\nMacbeth encounters witches who 
- foretell his kingship. Lady Macbeth hatches a plot to seize the throne. Gu
- ilt and paranoia consume them as rebellion and Lady Macbeth's spiral lead 
- to their downfall\, prophecies' sinister unraveling.\n\nhttps://www.imdb.c
- om/title/tt32236501/\n\nIMDb rating: 7.8
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 END:VCALENDAR

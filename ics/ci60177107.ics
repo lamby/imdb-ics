@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240715T065716Z
+LAST-MODIFIED:20240717T081816Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Monsieur Hulot's Holiday (1953)
-DTSTART;TZID=America/Los_Angeles:20240715T190000
-DTEND;TZID=America/Los_Angeles:20240715T205000
-DTSTAMP:20240716T025300Z
-UID:ci60177107-tt0046487--2024-7-15-19-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nMonsieur Hulot comes to a beachs
- ide hotel for a vacation and accidentally\, but good-naturedly\, causes ha
- voc.\n\nhttps://www.imdb.com/title/tt0046487/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Longlegs
-DTSTART;TZID=America/Los_Angeles:20240716T190000
-DTEND;TZID=America/Los_Angeles:20240716T211000
-DTSTAMP:20240717T025300Z
-UID:ci60177107-tt23468450--2024-7-16-19-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
-  an FBI agent uncovers a series of occult clues that she must solve to end
-  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who Is Stan Smith? (2022)
 DTSTART;TZID=America/Los_Angeles:20240717T190000
@@ -38,7 +13,7 @@ UID:ci60177107-tt21193152--2024-7-17-19-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA lyrical and emotional journey\
  , charting the extraordinary life of Stan Smith\, the tennis champion turn
  ed fashion icon and humanitarian.\n\nhttps://www.imdb.com/title/tt21193152
- /\n\nIMDb rating: 8.7
+ /\n\nIMDb rating: 8.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -51,7 +26,7 @@ UID:ci60177107-tt21193152--2024-7-18-19-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA lyrical and emotional journey\
  , charting the extraordinary life of Stan Smith\, the tennis champion turn
  ed fashion icon and humanitarian.\n\nhttps://www.imdb.com/title/tt21193152
- /\n\nIMDb rating: 8.7
+ /\n\nIMDb rating: 8.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -316,6 +291,31 @@ DESCRIPTION:Duration: 2h 23m (143 mins)\n\nA young soprano becomes the obs
  ession of a disfigured and murderous musical genius who lives beneath the 
  Paris Opéra House.\n\nhttps://www.imdb.com/title/tt0293508/\n\nIMDb ratin
  g: 7.2
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shredder Orpheus (1990)
+DTSTART;TZID=America/Los_Angeles:20240801T210000
+DTEND;TZID=America/Los_Angeles:20240801T225500
+DTSTAMP:20240802T045300Z
+UID:ci60177107-tt0246231--2024-8-1-21-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSkateboarder named Orpheus and f
+ riends go to Hell to stop television signals that are brainwashing America
+ .\n\nhttps://www.imdb.com/title/tt0246231/\n\nIMDb rating: 5.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zodiac Killer (1971)
+DTSTART;TZID=America/Los_Angeles:20240801T184500
+DTEND;TZID=America/Los_Angeles:20240801T204000
+DTSTAMP:20240802T023800Z
+UID:ci60177107-tt0143016--2024-8-1-18-45
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA serial killer in San Francisco
+  murders without motive or apparent pattern and taunts the police with pho
+ ne calls and letters.\n\nhttps://www.imdb.com/title/tt0143016/\n\nIMDb rat
+ ing: 4.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
