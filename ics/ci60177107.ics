@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240717T081816Z
+LAST-MODIFIED:20240718T102232Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Who Is Stan Smith? (2022)
-DTSTART;TZID=America/Los_Angeles:20240717T190000
-DTEND;TZID=America/Los_Angeles:20240717T210000
-DTSTAMP:20240718T025300Z
-UID:ci60177107-tt21193152--2024-7-17-19-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA lyrical and emotional journey\
- , charting the extraordinary life of Stan Smith\, the tennis champion turn
- ed fashion icon and humanitarian.\n\nhttps://www.imdb.com/title/tt21193152
- /\n\nIMDb rating: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who Is Stan Smith? (2022)
 DTSTART;TZID=America/Los_Angeles:20240718T190000
@@ -316,6 +303,18 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA serial killer in San Francisco
   murders without motive or apparent pattern and taunts the police with pho
  ne calls and letters.\n\nhttps://www.imdb.com/title/tt0143016/\n\nIMDb rat
  ing: 4.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannibal! The Musical (1993)
+DTSTART;TZID=America/Los_Angeles:20240802T210000
+DTEND;TZID=America/Los_Angeles:20240802T230000
+DTSTAMP:20240803T045300Z
+UID:ci60177107-tt0115819--2024-8-2-21-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe sole survivor of an ill-fate
+ d mining expedition tells how his taste for gold was replaced by that of h
+ uman flesh.\n\nhttps://www.imdb.com/title/tt0115819/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

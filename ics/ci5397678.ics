@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240717T081857Z
+LAST-MODIFIED:20240718T102313Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240717T170000
-DTEND;TZID=America/Los_Angeles:20240717T190500
-DTSTAMP:20240718T005300Z
-UID:ci5397678-tt13433802--2024-7-17-17-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA young woman named Sam finds he
- rself trapped in New York City during the early stages of an invasion by a
- lien creatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title
- /tt13433802/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=America/Los_Angeles:20240717T193000
-DTEND;TZID=America/Los_Angeles:20240717T213500
-DTSTAMP:20240718T032300Z
-UID:ci5397678-tt13433802--2024-7-17-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA young woman named Sam finds he
- rself trapped in New York City during the early stages of an invasion by a
- lien creatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title
- /tt13433802/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Quiet Place: Day One
 DTSTART;TZID=America/Los_Angeles:20240718T170000
@@ -53,6 +27,152 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA young woman named Sam finds he
  rself trapped in New York City during the early stages of an invasion by a
  lien creatures with ultra-sensitive hearing.\n\nhttps://www.imdb.com/title
  /tt13433802/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20240719T191500
+DTEND;TZID=America/Los_Angeles:20240719T213500
+DTSTAMP:20240720T030800Z
+UID:ci5397678-tt1517268--2024-7-19-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
+ ime of their lives in the colorful and seemingly perfect world of Barbie L
+ and. However\, when they get a chance to go to the real world\, they soon 
+ discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
+ om/title/tt1517268/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=America/Los_Angeles:20240719T150000
+DTEND;TZID=America/Los_Angeles:20240719T182500
+DTSTAMP:20240719T225300Z
+UID:ci5397678-tt15398776--2024-7-19-15-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20240720T150000
+DTEND;TZID=America/Los_Angeles:20240720T172000
+DTSTAMP:20240720T225300Z
+UID:ci5397678-tt1517268--2024-7-20-15-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
+ ime of their lives in the colorful and seemingly perfect world of Barbie L
+ and. However\, when they get a chance to go to the real world\, they soon 
+ discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
+ om/title/tt1517268/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=America/Los_Angeles:20240720T181500
+DTEND;TZID=America/Los_Angeles:20240720T214000
+DTSTAMP:20240721T020800Z
+UID:ci5397678-tt15398776--2024-7-20-18-15
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20240721T191500
+DTEND;TZID=America/Los_Angeles:20240721T213500
+DTSTAMP:20240722T030800Z
+UID:ci5397678-tt1517268--2024-7-21-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
+ ime of their lives in the colorful and seemingly perfect world of Barbie L
+ and. However\, when they get a chance to go to the real world\, they soon 
+ discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
+ om/title/tt1517268/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=America/Los_Angeles:20240721T150000
+DTEND;TZID=America/Los_Angeles:20240721T182500
+DTSTAMP:20240721T225300Z
+UID:ci5397678-tt15398776--2024-7-21-15-0
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20240722T164500
+DTEND;TZID=America/Los_Angeles:20240722T190500
+DTSTAMP:20240723T003800Z
+UID:ci5397678-tt1517268--2024-7-22-16-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
+ ime of their lives in the colorful and seemingly perfect world of Barbie L
+ and. However\, when they get a chance to go to the real world\, they soon 
+ discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
+ om/title/tt1517268/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20240722T193000
+DTEND;TZID=America/Los_Angeles:20240722T215000
+DTSTAMP:20240723T032300Z
+UID:ci5397678-tt1517268--2024-7-22-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
+ ime of their lives in the colorful and seemingly perfect world of Barbie L
+ and. However\, when they get a chance to go to the real world\, they soon 
+ discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
+ om/title/tt1517268/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=America/Los_Angeles:20240723T174500
+DTEND;TZID=America/Los_Angeles:20240723T211000
+DTSTAMP:20240724T013800Z
+UID:ci5397678-tt15398776--2024-7-23-17-45
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
+  J. Robert Oppenheimer and his role in the development of the atomic bomb.
+ \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20240724T164500
+DTEND;TZID=America/Los_Angeles:20240724T190500
+DTSTAMP:20240725T003800Z
+UID:ci5397678-tt1517268--2024-7-24-16-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
+ ime of their lives in the colorful and seemingly perfect world of Barbie L
+ and. However\, when they get a chance to go to the real world\, they soon 
+ discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
+ om/title/tt1517268/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=America/Los_Angeles:20240724T193000
+DTEND;TZID=America/Los_Angeles:20240724T215000
+DTSTAMP:20240725T032300Z
+UID:ci5397678-tt1517268--2024-7-24-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
+ ime of their lives in the colorful and seemingly perfect world of Barbie L
+ and. However\, when they get a chance to go to the real world\, they soon 
+ discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
+ om/title/tt1517268/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -278,6 +398,42 @@ DTSTART;TZID=America/Los_Angeles:20240801T193000
 DTEND;TZID=America/Los_Angeles:20240801T220500
 DTSTAMP:20240802T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-1-19-30
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=America/Los_Angeles:20240802T161500
+DTEND;TZID=America/Los_Angeles:20240802T185000
+DTSTAMP:20240803T000800Z
+UID:ci5397678-tt6263850--2024-8-2-16-15
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine (3D)
+DTSTART;TZID=America/Los_Angeles:20240802T130000
+DTEND;TZID=America/Los_Angeles:20240802T153500
+DTSTAMP:20240802T205300Z
+UID:ci5397678-tt6263850-3d-2024-8-2-13-0
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine (3D)
+DTSTART;TZID=America/Los_Angeles:20240802T193000
+DTEND;TZID=America/Los_Angeles:20240802T220500
+DTSTAMP:20240803T032300Z
+UID:ci5397678-tt6263850-3d-2024-8-2-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
   to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/

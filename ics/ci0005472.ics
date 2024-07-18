@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240717T081629Z
+LAST-MODIFIED:20240718T102037Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -326,6 +326,33 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
  arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
  the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
  nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240802T191500
+DTEND;TZID=America/Los_Angeles:20240802T214000
+DTSTAMP:20240803T030800Z
+UID:ci0005472-tt0097216--2024-8-2-19-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riki-Oh: The Story of Ricky (1991)
+DTSTART;TZID=America/Los_Angeles:20240802T220000
+DTEND;TZID=America/Los_Angeles:20240803T000000
+DTSTAMP:20240803T055300Z
+UID:ci0005472-tt0102293--2024-8-2-22-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nRiki-Oh\, a young man who has su
+ perhuman strength\, is incarcerated in a private prison\, where inmates ar
+ e treated like slaves. He is forced to use his unstoppable form of martial
+  arts to destroy the corrupt officials and their lack...\n\nhttps://www.im
+ db.com/title/tt0102293/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
