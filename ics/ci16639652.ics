@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240719T070408Z
+LAST-MODIFIED:20240720T084459Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -10,6 +10,20 @@ DTSTART;TZID=America/Los_Angeles:20240803T130000
 DTEND;TZID=America/Los_Angeles:20240803T145500
 DTSTAMP:20240803T205300Z
 UID:ci16639652-tt21831664--2024-8-3-13-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nModern society has an enormous d
+ ebt to the painter Edvard Munch\, from Andy Warhol to Ingmar Bergman\, fro
+ m Marina Abramovic to Jasper Jones. His paintings have become symbols\, bu
+ t also a sign of the tragedies in the twentieth century.\n\nhttps://www.im
+ db.com/title/tt21831664/\n\nIMDb rating: 7.6
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Munch: Love\, Ghosts and Lady Vampires (2022)
+DTSTART;TZID=America/Los_Angeles:20240804T130000
+DTEND;TZID=America/Los_Angeles:20240804T145500
+DTSTAMP:20240804T205300Z
+UID:ci16639652-tt21831664--2024-8-4-13-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nModern society has an enormous d
  ebt to the painter Edvard Munch\, from Andy Warhol to Ingmar Bergman\, fro
  m Marina Abramovic to Jasper Jones. His paintings have become symbols\, bu

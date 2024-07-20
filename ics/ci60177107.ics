@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240719T070337Z
+LAST-MODIFIED:20240720T084428Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Seven Samurai (1954)
-DTSTART;TZID=America/Los_Angeles:20240719T180000
-DTEND;TZID=America/Los_Angeles:20240719T215500
-DTSTAMP:20240720T015300Z
-UID:ci60177107-tt0047478--2024-7-19-18-0
-DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
- d by bandits hire a veteran samurai for protection\, who gathers six other
-  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
- ing: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seven Samurai (1954)
 DTSTART;TZID=America/Los_Angeles:20240720T131500
@@ -315,6 +302,18 @@ DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
  re accident\, a troubled teenager is plagued by visions of a man in a larg
  e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
  /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuckoo
+DTSTART;TZID=America/Los_Angeles:20240804T200000
+DTEND;TZID=America/Los_Angeles:20240804T221000
+DTSTAMP:20240805T035300Z
+UID:ci60177107-tt12349832--2024-8-4-20-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA 17-year old girl is forced to
+  move with her family to a resort where things are not what they seem.\n\n
+ https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

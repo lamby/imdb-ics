@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240719T070143Z
+LAST-MODIFIED:20240720T084237Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Longlegs
-DTSTART;TZID=America/Los_Angeles:20240719T191500
-DTEND;TZID=America/Los_Angeles:20240719T212500
-DTSTAMP:20240720T030800Z
-UID:ci0005472-tt23468450--2024-7-19-19-15
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
-  an FBI agent uncovers a series of occult clues that she must solve to end
-  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Longlegs
-DTSTART;TZID=America/Los_Angeles:20240719T213000
-DTEND;TZID=America/Los_Angeles:20240719T234000
-DTSTAMP:20240720T052300Z
-UID:ci0005472-tt23468450--2024-7-19-21-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
-  an FBI agent uncovers a series of occult clues that she must solve to end
-  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Longlegs
 DTSTART;TZID=America/Los_Angeles:20240720T190000
@@ -376,6 +350,47 @@ DTSTART;TZID=America/Los_Angeles:20240803T161500
 DTEND;TZID=America/Los_Angeles:20240803T175500
 DTSTAMP:20240804T000800Z
 UID:ci0005472-tt0056589--2024-8-3-16-15
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA wandering drifter\, religious 
+ fanatic Gaunt\, accidentally sees the rape/murder of a black woman\, Marie
+ \, by farm boy Ted. The boy's father\, Link accuses Gaunt of committing th
+ e crime and attempts to get his son to kill both Gaunt ...\n\nhttps://www.
+ imdb.com/title/tt0056589/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240804T154500
+DTEND;TZID=America/Los_Angeles:20240804T181000
+DTSTAMP:20240804T233800Z
+UID:ci0005472-tt0097216--2024-8-4-15-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riki-Oh: The Story of Ricky (1991)
+DTSTART;TZID=America/Los_Angeles:20240804T203000
+DTEND;TZID=America/Los_Angeles:20240804T223000
+DTSTAMP:20240805T042300Z
+UID:ci0005472-tt0102293--2024-8-4-20-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nRiki-Oh\, a young man who has su
+ perhuman strength\, is incarcerated in a private prison\, where inmates ar
+ e treated like slaves. He is forced to use his unstoppable form of martial
+  arts to destroy the corrupt officials and their lack...\n\nhttps://www.im
+ db.com/title/tt0102293/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time of the Heathen (1961)
+DTSTART;TZID=America/Los_Angeles:20240804T183000
+DTEND;TZID=America/Los_Angeles:20240804T201000
+DTSTAMP:20240805T022300Z
+UID:ci0005472-tt0056589--2024-8-4-18-30
 DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA wandering drifter\, religious 
  fanatic Gaunt\, accidentally sees the rape/murder of a black woman\, Marie
  \, by farm boy Ted. The boy's father\, Link accuses Gaunt of committing th
