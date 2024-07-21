@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240720T084508Z
+LAST-MODIFIED:20240721T070621Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20240720T150000
-DTEND;TZID=America/Los_Angeles:20240720T172000
-DTSTAMP:20240720T225300Z
-UID:ci5397678-tt1517268--2024-7-20-15-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
- ime of their lives in the colorful and seemingly perfect world of Barbie L
- and. However\, when they get a chance to go to the real world\, they soon 
- discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
- om/title/tt1517268/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=America/Los_Angeles:20240720T181500
-DTEND;TZID=America/Los_Angeles:20240720T214000
-DTSTAMP:20240721T020800Z
-UID:ci5397678-tt15398776--2024-7-20-18-15
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nThe story of American scientist
-  J. Robert Oppenheimer and his role in the development of the atomic bomb.
- \n\nhttps://www.imdb.com/title/tt15398776/\n\nIMDb rating: 8.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=America/Los_Angeles:20240721T191500
@@ -454,6 +428,30 @@ DTSTART;TZID=America/Los_Angeles:20240804T193000
 DTEND;TZID=America/Los_Angeles:20240804T220500
 DTSTAMP:20240805T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-4-19-30
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=America/Los_Angeles:20240805T161500
+DTEND;TZID=America/Los_Angeles:20240805T185000
+DTSTAMP:20240806T000800Z
+UID:ci5397678-tt6263850--2024-8-5-16-15
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine (3D)
+DTSTART;TZID=America/Los_Angeles:20240805T193000
+DTEND;TZID=America/Los_Angeles:20240805T220500
+DTSTAMP:20240806T032300Z
+UID:ci5397678-tt6263850-3d-2024-8-5-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
   to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/

@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240720T084428Z
+LAST-MODIFIED:20240721T070538Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Seven Samurai (1954)
-DTSTART;TZID=America/Los_Angeles:20240720T131500
-DTEND;TZID=America/Los_Angeles:20240720T171000
-DTSTAMP:20240720T210800Z
-UID:ci60177107-tt0047478--2024-7-20-13-15
-DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
- d by bandits hire a veteran samurai for protection\, who gathers six other
-  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
- ing: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Samurai (1954)
-DTSTART;TZID=America/Los_Angeles:20240720T180000
-DTEND;TZID=America/Los_Angeles:20240720T215500
-DTSTAMP:20240721T015300Z
-UID:ci60177107-tt0047478--2024-7-20-18-0
-DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
- d by bandits hire a veteran samurai for protection\, who gathers six other
-  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
- ing: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Brother from Another Planet (1984)
 DTSTART;TZID=America/Los_Angeles:20240721T190000
@@ -313,7 +287,21 @@ DTSTAMP:20240805T035300Z
 UID:ci60177107-tt12349832--2024-8-4-20-0
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA 17-year old girl is forced to
   move with her family to a resort where things are not what they seem.\n\n
- https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.7
+ https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminal USA (1993)
+DTSTART;TZID=America/Los_Angeles:20240805T210000
+DTEND;TZID=America/Los_Angeles:20240805T222000
+DTSTAMP:20240806T045300Z
+UID:ci60177107-tt0111399--2024-8-5-21-0
+DESCRIPTION:Duration: 0h 54m (54 mins)\n\nTerminal USA is the story of a J
+ apanese-American family with more than their fair share of quirks. Ma (Sha
+ ron Omi) is stealing grandpa's morphine\, Airhead sister (Jenny Woo) is ha
+ ving sex with the family lawyer\, One brother (Jon M...\n\nhttps://www.imd
+ b.com/title/tt0111399/\n\nIMDb rating: 6.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

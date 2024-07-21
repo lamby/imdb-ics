@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240720T084237Z
+LAST-MODIFIED:20240721T070336Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Longlegs
-DTSTART;TZID=America/Los_Angeles:20240720T190000
-DTEND;TZID=America/Los_Angeles:20240720T211000
-DTSTAMP:20240721T025300Z
-UID:ci0005472-tt23468450--2024-7-20-19-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nIn pursuit of a serial killer\,
-  an FBI agent uncovers a series of occult clues that she must solve to end
-  his terrifying killing spree.\n\nhttps://www.imdb.com/title/tt23468450/\n
- \nIMDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music for Black Pigeons (2022)
-DTSTART;TZID=America/Los_Angeles:20240720T160000
-DTEND;TZID=America/Los_Angeles:20240720T180000
-DTSTAMP:20240720T235300Z
-UID:ci0005472-tt21376876--2024-7-20-16-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA documentary that explores the 
- lives and processes of some of the world's most renowned and prolific jazz
-  musicians.\n\nhttps://www.imdb.com/title/tt21376876/\n\nIMDb rating: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Longlegs
 DTSTART;TZID=America/Los_Angeles:20240721T153000
@@ -396,6 +371,19 @@ DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA wandering drifter\, religious
  \, by farm boy Ted. The boy's father\, Link accuses Gaunt of committing th
  e crime and attempts to get his son to kill both Gaunt ...\n\nhttps://www.
  imdb.com/title/tt0056589/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240805T191500
+DTEND;TZID=America/Los_Angeles:20240805T214000
+DTSTAMP:20240806T030800Z
+UID:ci0005472-tt0097216--2024-8-5-19-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
