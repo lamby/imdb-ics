@@ -1,81 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240721T070657Z
+LAST-MODIFIED:20240723T082048Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:But I'm a Cheerleader (1999)
-DTSTART;TZID=America/Los_Angeles:20240721T160000
-DTEND;TZID=America/Los_Angeles:20240721T180000
-DTSTAMP:20240721T235300Z
-UID:ci0015312-tt0179116--2024-7-21-16-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA naive teenager is sent to reha
- b camp when her straitlaced parents and friends suspect her of being a les
- bian.\n\nhttps://www.imdb.com/title/tt0179116/\n\nIMDb rating: 6.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:But I'm a Cheerleader (1999)
-DTSTART;TZID=America/Los_Angeles:20240721T213000
-DTEND;TZID=America/Los_Angeles:20240721T233000
-DTSTAMP:20240722T052300Z
-UID:ci0015312-tt0179116--2024-7-21-21-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA naive teenager is sent to reha
- b camp when her straitlaced parents and friends suspect her of being a les
- bian.\n\nhttps://www.imdb.com/title/tt0179116/\n\nIMDb rating: 6.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Iron Giant (1999)
-DTSTART;TZID=America/Los_Angeles:20240721T190000
-DTEND;TZID=America/Los_Angeles:20240721T205500
-DTSTAMP:20240722T025300Z
-UID:ci0015312-tt0129167--2024-7-21-19-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA young boy befriends a giant ro
- bot from outer space that a paranoid government agent wants to destroy.\n\
- nhttps://www.imdb.com/title/tt0129167/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:But I'm a Cheerleader (1999)
-DTSTART;TZID=America/Los_Angeles:20240722T160000
-DTEND;TZID=America/Los_Angeles:20240722T180000
-DTSTAMP:20240722T235300Z
-UID:ci0015312-tt0179116--2024-7-22-16-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA naive teenager is sent to reha
- b camp when her straitlaced parents and friends suspect her of being a les
- bian.\n\nhttps://www.imdb.com/title/tt0179116/\n\nIMDb rating: 6.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:But I'm a Cheerleader (1999)
-DTSTART;TZID=America/Los_Angeles:20240722T213000
-DTEND;TZID=America/Los_Angeles:20240722T233000
-DTSTAMP:20240723T052300Z
-UID:ci0015312-tt0179116--2024-7-22-21-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA naive teenager is sent to reha
- b camp when her straitlaced parents and friends suspect her of being a les
- bian.\n\nhttps://www.imdb.com/title/tt0179116/\n\nIMDb rating: 6.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Iron Giant (1999)
-DTSTART;TZID=America/Los_Angeles:20240722T190000
-DTEND;TZID=America/Los_Angeles:20240722T205500
-DTSTAMP:20240723T025300Z
-UID:ci0015312-tt0129167--2024-7-22-19-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA young boy befriends a giant ro
- bot from outer space that a paranoid government agent wants to destroy.\n\
- nhttps://www.imdb.com/title/tt0129167/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:But I'm a Cheerleader (1999)
 DTSTART;TZID=America/Los_Angeles:20240723T160000
