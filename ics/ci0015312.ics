@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240723T082048Z
+LAST-MODIFIED:20240724T082806Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:But I'm a Cheerleader (1999)
-DTSTART;TZID=America/Los_Angeles:20240723T160000
-DTEND;TZID=America/Los_Angeles:20240723T180000
-DTSTAMP:20240723T235300Z
-UID:ci0015312-tt0179116--2024-7-23-16-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA naive teenager is sent to reha
- b camp when her straitlaced parents and friends suspect her of being a les
- bian.\n\nhttps://www.imdb.com/title/tt0179116/\n\nIMDb rating: 6.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:But I'm a Cheerleader (1999)
-DTSTART;TZID=America/Los_Angeles:20240723T213000
-DTEND;TZID=America/Los_Angeles:20240723T233000
-DTSTAMP:20240724T052300Z
-UID:ci0015312-tt0179116--2024-7-23-21-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA naive teenager is sent to reha
- b camp when her straitlaced parents and friends suspect her of being a les
- bian.\n\nhttps://www.imdb.com/title/tt0179116/\n\nIMDb rating: 6.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Iron Giant (1999)
-DTSTART;TZID=America/Los_Angeles:20240723T190000
-DTEND;TZID=America/Los_Angeles:20240723T205500
-DTSTAMP:20240724T025300Z
-UID:ci0015312-tt0129167--2024-7-23-19-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA young boy befriends a giant ro
- bot from outer space that a paranoid government agent wants to destroy.\n\
- nhttps://www.imdb.com/title/tt0129167/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:But I'm a Cheerleader (1999)
 DTSTART;TZID=America/Los_Angeles:20240724T160000
@@ -86,6 +50,210 @@ DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
  s mission comes face to face with a steely cop serving British forces in t
  his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
  tt8178634/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight Club (1999)
+DTSTART;TZID=America/Los_Angeles:20240726T213000
+DTEND;TZID=America/Los_Angeles:20240727T001500
+DTSTAMP:20240727T052300Z
+UID:ci0015312-tt0137523--2024-7-26-21-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn insomniac office worker and 
+ a devil-may-care soap maker form an underground fight club that evolves in
+ to much more.\n\nhttps://www.imdb.com/title/tt0137523/\n\nIMDb rating: 8.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240726T160000
+DTEND;TZID=America/Los_Angeles:20240726T182000
+DTSTAMP:20240726T235300Z
+UID:ci0015312-tt0089218--2024-7-26-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240726T190000
+DTEND;TZID=America/Los_Angeles:20240726T212000
+DTSTAMP:20240727T025300Z
+UID:ci0015312-tt0089218--2024-7-26-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight Club (1999)
+DTSTART;TZID=America/Los_Angeles:20240727T213000
+DTEND;TZID=America/Los_Angeles:20240728T001500
+DTSTAMP:20240728T052300Z
+UID:ci0015312-tt0137523--2024-7-27-21-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn insomniac office worker and 
+ a devil-may-care soap maker form an underground fight club that evolves in
+ to much more.\n\nhttps://www.imdb.com/title/tt0137523/\n\nIMDb rating: 8.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240727T160000
+DTEND;TZID=America/Los_Angeles:20240727T182000
+DTSTAMP:20240727T235300Z
+UID:ci0015312-tt0089218--2024-7-27-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240727T190000
+DTEND;TZID=America/Los_Angeles:20240727T212000
+DTSTAMP:20240728T025300Z
+UID:ci0015312-tt0089218--2024-7-27-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight Club (1999)
+DTSTART;TZID=America/Los_Angeles:20240728T213000
+DTEND;TZID=America/Los_Angeles:20240729T001500
+DTSTAMP:20240729T052300Z
+UID:ci0015312-tt0137523--2024-7-28-21-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn insomniac office worker and 
+ a devil-may-care soap maker form an underground fight club that evolves in
+ to much more.\n\nhttps://www.imdb.com/title/tt0137523/\n\nIMDb rating: 8.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240728T160000
+DTEND;TZID=America/Los_Angeles:20240728T182000
+DTSTAMP:20240728T235300Z
+UID:ci0015312-tt0089218--2024-7-28-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240728T190000
+DTEND;TZID=America/Los_Angeles:20240728T212000
+DTSTAMP:20240729T025300Z
+UID:ci0015312-tt0089218--2024-7-28-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight Club (1999)
+DTSTART;TZID=America/Los_Angeles:20240730T213000
+DTEND;TZID=America/Los_Angeles:20240731T001500
+DTSTAMP:20240731T052300Z
+UID:ci0015312-tt0137523--2024-7-30-21-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn insomniac office worker and 
+ a devil-may-care soap maker form an underground fight club that evolves in
+ to much more.\n\nhttps://www.imdb.com/title/tt0137523/\n\nIMDb rating: 8.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240730T160000
+DTEND;TZID=America/Los_Angeles:20240730T182000
+DTSTAMP:20240730T235300Z
+UID:ci0015312-tt0089218--2024-7-30-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240730T190000
+DTEND;TZID=America/Los_Angeles:20240730T212000
+DTSTAMP:20240731T025300Z
+UID:ci0015312-tt0089218--2024-7-30-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight Club (1999)
+DTSTART;TZID=America/Los_Angeles:20240731T213000
+DTEND;TZID=America/Los_Angeles:20240801T001500
+DTSTAMP:20240801T052300Z
+UID:ci0015312-tt0137523--2024-7-31-21-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn insomniac office worker and 
+ a devil-may-care soap maker form an underground fight club that evolves in
+ to much more.\n\nhttps://www.imdb.com/title/tt0137523/\n\nIMDb rating: 8.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240731T160000
+DTEND;TZID=America/Los_Angeles:20240731T182000
+DTSTAMP:20240731T235300Z
+UID:ci0015312-tt0089218--2024-7-31-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies (1985)
+DTSTART;TZID=America/Los_Angeles:20240731T190000
+DTEND;TZID=America/Los_Angeles:20240731T212000
+DTSTAMP:20240801T025300Z
+UID:ci0015312-tt0089218--2024-7-31-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
+  The Goonies discover an ancient map and set out on an adventure to find a
+  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
+ 89218/\n\nIMDb rating: 7.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Face/Off (1997)
+DTSTART;TZID=America/Los_Angeles:20240801T200000
+DTEND;TZID=America/Los_Angeles:20240801T224500
+DTSTAMP:20240802T035300Z
+UID:ci0015312-tt0119094--2024-8-1-20-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, FBI 
+ agent Sean Archer assumes the identity of the criminal Castor Troy who mur
+ dered his son through facial transplant surgery\, but the crook wakes up p
+ rematurely and vows revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n\nI
+ MDb rating: 7.3
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT

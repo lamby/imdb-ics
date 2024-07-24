@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240723T081915Z
+LAST-MODIFIED:20240724T082635Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fantastic Fungi (2019)
-DTSTART;TZID=America/Los_Angeles:20240723T170000
-DTEND;TZID=America/Los_Angeles:20240723T185000
-DTSTAMP:20240724T005300Z
-UID:ci16639653-tt8258074--2024-7-23-17-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nFantastic Fungi is a descriptive
-  time-lapse journey about the magical\, mysterious and medicinal world of 
- fungi and their power to heal\, sustain and contribute to the regeneration
-  of life on Earth that began 3.5 billion years ago.\n\nhttps://www.imdb.co
- m/title/tt8258074/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fly Me to the Moon
-DTSTART;TZID=America/Los_Angeles:20240723T160000
-DTEND;TZID=America/Los_Angeles:20240723T184000
-DTSTAMP:20240723T235300Z
-UID:ci16639653-tt1896747--2024-7-23-16-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nMarketing maven Kelly Jones wre
- aks havoc on launch director Cole Davis's already difficult task. When the
-  White House deems the mission too important to fail\, the countdown truly
-  begins.\n\nhttps://www.imdb.com/title/tt1896747/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fly Me to the Moon
-DTSTART;TZID=America/Los_Angeles:20240723T191500
-DTEND;TZID=America/Los_Angeles:20240723T215500
-DTSTAMP:20240724T030800Z
-UID:ci16639653-tt1896747--2024-7-23-19-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nMarketing maven Kelly Jones wre
- aks havoc on launch director Cole Davis's already difficult task. When the
-  White House deems the mission too important to fail\, the countdown truly
-  begins.\n\nhttps://www.imdb.com/title/tt1896747/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240723T190000
-DTEND;TZID=America/Los_Angeles:20240723T221000
-DTSTAMP:20240724T025300Z
-UID:ci16639653-tt22408160--2024-7-23-19-0
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fly Me to the Moon
 DTSTART;TZID=America/Los_Angeles:20240724T160000
@@ -179,6 +125,46 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240726T184500
+DTEND;TZID=America/Los_Angeles:20240726T215500
+DTSTAMP:20240727T023800Z
+UID:ci16639653-tt22408160--2024-7-26-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240726T163000
+DTEND;TZID=America/Los_Angeles:20240726T183500
+DTSTAMP:20240727T002300Z
+UID:ci16639653-tt23778968--2024-7-26-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240726T190000
+DTEND;TZID=America/Los_Angeles:20240726T210500
+DTSTAMP:20240727T025300Z
+UID:ci16639653-tt23778968--2024-7-26-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Adios Buenos Aires
 DTSTART;TZID=America/Los_Angeles:20240727T143000
 DTEND;TZID=America/Los_Angeles:20240727T162500
@@ -214,6 +200,73 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nArgentina\, 2001. A shoe salesma
  n and avid bandoneon player is forced to emigrate to Germany\, but then he
   meets a beautiful but foulmouthed taxi driver as his tango band gets a ne
  w singer.\n\nhttps://www.imdb.com/title/tt27042638/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240727T151500
+DTEND;TZID=America/Los_Angeles:20240727T182500
+DTSTAMP:20240727T230800Z
+UID:ci16639653-tt22408160--2024-7-27-15-15
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240727T184500
+DTEND;TZID=America/Los_Angeles:20240727T215500
+DTSTAMP:20240728T023800Z
+UID:ci16639653-tt22408160--2024-7-27-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240727T142000
+DTEND;TZID=America/Los_Angeles:20240727T162500
+DTSTAMP:20240727T221300Z
+UID:ci16639653-tt23778968--2024-7-27-14-20
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240727T163000
+DTEND;TZID=America/Los_Angeles:20240727T183500
+DTSTAMP:20240728T002300Z
+UID:ci16639653-tt23778968--2024-7-27-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240727T190000
+DTEND;TZID=America/Los_Angeles:20240727T210500
+DTSTAMP:20240728T025300Z
+UID:ci16639653-tt23778968--2024-7-27-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -257,6 +310,100 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240728T114500
+DTEND;TZID=America/Los_Angeles:20240728T145500
+DTSTAMP:20240728T193800Z
+UID:ci16639653-tt22408160--2024-7-28-11-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240728T151500
+DTEND;TZID=America/Los_Angeles:20240728T182500
+DTSTAMP:20240728T230800Z
+UID:ci16639653-tt22408160--2024-7-28-15-15
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240728T184500
+DTEND;TZID=America/Los_Angeles:20240728T215500
+DTSTAMP:20240729T023800Z
+UID:ci16639653-tt22408160--2024-7-28-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240728T120000
+DTEND;TZID=America/Los_Angeles:20240728T140500
+DTSTAMP:20240728T195300Z
+UID:ci16639653-tt23778968--2024-7-28-12-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240728T141500
+DTEND;TZID=America/Los_Angeles:20240728T162000
+DTSTAMP:20240728T220800Z
+UID:ci16639653-tt23778968--2024-7-28-14-15
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240728T163000
+DTEND;TZID=America/Los_Angeles:20240728T183500
+DTSTAMP:20240729T002300Z
+UID:ci16639653-tt23778968--2024-7-28-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240728T190000
+DTEND;TZID=America/Los_Angeles:20240728T210500
+DTSTAMP:20240729T025300Z
+UID:ci16639653-tt23778968--2024-7-28-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Adios Buenos Aires
 DTSTART;TZID=America/Los_Angeles:20240729T170000
 DTEND;TZID=America/Los_Angeles:20240729T185500
@@ -279,6 +426,60 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nArgentina\, 2001. A shoe salesma
  n and avid bandoneon player is forced to emigrate to Germany\, but then he
   meets a beautiful but foulmouthed taxi driver as his tango band gets a ne
  w singer.\n\nhttps://www.imdb.com/title/tt27042638/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240729T151500
+DTEND;TZID=America/Los_Angeles:20240729T182500
+DTSTAMP:20240729T230800Z
+UID:ci16639653-tt22408160--2024-7-29-15-15
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240729T184500
+DTEND;TZID=America/Los_Angeles:20240729T215500
+DTSTAMP:20240730T023800Z
+UID:ci16639653-tt22408160--2024-7-29-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240729T163000
+DTEND;TZID=America/Los_Angeles:20240729T183500
+DTSTAMP:20240730T002300Z
+UID:ci16639653-tt23778968--2024-7-29-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240729T190000
+DTEND;TZID=America/Los_Angeles:20240729T210500
+DTSTAMP:20240730T025300Z
+UID:ci16639653-tt23778968--2024-7-29-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -309,6 +510,47 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240730T151500
+DTEND;TZID=America/Los_Angeles:20240730T182500
+DTSTAMP:20240730T230800Z
+UID:ci16639653-tt22408160--2024-7-30-15-15
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240730T184500
+DTEND;TZID=America/Los_Angeles:20240730T215500
+DTSTAMP:20240731T023800Z
+UID:ci16639653-tt22408160--2024-7-30-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240730T163000
+DTEND;TZID=America/Los_Angeles:20240730T183500
+DTSTAMP:20240731T002300Z
+UID:ci16639653-tt23778968--2024-7-30-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Adios Buenos Aires
 DTSTART;TZID=America/Los_Angeles:20240731T170000
 DTEND;TZID=America/Los_Angeles:20240731T185500
@@ -331,6 +573,47 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nArgentina\, 2001. A shoe salesma
  n and avid bandoneon player is forced to emigrate to Germany\, but then he
   meets a beautiful but foulmouthed taxi driver as his tango band gets a ne
  w singer.\n\nhttps://www.imdb.com/title/tt27042638/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240731T151500
+DTEND;TZID=America/Los_Angeles:20240731T182500
+DTSTAMP:20240731T230800Z
+UID:ci16639653-tt22408160--2024-7-31-15-15
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240731T184500
+DTEND;TZID=America/Los_Angeles:20240731T215500
+DTSTAMP:20240801T023800Z
+UID:ci16639653-tt22408160--2024-7-31-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240731T163000
+DTEND;TZID=America/Los_Angeles:20240731T183500
+DTSTAMP:20240801T002300Z
+UID:ci16639653-tt23778968--2024-7-31-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -361,6 +644,201 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240801T151500
+DTEND;TZID=America/Los_Angeles:20240801T182500
+DTSTAMP:20240801T230800Z
+UID:ci16639653-tt22408160--2024-8-1-15-15
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240801T184500
+DTEND;TZID=America/Los_Angeles:20240801T215500
+DTSTAMP:20240802T023800Z
+UID:ci16639653-tt22408160--2024-8-1-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240801T190000
+DTEND;TZID=America/Los_Angeles:20240801T211000
+DTSTAMP:20240802T025300Z
+UID:ci16639653-tt27367464--2024-8-1-19-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240801T163000
+DTEND;TZID=America/Los_Angeles:20240801T183500
+DTSTAMP:20240802T002300Z
+UID:ci16639653-tt23778968--2024-8-1-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240802T161500
+DTEND;TZID=America/Los_Angeles:20240802T182500
+DTSTAMP:20240803T000800Z
+UID:ci16639653-tt27367464--2024-8-2-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240802T191500
+DTEND;TZID=America/Los_Angeles:20240802T212500
+DTSTAMP:20240803T030800Z
+UID:ci16639653-tt27367464--2024-8-2-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240803T134500
+DTEND;TZID=America/Los_Angeles:20240803T155500
+DTSTAMP:20240803T213800Z
+UID:ci16639653-tt27367464--2024-8-3-13-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240803T161500
+DTEND;TZID=America/Los_Angeles:20240803T182500
+DTSTAMP:20240804T000800Z
+UID:ci16639653-tt27367464--2024-8-3-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240803T191500
+DTEND;TZID=America/Los_Angeles:20240803T212500
+DTSTAMP:20240804T030800Z
+UID:ci16639653-tt27367464--2024-8-3-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240804T134500
+DTEND;TZID=America/Los_Angeles:20240804T155500
+DTSTAMP:20240804T213800Z
+UID:ci16639653-tt27367464--2024-8-4-13-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240804T161500
+DTEND;TZID=America/Los_Angeles:20240804T182500
+DTSTAMP:20240805T000800Z
+UID:ci16639653-tt27367464--2024-8-4-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240804T191500
+DTEND;TZID=America/Los_Angeles:20240804T212500
+DTSTAMP:20240805T030800Z
+UID:ci16639653-tt27367464--2024-8-4-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240805T161500
+DTEND;TZID=America/Los_Angeles:20240805T182500
+DTSTAMP:20240806T000800Z
+UID:ci16639653-tt27367464--2024-8-5-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240805T191500
+DTEND;TZID=America/Los_Angeles:20240805T212500
+DTSTAMP:20240806T030800Z
+UID:ci16639653-tt27367464--2024-8-5-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heaven Adores You (2014)
 DTSTART;TZID=America/Los_Angeles:20240806T190000
 DTEND;TZID=America/Los_Angeles:20240806T211000
@@ -375,6 +853,62 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240806T161500
+DTEND;TZID=America/Los_Angeles:20240806T182500
+DTSTAMP:20240807T000800Z
+UID:ci16639653-tt27367464--2024-8-6-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240806T191500
+DTEND;TZID=America/Los_Angeles:20240806T212500
+DTSTAMP:20240807T030800Z
+UID:ci16639653-tt27367464--2024-8-6-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240807T161500
+DTEND;TZID=America/Los_Angeles:20240807T182500
+DTSTAMP:20240808T000800Z
+UID:ci16639653-tt27367464--2024-8-7-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240807T191500
+DTEND;TZID=America/Los_Angeles:20240807T212500
+DTSTAMP:20240808T030800Z
+UID:ci16639653-tt27367464--2024-8-7-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Crow (1994)
 DTSTART;TZID=America/Los_Angeles:20240807T180000
 DTEND;TZID=America/Los_Angeles:20240807T201000
@@ -385,6 +919,48 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\n\nThe night before his wedding\,
  a violent gang. On the anniversary of their death\, Eric rises from the gr
  ave and assumes the mantle of the Crow\, a supernatural...\n\nhttps://www.
  imdb.com/title/tt0109506/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240808T193000
+DTEND;TZID=America/Los_Angeles:20240808T213000
+DTSTAMP:20240809T032300Z
+UID:ci16639653-tt30319503--2024-8-8-19-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240808T161500
+DTEND;TZID=America/Los_Angeles:20240808T182500
+DTSTAMP:20240809T000800Z
+UID:ci16639653-tt27367464--2024-8-8-16-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=America/Los_Angeles:20240808T191500
+DTEND;TZID=America/Los_Angeles:20240808T212500
+DTSTAMP:20240809T030800Z
+UID:ci16639653-tt27367464--2024-8-8-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
+ r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
+  the needle drops on a hip hop act like no other. Rapping in their native 
+ Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
+ db.com/title/tt27367464/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

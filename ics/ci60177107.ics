@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240723T081930Z
+LAST-MODIFIED:20240724T082650Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Seven Samurai (1954)
-DTSTART;TZID=America/Los_Angeles:20240723T180000
-DTEND;TZID=America/Los_Angeles:20240723T215500
-DTSTAMP:20240724T015300Z
-UID:ci60177107-tt0047478--2024-7-23-18-0
-DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
- d by bandits hire a veteran samurai for protection\, who gathers six other
-  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
- ing: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seven Samurai (1954)
 DTSTART;TZID=America/Los_Angeles:20240724T180000
@@ -302,6 +289,18 @@ DESCRIPTION:Duration: 1h 07m (67 mins)\n\nAn Egyptian caterer kills variou
  s women in suburban Miami to use their body parts to revive a dormant Egyp
  tian goddess while an inept police detective tries to track him down.\n\nh
  ttps://www.imdb.com/title/tt0056875/\n\nIMDb rating: 5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attack of the Beast Creatures (1985)
+DTSTART;TZID=America/Los_Angeles:20240808T210000
+DTEND;TZID=America/Los_Angeles:20240808T225000
+DTSTAMP:20240809T045300Z
+UID:ci60177107-tt0088752--2024-8-8-21-0
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nSurvivors of a shipwreck wash up
+  on an island\, and run into small vicious creatures.\n\nhttps://www.imdb.
+ com/title/tt0088752/\n\nIMDb rating: 4.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
