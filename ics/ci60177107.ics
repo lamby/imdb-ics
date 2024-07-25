@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240724T082650Z
+LAST-MODIFIED:20240725T084605Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Seven Samurai (1954)
-DTSTART;TZID=America/Los_Angeles:20240724T180000
-DTEND;TZID=America/Los_Angeles:20240724T215500
-DTSTAMP:20240725T015300Z
-UID:ci60177107-tt0047478--2024-7-24-18-0
-DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
- d by bandits hire a veteran samurai for protection\, who gathers six other
-  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
- ing: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Suburbia (1983)
 DTSTART;TZID=America/Los_Angeles:20240725T211500
@@ -36,11 +23,10 @@ DTSTART;TZID=America/Los_Angeles:20240725T180000
 DTEND;TZID=America/Los_Angeles:20240725T201500
 DTSTAMP:20240726T015300Z
 UID:ci60177107-tt0088247--2024-7-25-18-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA human soldier is sent from 20
- 29 to 1984 to stop an almost indestructible cyborg killing machine\, sent 
- from the same year\, which has been programmed to execute a young woman wh
- ose unborn son is the key to humanity's future salvat...\n\nhttps://www.im
- db.com/title/tt0088247/\n\nIMDb rating: 8.1
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Terminator\, a cyborg assas
+ sin from the future\, attempts to find and kill Sarah Connor\, a waitress 
+ who is destined to give birth to a man who will save humankind from extinc
+ tion.\n\nhttps://www.imdb.com/title/tt0088247/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -261,7 +247,7 @@ DTSTAMP:20240805T035300Z
 UID:ci60177107-tt12349832--2024-8-4-20-0
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA 17-year old girl is forced to
   move with her family to a resort where things are not what they seem.\n\n
- https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.8
+ https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -301,6 +287,34 @@ UID:ci60177107-tt0088752--2024-8-8-21-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nSurvivors of a shipwreck wash up
   on an island\, and run into small vicious creatures.\n\nhttps://www.imdb.
  com/title/tt0088752/\n\nIMDb rating: 4.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240809T161500
+DTEND;TZID=America/Los_Angeles:20240809T183000
+DTSTAMP:20240810T000800Z
+UID:ci60177107-tt27417166--2024-8-9-16-15
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240809T190000
+DTEND;TZID=America/Los_Angeles:20240809T211500
+DTSTAMP:20240810T025300Z
+UID:ci60177107-tt27417166--2024-8-9-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

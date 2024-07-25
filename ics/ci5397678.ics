@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240724T082733Z
+LAST-MODIFIED:20240725T084652Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20240724T164500
-DTEND;TZID=America/Los_Angeles:20240724T190500
-DTSTAMP:20240725T003800Z
-UID:ci5397678-tt1517268--2024-7-24-16-45
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
- ime of their lives in the colorful and seemingly perfect world of Barbie L
- and. However\, when they get a chance to go to the real world\, they soon 
- discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
- om/title/tt1517268/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=America/Los_Angeles:20240724T193000
-DTEND;TZID=America/Los_Angeles:20240724T215000
-DTSTAMP:20240725T032300Z
-UID:ci5397678-tt1517268--2024-7-24-19-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nBarbie and Ken are having the t
- ime of their lives in the colorful and seemingly perfect world of Barbie L
- and. However\, when they get a chance to go to the real world\, they soon 
- discover the joys and perils of living among humans.\n\nhttps://www.imdb.c
- om/title/tt1517268/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deadpool & Wolverine
 DTSTART;TZID=America/Los_Angeles:20240725T161500
@@ -40,7 +12,8 @@ DTSTAMP:20240726T000800Z
 UID:ci5397678-tt6263850--2024-7-25-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -52,7 +25,8 @@ DTSTAMP:20240726T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-25-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -64,7 +38,8 @@ DTSTAMP:20240727T000800Z
 UID:ci5397678-tt6263850--2024-7-26-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -76,7 +51,8 @@ DTSTAMP:20240726T205300Z
 UID:ci5397678-tt6263850-3d-2024-7-26-13-0
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -88,7 +64,8 @@ DTSTAMP:20240727T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-26-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -100,7 +77,8 @@ DTSTAMP:20240728T000800Z
 UID:ci5397678-tt6263850--2024-7-27-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -112,7 +90,8 @@ DTSTAMP:20240727T205300Z
 UID:ci5397678-tt6263850-3d-2024-7-27-13-0
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -124,7 +103,8 @@ DTSTAMP:20240728T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-27-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -136,7 +116,8 @@ DTSTAMP:20240729T000800Z
 UID:ci5397678-tt6263850--2024-7-28-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -148,7 +129,8 @@ DTSTAMP:20240728T205300Z
 UID:ci5397678-tt6263850-3d-2024-7-28-13-0
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -160,7 +142,8 @@ DTSTAMP:20240729T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-28-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -172,7 +155,8 @@ DTSTAMP:20240730T000800Z
 UID:ci5397678-tt6263850--2024-7-29-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -184,7 +168,8 @@ DTSTAMP:20240730T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-29-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -196,7 +181,8 @@ DTSTAMP:20240731T000800Z
 UID:ci5397678-tt6263850--2024-7-30-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -208,7 +194,8 @@ DTSTAMP:20240731T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-30-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -220,7 +207,8 @@ DTSTAMP:20240801T000800Z
 UID:ci5397678-tt6263850--2024-7-31-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -232,7 +220,8 @@ DTSTAMP:20240801T032300Z
 UID:ci5397678-tt6263850-3d-2024-7-31-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -244,7 +233,8 @@ DTSTAMP:20240802T000800Z
 UID:ci5397678-tt6263850--2024-8-1-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -256,7 +246,8 @@ DTSTAMP:20240802T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-1-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -268,7 +259,8 @@ DTSTAMP:20240803T000800Z
 UID:ci5397678-tt6263850--2024-8-2-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -280,7 +272,8 @@ DTSTAMP:20240802T205300Z
 UID:ci5397678-tt6263850-3d-2024-8-2-13-0
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -292,7 +285,8 @@ DTSTAMP:20240803T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-2-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -304,7 +298,8 @@ DTSTAMP:20240804T000800Z
 UID:ci5397678-tt6263850--2024-8-3-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -316,7 +311,8 @@ DTSTAMP:20240803T205300Z
 UID:ci5397678-tt6263850-3d-2024-8-3-13-0
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -328,7 +324,8 @@ DTSTAMP:20240804T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-3-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -340,7 +337,8 @@ DTSTAMP:20240805T000800Z
 UID:ci5397678-tt6263850--2024-8-4-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -352,7 +350,8 @@ DTSTAMP:20240804T205300Z
 UID:ci5397678-tt6263850-3d-2024-8-4-13-0
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -364,7 +363,8 @@ DTSTAMP:20240805T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-4-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -376,7 +376,8 @@ DTSTAMP:20240806T000800Z
 UID:ci5397678-tt6263850--2024-8-5-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -388,7 +389,8 @@ DTSTAMP:20240806T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-5-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -400,7 +402,8 @@ DTSTAMP:20240807T000800Z
 UID:ci5397678-tt6263850--2024-8-6-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -412,7 +415,8 @@ DTSTAMP:20240807T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-6-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -424,7 +428,8 @@ DTSTAMP:20240808T000800Z
 UID:ci5397678-tt6263850--2024-8-7-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -436,7 +441,8 @@ DTSTAMP:20240808T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-7-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -448,7 +454,8 @@ DTSTAMP:20240809T000800Z
 UID:ci5397678-tt6263850--2024-8-8-16-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -460,7 +467,47 @@ DTSTAMP:20240809T032300Z
 UID:ci5397678-tt6263850-3d-2024-8-8-19-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
  s injuries when he crosses paths with the loudmouth Deadpool. They team up
-  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=America/Los_Angeles:20240809T130000
+DTEND;TZID=America/Los_Angeles:20240809T153500
+DTSTAMP:20240809T205300Z
+UID:ci5397678-tt6263850--2024-8-9-13-0
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=America/Los_Angeles:20240809T161500
+DTEND;TZID=America/Los_Angeles:20240809T185000
+DTSTAMP:20240810T000800Z
+UID:ci5397678-tt6263850--2024-8-9-16-15
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=America/Los_Angeles:20240809T193000
+DTEND;TZID=America/Los_Angeles:20240809T220500
+DTSTAMP:20240810T032300Z
+UID:ci5397678-tt6263850--2024-8-9-19-30
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nWolverine is recovering from hi
+ s injuries when he crosses paths with the loudmouth Deadpool. They team up
+  to defeat a common enemy.\n\nhttps://www.imdb.com/title/tt6263850/\n\nIMD
+ b rating: 8.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
