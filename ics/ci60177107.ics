@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240725T084605Z
+LAST-MODIFIED:20240726T095711Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Suburbia (1983)
-DTSTART;TZID=America/Los_Angeles:20240725T211500
-DTEND;TZID=America/Los_Angeles:20240725T231500
-DTSTAMP:20240726T050800Z
-UID:ci60177107-tt0086589--2024-7-25-21-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nWhen household tensions and a se
- nse of worthlessness overcome Evan\, he finds escape when he clings with t
- he orphans of a throw-away society.\n\nhttps://www.imdb.com/title/tt008658
- 9/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Terminator (1984)
-DTSTART;TZID=America/Los_Angeles:20240725T180000
-DTEND;TZID=America/Los_Angeles:20240725T201500
-DTSTAMP:20240726T015300Z
-UID:ci60177107-tt0088247--2024-7-25-18-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nThe Terminator\, a cyborg assas
- sin from the future\, attempts to find and kill Sarah Connor\, a waitress 
- who is destined to give birth to a man who will save humankind from extinc
- tion.\n\nhttps://www.imdb.com/title/tt0088247/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Fat Liar (2002)
 DTSTART;TZID=America/Los_Angeles:20240726T180000
@@ -310,6 +284,48 @@ DTSTART;TZID=America/Los_Angeles:20240809T190000
 DTEND;TZID=America/Los_Angeles:20240809T211500
 DTSTAMP:20240810T025300Z
 UID:ci60177107-tt27417166--2024-8-9-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240810T134500
+DTEND;TZID=America/Los_Angeles:20240810T160000
+DTSTAMP:20240810T213800Z
+UID:ci60177107-tt27417166--2024-8-10-13-45
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240810T161500
+DTEND;TZID=America/Los_Angeles:20240810T183000
+DTSTAMP:20240811T000800Z
+UID:ci60177107-tt27417166--2024-8-10-16-15
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240810T190000
+DTEND;TZID=America/Los_Angeles:20240810T211500
+DTSTAMP:20240811T025300Z
+UID:ci60177107-tt27417166--2024-8-10-19-0
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
  romised to find her long-lost niece\, Tekla. Her search takes her to Istan
  bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla

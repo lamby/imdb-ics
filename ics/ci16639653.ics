@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240725T084547Z
+LAST-MODIFIED:20240726T095655Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fantastic Fungi (2019)
-DTSTART;TZID=America/Los_Angeles:20240725T170000
-DTEND;TZID=America/Los_Angeles:20240725T185000
-DTSTAMP:20240726T005300Z
-UID:ci16639653-tt8258074--2024-7-25-17-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nFantastic Fungi is a descriptive
-  time-lapse journey about the magical\, mysterious and medicinal world of 
- fungi and their power to heal\, sustain and contribute to the regeneration
-  of life on Earth that began 3.5 billion years ago.\n\nhttps://www.imdb.co
- m/title/tt8258074/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantastic Fungi (2019)
-DTSTART;TZID=America/Los_Angeles:20240725T193000
-DTEND;TZID=America/Los_Angeles:20240725T212000
-DTSTAMP:20240726T032300Z
-UID:ci16639653-tt8258074--2024-7-25-19-30
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nFantastic Fungi is a descriptive
-  time-lapse journey about the magical\, mysterious and medicinal world of 
- fungi and their power to heal\, sustain and contribute to the regeneration
-  of life on Earth that began 3.5 billion years ago.\n\nhttps://www.imdb.co
- m/title/tt8258074/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fly Me to the Moon
-DTSTART;TZID=America/Los_Angeles:20240725T191500
-DTEND;TZID=America/Los_Angeles:20240725T215500
-DTSTAMP:20240726T030800Z
-UID:ci16639653-tt1896747--2024-7-25-19-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nMarketing maven Kelly Jones wre
- aks havoc on launch director Cole Davis's already difficult task. When the
-  White House deems the mission too important to fail\, the countdown truly
-  begins.\n\nhttps://www.imdb.com/title/tt1896747/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma
-DTSTART;TZID=America/Los_Angeles:20240725T161500
-DTEND;TZID=America/Los_Angeles:20240725T182000
-DTSTAMP:20240726T000800Z
-UID:ci16639653-tt23778968--2024-7-25-16-15
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
- s duped by a phone scammer pretending to be her grandson\, she sets out on
-  a treacherous quest across the city to reclaim what was taken from her.\n
- \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adios Buenos Aires
 DTSTART;TZID=America/Los_Angeles:20240726T193000
@@ -879,7 +825,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -921,7 +867,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -935,7 +881,49 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240810T141500
+DTEND;TZID=America/Los_Angeles:20240810T161500
+DTSTAMP:20240810T220800Z
+UID:ci16639653-tt30319503--2024-8-10-14-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240810T170000
+DTEND;TZID=America/Los_Angeles:20240810T190000
+DTSTAMP:20240811T005300Z
+UID:ci16639653-tt30319503--2024-8-10-17-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240810T193000
+DTEND;TZID=America/Los_Angeles:20240810T213000
+DTSTAMP:20240811T032300Z
+UID:ci16639653-tt30319503--2024-8-10-19-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

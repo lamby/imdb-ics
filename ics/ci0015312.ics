@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240725T084729Z
+LAST-MODIFIED:20240726T095820Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:RRR (2022)
-DTSTART;TZID=America/Los_Angeles:20240725T200000
-DTEND;TZID=America/Los_Angeles:20240725T233500
-DTSTAMP:20240726T035300Z
-UID:ci0015312-tt8178634--2024-7-25-20-0
-DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
- s mission comes face to face with a steely cop serving British forces in t
- his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
- tt8178634/\n\nIMDb rating: 7.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fight Club (1999)
 DTSTART;TZID=America/Los_Angeles:20240726T213000
