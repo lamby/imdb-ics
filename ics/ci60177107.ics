@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240728T091524Z
+LAST-MODIFIED:20240729T075602Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Lady in the Water (2006)
-DTSTART;TZID=America/Los_Angeles:20240728T200000
-DTEND;TZID=America/Los_Angeles:20240728T221500
-DTSTAMP:20240729T035300Z
-UID:ci60177107-tt0452637--2024-7-28-20-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nApartment building superintende
- nt Cleveland Heep rescues what he thinks is a young woman from the pool he
-  maintains. When he discovers that she is actually a character from a bedt
- ime story who is trying to make the journey back to...\n\nhttps://www.imdb
- .com/title/tt0452637/\n\nIMDb rating: 5.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Punch-Drunk Love (2002)
-DTSTART;TZID=America/Los_Angeles:20240728T173000
-DTEND;TZID=America/Los_Angeles:20240728T193000
-DTSTAMP:20240729T012300Z
-UID:ci60177107-tt0272338--2024-7-28-17-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nSocially frustrated Barry Egan c
- alls a phone-sex line to curb his loneliness. Little does he know it will 
- land him in deep trouble and will jeopardize his burgeoning romance with t
- he mysterious Lena.\n\nhttps://www.imdb.com/title/tt0272338/\n\nIMDb ratin
- g: 7.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunshine (2007)
-DTSTART;TZID=America/Los_Angeles:20240728T144500
-DTEND;TZID=America/Los_Angeles:20240728T170000
-DTSTAMP:20240728T223800Z
-UID:ci60177107-tt0448134--2024-7-28-14-45
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA team of international astrona
- uts is sent on a dangerous mission to reignite the dying Sun with a nuclea
- r fission bomb in 2057.\n\nhttps://www.imdb.com/title/tt0448134/\n\nIMDb r
- ating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Phantom of the Opera (2004)
-DTSTART;TZID=America/Los_Angeles:20240728T113000
-DTEND;TZID=America/Los_Angeles:20240728T142000
-DTSTAMP:20240728T192300Z
-UID:ci60177107-tt0293508--2024-7-28-11-30
-DESCRIPTION:Duration: 2h 23m (143 mins)\n\nA young soprano becomes the obs
- ession of a disfigured and murderous musical genius who lives beneath the 
- Paris Opéra House.\n\nhttps://www.imdb.com/title/tt0293508/\n\nIMDb ratin
- g: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seven Samurai (1954)
 DTSTART;TZID=America/Los_Angeles:20240729T180000
@@ -142,7 +88,7 @@ DTSTAMP:20240805T035300Z
 UID:ci60177107-tt12349832--2024-8-4-20-0
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA 17-year old girl is forced to
   move with her family to a resort where things are not what they seem.\n\n
- https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.8
+ https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -317,6 +263,34 @@ DTSTART;TZID=America/Los_Angeles:20240812T190000
 DTEND;TZID=America/Los_Angeles:20240812T211500
 DTSTAMP:20240813T025300Z
 UID:ci60177107-tt27417166--2024-8-12-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240813T161500
+DTEND;TZID=America/Los_Angeles:20240813T183000
+DTSTAMP:20240814T000800Z
+UID:ci60177107-tt27417166--2024-8-13-16-15
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240813T190000
+DTEND;TZID=America/Los_Angeles:20240813T211500
+DTSTAMP:20240814T025300Z
+UID:ci60177107-tt27417166--2024-8-13-19-0
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
  romised to find her long-lost niece\, Tekla. Her search takes her to Istan
  bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
