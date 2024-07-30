@@ -1,89 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240729T075543Z
+LAST-MODIFIED:20240730T081150Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Adios Buenos Aires
-DTSTART;TZID=America/Los_Angeles:20240729T170000
-DTEND;TZID=America/Los_Angeles:20240729T185500
-DTSTAMP:20240730T005300Z
-UID:ci16639653-tt27042638--2024-7-29-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nArgentina\, 2001. A shoe salesma
- n and avid bandoneon player is forced to emigrate to Germany\, but then he
-  meets a beautiful but foulmouthed taxi driver as his tango band gets a ne
- w singer.\n\nhttps://www.imdb.com/title/tt27042638/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adios Buenos Aires
-DTSTART;TZID=America/Los_Angeles:20240729T193000
-DTEND;TZID=America/Los_Angeles:20240729T212500
-DTSTAMP:20240730T032300Z
-UID:ci16639653-tt27042638--2024-7-29-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nArgentina\, 2001. A shoe salesma
- n and avid bandoneon player is forced to emigrate to Germany\, but then he
-  meets a beautiful but foulmouthed taxi driver as his tango band gets a ne
- w singer.\n\nhttps://www.imdb.com/title/tt27042638/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240729T151500
-DTEND;TZID=America/Los_Angeles:20240729T182500
-DTSTAMP:20240729T230800Z
-UID:ci16639653-tt22408160--2024-7-29-15-15
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240729T184500
-DTEND;TZID=America/Los_Angeles:20240729T215500
-DTSTAMP:20240730T023800Z
-UID:ci16639653-tt22408160--2024-7-29-18-45
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma
-DTSTART;TZID=America/Los_Angeles:20240729T163000
-DTEND;TZID=America/Los_Angeles:20240729T183500
-DTSTAMP:20240730T002300Z
-UID:ci16639653-tt23778968--2024-7-29-16-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
- s duped by a phone scammer pretending to be her grandson\, she sets out on
-  a treacherous quest across the city to reclaim what was taken from her.\n
- \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma
-DTSTART;TZID=America/Los_Angeles:20240729T190000
-DTEND;TZID=America/Los_Angeles:20240729T210500
-DTSTAMP:20240730T025300Z
-UID:ci16639653-tt23778968--2024-7-29-19-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
- s duped by a phone scammer pretending to be her grandson\, she sets out on
-  a treacherous quest across the city to reclaim what was taken from her.\n
- \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adios Buenos Aires
 DTSTART;TZID=America/Los_Angeles:20240730T170000
@@ -328,6 +248,30 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240802T164500
+DTEND;TZID=America/Los_Angeles:20240802T184000
+DTSTAMP:20240803T003800Z
+UID:ci16639653-tt3234122--2024-8-2-16-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240802T193000
+DTEND;TZID=America/Los_Angeles:20240802T212500
+DTSTAMP:20240803T032300Z
+UID:ci16639653-tt3234122--2024-8-2-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kneecap
 DTSTART;TZID=America/Los_Angeles:20240803T134500
 DTEND;TZID=America/Los_Angeles:20240803T155500
@@ -366,6 +310,42 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
  db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240803T140000
+DTEND;TZID=America/Los_Angeles:20240803T155500
+DTSTAMP:20240803T215300Z
+UID:ci16639653-tt3234122--2024-8-3-14-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240803T164500
+DTEND;TZID=America/Los_Angeles:20240803T184000
+DTSTAMP:20240804T003800Z
+UID:ci16639653-tt3234122--2024-8-3-16-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240803T193000
+DTEND;TZID=America/Los_Angeles:20240803T212500
+DTSTAMP:20240804T032300Z
+UID:ci16639653-tt3234122--2024-8-3-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -412,6 +392,42 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240804T140000
+DTEND;TZID=America/Los_Angeles:20240804T155500
+DTSTAMP:20240804T215300Z
+UID:ci16639653-tt3234122--2024-8-4-14-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240804T164500
+DTEND;TZID=America/Los_Angeles:20240804T184000
+DTSTAMP:20240805T003800Z
+UID:ci16639653-tt3234122--2024-8-4-16-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240804T193000
+DTEND;TZID=America/Los_Angeles:20240804T212500
+DTSTAMP:20240805T032300Z
+UID:ci16639653-tt3234122--2024-8-4-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kneecap
 DTSTART;TZID=America/Los_Angeles:20240805T161500
 DTEND;TZID=America/Los_Angeles:20240805T182500
@@ -436,6 +452,30 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
  db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240805T164500
+DTEND;TZID=America/Los_Angeles:20240805T184000
+DTSTAMP:20240806T003800Z
+UID:ci16639653-tt3234122--2024-8-5-16-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240805T193000
+DTEND;TZID=America/Los_Angeles:20240805T212500
+DTSTAMP:20240806T032300Z
+UID:ci16639653-tt3234122--2024-8-5-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -482,6 +522,30 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240806T164500
+DTEND;TZID=America/Los_Angeles:20240806T184000
+DTSTAMP:20240807T003800Z
+UID:ci16639653-tt3234122--2024-8-6-16-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240806T193000
+DTEND;TZID=America/Los_Angeles:20240806T212500
+DTSTAMP:20240807T032300Z
+UID:ci16639653-tt3234122--2024-8-6-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kneecap
 DTSTART;TZID=America/Los_Angeles:20240807T161500
 DTEND;TZID=America/Los_Angeles:20240807T182500
@@ -524,6 +588,30 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240807T164500
+DTEND;TZID=America/Los_Angeles:20240807T184000
+DTSTAMP:20240808T003800Z
+UID:ci16639653-tt3234122--2024-8-7-16-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240807T193000
+DTEND;TZID=America/Los_Angeles:20240807T212500
+DTSTAMP:20240808T032300Z
+UID:ci16639653-tt3234122--2024-8-7-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dìdi
 DTSTART;TZID=America/Los_Angeles:20240808T193000
 DTEND;TZID=America/Los_Angeles:20240808T213000
@@ -562,6 +650,18 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
  db.com/title/tt27367464/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Widow Clicquot
+DTSTART;TZID=America/Los_Angeles:20240808T164500
+DTEND;TZID=America/Los_Angeles:20240808T184000
+DTSTAMP:20240809T003800Z
+UID:ci16639653-tt3234122--2024-8-8-16-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
+ uot champagne family and business that began in the late 18th century.\n\n
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -725,6 +825,34 @@ DTSTART;TZID=America/Los_Angeles:20240813T193000
 DTEND;TZID=America/Los_Angeles:20240813T213000
 DTSTAMP:20240814T032300Z
 UID:ci16639653-tt30319503--2024-8-13-19-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240814T170000
+DTEND;TZID=America/Los_Angeles:20240814T190000
+DTSTAMP:20240815T005300Z
+UID:ci16639653-tt30319503--2024-8-14-17-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240814T193000
+DTEND;TZID=America/Los_Angeles:20240814T213000
+DTSTAMP:20240815T032300Z
+UID:ci16639653-tt30319503--2024-8-14-19-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho

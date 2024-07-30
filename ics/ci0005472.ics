@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240729T075347Z
+LAST-MODIFIED:20240730T081012Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Vourdalak
-DTSTART;TZID=America/Los_Angeles:20240729T193000
-DTEND;TZID=America/Los_Angeles:20240729T213000
-DTSTAMP:20240730T032300Z
-UID:ci0005472-tt28313478--2024-7-29-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
- arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
- the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
- nIMDb rating: 6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Time of the Heathen (1961)
 DTSTART;TZID=America/Los_Angeles:20240730T193000
@@ -40,7 +27,7 @@ UID:ci0005472-tt28313478--2024-7-31-19-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
  arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
  the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
- nIMDb rating: 6
+ nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -53,7 +40,7 @@ UID:ci0005472-tt28313478--2024-8-1-19-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
  arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
  the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
- nIMDb rating: 6
+ nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
