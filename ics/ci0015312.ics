@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240730T081310Z
+LAST-MODIFIED:20240731T081219Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fight Club (1999)
-DTSTART;TZID=America/Los_Angeles:20240730T213000
-DTEND;TZID=America/Los_Angeles:20240731T001500
-DTSTAMP:20240731T052300Z
-UID:ci0015312-tt0137523--2024-7-30-21-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn insomniac office worker and 
- a devil-may-care soap maker form an underground fight club that evolves in
- to much more.\n\nhttps://www.imdb.com/title/tt0137523/\n\nIMDb rating: 8.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goonies (1985)
-DTSTART;TZID=America/Los_Angeles:20240730T160000
-DTEND;TZID=America/Los_Angeles:20240730T182000
-DTSTAMP:20240730T235300Z
-UID:ci0015312-tt0089218--2024-7-30-16-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
-  The Goonies discover an ancient map and set out on an adventure to find a
-  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
- 89218/\n\nIMDb rating: 7.7
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goonies (1985)
-DTSTART;TZID=America/Los_Angeles:20240730T190000
-DTEND;TZID=America/Los_Angeles:20240730T212000
-DTSTAMP:20240731T025300Z
-UID:ci0015312-tt0089218--2024-7-30-19-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
-  The Goonies discover an ancient map and set out on an adventure to find a
-  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
- 89218/\n\nIMDb rating: 7.7
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fight Club (1999)
 DTSTART;TZID=America/Los_Angeles:20240731T213000
@@ -91,6 +53,151 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, FBI
  dered his son through facial transplant surgery\, but the crook wakes up p
  rematurely and vows revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n\nI
  MDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240802T160000
+DTEND;TZID=America/Los_Angeles:20240802T180500
+DTSTAMP:20240802T235300Z
+UID:ci0015312-tt0117110--2024-8-2-16-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240802T190000
+DTEND;TZID=America/Los_Angeles:20240802T210500
+DTSTAMP:20240803T025300Z
+UID:ci0015312-tt0117110--2024-8-2-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240803T160000
+DTEND;TZID=America/Los_Angeles:20240803T180500
+DTSTAMP:20240803T235300Z
+UID:ci0015312-tt0117110--2024-8-3-16-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240803T190000
+DTEND;TZID=America/Los_Angeles:20240803T210500
+DTSTAMP:20240804T025300Z
+UID:ci0015312-tt0117110--2024-8-3-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240804T160000
+DTEND;TZID=America/Los_Angeles:20240804T180500
+DTSTAMP:20240804T235300Z
+UID:ci0015312-tt0117110--2024-8-4-16-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240804T190000
+DTEND;TZID=America/Los_Angeles:20240804T210500
+DTSTAMP:20240805T025300Z
+UID:ci0015312-tt0117110--2024-8-4-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240805T160000
+DTEND;TZID=America/Los_Angeles:20240805T180500
+DTSTAMP:20240805T235300Z
+UID:ci0015312-tt0117110--2024-8-5-16-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240805T190000
+DTEND;TZID=America/Los_Angeles:20240805T210500
+DTSTAMP:20240806T025300Z
+UID:ci0015312-tt0117110--2024-8-5-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240806T160000
+DTEND;TZID=America/Los_Angeles:20240806T180500
+DTSTAMP:20240806T235300Z
+UID:ci0015312-tt0117110--2024-8-6-16-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240806T190000
+DTEND;TZID=America/Los_Angeles:20240806T210500
+DTSTAMP:20240807T025300Z
+UID:ci0015312-tt0117110--2024-8-6-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island (1996)
+DTSTART;TZID=America/Los_Angeles:20240807T160000
+DTEND;TZID=America/Los_Angeles:20240807T180500
+DTSTAMP:20240807T235300Z
+UID:ci0015312-tt0117110--2024-8-7-16-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
+ f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
+ m/title/tt0117110/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part One (2021)
+DTSTART;TZID=America/Los_Angeles:20240808T200000
+DTEND;TZID=America/Los_Angeles:20240808T230000
+DTSTAMP:20240809T035300Z
+UID:ci0015312-tt1160419--2024-8-8-20-0
+DESCRIPTION:Duration: 2h 35m (155 mins)\n\nA noble family becomes embroile
+ d in a war for control over the galaxy's most valuable asset while its hei
+ r becomes troubled by visions of a dark future.\n\nhttps://www.imdb.com/ti
+ tle/tt1160419/\n\nIMDb rating: 8
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT

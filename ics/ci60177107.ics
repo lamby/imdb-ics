@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240730T081208Z
+LAST-MODIFIED:20240731T081112Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -55,6 +55,39 @@ LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CatVideoFest 2024
+DTSTART;TZID=America/Los_Angeles:20240802T190000
+DTEND;TZID=America/Los_Angeles:20240802T212500
+DTSTAMP:20240803T025300Z
+UID:ci60177107-tt31630188--2024-8-2-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
+ 630188/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2024
+DTSTART;TZID=America/Los_Angeles:20240803T130000
+DTEND;TZID=America/Los_Angeles:20240803T152500
+DTSTAMP:20240803T205300Z
+UID:ci60177107-tt31630188--2024-8-3-13-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
+ 630188/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2024
+DTSTART;TZID=America/Los_Angeles:20240803T153000
+DTEND;TZID=America/Los_Angeles:20240803T175500
+DTSTAMP:20240803T232300Z
+UID:ci60177107-tt31630188--2024-8-3-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
+ 630188/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Donnie Darko (2001)
 DTSTART;TZID=America/Los_Angeles:20240803T210000
 DTEND;TZID=America/Los_Angeles:20240803T232000
@@ -68,6 +101,28 @@ LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CatVideoFest 2024
+DTSTART;TZID=America/Los_Angeles:20240804T130000
+DTEND;TZID=America/Los_Angeles:20240804T152500
+DTSTAMP:20240804T205300Z
+UID:ci60177107-tt31630188--2024-8-4-13-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
+ 630188/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2024
+DTSTART;TZID=America/Los_Angeles:20240804T153000
+DTEND;TZID=America/Los_Angeles:20240804T175500
+DTSTAMP:20240804T232300Z
+UID:ci60177107-tt31630188--2024-8-4-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
+ 630188/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cuckoo
 DTSTART;TZID=America/Los_Angeles:20240804T200000
 DTEND;TZID=America/Los_Angeles:20240804T221000
@@ -75,7 +130,20 @@ DTSTAMP:20240805T035300Z
 UID:ci60177107-tt12349832--2024-8-4-20-0
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA 17-year-old girl is forced to
   move with her family to a resort where things are not what they seem.\n\n
- https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.7
+ https://www.imdb.com/title/tt12349832/\n\nIMDb rating: 5.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rifftrax: The Last Slumber Party (2014)
+DTSTART;TZID=America/Los_Angeles:20240805T190000
+DTEND;TZID=America/Los_Angeles:20240805T212500
+DTSTAMP:20240806T025300Z
+UID:ci60177107-tt15044018--2024-8-5-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe hilarious trio take on the 
+ tale of a sleepover invaded by a scalpel-toting psychopath\, which is almo
+ st as scary as the film's clunky dialogue\n\nhttps://www.imdb.com/title/tt
+ 15044018/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -306,6 +374,20 @@ DTSTART;TZID=America/Los_Angeles:20240814T190000
 DTEND;TZID=America/Los_Angeles:20240814T211500
 DTSTAMP:20240815T025300Z
 UID:ci60177107-tt27417166--2024-8-14-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
+ romised to find her long-lost niece\, Tekla. Her search takes her to Istan
+ bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
+  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
+ /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossing
+DTSTART;TZID=America/Los_Angeles:20240815T190000
+DTEND;TZID=America/Los_Angeles:20240815T211500
+DTSTAMP:20240816T025300Z
+UID:ci60177107-tt27417166--2024-8-15-19-0
 DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
  romised to find her long-lost niece\, Tekla. Her search takes her to Istan
  bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla

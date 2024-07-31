@@ -1,76 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240730T081150Z
+LAST-MODIFIED:20240731T081054Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Adios Buenos Aires
-DTSTART;TZID=America/Los_Angeles:20240730T170000
-DTEND;TZID=America/Los_Angeles:20240730T185500
-DTSTAMP:20240731T005300Z
-UID:ci16639653-tt27042638--2024-7-30-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nArgentina\, 2001. A shoe salesma
- n and avid bandoneon player is forced to emigrate to Germany\, but then he
-  meets a beautiful but foulmouthed taxi driver as his tango band gets a ne
- w singer.\n\nhttps://www.imdb.com/title/tt27042638/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adios Buenos Aires
-DTSTART;TZID=America/Los_Angeles:20240730T193000
-DTEND;TZID=America/Los_Angeles:20240730T212500
-DTSTAMP:20240731T032300Z
-UID:ci16639653-tt27042638--2024-7-30-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nArgentina\, 2001. A shoe salesma
- n and avid bandoneon player is forced to emigrate to Germany\, but then he
-  meets a beautiful but foulmouthed taxi driver as his tango band gets a ne
- w singer.\n\nhttps://www.imdb.com/title/tt27042638/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240730T151500
-DTEND;TZID=America/Los_Angeles:20240730T182500
-DTSTAMP:20240730T230800Z
-UID:ci16639653-tt22408160--2024-7-30-15-15
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=America/Los_Angeles:20240730T184500
-DTEND;TZID=America/Los_Angeles:20240730T215500
-DTSTAMP:20240731T023800Z
-UID:ci16639653-tt22408160--2024-7-30-18-45
-DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
- his predetermined path\, a cop questions his wife's demeanor after her ret
- urn from a supposed drowning\, and a woman searches for an extraordinary i
- ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
- db.com/title/tt22408160/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma
-DTSTART;TZID=America/Los_Angeles:20240730T163000
-DTEND;TZID=America/Los_Angeles:20240730T183500
-DTSTAMP:20240731T002300Z
-UID:ci16639653-tt23778968--2024-7-30-16-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
- s duped by a phone scammer pretending to be her grandson\, she sets out on
-  a treacherous quest across the city to reclaim what was taken from her.\n
- \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adios Buenos Aires
 DTSTART;TZID=America/Los_Angeles:20240731T170000
@@ -220,6 +153,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240802T184500
+DTEND;TZID=America/Los_Angeles:20240802T215500
+DTSTAMP:20240803T023800Z
+UID:ci16639653-tt22408160--2024-8-2-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kneecap
 DTSTART;TZID=America/Los_Angeles:20240802T161500
 DTEND;TZID=America/Los_Angeles:20240802T182500
@@ -248,6 +195,19 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240802T163000
+DTEND;TZID=America/Los_Angeles:20240802T183500
+DTSTAMP:20240803T002300Z
+UID:ci16639653-tt23778968--2024-8-2-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Widow Clicquot
 DTSTART;TZID=America/Los_Angeles:20240802T164500
 DTEND;TZID=America/Los_Angeles:20240802T184000
@@ -255,7 +215,7 @@ DTSTAMP:20240803T003800Z
 UID:ci16639653-tt3234122--2024-8-2-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -267,7 +227,21 @@ DTSTAMP:20240803T032300Z
 UID:ci16639653-tt3234122--2024-8-2-19-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240803T153000
+DTEND;TZID=America/Los_Angeles:20240803T184000
+DTSTAMP:20240803T232300Z
+UID:ci16639653-tt22408160--2024-8-3-15-30
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -314,6 +288,32 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240803T131500
+DTEND;TZID=America/Los_Angeles:20240803T152000
+DTSTAMP:20240803T210800Z
+UID:ci16639653-tt23778968--2024-8-3-13-15
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240803T190000
+DTEND;TZID=America/Los_Angeles:20240803T210500
+DTSTAMP:20240804T025300Z
+UID:ci16639653-tt23778968--2024-8-3-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Widow Clicquot
 DTSTART;TZID=America/Los_Angeles:20240803T140000
 DTEND;TZID=America/Los_Angeles:20240803T155500
@@ -321,7 +321,7 @@ DTSTAMP:20240803T215300Z
 UID:ci16639653-tt3234122--2024-8-3-14-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -333,7 +333,7 @@ DTSTAMP:20240804T003800Z
 UID:ci16639653-tt3234122--2024-8-3-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -345,7 +345,35 @@ DTSTAMP:20240804T032300Z
 UID:ci16639653-tt3234122--2024-8-3-19-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240804T130000
+DTEND;TZID=America/Los_Angeles:20240804T161000
+DTSTAMP:20240804T205300Z
+UID:ci16639653-tt22408160--2024-8-4-13-0
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240804T184500
+DTEND;TZID=America/Los_Angeles:20240804T215500
+DTSTAMP:20240805T023800Z
+UID:ci16639653-tt22408160--2024-8-4-18-45
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -392,6 +420,19 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240804T163000
+DTEND;TZID=America/Los_Angeles:20240804T183500
+DTSTAMP:20240805T002300Z
+UID:ci16639653-tt23778968--2024-8-4-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Widow Clicquot
 DTSTART;TZID=America/Los_Angeles:20240804T140000
 DTEND;TZID=America/Los_Angeles:20240804T155500
@@ -399,7 +440,7 @@ DTSTAMP:20240804T215300Z
 UID:ci16639653-tt3234122--2024-8-4-14-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -411,7 +452,7 @@ DTSTAMP:20240805T003800Z
 UID:ci16639653-tt3234122--2024-8-4-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -423,7 +464,21 @@ DTSTAMP:20240805T032300Z
 UID:ci16639653-tt3234122--2024-8-4-19-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=America/Los_Angeles:20240805T153000
+DTEND;TZID=America/Los_Angeles:20240805T184000
+DTSTAMP:20240805T232300Z
+UID:ci16639653-tt22408160--2024-8-5-15-30
+DESCRIPTION:Duration: 2h 44m (164 mins)\n\nA man seeks to break free from 
+ his predetermined path\, a cop questions his wife's demeanor after her ret
+ urn from a supposed drowning\, and a woman searches for an extraordinary i
+ ndividual prophesied to become a renowned spiritual g...\n\nhttps://www.im
+ db.com/title/tt22408160/\n\nIMDb rating: 7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -456,6 +511,19 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240805T190000
+DTEND;TZID=America/Los_Angeles:20240805T210500
+DTSTAMP:20240806T025300Z
+UID:ci16639653-tt23778968--2024-8-5-19-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Widow Clicquot
 DTSTART;TZID=America/Los_Angeles:20240805T164500
 DTEND;TZID=America/Los_Angeles:20240805T184000
@@ -463,7 +531,7 @@ DTSTAMP:20240806T003800Z
 UID:ci16639653-tt3234122--2024-8-5-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -475,7 +543,7 @@ DTSTAMP:20240806T032300Z
 UID:ci16639653-tt3234122--2024-8-5-19-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -522,6 +590,19 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240806T163000
+DTEND;TZID=America/Los_Angeles:20240806T183500
+DTSTAMP:20240807T002300Z
+UID:ci16639653-tt23778968--2024-8-6-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Widow Clicquot
 DTSTART;TZID=America/Los_Angeles:20240806T164500
 DTEND;TZID=America/Los_Angeles:20240806T184000
@@ -529,7 +610,7 @@ DTSTAMP:20240807T003800Z
 UID:ci16639653-tt3234122--2024-8-6-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -541,7 +622,7 @@ DTSTAMP:20240807T032300Z
 UID:ci16639653-tt3234122--2024-8-6-19-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -551,20 +632,6 @@ DTSTART;TZID=America/Los_Angeles:20240807T161500
 DTEND;TZID=America/Los_Angeles:20240807T182500
 DTSTAMP:20240808T000800Z
 UID:ci16639653-tt27367464--2024-8-7-16-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
- r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
-  the needle drops on a hip hop act like no other. Rapping in their native 
- Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kneecap
-DTSTART;TZID=America/Los_Angeles:20240807T191500
-DTEND;TZID=America/Los_Angeles:20240807T212500
-DTSTAMP:20240808T030800Z
-UID:ci16639653-tt27367464--2024-8-7-19-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
@@ -595,7 +662,7 @@ DTSTAMP:20240808T003800Z
 UID:ci16639653-tt3234122--2024-8-7-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -607,7 +674,7 @@ DTSTAMP:20240808T032300Z
 UID:ci16639653-tt3234122--2024-8-7-19-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -621,7 +688,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -654,6 +721,33 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240808T190000
+DTEND;TZID=America/Los_Angeles:20240808T211000
+DTSTAMP:20240809T025300Z
+UID:ci16639653-tt28479262--2024-8-8-19-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma
+DTSTART;TZID=America/Los_Angeles:20240808T163000
+DTEND;TZID=America/Los_Angeles:20240808T183500
+DTSTAMP:20240809T002300Z
+UID:ci16639653-tt23778968--2024-8-8-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen 93-year-old Thelma Post get
+ s duped by a phone scammer pretending to be her grandson\, she sets out on
+  a treacherous quest across the city to reclaim what was taken from her.\n
+ \nhttps://www.imdb.com/title/tt23778968/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Widow Clicquot
 DTSTART;TZID=America/Los_Angeles:20240808T164500
 DTEND;TZID=America/Los_Angeles:20240808T184000
@@ -661,7 +755,7 @@ DTSTAMP:20240809T003800Z
 UID:ci16639653-tt3234122--2024-8-8-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -675,7 +769,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -689,7 +783,35 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240809T164500
+DTEND;TZID=America/Los_Angeles:20240809T185500
+DTSTAMP:20240810T003800Z
+UID:ci16639653-tt28479262--2024-8-9-16-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240809T191500
+DTEND;TZID=America/Los_Angeles:20240809T212500
+DTSTAMP:20240810T030800Z
+UID:ci16639653-tt28479262--2024-8-9-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -703,7 +825,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -717,7 +839,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -731,7 +853,49 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240810T140000
+DTEND;TZID=America/Los_Angeles:20240810T161000
+DTSTAMP:20240810T215300Z
+UID:ci16639653-tt28479262--2024-8-10-14-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240810T164500
+DTEND;TZID=America/Los_Angeles:20240810T185500
+DTSTAMP:20240811T003800Z
+UID:ci16639653-tt28479262--2024-8-10-16-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240810T191500
+DTEND;TZID=America/Los_Angeles:20240810T212500
+DTSTAMP:20240811T030800Z
+UID:ci16639653-tt28479262--2024-8-10-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -745,7 +909,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -759,7 +923,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -773,7 +937,49 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240811T140000
+DTEND;TZID=America/Los_Angeles:20240811T161000
+DTSTAMP:20240811T215300Z
+UID:ci16639653-tt28479262--2024-8-11-14-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240811T164500
+DTEND;TZID=America/Los_Angeles:20240811T185500
+DTSTAMP:20240812T003800Z
+UID:ci16639653-tt28479262--2024-8-11-16-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240811T191500
+DTEND;TZID=America/Los_Angeles:20240811T212500
+DTSTAMP:20240812T030800Z
+UID:ci16639653-tt28479262--2024-8-11-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -787,7 +993,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -801,7 +1007,35 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240812T164500
+DTEND;TZID=America/Los_Angeles:20240812T185500
+DTSTAMP:20240813T003800Z
+UID:ci16639653-tt28479262--2024-8-12-16-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240812T191500
+DTEND;TZID=America/Los_Angeles:20240812T212500
+DTSTAMP:20240813T030800Z
+UID:ci16639653-tt28479262--2024-8-12-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -815,7 +1049,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -829,7 +1063,35 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240813T164500
+DTEND;TZID=America/Los_Angeles:20240813T185500
+DTSTAMP:20240814T003800Z
+UID:ci16639653-tt28479262--2024-8-13-16-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240813T191500
+DTEND;TZID=America/Los_Angeles:20240813T212500
+DTSTAMP:20240814T030800Z
+UID:ci16639653-tt28479262--2024-8-13-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -843,7 +1105,7 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -857,7 +1119,91 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month
  of summer before high school begins\, an impressionable 13-year-old Taiwan
  ese American boy learns what his family can't teach him: how to skate\, ho
  w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.7
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240814T164500
+DTEND;TZID=America/Los_Angeles:20240814T185500
+DTSTAMP:20240815T003800Z
+UID:ci16639653-tt28479262--2024-8-14-16-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240814T191500
+DTEND;TZID=America/Los_Angeles:20240814T212500
+DTSTAMP:20240815T030800Z
+UID:ci16639653-tt28479262--2024-8-14-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240815T170000
+DTEND;TZID=America/Los_Angeles:20240815T190000
+DTSTAMP:20240816T005300Z
+UID:ci16639653-tt30319503--2024-8-15-17-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dìdi
+DTSTART;TZID=America/Los_Angeles:20240815T193000
+DTEND;TZID=America/Los_Angeles:20240815T213000
+DTSTAMP:20240816T032300Z
+UID:ci16639653-tt30319503--2024-8-15-19-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 2008\, during the last month 
+ of summer before high school begins\, an impressionable 13-year-old Taiwan
+ ese American boy learns what his family can't teach him: how to skate\, ho
+ w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
+ 19503/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240815T164500
+DTEND;TZID=America/Los_Angeles:20240815T185500
+DTSTAMP:20240816T003800Z
+UID:ci16639653-tt28479262--2024-8-15-16-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=America/Los_Angeles:20240815T191500
+DTEND;TZID=America/Los_Angeles:20240815T212500
+DTSTAMP:20240816T030800Z
+UID:ci16639653-tt28479262--2024-8-15-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
