@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240731T081219Z
+LAST-MODIFIED:20240801T054108Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Fight Club (1999)
-DTSTART;TZID=America/Los_Angeles:20240731T213000
-DTEND;TZID=America/Los_Angeles:20240801T001500
-DTSTAMP:20240801T052300Z
-UID:ci0015312-tt0137523--2024-7-31-21-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn insomniac office worker and 
- a devil-may-care soap maker form an underground fight club that evolves in
- to much more.\n\nhttps://www.imdb.com/title/tt0137523/\n\nIMDb rating: 8.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goonies (1985)
-DTSTART;TZID=America/Los_Angeles:20240731T160000
-DTEND;TZID=America/Los_Angeles:20240731T182000
-DTSTAMP:20240731T235300Z
-UID:ci0015312-tt0089218--2024-7-31-16-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
-  The Goonies discover an ancient map and set out on an adventure to find a
-  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
- 89218/\n\nIMDb rating: 7.7
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Goonies (1985)
-DTSTART;TZID=America/Los_Angeles:20240731T190000
-DTEND;TZID=America/Los_Angeles:20240731T212000
-DTSTAMP:20240801T025300Z
-UID:ci0015312-tt0089218--2024-7-31-19-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA group of young misfits called
-  The Goonies discover an ancient map and set out on an adventure to find a
-  legendary pirate's long-lost treasure.\n\nhttps://www.imdb.com/title/tt00
- 89218/\n\nIMDb rating: 7.7
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Face/Off (1997)
 DTSTART;TZID=America/Los_Angeles:20240801T200000

@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240731T080908Z
+LAST-MODIFIED:20240801T053734Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Vourdalak
-DTSTART;TZID=America/Los_Angeles:20240731T193000
-DTEND;TZID=America/Los_Angeles:20240731T213000
-DTSTAMP:20240801T032300Z
-UID:ci0005472-tt28313478--2024-7-31-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
- arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
- the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
- nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Vourdalak
 DTSTART;TZID=America/Los_Angeles:20240801T193000
@@ -243,6 +230,20 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nReluctantly\, a sulky adolescent
  bbling in desire and the art of desirability\, eventually mixing reality w
  ith vision\, caged fantasies with the fierce female se...\n\nhttps://www.i
  mdb.com/title/tt0135024/\n\nIMDb rating: 5.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Hustle (2004)
+DTSTART;TZID=America/Los_Angeles:20240816T193000
+DTEND;TZID=America/Los_Angeles:20240816T213500
+DTSTAMP:20240817T032300Z
+UID:ci0005472-tt0373074--2024-8-16-19-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn Shanghai\, China in the 1940s
+ \, a wannabe gangster aspires to join the notorious &quot\;Axe Gang&quot\;
+  while residents of a housing complex exhibit extraordinary powers in defe
+ nding their turf.\n\nhttps://www.imdb.com/title/tt0373074/\n\nIMDb rating:
+  7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
