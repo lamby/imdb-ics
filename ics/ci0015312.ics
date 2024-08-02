@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240801T054108Z
+LAST-MODIFIED:20240802T075159Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Face/Off (1997)
-DTSTART;TZID=America/Los_Angeles:20240801T200000
-DTEND;TZID=America/Los_Angeles:20240801T224500
-DTSTAMP:20240802T035300Z
-UID:ci0015312-tt0119094--2024-8-1-20-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTo foil a terrorist plot\, FBI 
- agent Sean Archer assumes the identity of the criminal Castor Troy who mur
- dered his son through facial transplant surgery\, but the crook wakes up p
- rematurely and vows revenge.\n\nhttps://www.imdb.com/title/tt0119094/\n\nI
- MDb rating: 7.3
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Muppet Treasure Island (1996)
 DTSTART;TZID=America/Los_Angeles:20240802T160000

@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240801T053734Z
+LAST-MODIFIED:20240802T074839Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Vourdalak
-DTSTART;TZID=America/Los_Angeles:20240801T193000
-DTEND;TZID=America/Los_Angeles:20240801T213000
-DTSTAMP:20240802T032300Z
-UID:ci0005472-tt28313478--2024-8-1-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLost in a hostile forest\, the M
- arquis d'Urfé\, a noble emissary of the King of France\, finds refuge in 
- the home of a strange family.\n\nhttps://www.imdb.com/title/tt28313478/\n\
- nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Do the Right Thing (1989)
 DTSTART;TZID=America/Los_Angeles:20240802T191500
@@ -188,7 +175,7 @@ UID:ci0005472-tt12818328--2024-8-10-20-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -244,6 +231,19 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn Shanghai\, China in the 1940s
   while residents of a housing complex exhibit extraordinary powers in defe
  nding their turf.\n\nhttps://www.imdb.com/title/tt0373074/\n\nIMDb rating:
   7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:36 fillette (1988)
+DTSTART;TZID=America/Los_Angeles:20240817T164500
+DTEND;TZID=America/Los_Angeles:20240817T184000
+DTSTAMP:20240818T003800Z
+UID:ci0005472-tt0094596--2024-8-17-16-45
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA night in the life of a young w
+ oman who wishes to learn and experience more of life. The men she meets ha
+ ve as much to learn from her as they can offer her\, or more.\n\nhttps://w
+ ww.imdb.com/title/tt0094596/\n\nIMDb rating: 6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

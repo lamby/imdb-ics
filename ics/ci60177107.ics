@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240801T053942Z
+LAST-MODIFIED:20240802T075039Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Shredder Orpheus (1990)
-DTSTART;TZID=America/Los_Angeles:20240801T210000
-DTEND;TZID=America/Los_Angeles:20240801T225500
-DTSTAMP:20240802T045300Z
-UID:ci60177107-tt0246231--2024-8-1-21-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSkateboarder named Orpheus and f
- riends go to Hell to stop television signals that are brainwashing America
- .\n\nhttps://www.imdb.com/title/tt0246231/\n\nIMDb rating: 5.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zodiac Killer (1971)
-DTSTART;TZID=America/Los_Angeles:20240801T184500
-DTEND;TZID=America/Los_Angeles:20240801T204000
-DTSTAMP:20240802T023800Z
-UID:ci60177107-tt0143016--2024-8-1-18-45
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA serial killer in San Francisco
-  murders without motive or apparent pattern and taunts the police with pho
- ne calls and letters.\n\nhttps://www.imdb.com/title/tt0143016/\n\nIMDb rat
- ing: 4.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cannibal! The Musical (1993)
 DTSTART;TZID=America/Los_Angeles:20240802T210000
@@ -38,17 +13,6 @@ UID:ci60177107-tt0115819--2024-8-2-21-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe sole survivor of an ill-fate
  d mining expedition tells how his taste for gold was replaced by that of h
  uman flesh.\n\nhttps://www.imdb.com/title/tt0115819/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2024
-DTSTART;TZID=America/Los_Angeles:20240802T190000
-DTEND;TZID=America/Los_Angeles:20240802T212500
-DTSTAMP:20240803T025300Z
-UID:ci60177107-tt31630188--2024-8-2-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
- 630188/
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
