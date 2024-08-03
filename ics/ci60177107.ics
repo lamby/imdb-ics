@@ -1,40 +1,28 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240802T075039Z
+LAST-MODIFIED:20240803T093010Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
-SUMMARY:Cannibal! The Musical (1993)
-DTSTART;TZID=America/Los_Angeles:20240802T210000
-DTEND;TZID=America/Los_Angeles:20240802T230000
-DTSTAMP:20240803T045300Z
-UID:ci60177107-tt0115819--2024-8-2-21-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe sole survivor of an ill-fate
- d mining expedition tells how his taste for gold was replaced by that of h
- uman flesh.\n\nhttps://www.imdb.com/title/tt0115819/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CatVideoFest 2024
 DTSTART;TZID=America/Los_Angeles:20240803T130000
-DTEND;TZID=America/Los_Angeles:20240803T152500
+DTEND;TZID=America/Los_Angeles:20240803T144000
 DTSTAMP:20240803T205300Z
 UID:ci60177107-tt31630188--2024-8-3-13-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
- 630188/
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nhttps://www.imdb.com/title/tt316
+ 30188/
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2024
 DTSTART;TZID=America/Los_Angeles:20240803T153000
-DTEND;TZID=America/Los_Angeles:20240803T175500
+DTEND;TZID=America/Los_Angeles:20240803T171000
 DTSTAMP:20240803T232300Z
 UID:ci60177107-tt31630188--2024-8-3-15-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
- 630188/
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nhttps://www.imdb.com/title/tt316
+ 30188/
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -54,22 +42,22 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2024
 DTSTART;TZID=America/Los_Angeles:20240804T130000
-DTEND;TZID=America/Los_Angeles:20240804T152500
+DTEND;TZID=America/Los_Angeles:20240804T144000
 DTSTAMP:20240804T205300Z
 UID:ci60177107-tt31630188--2024-8-4-13-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
- 630188/
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nhttps://www.imdb.com/title/tt316
+ 30188/
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2024
 DTSTART;TZID=America/Los_Angeles:20240804T153000
-DTEND;TZID=America/Los_Angeles:20240804T175500
+DTEND;TZID=America/Los_Angeles:20240804T171000
 DTSTAMP:20240804T232300Z
 UID:ci60177107-tt31630188--2024-8-4-15-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt31
- 630188/
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nhttps://www.imdb.com/title/tt316
+ 30188/
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

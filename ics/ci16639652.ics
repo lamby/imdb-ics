@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240802T075059Z
+LAST-MODIFIED:20240803T093030Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -130,6 +130,17 @@ DTSTART;TZID=America/Los_Angeles:20240817T130000
 DTEND;TZID=America/Los_Angeles:20240817T145500
 DTSTAMP:20240817T205300Z
 UID:ci16639652-tt31913797--2024-8-17-13-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nhttps://www.imdb.com/title/tt319
+ 13797/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picasso: A Rebel in Paris - Story of a Life and a Museum
+DTSTART;TZID=America/Los_Angeles:20240818T130000
+DTEND;TZID=America/Los_Angeles:20240818T145500
+DTSTAMP:20240818T205300Z
+UID:ci16639652-tt31913797--2024-8-18-13-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nhttps://www.imdb.com/title/tt319
  13797/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
