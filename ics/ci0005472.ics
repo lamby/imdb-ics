@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240803T092802Z
+LAST-MODIFIED:20240804T085829Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Do the Right Thing (1989)
-DTSTART;TZID=America/Los_Angeles:20240803T181500
-DTEND;TZID=America/Los_Angeles:20240803T204000
-DTSTAMP:20240804T020800Z
-UID:ci0005472-tt0097216--2024-8-3-18-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
- on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
- e and bigotry smolders and builds until it explodes into violence.\n\nhttp
- s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riki-Oh: The Story of Ricky (1991)
-DTSTART;TZID=America/Los_Angeles:20240803T210000
-DTEND;TZID=America/Los_Angeles:20240803T230000
-DTSTAMP:20240804T045300Z
-UID:ci0005472-tt0102293--2024-8-3-21-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nRiki-Oh\, a young man who has su
- perhuman strength\, is incarcerated in a private prison\, where inmates ar
- e treated like slaves. He is forced to use his unstoppable form of martial
-  arts to destroy the corrupt officials and their lack...\n\nhttps://www.im
- db.com/title/tt0102293/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time of the Heathen (1961)
-DTSTART;TZID=America/Los_Angeles:20240803T161500
-DTEND;TZID=America/Los_Angeles:20240803T175500
-DTSTAMP:20240804T000800Z
-UID:ci0005472-tt0056589--2024-8-3-16-15
-DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA wandering drifter\, religious 
- fanatic Gaunt\, accidentally sees the rape/murder of a black woman\, Marie
- \, by farm boy Ted. The boy's father\, Link accuses Gaunt of committing th
- e crime and attempts to get his son to kill both Gaunt ...\n\nhttps://www.
- imdb.com/title/tt0056589/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Do the Right Thing (1989)
 DTSTART;TZID=America/Los_Angeles:20240804T154500
@@ -148,7 +107,7 @@ UID:ci0005472-tt12818328--2024-8-10-20-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.8
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -239,6 +198,20 @@ DTSTART;TZID=America/Los_Angeles:20240818T203000
 DTEND;TZID=America/Los_Angeles:20240818T223500
 DTSTAMP:20240819T042300Z
 UID:ci0005472-tt0373074--2024-8-18-20-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn Shanghai\, China in the 1940s
+ \, a wannabe gangster aspires to join the notorious &quot\;Axe Gang&quot\;
+  while residents of a housing complex exhibit extraordinary powers in defe
+ nding their turf.\n\nhttps://www.imdb.com/title/tt0373074/\n\nIMDb rating:
+  7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Hustle (2004)
+DTSTART;TZID=America/Los_Angeles:20240819T193000
+DTEND;TZID=America/Los_Angeles:20240819T213500
+DTSTAMP:20240820T032300Z
+UID:ci0005472-tt0373074--2024-8-19-19-30
 DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn Shanghai\, China in the 1940s
  \, a wannabe gangster aspires to join the notorious &quot\;Axe Gang&quot\;
   while residents of a housing complex exhibit extraordinary powers in defe

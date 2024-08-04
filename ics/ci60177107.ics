@@ -1,44 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240803T093010Z
+LAST-MODIFIED:20240804T090029Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2024
-DTSTART;TZID=America/Los_Angeles:20240803T130000
-DTEND;TZID=America/Los_Angeles:20240803T144000
-DTSTAMP:20240803T205300Z
-UID:ci60177107-tt31630188--2024-8-3-13-0
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nhttps://www.imdb.com/title/tt316
- 30188/
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2024
-DTSTART;TZID=America/Los_Angeles:20240803T153000
-DTEND;TZID=America/Los_Angeles:20240803T171000
-DTSTAMP:20240803T232300Z
-UID:ci60177107-tt31630188--2024-8-3-15-30
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nhttps://www.imdb.com/title/tt316
- 30188/
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Donnie Darko (2001)
-DTSTART;TZID=America/Los_Angeles:20240803T210000
-DTEND;TZID=America/Los_Angeles:20240803T232000
-DTSTAMP:20240804T045300Z
-UID:ci60177107-tt0246578--2024-8-3-21-0
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
- re accident\, a troubled teenager is plagued by visions of a man in a larg
- e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
- /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2024
 DTSTART;TZID=America/Los_Angeles:20240804T130000
