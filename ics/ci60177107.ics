@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240805T084046Z
+LAST-MODIFIED:20240806T090314Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Rifftrax: The Last Slumber Party (2014)
-DTSTART;TZID=America/Los_Angeles:20240805T190000
-DTEND;TZID=America/Los_Angeles:20240805T212500
-DTSTAMP:20240806T025300Z
-UID:ci60177107-tt15044018--2024-8-5-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe hilarious trio take on the 
- tale of a sleepover invaded by a scalpel-toting psychopath\, which is almo
- st as scary as the film's clunky dialogue\n\nhttps://www.imdb.com/title/tt
- 15044018/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminal USA (1993)
-DTSTART;TZID=America/Los_Angeles:20240805T210000
-DTEND;TZID=America/Los_Angeles:20240805T222000
-DTSTAMP:20240806T045300Z
-UID:ci60177107-tt0111399--2024-8-5-21-0
-DESCRIPTION:Duration: 0h 54m (54 mins)\n\nTerminal USA is the story of a J
- apanese-American family with more than their fair share of quirks. Ma (Sha
- ron Omi) is stealing grandpa's morphine\, Airhead sister (Jenny Woo) is ha
- ving sex with the family lawyer\, One brother (Jon M...\n\nhttps://www.imd
- b.com/title/tt0111399/\n\nIMDb rating: 6.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blood Feast (1963)
 DTSTART;TZID=America/Los_Angeles:20240807T210000
