@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240806T090431Z
+LAST-MODIFIED:20240807T082319Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Muppet Treasure Island (1996)
-DTSTART;TZID=America/Los_Angeles:20240806T160000
-DTEND;TZID=America/Los_Angeles:20240806T180500
-DTSTAMP:20240806T235300Z
-UID:ci0015312-tt0117110--2024-8-6-16-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
- f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
- m/title/tt0117110/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muppet Treasure Island (1996)
-DTSTART;TZID=America/Los_Angeles:20240806T190000
-DTEND;TZID=America/Los_Angeles:20240806T210500
-DTSTAMP:20240807T025300Z
-UID:ci0015312-tt0117110--2024-8-6-19-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
- f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
- m/title/tt0117110/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Muppet Treasure Island (1996)
 DTSTART;TZID=America/Los_Angeles:20240807T160000
@@ -50,6 +26,147 @@ DESCRIPTION:Duration: 2h 35m (155 mins)\n\nA noble family becomes embroile
  d in a war for control over the galaxy's most valuable asset while its hei
  r becomes troubled by visions of a dark future.\n\nhttps://www.imdb.com/ti
  tle/tt1160419/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Shark
+DTSTART;TZID=America/Los_Angeles:20240809T190000
+DTEND;TZID=America/Los_Angeles:20240809T210500
+DTSTAMP:20240810T025300Z
+UID:ci0015312-tt9755806--2024-8-9-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThree firefighters must save New
+  Orleans from a shark attack.\n\nhttps://www.imdb.com/title/tt9755806/\n\n
+ IMDb rating: 5.5
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240809T160000
+DTEND;TZID=America/Los_Angeles:20240809T183000
+DTSTAMP:20240809T235300Z
+UID:ci0015312-tt0073195--2024-8-9-16-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240810T160000
+DTEND;TZID=America/Los_Angeles:20240810T183000
+DTSTAMP:20240810T235300Z
+UID:ci0015312-tt0073195--2024-8-10-16-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room (2003)
+DTSTART;TZID=America/Los_Angeles:20240810T190000
+DTEND;TZID=America/Los_Angeles:20240810T210500
+DTSTAMP:20240811T025300Z
+UID:ci0015312-tt0368226--2024-8-10-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn San Francisco\, an amiable ba
+ nker's seemingly perfect life is turned upside down when his deceitful bri
+ de-to-be embarks on a passionate affair with his best friend.\n\nhttps://w
+ ww.imdb.com/title/tt0368226/\n\nIMDb rating: 3.6
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Shark
+DTSTART;TZID=America/Los_Angeles:20240811T150000
+DTEND;TZID=America/Los_Angeles:20240811T170500
+DTSTAMP:20240811T225300Z
+UID:ci0015312-tt9755806--2024-8-11-15-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThree firefighters must save New
+  Orleans from a shark attack.\n\nhttps://www.imdb.com/title/tt9755806/\n\n
+ IMDb rating: 5.5
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240811T190000
+DTEND;TZID=America/Los_Angeles:20240811T213000
+DTSTAMP:20240812T025300Z
+UID:ci0015312-tt0073195--2024-8-11-19-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240812T160000
+DTEND;TZID=America/Los_Angeles:20240812T183000
+DTSTAMP:20240812T235300Z
+UID:ci0015312-tt0073195--2024-8-12-16-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240813T160000
+DTEND;TZID=America/Los_Angeles:20240813T183000
+DTSTAMP:20240813T235300Z
+UID:ci0015312-tt0073195--2024-8-13-16-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240813T190000
+DTEND;TZID=America/Los_Angeles:20240813T213000
+DTSTAMP:20240814T025300Z
+UID:ci0015312-tt0073195--2024-8-13-19-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jaws (1975)
+DTSTART;TZID=America/Los_Angeles:20240814T160000
+DTEND;TZID=America/Los_Angeles:20240814T183000
+DTSTAMP:20240814T235300Z
+UID:ci0015312-tt0073195--2024-8-14-16-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
+ haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
+ rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
+ w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=America/Los_Angeles:20240815T200000
+DTEND;TZID=America/Los_Angeles:20240815T231500
+DTSTAMP:20240816T035300Z
+UID:ci0015312-tt15239678--2024-8-15-20-0
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
+  and the Fremen while seeking revenge against the conspirators who destroy
+ ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
+ .5
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
