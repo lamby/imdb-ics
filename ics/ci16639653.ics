@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240807T082156Z
+LAST-MODIFIED:20240808T085050Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kneecap
-DTSTART;TZID=America/Los_Angeles:20240807T161500
-DTEND;TZID=America/Los_Angeles:20240807T182500
-DTSTAMP:20240808T000800Z
-UID:ci16639653-tt27367464--2024-8-7-16-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
- r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
-  the needle drops on a hip hop act like no other. Rapping in their native 
- Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Crow (1994)
-DTSTART;TZID=America/Los_Angeles:20240807T180000
-DTEND;TZID=America/Los_Angeles:20240807T201000
-DTSTAMP:20240808T015300Z
-UID:ci16639653-tt0109506--2024-8-7-18-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nThe night before his wedding\, 
- musician Eric Draven and his fiancée are brutally murdered by members of 
- a violent gang. On the anniversary of their death\, Eric rises from the gr
- ave and assumes the mantle of the Crow\, a supernatural...\n\nhttps://www.
- imdb.com/title/tt0109506/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Widow Clicquot
-DTSTART;TZID=America/Los_Angeles:20240807T164500
-DTEND;TZID=America/Los_Angeles:20240807T184000
-DTSTAMP:20240808T003800Z
-UID:ci16639653-tt3234122--2024-8-7-16-45
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
- uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Widow Clicquot
-DTSTART;TZID=America/Los_Angeles:20240807T193000
-DTEND;TZID=America/Los_Angeles:20240807T212500
-DTSTAMP:20240808T032300Z
-UID:ci16639653-tt3234122--2024-8-7-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
- uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dìdi
 DTSTART;TZID=America/Los_Angeles:20240808T193000
@@ -80,7 +28,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -94,7 +42,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -108,7 +56,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -133,7 +81,7 @@ DTSTAMP:20240809T003800Z
 UID:ci16639653-tt3234122--2024-8-8-16-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nThe story behind the Veuve Clicq
  uot champagne family and business that began in the late 18th century.\n\n
- https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.7
+ https://www.imdb.com/title/tt3234122/\n\nIMDb rating: 6.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -175,7 +123,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -189,7 +137,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -203,7 +151,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -217,7 +165,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -273,7 +221,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -287,7 +235,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -301,7 +249,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -315,7 +263,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -329,7 +277,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -343,7 +291,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -399,7 +347,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -413,7 +361,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -427,7 +375,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -441,7 +389,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -455,7 +403,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -469,7 +417,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -511,7 +459,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -525,7 +473,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -539,7 +487,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -553,7 +501,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -595,7 +543,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -609,7 +557,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -623,7 +571,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -637,7 +585,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -679,7 +627,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -693,7 +641,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -707,7 +655,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -721,7 +669,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -763,7 +711,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -777,7 +725,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen fate brings Belfast teache
  r JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og\,
   the needle drops on a hip hop act like no other. Rapping in their native 
  Irish\, they lead a movement to save their mother ton...\n\nhttps://www.im
- db.com/title/tt27367464/\n\nIMDb rating: 7.5
+ db.com/title/tt27367464/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -791,7 +739,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -805,7 +753,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDivine G\, imprisoned at Sing S
  ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
  oup alongside other incarcerated men in this story of resilience\, humanit
  y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 8.2
+ 8479262/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

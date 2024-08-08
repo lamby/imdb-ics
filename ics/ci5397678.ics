@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240807T082234Z
+LAST-MODIFIED:20240808T085127Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=America/Los_Angeles:20240807T161500
-DTEND;TZID=America/Los_Angeles:20240807T185000
-DTSTAMP:20240808T000800Z
-UID:ci5397678-tt6263850--2024-8-7-16-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nDeadpool is offered a place in 
- the Marvel Cinematic Universe by the Time Variance Authority\, but instead
-  recruits a variant of Wolverine to save his universe from extinction.\n\n
- https://www.imdb.com/title/tt6263850/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine (3D)
-DTSTART;TZID=America/Los_Angeles:20240807T193000
-DTEND;TZID=America/Los_Angeles:20240807T220500
-DTSTAMP:20240808T032300Z
-UID:ci5397678-tt6263850-3d-2024-8-7-19-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nDeadpool is offered a place in 
- the Marvel Cinematic Universe by the Time Variance Authority\, but instead
-  recruits a variant of Wolverine to save his universe from extinction.\n\n
- https://www.imdb.com/title/tt6263850/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deadpool & Wolverine
 DTSTART;TZID=America/Los_Angeles:20240808T161500
@@ -491,6 +465,45 @@ DTSTART;TZID=America/Los_Angeles:20240822T203000
 DTEND;TZID=America/Los_Angeles:20240822T225500
 DTSTAMP:20240823T042300Z
 UID:ci5397678-tt18412256--2024-8-22-20-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240823T143000
+DTEND;TZID=America/Los_Angeles:20240823T165500
+DTSTAMP:20240823T222300Z
+UID:ci5397678-tt18412256--2024-8-23-14-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240823T173000
+DTEND;TZID=America/Los_Angeles:20240823T195500
+DTSTAMP:20240824T012300Z
+UID:ci5397678-tt18412256--2024-8-23-17-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240823T203000
+DTEND;TZID=America/Los_Angeles:20240823T225500
+DTSTAMP:20240824T042300Z
+UID:ci5397678-tt18412256--2024-8-23-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www

@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240807T082319Z
+LAST-MODIFIED:20240808T085214Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Muppet Treasure Island (1996)
-DTSTART;TZID=America/Los_Angeles:20240807T160000
-DTEND;TZID=America/Los_Angeles:20240807T180500
-DTSTAMP:20240807T235300Z
-UID:ci0015312-tt0117110--2024-8-7-16-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThe Muppets set sail in search o
- f treasure\, with Jim Hawkins and Long John Silver.\n\nhttps://www.imdb.co
- m/title/tt0117110/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part One (2021)
 DTSTART;TZID=America/Los_Angeles:20240808T200000

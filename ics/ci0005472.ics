@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240807T082005Z
+LAST-MODIFIED:20240808T084911Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Do the Right Thing (1989)
-DTSTART;TZID=America/Los_Angeles:20240807T191500
-DTEND;TZID=America/Los_Angeles:20240807T214000
-DTSTAMP:20240808T030800Z
-UID:ci0005472-tt0097216--2024-8-7-19-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
- on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
- e and bigotry smolders and builds until it explodes into violence.\n\nhttp
- s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 Women (1977)
 DTSTART;TZID=America/Los_Angeles:20240808T191500
@@ -53,7 +40,7 @@ UID:ci0005472-tt12818328--2024-8-10-20-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.8
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -199,6 +186,19 @@ DTSTART;TZID=America/Los_Angeles:20240822T191500
 DTEND;TZID=America/Los_Angeles:20240822T211500
 DTSTAMP:20240823T030800Z
 UID:ci0005472-tt0080120--2024-8-22-19-15
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA street gang known as the Warri
+ ors must fight its way from the Bronx to its home turf on Coney Island whe
+ n its members are falsely accused of assassinating a respected gang leader
+ .\n\nhttps://www.imdb.com/title/tt0080120/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Warriors (1979)
+DTSTART;TZID=America/Los_Angeles:20240823T193000
+DTEND;TZID=America/Los_Angeles:20240823T213000
+DTSTAMP:20240824T032300Z
+UID:ci0005472-tt0080120--2024-8-23-19-30
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA street gang known as the Warri
  ors must fight its way from the Bronx to its home turf on Coney Island whe
  n its members are falsely accused of assassinating a respected gang leader

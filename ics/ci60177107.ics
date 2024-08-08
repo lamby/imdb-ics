@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240807T082211Z
+LAST-MODIFIED:20240808T085104Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blood Feast (1963)
-DTSTART;TZID=America/Los_Angeles:20240807T210000
-DTEND;TZID=America/Los_Angeles:20240807T223500
-DTSTAMP:20240808T045300Z
-UID:ci60177107-tt0056875--2024-8-7-21-0
-DESCRIPTION:Duration: 1h 07m (67 mins)\n\nAn Egyptian caterer kills variou
- s women in suburban Miami to use their body parts to revive a dormant Egyp
- tian goddess while an inept police detective tries to track him down.\n\nh
- ttps://www.imdb.com/title/tt0056875/\n\nIMDb rating: 5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Attack of the Beast Creatures (1985)
 DTSTART;TZID=America/Los_Angeles:20240808T210000
@@ -236,6 +223,19 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
  bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
   starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
  /\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Peanut Butter Solution (1985)
+DTSTART;TZID=America/Los_Angeles:20240823T161500
+DTEND;TZID=America/Los_Angeles:20240823T181500
+DTSTAMP:20240824T000800Z
+UID:ci60177107-tt0089789--2024-8-23-16-15
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nPeanut butter is the secret ingr
+ edient for magic potions made by two friendly ghosts. Eleven-year-old Mich
+ ael loses all of his hair when he gets a fright and uses the potion to get
+  his hair back.\n\nhttps://www.imdb.com/title/tt0089789/\n\nIMDb rating: 6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
