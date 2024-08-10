@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240808T085104Z
+LAST-MODIFIED:20240810T080836Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Attack of the Beast Creatures (1985)
-DTSTART;TZID=America/Los_Angeles:20240808T210000
-DTEND;TZID=America/Los_Angeles:20240808T225000
-DTSTAMP:20240809T045300Z
-UID:ci60177107-tt0088752--2024-8-8-21-0
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nSurvivors of a shipwreck wash up
-  on an island\, and run into small vicious creatures.\n\nhttps://www.imdb.
- com/title/tt0088752/\n\nIMDb rating: 4.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossing
-DTSTART;TZID=America/Los_Angeles:20240809T161500
-DTEND;TZID=America/Los_Angeles:20240809T183000
-DTSTAMP:20240810T000800Z
-UID:ci60177107-tt27417166--2024-8-9-16-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
- romised to find her long-lost niece\, Tekla. Her search takes her to Istan
- bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
-  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
- /\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossing
-DTSTART;TZID=America/Los_Angeles:20240809T190000
-DTEND;TZID=America/Los_Angeles:20240809T211500
-DTSTAMP:20240810T025300Z
-UID:ci60177107-tt27417166--2024-8-9-19-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
- romised to find her long-lost niece\, Tekla. Her search takes her to Istan
- bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
-  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
- /\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crossing
 DTSTART;TZID=America/Los_Angeles:20240810T134500
@@ -236,6 +196,59 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nPeanut butter is the secret ingr
  edient for magic potions made by two friendly ghosts. Eleven-year-old Mich
  ael loses all of his hair when he gets a fright and uses the potion to get
   his hair back.\n\nhttps://www.imdb.com/title/tt0089789/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All About Alice (1972)
+DTSTART;TZID=America/Los_Angeles:20240824T210000
+DTEND;TZID=America/Los_Angeles:20240824T223500
+DTSTAMP:20240825T045300Z
+UID:ci60177107-tt0209905--2024-8-24-21-0
+DESCRIPTION:Duration: 1h 08m (68 mins)\n\nA female impersonator leads a ca
+ st of non-professional actors in a spoof of the film &quot\;All About Eve&
+ quot\;.\n\nhttps://www.imdb.com/title/tt0209905/\n\nIMDb rating: 5.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Shop of Horrors (1960)
+DTSTART;TZID=America/Los_Angeles:20240824T190000
+DTEND;TZID=America/Los_Angeles:20240824T204000
+DTSTAMP:20240825T025300Z
+UID:ci60177107-tt0054033--2024-8-24-19-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA clumsy young man working at an
+  impoverished flower shop discovers that the strange plant he has been nur
+ turing has an insatiable appetite for blood\, forcing him to kill to feed 
+ it.\n\nhttps://www.imdb.com/title/tt0054033/\n\nIMDb rating: 6.2
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mary Jane's Not a Virgin Anymore (1996)
+DTSTART;TZID=America/Los_Angeles:20240825T140000
+DTEND;TZID=America/Los_Angeles:20240825T160500
+DTSTAMP:20240825T215300Z
+UID:ci60177107-tt0117001--2024-8-25-14-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA vibrant and vital antidote to 
+ every phony Hollywood teen picture\, bringing lo-fi authenticity to the co
+ ming-of-age genre as a young woman navigates the less-than-glamorous reali
+ ties of love and sex with a frankness rarely seen o...\n\nhttps://www.imdb
+ .com/title/tt0117001/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweet Sweetback's Baadasssss Song (1971)
+DTSTART;TZID=America/Los_Angeles:20240825T190000
+DTEND;TZID=America/Los_Angeles:20240825T210500
+DTSTAMP:20240826T025300Z
+UID:ci60177107-tt0067810--2024-8-25-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAfter saving a Black Panther fro
+ m some racist cops\, a black male prostitute goes on the run from &quot\;t
+ he man&quot\; with the help of the ghetto community and some disillusioned
+  Hells Angels.\n\nhttps://www.imdb.com/title/tt0067810/\n\nIMDb rating: 5.
+ 5
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
