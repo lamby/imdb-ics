@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240810T080632Z
+LAST-MODIFIED:20240812T071740Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Real Young Girl (1976)
-DTSTART;TZID=America/Los_Angeles:20240810T154500
-DTEND;TZID=America/Los_Angeles:20240810T174000
-DTSTAMP:20240810T233800Z
-UID:ci0005472-tt0135024--2024-8-10-15-45
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nReluctantly\, a sulky adolescent
-  returns to her parents' house for yet another boring summer vacation\, da
- bbling in desire and the art of desirability\, eventually mixing reality w
- ith vision\, caged fantasies with the fierce female se...\n\nhttps://www.i
- mdb.com/title/tt0135024/\n\nIMDb rating: 5.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20240810T203000
-DTEND;TZID=America/Los_Angeles:20240810T224500
-DTSTAMP:20240811T042300Z
-UID:ci0005472-tt12818328--2024-8-10-20-30
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women (1977)
-DTSTART;TZID=America/Los_Angeles:20240811T141500
-DTEND;TZID=America/Los_Angeles:20240811T164500
-DTSTAMP:20240811T220800Z
-UID:ci0005472-tt0075612--2024-8-11-14-15
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nTwo roommates/physical therapis
- ts\, one a vain woman and the other an awkward teenager\, share an increas
- ingly bizarre relationship.\n\nhttps://www.imdb.com/title/tt0075612/\n\nIM
- Db rating: 7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Young Girl (1976)
-DTSTART;TZID=America/Los_Angeles:20240811T193000
-DTEND;TZID=America/Los_Angeles:20240811T212500
-DTSTAMP:20240812T032300Z
-UID:ci0005472-tt0135024--2024-8-11-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nReluctantly\, a sulky adolescent
-  returns to her parents' house for yet another boring summer vacation\, da
- bbling in desire and the art of desirability\, eventually mixing reality w
- ith vision\, caged fantasies with the fierce female se...\n\nhttps://www.i
- mdb.com/title/tt0135024/\n\nIMDb rating: 5.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Real Young Girl (1976)
 DTSTART;TZID=America/Los_Angeles:20240813T193000
@@ -278,6 +224,31 @@ UID:ci0005472-tt0117296--2024-8-25-18-0
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nIn Dunkirk\, a man and a woman 
  meet and fall in love\, then hate each other.\n\nhttps://www.imdb.com/titl
  e/tt0117296/\n\nIMDb rating: 6.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfect Love (1996)
+DTSTART;TZID=America/Los_Angeles:20240826T191500
+DTEND;TZID=America/Los_Angeles:20240826T213000
+DTSTAMP:20240827T030800Z
+UID:ci0005472-tt0117296--2024-8-26-19-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nIn Dunkirk\, a man and a woman 
+ meet and fall in love\, then hate each other.\n\nhttps://www.imdb.com/titl
+ e/tt0117296/\n\nIMDb rating: 6.2
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Warriors (1979)
+DTSTART;TZID=America/Los_Angeles:20240827T193000
+DTEND;TZID=America/Los_Angeles:20240827T213000
+DTSTAMP:20240828T032300Z
+UID:ci0005472-tt0080120--2024-8-27-19-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA street gang known as the Warri
+ ors must fight its way from the Bronx to its home turf on Coney Island whe
+ n its members are falsely accused of assassinating a respected gang leader
+ .\n\nhttps://www.imdb.com/title/tt0080120/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
