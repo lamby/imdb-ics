@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240812T072045Z
+LAST-MODIFIED:20240813T084437Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Jaws (1975)
-DTSTART;TZID=America/Los_Angeles:20240812T160000
-DTEND;TZID=America/Los_Angeles:20240812T183000
-DTSTAMP:20240812T235300Z
-UID:ci0015312-tt0073195--2024-8-12-16-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
- haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
- rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
- w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jaws (1975)
 DTSTART;TZID=America/Los_Angeles:20240813T160000
