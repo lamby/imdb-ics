@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240813T084353Z
+LAST-MODIFIED:20240815T081410Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=America/Los_Angeles:20240813T161500
-DTEND;TZID=America/Los_Angeles:20240813T185000
-DTSTAMP:20240814T000800Z
-UID:ci5397678-tt6263850--2024-8-13-16-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nDeadpool is offered a place in 
- the Marvel Cinematic Universe by the Time Variance Authority\, but instead
-  recruits a variant of Wolverine to save his universe from extinction.\n\n
- https://www.imdb.com/title/tt6263850/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine (3D)
-DTSTART;TZID=America/Los_Angeles:20240813T193000
-DTEND;TZID=America/Los_Angeles:20240813T220500
-DTSTAMP:20240814T032300Z
-UID:ci5397678-tt6263850-3d-2024-8-13-19-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nDeadpool is offered a place in 
- the Marvel Cinematic Universe by the Time Variance Authority\, but instead
-  recruits a variant of Wolverine to save his universe from extinction.\n\n
- https://www.imdb.com/title/tt6263850/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=America/Los_Angeles:20240814T161500
-DTEND;TZID=America/Los_Angeles:20240814T185000
-DTSTAMP:20240815T000800Z
-UID:ci5397678-tt6263850--2024-8-14-16-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nDeadpool is offered a place in 
- the Marvel Cinematic Universe by the Time Variance Authority\, but instead
-  recruits a variant of Wolverine to save his universe from extinction.\n\n
- https://www.imdb.com/title/tt6263850/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=America/Los_Angeles:20240814T193000
-DTEND;TZID=America/Los_Angeles:20240814T220500
-DTSTAMP:20240815T032300Z
-UID:ci5397678-tt6263850--2024-8-14-19-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nDeadpool is offered a place in 
- the Marvel Cinematic Universe by the Time Variance Authority\, but instead
-  recruits a variant of Wolverine to save his universe from extinction.\n\n
- https://www.imdb.com/title/tt6263850/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alien: Romulus
 DTSTART;TZID=America/Los_Angeles:20240815T193000
@@ -65,7 +13,7 @@ UID:ci5397678-tt18412256--2024-8-15-19-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -91,7 +39,7 @@ UID:ci5397678-tt18412256--2024-8-16-14-0
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -104,7 +52,7 @@ UID:ci5397678-tt18412256--2024-8-16-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -117,7 +65,7 @@ UID:ci5397678-tt18412256--2024-8-16-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -130,7 +78,7 @@ UID:ci5397678-tt18412256--2024-8-17-14-0
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -143,7 +91,7 @@ UID:ci5397678-tt18412256--2024-8-17-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -156,7 +104,7 @@ UID:ci5397678-tt18412256--2024-8-17-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -169,7 +117,7 @@ UID:ci5397678-tt18412256--2024-8-18-14-0
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -182,7 +130,7 @@ UID:ci5397678-tt18412256--2024-8-18-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -195,7 +143,7 @@ UID:ci5397678-tt18412256--2024-8-18-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -208,7 +156,7 @@ UID:ci5397678-tt18412256--2024-8-19-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -221,7 +169,7 @@ UID:ci5397678-tt18412256--2024-8-19-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -234,7 +182,7 @@ UID:ci5397678-tt18412256--2024-8-20-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -247,7 +195,7 @@ UID:ci5397678-tt18412256--2024-8-20-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -260,7 +208,7 @@ UID:ci5397678-tt18412256--2024-8-21-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -273,7 +221,7 @@ UID:ci5397678-tt18412256--2024-8-21-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -286,7 +234,7 @@ UID:ci5397678-tt18412256--2024-8-22-17-15
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -299,7 +247,7 @@ UID:ci5397678-tt18412256--2024-8-22-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -312,7 +260,7 @@ UID:ci5397678-tt18412256--2024-8-23-14-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -325,7 +273,7 @@ UID:ci5397678-tt18412256--2024-8-23-17-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -338,7 +286,7 @@ UID:ci5397678-tt18412256--2024-8-23-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -351,7 +299,7 @@ UID:ci5397678-tt18412256--2024-8-24-14-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -364,7 +312,7 @@ UID:ci5397678-tt18412256--2024-8-24-17-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -377,7 +325,7 @@ UID:ci5397678-tt18412256--2024-8-24-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -390,7 +338,7 @@ UID:ci5397678-tt18412256--2024-8-25-14-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -403,7 +351,7 @@ UID:ci5397678-tt18412256--2024-8-25-17-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -416,7 +364,7 @@ UID:ci5397678-tt18412256--2024-8-25-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -429,7 +377,7 @@ UID:ci5397678-tt18412256--2024-8-26-17-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -442,7 +390,7 @@ UID:ci5397678-tt18412256--2024-8-26-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -455,7 +403,7 @@ UID:ci5397678-tt18412256--2024-8-27-17-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -468,7 +416,7 @@ UID:ci5397678-tt18412256--2024-8-27-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -481,7 +429,7 @@ UID:ci5397678-tt18412256--2024-8-28-17-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -494,7 +442,72 @@ UID:ci5397678-tt18412256--2024-8-28-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonizers come face 
  to face with the most terrifying life form in the universe.\n\nhttps://www
- .imdb.com/title/tt18412256/
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240829T173000
+DTEND;TZID=America/Los_Angeles:20240829T195500
+DTSTAMP:20240830T012300Z
+UID:ci5397678-tt18412256--2024-8-29-17-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240829T203000
+DTEND;TZID=America/Los_Angeles:20240829T225500
+DTSTAMP:20240830T042300Z
+UID:ci5397678-tt18412256--2024-8-29-20-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240830T143000
+DTEND;TZID=America/Los_Angeles:20240830T165500
+DTSTAMP:20240830T222300Z
+UID:ci5397678-tt18412256--2024-8-30-14-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240830T173000
+DTEND;TZID=America/Los_Angeles:20240830T195500
+DTSTAMP:20240831T012300Z
+UID:ci5397678-tt18412256--2024-8-30-17-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240830T203000
+DTEND;TZID=America/Los_Angeles:20240830T225500
+DTSTAMP:20240831T042300Z
+UID:ci5397678-tt18412256--2024-8-30-20-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonizers come face 
+ to face with the most terrifying life form in the universe.\n\nhttps://www
+ .imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

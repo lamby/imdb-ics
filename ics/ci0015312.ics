@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240813T084437Z
+LAST-MODIFIED:20240815T081457Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Jaws (1975)
-DTSTART;TZID=America/Los_Angeles:20240813T160000
-DTEND;TZID=America/Los_Angeles:20240813T183000
-DTSTAMP:20240813T235300Z
-UID:ci0015312-tt0073195--2024-8-13-16-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
- haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
- rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
- w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jaws (1975)
-DTSTART;TZID=America/Los_Angeles:20240813T190000
-DTEND;TZID=America/Los_Angeles:20240813T213000
-DTSTAMP:20240814T025300Z
-UID:ci0015312-tt0073195--2024-8-13-19-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
- haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
- rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
- w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jaws (1975)
-DTSTART;TZID=America/Los_Angeles:20240814T160000
-DTEND;TZID=America/Los_Angeles:20240814T183000
-DTSTAMP:20240814T235300Z
-UID:ci0015312-tt0073195--2024-8-14-16-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nWhen a killer shark unleashes c
- haos on a beach community off Cape Cod\, it's up to a local sheriff\, a ma
- rine biologist\, and an old seafarer to hunt the beast down.\n\nhttps://ww
- w.imdb.com/title/tt0073195/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
 DTSTART;TZID=America/Los_Angeles:20240815T200000
@@ -53,6 +14,214 @@ DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
   and the Fremen while seeking revenge against the conspirators who destroy
  ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
  .5
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240816T160000
+DTEND;TZID=America/Los_Angeles:20240816T180500
+DTSTAMP:20240816T235300Z
+UID:ci0015312-tt0092890--2024-8-16-16-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240816T190000
+DTEND;TZID=America/Los_Angeles:20240816T210500
+DTSTAMP:20240817T025300Z
+UID:ci0015312-tt0092890--2024-8-16-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road House (1989)
+DTSTART;TZID=America/Los_Angeles:20240816T213000
+DTEND;TZID=America/Los_Angeles:20240816T235000
+DTSTAMP:20240817T052300Z
+UID:ci0015312-tt0098206--2024-8-16-21-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA legendary bouncer comes to re
+ store order at a notorious bar but runs afoul of a ruthless crime boss who
+  controls the town.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb ratin
+ g: 6.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240817T160000
+DTEND;TZID=America/Los_Angeles:20240817T180500
+DTSTAMP:20240817T235300Z
+UID:ci0015312-tt0092890--2024-8-17-16-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240817T190000
+DTEND;TZID=America/Los_Angeles:20240817T210500
+DTSTAMP:20240818T025300Z
+UID:ci0015312-tt0092890--2024-8-17-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road House (1989)
+DTSTART;TZID=America/Los_Angeles:20240817T213000
+DTEND;TZID=America/Los_Angeles:20240817T235000
+DTSTAMP:20240818T052300Z
+UID:ci0015312-tt0098206--2024-8-17-21-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA legendary bouncer comes to re
+ store order at a notorious bar but runs afoul of a ruthless crime boss who
+  controls the town.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb ratin
+ g: 6.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240818T160000
+DTEND;TZID=America/Los_Angeles:20240818T180500
+DTSTAMP:20240818T235300Z
+UID:ci0015312-tt0092890--2024-8-18-16-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240818T190000
+DTEND;TZID=America/Los_Angeles:20240818T210500
+DTSTAMP:20240819T025300Z
+UID:ci0015312-tt0092890--2024-8-18-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road House (1989)
+DTSTART;TZID=America/Los_Angeles:20240818T213000
+DTEND;TZID=America/Los_Angeles:20240818T235000
+DTSTAMP:20240819T052300Z
+UID:ci0015312-tt0098206--2024-8-18-21-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA legendary bouncer comes to re
+ store order at a notorious bar but runs afoul of a ruthless crime boss who
+  controls the town.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb ratin
+ g: 6.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240819T160000
+DTEND;TZID=America/Los_Angeles:20240819T180500
+DTSTAMP:20240819T235300Z
+UID:ci0015312-tt0092890--2024-8-19-16-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240819T190000
+DTEND;TZID=America/Los_Angeles:20240819T210500
+DTSTAMP:20240820T025300Z
+UID:ci0015312-tt0092890--2024-8-19-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road House (1989)
+DTSTART;TZID=America/Los_Angeles:20240819T213000
+DTEND;TZID=America/Los_Angeles:20240819T235000
+DTSTAMP:20240820T052300Z
+UID:ci0015312-tt0098206--2024-8-19-21-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA legendary bouncer comes to re
+ store order at a notorious bar but runs afoul of a ruthless crime boss who
+  controls the town.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb ratin
+ g: 6.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240820T160000
+DTEND;TZID=America/Los_Angeles:20240820T180500
+DTSTAMP:20240820T235300Z
+UID:ci0015312-tt0092890--2024-8-20-16-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240820T190000
+DTEND;TZID=America/Los_Angeles:20240820T210500
+DTSTAMP:20240821T025300Z
+UID:ci0015312-tt0092890--2024-8-20-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Road House (1989)
+DTSTART;TZID=America/Los_Angeles:20240820T213000
+DTEND;TZID=America/Los_Angeles:20240820T235000
+DTSTAMP:20240821T052300Z
+UID:ci0015312-tt0098206--2024-8-20-21-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA legendary bouncer comes to re
+ store order at a notorious bar but runs afoul of a ruthless crime boss who
+  controls the town.\n\nhttps://www.imdb.com/title/tt0098206/\n\nIMDb ratin
+ g: 6.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dirty Dancing (1987)
+DTSTART;TZID=America/Los_Angeles:20240821T160000
+DTEND;TZID=America/Los_Angeles:20240821T180500
+DTSTAMP:20240821T235300Z
+UID:ci0015312-tt0092890--2024-8-21-16-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
+ lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
+ love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
+ .com/title/tt0092890/\n\nIMDb rating: 7.1
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
