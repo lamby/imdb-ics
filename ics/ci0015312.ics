@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240815T081457Z
+LAST-MODIFIED:20240816T092446Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=America/Los_Angeles:20240815T200000
-DTEND;TZID=America/Los_Angeles:20240815T231500
-DTSTAMP:20240816T035300Z
-UID:ci0015312-tt15239678--2024-8-15-20-0
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with Chani
-  and the Fremen while seeking revenge against the conspirators who destroy
- ed his family.\n\nhttps://www.imdb.com/title/tt15239678/\n\nIMDb rating: 8
- .5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dirty Dancing (1987)
 DTSTART;TZID=America/Los_Angeles:20240816T160000
