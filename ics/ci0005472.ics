@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240816T092123Z
+LAST-MODIFIED:20240817T083310Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kung Fu Hustle (2004)
-DTSTART;TZID=America/Los_Angeles:20240816T193000
-DTEND;TZID=America/Los_Angeles:20240816T213500
-DTSTAMP:20240817T032300Z
-UID:ci0005472-tt0373074--2024-8-16-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn Shanghai\, China in the 1940s
- \, a wannabe gangster aspires to join the notorious &quot\;Axe Gang&quot\;
-  while residents of a housing complex exhibit extraordinary powers in defe
- nding their turf.\n\nhttps://www.imdb.com/title/tt0373074/\n\nIMDb rating:
-  7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:36 fillette (1988)
 DTSTART;TZID=America/Los_Angeles:20240817T164500
@@ -283,6 +269,45 @@ DTSTART;TZID=America/Los_Angeles:20240831T203000
 DTEND;TZID=America/Los_Angeles:20240831T222500
 DTSTAMP:20240901T042300Z
 UID:ci0005472-tt12245606--2024-8-31-20-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
+  Juggalos must sojourn through America's hellish underbelly to The Gatheri
+ ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/
+ /www.imdb.com/title/tt12245606/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Portrait
+DTSTART;TZID=America/Los_Angeles:20240901T140000
+DTEND;TZID=America/Los_Angeles:20240901T154000
+DTSTAMP:20240901T215300Z
+UID:ci0005472-tt21257870--2024-9-1-14-0
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA sprawling family's futile atte
+ mpts at capturing a family photo take a dreamlike turn when the matriarch 
+ vanishes and one daughter becomes desperate to find her.\n\nhttps://www.im
+ db.com/title/tt21257870/\n\nIMDb rating: 5.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off Ramp
+DTSTART;TZID=America/Los_Angeles:20240901T160000
+DTEND;TZID=America/Los_Angeles:20240901T175500
+DTSTAMP:20240901T235300Z
+UID:ci0005472-tt12245606--2024-9-1-16-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
+  Juggalos must sojourn through America's hellish underbelly to The Gatheri
+ ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/
+ /www.imdb.com/title/tt12245606/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off Ramp
+DTSTART;TZID=America/Los_Angeles:20240901T203000
+DTEND;TZID=America/Los_Angeles:20240901T222500
+DTSTAMP:20240902T042300Z
+UID:ci0005472-tt12245606--2024-9-1-20-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
   Juggalos must sojourn through America's hellish underbelly to The Gatheri
  ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/

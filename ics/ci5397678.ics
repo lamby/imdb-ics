@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240816T092358Z
+LAST-MODIFIED:20240817T083555Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240816T140000
-DTEND;TZID=America/Los_Angeles:20240816T162500
-DTSTAMP:20240816T215300Z
-UID:ci5397678-tt18412256--2024-8-16-14-0
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240816T171500
-DTEND;TZID=America/Los_Angeles:20240816T194000
-DTSTAMP:20240817T010800Z
-UID:ci5397678-tt18412256--2024-8-16-17-15
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240816T203000
-DTEND;TZID=America/Los_Angeles:20240816T225500
-DTSTAMP:20240817T042300Z
-UID:ci5397678-tt18412256--2024-8-16-20-30
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alien: Romulus
 DTSTART;TZID=America/Los_Angeles:20240817T140000
@@ -517,6 +478,45 @@ DTSTART;TZID=America/Los_Angeles:20240831T203000
 DTEND;TZID=America/Los_Angeles:20240831T225500
 DTSTAMP:20240901T042300Z
 UID:ci5397678-tt18412256--2024-8-31-20-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonists come face t
+ o face with the most terrifying life form in the universe.\n\nhttps://www.
+ imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240901T143000
+DTEND;TZID=America/Los_Angeles:20240901T165500
+DTSTAMP:20240901T222300Z
+UID:ci5397678-tt18412256--2024-9-1-14-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonists come face t
+ o face with the most terrifying life form in the universe.\n\nhttps://www.
+ imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240901T173000
+DTEND;TZID=America/Los_Angeles:20240901T195500
+DTSTAMP:20240902T012300Z
+UID:ci5397678-tt18412256--2024-9-1-17-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonists come face t
+ o face with the most terrifying life form in the universe.\n\nhttps://www.
+ imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240901T203000
+DTEND;TZID=America/Los_Angeles:20240901T225500
+DTSTAMP:20240902T042300Z
+UID:ci5397678-tt18412256--2024-9-1-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonists come face t
  o face with the most terrifying life form in the universe.\n\nhttps://www.
