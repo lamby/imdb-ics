@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240817T083310Z
+LAST-MODIFIED:20240818T075034Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:36 fillette (1988)
-DTSTART;TZID=America/Los_Angeles:20240817T164500
-DTEND;TZID=America/Los_Angeles:20240817T184000
-DTSTAMP:20240818T003800Z
-UID:ci0005472-tt0094596--2024-8-17-16-45
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA night in the life of a young w
- oman who wishes to learn and experience more of life. The men she meets ha
- ve as much to learn from her as they can offer her\, or more.\n\nhttps://w
- ww.imdb.com/title/tt0094596/\n\nIMDb rating: 6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:36 fillette (1988)
 DTSTART;TZID=America/Los_Angeles:20240818T180000
@@ -308,6 +295,19 @@ DTSTART;TZID=America/Los_Angeles:20240901T203000
 DTEND;TZID=America/Los_Angeles:20240901T222500
 DTSTAMP:20240902T042300Z
 UID:ci0005472-tt12245606--2024-9-1-20-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
+  Juggalos must sojourn through America's hellish underbelly to The Gatheri
+ ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/
+ /www.imdb.com/title/tt12245606/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off Ramp
+DTSTART;TZID=America/Los_Angeles:20240902T193000
+DTEND;TZID=America/Los_Angeles:20240902T212500
+DTSTAMP:20240903T032300Z
+UID:ci0005472-tt12245606--2024-9-2-19-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
   Juggalos must sojourn through America's hellish underbelly to The Gatheri
  ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/

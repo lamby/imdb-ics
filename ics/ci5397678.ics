@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240817T083555Z
+LAST-MODIFIED:20240818T075312Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240817T140000
-DTEND;TZID=America/Los_Angeles:20240817T162500
-DTSTAMP:20240817T215300Z
-UID:ci5397678-tt18412256--2024-8-17-14-0
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240817T171500
-DTEND;TZID=America/Los_Angeles:20240817T194000
-DTSTAMP:20240818T010800Z
-UID:ci5397678-tt18412256--2024-8-17-17-15
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240817T203000
-DTEND;TZID=America/Los_Angeles:20240817T225500
-DTSTAMP:20240818T042300Z
-UID:ci5397678-tt18412256--2024-8-17-20-30
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alien: Romulus
 DTSTART;TZID=America/Los_Angeles:20240818T140000
@@ -517,6 +478,32 @@ DTSTART;TZID=America/Los_Angeles:20240901T203000
 DTEND;TZID=America/Los_Angeles:20240901T225500
 DTSTAMP:20240902T042300Z
 UID:ci5397678-tt18412256--2024-9-1-20-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonists come face t
+ o face with the most terrifying life form in the universe.\n\nhttps://www.
+ imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240902T173000
+DTEND;TZID=America/Los_Angeles:20240902T195500
+DTSTAMP:20240903T012300Z
+UID:ci5397678-tt18412256--2024-9-2-17-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
+ of a derelict space station\, a group of young space colonists come face t
+ o face with the most terrifying life form in the universe.\n\nhttps://www.
+ imdb.com/title/tt18412256/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=America/Los_Angeles:20240902T203000
+DTEND;TZID=America/Los_Angeles:20240902T225500
+DTSTAMP:20240903T042300Z
+UID:ci5397678-tt18412256--2024-9-2-20-30
 DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
  of a derelict space station\, a group of young space colonists come face t
  o face with the most terrifying life form in the universe.\n\nhttps://www.
