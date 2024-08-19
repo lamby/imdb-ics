@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240818T075034Z
+LAST-MODIFIED:20240819T085202Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:36 fillette (1988)
-DTSTART;TZID=America/Los_Angeles:20240818T180000
-DTEND;TZID=America/Los_Angeles:20240818T195500
-DTSTAMP:20240819T015300Z
-UID:ci0005472-tt0094596--2024-8-18-18-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA night in the life of a young w
- oman who wishes to learn and experience more of life. The men she meets ha
- ve as much to learn from her as they can offer her\, or more.\n\nhttps://w
- ww.imdb.com/title/tt0094596/\n\nIMDb rating: 6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kung Fu Hustle (2004)
-DTSTART;TZID=America/Los_Angeles:20240818T203000
-DTEND;TZID=America/Los_Angeles:20240818T223500
-DTSTAMP:20240819T042300Z
-UID:ci0005472-tt0373074--2024-8-18-20-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn Shanghai\, China in the 1940s
- \, a wannabe gangster aspires to join the notorious &quot\;Axe Gang&quot\;
-  while residents of a housing complex exhibit extraordinary powers in defe
- nding their turf.\n\nhttps://www.imdb.com/title/tt0373074/\n\nIMDb rating:
-  7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kung Fu Hustle (2004)
 DTSTART;TZID=America/Los_Angeles:20240819T193000
