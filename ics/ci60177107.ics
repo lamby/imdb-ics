@@ -1,65 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240819T085402Z
+LAST-MODIFIED:20240821T082245Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Crossing
-DTSTART;TZID=America/Los_Angeles:20240819T161500
-DTEND;TZID=America/Los_Angeles:20240819T183000
-DTSTAMP:20240820T000800Z
-UID:ci60177107-tt27417166--2024-8-19-16-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
- romised to find her long-lost niece\, Tekla. Her search takes her to Istan
- bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
-  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
- /\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossing
-DTSTART;TZID=America/Los_Angeles:20240819T190000
-DTEND;TZID=America/Los_Angeles:20240819T211500
-DTSTAMP:20240820T025300Z
-UID:ci60177107-tt27417166--2024-8-19-19-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
- romised to find her long-lost niece\, Tekla. Her search takes her to Istan
- bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
-  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
- /\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossing
-DTSTART;TZID=America/Los_Angeles:20240820T161500
-DTEND;TZID=America/Los_Angeles:20240820T183000
-DTSTAMP:20240821T000800Z
-UID:ci60177107-tt27417166--2024-8-20-16-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
- romised to find her long-lost niece\, Tekla. Her search takes her to Istan
- bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
-  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
- /\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossing
-DTSTART;TZID=America/Los_Angeles:20240820T190000
-DTEND;TZID=America/Los_Angeles:20240820T211500
-DTSTAMP:20240821T025300Z
-UID:ci60177107-tt27417166--2024-8-20-19-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
- romised to find her long-lost niece\, Tekla. Her search takes her to Istan
- bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
-  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
- /\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crossing
 DTSTART;TZID=America/Los_Angeles:20240822T161500
@@ -304,6 +248,32 @@ DTSTART;TZID=America/Los_Angeles:20240903T180000
 DTEND;TZID=America/Los_Angeles:20240903T215500
 DTSTAMP:20240904T015300Z
 UID:ci60177107-tt0047478--2024-9-3-18-0
+DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
+ d by bandits hire a veteran samurai for protection\, who gathers six other
+  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
+ ing: 8.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seven Samurai (1954)
+DTSTART;TZID=America/Los_Angeles:20240904T180000
+DTEND;TZID=America/Los_Angeles:20240904T215500
+DTSTAMP:20240905T015300Z
+UID:ci60177107-tt0047478--2024-9-4-18-0
+DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
+ d by bandits hire a veteran samurai for protection\, who gathers six other
+  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
+ ing: 8.6
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seven Samurai (1954)
+DTSTART;TZID=America/Los_Angeles:20240905T180000
+DTEND;TZID=America/Los_Angeles:20240905T215500
+DTSTAMP:20240906T015300Z
+UID:ci60177107-tt0047478--2024-9-5-18-0
 DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
  d by bandits hire a veteran samurai for protection\, who gathers six other
   samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
