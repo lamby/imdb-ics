@@ -1,20 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240821T082414Z
+LAST-MODIFIED:20240822T111622Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Dirty Dancing (1987)
-DTSTART;TZID=America/Los_Angeles:20240821T160000
-DTEND;TZID=America/Los_Angeles:20240821T180500
-DTSTAMP:20240821T235300Z
-UID:ci0015312-tt0092890--2024-8-21-16-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nSpending the summer at a Catski
- lls resort with her family\, Frances &quot\;Baby&quot\; Houseman falls in 
- love with the camp's dance instructor\, Johnny Castle.\n\nhttps://www.imdb
- .com/title/tt0092890/\n\nIMDb rating: 7.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR
