@@ -1,72 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240823T075747Z
+LAST-MODIFIED:20240825T071516Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Warriors (1979)
-DTSTART;TZID=America/Los_Angeles:20240823T193000
-DTEND;TZID=America/Los_Angeles:20240823T213000
-DTSTAMP:20240824T032300Z
-UID:ci0005472-tt0080120--2024-8-23-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA street gang known as the Warri
- ors must fight its way from the Bronx to its home turf on Coney Island whe
- n its members are falsely accused of assassinating a respected gang leader
- .\n\nhttps://www.imdb.com/title/tt0080120/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Big Shark
-DTSTART;TZID=America/Los_Angeles:20240824T203000
-DTEND;TZID=America/Los_Angeles:20240824T223500
-DTSTAMP:20240825T042300Z
-UID:ci0005472-tt9755806--2024-8-24-20-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nThree firefighters must save New
-  Orleans from a shark attack.\n\nhttps://www.imdb.com/title/tt9755806/\n\n
- IMDb rating: 5.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Portrait
-DTSTART;TZID=America/Los_Angeles:20240824T183000
-DTEND;TZID=America/Los_Angeles:20240824T201000
-DTSTAMP:20240825T022300Z
-UID:ci0005472-tt21257870--2024-8-24-18-30
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA sprawling family's futile atte
- mpts at capturing a family photo take a dreamlike turn when the matriarch 
- vanishes and one daughter becomes desperate to find her.\n\nhttps://www.im
- db.com/title/tt21257870/\n\nIMDb rating: 5.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Perfect Love (1996)
-DTSTART;TZID=America/Los_Angeles:20240824T154500
-DTEND;TZID=America/Los_Angeles:20240824T180000
-DTSTAMP:20240824T233800Z
-UID:ci0005472-tt0117296--2024-8-24-15-45
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nIn Dunkirk\, a man and a woman 
- meet and fall in love\, then hate each other.\n\nhttps://www.imdb.com/titl
- e/tt0117296/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Warriors (1979)
-DTSTART;TZID=America/Los_Angeles:20240824T133000
-DTEND;TZID=America/Los_Angeles:20240824T153000
-DTSTAMP:20240824T212300Z
-UID:ci0005472-tt0080120--2024-8-24-13-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA street gang known as the Warri
- ors must fight its way from the Bronx to its home turf on Coney Island whe
- n its members are falsely accused of assassinating a respected gang leader
- .\n\nhttps://www.imdb.com/title/tt0080120/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family Portrait
 DTSTART;TZID=America/Los_Angeles:20240825T160000
@@ -254,7 +191,7 @@ DTEND;TZID=America/Los_Angeles:20240907T151000
 DTSTAMP:20240907T212300Z
 UID:ci0005472-tt31630188--2024-9-7-13-30
 DESCRIPTION:Duration: 1h 13m (73 mins)\n\nCat funny videos festival he's h
- ilarious\n\nhttps://www.imdb.com/title/tt31630188/\n\nIMDb rating: 7
+ ilarious\n\nhttps://www.imdb.com/title/tt31630188/\n\nIMDb rating: 6.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -268,6 +205,17 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
  eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CatVideoFest 2024
+DTSTART;TZID=America/Los_Angeles:20240908T133000
+DTEND;TZID=America/Los_Angeles:20240908T151000
+DTSTAMP:20240908T212300Z
+UID:ci0005472-tt31630188--2024-9-8-13-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nCat funny videos festival he's h
+ ilarious\n\nhttps://www.imdb.com/title/tt31630188/\n\nIMDb rating: 6.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

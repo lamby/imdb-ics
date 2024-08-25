@@ -1,87 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240823T075958Z
+LAST-MODIFIED:20240825T071722Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
-DTSTART;TZID=America/Los_Angeles:20240823T190000
-DTEND;TZID=America/Los_Angeles:20240823T212500
-DTSTAMP:20240824T025300Z
-UID:ci60177107-tt15275946--2024-8-23-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
- forming city\, a young Eritrean-American boy confronts the realities of ch
- ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Peanut Butter Solution (1985)
-DTSTART;TZID=America/Los_Angeles:20240823T161500
-DTEND;TZID=America/Los_Angeles:20240823T181500
-DTSTAMP:20240824T000800Z
-UID:ci60177107-tt0089789--2024-8-23-16-15
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nPeanut butter is the secret ingr
- edient for magic potions made by two friendly ghosts. Eleven-year-old Mich
- ael loses all of his hair when he gets a fright and uses the potion to get
-  his hair back.\n\nhttps://www.imdb.com/title/tt0089789/\n\nIMDb rating: 6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All About Alice (1972)
-DTSTART;TZID=America/Los_Angeles:20240824T210000
-DTEND;TZID=America/Los_Angeles:20240824T223500
-DTSTAMP:20240825T045300Z
-UID:ci60177107-tt0209905--2024-8-24-21-0
-DESCRIPTION:Duration: 1h 08m (68 mins)\n\nA female impersonator leads a ca
- st of non-professional actors in a spoof of the film &quot\;All About Eve&
- quot\;.\n\nhttps://www.imdb.com/title/tt0209905/\n\nIMDb rating: 5.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crossing
-DTSTART;TZID=America/Los_Angeles:20240824T161500
-DTEND;TZID=America/Los_Angeles:20240824T183000
-DTSTAMP:20240825T000800Z
-UID:ci60177107-tt27417166--2024-8-24-16-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nLia\, a retired teacher\, has p
- romised to find her long-lost niece\, Tekla. Her search takes her to Istan
- bul where she meets Evrim\, a lawyer fighting for trans rights\, and Tekla
-  starts to feel closer than ever.\n\nhttps://www.imdb.com/title/tt27417166
- /\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
-DTSTART;TZID=America/Los_Angeles:20240824T130000
-DTEND;TZID=America/Los_Angeles:20240824T152500
-DTSTAMP:20240824T205300Z
-UID:ci60177107-tt15275946--2024-8-24-13-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
- forming city\, a young Eritrean-American boy confronts the realities of ch
- ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Shop of Horrors (1960)
-DTSTART;TZID=America/Los_Angeles:20240824T190000
-DTEND;TZID=America/Los_Angeles:20240824T204000
-DTSTAMP:20240825T025300Z
-UID:ci60177107-tt0054033--2024-8-24-19-0
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA clumsy young man working at an
-  impoverished flower shop discovers that the strange plant he has been nur
- turing has an insatiable appetite for blood\, forcing him to kill to feed 
- it.\n\nhttps://www.imdb.com/title/tt0054033/\n\nIMDb rating: 6.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mary Jane's Not a Virgin Anymore (1996)
 DTSTART;TZID=America/Los_Angeles:20240825T140000
@@ -132,6 +54,19 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nDuring the German occupation of
  Poland\, an acting troupe becomes embroiled in a Polish soldier's efforts 
  to track down a German spy.\n\nhttps://www.imdb.com/title/tt0035446/\n\nIM
  Db rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She Mob (1968)
+DTSTART;TZID=America/Los_Angeles:20240828T184500
+DTEND;TZID=America/Los_Angeles:20240828T203500
+DTSTAMP:20240829T023800Z
+UID:ci60177107-tt0063594--2024-8-28-18-45
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA gang of four lesbian inmates e
+ scapes from prison and kidnaps the boyfriend of a wealthy woman. She hires
+  a tough private eye to find her boyfriend and rescue him.\n\nhttps://www.
+ imdb.com/title/tt0063594/\n\nIMDb rating: 4.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -325,6 +260,71 @@ DTSTART;TZID=America/Los_Angeles:20240907T170000
 DTEND;TZID=America/Los_Angeles:20240907T195000
 DTSTAMP:20240908T005300Z
 UID:ci60177107-tt0087884--2024-9-7-17-0
+DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
+ rifter who has been missing for four years\, wanders out of the desert and
+  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
+ ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Samouraï (1967)
+DTSTART;TZID=America/Los_Angeles:20240908T170000
+DTEND;TZID=America/Los_Angeles:20240908T191000
+DTSTAMP:20240909T005300Z
+UID:ci60177107-tt0062229--2024-9-8-17-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter professional hitman Jef C
+ ostello is seen by witnesses his efforts to provide himself an alibi drive
+  him further into a corner.\n\nhttps://www.imdb.com/title/tt0062229/\n\nIM
+ Db rating: 8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris\, Texas (1984)
+DTSTART;TZID=America/Los_Angeles:20240908T134500
+DTEND;TZID=America/Los_Angeles:20240908T163500
+DTSTAMP:20240908T213800Z
+UID:ci60177107-tt0087884--2024-9-8-13-45
+DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
+ rifter who has been missing for four years\, wanders out of the desert and
+  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
+ ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris\, Texas (1984)
+DTSTART;TZID=America/Los_Angeles:20240908T193000
+DTEND;TZID=America/Los_Angeles:20240908T222000
+DTSTAMP:20240909T032300Z
+UID:ci60177107-tt0087884--2024-9-8-19-30
+DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
+ rifter who has been missing for four years\, wanders out of the desert and
+  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
+ ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Samouraï (1967)
+DTSTART;TZID=America/Los_Angeles:20240909T201500
+DTEND;TZID=America/Los_Angeles:20240909T222500
+DTSTAMP:20240910T040800Z
+UID:ci60177107-tt0062229--2024-9-9-20-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter professional hitman Jef C
+ ostello is seen by witnesses his efforts to provide himself an alibi drive
+  him further into a corner.\n\nhttps://www.imdb.com/title/tt0062229/\n\nIM
+ Db rating: 8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris\, Texas (1984)
+DTSTART;TZID=America/Los_Angeles:20240909T170000
+DTEND;TZID=America/Los_Angeles:20240909T195000
+DTSTAMP:20240910T005300Z
+UID:ci60177107-tt0087884--2024-9-9-17-0
 DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
  rifter who has been missing for four years\, wanders out of the desert and
   must reconnect with society\, himself\, his life\, and his family.\n\nhtt
