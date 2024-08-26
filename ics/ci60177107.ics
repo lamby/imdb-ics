@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240825T071722Z
+LAST-MODIFIED:20240826T071538Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mary Jane's Not a Virgin Anymore (1996)
-DTSTART;TZID=America/Los_Angeles:20240825T140000
-DTEND;TZID=America/Los_Angeles:20240825T160500
-DTSTAMP:20240825T215300Z
-UID:ci60177107-tt0117001--2024-8-25-14-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA vibrant and vital antidote to 
- every phony Hollywood teen picture\, bringing lo-fi authenticity to the co
- ming-of-age genre as a young woman navigates the less-than-glamorous reali
- ties of love and sex with a frankness rarely seen o...\n\nhttps://www.imdb
- .com/title/tt0117001/\n\nIMDb rating: 6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sweet Sweetback's Baadasssss Song (1971)
-DTSTART;TZID=America/Los_Angeles:20240825T190000
-DTEND;TZID=America/Los_Angeles:20240825T210500
-DTSTAMP:20240826T025300Z
-UID:ci60177107-tt0067810--2024-8-25-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAfter saving a Black Panther fro
- m some racist cops\, a black male prostitute goes on the run from &quot\;t
- he man&quot\; with the help of the ghetto community and some disillusioned
-  Hells Angels.\n\nhttps://www.imdb.com/title/tt0067810/\n\nIMDb rating: 5.
- 5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Married a Witch (1942)
 DTSTART;TZID=America/Los_Angeles:20240826T184500
@@ -325,6 +297,32 @@ DTSTART;TZID=America/Los_Angeles:20240909T170000
 DTEND;TZID=America/Los_Angeles:20240909T195000
 DTSTAMP:20240910T005300Z
 UID:ci60177107-tt0087884--2024-9-9-17-0
+DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
+ rifter who has been missing for four years\, wanders out of the desert and
+  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
+ ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Samouraï (1967)
+DTSTART;TZID=America/Los_Angeles:20240910T170000
+DTEND;TZID=America/Los_Angeles:20240910T191000
+DTSTAMP:20240911T005300Z
+UID:ci60177107-tt0062229--2024-9-10-17-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter professional hitman Jef C
+ ostello is seen by witnesses his efforts to provide himself an alibi drive
+  him further into a corner.\n\nhttps://www.imdb.com/title/tt0062229/\n\nIM
+ Db rating: 8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris\, Texas (1984)
+DTSTART;TZID=America/Los_Angeles:20240910T193000
+DTEND;TZID=America/Los_Angeles:20240910T222000
+DTSTAMP:20240911T032300Z
+UID:ci60177107-tt0087884--2024-9-10-19-30
 DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
  rifter who has been missing for four years\, wanders out of the desert and
   must reconnect with society\, himself\, his life\, and his family.\n\nhtt
