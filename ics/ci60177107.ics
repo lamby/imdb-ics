@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240826T072525Z
+LAST-MODIFIED:20240827T083402Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:I Married a Witch (1942)
-DTSTART;TZID=America/Los_Angeles:20240826T184500
-DTEND;TZID=America/Los_Angeles:20240826T203000
-DTSTAMP:20240827T023800Z
-UID:ci60177107-tt0034881--2024-8-26-18-45
-DESCRIPTION:Duration: 1h 17m (77 mins)\n\nA beautiful 17th-century witch r
- eturns to life to plague politician Wallace Wooley\, descendant of her per
- secutor.\n\nhttps://www.imdb.com/title/tt0034881/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Be or Not to Be (1942)
-DTSTART;TZID=America/Los_Angeles:20240826T210000
-DTEND;TZID=America/Los_Angeles:20240826T230500
-DTSTAMP:20240827T045300Z
-UID:ci60177107-tt0035446--2024-8-26-21-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nDuring the German occupation of 
- Poland\, an acting troupe becomes embroiled in a Polish soldier's efforts 
- to track down a German spy.\n\nhttps://www.imdb.com/title/tt0035446/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:She Mob (1968)
 DTSTART;TZID=America/Los_Angeles:20240828T184500
@@ -323,6 +298,32 @@ DTSTART;TZID=America/Los_Angeles:20240910T193000
 DTEND;TZID=America/Los_Angeles:20240910T222000
 DTSTAMP:20240911T032300Z
 UID:ci60177107-tt0087884--2024-9-10-19-30
+DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
+ rifter who has been missing for four years\, wanders out of the desert and
+  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
+ ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Samouraï (1967)
+DTSTART;TZID=America/Los_Angeles:20240911T201500
+DTEND;TZID=America/Los_Angeles:20240911T222500
+DTSTAMP:20240912T040800Z
+UID:ci60177107-tt0062229--2024-9-11-20-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter professional hitman Jef C
+ ostello is seen by witnesses his efforts to provide himself an alibi drive
+  him further into a corner.\n\nhttps://www.imdb.com/title/tt0062229/\n\nIM
+ Db rating: 8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris\, Texas (1984)
+DTSTART;TZID=America/Los_Angeles:20240911T170000
+DTEND;TZID=America/Los_Angeles:20240911T195000
+DTSTAMP:20240912T005300Z
+UID:ci60177107-tt0087884--2024-9-11-17-0
 DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
  rifter who has been missing for four years\, wanders out of the desert and
   must reconnect with society\, himself\, his life\, and his family.\n\nhtt

@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240826T072335Z
+LAST-MODIFIED:20240827T083202Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Perfect Love (1996)
-DTSTART;TZID=America/Los_Angeles:20240826T191500
-DTEND;TZID=America/Los_Angeles:20240826T213000
-DTSTAMP:20240827T030800Z
-UID:ci0005472-tt0117296--2024-8-26-19-15
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nIn Dunkirk\, a man and a woman 
- meet and fall in love\, then hate each other.\n\nhttps://www.imdb.com/titl
- e/tt0117296/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Warriors (1979)
 DTSTART;TZID=America/Los_Angeles:20240827T193000

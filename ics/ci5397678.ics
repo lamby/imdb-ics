@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240826T072557Z
+LAST-MODIFIED:20240827T083432Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240826T173000
-DTEND;TZID=America/Los_Angeles:20240826T195500
-DTSTAMP:20240827T012300Z
-UID:ci5397678-tt18412256--2024-8-26-17-30
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=America/Los_Angeles:20240826T203000
-DTEND;TZID=America/Los_Angeles:20240826T225500
-DTSTAMP:20240827T042300Z
-UID:ci5397678-tt18412256--2024-8-26-20-30
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhile scavenging the deep ends 
- of a derelict space station\, a group of young space colonists come face t
- o face with the most terrifying life form in the universe.\n\nhttps://www.
- imdb.com/title/tt18412256/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alien: Romulus
 DTSTART;TZID=America/Los_Angeles:20240827T173000
@@ -505,6 +479,34 @@ DTSTART;TZID=America/Los_Angeles:20240910T203000
 DTEND;TZID=America/Los_Angeles:20240910T224000
 DTSTAMP:20240911T042300Z
 UID:ci5397678-tt2049403--2024-9-10-20-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=America/Los_Angeles:20240911T170000
+DTEND;TZID=America/Los_Angeles:20240911T191000
+DTSTAMP:20240912T005300Z
+UID:ci5397678-tt2049403--2024-9-11-17-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=America/Los_Angeles:20240911T203000
+DTEND;TZID=America/Los_Angeles:20240911T224000
+DTSTAMP:20240912T042300Z
+UID:ci5397678-tt2049403--2024-9-11-20-30
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nAfter a family tragedy\, three 
  generations of the Deetz family return home to Winter River. Still haunted
   by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
