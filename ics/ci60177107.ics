@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240827T083402Z
+LAST-MODIFIED:20240828T074125Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -328,6 +328,19 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
  rifter who has been missing for four years\, wanders out of the desert and
   must reconnect with society\, himself\, his life\, and his family.\n\nhtt
  ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S/He Is Still Her/e: The Official Genesis P-Orridge Documentary
+DTSTART;TZID=America/Los_Angeles:20240912T190000
+DTEND;TZID=America/Los_Angeles:20240912T210500
+DTSTAMP:20240913T025300Z
+UID:ci60177107-tt32149757--2024-9-12-19-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nShowcases an introduction\, conv
+ ersation and goodbye to Genesis P-Orridge\, who left a legacy on the world
+ s of music\, performance\, art\, religion and the occult.\n\nhttps://www.i
+ mdb.com/title/tt32149757/\n\nIMDb rating: 9.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

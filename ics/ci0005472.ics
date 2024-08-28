@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240827T083202Z
+LAST-MODIFIED:20240828T073924Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Warriors (1979)
-DTSTART;TZID=America/Los_Angeles:20240827T193000
-DTEND;TZID=America/Los_Angeles:20240827T213000
-DTSTAMP:20240828T032300Z
-UID:ci0005472-tt0080120--2024-8-27-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA street gang known as the Warri
- ors must fight its way from the Bronx to its home turf on Coney Island whe
- n its members are falsely accused of assassinating a respected gang leader
- .\n\nhttps://www.imdb.com/title/tt0080120/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Warriors (1979)
 DTSTART;TZID=America/Los_Angeles:20240829T193000
