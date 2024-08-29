@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240828T073924Z
+LAST-MODIFIED:20240829T084222Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -153,6 +153,34 @@ DTSTAMP:20240908T212300Z
 UID:ci0005472-tt31630188--2024-9-8-13-30
 DESCRIPTION:Duration: 1h 13m (73 mins)\n\nCat funny videos festival he's h
  ilarious\n\nhttps://www.imdb.com/title/tt31630188/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Booger
+DTSTART;TZID=America/Los_Angeles:20240913T214000
+DTEND;TZID=America/Los_Angeles:20240913T232500
+DTSTAMP:20240914T053300Z
+UID:ci0005472-tt28364917--2024-9-13-21-40
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter the death of her best frie
+ nd Izzy\, Anna focuses all her attention on Booger\, the stray cat which s
+ he and Izzy took in. When Booger bites her\, she begins to undergo a stran
+ ge transformation.\n\nhttps://www.imdb.com/title/tt28364917/\n\nIMDb ratin
+ g: 6.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rear Window (1954)
+DTSTART;TZID=America/Los_Angeles:20240913T190000
+DTEND;TZID=America/Los_Angeles:20240913T212000
+DTSTAMP:20240914T025300Z
+UID:ci0005472-tt0047396--2024-9-13-19-0
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA house and wheelchair-bound ph
+ otographer\, his fashion model girlfriend and his visiting Nurse spy on ne
+ ighbors from his courtyard window. Despite skepticism by his PD Detective 
+ friend\, they're convinced one of his neighbors is a ...\n\nhttps://www.im
+ db.com/title/tt0047396/\n\nIMDb rating: 8.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

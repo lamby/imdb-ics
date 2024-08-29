@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240828T074113Z
+LAST-MODIFIED:20240829T084414Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blink Twice
-DTSTART;TZID=America/Los_Angeles:20240828T154500
-DTEND;TZID=America/Los_Angeles:20240828T175500
-DTSTAMP:20240828T233800Z
-UID:ci16639653-tt14858658--2024-8-28-15-45
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen tech billionaire Slater Ki
- ng meets cocktail waitress Frida at his fundraising gala\, he invites her 
- to join him and his friends on a dream vacation on his private island. As 
- strange things start to happen\, Frida questions her ...\n\nhttps://www.im
- db.com/title/tt14858658/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blink Twice
-DTSTART;TZID=America/Los_Angeles:20240828T190000
-DTEND;TZID=America/Los_Angeles:20240828T211000
-DTSTAMP:20240829T025300Z
-UID:ci16639653-tt14858658--2024-8-28-19-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen tech billionaire Slater Ki
- ng meets cocktail waitress Frida at his fundraising gala\, he invites her 
- to join him and his friends on a dream vacation on his private island. As 
- strange things start to happen\, Frida questions her ...\n\nhttps://www.im
- db.com/title/tt14858658/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sugarcane
-DTSTART;TZID=America/Los_Angeles:20240828T163000
-DTEND;TZID=America/Los_Angeles:20240828T184500
-DTSTAMP:20240829T002300Z
-UID:ci16639653-tt30319854--2024-8-28-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn investigation into abuse and
-  missing children at an Indian residential school sparks a reckoning on th
- e nearby Sugarcane Reserve.\n\nhttps://www.imdb.com/title/tt30319854/\n\nI
- MDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sugarcane
-DTSTART;TZID=America/Los_Angeles:20240828T191500
-DTEND;TZID=America/Los_Angeles:20240828T213000
-DTSTAMP:20240829T030800Z
-UID:ci16639653-tt30319854--2024-8-28-19-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn investigation into abuse and
-  missing children at an Indian residential school sparks a reckoning on th
- e nearby Sugarcane Reserve.\n\nhttps://www.imdb.com/title/tt30319854/\n\nI
- MDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blink Twice
 DTSTART;TZID=America/Los_Angeles:20240829T154500
@@ -137,6 +83,19 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA Hong Kong actress\, Maggie Che
  a remake of Les Vampires (1915)\, but petty intrigues and clashing egos pl
  ague the production.\n\nhttps://www.imdb.com/title/tt0116650/\n\nIMDb rati
  ng: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dandadan
+DTSTART;TZID=America/Los_Angeles:20240913T190000
+DTEND;TZID=America/Los_Angeles:20240913T212500
+DTSTAMP:20240914T025300Z
+UID:ci16639653-tt30217403--2024-9-13-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA ghost-believing girl and an a
+ lien-believing boy are thrown into a wild adventure following a supernatur
+ al encounter that confirms the existence of both ghosts and aliens.\n\nhtt
+ ps://www.imdb.com/title/tt30217403/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
