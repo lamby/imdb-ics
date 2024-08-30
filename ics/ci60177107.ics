@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240829T084428Z
+LAST-MODIFIED:20240830T075907Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Woman Under the Influence (1974)
-DTSTART;TZID=America/Los_Angeles:20240829T200000
-DTEND;TZID=America/Los_Angeles:20240829T230000
-DTSTAMP:20240830T035300Z
-UID:ci60177107-tt0072417--2024-8-29-20-0
-DESCRIPTION:Duration: 2h 35m (155 mins)\n\nAlthough wife and mother Mabel 
- is loved by her husband Nick\, her mental illness places a strain on the m
- arriage.\n\nhttps://www.imdb.com/title/tt0072417/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faces (1968)
-DTSTART;TZID=America/Los_Angeles:20240829T170000
-DTEND;TZID=America/Los_Angeles:20240829T193500
-DTSTAMP:20240830T005300Z
-UID:ci60177107-tt0062952--2024-8-29-17-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA middle-aged man leaves his wi
- fe for another woman. Shortly after\, his ex-wife also begins a relationsh
- ip with a younger partner. The film follows their struggles to find love a
- mongst each other.\n\nhttps://www.imdb.com/title/tt0062952/\n\nIMDb rating
- : 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shaolin Invincibles (1977)
 DTSTART;TZID=America/Los_Angeles:20240830T183000
@@ -60,10 +34,10 @@ LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metallica: Cunning Stunts (1998)
-DTSTART;TZID=America/Los_Angeles:20240831T140000
-DTEND;TZID=America/Los_Angeles:20240831T163500
-DTSTAMP:20240831T215300Z
-UID:ci60177107-tt0180826--2024-8-31-14-0
+DTSTART;TZID=America/Los_Angeles:20240831T134000
+DTEND;TZID=America/Los_Angeles:20240831T161500
+DTSTAMP:20240831T213300Z
+UID:ci60177107-tt0180826--2024-8-31-13-40
 DESCRIPTION:Duration: 2h 10m (130 mins)\n\nThe Metallica boys' trip to Tex
  as is long and heavy\, jam packed with thrash hits and a never before (at 
  the time) heard song\, Fuel.\n\nhttps://www.imdb.com/title/tt0180826/\n\nI
@@ -74,10 +48,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metallica: Orgullo pasión y gloria. Tres noches en la ciudad de M
  éxico. (2009)
-DTSTART;TZID=America/Los_Angeles:20240831T163000
-DTEND;TZID=America/Los_Angeles:20240831T192000
-DTSTAMP:20240901T002300Z
-UID:ci60177107-tt1562371--2024-8-31-16-30
+DTSTART;TZID=America/Los_Angeles:20240831T161500
+DTEND;TZID=America/Los_Angeles:20240831T190500
+DTSTAMP:20240901T000800Z
+UID:ci60177107-tt1562371--2024-8-31-16-15
 DESCRIPTION:Duration: 2h 25m (145 mins)\n\nLive show recorded at Foro Sol\
  , Mexico City\, Mexico\, on June 4\, 6 and 7\, 2009\, during the World Mag
  netic Tour.\n\nhttps://www.imdb.com/title/tt1562371/\n\nIMDb rating: 8.5
