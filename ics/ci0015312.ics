@@ -1,7 +1,168 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240830T080011Z
+LAST-MODIFIED:20240901T084906Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
+BEGIN:VEVENT
+SUMMARY:The Big Lebowski (1998)
+DTSTART;TZID=America/Los_Angeles:20240901T213000
+DTEND;TZID=America/Los_Angeles:20240901T235500
+DTSTAMP:20240902T052300Z
+UID:ci0015312-tt0118715--2024-9-1-21-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nJeff &quot\;The Dude&quot\; Leb
+ owski\, mistaken for a millionaire of the same name\, seeks restitution fo
+ r his ruined rug and enlists his bowling buddies to help get it.\n\nhttps:
+ //www.imdb.com/title/tt0118715/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240901T160000
+DTEND;TZID=America/Los_Angeles:20240901T181000
+DTSTAMP:20240901T235300Z
+UID:ci0015312-tt0088323--2024-9-1-16-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240901T190000
+DTEND;TZID=America/Los_Angeles:20240901T211000
+DTSTAMP:20240902T025300Z
+UID:ci0015312-tt0088323--2024-9-1-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Lebowski (1998)
+DTSTART;TZID=America/Los_Angeles:20240902T213000
+DTEND;TZID=America/Los_Angeles:20240902T235500
+DTSTAMP:20240903T052300Z
+UID:ci0015312-tt0118715--2024-9-2-21-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nJeff &quot\;The Dude&quot\; Leb
+ owski\, mistaken for a millionaire of the same name\, seeks restitution fo
+ r his ruined rug and enlists his bowling buddies to help get it.\n\nhttps:
+ //www.imdb.com/title/tt0118715/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240902T160000
+DTEND;TZID=America/Los_Angeles:20240902T181000
+DTSTAMP:20240902T235300Z
+UID:ci0015312-tt0088323--2024-9-2-16-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240902T190000
+DTEND;TZID=America/Los_Angeles:20240902T211000
+DTSTAMP:20240903T025300Z
+UID:ci0015312-tt0088323--2024-9-2-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Lebowski (1998)
+DTSTART;TZID=America/Los_Angeles:20240903T213000
+DTEND;TZID=America/Los_Angeles:20240903T235500
+DTSTAMP:20240904T052300Z
+UID:ci0015312-tt0118715--2024-9-3-21-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nJeff &quot\;The Dude&quot\; Leb
+ owski\, mistaken for a millionaire of the same name\, seeks restitution fo
+ r his ruined rug and enlists his bowling buddies to help get it.\n\nhttps:
+ //www.imdb.com/title/tt0118715/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240903T160000
+DTEND;TZID=America/Los_Angeles:20240903T181000
+DTSTAMP:20240903T235300Z
+UID:ci0015312-tt0088323--2024-9-3-16-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240903T190000
+DTEND;TZID=America/Los_Angeles:20240903T211000
+DTSTAMP:20240904T025300Z
+UID:ci0015312-tt0088323--2024-9-3-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Lebowski (1998)
+DTSTART;TZID=America/Los_Angeles:20240904T213000
+DTEND;TZID=America/Los_Angeles:20240904T235500
+DTSTAMP:20240905T052300Z
+UID:ci0015312-tt0118715--2024-9-4-21-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nJeff &quot\;The Dude&quot\; Leb
+ owski\, mistaken for a millionaire of the same name\, seeks restitution fo
+ r his ruined rug and enlists his bowling buddies to help get it.\n\nhttps:
+ //www.imdb.com/title/tt0118715/\n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240904T160000
+DTEND;TZID=America/Los_Angeles:20240904T181000
+DTSTAMP:20240904T235300Z
+UID:ci0015312-tt0088323--2024-9-4-16-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The NeverEnding Story (1984)
+DTSTART;TZID=America/Los_Angeles:20240904T190000
+DTEND;TZID=America/Los_Angeles:20240904T211000
+DTSTAMP:20240905T025300Z
+UID:ci0015312-tt0088323--2024-9-4-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA troubled boy dives into a won
+ drous fantasy world through the pages of a mysterious book.\n\nhttps://www
+ .imdb.com/title/tt0088323/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trolls World Tour (2020)
+DTSTART;TZID=America/Los_Angeles:20240905T200000
+DTEND;TZID=America/Los_Angeles:20240905T220000
+DTSTAMP:20240906T035300Z
+UID:ci0015312-tt6587640--2024-9-5-20-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nWhen the Queen of the Hard Rock 
+ Trolls tries to take over all the Troll kingdoms\, Queen Poppy and her fri
+ ends try different ways to save all the Trolls.\n\nhttps://www.imdb.com/ti
+ tle/tt6587640/\n\nIMDb rating: 6.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
 END:VCALENDAR
