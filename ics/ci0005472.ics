@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240901T084556Z
+LAST-MODIFIED:20240902T075001Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Family Portrait
-DTSTART;TZID=America/Los_Angeles:20240901T140000
-DTEND;TZID=America/Los_Angeles:20240901T154000
-DTSTAMP:20240901T215300Z
-UID:ci0005472-tt21257870--2024-9-1-14-0
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nA sprawling family's futile atte
- mpts at capturing a family photo take a dreamlike turn when the matriarch 
- vanishes and one daughter becomes desperate to find her.\n\nhttps://www.im
- db.com/title/tt21257870/\n\nIMDb rating: 5.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Off Ramp
-DTSTART;TZID=America/Los_Angeles:20240901T160000
-DTEND;TZID=America/Los_Angeles:20240901T175500
-DTSTAMP:20240901T235300Z
-UID:ci0005472-tt12245606--2024-9-1-16-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
-  Juggalos must sojourn through America's hellish underbelly to The Gatheri
- ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/
- /www.imdb.com/title/tt12245606/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Off Ramp
-DTSTART;TZID=America/Los_Angeles:20240901T203000
-DTEND;TZID=America/Los_Angeles:20240901T222500
-DTSTAMP:20240902T042300Z
-UID:ci0005472-tt12245606--2024-9-1-20-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
-  Juggalos must sojourn through America's hellish underbelly to The Gatheri
- ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/
- /www.imdb.com/title/tt12245606/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Off Ramp
 DTSTART;TZID=America/Los_Angeles:20240902T193000
@@ -222,6 +183,20 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCreation of Electric Lady Studio
  s by Jimi Hendrix\, from nightclub ruin to state-of-the-art facility. Incl
  udes interviews\, unseen footage and track breakdowns by engineer Eddie Kr
  amer.\n\nhttps://www.imdb.com/title/tt33071166/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rear Window (1954)
+DTSTART;TZID=America/Los_Angeles:20240917T191500
+DTEND;TZID=America/Los_Angeles:20240917T213500
+DTSTAMP:20240918T030800Z
+UID:ci0005472-tt0047396--2024-9-17-19-15
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA house and wheelchair-bound ph
+ otographer\, his fashion model girlfriend and his visiting Nurse spy on ne
+ ighbors from his courtyard window. Despite skepticism by his PD Detective 
+ friend\, they're convinced one of his neighbors is a ...\n\nhttps://www.im
+ db.com/title/tt0047396/\n\nIMDb rating: 8.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
