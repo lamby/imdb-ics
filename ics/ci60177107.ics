@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240902T075203Z
+LAST-MODIFIED:20240903T081746Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Seven Samurai (1954)
-DTSTART;TZID=America/Los_Angeles:20240902T180000
-DTEND;TZID=America/Los_Angeles:20240902T215500
-DTSTAMP:20240903T015300Z
-UID:ci60177107-tt0047478--2024-9-2-18-0
-DESCRIPTION:Duration: 3h 27m (207 mins)\n\nFarmers from a village exploite
- d by bandits hire a veteran samurai for protection\, who gathers six other
-  samurai to join him.\n\nhttps://www.imdb.com/title/tt0047478/\n\nIMDb rat
- ing: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seven Samurai (1954)
 DTSTART;TZID=America/Los_Angeles:20240903T180000
@@ -235,6 +222,18 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nShowcases an introduction\, conv
  ersation and goodbye to Genesis P-Orridge\, who left a legacy on the world
  s of music\, performance\, art\, religion and the occult.\n\nhttps://www.i
  mdb.com/title/tt32149757/\n\nIMDb rating: 9.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life and Death of Colonel Blimp (1943)
+DTSTART;TZID=America/Los_Angeles:20240918T193000
+DTEND;TZID=America/Los_Angeles:20240918T224000
+DTSTAMP:20240919T032300Z
+UID:ci60177107-tt0036112--2024-9-18-19-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nFrom the Boer War through World
+  War II\, a soldier rises through the ranks in the British military.\n\nht
+ tps://www.imdb.com/title/tt0036112/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240902T075001Z
+LAST-MODIFIED:20240903T081536Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Off Ramp
-DTSTART;TZID=America/Los_Angeles:20240902T193000
-DTEND;TZID=America/Los_Angeles:20240902T212500
-DTSTAMP:20240903T032300Z
-UID:ci0005472-tt12245606--2024-9-2-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
-  Juggalos must sojourn through America's hellish underbelly to The Gatheri
- ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/
- /www.imdb.com/title/tt12245606/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Off Ramp
 DTSTART;TZID=America/Los_Angeles:20240904T193000
@@ -197,6 +184,18 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA house and wheelchair-bound ph
  ighbors from his courtyard window. Despite skepticism by his PD Detective 
  friend\, they're convinced one of his neighbors is a ...\n\nhttps://www.im
  db.com/title/tt0047396/\n\nIMDb rating: 8.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abuse of Weakness (2013)
+DTSTART;TZID=America/Los_Angeles:20240918T191500
+DTEND;TZID=America/Los_Angeles:20240918T212500
+DTSTAMP:20240919T030800Z
+UID:ci0005472-tt2418372--2024-9-18-19-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA stroke-afflicted filmmaker is
+  manipulated by a notorious con man.\n\nhttps://www.imdb.com/title/tt24183
+ 72/\n\nIMDb rating: 5.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
