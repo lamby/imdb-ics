@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240903T081536Z
+LAST-MODIFIED:20240904T082612Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -196,6 +196,20 @@ UID:ci0005472-tt2418372--2024-9-18-19-15
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA stroke-afflicted filmmaker is
   manipulated by a notorious con man.\n\nhttps://www.imdb.com/title/tt24183
  72/\n\nIMDb rating: 5.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy A Gets a Mattress
+DTSTART;TZID=America/Los_Angeles:20240919T193000
+DTEND;TZID=America/Los_Angeles:20240919T211500
+DTSTAMP:20240920T032300Z
+UID:ci0005472-tt28437326--2024-9-19-19-30
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
+ oup home onto the grim summer streets\, Fantasy A\, real-life autistic rap
+ per\, sets off on an odyssey to achieve fame and find a good mattress in t
+ his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
+ db.com/title/tt28437326/\n\nIMDb rating: 8.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
