@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240904T082612Z
+LAST-MODIFIED:20240905T101136Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Off Ramp
-DTSTART;TZID=America/Los_Angeles:20240904T193000
-DTEND;TZID=America/Los_Angeles:20240904T212500
-DTSTAMP:20240905T032300Z
-UID:ci0005472-tt12245606--2024-9-4-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA couple of lovable\, degenerate
-  Juggalos must sojourn through America's hellish underbelly to The Gatheri
- ng of the Juggalos\, the one place on earth they feel accepted.\n\nhttps:/
- /www.imdb.com/title/tt12245606/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CatVideoFest 2024
 DTSTART;TZID=America/Los_Angeles:20240907T133000
@@ -210,6 +197,20 @@ DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
  per\, sets off on an odyssey to achieve fame and find a good mattress in t
  his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
  db.com/title/tt28437326/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amadeus (1984)
+DTSTART;TZID=America/Los_Angeles:20240920T190000
+DTEND;TZID=America/Los_Angeles:20240920T220500
+DTSTAMP:20240921T025300Z
+UID:ci0005472-tt0086879--2024-9-20-19-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nThe life\, success and troubles
+  of Wolfgang Amadeus Mozart\, as told by Antonio Salieri\, the contemporan
+ eous composer who was deeply jealous of Mozart's talent and claimed to hav
+ e murdered him.\n\nhttps://www.imdb.com/title/tt0086879/\n\nIMDb rating: 8
+ .4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
