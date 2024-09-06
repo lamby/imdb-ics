@@ -1,20 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240905T101444Z
+LAST-MODIFIED:20240906T090751Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Trolls World Tour (2020)
-DTSTART;TZID=America/Los_Angeles:20240905T200000
-DTEND;TZID=America/Los_Angeles:20240905T220000
-DTSTAMP:20240906T035300Z
-UID:ci0015312-tt6587640--2024-9-5-20-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nWhen the Queen of the Hard Rock 
- Trolls tries to take over all the Troll kingdoms\, Queen Poppy and her fri
- ends try different ways to save all the Trolls.\n\nhttps://www.imdb.com/ti
- tle/tt6587640/\n\nIMDb rating: 6.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR
