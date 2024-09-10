@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240909T082533Z
+LAST-MODIFIED:20240910T080530Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Le Samouraï (1967)
-DTSTART;TZID=America/Los_Angeles:20240909T201500
-DTEND;TZID=America/Los_Angeles:20240909T222500
-DTSTAMP:20240910T040800Z
-UID:ci60177107-tt0062229--2024-9-9-20-15
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter professional hitman Jef C
- ostello is seen by witnesses his efforts to provide himself an alibi drive
-  him further into a corner.\n\nhttps://www.imdb.com/title/tt0062229/\n\nIM
- Db rating: 8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris\, Texas (1984)
-DTSTART;TZID=America/Los_Angeles:20240909T170000
-DTEND;TZID=America/Los_Angeles:20240909T195000
-DTSTAMP:20240910T005300Z
-UID:ci60177107-tt0087884--2024-9-9-17-0
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
- rifter who has been missing for four years\, wanders out of the desert and
-  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
- ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Samouraï (1967)
 DTSTART;TZID=America/Los_Angeles:20240910T170000

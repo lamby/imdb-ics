@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240909T082329Z
+LAST-MODIFIED:20240910T080305Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -284,6 +284,18 @@ DESCRIPTION:Duration: 2h 40m (160 mins)\n\nThe life\, success and troubles
  eous composer who was deeply jealous of Mozart's talent and claimed to hav
  e murdered him.\n\nhttps://www.imdb.com/title/tt0086879/\n\nIMDb rating: 8
  .4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Look Into My Eyes
+DTSTART;TZID=America/Los_Angeles:20240925T191500
+DTEND;TZID=America/Los_Angeles:20240925T212500
+DTSTAMP:20240926T030800Z
+UID:ci0005472-tt19121796--2024-9-25-19-15
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
+ of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
+ com/title/tt19121796/\n\nIMDb rating: 6.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
