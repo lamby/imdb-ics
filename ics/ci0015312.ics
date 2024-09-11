@@ -1,46 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240910T080641Z
+LAST-MODIFIED:20240911T082636Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:They Live (1988)
-DTSTART;TZID=America/Los_Angeles:20240910T215000
-DTEND;TZID=America/Los_Angeles:20240910T235000
-DTSTAMP:20240911T054300Z
-UID:ci0015312-tt0096256--2024-9-10-21-50
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThey influence our decisions wit
- hout us knowing it. They numb our senses without us feeling it. They contr
- ol our lives without us realizing it. They live.\n\nhttps://www.imdb.com/t
- itle/tt0096256/\n\nIMDb rating: 7.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Willow (1988)
-DTSTART;TZID=America/Los_Angeles:20240910T160000
-DTEND;TZID=America/Los_Angeles:20240910T183500
-DTSTAMP:20240910T235300Z
-UID:ci0015312-tt0096446--2024-9-10-16-0
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA young farmer is chosen to und
- ertake a perilous journey in order to protect a special baby from an evil 
- queen.\n\nhttps://www.imdb.com/title/tt0096446/\n\nIMDb rating: 7.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Willow (1988)
-DTSTART;TZID=America/Los_Angeles:20240910T190000
-DTEND;TZID=America/Los_Angeles:20240910T213500
-DTSTAMP:20240911T025300Z
-UID:ci0015312-tt0096446--2024-9-10-19-0
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA young farmer is chosen to und
- ertake a perilous journey in order to protect a special baby from an evil 
- queen.\n\nhttps://www.imdb.com/title/tt0096446/\n\nIMDb rating: 7.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:They Live (1988)
 DTSTART;TZID=America/Los_Angeles:20240911T215000
