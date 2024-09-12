@@ -1,87 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240911T082523Z
+LAST-MODIFIED:20240912T074801Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blink Twice
-DTSTART;TZID=America/Los_Angeles:20240911T161500
-DTEND;TZID=America/Los_Angeles:20240911T182500
-DTSTAMP:20240912T000800Z
-UID:ci16639653-tt14858658--2024-9-11-16-15
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen tech billionaire Slater Ki
- ng meets cocktail waitress Frida at his fundraising gala\, he invites her 
- to join him and his friends on a dream vacation on his private island. As 
- strange things start to happen\, Frida questions her ...\n\nhttps://www.im
- db.com/title/tt14858658/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dìdi
-DTSTART;TZID=America/Los_Angeles:20240911T191500
-DTEND;TZID=America/Los_Angeles:20240911T211500
-DTSTAMP:20240912T030800Z
-UID:ci16639653-tt30319503--2024-9-11-19-15
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nIn 2008\, during the last month 
- of summer before high school begins\, an impressionable 13-year-old Taiwan
- ese American boy learns what his family can't teach him: how to skate\, ho
- w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mountains
-DTSTART;TZID=America/Los_Angeles:20240911T164500
-DTEND;TZID=America/Los_Angeles:20240911T184500
-DTSTAMP:20240912T003800Z
-UID:ci16639653-tt22170270--2024-9-11-16-45
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
- aced with the realities of redevelopment as he is tasked with dismantling 
- his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
- 0270/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mountains
-DTSTART;TZID=America/Los_Angeles:20240911T190000
-DTEND;TZID=America/Los_Angeles:20240911T210000
-DTSTAMP:20240912T025300Z
-UID:ci16639653-tt22170270--2024-9-11-19-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
- aced with the realities of redevelopment as he is tasked with dismantling 
- his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
- 0270/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Front Room
-DTSTART;TZID=America/Los_Angeles:20240911T163000
-DTEND;TZID=America/Los_Angeles:20240911T183000
-DTSTAMP:20240912T002300Z
-UID:ci16639653-tt21905744--2024-9-11-16-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIt tells the story of a newly pr
- egnant couple who are forced to take in an ailing\, estranged stepmother.\
- n\nhttps://www.imdb.com/title/tt21905744/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Front Room
-DTSTART;TZID=America/Los_Angeles:20240911T193000
-DTEND;TZID=America/Los_Angeles:20240911T213000
-DTSTAMP:20240912T032300Z
-UID:ci16639653-tt21905744--2024-9-11-19-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIt tells the story of a newly pr
- egnant couple who are forced to take in an ailing\, estranged stepmother.\
- n\nhttps://www.imdb.com/title/tt21905744/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blink Twice
 DTSTART;TZID=America/Los_Angeles:20240912T191500
@@ -119,7 +41,7 @@ UID:ci16639653-tt22170270--2024-9-12-16-45
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
  aced with the realities of redevelopment as he is tasked with dismantling 
  his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
- 0270/\n\nIMDb rating: 7.5
+ 0270/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -132,7 +54,7 @@ UID:ci16639653-tt22170270--2024-9-12-19-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
  aced with the realities of redevelopment as he is tasked with dismantling 
  his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
- 0270/\n\nIMDb rating: 7.5
+ 0270/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

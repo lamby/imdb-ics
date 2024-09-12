@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240911T082600Z
+LAST-MODIFIED:20240912T074848Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=America/Los_Angeles:20240911T170000
-DTEND;TZID=America/Los_Angeles:20240911T191000
-DTSTAMP:20240912T005300Z
-UID:ci5397678-tt2049403--2024-9-11-17-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=America/Los_Angeles:20240911T203000
-DTEND;TZID=America/Los_Angeles:20240911T224000
-DTSTAMP:20240912T042300Z
-UID:ci5397678-tt2049403--2024-9-11-20-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice Beetlejuice
 DTSTART;TZID=America/Los_Angeles:20240912T170000

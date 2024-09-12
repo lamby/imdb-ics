@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240911T082308Z
+LAST-MODIFIED:20240912T074539Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -257,7 +257,7 @@ DTSTAMP:20240923T015300Z
 UID:ci0005472-tt19121796--2024-9-22-18-0
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -269,7 +269,7 @@ DTSTAMP:20240924T030800Z
 UID:ci0005472-tt19121796--2024-9-23-19-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -295,7 +295,7 @@ DTSTAMP:20240926T030800Z
 UID:ci0005472-tt19121796--2024-9-25-19-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -310,6 +310,20 @@ DESCRIPTION:Duration: 2h 40m (160 mins)\n\nThe life\, success and troubles
  eous composer who was deeply jealous of Mozart's talent and claimed to hav
  e murdered him.\n\nhttps://www.imdb.com/title/tt0086879/\n\nIMDb rating: 8
  .4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Exorcism of Saint Patrick
+DTSTART;TZID=America/Los_Angeles:20240927T211500
+DTEND;TZID=America/Los_Angeles:20240927T231000
+DTSTAMP:20240928T050800Z
+UID:ci0005472-tt22051596--2024-9-27-21-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA pastor takes a gay teen to a c
+ abin to perform conversion therapy. When he goes too far\, bullying the ki
+ d into suicide\, the ghost of his victim returns to plague the pastor and 
+ avenge the deaths of so many other ghosts like him.\n\nhttps://www.imdb.co
+ m/title/tt22051596/\n\nIMDb rating: 6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
