@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240912T074816Z
+LAST-MODIFIED:20240913T072030Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:S/He Is Still Her/e: The Official Genesis P-Orridge Documentary
-DTSTART;TZID=America/Los_Angeles:20240912T190000
-DTEND;TZID=America/Los_Angeles:20240912T210500
-DTSTAMP:20240913T025300Z
-UID:ci60177107-tt32149757--2024-9-12-19-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nShowcases an introduction\, conv
- ersation and goodbye to Genesis P-Orridge\, who left a legacy on the world
- s of music\, performance\, art\, religion and the occult.\n\nhttps://www.i
- mdb.com/title/tt32149757/\n\nIMDb rating: 8.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Science of Sleep (2006)
 DTSTART;TZID=America/Los_Angeles:20240916T194500
@@ -76,6 +63,32 @@ UID:ci60177107-tt0036695--2024-9-27-19-45
 DESCRIPTION:Duration: 2h 04m (124 mins)\n\nThree modern-day pilgrims inves
  tigate a bizarre crime in a small town while on their way to Canterbury.\n
  \nhttps://www.imdb.com/title/tt0036695/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20240928T150000
+DTEND;TZID=America/Los_Angeles:20240928T171500
+DTSTAMP:20240928T225300Z
+UID:ci60177107-tt12818328--2024-9-28-15-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady Like
+DTSTART;TZID=America/Los_Angeles:20240928T200000
+DTEND;TZID=America/Los_Angeles:20240928T215500
+DTSTAMP:20240929T035300Z
+UID:ci60177107-tt27833870--2024-9-28-20-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nLady Camden becomes a contestant
+  on season 14 of RuPaul's Drag Race. As she struggles to manage the demand
+ s of her fame\, she must face her traumatic childhood.\n\nhttps://www.imdb
+ .com/title/tt27833870/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

@@ -1,20 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240912T074930Z
+LAST-MODIFIED:20240913T072150Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Invasion of the Body Snatchers (1978)
-DTSTART;TZID=America/Los_Angeles:20240912T200000
-DTEND;TZID=America/Los_Angeles:20240912T222000
-DTSTAMP:20240913T035300Z
-UID:ci0015312-tt0077745--2024-9-12-20-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nWhen strange seeds drift to ear
- th from space\, mysterious pods begin to grow and invade San Francisco\, r
- eplicating the city's residents one body at a time.\n\nhttps://www.imdb.co
- m/title/tt0077745/\n\nIMDb rating: 7.4
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240912T074539Z
+LAST-MODIFIED:20240913T071810Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -324,6 +324,18 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA pastor takes a gay teen to a c
  d into suicide\, the ghost of his victim returns to plague the pastor and 
  avenge the deaths of so many other ghosts like him.\n\nhttps://www.imdb.co
  m/title/tt22051596/\n\nIMDb rating: 6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Look Into My Eyes
+DTSTART;TZID=America/Los_Angeles:20240928T170000
+DTEND;TZID=America/Los_Angeles:20240928T191000
+DTSTAMP:20240929T005300Z
+UID:ci0005472-tt19121796--2024-9-28-17-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
+ of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
