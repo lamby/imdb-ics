@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240915T080603Z
+LAST-MODIFIED:20240916T072755Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Abuse of Weakness (2013)
-DTSTART;TZID=America/Los_Angeles:20240915T180000
-DTEND;TZID=America/Los_Angeles:20240915T201000
-DTSTAMP:20240916T015300Z
-UID:ci0005472-tt2418372--2024-9-15-18-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA stroke-afflicted filmmaker is
-  manipulated by a notorious con man.\n\nhttps://www.imdb.com/title/tt24183
- 72/\n\nIMDb rating: 5.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Booger
-DTSTART;TZID=America/Los_Angeles:20240915T203000
-DTEND;TZID=America/Los_Angeles:20240915T221500
-DTSTAMP:20240916T042300Z
-UID:ci0005472-tt28364917--2024-9-15-20-30
-DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter the death of her best frie
- nd Izzy\, Anna focuses all her attention on Booger\, the stray cat which s
- he and Izzy took in. When Booger bites her\, she begins to undergo a stran
- ge transformation.\n\nhttps://www.imdb.com/title/tt28364917/\n\nIMDb ratin
- g: 5.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rear Window (1954)
-DTSTART;TZID=America/Los_Angeles:20240915T151500
-DTEND;TZID=America/Los_Angeles:20240915T173500
-DTSTAMP:20240915T230800Z
-UID:ci0005472-tt0047396--2024-9-15-15-15
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA house and wheelchair-bound ph
- otographer\, his fashion model girlfriend and his visiting Nurse spy on ne
- ighbors from his courtyard window. Despite skepticism by his PD Detective 
- friend\, they're convinced one of his neighbors is a ...\n\nhttps://www.im
- db.com/title/tt0047396/\n\nIMDb rating: 8.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electric Lady Studios: A Jimi Hendrix Vision
 DTSTART;TZID=America/Los_Angeles:20240916T193000
@@ -189,7 +149,7 @@ DTSTAMP:20240923T015300Z
 UID:ci0005472-tt19121796--2024-9-22-18-0
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -201,7 +161,7 @@ DTSTAMP:20240924T030800Z
 UID:ci0005472-tt19121796--2024-9-23-19-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -227,7 +187,7 @@ DTSTAMP:20240926T030800Z
 UID:ci0005472-tt19121796--2024-9-25-19-15
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -267,7 +227,7 @@ DTSTAMP:20240929T005300Z
 UID:ci0005472-tt19121796--2024-9-28-17-0
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
+ com/title/tt19121796/\n\nIMDb rating: 6.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -281,6 +241,19 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn aging doorman is forced to fa
  ce the scorn of his friends\, neighbors and society after being fired from
   his prestigious job at a luxurious hotel.\n\nhttps://www.imdb.com/title/t
  t0015064/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ravenous (2017)
+DTSTART;TZID=America/Los_Angeles:20241001T193000
+DTEND;TZID=America/Los_Angeles:20241001T214000
+DTSTAMP:20241002T032300Z
+UID:ci0005472-tt6243140--2024-10-1-19-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nIn the aftermath of an infectio
+ us outbreak\, inhabitants of a village in rural Quebec find themselves con
+ fronting an invasion of ravenous zombie-like beings.\n\nhttps://www.imdb.c
+ om/title/tt6243140/\n\nIMDb rating: 5.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
