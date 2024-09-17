@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240916T073025Z
+LAST-MODIFIED:20240917T074959Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Science of Sleep (2006)
-DTSTART;TZID=America/Los_Angeles:20240916T194500
-DTEND;TZID=America/Los_Angeles:20240916T215500
-DTSTAMP:20240917T033800Z
-UID:ci60177107-tt0354899--2024-9-16-19-45
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA man entranced by his dreams a
- nd imagination is love-struck with a French woman and feels he can show he
- r his world.\n\nhttps://www.imdb.com/title/tt0354899/\n\nIMDb rating: 7.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Life and Death of Colonel Blimp (1943)
 DTSTART;TZID=America/Los_Angeles:20240918T193000
@@ -167,6 +155,19 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
  ural winter epic\, a drunken applejack salesman must go from zero to hero 
  and become North America's greatest fur trapper by defeating hundreds of b
  eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Know Where I'm Going! (1945)
+DTSTART;TZID=America/Los_Angeles:20241002T193000
+DTEND;TZID=America/Los_Angeles:20241002T213000
+DTSTAMP:20241003T032300Z
+UID:ci60177107-tt0037800--2024-10-2-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young Englishwoman goes to the
+  Hebrides to marry her older\, wealthier fiancé. When the weather keeps t
+ hem separated on different islands\, she begins to have second thoughts.\n
+ \nhttps://www.imdb.com/title/tt0037800/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

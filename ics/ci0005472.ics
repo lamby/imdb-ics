@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240916T072755Z
+LAST-MODIFIED:20240917T074750Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Electric Lady Studios: A Jimi Hendrix Vision
-DTSTART;TZID=America/Los_Angeles:20240916T193000
-DTEND;TZID=America/Los_Angeles:20240916T212500
-DTSTAMP:20240917T032300Z
-UID:ci0005472-tt33071166--2024-9-16-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nCreation of Electric Lady Studio
- s by Jimi Hendrix\, from nightclub ruin to state-of-the-art facility. Incl
- udes interviews\, unseen footage and track breakdowns by engineer Eddie Kr
- amer.\n\nhttps://www.imdb.com/title/tt33071166/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rear Window (1954)
 DTSTART;TZID=America/Los_Angeles:20240917T191500
@@ -215,7 +202,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA pastor takes a gay teen to a c
  abin to perform conversion therapy. When he goes too far\, bullying the ki
  d into suicide\, the ghost of his victim returns to plague the pastor and 
  avenge the deaths of so many other ghosts like him.\n\nhttps://www.imdb.co
- m/title/tt22051596/\n\nIMDb rating: 6.2
+ m/title/tt22051596/\n\nIMDb rating: 6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -250,6 +237,19 @@ DTSTART;TZID=America/Los_Angeles:20241001T193000
 DTEND;TZID=America/Los_Angeles:20241001T214000
 DTSTAMP:20241002T032300Z
 UID:ci0005472-tt6243140--2024-10-1-19-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nIn the aftermath of an infectio
+ us outbreak\, inhabitants of a village in rural Quebec find themselves con
+ fronting an invasion of ravenous zombie-like beings.\n\nhttps://www.imdb.c
+ om/title/tt6243140/\n\nIMDb rating: 5.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ravenous (2017)
+DTSTART;TZID=America/Los_Angeles:20241002T193000
+DTEND;TZID=America/Los_Angeles:20241002T214000
+DTSTAMP:20241003T032300Z
+UID:ci0005472-tt6243140--2024-10-2-19-30
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nIn the aftermath of an infectio
  us outbreak\, inhabitants of a village in rural Quebec find themselves con
  fronting an invasion of ravenous zombie-like beings.\n\nhttps://www.imdb.c
