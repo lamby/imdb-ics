@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240917T075103Z
+LAST-MODIFIED:20240918T073232Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Clueless (1995)
-DTSTART;TZID=America/Los_Angeles:20240917T160000
-DTEND;TZID=America/Los_Angeles:20240917T180500
-DTSTAMP:20240917T235300Z
-UID:ci0015312-tt0112697--2024-9-17-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nShallow\, rich and socially succ
- essful Cher is at the top of her Beverly Hills high school's pecking scale
- . Seeing herself as a matchmaker\, Cher first coaxes two teachers into dat
- ing each other.\n\nhttps://www.imdb.com/title/tt0112697/\n\nIMDb rating: 6
- .9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clueless (1995)
-DTSTART;TZID=America/Los_Angeles:20240917T190000
-DTEND;TZID=America/Los_Angeles:20240917T210500
-DTSTAMP:20240918T025300Z
-UID:ci0015312-tt0112697--2024-9-17-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nShallow\, rich and socially succ
- essful Cher is at the top of her Beverly Hills high school's pecking scale
- . Seeing herself as a matchmaker\, Cher first coaxes two teachers into dat
- ing each other.\n\nhttps://www.imdb.com/title/tt0112697/\n\nIMDb rating: 6
- .9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Idiocracy (2006)
-DTSTART;TZID=America/Los_Angeles:20240917T213000
-DTEND;TZID=America/Los_Angeles:20240917T232000
-DTSTAMP:20240918T052300Z
-UID:ci0015312-tt0387808--2024-9-17-21-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCorporal Joe Bauers\, a decidedl
- y average American\, is selected for a top-secret hibernation program but 
- is forgotten and left to awaken to a future so incredibly moronic that he'
- s easily the most intelligent person alive.\n\nhttps://www.imdb.com/title/
- tt0387808/\n\nIMDb rating: 6.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clueless (1995)
 DTSTART;TZID=America/Los_Angeles:20240918T160000
