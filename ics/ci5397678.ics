@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240918T073137Z
+LAST-MODIFIED:20240919T143839Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=America/Los_Angeles:20240918T170000
-DTEND;TZID=America/Los_Angeles:20240918T191000
-DTSTAMP:20240919T005300Z
-UID:ci5397678-tt2049403--2024-9-18-17-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=America/Los_Angeles:20240918T203000
-DTEND;TZID=America/Los_Angeles:20240918T224000
-DTSTAMP:20240919T042300Z
-UID:ci5397678-tt2049403--2024-9-18-20-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice Beetlejuice
 DTSTART;TZID=America/Los_Angeles:20240919T170000
@@ -300,10 +272,10 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20240927T160000
-DTEND;TZID=America/Los_Angeles:20240927T185500
-DTSTAMP:20240927T235300Z
-UID:ci5397678-tt0081505--2024-9-27-16-0
+DTSTART;TZID=America/Los_Angeles:20240927T161500
+DTEND;TZID=America/Los_Angeles:20240927T191000
+DTSTAMP:20240928T000800Z
+UID:ci5397678-tt0081505--2024-9-27-16-15
 DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
  otel for the winter\, where a sinister presence influences the father into
   violence. At the same time\, his psychic son sees horrifying forebodings 
@@ -328,10 +300,10 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20240928T160000
-DTEND;TZID=America/Los_Angeles:20240928T185500
-DTSTAMP:20240928T235300Z
-UID:ci5397678-tt0081505--2024-9-28-16-0
+DTSTART;TZID=America/Los_Angeles:20240928T161500
+DTEND;TZID=America/Los_Angeles:20240928T191000
+DTSTAMP:20240929T000800Z
+UID:ci5397678-tt0081505--2024-9-28-16-15
 DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
  otel for the winter\, where a sinister presence influences the father into
   violence. At the same time\, his psychic son sees horrifying forebodings 
@@ -356,10 +328,10 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20240929T160000
-DTEND;TZID=America/Los_Angeles:20240929T185500
-DTSTAMP:20240929T235300Z
-UID:ci5397678-tt0081505--2024-9-29-16-0
+DTSTART;TZID=America/Los_Angeles:20240929T161500
+DTEND;TZID=America/Los_Angeles:20240929T191000
+DTSTAMP:20240930T000800Z
+UID:ci5397678-tt0081505--2024-9-29-16-15
 DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
  otel for the winter\, where a sinister presence influences the father into
   violence. At the same time\, his psychic son sees horrifying forebodings 
@@ -384,10 +356,10 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20240930T160000
-DTEND;TZID=America/Los_Angeles:20240930T185500
-DTSTAMP:20240930T235300Z
-UID:ci5397678-tt0081505--2024-9-30-16-0
+DTSTART;TZID=America/Los_Angeles:20240930T161500
+DTEND;TZID=America/Los_Angeles:20240930T191000
+DTSTAMP:20241001T000800Z
+UID:ci5397678-tt0081505--2024-9-30-16-15
 DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
  otel for the winter\, where a sinister presence influences the father into
   violence. At the same time\, his psychic son sees horrifying forebodings 
@@ -412,10 +384,38 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20241002T160000
-DTEND;TZID=America/Los_Angeles:20241002T185500
-DTSTAMP:20241002T235300Z
-UID:ci5397678-tt0081505--2024-10-2-16-0
+DTSTART;TZID=America/Los_Angeles:20241001T161500
+DTEND;TZID=America/Los_Angeles:20241001T191000
+DTSTAMP:20241002T000800Z
+UID:ci5397678-tt0081505--2024-10-1-16-15
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
+ otel for the winter\, where a sinister presence influences the father into
+  violence. At the same time\, his psychic son sees horrifying forebodings 
+ from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
+ /\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shining (1980)
+DTSTART;TZID=America/Los_Angeles:20241001T193000
+DTEND;TZID=America/Los_Angeles:20241001T222500
+DTSTAMP:20241002T032300Z
+UID:ci5397678-tt0081505--2024-10-1-19-30
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
+ otel for the winter\, where a sinister presence influences the father into
+  violence. At the same time\, his psychic son sees horrifying forebodings 
+ from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
+ /\n\nIMDb rating: 8.4
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shining (1980)
+DTSTART;TZID=America/Los_Angeles:20241002T161500
+DTEND;TZID=America/Los_Angeles:20241002T191000
+DTSTAMP:20241003T000800Z
+UID:ci5397678-tt0081505--2024-10-2-16-15
 DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
  otel for the winter\, where a sinister presence influences the father into
   violence. At the same time\, his psychic son sees horrifying forebodings 
@@ -458,6 +458,48 @@ DTSTART;TZID=America/Los_Angeles:20241003T200000
 DTEND;TZID=America/Los_Angeles:20241003T224500
 DTSTAMP:20241004T035300Z
 UID:ci5397678-tt11315808--2024-10-3-20-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241004T113000
+DTEND;TZID=America/Los_Angeles:20241004T141500
+DTSTAMP:20241004T192300Z
+UID:ci5397678-tt11315808--2024-10-4-11-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241004T153000
+DTEND;TZID=America/Los_Angeles:20241004T181500
+DTSTAMP:20241004T232300Z
+UID:ci5397678-tt11315808--2024-10-4-15-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241004T193000
+DTEND;TZID=America/Los_Angeles:20241004T221500
+DTSTAMP:20241005T032300Z
+UID:ci5397678-tt11315808--2024-10-4-19-30
 DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 

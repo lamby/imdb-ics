@@ -1,77 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240918T073050Z
+LAST-MODIFIED:20240919T143803Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blink Twice
-DTSTART;TZID=America/Los_Angeles:20240918T160000
-DTEND;TZID=America/Los_Angeles:20240918T181000
-DTSTAMP:20240918T235300Z
-UID:ci16639653-tt14858658--2024-9-18-16-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen tech billionaire Slater Ki
- ng meets cocktail waitress Frida at his fundraising gala\, he invites her 
- to join him and his friends on a dream vacation on his private island. As 
- strange things start to happen\, Frida questions her ...\n\nhttps://www.im
- db.com/title/tt14858658/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dìdi
-DTSTART;TZID=America/Los_Angeles:20240918T161500
-DTEND;TZID=America/Los_Angeles:20240918T181500
-DTSTAMP:20240919T000800Z
-UID:ci16639653-tt30319503--2024-9-18-16-15
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nIn 2008\, during the last month 
- of summer before high school begins\, an impressionable 13-year-old Taiwan
- ese American boy learns what his family can't teach him: how to skate\, ho
- w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dìdi
-DTSTART;TZID=America/Los_Angeles:20240918T191500
-DTEND;TZID=America/Los_Angeles:20240918T211500
-DTSTAMP:20240919T030800Z
-UID:ci16639653-tt30319503--2024-9-18-19-15
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nIn 2008\, during the last month 
- of summer before high school begins\, an impressionable 13-year-old Taiwan
- ese American boy learns what his family can't teach him: how to skate\, ho
- w to flirt\, and how to love your mom.\n\nhttps://www.imdb.com/title/tt303
- 19503/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris\, Texas (1984)
-DTSTART;TZID=America/Los_Angeles:20240918T183000
-DTEND;TZID=America/Los_Angeles:20240918T212000
-DTSTAMP:20240919T022300Z
-UID:ci16639653-tt0087884--2024-9-18-18-30
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
- rifter who has been missing for four years\, wanders out of the desert and
-  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
- ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20240918T190000
-DTEND;TZID=America/Los_Angeles:20240918T214500
-DTSTAMP:20240919T025300Z
-UID:ci16639653-tt17526714--2024-9-18-19-0
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
- se a black-market drug\, a cell-replicating substance that temporarily cre
- ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dìdi
 DTSTART;TZID=America/Los_Angeles:20240919T161500
@@ -108,7 +40,7 @@ UID:ci16639653-tt17526714--2024-9-19-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -121,7 +53,7 @@ UID:ci16639653-tt17526714--2024-9-19-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -134,7 +66,7 @@ UID:ci16639653-tt28150132--2024-9-20-16-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -147,7 +79,7 @@ UID:ci16639653-tt28150132--2024-9-20-19-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -184,7 +116,7 @@ UID:ci16639653-tt17526714--2024-9-20-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -197,7 +129,7 @@ UID:ci16639653-tt17526714--2024-9-20-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -210,7 +142,7 @@ UID:ci16639653-tt28150132--2024-9-21-13-15
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -223,7 +155,7 @@ UID:ci16639653-tt28150132--2024-9-21-16-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -236,7 +168,7 @@ UID:ci16639653-tt28150132--2024-9-21-19-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -285,7 +217,7 @@ UID:ci16639653-tt17526714--2024-9-21-12-45
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -298,7 +230,7 @@ UID:ci16639653-tt17526714--2024-9-21-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -311,7 +243,7 @@ UID:ci16639653-tt17526714--2024-9-21-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -324,7 +256,7 @@ UID:ci16639653-tt28150132--2024-9-22-13-15
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -337,7 +269,7 @@ UID:ci16639653-tt28150132--2024-9-22-16-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -350,7 +282,7 @@ UID:ci16639653-tt28150132--2024-9-22-19-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -399,7 +331,7 @@ UID:ci16639653-tt17526714--2024-9-22-12-45
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -412,7 +344,7 @@ UID:ci16639653-tt17526714--2024-9-22-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -425,7 +357,7 @@ UID:ci16639653-tt17526714--2024-9-22-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -438,7 +370,7 @@ UID:ci16639653-tt28150132--2024-9-23-16-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -451,7 +383,7 @@ UID:ci16639653-tt28150132--2024-9-23-19-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -488,7 +420,7 @@ UID:ci16639653-tt17526714--2024-9-23-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -501,7 +433,7 @@ UID:ci16639653-tt17526714--2024-9-23-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -514,7 +446,7 @@ UID:ci16639653-tt28150132--2024-9-24-16-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -527,7 +459,7 @@ UID:ci16639653-tt28150132--2024-9-24-19-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -564,7 +496,7 @@ UID:ci16639653-tt17526714--2024-9-24-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -577,7 +509,7 @@ UID:ci16639653-tt17526714--2024-9-24-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -590,7 +522,7 @@ UID:ci16639653-tt28150132--2024-9-25-19-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -615,7 +547,7 @@ UID:ci16639653-tt17526714--2024-9-25-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -628,7 +560,7 @@ UID:ci16639653-tt17526714--2024-9-25-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -641,7 +573,7 @@ UID:ci16639653-tt28150132--2024-9-26-16-30
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
  cides to solve time travel in order to go back and be the person she alway
  s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 7
- .6
+ .5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -658,18 +590,6 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Rooms
-DTSTART;TZID=America/Los_Angeles:20240926T191500
-DTEND;TZID=America/Los_Angeles:20240926T214000
-DTSTAMP:20240927T030800Z
-UID:ci16639653-tt22207786--2024-9-26-19-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA model becomes obsessed with a
-  high-profile murder trial.\n\nhttps://www.imdb.com/title/tt22207786/\n\nI
- MDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Substance
 DTSTART;TZID=America/Los_Angeles:20240926T160000
 DTEND;TZID=America/Los_Angeles:20240926T184500
@@ -678,7 +598,7 @@ UID:ci16639653-tt17526714--2024-9-26-16-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -691,7 +611,21 @@ UID:ci16639653-tt17526714--2024-9-26-19-0
 DESCRIPTION:Duration: 2h 20m (140 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 7.9
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240926T191500
+DTEND;TZID=America/Los_Angeles:20240926T212500
+DTSTAMP:20240927T030800Z
+UID:ci16639653-tt29623480--2024-9-26-19-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

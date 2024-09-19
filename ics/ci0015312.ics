@@ -1,20 +1,227 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240918T073232Z
+LAST-MODIFIED:20240919T143922Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
 BEGIN:VEVENT
-SUMMARY:Clueless (1995)
-DTSTART;TZID=America/Los_Angeles:20240918T160000
-DTEND;TZID=America/Los_Angeles:20240918T180500
-DTSTAMP:20240918T235300Z
-UID:ci0015312-tt0112697--2024-9-18-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nShallow\, rich and socially succ
- essful Cher is at the top of her Beverly Hills high school's pecking scale
- . Seeing herself as a matchmaker\, Cher first coaxes two teachers into dat
- ing each other.\n\nhttps://www.imdb.com/title/tt0112697/\n\nIMDb rating: 6
- .9
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240920T213000
+DTEND;TZID=America/Los_Angeles:20240920T235500
+DTSTAMP:20240921T052300Z
+UID:ci0015312-tt0097216--2024-9-20-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240920T160000
+DTEND;TZID=America/Los_Angeles:20240920T175500
+DTSTAMP:20240920T235300Z
+UID:ci0015312-tt0096283--2024-9-20-16-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240920T190000
+DTEND;TZID=America/Los_Angeles:20240920T205500
+DTSTAMP:20240921T025300Z
+UID:ci0015312-tt0096283--2024-9-20-19-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240921T213000
+DTEND;TZID=America/Los_Angeles:20240921T235500
+DTSTAMP:20240922T052300Z
+UID:ci0015312-tt0097216--2024-9-21-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240921T160000
+DTEND;TZID=America/Los_Angeles:20240921T175500
+DTSTAMP:20240921T235300Z
+UID:ci0015312-tt0096283--2024-9-21-16-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240921T190000
+DTEND;TZID=America/Los_Angeles:20240921T205500
+DTSTAMP:20240922T025300Z
+UID:ci0015312-tt0096283--2024-9-21-19-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240922T213000
+DTEND;TZID=America/Los_Angeles:20240922T235500
+DTSTAMP:20240923T052300Z
+UID:ci0015312-tt0097216--2024-9-22-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240922T160000
+DTEND;TZID=America/Los_Angeles:20240922T175500
+DTSTAMP:20240922T235300Z
+UID:ci0015312-tt0096283--2024-9-22-16-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240922T190000
+DTEND;TZID=America/Los_Angeles:20240922T205500
+DTSTAMP:20240923T025300Z
+UID:ci0015312-tt0096283--2024-9-22-19-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240923T213000
+DTEND;TZID=America/Los_Angeles:20240923T235500
+DTSTAMP:20240924T052300Z
+UID:ci0015312-tt0097216--2024-9-23-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240923T160000
+DTEND;TZID=America/Los_Angeles:20240923T175500
+DTSTAMP:20240923T235300Z
+UID:ci0015312-tt0096283--2024-9-23-16-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240923T190000
+DTEND;TZID=America/Los_Angeles:20240923T205500
+DTSTAMP:20240924T025300Z
+UID:ci0015312-tt0096283--2024-9-23-19-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240924T213000
+DTEND;TZID=America/Los_Angeles:20240924T235500
+DTSTAMP:20240925T052300Z
+UID:ci0015312-tt0097216--2024-9-24-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240924T160000
+DTEND;TZID=America/Los_Angeles:20240924T175500
+DTSTAMP:20240924T235300Z
+UID:ci0015312-tt0096283--2024-9-24-16-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing (1989)
+DTSTART;TZID=America/Los_Angeles:20240925T213000
+DTEND;TZID=America/Los_Angeles:20240925T235500
+DTSTAMP:20240926T052300Z
+UID:ci0015312-tt0097216--2024-9-25-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nOn the hottest day of the year 
+ on a street in the Bedford-Stuyvesant section of Brooklyn\, everyone's hat
+ e and bigotry smolders and builds until it explodes into violence.\n\nhttp
+ s://www.imdb.com/title/tt0097216/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20240925T160000
+DTEND;TZID=America/Los_Angeles:20240925T175500
+DTSTAMP:20240925T235300Z
+UID:ci0015312-tt0096283--2024-9-25-16-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room (2003)
+DTSTART;TZID=America/Los_Angeles:20240926T200000
+DTEND;TZID=America/Los_Angeles:20240926T220500
+DTSTAMP:20240927T035300Z
+UID:ci0015312-tt0368226--2024-9-26-20-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn San Francisco\, an amiable ba
+ nker's seemingly perfect life is turned upside down when his deceitful bri
+ de-to-be embarks on a passionate affair with his best friend.\n\nhttps://w
+ ww.imdb.com/title/tt0368226/\n\nIMDb rating: 3.6
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT

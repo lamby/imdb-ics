@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240918T072801Z
+LAST-MODIFIED:20240919T143613Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Abuse of Weakness (2013)
-DTSTART;TZID=America/Los_Angeles:20240918T191500
-DTEND;TZID=America/Los_Angeles:20240918T212500
-DTSTAMP:20240919T030800Z
-UID:ci0005472-tt2418372--2024-9-18-19-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA stroke-afflicted filmmaker is
-  manipulated by a notorious con man.\n\nhttps://www.imdb.com/title/tt24183
- 72/\n\nIMDb rating: 5.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fantasy A Gets a Mattress
 DTSTART;TZID=America/Los_Angeles:20240919T193000
@@ -120,7 +108,7 @@ DTSTART;TZID=America/Los_Angeles:20240922T180000
 DTEND;TZID=America/Los_Angeles:20240922T201000
 DTSTAMP:20240923T015300Z
 UID:ci0005472-tt19121796--2024-9-22-18-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
  com/title/tt19121796/\n\nIMDb rating: 6.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
@@ -132,7 +120,7 @@ DTSTART;TZID=America/Los_Angeles:20240923T191500
 DTEND;TZID=America/Los_Angeles:20240923T212500
 DTSTAMP:20240924T030800Z
 UID:ci0005472-tt19121796--2024-9-23-19-15
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
  com/title/tt19121796/\n\nIMDb rating: 6.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
@@ -158,7 +146,7 @@ DTSTART;TZID=America/Los_Angeles:20240925T191500
 DTEND;TZID=America/Los_Angeles:20240925T212500
 DTSTAMP:20240926T030800Z
 UID:ci0005472-tt19121796--2024-9-25-19-15
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
  com/title/tt19121796/\n\nIMDb rating: 6.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
@@ -198,7 +186,7 @@ DTSTART;TZID=America/Los_Angeles:20240928T170000
 DTEND;TZID=America/Los_Angeles:20240928T191000
 DTSTAMP:20240929T005300Z
 UID:ci0005472-tt19121796--2024-9-28-17-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA documentary through a series 
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA documentary through a series 
  of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
  com/title/tt19121796/\n\nIMDb rating: 6.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
@@ -253,6 +241,32 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nIn the aftermath of an infectio
  us outbreak\, inhabitants of a village in rural Quebec find themselves con
  fronting an invasion of ravenous zombie-like beings.\n\nhttps://www.imdb.c
  om/title/tt6243140/\n\nIMDb rating: 5.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abruptio
+DTSTART;TZID=America/Los_Angeles:20241004T190000
+DTEND;TZID=America/Los_Angeles:20241004T210000
+DTSTAMP:20241005T025300Z
+UID:ci0005472-tt3963226--2024-10-4-19-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
+ luck who wakes to find an explosive device has been implanted in his neck.
+ \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Corpse Grinders (1971)
+DTSTART;TZID=America/Los_Angeles:20241004T213000
+DTEND;TZID=America/Los_Angeles:20241004T231000
+DTSTAMP:20241005T052300Z
+UID:ci0005472-tt0068414--2024-10-4-21-30
+DESCRIPTION:Duration: 1h 12m (72 mins)\n\nWhen the Lotus Cat Food Company 
+ finds itself in financial trouble\, the owners decide to find a new\, chea
+ p source of meat -- the local graveyard. Only one problem -- soon cats dev
+ elop a taste for human flesh\, and tabbies are tearin...\n\nhttps://www.im
+ db.com/title/tt0068414/\n\nIMDb rating: 4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
