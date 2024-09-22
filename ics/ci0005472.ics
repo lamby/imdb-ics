@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240921T154652Z
+LAST-MODIFIED:20240922T150438Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Amadeus (1984)
-DTSTART;TZID=America/Los_Angeles:20240921T143000
-DTEND;TZID=America/Los_Angeles:20240921T173500
-DTSTAMP:20240921T222300Z
-UID:ci0005472-tt0086879--2024-9-21-14-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nThe life\, success and troubles
-  of Wolfgang Amadeus Mozart\, as told by Antonio Salieri\, the contemporan
- eous composer who was deeply jealous of Mozart's talent and claimed to hav
- e murdered him.\n\nhttps://www.imdb.com/title/tt0086879/\n\nIMDb rating: 8
- .4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantasy A Gets a Mattress
-DTSTART;TZID=America/Los_Angeles:20240921T204500
-DTEND;TZID=America/Los_Angeles:20240921T223000
-DTSTAMP:20240922T043800Z
-UID:ci0005472-tt28437326--2024-9-21-20-45
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
- oup home onto the grim summer streets\, Fantasy A\, real-life autistic rap
- per\, sets off on an odyssey to achieve fame and find a good mattress in t
- his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
- db.com/title/tt28437326/\n\nIMDb rating: 8.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rear Window (1954)
-DTSTART;TZID=America/Los_Angeles:20240921T180000
-DTEND;TZID=America/Los_Angeles:20240921T202000
-DTSTAMP:20240922T015300Z
-UID:ci0005472-tt0047396--2024-9-21-18-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA house and wheelchair-bound ph
- otographer\, his fashion model girlfriend and his visiting Nurse spy on ne
- ighbors from his courtyard window. Despite skepticism by his PD Detective 
- friend\, they're convinced one of his neighbors is a ...\n\nhttps://www.im
- db.com/title/tt0047396/\n\nIMDb rating: 8.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amadeus (1984)
 DTSTART;TZID=America/Los_Angeles:20240922T143000
@@ -274,6 +232,18 @@ DTSTART;TZID=America/Los_Angeles:20241006T163000
 DTEND;TZID=America/Los_Angeles:20241006T183000
 DTSTAMP:20241007T002300Z
 UID:ci0005472-tt3963226--2024-10-6-16-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
+ luck who wakes to find an explosive device has been implanted in his neck.
+ \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abruptio
+DTSTART;TZID=America/Los_Angeles:20241007T193000
+DTEND;TZID=America/Los_Angeles:20241007T213000
+DTSTAMP:20241008T032300Z
+UID:ci0005472-tt3963226--2024-10-7-19-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
  luck who wakes to find an explosive device has been implanted in his neck.
  \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.9
