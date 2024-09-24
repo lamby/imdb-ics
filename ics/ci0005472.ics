@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240922T150438Z
+LAST-MODIFIED:20240924T130507Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Amadeus (1984)
-DTSTART;TZID=America/Los_Angeles:20240922T143000
-DTEND;TZID=America/Los_Angeles:20240922T173500
-DTSTAMP:20240922T222300Z
-UID:ci0005472-tt0086879--2024-9-22-14-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nThe life\, success and troubles
-  of Wolfgang Amadeus Mozart\, as told by Antonio Salieri\, the contemporan
- eous composer who was deeply jealous of Mozart's talent and claimed to hav
- e murdered him.\n\nhttps://www.imdb.com/title/tt0086879/\n\nIMDb rating: 8
- .4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantasy A Gets a Mattress
-DTSTART;TZID=America/Los_Angeles:20240922T203000
-DTEND;TZID=America/Los_Angeles:20240922T221500
-DTSTAMP:20240923T042300Z
-UID:ci0005472-tt28437326--2024-9-22-20-30
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nAfter being kicked out of his gr
- oup home onto the grim summer streets\, Fantasy A\, real-life autistic rap
- per\, sets off on an odyssey to achieve fame and find a good mattress in t
- his ensemble comedy filmed entirely on location in Se...\n\nhttps://www.im
- db.com/title/tt28437326/\n\nIMDb rating: 8.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Look Into My Eyes
-DTSTART;TZID=America/Los_Angeles:20240922T180000
-DTEND;TZID=America/Los_Angeles:20240922T201000
-DTSTAMP:20240923T015300Z
-UID:ci0005472-tt19121796--2024-9-22-18-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA documentary through a series 
- of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Look Into My Eyes
-DTSTART;TZID=America/Los_Angeles:20240923T191500
-DTEND;TZID=America/Los_Angeles:20240923T212500
-DTSTAMP:20240924T030800Z
-UID:ci0005472-tt19121796--2024-9-23-19-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA documentary through a series 
- of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amadeus (1984)
 DTSTART;TZID=America/Los_Angeles:20240924T190000
@@ -182,7 +130,7 @@ DTSTAMP:20241005T025300Z
 UID:ci0005472-tt3963226--2024-10-4-19-0
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
  luck who wakes to find an explosive device has been implanted in his neck.
- \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.9
+ \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -208,7 +156,7 @@ DTSTAMP:20241006T020800Z
 UID:ci0005472-tt3963226--2024-10-5-18-15
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
  luck who wakes to find an explosive device has been implanted in his neck.
- \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.9
+ \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -234,7 +182,7 @@ DTSTAMP:20241007T002300Z
 UID:ci0005472-tt3963226--2024-10-6-16-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
  luck who wakes to find an explosive device has been implanted in his neck.
- \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.9
+ \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -246,7 +194,20 @@ DTSTAMP:20241008T032300Z
 UID:ci0005472-tt3963226--2024-10-7-19-30
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
  luck who wakes to find an explosive device has been implanted in his neck.
- \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.9
+ \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Videodrome (1983)
+DTSTART;TZID=America/Los_Angeles:20241008T193000
+DTEND;TZID=America/Los_Angeles:20241008T212500
+DTSTAMP:20241009T032300Z
+UID:ci0005472-tt0086541--2024-10-8-19-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA programmer at a Toronto TV sta
+ tion that specializes in adult entertainment searches for the producers of
+  a dangerous and bizarre broadcast.\n\nhttps://www.imdb.com/title/tt008654
+ 1/\n\nIMDb rating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

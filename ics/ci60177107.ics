@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240922T150623Z
+LAST-MODIFIED:20240924T130645Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Soul (2020)
-DTSTART;TZID=America/Los_Angeles:20240922T190000
-DTEND;TZID=America/Los_Angeles:20240922T210500
-DTSTAMP:20240923T025300Z
-UID:ci60177107-tt2948372--2024-9-22-19-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nJoe is a middle-school band tea
- cher whose life hasn't quite gone the way he expected. His true passion is
-  jazz. But when he travels to another realm to help someone find their pas
- sion\, he soon discovers what it means to have soul.\n\nhttps://www.imdb.c
- om/title/tt2948372/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Canterbury Tale (1944)
 DTSTART;TZID=America/Los_Angeles:20240927T170000
