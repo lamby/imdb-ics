@@ -1,136 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240924T184004Z
+LAST-MODIFIED:20240926T131923Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Omni Loop
-DTSTART;TZID=America/Los_Angeles:20240924T163000
-DTEND;TZID=America/Los_Angeles:20240924T184500
-DTSTAMP:20240925T002300Z
-UID:ci16639653-tt28150132--2024-9-24-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
- cides to solve time travel in order to go back and be the person she alway
- s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 5
- .5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omni Loop
-DTSTART;TZID=America/Los_Angeles:20240924T193000
-DTEND;TZID=America/Los_Angeles:20240924T214500
-DTSTAMP:20240925T032300Z
-UID:ci16639653-tt28150132--2024-9-24-19-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
- cides to solve time travel in order to go back and be the person she alway
- s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 5
- .5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Rooms
-DTSTART;TZID=America/Los_Angeles:20240924T161500
-DTEND;TZID=America/Los_Angeles:20240924T184000
-DTSTAMP:20240925T000800Z
-UID:ci16639653-tt22207786--2024-9-24-16-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA model becomes obsessed with a
-  high-profile murder trial.\n\nhttps://www.imdb.com/title/tt22207786/\n\nI
- MDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Rooms
-DTSTART;TZID=America/Los_Angeles:20240924T191500
-DTEND;TZID=America/Los_Angeles:20240924T214000
-DTSTAMP:20240925T030800Z
-UID:ci16639653-tt22207786--2024-9-24-19-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA model becomes obsessed with a
-  high-profile murder trial.\n\nhttps://www.imdb.com/title/tt22207786/\n\nI
- MDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20240924T160000
-DTEND;TZID=America/Los_Angeles:20240924T185000
-DTSTAMP:20240924T235300Z
-UID:ci16639653-tt17526714--2024-9-24-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
- se a black-market drug\, a cell-replicating substance that temporarily cre
- ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20240924T190000
-DTEND;TZID=America/Los_Angeles:20240924T215000
-DTSTAMP:20240925T025300Z
-UID:ci16639653-tt17526714--2024-9-24-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
- se a black-market drug\, a cell-replicating substance that temporarily cre
- ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omni Loop
-DTSTART;TZID=America/Los_Angeles:20240925T193000
-DTEND;TZID=America/Los_Angeles:20240925T214500
-DTSTAMP:20240926T032300Z
-UID:ci16639653-tt28150132--2024-9-25-19-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA woman from Miami\, Florida de
- cides to solve time travel in order to go back and be the person she alway
- s intended to.\n\nhttps://www.imdb.com/title/tt28150132/\n\nIMDb rating: 5
- .5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Rooms
-DTSTART;TZID=America/Los_Angeles:20240925T161500
-DTEND;TZID=America/Los_Angeles:20240925T184000
-DTSTAMP:20240926T000800Z
-UID:ci16639653-tt22207786--2024-9-25-16-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA model becomes obsessed with a
-  high-profile murder trial.\n\nhttps://www.imdb.com/title/tt22207786/\n\nI
- MDb rating: 7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20240925T160000
-DTEND;TZID=America/Los_Angeles:20240925T185000
-DTSTAMP:20240925T235300Z
-UID:ci16639653-tt17526714--2024-9-25-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
- se a black-market drug\, a cell-replicating substance that temporarily cre
- ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20240925T190000
-DTEND;TZID=America/Los_Angeles:20240925T215000
-DTSTAMP:20240926T025300Z
-UID:ci16639653-tt17526714--2024-9-25-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
- se a black-market drug\, a cell-replicating substance that temporarily cre
- ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Omni Loop
 DTSTART;TZID=America/Los_Angeles:20240926T163000
@@ -197,6 +70,499 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240927T161500
+DTEND;TZID=America/Los_Angeles:20240927T184000
+DTSTAMP:20240928T000800Z
+UID:ci16639653-tt18277182--2024-9-27-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240927T191500
+DTEND;TZID=America/Los_Angeles:20240927T214000
+DTSTAMP:20240928T030800Z
+UID:ci16639653-tt18277182--2024-9-27-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240927T160000
+DTEND;TZID=America/Los_Angeles:20240927T185000
+DTSTAMP:20240927T235300Z
+UID:ci16639653-tt17526714--2024-9-27-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240927T190000
+DTEND;TZID=America/Los_Angeles:20240927T215000
+DTSTAMP:20240928T025300Z
+UID:ci16639653-tt17526714--2024-9-27-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240927T163000
+DTEND;TZID=America/Los_Angeles:20240927T184000
+DTSTAMP:20240928T002300Z
+UID:ci16639653-tt29623480--2024-9-27-16-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240927T193000
+DTEND;TZID=America/Los_Angeles:20240927T214000
+DTSTAMP:20240928T032300Z
+UID:ci16639653-tt29623480--2024-9-27-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240928T130000
+DTEND;TZID=America/Los_Angeles:20240928T152500
+DTSTAMP:20240928T205300Z
+UID:ci16639653-tt18277182--2024-9-28-13-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240928T161500
+DTEND;TZID=America/Los_Angeles:20240928T184000
+DTSTAMP:20240929T000800Z
+UID:ci16639653-tt18277182--2024-9-28-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240928T191500
+DTEND;TZID=America/Los_Angeles:20240928T214000
+DTSTAMP:20240929T030800Z
+UID:ci16639653-tt18277182--2024-9-28-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240928T124500
+DTEND;TZID=America/Los_Angeles:20240928T153500
+DTSTAMP:20240928T203800Z
+UID:ci16639653-tt17526714--2024-9-28-12-45
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240928T160000
+DTEND;TZID=America/Los_Angeles:20240928T185000
+DTSTAMP:20240928T235300Z
+UID:ci16639653-tt17526714--2024-9-28-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240928T190000
+DTEND;TZID=America/Los_Angeles:20240928T215000
+DTSTAMP:20240929T025300Z
+UID:ci16639653-tt17526714--2024-9-28-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240928T131500
+DTEND;TZID=America/Los_Angeles:20240928T152500
+DTSTAMP:20240928T210800Z
+UID:ci16639653-tt29623480--2024-9-28-13-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240928T163000
+DTEND;TZID=America/Los_Angeles:20240928T184000
+DTSTAMP:20240929T002300Z
+UID:ci16639653-tt29623480--2024-9-28-16-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240928T193000
+DTEND;TZID=America/Los_Angeles:20240928T214000
+DTSTAMP:20240929T032300Z
+UID:ci16639653-tt29623480--2024-9-28-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240929T161500
+DTEND;TZID=America/Los_Angeles:20240929T184000
+DTSTAMP:20240930T000800Z
+UID:ci16639653-tt18277182--2024-9-29-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240929T191500
+DTEND;TZID=America/Los_Angeles:20240929T214000
+DTSTAMP:20240930T030800Z
+UID:ci16639653-tt18277182--2024-9-29-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240929T124500
+DTEND;TZID=America/Los_Angeles:20240929T153500
+DTSTAMP:20240929T203800Z
+UID:ci16639653-tt17526714--2024-9-29-12-45
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240929T160000
+DTEND;TZID=America/Los_Angeles:20240929T185000
+DTSTAMP:20240929T235300Z
+UID:ci16639653-tt17526714--2024-9-29-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240929T190000
+DTEND;TZID=America/Los_Angeles:20240929T215000
+DTSTAMP:20240930T025300Z
+UID:ci16639653-tt17526714--2024-9-29-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240929T131500
+DTEND;TZID=America/Los_Angeles:20240929T152500
+DTSTAMP:20240929T210800Z
+UID:ci16639653-tt29623480--2024-9-29-13-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240929T163000
+DTEND;TZID=America/Los_Angeles:20240929T184000
+DTSTAMP:20240930T002300Z
+UID:ci16639653-tt29623480--2024-9-29-16-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240929T193000
+DTEND;TZID=America/Los_Angeles:20240929T214000
+DTSTAMP:20240930T032300Z
+UID:ci16639653-tt29623480--2024-9-29-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240930T161500
+DTEND;TZID=America/Los_Angeles:20240930T184000
+DTSTAMP:20241001T000800Z
+UID:ci16639653-tt18277182--2024-9-30-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20240930T191500
+DTEND;TZID=America/Los_Angeles:20240930T214000
+DTSTAMP:20241001T030800Z
+UID:ci16639653-tt18277182--2024-9-30-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240930T160000
+DTEND;TZID=America/Los_Angeles:20240930T185000
+DTSTAMP:20240930T235300Z
+UID:ci16639653-tt17526714--2024-9-30-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20240930T190000
+DTEND;TZID=America/Los_Angeles:20240930T215000
+DTSTAMP:20241001T025300Z
+UID:ci16639653-tt17526714--2024-9-30-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240930T163000
+DTEND;TZID=America/Los_Angeles:20240930T184000
+DTSTAMP:20241001T002300Z
+UID:ci16639653-tt29623480--2024-9-30-16-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20240930T193000
+DTEND;TZID=America/Los_Angeles:20240930T214000
+DTSTAMP:20241001T032300Z
+UID:ci16639653-tt29623480--2024-9-30-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20241001T161500
+DTEND;TZID=America/Los_Angeles:20241001T184000
+DTSTAMP:20241002T000800Z
+UID:ci16639653-tt18277182--2024-10-1-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20241001T191500
+DTEND;TZID=America/Los_Angeles:20241001T214000
+DTSTAMP:20241002T030800Z
+UID:ci16639653-tt18277182--2024-10-1-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20241001T160000
+DTEND;TZID=America/Los_Angeles:20241001T185000
+DTSTAMP:20241001T235300Z
+UID:ci16639653-tt17526714--2024-10-1-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20241001T190000
+DTEND;TZID=America/Los_Angeles:20241001T215000
+DTSTAMP:20241002T025300Z
+UID:ci16639653-tt17526714--2024-10-1-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20241001T163000
+DTEND;TZID=America/Los_Angeles:20241001T184000
+DTSTAMP:20241002T002300Z
+UID:ci16639653-tt29623480--2024-10-1-16-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20241001T193000
+DTEND;TZID=America/Los_Angeles:20241001T214000
+DTSTAMP:20241002T032300Z
+UID:ci16639653-tt29623480--2024-10-1-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20241002T161500
+DTEND;TZID=America/Los_Angeles:20241002T184000
+DTSTAMP:20241003T000800Z
+UID:ci16639653-tt18277182--2024-10-2-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20241002T191500
+DTEND;TZID=America/Los_Angeles:20241002T214000
+DTSTAMP:20241003T030800Z
+UID:ci16639653-tt18277182--2024-10-2-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Practical Magic (1998)
 DTSTART;TZID=America/Los_Angeles:20241002T180000
 DTEND;TZID=America/Los_Angeles:20241002T201000
@@ -206,6 +572,126 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nTwo witch sisters\, raised by t
  heir eccentric aunts in a small town\, face closed-minded prejudice and a 
  curse which threatens to prevent them ever finding lasting love.\n\nhttps:
  //www.imdb.com/title/tt0120791/\n\nIMDb rating: 6.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20241002T160000
+DTEND;TZID=America/Los_Angeles:20241002T185000
+DTSTAMP:20241002T235300Z
+UID:ci16639653-tt17526714--2024-10-2-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20241002T190000
+DTEND;TZID=America/Los_Angeles:20241002T215000
+DTSTAMP:20241003T025300Z
+UID:ci16639653-tt17526714--2024-10-2-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20241002T153000
+DTEND;TZID=America/Los_Angeles:20241002T174000
+DTSTAMP:20241002T232300Z
+UID:ci16639653-tt29623480--2024-10-2-15-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20241003T161500
+DTEND;TZID=America/Los_Angeles:20241003T184000
+DTSTAMP:20241004T000800Z
+UID:ci16639653-tt18277182--2024-10-3-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=America/Los_Angeles:20241003T191500
+DTEND;TZID=America/Los_Angeles:20241003T214000
+DTSTAMP:20241004T030800Z
+UID:ci16639653-tt18277182--2024-10-3-19-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
+ old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
+  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
+ e/tt18277182/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20241003T160000
+DTEND;TZID=America/Los_Angeles:20241003T185000
+DTSTAMP:20241003T235300Z
+UID:ci16639653-tt17526714--2024-10-3-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
+ se a black-market drug\, a cell-replicating substance that temporarily cre
+ ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
+ tt17526714/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20241003T163000
+DTEND;TZID=America/Los_Angeles:20241003T184000
+DTSTAMP:20241004T002300Z
+UID:ci16639653-tt29623480--2024-10-3-16-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20241003T193000
+DTEND;TZID=America/Los_Angeles:20241003T214000
+DTSTAMP:20241004T032300Z
+UID:ci16639653-tt29623480--2024-10-3-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raging Bull (1980)
+DTSTART;TZID=America/Los_Angeles:20241010T190000
+DTEND;TZID=America/Los_Angeles:20241010T213500
+DTSTAMP:20241011T025300Z
+UID:ci16639653-tt0081398--2024-10-10-19-0
+DESCRIPTION:Duration: 2h 09m (129 mins)\n\nThe life of boxer Jake LaMotta\
+ , whose violence and temper that led him to the top in the ring destroyed 
+ his life outside of it.\n\nhttps://www.imdb.com/title/tt0081398/\n\nIMDb r
+ ating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
