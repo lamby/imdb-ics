@@ -1,20 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240926T132035Z
+LAST-MODIFIED:20240927T142817Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Room (2003)
-DTSTART;TZID=America/Los_Angeles:20240926T200000
-DTEND;TZID=America/Los_Angeles:20240926T220500
-DTSTAMP:20240927T035300Z
-UID:ci0015312-tt0368226--2024-9-26-20-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn San Francisco\, an amiable ba
- nker's seemingly perfect life is turned upside down when his deceitful bri
- de-to-be embarks on a passionate affair with his best friend.\n\nhttps://w
- ww.imdb.com/title/tt0368226/\n\nIMDb rating: 3.6
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR

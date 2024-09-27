@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240926T132002Z
+LAST-MODIFIED:20240927T142739Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=America/Los_Angeles:20240926T163000
-DTEND;TZID=America/Los_Angeles:20240926T184000
-DTSTAMP:20240927T002300Z
-UID:ci5397678-tt2049403--2024-9-26-16-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=America/Los_Angeles:20240926T193000
-DTEND;TZID=America/Los_Angeles:20240926T214000
-DTSTAMP:20240927T032300Z
-UID:ci5397678-tt2049403--2024-9-26-19-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
 DTSTART;TZID=America/Los_Angeles:20240927T161500
@@ -500,6 +472,48 @@ DTSTART;TZID=America/Los_Angeles:20241011T193000
 DTEND;TZID=America/Los_Angeles:20241011T221500
 DTSTAMP:20241012T032300Z
 UID:ci5397678-tt11315808--2024-10-11-19-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241012T123000
+DTEND;TZID=America/Los_Angeles:20241012T151500
+DTSTAMP:20241012T202300Z
+UID:ci5397678-tt11315808--2024-10-12-12-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241012T160000
+DTEND;TZID=America/Los_Angeles:20241012T184500
+DTSTAMP:20241012T235300Z
+UID:ci5397678-tt11315808--2024-10-12-16-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241012T193000
+DTEND;TZID=America/Los_Angeles:20241012T221500
+DTSTAMP:20241013T032300Z
+UID:ci5397678-tt11315808--2024-10-12-19-30
 DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 

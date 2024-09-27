@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240926T131933Z
+LAST-MODIFIED:20240927T142704Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Conversation (1974)
-DTSTART;TZID=America/Los_Angeles:20240926T163000
-DTEND;TZID=America/Los_Angeles:20240926T185000
-DTSTAMP:20240927T002300Z
-UID:ci60177107-tt0071360--2024-9-26-16-30
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nA paranoid\, secretive surveill
- ance expert has a crisis of conscience when he suspects that the couple he
-  is spying on will be murdered.\n\nhttps://www.imdb.com/title/tt0071360/\n
- \nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation (1974)
-DTSTART;TZID=America/Los_Angeles:20240926T194500
-DTEND;TZID=America/Los_Angeles:20240926T220500
-DTSTAMP:20240927T033800Z
-UID:ci60177107-tt0071360--2024-9-26-19-45
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nA paranoid\, secretive surveill
- ance expert has a crisis of conscience when he suspects that the couple he
-  is spying on will be murdered.\n\nhttps://www.imdb.com/title/tt0071360/\n
- \nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation (1974)
 DTSTART;TZID=America/Los_Angeles:20240927T170000
@@ -320,6 +294,55 @@ DTSTART;TZID=America/Los_Angeles:20241011T200000
 DTEND;TZID=America/Los_Angeles:20241011T215000
 DTSTAMP:20241012T035300Z
 UID:ci60177107-tt19816664--2024-10-11-20-0
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
+ cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
+ e/tt19816664/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Living Dead (1968)
+DTSTART;TZID=America/Los_Angeles:20241012T193000
+DTEND;TZID=America/Los_Angeles:20241012T213500
+DTSTAMP:20241013T032300Z
+UID:ci60177107-tt0063350--2024-10-12-19-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA ragtag group of Pennsylvanians
+  barricade themselves in an old farmhouse to remain safe from a horde of f
+ lesh-eating ghouls that are ravaging the Northeast of the United States.\n
+ \nhttps://www.imdb.com/title/tt0063350/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rockula (1990)
+DTSTART;TZID=America/Los_Angeles:20241012T170000
+DTEND;TZID=America/Los_Angeles:20241012T190000
+DTSTAMP:20241013T005300Z
+UID:ci60177107-tt0100506--2024-10-12-17-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young vampire cannot lose his 
+ virginity because of a curse imposed upon him centuries ago.\n\nhttps://ww
+ w.imdb.com/title/tt0100506/\n\nIMDb rating: 5.2
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Forest Hills
+DTSTART;TZID=America/Los_Angeles:20241012T130000
+DTEND;TZID=America/Los_Angeles:20241012T145000
+DTSTAMP:20241012T205300Z
+UID:ci60177107-tt19816664--2024-10-12-13-0
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
+ cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
+ e/tt19816664/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Forest Hills
+DTSTART;TZID=America/Los_Angeles:20241012T150000
+DTEND;TZID=America/Los_Angeles:20241012T165000
+DTSTAMP:20241012T225300Z
+UID:ci60177107-tt19816664--2024-10-12-15-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
  e/tt19816664/
