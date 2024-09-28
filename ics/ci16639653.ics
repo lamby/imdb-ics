@@ -1,89 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240927T142653Z
+LAST-MODIFIED:20240928T151021Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Girls Will Be Girls
-DTSTART;TZID=America/Los_Angeles:20240927T161500
-DTEND;TZID=America/Los_Angeles:20240927T184000
-DTSTAMP:20240928T000800Z
-UID:ci16639653-tt18277182--2024-9-27-16-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
- old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
-  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
- e/tt18277182/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Girls Will Be Girls
-DTSTART;TZID=America/Los_Angeles:20240927T191500
-DTEND;TZID=America/Los_Angeles:20240927T214000
-DTSTAMP:20240928T030800Z
-UID:ci16639653-tt18277182--2024-9-27-19-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFollows the journey of 16-year-
- old Mira\, whose sexy\, rebellious coming of age is disrupted by her young
-  mother who never got to come of age herself.\n\nhttps://www.imdb.com/titl
- e/tt18277182/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20240927T160000
-DTEND;TZID=America/Los_Angeles:20240927T185000
-DTSTAMP:20240927T235300Z
-UID:ci16639653-tt17526714--2024-9-27-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
- se a black-market drug\, a cell-replicating substance that temporarily cre
- ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20240927T190000
-DTEND;TZID=America/Los_Angeles:20240927T215000
-DTSTAMP:20240928T025300Z
-UID:ci16639653-tt17526714--2024-9-27-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
- se a black-market drug\, a cell-replicating substance that temporarily cre
- ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=America/Los_Angeles:20240927T163000
-DTEND;TZID=America/Los_Angeles:20240927T184000
-DTSTAMP:20240928T002300Z
-UID:ci16639653-tt29623480--2024-9-27-16-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=America/Los_Angeles:20240927T193000
-DTEND;TZID=America/Los_Angeles:20240927T214000
-DTSTAMP:20240928T032300Z
-UID:ci16639653-tt29623480--2024-9-27-19-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Girls Will Be Girls
 DTSTART;TZID=America/Los_Angeles:20240928T130000
@@ -132,7 +52,7 @@ UID:ci16639653-tt17526714--2024-9-28-12-45
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -145,7 +65,7 @@ UID:ci16639653-tt17526714--2024-9-28-16-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -158,7 +78,7 @@ UID:ci16639653-tt17526714--2024-9-28-19-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -172,7 +92,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -186,7 +106,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -200,7 +120,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -239,7 +159,7 @@ UID:ci16639653-tt17526714--2024-9-29-12-45
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -252,7 +172,7 @@ UID:ci16639653-tt17526714--2024-9-29-16-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -265,7 +185,7 @@ UID:ci16639653-tt17526714--2024-9-29-19-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -279,7 +199,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -293,7 +213,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -307,7 +227,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -346,7 +266,7 @@ UID:ci16639653-tt17526714--2024-9-30-16-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -359,7 +279,7 @@ UID:ci16639653-tt17526714--2024-9-30-19-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -373,7 +293,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -387,7 +307,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -426,7 +346,7 @@ UID:ci16639653-tt17526714--2024-10-1-16-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -439,7 +359,7 @@ UID:ci16639653-tt17526714--2024-10-1-19-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -453,7 +373,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -467,7 +387,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -519,7 +439,7 @@ UID:ci16639653-tt17526714--2024-10-2-16-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -532,7 +452,7 @@ UID:ci16639653-tt17526714--2024-10-2-19-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -546,7 +466,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -585,7 +505,7 @@ UID:ci16639653-tt17526714--2024-10-3-16-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity decides to u
  se a black-market drug\, a cell-replicating substance that temporarily cre
  ates a younger\, better version of herself.\n\nhttps://www.imdb.com/title/
- tt17526714/\n\nIMDb rating: 8
+ tt17526714/\n\nIMDb rating: 7.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -599,7 +519,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -613,7 +533,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
+ ng: 8.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
