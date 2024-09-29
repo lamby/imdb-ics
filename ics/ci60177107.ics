@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240928T151031Z
+LAST-MODIFIED:20240929T142811Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20240928T150000
-DTEND;TZID=America/Los_Angeles:20240928T171500
-DTSTAMP:20240928T225300Z
-UID:ci60177107-tt12818328--2024-9-28-15-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady Like
-DTSTART;TZID=America/Los_Angeles:20240928T200000
-DTEND;TZID=America/Los_Angeles:20240928T215500
-DTSTAMP:20240929T035300Z
-UID:ci60177107-tt27833870--2024-9-28-20-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nLady Camden becomes a contestant
-  on season 14 of RuPaul's Drag Race. As she struggles to manage the demand
- s of her fame\, she must face her traumatic childhood.\n\nhttps://www.imdb
- .com/title/tt27833870/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hundreds of Beavers (2022)
 DTSTART;TZID=America/Los_Angeles:20240929T160000
@@ -370,6 +344,31 @@ DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
  hat appears to be a deserted house\, only to discover something sinister w
  ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
  72271/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rockula (1990)
+DTSTART;TZID=America/Los_Angeles:20241014T193000
+DTEND;TZID=America/Los_Angeles:20241014T213000
+DTSTAMP:20241015T032300Z
+UID:ci60177107-tt0100506--2024-10-14-19-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young vampire cannot lose his 
+ virginity because of a curse imposed upon him centuries ago.\n\nhttps://ww
+ w.imdb.com/title/tt0100506/\n\nIMDb rating: 5.2
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dunwich Horror (1970)
+DTSTART;TZID=America/Los_Angeles:20241014T171500
+DTEND;TZID=America/Los_Angeles:20241014T191000
+DTSTAMP:20241015T010800Z
+UID:ci60177107-tt0065669--2024-10-14-17-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nWilbur Whateley travels to the A
+ rkham Miskatonic University to borrow the legendary Necronomicon. But\, li
+ ttle does anyone know\, Whateley isn't quite human...\n\nhttps://www.imdb.
+ com/title/tt0065669/\n\nIMDb rating: 5.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

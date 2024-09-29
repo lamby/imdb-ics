@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240928T150837Z
+LAST-MODIFIED:20240929T142626Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Look Into My Eyes
-DTSTART;TZID=America/Los_Angeles:20240928T170000
-DTEND;TZID=America/Los_Angeles:20240928T191000
-DTSTAMP:20240929T005300Z
-UID:ci0005472-tt19121796--2024-9-28-17-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA documentary through a series 
- of intimate sessions with psychics and their clients.\n\nhttps://www.imdb.
- com/title/tt19121796/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Laugh (1924)
 DTSTART;TZID=America/Los_Angeles:20240929T180000
@@ -207,7 +195,7 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
   existential rut until one night he catches a bizarre ad for a party hotli
  ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
  the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 8.1
+ 203531/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -247,7 +235,7 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
   existential rut until one night he catches a bizarre ad for a party hotli
  ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
  the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 8.1
+ 203531/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -287,7 +275,33 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
   existential rut until one night he catches a bizarre ad for a party hotli
  ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
  the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 8.1
+ 203531/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankie Freako
+DTSTART;TZID=America/Los_Angeles:20241014T213000
+DTEND;TZID=America/Los_Angeles:20241014T232000
+DTSTAMP:20241015T052300Z
+UID:ci0005472-tt32203531--2024-10-14-21-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
+  existential rut until one night he catches a bizarre ad for a party hotli
+ ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
+ the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
+ 203531/\n\nIMDb rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss (1988)
+DTSTART;TZID=America/Los_Angeles:20241014T190000
+DTEND;TZID=America/Los_Angeles:20241014T211000
+DTSTAMP:20241015T025300Z
+UID:ci0005472-tt0098577--2024-10-14-19-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAfter an encounter with a neck-
+ biter\, a publishing executive thinks that he's turning into a vampire.\n\
+ nhttps://www.imdb.com/title/tt0098577/\n\nIMDb rating: 6.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
