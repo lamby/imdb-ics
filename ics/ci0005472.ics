@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240929T142626Z
+LAST-MODIFIED:20240930T142939Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Last Laugh (1924)
-DTSTART;TZID=America/Los_Angeles:20240929T180000
-DTEND;TZID=America/Los_Angeles:20240929T195500
-DTSTAMP:20240930T015300Z
-UID:ci0005472-tt0015064--2024-9-29-18-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn aging doorman is forced to fa
- ce the scorn of his friends\, neighbors and society after being fired from
-  his prestigious job at a luxurious hotel.\n\nhttps://www.imdb.com/title/t
- t0015064/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ravenous (2017)
 DTSTART;TZID=America/Los_Angeles:20241001T193000
@@ -195,7 +182,7 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
   existential rut until one night he catches a bizarre ad for a party hotli
  ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
  the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 7.5
+ 203531/\n\nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -235,7 +222,7 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
   existential rut until one night he catches a bizarre ad for a party hotli
  ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
  the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 7.5
+ 203531/\n\nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -275,7 +262,7 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
   existential rut until one night he catches a bizarre ad for a party hotli
  ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
  the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 7.5
+ 203531/\n\nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -289,7 +276,7 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
   existential rut until one night he catches a bizarre ad for a party hotli
  ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
  the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 7.5
+ 203531/\n\nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -299,6 +286,32 @@ DTSTART;TZID=America/Los_Angeles:20241014T190000
 DTEND;TZID=America/Los_Angeles:20241014T211000
 DTSTAMP:20241015T025300Z
 UID:ci0005472-tt0098577--2024-10-14-19-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAfter an encounter with a neck-
+ biter\, a publishing executive thinks that he's turning into a vampire.\n\
+ nhttps://www.imdb.com/title/tt0098577/\n\nIMDb rating: 6.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankie Freako
+DTSTART;TZID=America/Los_Angeles:20241015T190000
+DTEND;TZID=America/Los_Angeles:20241015T205000
+DTSTAMP:20241016T025300Z
+UID:ci0005472-tt32203531--2024-10-15-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
+  existential rut until one night he catches a bizarre ad for a party hotli
+ ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
+ the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
+ 203531/\n\nIMDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampire's Kiss (1988)
+DTSTART;TZID=America/Los_Angeles:20241015T211500
+DTEND;TZID=America/Los_Angeles:20241015T232500
+DTSTAMP:20241016T050800Z
+UID:ci0005472-tt0098577--2024-10-15-21-15
 DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAfter an encounter with a neck-
  biter\, a publishing executive thinks that he's turning into a vampire.\n\
  nhttps://www.imdb.com/title/tt0098577/\n\nIMDb rating: 6.1

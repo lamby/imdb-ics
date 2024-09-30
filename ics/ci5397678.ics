@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240929T142843Z
+LAST-MODIFIED:20240930T143220Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20240929T161500
-DTEND;TZID=America/Los_Angeles:20240929T191000
-DTSTAMP:20240930T000800Z
-UID:ci5397678-tt0081505--2024-9-29-16-15
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
- otel for the winter\, where a sinister presence influences the father into
-  violence. At the same time\, his psychic son sees horrifying forebodings 
- from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
- /\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20240929T193000
-DTEND;TZID=America/Los_Angeles:20240929T222500
-DTSTAMP:20240930T032300Z
-UID:ci5397678-tt0081505--2024-9-29-19-30
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
- otel for the winter\, where a sinister presence influences the father into
-  violence. At the same time\, his psychic son sees horrifying forebodings 
- from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
- /\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shining (1980)
 DTSTART;TZID=America/Los_Angeles:20240930T161500
@@ -528,6 +500,20 @@ DTSTART;TZID=America/Los_Angeles:20241014T193000
 DTEND;TZID=America/Los_Angeles:20241014T221500
 DTSTAMP:20241015T032300Z
 UID:ci5397678-tt11315808--2024-10-14-19-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241015T193000
+DTEND;TZID=America/Los_Angeles:20241015T221500
+DTSTAMP:20241016T032300Z
+UID:ci5397678-tt11315808--2024-10-15-19-30
 DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
