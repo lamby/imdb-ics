@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240930T143254Z
+LAST-MODIFIED:20241001T145428Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bo
- mb (1964)
-DTSTART;TZID=America/Los_Angeles:20240930T160000
-DTEND;TZID=America/Los_Angeles:20240930T180000
-DTSTAMP:20240930T235300Z
-UID:ci0015312-tt0057012--2024-9-30-16-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn unhinged American general ord
- ers a bombing attack on the Soviet Union\, triggering a path to nuclear ho
- locaust that a war room full of politicians and generals frantically tries
-  to stop.\n\nhttps://www.imdb.com/title/tt0057012/\n\nIMDb rating: 8.3
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bo
- mb (1964)
-DTSTART;TZID=America/Los_Angeles:20240930T190000
-DTEND;TZID=America/Los_Angeles:20240930T210000
-DTSTAMP:20241001T025300Z
-UID:ci0015312-tt0057012--2024-9-30-19-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn unhinged American general ord
- ers a bombing attack on the Soviet Union\, triggering a path to nuclear ho
- locaust that a war room full of politicians and generals frantically tries
-  to stop.\n\nhttps://www.imdb.com/title/tt0057012/\n\nIMDb rating: 8.3
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The World's End (2013)
-DTSTART;TZID=America/Los_Angeles:20240930T213000
-DTEND;TZID=America/Los_Angeles:20240930T234500
-DTSTAMP:20241001T052300Z
-UID:ci0015312-tt1213663--2024-9-30-21-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nFive friends who reunite in an 
- attempt to top their epic pub crawl from twenty years earlier unwittingly 
- become humanity's only hope for survival.\n\nhttps://www.imdb.com/title/tt
- 1213663/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bo
  mb (1964)
@@ -135,7 +94,7 @@ DTSTAMP:20241004T035300Z
 UID:ci0015312-tt27796095--2024-10-3-20-0
 DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA body-snatching alien comes to 
  Earth\, reconnects with their partner\, and tries to find their way in mod
- ern America.\n\nhttps://www.imdb.com/title/tt27796095/\n\nIMDb rating: 5.7
+ ern America.\n\nhttps://www.imdb.com/title/tt27796095/\n\nIMDb rating: 5.6
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT

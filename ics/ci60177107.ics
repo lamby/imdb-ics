@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240930T143143Z
+LAST-MODIFIED:20241001T145313Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20240930T163000
-DTEND;TZID=America/Los_Angeles:20240930T184500
-DTSTAMP:20241001T002300Z
-UID:ci60177107-tt12818328--2024-9-30-16-30
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20240930T190000
-DTEND;TZID=America/Los_Angeles:20240930T211500
-DTSTAMP:20241001T025300Z
-UID:ci60177107-tt12818328--2024-9-30-19-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hundreds of Beavers (2022)
 DTSTART;TZID=America/Los_Angeles:20241001T163000
@@ -368,6 +342,34 @@ UID:ci60177107-tt0056279--2024-10-15-17-15
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA woman who may be a witch defen
  ds her husband from forces attempting to harm him.\n\nhttps://www.imdb.com
  /title/tt0056279/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Narcissus (1947)
+DTSTART;TZID=America/Los_Angeles:20241016T193000
+DTEND;TZID=America/Los_Angeles:20241016T214000
+DTSTAMP:20241017T032300Z
+UID:ci60177107-tt0039192--2024-10-16-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA group of nuns struggle to est
+ ablish a convent in the Himalayas\, while isolation\, extreme weather\, al
+ titude\, and culture clashes all conspire to drive the well-intentioned mi
+ ssionaries mad.\n\nhttps://www.imdb.com/title/tt0039192/\n\nIMDb rating: 7
+ .7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Texas Chain Saw Massacre (1974)
+DTSTART;TZID=America/Los_Angeles:20241016T171500
+DTEND;TZID=America/Los_Angeles:20241016T190500
+DTSTAMP:20241017T010800Z
+UID:ci60177107-tt0072271--2024-10-16-17-15
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
+ exas to visit the grave of a grandfather. On the way they stumble across w
+ hat appears to be a deserted house\, only to discover something sinister w
+ ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
+ 72271/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
