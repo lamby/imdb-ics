@@ -1,60 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241001T145313Z
+LAST-MODIFIED:20241003T144403Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20241001T163000
-DTEND;TZID=America/Los_Angeles:20241001T184500
-DTSTAMP:20241002T002300Z
-UID:ci60177107-tt12818328--2024-10-1-16-30
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20241001T190000
-DTEND;TZID=America/Los_Angeles:20241001T211500
-DTSTAMP:20241002T025300Z
-UID:ci60177107-tt12818328--2024-10-1-19-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eyes Without a Face (1960)
-DTSTART;TZID=America/Los_Angeles:20241002T171500
-DTEND;TZID=America/Los_Angeles:20241002T191000
-DTSTAMP:20241003T010800Z
-UID:ci60177107-tt0053459--2024-10-2-17-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA surgeon causes an accident whi
- ch leaves his daughter disfigured and goes to extreme lengths to give her 
- a new face.\n\nhttps://www.imdb.com/title/tt0053459/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Know Where I'm Going! (1945)
-DTSTART;TZID=America/Los_Angeles:20241002T193000
-DTEND;TZID=America/Los_Angeles:20241002T213000
-DTSTAMP:20241003T032300Z
-UID:ci60177107-tt0037800--2024-10-2-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA young Englishwoman goes to the
-  Hebrides to marry her older\, wealthier fiancé. When the weather keeps t
- hem separated on different islands\, she begins to have second thoughts.\n
- \nhttps://www.imdb.com/title/tt0037800/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eyes Without a Face (1960)
 DTSTART;TZID=America/Los_Angeles:20241004T173000
@@ -370,6 +319,45 @@ DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
  hat appears to be a deserted house\, only to discover something sinister w
  ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
  72271/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HauntedWeen (1991)
+DTSTART;TZID=America/Los_Angeles:20241017T173000
+DTEND;TZID=America/Los_Angeles:20241017T192500
+DTSTAMP:20241018T012300Z
+UID:ci60177107-tt0150855--2024-10-17-17-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nTwenty years after a fatal incid
+ ent\, Eddie Burber's old home\, now haunted\, hosts a fraternity fundraise
+ r. Unbeknownst to them\, real deaths occur amid the haunted house thrills 
+ as they're hunted and trapped inside.\n\nhttps://www.imdb.com/title/tt0150
+ 855/\n\nIMDb rating: 4.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suffer Little Children (1983)
+DTSTART;TZID=America/Los_Angeles:20241018T174500
+DTEND;TZID=America/Los_Angeles:20241018T192500
+DTSTAMP:20241019T013800Z
+UID:ci60177107-tt0457148--2024-10-18-17-45
+DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA mute child arrives at a childr
+ en's home and starts terrorizing the other children with her demonic power
+ s.\n\nhttps://www.imdb.com/title/tt0457148/\n\nIMDb rating: 4.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opera (1987)
+DTSTART;TZID=America/Los_Angeles:20241018T194500
+DTEND;TZID=America/Los_Angeles:20241018T220000
+DTSTAMP:20241019T033800Z
+UID:ci60177107-tt0093677--2024-10-18-19-45
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
+  by a deranged fan bent on killing the people associated with her to claim
+  her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
+  6.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

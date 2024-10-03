@@ -1,65 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241001T145351Z
+LAST-MODIFIED:20241003T144440Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20241001T161500
-DTEND;TZID=America/Los_Angeles:20241001T191000
-DTSTAMP:20241002T000800Z
-UID:ci5397678-tt0081505--2024-10-1-16-15
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
- otel for the winter\, where a sinister presence influences the father into
-  violence. At the same time\, his psychic son sees horrifying forebodings 
- from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
- /\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20241001T193000
-DTEND;TZID=America/Los_Angeles:20241001T222500
-DTSTAMP:20241002T032300Z
-UID:ci5397678-tt0081505--2024-10-1-19-30
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
- otel for the winter\, where a sinister presence influences the father into
-  violence. At the same time\, his psychic son sees horrifying forebodings 
- from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
- /\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20241002T161500
-DTEND;TZID=America/Los_Angeles:20241002T191000
-DTSTAMP:20241003T000800Z
-UID:ci5397678-tt0081505--2024-10-2-16-15
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
- otel for the winter\, where a sinister presence influences the father into
-  violence. At the same time\, his psychic son sees horrifying forebodings 
- from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
- /\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shining (1980)
-DTSTART;TZID=America/Los_Angeles:20241002T193000
-DTEND;TZID=America/Los_Angeles:20241002T222500
-DTSTAMP:20241003T032300Z
-UID:ci5397678-tt0081505--2024-10-2-19-30
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
- otel for the winter\, where a sinister presence influences the father into
-  violence. At the same time\, his psychic son sees horrifying forebodings 
- from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
- /\n\nIMDb rating: 8.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joker: Folie à Deux
 DTSTART;TZID=America/Los_Angeles:20241003T160000
@@ -70,7 +14,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -84,7 +28,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -98,7 +42,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -112,7 +56,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -126,7 +70,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -140,7 +84,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -154,7 +98,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -168,7 +112,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -182,7 +126,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -196,7 +140,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -210,7 +154,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -224,7 +168,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -238,7 +182,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -252,7 +196,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -266,7 +210,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -280,7 +224,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -294,7 +238,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -308,7 +252,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -322,7 +266,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -336,7 +280,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -350,7 +294,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -364,7 +308,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -378,7 +322,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -392,7 +336,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -406,7 +350,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -420,7 +364,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -434,7 +378,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -448,7 +392,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -462,7 +406,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -476,7 +420,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -490,7 +434,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -504,7 +448,7 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -518,7 +462,35 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
  ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
  th his dual identity\, Arthur not only stumbles upon true love\, but also 
  finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
- le/tt11315808/
+ le/tt11315808/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241017T160000
+DTEND;TZID=America/Los_Angeles:20241017T184500
+DTSTAMP:20241017T235300Z
+UID:ci5397678-tt11315808--2024-10-17-16-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=America/Los_Angeles:20241017T193000
+DTEND;TZID=America/Los_Angeles:20241017T221500
+DTSTAMP:20241018T032300Z
+UID:ci5397678-tt11315808--2024-10-17-19-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nArthur Fleck is institutionaliz
+ ed at Arkham\, awaiting trial for his crimes as Joker. While struggling wi
+ th his dual identity\, Arthur not only stumbles upon true love\, but also 
+ finds the music that's always been inside him.\n\nhttps://www.imdb.com/tit
+ le/tt11315808/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
