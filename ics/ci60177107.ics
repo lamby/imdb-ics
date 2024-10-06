@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241003T144403Z
+LAST-MODIFIED:20241006T150413Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Eyes Without a Face (1960)
-DTSTART;TZID=America/Los_Angeles:20241004T173000
-DTEND;TZID=America/Los_Angeles:20241004T192500
-DTSTAMP:20241005T012300Z
-UID:ci60177107-tt0053459--2024-10-4-17-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA surgeon causes an accident whi
- ch leaves his daughter disfigured and goes to extreme lengths to give her 
- a new face.\n\nhttps://www.imdb.com/title/tt0053459/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Texas Chain Saw Massacre (1974)
-DTSTART;TZID=America/Los_Angeles:20241004T193000
-DTEND;TZID=America/Los_Angeles:20241004T212000
-DTSTAMP:20241005T032300Z
-UID:ci60177107-tt0072271--2024-10-4-19-30
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
- exas to visit the grave of a grandfather. On the way they stumble across w
- hat appears to be a deserted house\, only to discover something sinister w
- ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
- 72271/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bad Moon (1996)
 DTSTART;TZID=America/Los_Angeles:20241006T194500
@@ -129,7 +103,7 @@ DTSTAMP:20241012T015300Z
 UID:ci60177107-tt19816664--2024-10-11-18-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/
+ e/tt19816664/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -141,7 +115,7 @@ DTSTAMP:20241012T035300Z
 UID:ci60177107-tt19816664--2024-10-11-20-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/
+ e/tt19816664/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -178,7 +152,7 @@ DTSTAMP:20241012T205300Z
 UID:ci60177107-tt19816664--2024-10-12-13-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/
+ e/tt19816664/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -190,7 +164,7 @@ DTSTAMP:20241012T225300Z
 UID:ci60177107-tt19816664--2024-10-12-15-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/
+ e/tt19816664/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -214,7 +188,7 @@ DTSTAMP:20241013T205300Z
 UID:ci60177107-tt19816664--2024-10-13-13-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/
+ e/tt19816664/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -226,7 +200,7 @@ DTSTAMP:20241013T225300Z
 UID:ci60177107-tt19816664--2024-10-13-15-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/
+ e/tt19816664/\n\nIMDb rating: 6.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -358,6 +332,108 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
   by a deranged fan bent on killing the people associated with her to claim
   her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
   6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Border (2018)
+DTSTART;TZID=America/Los_Angeles:20241019T144500
+DTEND;TZID=America/Los_Angeles:20241019T170000
+DTSTAMP:20241019T223800Z
+UID:ci60177107-tt5501104--2024-10-19-14-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA customs officer who can smell
+  fear develops an unusual attraction to a strange traveler while aiding a 
+ police investigation which will call into question her entire existence.\n
+ \nhttps://www.imdb.com/title/tt5501104/\n\nIMDb rating: 7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's Scare Jessica to Death (1971)
+DTSTART;TZID=America/Los_Angeles:20241019T173000
+DTEND;TZID=America/Los_Angeles:20241019T192500
+DTSTAMP:20241020T012300Z
+UID:ci60177107-tt0067341--2024-10-19-17-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA recently institutionalized wom
+ an has bizarre experiences after moving into a supposedly haunted country 
+ farmhouse and fears she may be losing her sanity once again.\n\nhttps://ww
+ w.imdb.com/title/tt0067341/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Strangers (2008)
+DTSTART;TZID=America/Los_Angeles:20241019T200000
+DTEND;TZID=America/Los_Angeles:20241019T215500
+DTSTAMP:20241020T035300Z
+UID:ci60177107-tt0482606--2024-10-19-20-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nJames Hoyt and Kristen McKay vis
+ it an isolated vacation home to enjoy some time together. However\, they a
+ re in for a rude surprise when three masked assailants make their stay a n
+ ightmare.\n\nhttps://www.imdb.com/title/tt0482606/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Moon (1996)
+DTSTART;TZID=America/Los_Angeles:20241020T174500
+DTEND;TZID=America/Los_Angeles:20241020T193000
+DTSTAMP:20241021T013800Z
+UID:ci60177107-tt0115610--2024-10-20-17-45
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAfter being bitten by a werewolf
+  in the jungle\, Ted looks for a cure. His lawyer sister\, with a son and 
+ dog\, invites him to park his camper by her house in the woods and live ou
+ t of her fridge.\n\nhttps://www.imdb.com/title/tt0115610/\n\nIMDb rating: 
+ 5.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bell Book and Candle (1958)
+DTSTART;TZID=America/Los_Angeles:20241020T151500
+DTEND;TZID=America/Los_Angeles:20241020T173000
+DTSTAMP:20241020T230800Z
+UID:ci60177107-tt0051406--2024-10-20-15-15
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA modern-day witch likes her ne
+ ighbor but despises his fiancée\, so she enchants him to love her instead
+ .\n\nhttps://www.imdb.com/title/tt0051406/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Eagle (1962)
+DTSTART;TZID=America/Los_Angeles:20241020T200000
+DTEND;TZID=America/Los_Angeles:20241020T215500
+DTSTAMP:20241021T035300Z
+UID:ci60177107-tt0056279--2024-10-20-20-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA woman who may be a witch defen
+ ds her husband from forces attempting to harm him.\n\nhttps://www.imdb.com
+ /title/tt0056279/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's Scare Jessica to Death (1971)
+DTSTART;TZID=America/Los_Angeles:20241021T200000
+DTEND;TZID=America/Los_Angeles:20241021T215500
+DTSTAMP:20241022T035300Z
+UID:ci60177107-tt0067341--2024-10-21-20-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA recently institutionalized wom
+ an has bizarre experiences after moving into a supposedly haunted country 
+ farmhouse and fears she may be losing her sanity once again.\n\nhttps://ww
+ w.imdb.com/title/tt0067341/\n\nIMDb rating: 6.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rockula (1990)
+DTSTART;TZID=America/Los_Angeles:20241021T174500
+DTEND;TZID=America/Los_Angeles:20241021T194500
+DTSTAMP:20241022T013800Z
+UID:ci60177107-tt0100506--2024-10-21-17-45
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young vampire cannot lose his 
+ virginity because of a curse imposed upon him centuries ago.\n\nhttps://ww
+ w.imdb.com/title/tt0100506/\n\nIMDb rating: 5.2
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

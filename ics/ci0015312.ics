@@ -1,19 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241003T144521Z
+LAST-MODIFIED:20241006T150534Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Becomers
-DTSTART;TZID=America/Los_Angeles:20241003T200000
-DTEND;TZID=America/Los_Angeles:20241003T215500
-DTSTAMP:20241004T035300Z
-UID:ci0015312-tt27796095--2024-10-3-20-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA body-snatching alien comes to 
- Earth\, reconnects with their partner\, and tries to find their way in mod
- ern America.\n\nhttps://www.imdb.com/title/tt27796095/\n\nIMDb rating: 5.6
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR
