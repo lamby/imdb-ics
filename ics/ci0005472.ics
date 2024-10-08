@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241007T142257Z
+LAST-MODIFIED:20241008T150839Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Abruptio
-DTSTART;TZID=America/Los_Angeles:20241007T193000
-DTEND;TZID=America/Los_Angeles:20241007T213000
-DTSTAMP:20241008T032300Z
-UID:ci0005472-tt3963226--2024-10-7-19-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLes Hackel is a guy down on his 
- luck who wakes to find an explosive device has been implanted in his neck.
- \n\nhttps://www.imdb.com/title/tt3963226/\n\nIMDb rating: 6.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Videodrome (1983)
 DTSTART;TZID=America/Los_Angeles:20241008T193000
@@ -281,18 +269,6 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blade II (2002)
-DTSTART;TZID=America/Los_Angeles:20241019T151500
-DTEND;TZID=America/Los_Angeles:20241019T174000
-DTSTAMP:20241019T230800Z
-UID:ci0005472-tt0187738--2024-10-19-15-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nBlade forms an uneasy alliance 
- with the vampire council in order to combat the Reapers\, who are feeding 
- on vampires.\n\nhttps://www.imdb.com/title/tt0187738/\n\nIMDb rating: 6.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Masque of the Red Death (1964)
 DTSTART;TZID=America/Los_Angeles:20241019T180000
 DTEND;TZID=America/Los_Angeles:20241019T195500
@@ -378,6 +354,18 @@ DTSTART;TZID=America/Los_Angeles:20241022T191500
 DTEND;TZID=America/Los_Angeles:20241022T214000
 DTSTAMP:20241023T030800Z
 UID:ci0005472-tt0187738--2024-10-22-19-15
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nBlade forms an uneasy alliance 
+ with the vampire council in order to combat the Reapers\, who are feeding 
+ on vampires.\n\nhttps://www.imdb.com/title/tt0187738/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blade II (2002)
+DTSTART;TZID=America/Los_Angeles:20241023T191500
+DTEND;TZID=America/Los_Angeles:20241023T214000
+DTSTAMP:20241024T030800Z
+UID:ci0005472-tt0187738--2024-10-23-19-15
 DESCRIPTION:Duration: 1h 57m (117 mins)\n\nBlade forms an uneasy alliance 
  with the vampire council in order to combat the Reapers\, who are feeding 
  on vampires.\n\nhttps://www.imdb.com/title/tt0187738/\n\nIMDb rating: 6.7

@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241007T142618Z
+LAST-MODIFIED:20241008T151116Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=America/Los_Angeles:20241007T153000
-DTEND;TZID=America/Los_Angeles:20241007T181500
-DTSTAMP:20241007T232300Z
-UID:ci5397678-tt11315808--2024-10-7-15-30
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=America/Los_Angeles:20241007T193000
-DTEND;TZID=America/Los_Angeles:20241007T221500
-DTSTAMP:20241008T032300Z
-UID:ci5397678-tt11315808--2024-10-7-19-30
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joker: Folie à Deux
 DTSTART;TZID=America/Los_Angeles:20241008T153000

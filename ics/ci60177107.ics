@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241007T142534Z
+LAST-MODIFIED:20241008T151041Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bell Book and Candle (1958)
-DTSTART;TZID=America/Los_Angeles:20241007T173000
-DTEND;TZID=America/Los_Angeles:20241007T194500
-DTSTAMP:20241008T012300Z
-UID:ci60177107-tt0051406--2024-10-7-17-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA modern-day witch likes her ne
- ighbor but despises his fiancée\, so she enchants him to love her instead
- .\n\nhttps://www.imdb.com/title/tt0051406/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suffer Little Children (1983)
-DTSTART;TZID=America/Los_Angeles:20241007T200000
-DTEND;TZID=America/Los_Angeles:20241007T214000
-DTSTAMP:20241008T035300Z
-UID:ci60177107-tt0457148--2024-10-7-20-0
-DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA mute child arrives at a childr
- en's home and starts terrorizing the other children with her demonic power
- s.\n\nhttps://www.imdb.com/title/tt0457148/\n\nIMDb rating: 4.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Strangers (2008)
 DTSTART;TZID=America/Los_Angeles:20241009T170000
@@ -393,6 +369,30 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nWilbur Whateley travels to the A
  rkham Miskatonic University to borrow the legendary Necronomicon. But\, li
  ttle does anyone know\, Whateley isn't quite human...\n\nhttps://www.imdb.
  com/title/tt0065669/\n\nIMDb rating: 5.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bell Book and Candle (1958)
+DTSTART;TZID=America/Los_Angeles:20241023T170000
+DTEND;TZID=America/Los_Angeles:20241023T191500
+DTSTAMP:20241024T005300Z
+UID:ci60177107-tt0051406--2024-10-23-17-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA modern-day witch likes her ne
+ ighbor but despises his fiancée\, so she enchants him to love her instead
+ .\n\nhttps://www.imdb.com/title/tt0051406/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Red Shoes (1948)
+DTSTART;TZID=America/Los_Angeles:20241023T193000
+DTEND;TZID=America/Los_Angeles:20241023T221000
+DTSTAMP:20241024T032300Z
+UID:ci60177107-tt0040725--2024-10-23-19-30
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA young ballet dancer is torn b
+ etween the man she loves and her pursuit to become a prima ballerina.\n\nh
+ ttps://www.imdb.com/title/tt0040725/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
