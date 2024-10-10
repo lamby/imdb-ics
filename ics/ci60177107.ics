@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241008T151041Z
+LAST-MODIFIED:20241010T152344Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Strangers (2008)
-DTSTART;TZID=America/Los_Angeles:20241009T170000
-DTEND;TZID=America/Los_Angeles:20241009T185500
-DTSTAMP:20241010T005300Z
-UID:ci60177107-tt0482606--2024-10-9-17-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nJames Hoyt and Kristen McKay vis
- it an isolated vacation home to enjoy some time together. However\, they a
- re in for a rude surprise when three masked assailants make their stay a n
- ightmare.\n\nhttps://www.imdb.com/title/tt0482606/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Forest Hills
 DTSTART;TZID=America/Los_Angeles:20241011T180000
@@ -25,7 +12,7 @@ DTSTAMP:20241012T015300Z
 UID:ci60177107-tt19816664--2024-10-11-18-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.5
+ e/tt19816664/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -37,7 +24,7 @@ DTSTAMP:20241012T035300Z
 UID:ci60177107-tt19816664--2024-10-11-20-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.5
+ e/tt19816664/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -74,7 +61,7 @@ DTSTAMP:20241012T205300Z
 UID:ci60177107-tt19816664--2024-10-12-13-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.5
+ e/tt19816664/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -86,7 +73,7 @@ DTSTAMP:20241012T225300Z
 UID:ci60177107-tt19816664--2024-10-12-15-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.5
+ e/tt19816664/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -110,7 +97,7 @@ DTSTAMP:20241013T205300Z
 UID:ci60177107-tt19816664--2024-10-13-13-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.5
+ e/tt19816664/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -122,7 +109,7 @@ DTSTAMP:20241013T225300Z
 UID:ci60177107-tt19816664--2024-10-13-15-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.5
+ e/tt19816664/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -229,6 +216,19 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nTwenty years after a fatal incid
  r. Unbeknownst to them\, real deaths occur amid the haunted house thrills 
  as they're hunted and trapped inside.\n\nhttps://www.imdb.com/title/tt0150
  855/\n\nIMDb rating: 4.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Living Dead (1968)
+DTSTART;TZID=America/Los_Angeles:20241017T194500
+DTEND;TZID=America/Los_Angeles:20241017T215000
+DTSTAMP:20241018T033800Z
+UID:ci60177107-tt0063350--2024-10-17-19-45
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA ragtag group of Pennsylvanians
+  barricade themselves in an old farmhouse to remain safe from a horde of f
+ lesh-eating ghouls that are ravaging the Northeast of the United States.\n
+ \nhttps://www.imdb.com/title/tt0063350/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -393,6 +393,44 @@ UID:ci60177107-tt0040725--2024-10-23-19-30
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nA young ballet dancer is torn b
  etween the man she loves and her pursuit to become a prima ballerina.\n\nh
  ttps://www.imdb.com/title/tt0040725/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suffer Little Children (1983)
+DTSTART;TZID=America/Los_Angeles:20241024T180000
+DTEND;TZID=America/Los_Angeles:20241024T194000
+DTSTAMP:20241025T015300Z
+UID:ci60177107-tt0457148--2024-10-24-18-0
+DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA mute child arrives at a childr
+ en's home and starts terrorizing the other children with her demonic power
+ s.\n\nhttps://www.imdb.com/title/tt0457148/\n\nIMDb rating: 4.5
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween (1978)
+DTSTART;TZID=America/Los_Angeles:20241025T200000
+DTEND;TZID=America/Los_Angeles:20241025T220000
+DTSTAMP:20241026T035300Z
+UID:ci60177107-tt0077651--2024-10-25-20-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFifteen years after murdering hi
+ s sister on Halloween night 1963\, Michael Myers escapes from a mental hos
+ pital and returns to the small town of Haddonfield\, Illinois to kill agai
+ n.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opera (1987)
+DTSTART;TZID=America/Los_Angeles:20241025T171500
+DTEND;TZID=America/Los_Angeles:20241025T193000
+DTSTAMP:20241026T010800Z
+UID:ci60177107-tt0093677--2024-10-25-17-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
+  by a deranged fan bent on killing the people associated with her to claim
+  her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
+  6.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
