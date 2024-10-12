@@ -1,21 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241010T152502Z
+LAST-MODIFIED:20241012T155635Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Star Wars: Episode V - The Empire Strikes Back (1980)
-DTSTART;TZID=America/Los_Angeles:20241010T200000
-DTEND;TZID=America/Los_Angeles:20241010T223000
-DTSTAMP:20241011T035300Z
-UID:ci0015312-tt0080684--2024-10-10-20-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nAfter the Empire overpowers the
-  Rebel Alliance\, Luke Skywalker begins his Jedi training with Yoda. At th
- e same time\, Darth Vader and bounty hunter Boba Fett pursue his friends a
- cross the galaxy.\n\nhttps://www.imdb.com/title/tt0080684/\n\nIMDb rating:
-  8.7
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR

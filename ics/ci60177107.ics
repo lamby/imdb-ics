@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241010T152344Z
+LAST-MODIFIED:20241012T155518Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Forest Hills
-DTSTART;TZID=America/Los_Angeles:20241011T180000
-DTEND;TZID=America/Los_Angeles:20241011T195000
-DTSTAMP:20241012T015300Z
-UID:ci60177107-tt19816664--2024-10-11-18-0
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
- cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forest Hills
-DTSTART;TZID=America/Los_Angeles:20241011T200000
-DTEND;TZID=America/Los_Angeles:20241011T215000
-DTSTAMP:20241012T035300Z
-UID:ci60177107-tt19816664--2024-10-11-20-0
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
- cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night of the Living Dead (1968)
 DTSTART;TZID=America/Los_Angeles:20241012T193000
@@ -61,7 +37,7 @@ DTSTAMP:20241012T205300Z
 UID:ci60177107-tt19816664--2024-10-12-13-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.4
+ e/tt19816664/\n\nIMDb rating: 6.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -73,7 +49,7 @@ DTSTAMP:20241012T225300Z
 UID:ci60177107-tt19816664--2024-10-12-15-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.4
+ e/tt19816664/\n\nIMDb rating: 6.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -97,7 +73,7 @@ DTSTAMP:20241013T205300Z
 UID:ci60177107-tt19816664--2024-10-13-13-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.4
+ e/tt19816664/\n\nIMDb rating: 6.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -109,7 +85,7 @@ DTSTAMP:20241013T225300Z
 UID:ci60177107-tt19816664--2024-10-13-15-0
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
  cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.4
+ e/tt19816664/\n\nIMDb rating: 6.3
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -431,6 +407,83 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
   by a deranged fan bent on killing the people associated with her to claim
   her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
   6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christine (1983)
+DTSTART;TZID=America/Los_Angeles:20241026T200000
+DTEND;TZID=America/Los_Angeles:20241026T221500
+DTSTAMP:20241027T035300Z
+UID:ci60177107-tt0085333--2024-10-26-20-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA nerdish boy buys a strange ca
+ r with an evil mind of its own and his nature starts to change to reflect 
+ it.\n\nhttps://www.imdb.com/title/tt0085333/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dunwich Horror (1970)
+DTSTART;TZID=America/Los_Angeles:20241026T150000
+DTEND;TZID=America/Los_Angeles:20241026T165500
+DTSTAMP:20241026T225300Z
+UID:ci60177107-tt0065669--2024-10-26-15-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nWilbur Whateley travels to the A
+ rkham Miskatonic University to borrow the legendary Necronomicon. But\, li
+ ttle does anyone know\, Whateley isn't quite human...\n\nhttps://www.imdb.
+ com/title/tt0065669/\n\nIMDb rating: 5.4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Strangers (2008)
+DTSTART;TZID=America/Los_Angeles:20241026T173000
+DTEND;TZID=America/Los_Angeles:20241026T192500
+DTSTAMP:20241027T012300Z
+UID:ci60177107-tt0482606--2024-10-26-17-30
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nJames Hoyt and Kristen McKay vis
+ it an isolated vacation home to enjoy some time together. However\, they a
+ re in for a rude surprise when three masked assailants make their stay a n
+ ightmare.\n\nhttps://www.imdb.com/title/tt0482606/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christine (1983)
+DTSTART;TZID=America/Los_Angeles:20241027T161500
+DTEND;TZID=America/Los_Angeles:20241027T183000
+DTSTAMP:20241028T000800Z
+UID:ci60177107-tt0085333--2024-10-27-16-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA nerdish boy buys a strange ca
+ r with an evil mind of its own and his nature starts to change to reflect 
+ it.\n\nhttps://www.imdb.com/title/tt0085333/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween (1978)
+DTSTART;TZID=America/Los_Angeles:20241027T134500
+DTEND;TZID=America/Los_Angeles:20241027T154500
+DTSTAMP:20241027T213800Z
+UID:ci60177107-tt0077651--2024-10-27-13-45
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFifteen years after murdering hi
+ s sister on Halloween night 1963\, Michael Myers escapes from a mental hos
+ pital and returns to the small town of Haddonfield\, Illinois to kill agai
+ n.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The People Under the Stairs (1991)
+DTSTART;TZID=America/Los_Angeles:20241027T190000
+DTEND;TZID=America/Los_Angeles:20241027T211000
+DTSTAMP:20241028T025300Z
+UID:ci60177107-tt0105121--2024-10-27-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen Fool breaks into the home 
+ of his family's landlords\, he discovers that they have mutilated several 
+ boys and kept them imprisoned under stairs. As Fool attempts to flee\, he 
+ meets their daughter\, Alice. Can Fool and Alice escape?\n\nhttps://www.im
+ db.com/title/tt0105121/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
