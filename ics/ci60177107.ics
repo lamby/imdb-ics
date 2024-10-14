@@ -1,59 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241013T151954Z
+LAST-MODIFIED:20241014T140755Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Eyes Without a Face (1960)
-DTSTART;TZID=America/Los_Angeles:20241013T171500
-DTEND;TZID=America/Los_Angeles:20241013T191000
-DTSTAMP:20241014T010800Z
-UID:ci60177107-tt0053459--2024-10-13-17-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA surgeon causes an accident whi
- ch leaves his daughter disfigured and goes to extreme lengths to give her 
- a new face.\n\nhttps://www.imdb.com/title/tt0053459/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forest Hills
-DTSTART;TZID=America/Los_Angeles:20241013T130000
-DTEND;TZID=America/Los_Angeles:20241013T145000
-DTSTAMP:20241013T205300Z
-UID:ci60177107-tt19816664--2024-10-13-13-0
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
- cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Forest Hills
-DTSTART;TZID=America/Los_Angeles:20241013T150000
-DTEND;TZID=America/Los_Angeles:20241013T165000
-DTSTAMP:20241013T225300Z
-UID:ci60177107-tt19816664--2024-10-13-15-0
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nHaunted by nightmares\, Rico des
- cends into madness in the Catskill Mountains.\n\nhttps://www.imdb.com/titl
- e/tt19816664/\n\nIMDb rating: 6.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Texas Chain Saw Massacre (1974)
-DTSTART;TZID=America/Los_Angeles:20241013T193000
-DTEND;TZID=America/Los_Angeles:20241013T212000
-DTSTAMP:20241014T032300Z
-UID:ci60177107-tt0072271--2024-10-13-19-30
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
- exas to visit the grave of a grandfather. On the way they stumble across w
- hat appears to be a deserted house\, only to discover something sinister w
- ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
- 72271/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rockula (1990)
 DTSTART;TZID=America/Los_Angeles:20241014T193000
