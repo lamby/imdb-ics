@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241014T140755Z
+LAST-MODIFIED:20241015T132134Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Rockula (1990)
-DTSTART;TZID=America/Los_Angeles:20241014T193000
-DTEND;TZID=America/Los_Angeles:20241014T213000
-DTSTAMP:20241015T032300Z
-UID:ci60177107-tt0100506--2024-10-14-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young vampire cannot lose his 
- virginity because of a curse imposed upon him centuries ago.\n\nhttps://ww
- w.imdb.com/title/tt0100506/\n\nIMDb rating: 5.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dunwich Horror (1970)
-DTSTART;TZID=America/Los_Angeles:20241014T171500
-DTEND;TZID=America/Los_Angeles:20241014T191000
-DTSTAMP:20241015T010800Z
-UID:ci60177107-tt0065669--2024-10-14-17-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nWilbur Whateley travels to the A
- rkham Miskatonic University to borrow the legendary Necronomicon. But\, li
- ttle does anyone know\, Whateley isn't quite human...\n\nhttps://www.imdb.
- com/title/tt0065669/\n\nIMDb rating: 5.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border (2018)
 DTSTART;TZID=America/Los_Angeles:20241015T193000
@@ -412,6 +387,18 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
   by a deranged fan bent on killing the people associated with her to claim
   her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
   6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Eagle (1962)
+DTSTART;TZID=America/Los_Angeles:20241030T170000
+DTEND;TZID=America/Los_Angeles:20241030T185500
+DTSTAMP:20241031T005300Z
+UID:ci60177107-tt0056279--2024-10-30-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA woman who may be a witch defen
+ ds her husband from forces attempting to harm him.\n\nhttps://www.imdb.com
+ /title/tt0056279/\n\nIMDb rating: 6.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT

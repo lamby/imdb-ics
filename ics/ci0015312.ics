@@ -1,7 +1,83 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241014T140913Z
+LAST-MODIFIED:20241015T132252Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
+BEGIN:VEVENT
+SUMMARY:Frankenweenie (2012)
+DTSTART;TZID=America/Los_Angeles:20241015T190000
+DTEND;TZID=America/Los_Angeles:20241015T205500
+DTSTAMP:20241016T025300Z
+UID:ci0015312-tt1142977--2024-10-15-19-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nWhen a boy's beloved dog passes 
+ away suddenly\, he attempts to bring the animal back to life through a pow
+ erful science experiment.\n\nhttps://www.imdb.com/title/tt1142977/\n\nIMDb
+  rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House (1977)
+DTSTART;TZID=America/Los_Angeles:20241015T160000
+DTEND;TZID=America/Los_Angeles:20241015T175500
+DTSTAMP:20241015T235300Z
+UID:ci0015312-tt0076162--2024-10-15-16-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA schoolgirl and six of her clas
+ smates travel to her aunt's country home\, which turns out to be haunted.\
+ n\nhttps://www.imdb.com/title/tt0076162/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House (1977)
+DTSTART;TZID=America/Los_Angeles:20241015T213000
+DTEND;TZID=America/Los_Angeles:20241015T232500
+DTSTAMP:20241016T052300Z
+UID:ci0015312-tt0076162--2024-10-15-21-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA schoolgirl and six of her clas
+ smates travel to her aunt's country home\, which turns out to be haunted.\
+ n\nhttps://www.imdb.com/title/tt0076162/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House (1977)
+DTSTART;TZID=America/Los_Angeles:20241016T160000
+DTEND;TZID=America/Los_Angeles:20241016T175500
+DTSTAMP:20241016T235300Z
+UID:ci0015312-tt0076162--2024-10-16-16-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nA schoolgirl and six of her clas
+ smates travel to her aunt's country home\, which turns out to be haunted.\
+ n\nhttps://www.imdb.com/title/tt0076162/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art on Film\, Program 3: Form (1992)
+DTSTART;TZID=America/Los_Angeles:20241017T170000
+DTEND;TZID=America/Los_Angeles:20241017T182000
+DTSTAMP:20241018T005300Z
+UID:ci0015312-tt3773736--2024-10-17-17-0
+DESCRIPTION:Duration: 0h 52m (52 mins)\n\nThe Program for Art on Film was 
+ a joint venture of The Metropolitan Museum of Art and the J. Paul Getty Tr
+ ust. It was established in 1984 to foster new ways of thinking about the r
+ elationship between art and moving-image media. Be...\n\nhttps://www.imdb.
+ com/title/tt3773736/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween III: Season of the Witch (1982)
+DTSTART;TZID=America/Los_Angeles:20241017T200000
+DTEND;TZID=America/Los_Angeles:20241017T220500
+DTSTAMP:20241018T035300Z
+UID:ci0015312-tt0085636--2024-10-17-20-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nKids all over America want Silve
+ r Shamrock masks for Halloween. Doctor Daniel Challis seeks to uncover a p
+ lot by Silver Shamrock owner Conal Cochran.\n\nhttps://www.imdb.com/title/
+ tt0085636/\n\nIMDb rating: 5.2
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
 END:VCALENDAR

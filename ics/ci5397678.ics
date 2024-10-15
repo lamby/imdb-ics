@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241014T140832Z
+LAST-MODIFIED:20241015T132210Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=America/Los_Angeles:20241014T160000
-DTEND;TZID=America/Los_Angeles:20241014T184500
-DTSTAMP:20241014T235300Z
-UID:ci5397678-tt11315808--2024-10-14-16-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=America/Los_Angeles:20241014T193000
-DTEND;TZID=America/Los_Angeles:20241014T221500
-DTSTAMP:20241015T032300Z
-UID:ci5397678-tt11315808--2024-10-14-19-30
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joker: Folie à Deux
 DTSTART;TZID=America/Los_Angeles:20241015T193000
@@ -450,6 +424,19 @@ DTSTART;TZID=America/Los_Angeles:20241029T193000
 DTEND;TZID=America/Los_Angeles:20241029T215500
 DTSTAMP:20241030T032300Z
 UID:ci5397678-tt0460791--2024-10-29-19-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
+ den patient in a hospital captivates a young girl with a fantastic tale of
+  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
+ /title/tt0460791/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fall (2006)
+DTSTART;TZID=America/Los_Angeles:20241030T161500
+DTEND;TZID=America/Los_Angeles:20241030T184000
+DTSTAMP:20241031T000800Z
+UID:ci5397678-tt0460791--2024-10-30-16-15
 DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
  den patient in a hospital captivates a young girl with a fantastic tale of
   heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com

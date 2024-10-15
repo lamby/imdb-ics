@@ -1,92 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241014T140746Z
+LAST-MODIFIED:20241015T132125Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:All Shall Be Well
-DTSTART;TZID=America/Los_Angeles:20241014T193000
-DTEND;TZID=America/Los_Angeles:20241014T213000
-DTSTAMP:20241015T032300Z
-UID:ci16639653-tt30439035--2024-10-14-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAngie and Pat have been together
-  for over four decades but after Pat's unexpected death\, Angie finds hers
- elf at the mercy of Pat's family as she struggles to retain her dignity an
- d the home that both had shared for over thirty years.\n\nhttps://www.imdb
- .com/title/tt30439035/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Night
-DTSTART;TZID=America/Los_Angeles:20241014T161500
-DTEND;TZID=America/Los_Angeles:20241014T183000
-DTSTAMP:20241015T000800Z
-UID:ci16639653-tt27657135--2024-10-14-16-15
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
- 75\, a ferocious troupe of young comedians and writers changed television 
- forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Night
-DTSTART;TZID=America/Los_Angeles:20241014T190000
-DTEND;TZID=America/Los_Angeles:20241014T211500
-DTSTAMP:20241015T025300Z
-UID:ci16639653-tt27657135--2024-10-14-19-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
- 75\, a ferocious troupe of young comedians and writers changed television 
- forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20241014T160000
-DTEND;TZID=America/Los_Angeles:20241014T185000
-DTSTAMP:20241014T235300Z
-UID:ci16639653-tt17526714--2024-10-14-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=America/Los_Angeles:20241014T163000
-DTEND;TZID=America/Los_Angeles:20241014T184000
-DTSTAMP:20241015T002300Z
-UID:ci16639653-tt29623480--2024-10-14-16-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=America/Los_Angeles:20241014T191500
-DTEND;TZID=America/Los_Angeles:20241014T212500
-DTSTAMP:20241015T030800Z
-UID:ci16639653-tt29623480--2024-10-14-19-15
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Shall Be Well
 DTSTART;TZID=America/Los_Angeles:20241015T160000
@@ -718,6 +635,20 @@ DTSTART;TZID=America/Los_Angeles:20241029T190000
 DTEND;TZID=America/Los_Angeles:20241029T212500
 DTSTAMP:20241030T025300Z
 UID:ci16639653-tt20215234--2024-10-29-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241030T160000
+DTEND;TZID=America/Los_Angeles:20241030T182500
+DTSTAMP:20241030T235300Z
+UID:ci16639653-tt20215234--2024-10-30-16-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
