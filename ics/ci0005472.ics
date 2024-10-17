@@ -1,61 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241015T131936Z
+LAST-MODIFIED:20241017T141813Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Frankie Freako
-DTSTART;TZID=America/Los_Angeles:20241015T190000
-DTEND;TZID=America/Los_Angeles:20241015T205000
-DTSTAMP:20241016T025300Z
-UID:ci0005472-tt32203531--2024-10-15-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
-  existential rut until one night he catches a bizarre ad for a party hotli
- ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
- the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 6.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vampire's Kiss (1988)
-DTSTART;TZID=America/Los_Angeles:20241015T211500
-DTEND;TZID=America/Los_Angeles:20241015T232500
-DTSTAMP:20241016T050800Z
-UID:ci0005472-tt0098577--2024-10-15-21-15
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAfter an encounter with a neck-
- biter\, a publishing executive thinks that he's turning into a vampire.\n\
- nhttps://www.imdb.com/title/tt0098577/\n\nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankie Freako
-DTSTART;TZID=America/Los_Angeles:20241016T213000
-DTEND;TZID=America/Los_Angeles:20241016T232000
-DTSTAMP:20241017T052300Z
-UID:ci0005472-tt32203531--2024-10-16-21-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
-  existential rut until one night he catches a bizarre ad for a party hotli
- ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
- the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 6.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vampire's Kiss (1988)
-DTSTART;TZID=America/Los_Angeles:20241016T190000
-DTEND;TZID=America/Los_Angeles:20241016T211000
-DTSTAMP:20241017T025300Z
-UID:ci0005472-tt0098577--2024-10-16-19-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAfter an encounter with a neck-
- biter\, a publishing executive thinks that he's turning into a vampire.\n\
- nhttps://www.imdb.com/title/tt0098577/\n\nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blade II (2002)
 DTSTART;TZID=America/Los_Angeles:20241017T190000
@@ -144,7 +92,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nNurse Unseen is a feature docume
  ntary that explores the little-known history and humanity of the unsung Fi
  lipino nurses risking their lives on the front lines of a pandemic\, thous
  ands of miles from home.\n\nhttps://www.imdb.com/title/tt15209904/\n\nIMDb
-  rating: 9.4
+  rating: 9.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -171,7 +119,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nNurse Unseen is a feature docume
  ntary that explores the little-known history and humanity of the unsung Fi
  lipino nurses risking their lives on the front lines of a pandemic\, thous
  ands of miles from home.\n\nhttps://www.imdb.com/title/tt15209904/\n\nIMDb
-  rating: 9.4
+  rating: 9.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -330,6 +278,46 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nHigh-level demons collect low-le
  vel demons as warriors in attempt to obtain a key containing the blood of 
  Christ. The key is guarded by immortal warriors called Demon Knights.\n\nh
  ttps://www.imdb.com/title/tt0114608/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hellraiser (1987)
+DTSTART;TZID=America/Los_Angeles:20241031T211500
+DTEND;TZID=America/Los_Angeles:20241031T231500
+DTSTAMP:20241101T050800Z
+UID:ci0005472-tt0093177--2024-10-31-21-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA woman discovers the newly resu
+ rrected\, partially formed\, body of her brother-in-law and lover. She sta
+ rts killing for him to revitalize his body and escape the demonic beings t
+ hat are pursuing him after he escaped their underworld.\n\nhttps://www.imd
+ b.com/title/tt0093177/\n\nIMDb rating: 6.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tales from the Crypt: Demon Knight (1995)
+DTSTART;TZID=America/Los_Angeles:20241031T190000
+DTEND;TZID=America/Los_Angeles:20241031T210000
+DTSTAMP:20241101T025300Z
+UID:ci0005472-tt0114608--2024-10-31-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nHigh-level demons collect low-le
+ vel demons as warriors in attempt to obtain a key containing the blood of 
+ Christ. The key is guarded by immortal warriors called Demon Knights.\n\nh
+ ttps://www.imdb.com/title/tt0114608/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Summers
+DTSTART;TZID=America/Los_Angeles:20241101T190000
+DTEND;TZID=America/Los_Angeles:20241101T210000
+DTSTAMP:20241102T025300Z
+UID:ci0005472-tt24805832--2024-11-1-19-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
+ ative years of their lives\, two sisters navigate their loving but volatil
+ e father during their yearly summer visits to his home in Las Cruces\, New
+  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

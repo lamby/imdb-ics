@@ -1,7 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241015T132202Z
+LAST-MODIFIED:20241017T142051Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
+BEGIN:VEVENT
+SUMMARY:Häxan (1922)
+DTSTART;TZID=America/Los_Angeles:20241018T190000
+DTEND;TZID=America/Los_Angeles:20241018T210000
+DTSTAMP:20241019T025300Z
+UID:ci16639652-tt0013257--2024-10-18-19-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFictionalized documentary showin
+ g the evolution of witchcraft\, from its pagan roots to its confusion with
+  hysteria in Eastern Europe.\n\nhttps://www.imdb.com/title/tt0013257/\n\nI
+ MDb rating: 7.6
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
 END:VCALENDAR

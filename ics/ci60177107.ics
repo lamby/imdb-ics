@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241015T132134Z
+LAST-MODIFIED:20241017T142023Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Border (2018)
-DTSTART;TZID=America/Los_Angeles:20241015T193000
-DTEND;TZID=America/Los_Angeles:20241015T214500
-DTSTAMP:20241016T032300Z
-UID:ci60177107-tt5501104--2024-10-15-19-30
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA customs officer who can smell
-  fear develops an unusual attraction to a strange traveler while aiding a 
- police investigation which will call into question her entire existence.\n
- \nhttps://www.imdb.com/title/tt5501104/\n\nIMDb rating: 7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night of the Eagle (1962)
-DTSTART;TZID=America/Los_Angeles:20241015T171500
-DTEND;TZID=America/Los_Angeles:20241015T191000
-DTSTAMP:20241016T010800Z
-UID:ci60177107-tt0056279--2024-10-15-17-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA woman who may be a witch defen
- ds her husband from forces attempting to harm him.\n\nhttps://www.imdb.com
- /title/tt0056279/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Narcissus (1947)
-DTSTART;TZID=America/Los_Angeles:20241016T193000
-DTEND;TZID=America/Los_Angeles:20241016T214000
-DTSTAMP:20241017T032300Z
-UID:ci60177107-tt0039192--2024-10-16-19-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA group of nuns struggle to est
- ablish a convent in the Himalayas\, while isolation\, extreme weather\, al
- titude\, and culture clashes all conspire to drive the well-intentioned mi
- ssionaries mad.\n\nhttps://www.imdb.com/title/tt0039192/\n\nIMDb rating: 7
- .7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Texas Chain Saw Massacre (1974)
-DTSTART;TZID=America/Los_Angeles:20241016T171500
-DTEND;TZID=America/Los_Angeles:20241016T190500
-DTSTAMP:20241017T010800Z
-UID:ci60177107-tt0072271--2024-10-16-17-15
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nFive friends head out to rural T
- exas to visit the grave of a grandfather. On the way they stumble across w
- hat appears to be a deserted house\, only to discover something sinister w
- ithin. Something armed with a chainsaw.\n\nhttps://www.imdb.com/title/tt00
- 72271/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HauntedWeen (1991)
 DTSTART;TZID=America/Los_Angeles:20241017T173000
@@ -212,6 +159,17 @@ LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Borderland: The Line Within
+DTSTART;TZID=America/Los_Angeles:20241022T190000
+DTEND;TZID=America/Los_Angeles:20241022T212500
+DTSTAMP:20241023T025300Z
+UID:ci60177107-tt33319941--2024-10-22-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt33
+ 319941/
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Dunwich Horror (1970)
 DTSTART;TZID=America/Los_Angeles:20241022T163000
 DTEND;TZID=America/Los_Angeles:20241022T182500
@@ -249,6 +207,19 @@ LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Night of the Living Dead (1968)
+DTSTART;TZID=America/Los_Angeles:20241024T200000
+DTEND;TZID=America/Los_Angeles:20241024T220500
+DTSTAMP:20241025T035300Z
+UID:ci60177107-tt0063350--2024-10-24-20-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA ragtag group of Pennsylvanians
+  barricade themselves in an old farmhouse to remain safe from a horde of f
+ lesh-eating ghouls that are ravaging the Northeast of the United States.\n
+ \nhttps://www.imdb.com/title/tt0063350/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Suffer Little Children (1983)
 DTSTART;TZID=America/Los_Angeles:20241024T180000
 DTEND;TZID=America/Los_Angeles:20241024T194000
@@ -268,8 +239,8 @@ DTSTAMP:20241026T035300Z
 UID:ci60177107-tt0077651--2024-10-25-20-0
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFifteen years after murdering hi
  s sister on Halloween night 1963\, Michael Myers escapes from a mental hos
- pital and returns to the small town of Haddonfield\, Illinois to kill agai
- n.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
+ pital and returns to the small town of Haddonfield\, Illinois\, to kill ag
+ ain.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -344,8 +315,8 @@ DTSTAMP:20241027T213800Z
 UID:ci60177107-tt0077651--2024-10-27-13-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFifteen years after murdering hi
  s sister on Halloween night 1963\, Michael Myers escapes from a mental hos
- pital and returns to the small town of Haddonfield\, Illinois to kill agai
- n.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
+ pital and returns to the small town of Haddonfield\, Illinois\, to kill ag
+ ain.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
