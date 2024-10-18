@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241017T141813Z
+LAST-MODIFIED:20241018T133956Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blade II (2002)
-DTSTART;TZID=America/Los_Angeles:20241017T190000
-DTEND;TZID=America/Los_Angeles:20241017T212500
-DTSTAMP:20241018T025300Z
-UID:ci0005472-tt0187738--2024-10-17-19-0
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nBlade forms an uneasy alliance 
- with the vampire council in order to combat the Reapers\, who are feeding 
- on vampires.\n\nhttps://www.imdb.com/title/tt0187738/\n\nIMDb rating: 6.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankie Freako
-DTSTART;TZID=America/Los_Angeles:20241017T214500
-DTEND;TZID=America/Los_Angeles:20241017T233500
-DTSTAMP:20241018T053800Z
-UID:ci0005472-tt32203531--2024-10-17-21-45
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nWorkaholic yuppie Conor is in an
-  existential rut until one night he catches a bizarre ad for a party hotli
- ne hosted by a strange dancing goblin: Frankie Freako. Could this be just 
- the recipe to spice up his boring life?\n\nhttps://www.imdb.com/title/tt32
- 203531/\n\nIMDb rating: 6.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Masque of the Red Death (1964)
 DTSTART;TZID=America/Los_Angeles:20241018T190000
@@ -318,6 +292,46 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
  ative years of their lives\, two sisters navigate their loving but volatil
  e father during their yearly summer visits to his home in Las Cruces\, New
   Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Food and Country
+DTSTART;TZID=America/Los_Angeles:20241102T123000
+DTEND;TZID=America/Los_Angeles:20241102T143500
+DTSTAMP:20241102T202300Z
+UID:ci0005472-tt23623894--2024-11-2-12-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTrailblazing food writer Ruth R
+ eichl examines the precarious state of America's food system. A Sundance F
+ ilm Festival premiere.\n\nhttps://www.imdb.com/title/tt23623894/\n\nIMDb r
+ ating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Summers
+DTSTART;TZID=America/Los_Angeles:20241102T180000
+DTEND;TZID=America/Los_Angeles:20241102T200000
+DTSTAMP:20241103T015300Z
+UID:ci0005472-tt24805832--2024-11-2-18-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
+ ative years of their lives\, two sisters navigate their loving but volatil
+ e father during their yearly summer visits to his home in Las Cruces\, New
+  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Birthday Boy
+DTSTART;TZID=America/Los_Angeles:20241102T151500
+DTEND;TZID=America/Los_Angeles:20241102T174000
+DTSTAMP:20241102T230800Z
+UID:ci0005472-tt32566980--2024-11-2-15-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
+ oad to pursue higher education. While celebrating one of their friend's bi
+ rthday\, an incident happens which turns their lives upside down. The whol
+ e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
+ b.com/title/tt32566980/\n\nIMDb rating: 9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

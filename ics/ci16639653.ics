@@ -1,91 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241017T142013Z
+LAST-MODIFIED:20241018T134144Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:All Shall Be Well
-DTSTART;TZID=America/Los_Angeles:20241017T193000
-DTEND;TZID=America/Los_Angeles:20241017T213000
-DTSTAMP:20241018T032300Z
-UID:ci16639653-tt30439035--2024-10-17-19-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nAngie and Pat have been together
-  for over four decades but after Pat's unexpected death\, Angie finds hers
- elf at the mercy of Pat's family as she struggles to retain her dignity an
- d the home that both had shared for over thirty years.\n\nhttps://www.imdb
- .com/title/tt30439035/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Night
-DTSTART;TZID=America/Los_Angeles:20241017T161500
-DTEND;TZID=America/Los_Angeles:20241017T183000
-DTSTAMP:20241018T000800Z
-UID:ci16639653-tt27657135--2024-10-17-16-15
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
- 75\, a ferocious troupe of young comedians and writers changed television 
- forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Night
-DTSTART;TZID=America/Los_Angeles:20241017T190000
-DTEND;TZID=America/Los_Angeles:20241017T211500
-DTSTAMP:20241018T025300Z
-UID:ci16639653-tt27657135--2024-10-17-19-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
- 75\, a ferocious troupe of young comedians and writers changed television 
- forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20241017T160000
-DTEND;TZID=America/Los_Angeles:20241017T185000
-DTSTAMP:20241017T235300Z
-UID:ci16639653-tt17526714--2024-10-17-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=America/Los_Angeles:20241017T163000
-DTEND;TZID=America/Los_Angeles:20241017T184000
-DTSTAMP:20241018T002300Z
-UID:ci16639653-tt29623480--2024-10-17-16-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=America/Los_Angeles:20241017T191500
-DTEND;TZID=America/Los_Angeles:20241017T213000
-DTSTAMP:20241018T030800Z
-UID:ci16639653-tt27131358--2024-10-17-19-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn up-and-coming chef and a rec
- ent divorcée find their lives forever changed when a chance encounter bri
- ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
- ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday Night
 DTSTART;TZID=America/Los_Angeles:20241018T161500
@@ -95,8 +13,8 @@ UID:ci16639653-tt27657135--2024-10-18-16-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -109,8 +27,8 @@ UID:ci16639653-tt27657135--2024-10-18-19-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -149,8 +67,8 @@ UID:ci16639653-tt27657135--2024-10-19-13-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -163,8 +81,8 @@ UID:ci16639653-tt27657135--2024-10-19-16-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -177,8 +95,8 @@ UID:ci16639653-tt27657135--2024-10-19-19-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -230,8 +148,8 @@ UID:ci16639653-tt27657135--2024-10-20-13-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -244,8 +162,8 @@ UID:ci16639653-tt27657135--2024-10-20-16-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -258,8 +176,8 @@ UID:ci16639653-tt27657135--2024-10-20-19-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -324,8 +242,8 @@ UID:ci16639653-tt27657135--2024-10-21-16-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -338,8 +256,8 @@ UID:ci16639653-tt27657135--2024-10-21-19-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -391,8 +309,8 @@ UID:ci16639653-tt27657135--2024-10-22-16-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -405,8 +323,8 @@ UID:ci16639653-tt27657135--2024-10-22-19-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -445,8 +363,8 @@ UID:ci16639653-tt27657135--2024-10-23-16-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -459,8 +377,8 @@ UID:ci16639653-tt27657135--2024-10-23-19-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -513,8 +431,8 @@ UID:ci16639653-tt27657135--2024-10-24-16-15
 DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAt 11:30pm on October 11th\, 19
  75\, a ferocious troupe of young comedians and writers changed television 
  forever. Find out what happened behind the scenes in the 90 minutes leadin
- g up to the first broadcast of Saturday Night Live.\n\nhttps://www.imdb.co
- m/title/tt27657135/\n\nIMDb rating: 7.4
+ g up to the first broadcast of Saturday Night Live (1...\n\nhttps://www.im
+ db.com/title/tt27657135/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -774,6 +692,48 @@ DTSTART;TZID=America/Los_Angeles:20241101T184500
 DTEND;TZID=America/Los_Angeles:20241101T213000
 DTSTAMP:20241102T023800Z
 UID:ci16639653-tt28607951--2024-11-1-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as the parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241102T124500
+DTEND;TZID=America/Los_Angeles:20241102T153000
+DTSTAMP:20241102T203800Z
+UID:ci16639653-tt28607951--2024-11-2-12-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as the parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241102T154500
+DTEND;TZID=America/Los_Angeles:20241102T183000
+DTSTAMP:20241102T233800Z
+UID:ci16639653-tt28607951--2024-11-2-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as the parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241102T184500
+DTEND;TZID=America/Los_Angeles:20241102T213000
+DTSTAMP:20241103T023800Z
+UID:ci16639653-tt28607951--2024-11-2-18-45
 DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
   news reaches Russia\, her fairytale is threatened as the parents set out 

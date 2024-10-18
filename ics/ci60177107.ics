@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241017T142023Z
+LAST-MODIFIED:20241018T134152Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:HauntedWeen (1991)
-DTSTART;TZID=America/Los_Angeles:20241017T173000
-DTEND;TZID=America/Los_Angeles:20241017T192500
-DTSTAMP:20241018T012300Z
-UID:ci60177107-tt0150855--2024-10-17-17-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nTwenty years after a fatal incid
- ent\, Eddie Burber's old home\, now haunted\, hosts a fraternity fundraise
- r. Unbeknownst to them\, real deaths occur amid the haunted house thrills 
- as they're hunted and trapped inside.\n\nhttps://www.imdb.com/title/tt0150
- 855/\n\nIMDb rating: 4.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night of the Living Dead (1968)
-DTSTART;TZID=America/Los_Angeles:20241017T194500
-DTEND;TZID=America/Los_Angeles:20241017T215000
-DTSTAMP:20241018T033800Z
-UID:ci60177107-tt0063350--2024-10-17-19-45
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA ragtag group of Pennsylvanians
-  barricade themselves in an old farmhouse to remain safe from a horde of f
- lesh-eating ghouls that are ravaging the Northeast of the United States.\n
- \nhttps://www.imdb.com/title/tt0063350/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Suffer Little Children (1983)
 DTSTART;TZID=America/Los_Angeles:20241018T174500

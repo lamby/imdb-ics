@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241017T142100Z
+LAST-MODIFIED:20241018T134229Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=America/Los_Angeles:20241017T160000
-DTEND;TZID=America/Los_Angeles:20241017T184500
-DTSTAMP:20241017T235300Z
-UID:ci5397678-tt11315808--2024-10-17-16-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=America/Los_Angeles:20241017T193000
-DTEND;TZID=America/Los_Angeles:20241017T221500
-DTSTAMP:20241018T032300Z
-UID:ci5397678-tt11315808--2024-10-17-19-30
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris\, Texas (1984)
 DTSTART;TZID=America/Los_Angeles:20241018T191500
@@ -454,6 +428,46 @@ DESCRIPTION:Duration: 2h 04m (124 mins)\n\nDuring her family's move to the
   suburbs\, a sullen 10-year-old girl wanders into a world ruled by gods\, 
  witches and spirits\, and where humans are changed into beasts.\n\nhttps:/
  /www.imdb.com/title/tt0245429/\n\nIMDb rating: 8.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle in the Sky (1986)
+DTSTART;TZID=America/Los_Angeles:20241102T153000
+DTEND;TZID=America/Los_Angeles:20241102T180000
+DTSTAMP:20241102T232300Z
+UID:ci5397678-tt0092067--2024-11-2-15-30
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nPazu's life changes when he mee
+ ts Sheeta\, a girl whom pirates are chasing for her crystal amulet\, which
+  has the potential to locate Laputa\, a legendary castle floating in the s
+ ky.\n\nhttps://www.imdb.com/title/tt0092067/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ponyo (2008)
+DTSTART;TZID=America/Los_Angeles:20241102T123000
+DTEND;TZID=America/Los_Angeles:20241102T144000
+DTSTAMP:20241102T202300Z
+UID:ci5397678-tt0876563--2024-11-2-12-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA five-year-old boy develops a 
+ relationship with Ponyo\, a young goldfish princess who longs to become a 
+ human after falling in love with him.\n\nhttps://www.imdb.com/title/tt0876
+ 563/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wind Rises (2013)
+DTSTART;TZID=America/Los_Angeles:20241102T190000
+DTEND;TZID=America/Los_Angeles:20241102T213500
+DTSTAMP:20241103T025300Z
+UID:ci5397678-tt2013293--2024-11-2-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
+ sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
+ s\, fighter aircraft designed by him end up getting used by the Japanese E
+ mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
+ ating: 7.8
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
