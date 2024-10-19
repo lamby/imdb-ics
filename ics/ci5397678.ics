@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241018T134229Z
+LAST-MODIFIED:20241019T150237Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Paris\, Texas (1984)
-DTSTART;TZID=America/Los_Angeles:20241018T191500
-DTEND;TZID=America/Los_Angeles:20241018T220500
-DTSTAMP:20241019T030800Z
-UID:ci5397678-tt0087884--2024-10-18-19-15
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
- rifter who has been missing for four years\, wanders out of the desert and
-  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
- ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wings of Desire (1987)
-DTSTART;TZID=America/Los_Angeles:20241018T123000
-DTEND;TZID=America/Los_Angeles:20241018T150500
-DTSTAMP:20241018T202300Z
-UID:ci5397678-tt0093191--2024-10-18-12-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nAn angel tires of his purely et
- hereal life of merely overseeing the human activity of Berlin's residents\
- , and longs for the tangible joys of physical existence when he falls in l
- ove with a mortal.\n\nhttps://www.imdb.com/title/tt0093191/\n\nIMDb rating
- : 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wings of Desire (1987)
-DTSTART;TZID=America/Los_Angeles:20241018T154500
-DTEND;TZID=America/Los_Angeles:20241018T182000
-DTSTAMP:20241018T233800Z
-UID:ci5397678-tt0093191--2024-10-18-15-45
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nAn angel tires of his purely et
- hereal life of merely overseeing the human activity of Berlin's residents\
- , and longs for the tangible joys of physical existence when he falls in l
- ove with a mortal.\n\nhttps://www.imdb.com/title/tt0093191/\n\nIMDb rating
- : 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris\, Texas (1984)
 DTSTART;TZID=America/Los_Angeles:20241019T154500
@@ -468,6 +427,47 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
  s\, fighter aircraft designed by him end up getting used by the Japanese E
  mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
  ating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20241103T123000
+DTEND;TZID=America/Los_Angeles:20241103T142500
+DTSTAMP:20241103T202300Z
+UID:ci5397678-tt0096283--2024-11-3-12-30
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princess Mononoke (1997)
+DTSTART;TZID=America/Los_Angeles:20241103T180000
+DTEND;TZID=America/Los_Angeles:20241103T204000
+DTSTAMP:20241104T015300Z
+UID:ci5397678-tt0119698--2024-11-3-18-0
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nOn a journey to find the cure f
+ or a Tatarigami's curse\, Ashitaka finds himself in the middle of a war be
+ tween the forest gods and Tatara\, a mining colony. In this quest he also 
+ meets San\, the Mononoke Hime.\n\nhttps://www.imdb.com/title/tt0119698/\n\
+ nIMDb rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cat Returns (2002)
+DTSTART;TZID=America/Los_Angeles:20241103T153000
+DTEND;TZID=America/Los_Angeles:20241103T171000
+DTSTAMP:20241103T232300Z
+UID:ci5397678-tt0347618--2024-11-3-15-30
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nAfter helping a cat\, a seventee
+ n-year-old girl finds herself involuntarily engaged to a cat Prince in a m
+ agical world where her only hope of freedom lies with a dapper cat statuet
+ te come to life.\n\nhttps://www.imdb.com/title/tt0347618/\n\nIMDb rating: 
+ 7.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

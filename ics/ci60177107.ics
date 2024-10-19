@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241018T134152Z
+LAST-MODIFIED:20241019T150158Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Suffer Little Children (1983)
-DTSTART;TZID=America/Los_Angeles:20241018T174500
-DTEND;TZID=America/Los_Angeles:20241018T192500
-DTSTAMP:20241019T013800Z
-UID:ci60177107-tt0457148--2024-10-18-17-45
-DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA mute child arrives at a childr
- en's home and starts terrorizing the other children with her demonic power
- s.\n\nhttps://www.imdb.com/title/tt0457148/\n\nIMDb rating: 4.5
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opera (1987)
-DTSTART;TZID=America/Los_Angeles:20241018T194500
-DTEND;TZID=America/Los_Angeles:20241018T220000
-DTSTAMP:20241019T033800Z
-UID:ci60177107-tt0093677--2024-10-18-19-45
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
-  by a deranged fan bent on killing the people associated with her to claim
-  her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
-  6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Border (2018)
 DTSTART;TZID=America/Los_Angeles:20241019T144500

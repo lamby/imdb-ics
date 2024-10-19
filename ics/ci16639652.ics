@@ -1,19 +1,43 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241018T134220Z
+LAST-MODIFIED:20241019T150226Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
-SUMMARY:Häxan (1922)
-DTSTART;TZID=America/Los_Angeles:20241018T190000
-DTEND;TZID=America/Los_Angeles:20241018T210000
-DTSTAMP:20241019T025300Z
-UID:ci16639652-tt0013257--2024-10-18-19-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFictionalized documentary showin
- g the evolution of witchcraft\, from its pagan roots to its confusion with
-  hysteria in Eastern Europe.\n\nhttps://www.imdb.com/title/tt0013257/\n\nI
- MDb rating: 7.6
+SUMMARY:The Blair Witch Project (1999)
+DTSTART;TZID=America/Los_Angeles:20241019T100000
+DTEND;TZID=America/Los_Angeles:20241019T115000
+DTSTAMP:20241019T175300Z
+UID:ci16639652-tt0185937--2024-10-19-10-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nThree film students vanish after
+  traveling into a Maryland forest to film a documentary on the local Blair
+  Witch legend\, leaving only their footage behind.\n\nhttps://www.imdb.com
+ /title/tt0185937/\n\nIMDb rating: 6.5
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Devil
+DTSTART;TZID=America/Los_Angeles:20241023T190000
+DTEND;TZID=America/Los_Angeles:20241023T215000
+DTSTAMP:20241024T025300Z
+UID:ci16639652-tt14989988--2024-10-23-19-0
+DESCRIPTION:Duration: 2h 24m (144 mins)\n\nIt follows a British secret age
+ nt who takes up the job of solving a dark mystery. He is led into a web of
+  love\, deceit and betrayal. His success and failure can change the course
+  of history.\n\nhttps://www.imdb.com/title/tt14989988/\n\nIMDb rating: 6.5
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 48 Hour Film Project (2021)
+DTSTART;TZID=America/Los_Angeles:20241024T190000
+DTEND;TZID=America/Los_Angeles:20241024T212500
+DTSTAMP:20241025T025300Z
+UID:ci16639652-tt15682294--2024-10-24-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt15
+ 682294/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
