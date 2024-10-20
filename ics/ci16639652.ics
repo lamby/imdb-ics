@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241019T150226Z
+LAST-MODIFIED:20241020T143743Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Blair Witch Project (1999)
-DTSTART;TZID=America/Los_Angeles:20241019T100000
-DTEND;TZID=America/Los_Angeles:20241019T115000
-DTSTAMP:20241019T175300Z
-UID:ci16639652-tt0185937--2024-10-19-10-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nThree film students vanish after
-  traveling into a Maryland forest to film a documentary on the local Blair
-  Witch legend\, leaving only their footage behind.\n\nhttps://www.imdb.com
- /title/tt0185937/\n\nIMDb rating: 6.5
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Devil
 DTSTART;TZID=America/Los_Angeles:20241023T190000

@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241019T145938Z
+LAST-MODIFIED:20241020T143456Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Masque of the Red Death (1964)
-DTSTART;TZID=America/Los_Angeles:20241019T180000
-DTEND;TZID=America/Los_Angeles:20241019T195500
-DTSTAMP:20241020T015300Z
-UID:ci0005472-tt0058333--2024-10-19-18-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA European prince terrorizes the
-  local peasantry while using his castle as a refuge against the &quot\;Red
-  Death&quot\; plague that stalks the land.\n\nhttps://www.imdb.com/title/t
- t0058333/\n\nIMDb rating: 6.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hundreds of Beavers (2022)
 DTSTART;TZID=America/Los_Angeles:20241020T200000
@@ -359,6 +346,19 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
  rthday\, an incident happens which turns their lives upside down. The whol
  e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
  b.com/title/tt32566980/\n\nIMDb rating: 9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Summers
+DTSTART;TZID=America/Los_Angeles:20241104T191500
+DTEND;TZID=America/Los_Angeles:20241104T211500
+DTSTAMP:20241105T030800Z
+UID:ci0005472-tt24805832--2024-11-4-19-15
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
+ ative years of their lives\, two sisters navigate their loving but volatil
+ e father during their yearly summer visits to his home in Las Cruces\, New
+  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

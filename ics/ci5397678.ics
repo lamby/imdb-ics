@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241019T150237Z
+LAST-MODIFIED:20241020T143754Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Paris\, Texas (1984)
-DTSTART;TZID=America/Los_Angeles:20241019T154500
-DTEND;TZID=America/Los_Angeles:20241019T183500
-DTSTAMP:20241019T233800Z
-UID:ci5397678-tt0087884--2024-10-19-15-45
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
- rifter who has been missing for four years\, wanders out of the desert and
-  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
- ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz (1939)
-DTSTART;TZID=America/Los_Angeles:20241019T123000
-DTEND;TZID=America/Los_Angeles:20241019T144000
-DTSTAMP:20241019T202300Z
-UID:ci5397678-tt0032138--2024-10-19-12-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nYoung Dorothy Gale and her dog 
- Toto are swept away by a tornado from their Kansas farm to the magical Lan
- d of Oz and embark on a quest with three new friends to see the Wizard\, w
- ho can return her to her home and fulfill the others...\n\nhttps://www.imd
- b.com/title/tt0032138/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wings of Desire (1987)
-DTSTART;TZID=America/Los_Angeles:20241019T191500
-DTEND;TZID=America/Los_Angeles:20241019T215000
-DTSTAMP:20241020T030800Z
-UID:ci5397678-tt0093191--2024-10-19-19-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nAn angel tires of his purely et
- hereal life of merely overseeing the human activity of Berlin's residents\
- , and longs for the tangible joys of physical existence when he falls in l
- ove with a mortal.\n\nhttps://www.imdb.com/title/tt0093191/\n\nIMDb rating
- : 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris\, Texas (1984)
 DTSTART;TZID=America/Los_Angeles:20241020T191500
@@ -426,7 +385,7 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
  sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
  s\, fighter aircraft designed by him end up getting used by the Japanese E
  mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
- ating: 7.8
+ ating: 7.7
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -468,6 +427,32 @@ DESCRIPTION:Duration: 1h 15m (75 mins)\n\nAfter helping a cat\, a seventee
  agical world where her only hope of freedom lies with a dapper cat statuet
  te come to life.\n\nhttps://www.imdb.com/title/tt0347618/\n\nIMDb rating: 
  7.1
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There (2014)
+DTSTART;TZID=America/Los_Angeles:20241104T190000
+DTEND;TZID=America/Los_Angeles:20241104T211000
+DTSTAMP:20241105T025300Z
+UID:ci5397678-tt3398268--2024-11-4-19-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAnna\, a shy 12-year-old girl\,
+  is sent to spend time with her aunt and uncle who live in the countryside
+ \, where she meets Marnie. The two become best friends. But Anna gradually
+  discovers that Marnie is not quite who she appears to...\n\nhttps://www.i
+ mdb.com/title/tt3398268/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porco Rosso (1992)
+DTSTART;TZID=America/Los_Angeles:20241104T161500
+DTEND;TZID=America/Los_Angeles:20241104T181500
+DTSTAMP:20241105T000800Z
+UID:ci5397678-tt0104652--2024-11-4-16-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
+  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
+ .imdb.com/title/tt0104652/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
