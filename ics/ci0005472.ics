@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241020T143456Z
+LAST-MODIFIED:20241021T143814Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20241020T200000
-DTEND;TZID=America/Los_Angeles:20241020T221500
-DTSTAMP:20241021T035300Z
-UID:ci0005472-tt12818328--2024-10-20-20-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lake Michigan Monster (2018)
-DTSTART;TZID=America/Los_Angeles:20241020T180000
-DTEND;TZID=America/Los_Angeles:20241020T194500
-DTSTAMP:20241021T015300Z
-UID:ci0005472-tt6748030--2024-10-20-18-0
-DESCRIPTION:Duration: 1h 18m (78 mins)\n\nOn the shores of Lake Michigan\,
-  Captain Seafield enlists a crew of specialists to slay the hellish sea mo
- nster that stalks the murky depths.\n\nhttps://www.imdb.com/title/tt674803
- 0/\n\nIMDb rating: 6.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nurse Unseen
-DTSTART;TZID=America/Los_Angeles:20241020T123000
-DTEND;TZID=America/Los_Angeles:20241020T143000
-DTSTAMP:20241020T202300Z
-UID:ci0005472-tt15209904--2024-10-20-12-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nNurse Unseen is a feature docume
- ntary that explores the little-known history and humanity of the unsung Fi
- lipino nurses risking their lives on the front lines of a pandemic\, thous
- ands of miles from home.\n\nhttps://www.imdb.com/title/tt15209904/\n\nIMDb
-  rating: 9.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Masque of the Red Death (1964)
-DTSTART;TZID=America/Los_Angeles:20241020T154500
-DTEND;TZID=America/Los_Angeles:20241020T174000
-DTSTAMP:20241020T233800Z
-UID:ci0005472-tt0058333--2024-10-20-15-45
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA European prince terrorizes the
-  local peasantry while using his castle as a refuge against the &quot\;Red
-  Death&quot\; plague that stalks the land.\n\nhttps://www.imdb.com/title/t
- t0058333/\n\nIMDb rating: 6.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nurse Unseen
 DTSTART;TZID=America/Los_Angeles:20241021T190000
@@ -359,6 +306,20 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
  ative years of their lives\, two sisters navigate their loving but volatil
  e father during their yearly summer visits to his home in Las Cruces\, New
   Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Birthday Boy
+DTSTART;TZID=America/Los_Angeles:20241105T190000
+DTEND;TZID=America/Los_Angeles:20241105T212500
+DTSTAMP:20241106T025300Z
+UID:ci0005472-tt32566980--2024-11-5-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
+ oad to pursue higher education. While celebrating one of their friend's bi
+ rthday\, an incident happens which turns their lives upside down. The whol
+ e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
+ b.com/title/tt32566980/\n\nIMDb rating: 9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

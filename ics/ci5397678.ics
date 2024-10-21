@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241020T143754Z
+LAST-MODIFIED:20241021T144056Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Paris\, Texas (1984)
-DTSTART;TZID=America/Los_Angeles:20241020T191500
-DTEND;TZID=America/Los_Angeles:20241020T220500
-DTSTAMP:20241021T030800Z
-UID:ci5397678-tt0087884--2024-10-20-19-15
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
- rifter who has been missing for four years\, wanders out of the desert and
-  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
- ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz (1939)
-DTSTART;TZID=America/Los_Angeles:20241020T160000
-DTEND;TZID=America/Los_Angeles:20241020T181000
-DTSTAMP:20241020T235300Z
-UID:ci5397678-tt0032138--2024-10-20-16-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nYoung Dorothy Gale and her dog 
- Toto are swept away by a tornado from their Kansas farm to the magical Lan
- d of Oz and embark on a quest with three new friends to see the Wizard\, w
- ho can return her to her home and fulfill the others...\n\nhttps://www.imd
- b.com/title/tt0032138/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wings of Desire (1987)
-DTSTART;TZID=America/Los_Angeles:20241020T123000
-DTEND;TZID=America/Los_Angeles:20241020T150500
-DTSTAMP:20241020T202300Z
-UID:ci5397678-tt0093191--2024-10-20-12-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nAn angel tires of his purely et
- hereal life of merely overseeing the human activity of Berlin's residents\
- , and longs for the tangible joys of physical existence when he falls in l
- ove with a mortal.\n\nhttps://www.imdb.com/title/tt0093191/\n\nIMDb rating
- : 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wizard of Oz (1939)
 DTSTART;TZID=America/Los_Angeles:20241021T160000
@@ -385,7 +344,7 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
  sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
  s\, fighter aircraft designed by him end up getting used by the Japanese E
  mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
- ating: 7.7
+ ating: 7.8
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -453,6 +412,33 @@ UID:ci5397678-tt0104652--2024-11-4-16-15
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
   War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
  .imdb.com/title/tt0104652/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Neighbor Totoro (1988)
+DTSTART;TZID=America/Los_Angeles:20241105T161500
+DTEND;TZID=America/Los_Angeles:20241105T181000
+DTSTAMP:20241106T000800Z
+UID:ci5397678-tt0096283--2024-11-5-16-15
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
+ ry to be near their ailing mother\, they have adventures with the wondrous
+  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
+ n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret World of Arrietty (2010)
+DTSTART;TZID=America/Los_Angeles:20241105T190000
+DTEND;TZID=America/Los_Angeles:20241105T210000
+DTSTAMP:20241106T025300Z
+UID:ci5397678-tt1568921--2024-11-5-19-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThe Clock family are four-inch-t
+ all people who live anonymously in another family's residence\, borrowing 
+ simple items to make their home. Life changes for the Clocks when their te
+ enage daughter Arrietty is discovered.\n\nhttps://www.imdb.com/title/tt156
+ 8921/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

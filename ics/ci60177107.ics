@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241020T143717Z
+LAST-MODIFIED:20241021T144022Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bad Moon (1996)
-DTSTART;TZID=America/Los_Angeles:20241020T174500
-DTEND;TZID=America/Los_Angeles:20241020T193000
-DTSTAMP:20241021T013800Z
-UID:ci60177107-tt0115610--2024-10-20-17-45
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAfter being bitten by a werewolf
-  in the jungle\, Ted looks for a cure. His lawyer sister\, with a son and 
- dog\, invites him to park his camper by her house in the woods and live ou
- t of her fridge.\n\nhttps://www.imdb.com/title/tt0115610/\n\nIMDb rating: 
- 5.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bell Book and Candle (1958)
-DTSTART;TZID=America/Los_Angeles:20241020T151500
-DTEND;TZID=America/Los_Angeles:20241020T173000
-DTSTAMP:20241020T230800Z
-UID:ci60177107-tt0051406--2024-10-20-15-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA modern-day witch likes her ne
- ighbor but despises his fiancée\, so she enchants him to love her instead
- .\n\nhttps://www.imdb.com/title/tt0051406/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night of the Eagle (1962)
-DTSTART;TZID=America/Los_Angeles:20241020T200000
-DTEND;TZID=America/Los_Angeles:20241020T215500
-DTSTAMP:20241021T035300Z
-UID:ci60177107-tt0056279--2024-10-20-20-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA woman who may be a witch defen
- ds her husband from forces attempting to harm him.\n\nhttps://www.imdb.com
- /title/tt0056279/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let's Scare Jessica to Death (1971)
 DTSTART;TZID=America/Los_Angeles:20241021T200000
