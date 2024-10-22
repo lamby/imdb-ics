@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241021T143814Z
+LAST-MODIFIED:20241022T161806Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Nurse Unseen
-DTSTART;TZID=America/Los_Angeles:20241021T190000
-DTEND;TZID=America/Los_Angeles:20241021T210000
-DTSTAMP:20241022T025300Z
-UID:ci0005472-tt15209904--2024-10-21-19-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nNurse Unseen is a feature docume
- ntary that explores the little-known history and humanity of the unsung Fi
- lipino nurses risking their lives on the front lines of a pandemic\, thous
- ands of miles from home.\n\nhttps://www.imdb.com/title/tt15209904/\n\nIMDb
-  rating: 9.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blade II (2002)
 DTSTART;TZID=America/Los_Angeles:20241022T191500
@@ -225,7 +211,7 @@ UID:ci0005472-tt23623894--2024-11-2-12-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTrailblazing food writer Ruth R
  eichl examines the precarious state of America's food system. A Sundance F
  ilm Festival premiere.\n\nhttps://www.imdb.com/title/tt23623894/\n\nIMDb r
- ating: 7.6
+ ating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -320,6 +306,19 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
  rthday\, an incident happens which turns their lives upside down. The whol
  e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
  b.com/title/tt32566980/\n\nIMDb rating: 9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Summers
+DTSTART;TZID=America/Los_Angeles:20241106T191500
+DTEND;TZID=America/Los_Angeles:20241106T211500
+DTSTAMP:20241107T030800Z
+UID:ci0005472-tt24805832--2024-11-6-19-15
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
+ ative years of their lives\, two sisters navigate their loving but volatil
+ e father during their yearly summer visits to his home in Las Cruces\, New
+  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

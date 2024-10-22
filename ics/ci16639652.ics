@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241021T144046Z
+LAST-MODIFIED:20241022T162049Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -25,6 +25,19 @@ DTSTAMP:20241025T025300Z
 UID:ci16639652-tt15682294--2024-10-24-19-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt15
  682294/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hour of Glory (1949)
+DTSTART;TZID=America/Los_Angeles:20241030T193000
+DTEND;TZID=America/Los_Angeles:20241030T214500
+DTSTAMP:20241031T032300Z
+UID:ci16639652-tt0041886--2024-10-30-19-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAs the Germans drop explosive b
+ ooby-traps on Britain in 1943\, the embittered expert who'll have to disar
+ m them fights a private battle with alcohol.\n\nhttps://www.imdb.com/title
+ /tt0041886/\n\nIMDb rating: 7.1
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT

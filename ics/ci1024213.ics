@@ -1,7 +1,62 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241021T143910Z
+LAST-MODIFIED:20241022T161857Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:The Fog (1980)
+DTSTART;TZID=America/Los_Angeles:20241022T203000
+DTEND;TZID=America/Los_Angeles:20241022T222500
+DTSTAMP:20241023T042300Z
+UID:ci1024213-tt0080749--2024-10-22-20-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nLocal legend tells of a ship lur
+ ed on to the rocks of Antonio Bay being enveloped by a supernatural cloud 
+ as it sank\; the myth says that when this mysterious fog returns\, the vic
+ tims will rise up from the depths seeking vengeance\n\nhttps://www.imdb.co
+ m/title/tt0080749/\n\nIMDb rating: 6.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fog (1980)
+DTSTART;TZID=America/Los_Angeles:20241023T173000
+DTEND;TZID=America/Los_Angeles:20241023T192500
+DTSTAMP:20241024T012300Z
+UID:ci1024213-tt0080749--2024-10-23-17-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nLocal legend tells of a ship lur
+ ed on to the rocks of Antonio Bay being enveloped by a supernatural cloud 
+ as it sank\; the myth says that when this mysterious fog returns\, the vic
+ tims will rise up from the depths seeking vengeance\n\nhttps://www.imdb.co
+ m/title/tt0080749/\n\nIMDb rating: 6.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark Water (2005)
+DTSTART;TZID=America/Los_Angeles:20241024T203000
+DTEND;TZID=America/Los_Angeles:20241024T224000
+DTSTAMP:20241025T042300Z
+UID:ci1024213-tt0382628--2024-10-24-20-30
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA mother and daughter\, still w
+ ounded from a bitter custody dispute\, hole up in a run-down apartment bui
+ lding\, where they are targeted by the ghost of a former resident.\n\nhttp
+ s://www.imdb.com/title/tt0382628/\n\nIMDb rating: 5.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art on Film\, Program 3: Form (1992)
+DTSTART;TZID=America/Los_Angeles:20241024T183000
+DTEND;TZID=America/Los_Angeles:20241024T195000
+DTSTAMP:20241025T022300Z
+UID:ci1024213-tt3773736--2024-10-24-18-30
+DESCRIPTION:Duration: 0h 52m (52 mins)\n\nThe Program for Art on Film was 
+ a joint venture of The Metropolitan Museum of Art and the J. Paul Getty Tr
+ ust. It was established in 1984 to foster new ways of thinking about the r
+ elationship between art and moving-image media. Be...\n\nhttps://www.imdb.
+ com/title/tt3773736/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR

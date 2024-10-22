@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241021T144056Z
+LAST-MODIFIED:20241022T162100Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz (1939)
-DTSTART;TZID=America/Los_Angeles:20241021T160000
-DTEND;TZID=America/Los_Angeles:20241021T181000
-DTSTAMP:20241021T235300Z
-UID:ci5397678-tt0032138--2024-10-21-16-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nYoung Dorothy Gale and her dog 
- Toto are swept away by a tornado from their Kansas farm to the magical Lan
- d of Oz and embark on a quest with three new friends to see the Wizard\, w
- ho can return her to her home and fulfill the others...\n\nhttps://www.imd
- b.com/title/tt0032138/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wings of Desire (1987)
-DTSTART;TZID=America/Los_Angeles:20241021T191500
-DTEND;TZID=America/Los_Angeles:20241021T215000
-DTSTAMP:20241022T030800Z
-UID:ci5397678-tt0093191--2024-10-21-19-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nAn angel tires of his purely et
- hereal life of merely overseeing the human activity of Berlin's residents\
- , and longs for the tangible joys of physical existence when he falls in l
- ove with a mortal.\n\nhttps://www.imdb.com/title/tt0093191/\n\nIMDb rating
- : 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paris\, Texas (1984)
 DTSTART;TZID=America/Los_Angeles:20241022T160000
@@ -344,7 +316,7 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
  sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
  s\, fighter aircraft designed by him end up getting used by the Japanese E
  mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
- ating: 7.8
+ ating: 7.7
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -439,6 +411,32 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThe Clock family are four-inch-t
  simple items to make their home. Life changes for the Clocks when their te
  enage daughter Arrietty is discovered.\n\nhttps://www.imdb.com/title/tt156
  8921/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241106T154500
+DTEND;TZID=America/Los_Angeles:20241106T181000
+DTSTAMP:20241106T233800Z
+UID:ci5397678-tt0087544--2024-11-6-15-45
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ponyo (2008)
+DTSTART;TZID=America/Los_Angeles:20241106T190000
+DTEND;TZID=America/Los_Angeles:20241106T211000
+DTSTAMP:20241107T025300Z
+UID:ci5397678-tt0876563--2024-11-6-19-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA five-year-old boy develops a 
+ relationship with Ponyo\, a young goldfish princess who longs to become a 
+ human after falling in love with him.\n\nhttps://www.imdb.com/title/tt0876
+ 563/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

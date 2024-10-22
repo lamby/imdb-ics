@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241021T144022Z
+LAST-MODIFIED:20241022T162024Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Let's Scare Jessica to Death (1971)
-DTSTART;TZID=America/Los_Angeles:20241021T200000
-DTEND;TZID=America/Los_Angeles:20241021T215500
-DTSTAMP:20241022T035300Z
-UID:ci60177107-tt0067341--2024-10-21-20-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA recently institutionalized wom
- an has bizarre experiences after moving into a supposedly haunted country 
- farmhouse and fears she may be losing her sanity once again.\n\nhttps://ww
- w.imdb.com/title/tt0067341/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rockula (1990)
-DTSTART;TZID=America/Los_Angeles:20241021T174500
-DTEND;TZID=America/Los_Angeles:20241021T194500
-DTSTAMP:20241022T013800Z
-UID:ci60177107-tt0100506--2024-10-21-17-45
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young vampire cannot lose his 
- virginity because of a curse imposed upon him centuries ago.\n\nhttps://ww
- w.imdb.com/title/tt0100506/\n\nIMDb rating: 5.2
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borderland: The Line Within
 DTSTART;TZID=America/Los_Angeles:20241022T190000
@@ -241,6 +216,32 @@ UID:ci60177107-tt0056279--2024-10-30-17-0
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA woman who may be a witch defen
  ds her husband from forces attempting to harm him.\n\nhttps://www.imdb.com
  /title/tt0056279/\n\nIMDb rating: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hour of Glory (1949)
+DTSTART;TZID=America/Los_Angeles:20241030T193000
+DTEND;TZID=America/Los_Angeles:20241030T214500
+DTSTAMP:20241031T032300Z
+UID:ci60177107-tt0041886--2024-10-30-19-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAs the Germans drop explosive b
+ ooby-traps on Britain in 1943\, the embittered expert who'll have to disar
+ m them fights a private battle with alcohol.\n\nhttps://www.imdb.com/title
+ /tt0041886/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241106T162000
+DTEND;TZID=America/Los_Angeles:20241106T191500
+DTSTAMP:20241107T001300Z
+UID:ci60177107-tt0091670--2024-11-6-16-20
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
