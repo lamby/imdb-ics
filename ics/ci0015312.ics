@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241022T162200Z
+LAST-MODIFIED:20241023T151223Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20241022T213000
-DTEND;TZID=America/Los_Angeles:20241022T233000
-DTSTAMP:20241023T052300Z
-UID:ci0015312-tt14966898--2024-10-22-21-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Craft (1996)
-DTSTART;TZID=America/Los_Angeles:20241022T160000
-DTEND;TZID=America/Los_Angeles:20241022T181000
-DTSTAMP:20241022T235300Z
-UID:ci0015312-tt0115963--2024-10-22-16-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA newcomer to a Catholic prep h
- igh school falls in with a trio of outcast teenage girls who practice witc
- hcraft\, and they all soon conjure up various spells and curses against th
- ose who anger them.\n\nhttps://www.imdb.com/title/tt0115963/\n\nIMDb ratin
- g: 6.4
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Craft (1996)
-DTSTART;TZID=America/Los_Angeles:20241022T190000
-DTEND;TZID=America/Los_Angeles:20241022T211000
-DTSTAMP:20241023T025300Z
-UID:ci0015312-tt0115963--2024-10-22-19-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA newcomer to a Catholic prep h
- igh school falls in with a trio of outcast teenage girls who practice witc
- hcraft\, and they all soon conjure up various spells and curses against th
- ose who anger them.\n\nhttps://www.imdb.com/title/tt0115963/\n\nIMDb ratin
- g: 6.4
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Night with the Devil
 DTSTART;TZID=America/Los_Angeles:20241023T213000

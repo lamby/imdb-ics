@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241022T161806Z
+LAST-MODIFIED:20241023T150842Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blade II (2002)
-DTSTART;TZID=America/Los_Angeles:20241022T191500
-DTEND;TZID=America/Los_Angeles:20241022T214000
-DTSTAMP:20241023T030800Z
-UID:ci0005472-tt0187738--2024-10-22-19-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nBlade forms an uneasy alliance 
- with the vampire council in order to combat the Reapers\, who are feeding 
- on vampires.\n\nhttps://www.imdb.com/title/tt0187738/\n\nIMDb rating: 6.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blade II (2002)
 DTSTART;TZID=America/Los_Angeles:20241023T191500
@@ -211,7 +199,7 @@ UID:ci0005472-tt23623894--2024-11-2-12-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTrailblazing food writer Ruth R
  eichl examines the precarious state of America's food system. A Sundance F
  ilm Festival premiere.\n\nhttps://www.imdb.com/title/tt23623894/\n\nIMDb r
- ating: 7.5
+ ating: 7.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -319,6 +307,20 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
  ative years of their lives\, two sisters navigate their loving but volatil
  e father during their yearly summer visits to his home in Las Cruces\, New
   Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Birthday Boy
+DTSTART;TZID=America/Los_Angeles:20241107T190000
+DTEND;TZID=America/Los_Angeles:20241107T212500
+DTSTAMP:20241108T025300Z
+UID:ci0005472-tt32566980--2024-11-7-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
+ oad to pursue higher education. While celebrating one of their friend's bi
+ rthday\, an incident happens which turns their lives upside down. The whol
+ e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
+ b.com/title/tt32566980/\n\nIMDb rating: 9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
