@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241023T151128Z
+LAST-MODIFIED:20241025T154407Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Paris\, Texas (1984)
-DTSTART;TZID=America/Los_Angeles:20241023T191500
-DTEND;TZID=America/Los_Angeles:20241023T220500
-DTSTAMP:20241024T030800Z
-UID:ci5397678-tt0087884--2024-10-23-19-15
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
- rifter who has been missing for four years\, wanders out of the desert and
-  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
- ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wings of Desire (1987)
-DTSTART;TZID=America/Los_Angeles:20241023T160000
-DTEND;TZID=America/Los_Angeles:20241023T183500
-DTSTAMP:20241023T235300Z
-UID:ci5397678-tt0093191--2024-10-23-16-0
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nAn angel tires of his purely et
- hereal life of merely overseeing the human activity of Berlin's residents\
- , and longs for the tangible joys of physical existence when he falls in l
- ove with a mortal.\n\nhttps://www.imdb.com/title/tt0093191/\n\nIMDb rating
- : 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris\, Texas (1984)
-DTSTART;TZID=America/Los_Angeles:20241024T160000
-DTEND;TZID=America/Los_Angeles:20241024T185000
-DTSTAMP:20241024T235300Z
-UID:ci5397678-tt0087884--2024-10-24-16-0
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nTravis Henderson\, an aimless d
- rifter who has been missing for four years\, wanders out of the desert and
-  must reconnect with society\, himself\, his life\, and his family.\n\nhtt
- ps://www.imdb.com/title/tt0087884/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz (1939)
-DTSTART;TZID=America/Los_Angeles:20241024T193000
-DTEND;TZID=America/Los_Angeles:20241024T214000
-DTSTAMP:20241025T032300Z
-UID:ci5397678-tt0032138--2024-10-24-19-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nYoung Dorothy Gale and her dog 
- Toto are swept away by a tornado from their Kansas farm to the magical Lan
- d of Oz and embark on a quest with three new friends to see the Wizard\, w
- ho can return her to her home and fulfill the others...\n\nhttps://www.imd
- b.com/title/tt0032138/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Fall (2006)
 DTSTART;TZID=America/Los_Angeles:20241025T161500
@@ -437,6 +383,60 @@ DESCRIPTION:Duration: 2h 13m (133 mins)\n\nOn a journey to find the cure f
  tween the forest gods and Tatara\, a mining colony. In this quest he also 
  meets San\, the Mononoke Hime.\n\nhttps://www.imdb.com/title/tt0119698/\n\
  nIMDb rating: 8.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle in the Sky (1986)
+DTSTART;TZID=America/Los_Angeles:20241108T190000
+DTEND;TZID=America/Los_Angeles:20241108T213000
+DTSTAMP:20241109T025300Z
+UID:ci5397678-tt0092067--2024-11-8-19-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nPazu's life changes when he mee
+ ts Sheeta\, a girl whom pirates are chasing for her crystal amulet\, which
+  has the potential to locate Laputa\, a legendary castle floating in the s
+ ky.\n\nhttps://www.imdb.com/title/tt0092067/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wind Rises (2013)
+DTSTART;TZID=America/Los_Angeles:20241108T153000
+DTEND;TZID=America/Los_Angeles:20241108T180500
+DTSTAMP:20241108T232300Z
+UID:ci5397678-tt2013293--2024-11-8-15-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
+ sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
+ s\, fighter aircraft designed by him end up getting used by the Japanese E
+ mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
+ ating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Howl's Moving Castle (2004)
+DTSTART;TZID=America/Los_Angeles:20241109T190000
+DTEND;TZID=America/Los_Angeles:20241109T212500
+DTSTAMP:20241110T025300Z
+UID:ci5397678-tt0347149--2024-11-9-19-0
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhen an unconfident young woman
+  is cursed with an old body by a spiteful witch\, her only chance of break
+ ing the spell lies with a self-indulgent yet insecure young wizard and his
+  companions in his legged\, walking castle.\n\nhttps://www.imdb.com/title/
+ tt0347149/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away (2001)
+DTSTART;TZID=America/Los_Angeles:20241109T151500
+DTEND;TZID=America/Los_Angeles:20241109T174500
+DTSTAMP:20241109T230800Z
+UID:ci5397678-tt0245429--2024-11-9-15-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nDuring her family's move to the
+  suburbs\, a sullen 10-year-old girl wanders into a world ruled by gods\, 
+ witches and spirits\, and where humans are changed into beasts.\n\nhttps:/
+ /www.imdb.com/title/tt0245429/\n\nIMDb rating: 8.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

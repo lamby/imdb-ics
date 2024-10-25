@@ -1,32 +1,221 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241023T151223Z
+LAST-MODIFIED:20241025T154500Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
 BEGIN:VEVENT
-SUMMARY:Late Night with the Devil
-DTSTART;TZID=America/Los_Angeles:20241023T213000
-DTEND;TZID=America/Los_Angeles:20241023T233000
-DTSTAMP:20241024T052300Z
-UID:ci0015312-tt14966898--2024-10-23-21-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA live television broadcast in 1
- 977 goes horribly wrong\, unleashing evil into the nation's living rooms.\
- n\nhttps://www.imdb.com/title/tt14966898/\n\nIMDb rating: 7
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241025T160000
+DTEND;TZID=America/Los_Angeles:20241025T180500
+DTSTAMP:20241025T235300Z
+UID:ci0015312-tt0107120--2024-10-25-16-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Craft (1996)
-DTSTART;TZID=America/Los_Angeles:20241023T160000
-DTEND;TZID=America/Los_Angeles:20241023T181000
-DTSTAMP:20241023T235300Z
-UID:ci0015312-tt0115963--2024-10-23-16-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA newcomer to a Catholic prep h
- igh school falls in with a trio of outcast teenage girls who practice witc
- hcraft\, and they all soon conjure up various spells and curses against th
- ose who anger them.\n\nhttps://www.imdb.com/title/tt0115963/\n\nIMDb ratin
- g: 6.4
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241025T190000
+DTEND;TZID=America/Los_Angeles:20241025T210500
+DTSTAMP:20241026T025300Z
+UID:ci0015312-tt0107120--2024-10-25-19-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Evil Dead (1981)
+DTSTART;TZID=America/Los_Angeles:20241025T213000
+DTEND;TZID=America/Los_Angeles:20241025T232000
+DTSTAMP:20241026T052300Z
+UID:ci0015312-tt0083907--2024-10-25-21-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
+ n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
+ ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241026T160000
+DTEND;TZID=America/Los_Angeles:20241026T180500
+DTSTAMP:20241026T235300Z
+UID:ci0015312-tt0107120--2024-10-26-16-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241026T190000
+DTEND;TZID=America/Los_Angeles:20241026T210500
+DTSTAMP:20241027T025300Z
+UID:ci0015312-tt0107120--2024-10-26-19-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Evil Dead (1981)
+DTSTART;TZID=America/Los_Angeles:20241026T213000
+DTEND;TZID=America/Los_Angeles:20241026T232000
+DTSTAMP:20241027T052300Z
+UID:ci0015312-tt0083907--2024-10-26-21-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
+ n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
+ ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241027T150000
+DTEND;TZID=America/Los_Angeles:20241027T170500
+DTSTAMP:20241027T225300Z
+UID:ci0015312-tt0107120--2024-10-27-15-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241027T180000
+DTEND;TZID=America/Los_Angeles:20241027T200500
+DTSTAMP:20241028T015300Z
+UID:ci0015312-tt0107120--2024-10-27-18-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Evil Dead (1981)
+DTSTART;TZID=America/Los_Angeles:20241027T203000
+DTEND;TZID=America/Los_Angeles:20241027T222000
+DTSTAMP:20241028T042300Z
+UID:ci0015312-tt0083907--2024-10-27-20-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
+ n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
+ ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241028T190000
+DTEND;TZID=America/Los_Angeles:20241028T210500
+DTSTAMP:20241029T025300Z
+UID:ci0015312-tt0107120--2024-10-28-19-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Evil Dead (1981)
+DTSTART;TZID=America/Los_Angeles:20241028T213000
+DTEND;TZID=America/Los_Angeles:20241028T232000
+DTSTAMP:20241029T052300Z
+UID:ci0015312-tt0083907--2024-10-28-21-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
+ n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
+ ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241029T160000
+DTEND;TZID=America/Los_Angeles:20241029T180500
+DTSTAMP:20241029T235300Z
+UID:ci0015312-tt0107120--2024-10-29-16-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241029T190000
+DTEND;TZID=America/Los_Angeles:20241029T210500
+DTSTAMP:20241030T025300Z
+UID:ci0015312-tt0107120--2024-10-29-19-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Evil Dead (1981)
+DTSTART;TZID=America/Los_Angeles:20241029T213000
+DTEND;TZID=America/Los_Angeles:20241029T232000
+DTSTAMP:20241030T052300Z
+UID:ci0015312-tt0083907--2024-10-29-21-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
+ n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
+ ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241030T160000
+DTEND;TZID=America/Los_Angeles:20241030T180500
+DTSTAMP:20241030T235300Z
+UID:ci0015312-tt0107120--2024-10-30-16-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocus Pocus (1993)
+DTSTART;TZID=America/Los_Angeles:20241030T190000
+DTEND;TZID=America/Los_Angeles:20241030T210500
+DTSTAMP:20241031T025300Z
+UID:ci0015312-tt0107120--2024-10-30-19-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
+ little sister move to Salem\, where he struggles to fit in before awakenin
+ g a trio of diabolical witches that were executed in the 17th century.\n\n
+ https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Evil Dead (1981)
+DTSTART;TZID=America/Los_Angeles:20241030T213000
+DTEND;TZID=America/Los_Angeles:20241030T232000
+DTSTAMP:20241031T052300Z
+UID:ci0015312-tt0083907--2024-10-30-21-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
+ n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
+ ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT

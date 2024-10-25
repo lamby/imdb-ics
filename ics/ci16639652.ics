@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241023T151117Z
+LAST-MODIFIED:20241025T154358Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Devil
-DTSTART;TZID=America/Los_Angeles:20241023T190000
-DTEND;TZID=America/Los_Angeles:20241023T215000
-DTSTAMP:20241024T025300Z
-UID:ci16639652-tt14989988--2024-10-23-19-0
-DESCRIPTION:Duration: 2h 24m (144 mins)\n\nIt follows a British secret age
- nt who takes up the job of solving a dark mystery. He is led into a web of
-  love\, deceit and betrayal. His success and failure can change the course
-  of history.\n\nhttps://www.imdb.com/title/tt14989988/\n\nIMDb rating: 6.5
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The 48 Hour Film Project (2021)
-DTSTART;TZID=America/Los_Angeles:20241024T190000
-DTEND;TZID=America/Los_Angeles:20241024T212500
-DTSTAMP:20241025T025300Z
-UID:ci16639652-tt15682294--2024-10-24-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt15
- 682294/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hour of Glory (1949)
 DTSTART;TZID=America/Los_Angeles:20241030T193000
@@ -38,6 +14,76 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAs the Germans drop explosive b
  ooby-traps on Britain in 1943\, the embittered expert who'll have to disar
  m them fights a private battle with alcohol.\n\nhttps://www.imdb.com/title
  /tt0041886/\n\nIMDb rating: 7.1
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Box Diaries
+DTSTART;TZID=America/Los_Angeles:20241108T170000
+DTEND;TZID=America/Los_Angeles:20241108T191000
+DTSTAMP:20241109T005300Z
+UID:ci16639652-tt30227076--2024-11-8-17-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nJournalist Shiori Ito investiga
+ tes her own sexual assault\, seeking to prosecute the high-profile offende
+ r. Her quest becomes a landmark case\, exposing Japan's outdated judicial 
+ and societal systems.\n\nhttps://www.imdb.com/title/tt30227076/\n\nIMDb ra
+ ting: 8
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Box Diaries
+DTSTART;TZID=America/Los_Angeles:20241108T193000
+DTEND;TZID=America/Los_Angeles:20241108T214000
+DTSTAMP:20241109T032300Z
+UID:ci16639652-tt30227076--2024-11-8-19-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nJournalist Shiori Ito investiga
+ tes her own sexual assault\, seeking to prosecute the high-profile offende
+ r. Her quest becomes a landmark case\, exposing Japan's outdated judicial 
+ and societal systems.\n\nhttps://www.imdb.com/title/tt30227076/\n\nIMDb ra
+ ting: 8
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Box Diaries
+DTSTART;TZID=America/Los_Angeles:20241109T143000
+DTEND;TZID=America/Los_Angeles:20241109T164000
+DTSTAMP:20241109T222300Z
+UID:ci16639652-tt30227076--2024-11-9-14-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nJournalist Shiori Ito investiga
+ tes her own sexual assault\, seeking to prosecute the high-profile offende
+ r. Her quest becomes a landmark case\, exposing Japan's outdated judicial 
+ and societal systems.\n\nhttps://www.imdb.com/title/tt30227076/\n\nIMDb ra
+ ting: 8
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Box Diaries
+DTSTART;TZID=America/Los_Angeles:20241109T170000
+DTEND;TZID=America/Los_Angeles:20241109T191000
+DTSTAMP:20241110T005300Z
+UID:ci16639652-tt30227076--2024-11-9-17-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nJournalist Shiori Ito investiga
+ tes her own sexual assault\, seeking to prosecute the high-profile offende
+ r. Her quest becomes a landmark case\, exposing Japan's outdated judicial 
+ and societal systems.\n\nhttps://www.imdb.com/title/tt30227076/\n\nIMDb ra
+ ting: 8
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Box Diaries
+DTSTART;TZID=America/Los_Angeles:20241109T193000
+DTEND;TZID=America/Los_Angeles:20241109T214000
+DTSTAMP:20241110T032300Z
+UID:ci16639652-tt30227076--2024-11-9-19-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nJournalist Shiori Ito investiga
+ tes her own sexual assault\, seeking to prosecute the high-profile offende
+ r. Her quest becomes a landmark case\, exposing Japan's outdated judicial 
+ and societal systems.\n\nhttps://www.imdb.com/title/tt30227076/\n\nIMDb ra
+ ting: 8
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT

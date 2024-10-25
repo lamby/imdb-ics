@@ -1,27 +1,40 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241023T150712Z
+LAST-MODIFIED:20241025T153946Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
-SUMMARY:A.R.M
-DTSTART;TZID=Europe/London:20241023T213500
-DTEND;TZID=Europe/London:20241024T003000
-DTSTAMP:20241023T213600Z
-UID:ci0960123-tt11531182--2024-10-23-21-35
-DESCRIPTION:Duration: 2h 30m (150 mins)\n\nSet in the Northern Kerala in 1
- 900\, 1950 and 1990\, three generations of heroes\, Maniyan\, Kunjikelu an
- d Ajayan\, try to protect the most important treasure of the land.\n\nhttp
- s://www.imdb.com/title/tt11531182/\n\nIMDb rating: 7.6
+SUMMARY:200% Wolf
+DTSTART;TZID=Europe/London:20241025T094000
+DTEND;TZID=Europe/London:20241025T114500
+DTSTAMP:20241025T094100Z
+UID:ci0960123-tt27722575--2024-10-25-9-40
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen Freddy Lupin's wayward wish
+  transforms him into a werewolf and deposits a mischievous moon sprite on 
+ earth\, Freddy must restore the cosmic order before the earth and moon col
+ lide.\n\nhttps://www.imdb.com/title/tt27722575/\n\nIMDb rating: 5.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nightmare on Elm Street (1984)
+DTSTART;TZID=Europe/London:20241025T185000
+DTEND;TZID=Europe/London:20241025T205000
+DTSTAMP:20241025T185100Z
+UID:ci0960123-tt0087800--2024-10-25-18-50
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTeenager Nancy Thompson must unc
+ over the dark truth concealed by her parents after she and her friends bec
+ ome targets of the spirit of a serial killer with a bladed glove in their 
+ dreams\, in which if they die\, it kills them in rea...\n\nhttps://www.imd
+ b.com/title/tt0087800/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=Europe/London:20241023T124500
-DTEND;TZID=Europe/London:20241023T145500
-DTSTAMP:20241023T124600Z
-UID:ci0960123-tt2049403--2024-10-23-12-45
+DTSTART;TZID=Europe/London:20241025T115500
+DTEND;TZID=Europe/London:20241025T140500
+DTSTAMP:20241025T115600Z
+UID:ci0960123-tt2049403--2024-10-25-11-55
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
  generations of the Deetz family return home to Winter River. Still haunted
   by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
@@ -31,23 +44,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=Europe/London:20241023T145000
-DTEND;TZID=Europe/London:20241023T170000
-DTSTAMP:20241023T145100Z
-UID:ci0960123-tt2049403--2024-10-23-14-50
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=Europe/London:20241023T183000
-DTEND;TZID=Europe/London:20241023T204000
-DTSTAMP:20241023T183100Z
-UID:ci0960123-tt2049403--2024-10-23-18-30
+DTSTART;TZID=Europe/London:20241025T173500
+DTEND;TZID=Europe/London:20241025T194500
+DTSTAMP:20241025T173600Z
+UID:ci0960123-tt2049403--2024-10-25-17-35
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
  generations of the Deetz family return home to Winter River. Still haunted
   by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
@@ -57,20 +57,20 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bluey at the Cinema: Family Trip Collection
-DTSTART;TZID=Europe/London:20241023T121000
-DTEND;TZID=Europe/London:20241023T143500
-DTSTAMP:20241023T121100Z
-UID:ci0960123-tt33253099--2024-10-23-12-10
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt33
- 253099/\n\nIMDb rating: 7.7
+DTSTART;TZID=Europe/London:20241025T092000
+DTEND;TZID=Europe/London:20241025T104000
+DTSTAMP:20241025T092100Z
+UID:ci0960123-tt33253099--2024-10-25-9-20
+DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
+ 53099/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20241023T120000
-DTEND;TZID=Europe/London:20241023T140000
-DTSTAMP:20241023T120100Z
-UID:ci0960123-tt7510222--2024-10-23-12-0
+DTSTART;TZID=Europe/London:20241025T100000
+DTEND;TZID=Europe/London:20241025T120000
+DTSTAMP:20241025T100100Z
+UID:ci0960123-tt7510222--2024-10-25-10-0
 DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
   Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
  menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
@@ -79,37 +79,23 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20241023T135000
-DTEND;TZID=Europe/London:20241023T155000
-DTSTAMP:20241023T135100Z
-UID:ci0960123-tt7510222--2024-10-23-13-50
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
-  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
- menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
- nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
- mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20241023T155000
-DTEND;TZID=Europe/London:20241023T175000
-DTSTAMP:20241023T155100Z
-UID:ci0960123-tt7510222--2024-10-23-15-50
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
-  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
- menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
- nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
- mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
+SUMMARY:Dragonkeeper
+DTSTART;TZID=Europe/London:20241025T095000
+DTEND;TZID=Europe/London:20241025T115500
+DTSTAMP:20241025T095100Z
+UID:ci0960123-tt7093904--2024-10-25-9-50
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nThe fate of ancient China rests 
+ on the shoulders of one young girl\, who must find the last remaining drag
+ on egg and fulfill her destiny.\n\nhttps://www.imdb.com/title/tt7093904/\n
+ \nIMDb rating: 5.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241023T123500
-DTEND;TZID=Europe/London:20241023T152000
-DTSTAMP:20241023T123600Z
-UID:ci0960123-tt11315808--2024-10-23-12-35
+DTSTART;TZID=Europe/London:20241025T172000
+DTEND;TZID=Europe/London:20241025T200500
+DTSTAMP:20241025T172100Z
+UID:ci0960123-tt11315808--2024-10-25-17-20
 DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
  ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
  n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
@@ -118,10 +104,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241023T185500
-DTEND;TZID=Europe/London:20241023T214000
-DTSTAMP:20241023T185600Z
-UID:ci0960123-tt11315808--2024-10-23-18-55
+DTSTART;TZID=Europe/London:20241025T231000
+DTEND;TZID=Europe/London:20241026T015500
+DTSTAMP:20241025T231100Z
+UID:ci0960123-tt11315808--2024-10-25-23-10
 DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
  ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
  n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
@@ -130,10 +116,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lee
-DTSTART;TZID=Europe/London:20241023T133500
-DTEND;TZID=Europe/London:20241023T160000
-DTSTAMP:20241023T133600Z
-UID:ci0960123-tt5112584--2024-10-23-13-35
+DTSTART;TZID=Europe/London:20241025T122500
+DTEND;TZID=Europe/London:20241025T145000
+DTSTAMP:20241025T122600Z
+UID:ci0960123-tt5112584--2024-10-25-12-25
 DESCRIPTION:Duration: 1h 57m (117 mins)\n\nThe story of American photograp
  her Lee Miller\, a fashion model who became an acclaimed war correspondent
   for Vogue magazine during World War II.\n\nhttps://www.imdb.com/title/tt5
@@ -142,22 +128,35 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salem's Lot
-DTSTART;TZID=Europe/London:20241023T153500
-DTEND;TZID=Europe/London:20241023T175500
-DTSTAMP:20241023T153600Z
-UID:ci0960123-tt10245072--2024-10-23-15-35
+DTSTART;TZID=Europe/London:20241025T144500
+DTEND;TZID=Europe/London:20241025T170500
+DTSTAMP:20241025T144600Z
+UID:ci0960123-tt10245072--2024-10-25-14-45
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAn author returns to his hometo
  wn of Jerusalem's Lot in search of inspiration for his next book\, only to
   discover that the townspeople are being attacked by a bloodthirsty vampir
- e.\n\nhttps://www.imdb.com/title/tt10245072/\n\nIMDb rating: 5.7
+ e.\n\nhttps://www.imdb.com/title/tt10245072/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seasons
+DTSTART;TZID=Europe/London:20241025T195500
+DTEND;TZID=Europe/London:20241025T220000
+DTSTAMP:20241025T195600Z
+UID:ci0960123-tt33030072--2024-10-25-19-55
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nMarcin is an egocentric actor w
+ ho has to face the unexpected breakdown of a long-term relationship. Durin
+ g three different stage performances fantasy mixes with the prose of the l
+ ife of a separating couple.\n\nhttps://www.imdb.com/title/tt33030072/\n\nI
+ MDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241023T130000
-DTEND;TZID=Europe/London:20241023T153500
-DTSTAMP:20241023T130100Z
-UID:ci0960123-tt29268110--2024-10-23-13-0
+DTSTART;TZID=Europe/London:20241025T202000
+DTEND;TZID=Europe/London:20241025T225500
+DTSTAMP:20241025T202100Z
+UID:ci0960123-tt29268110--2024-10-25-20-20
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
  \, global pop sensation Skye Riley begins experiencing increasingly terrif
  ying and inexplicable events. Overwhelmed by the escalating horrors and th
@@ -167,62 +166,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241023T151500
-DTEND;TZID=Europe/London:20241023T175000
-DTSTAMP:20241023T151600Z
-UID:ci0960123-tt29268110--2024-10-23-15-15
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241023T172500
-DTEND;TZID=Europe/London:20241023T200000
-DTSTAMP:20241023T172600Z
-UID:ci0960123-tt29268110--2024-10-23-17-25
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241023T192500
-DTEND;TZID=Europe/London:20241023T220000
-DTSTAMP:20241023T192600Z
-UID:ci0960123-tt29268110--2024-10-23-19-25
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241023T210000
-DTEND;TZID=Europe/London:20241023T233500
-DTSTAMP:20241023T210100Z
-UID:ci0960123-tt29268110--2024-10-23-21-0
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241023T220000
-DTEND;TZID=Europe/London:20241024T003500
-DTSTAMP:20241023T220100Z
-UID:ci0960123-tt29268110--2024-10-23-22-0
+DTSTART;TZID=Europe/London:20241025T221500
+DTEND;TZID=Europe/London:20241026T005000
+DTSTAMP:20241025T221600Z
+UID:ci0960123-tt29268110--2024-10-25-22-15
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
  \, global pop sensation Skye Riley begins experiencing increasingly terrif
  ying and inexplicable events. Overwhelmed by the escalating horrors and th
@@ -232,10 +179,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Speak No Evil
-DTSTART;TZID=Europe/London:20241023T172000
-DTEND;TZID=Europe/London:20241023T193500
-DTSTAMP:20241023T172100Z
-UID:ci0960123-tt27534307--2024-10-23-17-20
+DTSTART;TZID=Europe/London:20241025T172500
+DTEND;TZID=Europe/London:20241025T194000
+DTSTAMP:20241025T172600Z
+UID:ci0960123-tt27534307--2024-10-25-17-25
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
  whole weekend in a lonely home in the countryside\, but as the weekend pro
  gresses\, they realize that a dark side lies within the family who invited
@@ -244,58 +191,34 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Terrifier 3
-DTSTART;TZID=Europe/London:20241023T182000
-DTEND;TZID=Europe/London:20241023T205000
-DTSTAMP:20241023T182100Z
-UID:ci0960123-tt27911000--2024-10-23-18-20
+DTSTART;TZID=Europe/London:20241025T210500
+DTEND;TZID=Europe/London:20241025T233500
+DTSTAMP:20241025T210600Z
+UID:ci0960123-tt27911000--2024-10-25-21-5
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
   chaos on the unsuspecting residents of Miles County as they peacefully dr
  ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
- 0/\n\nIMDb rating: 7
+ 0/\n\nIMDb rating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Terrifier 3
-DTSTART;TZID=Europe/London:20241023T221500
-DTEND;TZID=Europe/London:20241024T004500
-DTSTAMP:20241023T221600Z
-UID:ci0960123-tt27911000--2024-10-23-22-15
+DTSTART;TZID=Europe/London:20241025T232500
+DTEND;TZID=Europe/London:20241026T015500
+DTSTAMP:20241025T232600Z
+UID:ci0960123-tt27911000--2024-10-25-23-25
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
   chaos on the unsuspecting residents of Miles County as they peacefully dr
  ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
- 0/\n\nIMDb rating: 7
+ 0/\n\nIMDb rating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241023T121500
-DTEND;TZID=Europe/London:20241023T144500
-DTSTAMP:20241023T121600Z
-UID:ci0960123-tt8368368--2024-10-23-12-15
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
-  Trump started his real-estate business in 1970s and '80s New York with th
- e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
- le/tt8368368/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241023T141500
-DTEND;TZID=Europe/London:20241023T164500
-DTSTAMP:20241023T141600Z
-UID:ci0960123-tt8368368--2024-10-23-14-15
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
-  Trump started his real-estate business in 1970s and '80s New York with th
- e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
- le/tt8368368/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241023T195000
-DTEND;TZID=Europe/London:20241023T222000
-DTSTAMP:20241023T195100Z
-UID:ci0960123-tt8368368--2024-10-23-19-50
+DTSTART;TZID=Europe/London:20241025T202500
+DTEND;TZID=Europe/London:20241025T225500
+DTSTAMP:20241025T202600Z
+UID:ci0960123-tt8368368--2024-10-25-20-25
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
   Trump started his real-estate business in 1970s and '80s New York with th
  e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
@@ -304,10 +227,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241023T203000
-DTEND;TZID=Europe/London:20241023T232000
-DTSTAMP:20241023T203100Z
-UID:ci0960123-tt17526714--2024-10-23-20-30
+DTSTART;TZID=Europe/London:20241025T223500
+DTEND;TZID=Europe/London:20241026T012500
+DTSTAMP:20241025T223600Z
+UID:ci0960123-tt17526714--2024-10-25-22-35
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
  k-market drug: a cell-replicating substance that temporarily creates a you
  nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
@@ -316,10 +239,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241023T122500
-DTEND;TZID=Europe/London:20241023T143500
-DTSTAMP:20241023T122600Z
-UID:ci0960123-tt29623480--2024-10-23-12-25
+DTSTART;TZID=Europe/London:20241025T093000
+DTEND;TZID=Europe/London:20241025T114000
+DTSTAMP:20241025T093100Z
+UID:ci0960123-tt29623480--2024-10-25-9-30
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
@@ -329,10 +252,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241023T160500
-DTEND;TZID=Europe/London:20241023T181500
-DTSTAMP:20241023T160600Z
-UID:ci0960123-tt29623480--2024-10-23-16-5
+DTSTART;TZID=Europe/London:20241025T110000
+DTEND;TZID=Europe/London:20241025T131000
+DTSTAMP:20241025T110100Z
+UID:ci0960123-tt29623480--2024-10-25-11-0
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
@@ -342,10 +265,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241023T180500
-DTEND;TZID=Europe/London:20241023T201500
-DTSTAMP:20241023T180600Z
-UID:ci0960123-tt29623480--2024-10-23-18-5
+DTSTART;TZID=Europe/London:20241025T120500
+DTEND;TZID=Europe/London:20241025T141500
+DTSTAMP:20241025T120600Z
+UID:ci0960123-tt29623480--2024-10-25-12-5
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
@@ -355,384 +278,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241023T211500
-DTEND;TZID=Europe/London:20241023T232500
-DTSTAMP:20241023T211600Z
-UID:ci0960123-tt29623480--2024-10-23-21-15
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241023T150000
-DTEND;TZID=Europe/London:20241023T171000
-DTSTAMP:20241023T150100Z
-UID:ci0960123-tt8864596--2024-10-23-15-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241023T170000
-DTEND;TZID=Europe/London:20241023T191000
-DTSTAMP:20241023T170100Z
-UID:ci0960123-tt8864596--2024-10-23-17-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241023T191000
-DTEND;TZID=Europe/London:20241023T212000
-DTSTAMP:20241023T191100Z
-UID:ci0960123-tt8864596--2024-10-23-19-10
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241023T223500
-DTEND;TZID=Europe/London:20241024T004500
-DTSTAMP:20241023T223600Z
-UID:ci0960123-tt8864596--2024-10-23-22-35
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vettaiyan
-DTSTART;TZID=Europe/London:20241023T201500
-DTEND;TZID=Europe/London:20241023T232500
-DTSTAMP:20241023T201600Z
-UID:ci0960123-tt26936666--2024-10-23-20-15
-DESCRIPTION:Duration: 2h 43m (163 mins)\n\nRuthless criminal activity is m
- et with force from a maverick police officer with a disregard for the rule
- s as he confronts an outbreak of lawlessness.\n\nhttps://www.imdb.com/titl
- e/tt26936666/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=Europe/London:20241024T121500
-DTEND;TZID=Europe/London:20241024T142500
-DTSTAMP:20241024T121600Z
-UID:ci0960123-tt2049403--2024-10-24-12-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=Europe/London:20241024T141500
-DTEND;TZID=Europe/London:20241024T162500
-DTSTAMP:20241024T141600Z
-UID:ci0960123-tt2049403--2024-10-24-14-15
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice Beetlejuice
-DTSTART;TZID=Europe/London:20241024T173000
-DTEND;TZID=Europe/London:20241024T194000
-DTSTAMP:20241024T173100Z
-UID:ci0960123-tt2049403--2024-10-24-17-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
- generations of the Deetz family return home to Winter River. Still haunted
-  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
- hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
- imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20241024T130000
-DTEND;TZID=Europe/London:20241024T150000
-DTSTAMP:20241024T130100Z
-UID:ci0960123-tt7510222--2024-10-24-13-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
-  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
- menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
- nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
- mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20241024T151500
-DTEND;TZID=Europe/London:20241024T171500
-DTSTAMP:20241024T151600Z
-UID:ci0960123-tt7510222--2024-10-24-15-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
-  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
- menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
- nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
- mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241024T135500
-DTEND;TZID=Europe/London:20241024T164000
-DTSTAMP:20241024T135600Z
-UID:ci0960123-tt11315808--2024-10-24-13-55
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241024T172500
-DTEND;TZID=Europe/London:20241024T201000
-DTSTAMP:20241024T172600Z
-UID:ci0960123-tt11315808--2024-10-24-17-25
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241024T205000
-DTEND;TZID=Europe/London:20241024T233500
-DTSTAMP:20241024T205100Z
-UID:ci0960123-tt11315808--2024-10-24-20-50
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
- ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
- n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
- itle/tt11315808/\n\nIMDb rating: 5.3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lee
-DTSTART;TZID=Europe/London:20241024T162500
-DTEND;TZID=Europe/London:20241024T185000
-DTSTAMP:20241024T162600Z
-UID:ci0960123-tt5112584--2024-10-24-16-25
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nThe story of American photograp
- her Lee Miller\, a fashion model who became an acclaimed war correspondent
-  for Vogue magazine during World War II.\n\nhttps://www.imdb.com/title/tt5
- 112584/\n\nIMDb rating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pani
-DTSTART;TZID=Europe/London:20241024T194500
-DTEND;TZID=Europe/London:20241024T221000
-DTSTAMP:20241024T194600Z
-UID:ci0960123-tt29461220--2024-10-24-19-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen the peaceful married life 
- of a couple is unexpectedly disrupted by two youngsters with criminal incl
- ination\, the trials and tribulations connect the mobster lives of Thrissu
- r by becoming a part of vengeance.\n\nhttps://www.imdb.com/title/tt2946122
- 0/
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241024T124500
-DTEND;TZID=Europe/London:20241024T152000
-DTSTAMP:20241024T124600Z
-UID:ci0960123-tt29268110--2024-10-24-12-45
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241024T150000
-DTEND;TZID=Europe/London:20241024T173500
-DTSTAMP:20241024T150100Z
-UID:ci0960123-tt29268110--2024-10-24-15-0
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241024T165500
-DTEND;TZID=Europe/London:20241024T193000
-DTSTAMP:20241024T165600Z
-UID:ci0960123-tt29268110--2024-10-24-16-55
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241024T190500
-DTEND;TZID=Europe/London:20241024T214000
-DTSTAMP:20241024T190600Z
-UID:ci0960123-tt29268110--2024-10-24-19-5
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241024T200000
-DTEND;TZID=Europe/London:20241024T223500
-DTSTAMP:20241024T200100Z
-UID:ci0960123-tt29268110--2024-10-24-20-0
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241024T215500
-DTEND;TZID=Europe/London:20241025T003000
-DTSTAMP:20241024T215600Z
-UID:ci0960123-tt29268110--2024-10-24-21-55
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241024T225000
-DTEND;TZID=Europe/London:20241025T012500
-DTSTAMP:20241024T225100Z
-UID:ci0960123-tt29268110--2024-10-24-22-50
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Speak No Evil
-DTSTART;TZID=Europe/London:20241024T182000
-DTEND;TZID=Europe/London:20241024T203500
-DTSTAMP:20241024T182100Z
-UID:ci0960123-tt27534307--2024-10-24-18-20
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
- whole weekend in a lonely home in the countryside\, but as the weekend pro
- gresses\, they realize that a dark side lies within the family who invited
-  them.\n\nhttps://www.imdb.com/title/tt27534307/\n\nIMDb rating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terrifier 3
-DTSTART;TZID=Europe/London:20241024T203000
-DTEND;TZID=Europe/London:20241024T230000
-DTSTAMP:20241024T203100Z
-UID:ci0960123-tt27911000--2024-10-24-20-30
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
-  chaos on the unsuspecting residents of Miles County as they peacefully dr
- ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
- 0/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terrifier 3
-DTSTART;TZID=Europe/London:20241024T222000
-DTEND;TZID=Europe/London:20241025T005000
-DTSTAMP:20241024T222100Z
-UID:ci0960123-tt27911000--2024-10-24-22-20
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
-  chaos on the unsuspecting residents of Miles County as they peacefully dr
- ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
- 0/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241024T134000
-DTEND;TZID=Europe/London:20241024T161000
-DTSTAMP:20241024T134100Z
-UID:ci0960123-tt8368368--2024-10-24-13-40
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
-  Trump started his real-estate business in 1970s and '80s New York with th
- e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
- le/tt8368368/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241024T192000
-DTEND;TZID=Europe/London:20241024T215000
-DTSTAMP:20241024T192100Z
-UID:ci0960123-tt8368368--2024-10-24-19-20
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
-  Trump started his real-estate business in 1970s and '80s New York with th
- e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
- le/tt8368368/\n\nIMDb rating: 7.2
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241024T201500
-DTEND;TZID=Europe/London:20241024T230500
-DTSTAMP:20241024T201600Z
-UID:ci0960123-tt17526714--2024-10-24-20-15
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241024T220500
-DTEND;TZID=Europe/London:20241025T005500
-DTSTAMP:20241024T220600Z
-UID:ci0960123-tt17526714--2024-10-24-22-5
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241024T155000
-DTEND;TZID=Europe/London:20241024T180000
-DTSTAMP:20241024T155100Z
-UID:ci0960123-tt29623480--2024-10-24-15-50
+DTSTART;TZID=Europe/London:20241025T132500
+DTEND;TZID=Europe/London:20241025T153500
+DTSTAMP:20241025T132600Z
+UID:ci0960123-tt29623480--2024-10-25-13-25
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
@@ -742,10 +291,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241024T171000
-DTEND;TZID=Europe/London:20241024T192000
-DTSTAMP:20241024T171100Z
-UID:ci0960123-tt29623480--2024-10-24-17-10
+DTSTART;TZID=Europe/London:20241025T143500
+DTEND;TZID=Europe/London:20241025T164500
+DTSTAMP:20241025T143600Z
+UID:ci0960123-tt29623480--2024-10-25-14-35
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
@@ -755,10 +304,23 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241024T194000
-DTEND;TZID=Europe/London:20241024T215000
-DTSTAMP:20241024T194100Z
-UID:ci0960123-tt29623480--2024-10-24-19-40
+DTSTART;TZID=Europe/London:20241025T155000
+DTEND;TZID=Europe/London:20241025T180000
+DTSTAMP:20241025T155100Z
+UID:ci0960123-tt29623480--2024-10-25-15-50
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241025T181500
+DTEND;TZID=Europe/London:20241025T202500
+DTSTAMP:20241025T181600Z
+UID:ci0960123-tt29623480--2024-10-25-18-15
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
@@ -768,10 +330,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot (3D)
-DTSTART;TZID=Europe/London:20241024T120500
-DTEND;TZID=Europe/London:20241024T141500
-DTSTAMP:20241024T120600Z
-UID:ci0960123-tt29623480-3d-2024-10-24-12-5
+DTSTART;TZID=Europe/London:20241025T150000
+DTEND;TZID=Europe/London:20241025T171000
+DTSTAMP:20241025T150100Z
+UID:ci0960123-tt29623480-3d-2024-10-25-15-0
 DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  ent robot called Roz is stranded on an uninhabited island. To survive the 
  harsh environment\, Roz bonds with the island's animals and cares for an o
@@ -781,50 +343,52 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241024T123000
-DTEND;TZID=Europe/London:20241024T144000
-DTSTAMP:20241024T123100Z
-UID:ci0960123-tt8864596--2024-10-24-12-30
+DTSTART;TZID=Europe/London:20241025T102500
+DTEND;TZID=Europe/London:20241025T123500
+DTSTAMP:20241025T102600Z
+UID:ci0960123-tt8864596--2024-10-25-10-25
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
  mus Prime and Megatron\, better known as sworn enemies\, but who once were
   friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241024T144500
-DTEND;TZID=Europe/London:20241024T165500
-DTSTAMP:20241024T144600Z
-UID:ci0960123-tt8864596--2024-10-24-14-45
+DTSTART;TZID=Europe/London:20241025T123500
+DTEND;TZID=Europe/London:20241025T144500
+DTSTAMP:20241025T123600Z
+UID:ci0960123-tt8864596--2024-10-25-12-35
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
  mus Prime and Megatron\, better known as sworn enemies\, but who once were
   friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241024T175000
-DTEND;TZID=Europe/London:20241024T200000
-DTSTAMP:20241024T175100Z
-UID:ci0960123-tt8864596--2024-10-24-17-50
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T100500
+DTEND;TZID=Europe/London:20241025T122000
+DTSTAMP:20241025T100600Z
+UID:ci0960123-tt16366836--2024-10-25-10-5
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241024T232000
-DTEND;TZID=Europe/London:20241025T013000
-DTSTAMP:20241024T232100Z
-UID:ci0960123-tt8864596--2024-10-24-23-20
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.8
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T121000
+DTEND;TZID=Europe/London:20241025T142500
+DTSTAMP:20241025T121100Z
+UID:ci0960123-tt16366836--2024-10-25-12-10
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -833,10 +397,37 @@ DTSTART;TZID=Europe/London:20241025T125000
 DTEND;TZID=Europe/London:20241025T150500
 DTSTAMP:20241025T125100Z
 UID:ci0960123-tt16366836--2024-10-25-12-50
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T135000
+DTEND;TZID=Europe/London:20241025T160500
+DTSTAMP:20241025T135100Z
+UID:ci0960123-tt16366836--2024-10-25-13-50
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T143000
+DTEND;TZID=Europe/London:20241025T164500
+DTSTAMP:20241025T143100Z
+UID:ci0960123-tt16366836--2024-10-25-14-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -845,10 +436,37 @@ DTSTART;TZID=Europe/London:20241025T154000
 DTEND;TZID=Europe/London:20241025T175500
 DTSTAMP:20241025T154100Z
 UID:ci0960123-tt16366836--2024-10-25-15-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T162000
+DTEND;TZID=Europe/London:20241025T183500
+DTSTAMP:20241025T162100Z
+UID:ci0960123-tt16366836--2024-10-25-16-20
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T170000
+DTEND;TZID=Europe/London:20241025T191500
+DTSTAMP:20241025T170100Z
+UID:ci0960123-tt16366836--2024-10-25-17-0
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -857,10 +475,37 @@ DTSTART;TZID=Europe/London:20241025T182000
 DTEND;TZID=Europe/London:20241025T203500
 DTSTAMP:20241025T182100Z
 UID:ci0960123-tt16366836--2024-10-25-18-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T193000
+DTEND;TZID=Europe/London:20241025T214500
+DTSTAMP:20241025T193100Z
+UID:ci0960123-tt16366836--2024-10-25-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T200500
+DTEND;TZID=Europe/London:20241025T222000
+DTSTAMP:20241025T200600Z
+UID:ci0960123-tt16366836--2024-10-25-20-5
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -869,22 +514,2757 @@ DTSTART;TZID=Europe/London:20241025T204000
 DTEND;TZID=Europe/London:20241025T225500
 DTSTAMP:20241025T204100Z
 UID:ci0960123-tt16366836--2024-10-25-20-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Venom: The Last Dance
-DTSTART;TZID=Europe/London:20241026T000000
-DTEND;TZID=Europe/London:20241026T021500
-DTSTAMP:20241026T000100Z
-UID:ci0960123-tt16366836--2024-10-26-0-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DTSTART;TZID=Europe/London:20241025T212000
+DTEND;TZID=Europe/London:20241025T233500
+DTSTAMP:20241025T212100Z
+UID:ci0960123-tt16366836--2024-10-25-21-20
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T220000
+DTEND;TZID=Europe/London:20241026T001500
+DTSTAMP:20241025T220100Z
+UID:ci0960123-tt16366836--2024-10-25-22-0
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241025T235000
+DTEND;TZID=Europe/London:20241026T020500
+DTSTAMP:20241025T235100Z
+UID:ci0960123-tt16366836--2024-10-25-23-50
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance (3D)
+DTSTART;TZID=Europe/London:20241025T175500
+DTEND;TZID=Europe/London:20241025T201000
+DTSTAMP:20241025T175600Z
+UID:ci0960123-tt16366836-3d-2024-10-25-17-55
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance (3D)
+DTSTART;TZID=Europe/London:20241025T231000
+DTEND;TZID=Europe/London:20241026T012500
+DTSTAMP:20241025T231100Z
+UID:ci0960123-tt16366836-3d-2024-10-25-23-10
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:200% Wolf
+DTSTART;TZID=Europe/London:20241026T121000
+DTEND;TZID=Europe/London:20241026T141500
+DTSTAMP:20241026T121100Z
+UID:ci0960123-tt27722575--2024-10-26-12-10
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen Freddy Lupin's wayward wish
+  transforms him into a werewolf and deposits a mischievous moon sprite on 
+ earth\, Freddy must restore the cosmic order before the earth and moon col
+ lide.\n\nhttps://www.imdb.com/title/tt27722575/\n\nIMDb rating: 5.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nightmare on Elm Street (1984)
+DTSTART;TZID=Europe/London:20241026T185500
+DTEND;TZID=Europe/London:20241026T205500
+DTSTAMP:20241026T185600Z
+UID:ci0960123-tt0087800--2024-10-26-18-55
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTeenager Nancy Thompson must unc
+ over the dark truth concealed by her parents after she and her friends bec
+ ome targets of the spirit of a serial killer with a bladed glove in their 
+ dreams\, in which if they die\, it kills them in rea...\n\nhttps://www.imd
+ b.com/title/tt0087800/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241026T162500
+DTEND;TZID=Europe/London:20241026T183500
+DTSTAMP:20241026T162600Z
+UID:ci0960123-tt2049403--2024-10-26-16-25
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241026T182500
+DTEND;TZID=Europe/London:20241026T203500
+DTSTAMP:20241026T182600Z
+UID:ci0960123-tt2049403--2024-10-26-18-25
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluey at the Cinema: Family Trip Collection
+DTSTART;TZID=Europe/London:20241026T091500
+DTEND;TZID=Europe/London:20241026T103500
+DTSTAMP:20241026T091600Z
+UID:ci0960123-tt33253099--2024-10-26-9-15
+DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
+ 53099/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bougainvillea
+DTSTART;TZID=Europe/London:20241026T233000
+DTEND;TZID=Europe/London:20241027T021500
+DTSTAMP:20241026T233100Z
+UID:ci0960123-tt32592802--2024-10-26-23-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nA family entangled in a police 
+ investigation surrounding the mysterious disappearance of tourists in Kera
+ la.\n\nhttps://www.imdb.com/title/tt32592802/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Despicable Me 4
+DTSTART;TZID=Europe/London:20241026T100000
+DTEND;TZID=Europe/London:20241026T120000
+DTSTAMP:20241026T100100Z
+UID:ci0960123-tt7510222--2024-10-26-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
+  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
+ menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
+ nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
+ mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dragonkeeper
+DTSTART;TZID=Europe/London:20241026T091000
+DTEND;TZID=Europe/London:20241026T111500
+DTSTAMP:20241026T091100Z
+UID:ci0960123-tt7093904--2024-10-26-9-10
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nThe fate of ancient China rests 
+ on the shoulders of one young girl\, who must find the last remaining drag
+ on egg and fulfill her destiny.\n\nhttps://www.imdb.com/title/tt7093904/\n
+ \nIMDb rating: 5.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241026T171500
+DTEND;TZID=Europe/London:20241026T200000
+DTSTAMP:20241026T171600Z
+UID:ci0960123-tt11315808--2024-10-26-17-15
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241026T201500
+DTEND;TZID=Europe/London:20241026T230000
+DTSTAMP:20241026T201600Z
+UID:ci0960123-tt11315808--2024-10-26-20-15
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241026T231500
+DTEND;TZID=Europe/London:20241027T020000
+DTSTAMP:20241026T231600Z
+UID:ci0960123-tt11315808--2024-10-26-23-15
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lee
+DTSTART;TZID=Europe/London:20241026T093000
+DTEND;TZID=Europe/London:20241026T115500
+DTSTAMP:20241026T093100Z
+UID:ci0960123-tt5112584--2024-10-26-9-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nThe story of American photograp
+ her Lee Miller\, a fashion model who became an acclaimed war correspondent
+  for Vogue magazine during World War II.\n\nhttps://www.imdb.com/title/tt5
+ 112584/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pani
+DTSTART;TZID=Europe/London:20241026T211500
+DTEND;TZID=Europe/London:20241027T000500
+DTSTAMP:20241026T211600Z
+UID:ci0960123-tt29461220--2024-10-26-21-15
+DESCRIPTION:Duration: 2h 23m (143 mins)\n\nWhen the peaceful married life 
+ of a couple is unexpectedly disrupted by two youngsters with criminal incl
+ ination\, the trials and tribulations connect the mobster lives of Thrissu
+ r by becoming a part of vengeance.\n\nhttps://www.imdb.com/title/tt2946122
+ 0/\n\nIMDb rating: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebellious
+DTSTART;TZID=Europe/London:20241026T111500
+DTEND;TZID=Europe/London:20241026T131500
+DTSTAMP:20241026T111600Z
+UID:ci0960123-tt32155919--2024-10-26-11-15
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn this modern twist on a classi
+ c fairy tale\, a headstrong princess is stolen by an evil sorcerer\, and h
+ er scholarly fiancé must use his wits in an epic quest to find her while 
+ she boldly challenges her captors and plots a daring ...\n\nhttps://www.im
+ db.com/title/tt32155919/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salem's Lot
+DTSTART;TZID=Europe/London:20241026T103000
+DTEND;TZID=Europe/London:20241026T125000
+DTSTAMP:20241026T103100Z
+UID:ci0960123-tt10245072--2024-10-26-10-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAn author returns to his hometo
+ wn of Jerusalem's Lot in search of inspiration for his next book\, only to
+  discover that the townspeople are being attacked by a bloodthirsty vampir
+ e.\n\nhttps://www.imdb.com/title/tt10245072/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241026T174000
+DTEND;TZID=Europe/London:20241026T201500
+DTSTAMP:20241026T174100Z
+UID:ci0960123-tt29268110--2024-10-26-17-40
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241026T204000
+DTEND;TZID=Europe/London:20241026T231500
+DTSTAMP:20241026T204100Z
+UID:ci0960123-tt29268110--2024-10-26-20-40
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241026T223500
+DTEND;TZID=Europe/London:20241027T011000
+DTSTAMP:20241026T223600Z
+UID:ci0960123-tt29268110--2024-10-26-22-35
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speak No Evil
+DTSTART;TZID=Europe/London:20241026T134500
+DTEND;TZID=Europe/London:20241026T160000
+DTSTAMP:20241026T134600Z
+UID:ci0960123-tt27534307--2024-10-26-13-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
+ whole weekend in a lonely home in the countryside\, but as the weekend pro
+ gresses\, they realize that a dark side lies within the family who invited
+  them.\n\nhttps://www.imdb.com/title/tt27534307/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241026T203000
+DTEND;TZID=Europe/London:20241026T230000
+DTSTAMP:20241026T203100Z
+UID:ci0960123-tt27911000--2024-10-26-20-30
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241026T231500
+DTEND;TZID=Europe/London:20241027T014500
+DTSTAMP:20241026T231600Z
+UID:ci0960123-tt27911000--2024-10-26-23-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241026T170000
+DTEND;TZID=Europe/London:20241026T193000
+DTSTAMP:20241026T170100Z
+UID:ci0960123-tt8368368--2024-10-26-17-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241026T232500
+DTEND;TZID=Europe/London:20241027T015500
+DTSTAMP:20241026T232600Z
+UID:ci0960123-tt8368368--2024-10-26-23-25
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241026T110000
+DTEND;TZID=Europe/London:20241026T131000
+DTSTAMP:20241026T110100Z
+UID:ci0960123-tt29623480--2024-10-26-11-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241026T115000
+DTEND;TZID=Europe/London:20241026T140000
+DTSTAMP:20241026T115100Z
+UID:ci0960123-tt29623480--2024-10-26-11-50
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241026T130500
+DTEND;TZID=Europe/London:20241026T151500
+DTSTAMP:20241026T130600Z
+UID:ci0960123-tt29623480--2024-10-26-13-5
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241026T141500
+DTEND;TZID=Europe/London:20241026T162500
+DTSTAMP:20241026T141600Z
+UID:ci0960123-tt29623480--2024-10-26-14-15
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241026T150000
+DTEND;TZID=Europe/London:20241026T171000
+DTSTAMP:20241026T150100Z
+UID:ci0960123-tt29623480--2024-10-26-15-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241026T160000
+DTEND;TZID=Europe/London:20241026T181000
+DTSTAMP:20241026T160100Z
+UID:ci0960123-tt29623480--2024-10-26-16-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241026T173000
+DTEND;TZID=Europe/London:20241026T194000
+DTSTAMP:20241026T173100Z
+UID:ci0960123-tt29623480--2024-10-26-17-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241026T101000
+DTEND;TZID=Europe/London:20241026T122000
+DTSTAMP:20241026T101100Z
+UID:ci0960123-tt8864596--2024-10-26-10-10
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241026T123500
+DTEND;TZID=Europe/London:20241026T144500
+DTSTAMP:20241026T123600Z
+UID:ci0960123-tt8864596--2024-10-26-12-35
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241026T143000
+DTEND;TZID=Europe/London:20241026T164000
+DTSTAMP:20241026T143100Z
+UID:ci0960123-tt8864596--2024-10-26-14-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vettaiyan
+DTSTART;TZID=Europe/London:20241026T194500
+DTEND;TZID=Europe/London:20241026T225500
+DTSTAMP:20241026T194600Z
+UID:ci0960123-tt26936666--2024-10-26-19-45
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nRuthless criminal activity is m
+ et with force from a maverick police officer with a disregard for the rule
+ s as he confronts an outbreak of lawlessness.\n\nhttps://www.imdb.com/titl
+ e/tt26936666/\n\nIMDb rating: 7.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nightmare on Elm Street (1984)
+DTSTART;TZID=Europe/London:20241027T220000
+DTEND;TZID=Europe/London:20241028T000000
+DTSTAMP:20241027T220100Z
+UID:ci0960123-tt0087800--2024-10-27-22-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTeenager Nancy Thompson must unc
+ over the dark truth concealed by her parents after she and her friends bec
+ ome targets of the spirit of a serial killer with a bladed glove in their 
+ dreams\, in which if they die\, it kills them in rea...\n\nhttps://www.imd
+ b.com/title/tt0087800/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241027T115500
+DTEND;TZID=Europe/London:20241027T140500
+DTSTAMP:20241027T115600Z
+UID:ci0960123-tt2049403--2024-10-27-11-55
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241027T160000
+DTEND;TZID=Europe/London:20241027T181000
+DTSTAMP:20241027T160100Z
+UID:ci0960123-tt2049403--2024-10-27-16-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluey at the Cinema: Family Trip Collection
+DTSTART;TZID=Europe/London:20241027T122500
+DTEND;TZID=Europe/London:20241027T134500
+DTSTAMP:20241027T122600Z
+UID:ci0960123-tt33253099--2024-10-27-12-25
+DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
+ 53099/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Despicable Me 4
+DTSTART;TZID=Europe/London:20241027T100000
+DTEND;TZID=Europe/London:20241027T120000
+DTSTAMP:20241027T100100Z
+UID:ci0960123-tt7510222--2024-10-27-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
+  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
+ menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
+ nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
+ mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241027T171500
+DTEND;TZID=Europe/London:20241027T200000
+DTSTAMP:20241027T171600Z
+UID:ci0960123-tt11315808--2024-10-27-17-15
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241027T195000
+DTEND;TZID=Europe/London:20241027T223500
+DTSTAMP:20241027T195100Z
+UID:ci0960123-tt11315808--2024-10-27-19-50
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Let Go
+DTSTART;TZID=Europe/London:20241027T003000
+DTEND;TZID=Europe/London:20241027T024000
+DTSTAMP:20241027T003100Z
+UID:ci0960123-tt14415204--2024-10-27-0-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA family that has been haunted 
+ by an evil spirit for years. Their safety and their surroundings come into
+  question when one of the children questions if the evil is real.\n\nhttps
+ ://www.imdb.com/title/tt14415204/\n\nIMDb rating: 5.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebellious
+DTSTART;TZID=Europe/London:20241027T094000
+DTEND;TZID=Europe/London:20241027T114000
+DTSTAMP:20241027T094100Z
+UID:ci0960123-tt32155919--2024-10-27-9-40
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn this modern twist on a classi
+ c fairy tale\, a headstrong princess is stolen by an evil sorcerer\, and h
+ er scholarly fiancé must use his wits in an epic quest to find her while 
+ she boldly challenges her captors and plots a daring ...\n\nhttps://www.im
+ db.com/title/tt32155919/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seasons
+DTSTART;TZID=Europe/London:20241027T193000
+DTEND;TZID=Europe/London:20241027T213500
+DTSTAMP:20241027T193100Z
+UID:ci0960123-tt33030072--2024-10-27-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nMarcin is an egocentric actor w
+ ho has to face the unexpected breakdown of a long-term relationship. Durin
+ g three different stage performances fantasy mixes with the prose of the l
+ ife of a separating couple.\n\nhttps://www.imdb.com/title/tt33030072/\n\nI
+ MDb rating: 7.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241027T165000
+DTEND;TZID=Europe/London:20241027T192500
+DTSTAMP:20241027T165100Z
+UID:ci0960123-tt29268110--2024-10-27-16-50
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241027T202000
+DTEND;TZID=Europe/London:20241027T225500
+DTSTAMP:20241027T202100Z
+UID:ci0960123-tt29268110--2024-10-27-20-20
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241027T222000
+DTEND;TZID=Europe/London:20241028T005500
+DTSTAMP:20241027T222100Z
+UID:ci0960123-tt29268110--2024-10-27-22-20
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speak No Evil
+DTSTART;TZID=Europe/London:20241027T153000
+DTEND;TZID=Europe/London:20241027T174500
+DTSTAMP:20241027T153100Z
+UID:ci0960123-tt27534307--2024-10-27-15-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
+ whole weekend in a lonely home in the countryside\, but as the weekend pro
+ gresses\, they realize that a dark side lies within the family who invited
+  them.\n\nhttps://www.imdb.com/title/tt27534307/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241027T210000
+DTEND;TZID=Europe/London:20241027T233000
+DTSTAMP:20241027T210100Z
+UID:ci0960123-tt27911000--2024-10-27-21-0
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241027T140500
+DTEND;TZID=Europe/London:20241027T163500
+DTSTAMP:20241027T140600Z
+UID:ci0960123-tt8368368--2024-10-27-14-5
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241027T174500
+DTEND;TZID=Europe/London:20241027T201500
+DTSTAMP:20241027T174600Z
+UID:ci0960123-tt8368368--2024-10-27-17-45
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241027T180000
+DTEND;TZID=Europe/London:20241027T205000
+DTSTAMP:20241027T180100Z
+UID:ci0960123-tt17526714--2024-10-27-18-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
+ k-market drug: a cell-replicating substance that temporarily creates a you
+ nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
+ /\n\nIMDb rating: 7.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241027T101000
+DTEND;TZID=Europe/London:20241027T122000
+DTSTAMP:20241027T101100Z
+UID:ci0960123-tt29623480--2024-10-27-10-10
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241027T121000
+DTEND;TZID=Europe/London:20241027T142000
+DTSTAMP:20241027T121100Z
+UID:ci0960123-tt29623480--2024-10-27-12-10
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241027T135000
+DTEND;TZID=Europe/London:20241027T160000
+DTSTAMP:20241027T135100Z
+UID:ci0960123-tt29623480--2024-10-27-13-50
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241027T150000
+DTEND;TZID=Europe/London:20241027T171000
+DTSTAMP:20241027T150100Z
+UID:ci0960123-tt29623480--2024-10-27-15-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241027T170500
+DTEND;TZID=Europe/London:20241027T191500
+DTSTAMP:20241027T170600Z
+UID:ci0960123-tt29623480--2024-10-27-17-5
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241027T225500
+DTEND;TZID=Europe/London:20241028T010500
+DTSTAMP:20241027T225600Z
+UID:ci0960123-tt29623480--2024-10-27-22-55
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241027T125000
+DTEND;TZID=Europe/London:20241027T150000
+DTSTAMP:20241027T125100Z
+UID:ci0960123-tt29623480-3d-2024-10-27-12-50
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241027T102500
+DTEND;TZID=Europe/London:20241027T123500
+DTSTAMP:20241027T102600Z
+UID:ci0960123-tt8864596--2024-10-27-10-25
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241027T123500
+DTEND;TZID=Europe/London:20241027T144500
+DTSTAMP:20241027T123600Z
+UID:ci0960123-tt8864596--2024-10-27-12-35
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241027T144000
+DTEND;TZID=Europe/London:20241027T165000
+DTSTAMP:20241027T144100Z
+UID:ci0960123-tt8864596--2024-10-27-14-40
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T112000
+DTEND;TZID=Europe/London:20241027T133500
+DTSTAMP:20241027T112100Z
+UID:ci0960123-tt16366836--2024-10-27-11-20
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T130000
+DTEND;TZID=Europe/London:20241027T151500
+DTSTAMP:20241027T130100Z
+UID:ci0960123-tt16366836--2024-10-27-13-0
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T142500
+DTEND;TZID=Europe/London:20241027T164000
+DTSTAMP:20241027T142600Z
+UID:ci0960123-tt16366836--2024-10-27-14-25
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T161500
+DTEND;TZID=Europe/London:20241027T183000
+DTSTAMP:20241027T161600Z
+UID:ci0960123-tt16366836--2024-10-27-16-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T173000
+DTEND;TZID=Europe/London:20241027T194500
+DTSTAMP:20241027T173100Z
+UID:ci0960123-tt16366836--2024-10-27-17-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T184500
+DTEND;TZID=Europe/London:20241027T210000
+DTSTAMP:20241027T184600Z
+UID:ci0960123-tt16366836--2024-10-27-18-45
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T200500
+DTEND;TZID=Europe/London:20241027T222000
+DTSTAMP:20241027T200600Z
+UID:ci0960123-tt16366836--2024-10-27-20-5
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T211500
+DTEND;TZID=Europe/London:20241027T233000
+DTSTAMP:20241027T211600Z
+UID:ci0960123-tt16366836--2024-10-27-21-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241027T224000
+DTEND;TZID=Europe/London:20241028T005500
+DTSTAMP:20241027T224100Z
+UID:ci0960123-tt16366836--2024-10-27-22-40
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance (3D)
+DTSTART;TZID=Europe/London:20241027T151500
+DTEND;TZID=Europe/London:20241027T173000
+DTSTAMP:20241027T151600Z
+UID:ci0960123-tt16366836-3d-2024-10-27-15-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vettaiyan
+DTSTART;TZID=Europe/London:20241027T183000
+DTEND;TZID=Europe/London:20241027T214000
+DTSTAMP:20241027T183100Z
+UID:ci0960123-tt26936666--2024-10-27-18-30
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nRuthless criminal activity is m
+ et with force from a maverick police officer with a disregard for the rule
+ s as he confronts an outbreak of lawlessness.\n\nhttps://www.imdb.com/titl
+ e/tt26936666/\n\nIMDb rating: 7.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vettaiyan
+DTSTART;TZID=Europe/London:20241027T203500
+DTEND;TZID=Europe/London:20241027T234500
+DTSTAMP:20241027T203600Z
+UID:ci0960123-tt26936666--2024-10-27-20-35
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nRuthless criminal activity is m
+ et with force from a maverick police officer with a disregard for the rule
+ s as he confronts an outbreak of lawlessness.\n\nhttps://www.imdb.com/titl
+ e/tt26936666/\n\nIMDb rating: 7.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:200% Wolf
+DTSTART;TZID=Europe/London:20241028T122500
+DTEND;TZID=Europe/London:20241028T143000
+DTSTAMP:20241028T122600Z
+UID:ci0960123-tt27722575--2024-10-28-12-25
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen Freddy Lupin's wayward wish
+  transforms him into a werewolf and deposits a mischievous moon sprite on 
+ earth\, Freddy must restore the cosmic order before the earth and moon col
+ lide.\n\nhttps://www.imdb.com/title/tt27722575/\n\nIMDb rating: 5.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241028T174500
+DTEND;TZID=Europe/London:20241028T195500
+DTSTAMP:20241028T174600Z
+UID:ci0960123-tt2049403--2024-10-28-17-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluey at the Cinema: Family Trip Collection
+DTSTART;TZID=Europe/London:20241028T092000
+DTEND;TZID=Europe/London:20241028T104000
+DTSTAMP:20241028T092100Z
+UID:ci0960123-tt33253099--2024-10-28-9-20
+DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
+ 53099/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bougainvillea
+DTSTART;TZID=Europe/London:20241028T225500
+DTEND;TZID=Europe/London:20241029T014000
+DTSTAMP:20241028T225600Z
+UID:ci0960123-tt32592802--2024-10-28-22-55
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nA family entangled in a police 
+ investigation surrounding the mysterious disappearance of tourists in Kera
+ la.\n\nhttps://www.imdb.com/title/tt32592802/\n\nIMDb rating: 6.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Despicable Me 4
+DTSTART;TZID=Europe/London:20241028T100000
+DTEND;TZID=Europe/London:20241028T120000
+DTSTAMP:20241028T100100Z
+UID:ci0960123-tt7510222--2024-10-28-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
+  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
+ menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
+ nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
+ mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241028T204000
+DTEND;TZID=Europe/London:20241028T232500
+DTSTAMP:20241028T204100Z
+UID:ci0960123-tt11315808--2024-10-28-20-40
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lee
+DTSTART;TZID=Europe/London:20241028T101500
+DTEND;TZID=Europe/London:20241028T124000
+DTSTAMP:20241028T101600Z
+UID:ci0960123-tt5112584--2024-10-28-10-15
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nThe story of American photograp
+ her Lee Miller\, a fashion model who became an acclaimed war correspondent
+  for Vogue magazine during World War II.\n\nhttps://www.imdb.com/title/tt5
+ 112584/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Let Go
+DTSTART;TZID=Europe/London:20241028T001000
+DTEND;TZID=Europe/London:20241028T022000
+DTSTAMP:20241028T001100Z
+UID:ci0960123-tt14415204--2024-10-28-0-10
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA family that has been haunted 
+ by an evil spirit for years. Their safety and their surroundings come into
+  question when one of the children questions if the evil is real.\n\nhttps
+ ://www.imdb.com/title/tt14415204/\n\nIMDb rating: 5.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Let Go
+DTSTART;TZID=Europe/London:20241028T234500
+DTEND;TZID=Europe/London:20241029T015500
+DTSTAMP:20241028T234600Z
+UID:ci0960123-tt14415204--2024-10-28-23-45
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA family that has been haunted 
+ by an evil spirit for years. Their safety and their surroundings come into
+  question when one of the children questions if the evil is real.\n\nhttps
+ ://www.imdb.com/title/tt14415204/\n\nIMDb rating: 5.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pani
+DTSTART;TZID=Europe/London:20241028T211500
+DTEND;TZID=Europe/London:20241029T000500
+DTSTAMP:20241028T211600Z
+UID:ci0960123-tt29461220--2024-10-28-21-15
+DESCRIPTION:Duration: 2h 23m (143 mins)\n\nWhen the peaceful married life 
+ of a couple is unexpectedly disrupted by two youngsters with criminal incl
+ ination\, the trials and tribulations connect the mobster lives of Thrissu
+ r by becoming a part of vengeance.\n\nhttps://www.imdb.com/title/tt2946122
+ 0/\n\nIMDb rating: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebellious
+DTSTART;TZID=Europe/London:20241028T124000
+DTEND;TZID=Europe/London:20241028T144000
+DTSTAMP:20241028T124100Z
+UID:ci0960123-tt32155919--2024-10-28-12-40
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn this modern twist on a classi
+ c fairy tale\, a headstrong princess is stolen by an evil sorcerer\, and h
+ er scholarly fiancé must use his wits in an epic quest to find her while 
+ she boldly challenges her captors and plots a daring ...\n\nhttps://www.im
+ db.com/title/tt32155919/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salem's Lot
+DTSTART;TZID=Europe/London:20241028T142000
+DTEND;TZID=Europe/London:20241028T164000
+DTSTAMP:20241028T142100Z
+UID:ci0960123-tt10245072--2024-10-28-14-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAn author returns to his hometo
+ wn of Jerusalem's Lot in search of inspiration for his next book\, only to
+  discover that the townspeople are being attacked by a bloodthirsty vampir
+ e.\n\nhttps://www.imdb.com/title/tt10245072/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241028T170000
+DTEND;TZID=Europe/London:20241028T193500
+DTSTAMP:20241028T170100Z
+UID:ci0960123-tt29268110--2024-10-28-17-0
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241028T200000
+DTEND;TZID=Europe/London:20241028T223500
+DTSTAMP:20241028T200100Z
+UID:ci0960123-tt29268110--2024-10-28-20-0
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speak No Evil
+DTSTART;TZID=Europe/London:20241028T174000
+DTEND;TZID=Europe/London:20241028T195500
+DTSTAMP:20241028T174100Z
+UID:ci0960123-tt27534307--2024-10-28-17-40
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
+ whole weekend in a lonely home in the countryside\, but as the weekend pro
+ gresses\, they realize that a dark side lies within the family who invited
+  them.\n\nhttps://www.imdb.com/title/tt27534307/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241028T203000
+DTEND;TZID=Europe/London:20241028T230000
+DTSTAMP:20241028T203100Z
+UID:ci0960123-tt27911000--2024-10-28-20-30
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241028T231500
+DTEND;TZID=Europe/London:20241029T014500
+DTSTAMP:20241028T231600Z
+UID:ci0960123-tt27911000--2024-10-28-23-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241028T192500
+DTEND;TZID=Europe/London:20241028T215500
+DTSTAMP:20241028T192600Z
+UID:ci0960123-tt8368368--2024-10-28-19-25
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241028T221500
+DTEND;TZID=Europe/London:20241029T004500
+DTSTAMP:20241028T221600Z
+UID:ci0960123-tt8368368--2024-10-28-22-15
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241028T181000
+DTEND;TZID=Europe/London:20241028T210000
+DTSTAMP:20241028T181100Z
+UID:ci0960123-tt17526714--2024-10-28-18-10
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
+ k-market drug: a cell-replicating substance that temporarily creates a you
+ nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
+ /\n\nIMDb rating: 7.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241028T103000
+DTEND;TZID=Europe/London:20241028T124000
+DTSTAMP:20241028T103100Z
+UID:ci0960123-tt29623480--2024-10-28-10-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241028T112000
+DTEND;TZID=Europe/London:20241028T133000
+DTSTAMP:20241028T112100Z
+UID:ci0960123-tt29623480--2024-10-28-11-20
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241028T132500
+DTEND;TZID=Europe/London:20241028T153500
+DTSTAMP:20241028T132600Z
+UID:ci0960123-tt29623480--2024-10-28-13-25
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241028T143500
+DTEND;TZID=Europe/London:20241028T164500
+DTSTAMP:20241028T143600Z
+UID:ci0960123-tt29623480--2024-10-28-14-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241028T151500
+DTEND;TZID=Europe/London:20241028T172500
+DTSTAMP:20241028T151600Z
+UID:ci0960123-tt29623480--2024-10-28-15-15
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241028T155500
+DTEND;TZID=Europe/London:20241028T180500
+DTSTAMP:20241028T155600Z
+UID:ci0960123-tt29623480--2024-10-28-15-55
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241028T172500
+DTEND;TZID=Europe/London:20241028T193500
+DTSTAMP:20241028T172600Z
+UID:ci0960123-tt29623480--2024-10-28-17-25
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241028T094500
+DTEND;TZID=Europe/London:20241028T115500
+DTSTAMP:20241028T094600Z
+UID:ci0960123-tt29623480-3d-2024-10-28-9-45
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241028T121000
+DTEND;TZID=Europe/London:20241028T142000
+DTSTAMP:20241028T121100Z
+UID:ci0960123-tt29623480-3d-2024-10-28-12-10
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241028T110000
+DTEND;TZID=Europe/London:20241028T131000
+DTSTAMP:20241028T110100Z
+UID:ci0960123-tt8864596--2024-10-28-11-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241028T125500
+DTEND;TZID=Europe/London:20241028T150500
+DTSTAMP:20241028T125600Z
+UID:ci0960123-tt8864596--2024-10-28-12-55
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241028T152000
+DTEND;TZID=Europe/London:20241028T173000
+DTSTAMP:20241028T152100Z
+UID:ci0960123-tt8864596--2024-10-28-15-20
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vettaiyan
+DTSTART;TZID=Europe/London:20241028T201500
+DTEND;TZID=Europe/London:20241028T232500
+DTSTAMP:20241028T201600Z
+UID:ci0960123-tt26936666--2024-10-28-20-15
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nRuthless criminal activity is m
+ et with force from a maverick police officer with a disregard for the rule
+ s as he confronts an outbreak of lawlessness.\n\nhttps://www.imdb.com/titl
+ e/tt26936666/\n\nIMDb rating: 7.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nightmare on Elm Street (1984)
+DTSTART;TZID=Europe/London:20241029T170000
+DTEND;TZID=Europe/London:20241029T190000
+DTSTAMP:20241029T170100Z
+UID:ci0960123-tt0087800--2024-10-29-17-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTeenager Nancy Thompson must unc
+ over the dark truth concealed by her parents after she and her friends bec
+ ome targets of the spirit of a serial killer with a bladed glove in their 
+ dreams\, in which if they die\, it kills them in rea...\n\nhttps://www.imd
+ b.com/title/tt0087800/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241029T171500
+DTEND;TZID=Europe/London:20241029T192500
+DTSTAMP:20241029T171600Z
+UID:ci0960123-tt2049403--2024-10-29-17-15
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluey at the Cinema: Family Trip Collection
+DTSTART;TZID=Europe/London:20241029T155000
+DTEND;TZID=Europe/London:20241029T171000
+DTSTAMP:20241029T155100Z
+UID:ci0960123-tt33253099--2024-10-29-15-50
+DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
+ 53099/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Despicable Me 4
+DTSTART;TZID=Europe/London:20241029T100000
+DTEND;TZID=Europe/London:20241029T120000
+DTSTAMP:20241029T100100Z
+UID:ci0960123-tt7510222--2024-10-29-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
+  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
+ menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
+ nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
+ mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241029T192000
+DTEND;TZID=Europe/London:20241029T220500
+DTSTAMP:20241029T192100Z
+UID:ci0960123-tt11315808--2024-10-29-19-20
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241029T222000
+DTEND;TZID=Europe/London:20241030T010500
+DTSTAMP:20241029T222100Z
+UID:ci0960123-tt11315808--2024-10-29-22-20
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebellious
+DTSTART;TZID=Europe/London:20241029T093000
+DTEND;TZID=Europe/London:20241029T113000
+DTSTAMP:20241029T093100Z
+UID:ci0960123-tt32155919--2024-10-29-9-30
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn this modern twist on a classi
+ c fairy tale\, a headstrong princess is stolen by an evil sorcerer\, and h
+ er scholarly fiancé must use his wits in an epic quest to find her while 
+ she boldly challenges her captors and plots a daring ...\n\nhttps://www.im
+ db.com/title/tt32155919/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salem's Lot
+DTSTART;TZID=Europe/London:20241029T233500
+DTEND;TZID=Europe/London:20241030T015500
+DTSTAMP:20241029T233600Z
+UID:ci0960123-tt10245072--2024-10-29-23-35
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAn author returns to his hometo
+ wn of Jerusalem's Lot in search of inspiration for his next book\, only to
+  discover that the townspeople are being attacked by a bloodthirsty vampir
+ e.\n\nhttps://www.imdb.com/title/tt10245072/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241029T162000
+DTEND;TZID=Europe/London:20241029T185500
+DTSTAMP:20241029T162100Z
+UID:ci0960123-tt29268110--2024-10-29-16-20
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241029T194500
+DTEND;TZID=Europe/London:20241029T222000
+DTSTAMP:20241029T194600Z
+UID:ci0960123-tt29268110--2024-10-29-19-45
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speak No Evil
+DTSTART;TZID=Europe/London:20241029T180500
+DTEND;TZID=Europe/London:20241029T202000
+DTSTAMP:20241029T180600Z
+UID:ci0960123-tt27534307--2024-10-29-18-5
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
+ whole weekend in a lonely home in the countryside\, but as the weekend pro
+ gresses\, they realize that a dark side lies within the family who invited
+  them.\n\nhttps://www.imdb.com/title/tt27534307/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241029T203500
+DTEND;TZID=Europe/London:20241029T230500
+DTSTAMP:20241029T203600Z
+UID:ci0960123-tt27911000--2024-10-29-20-35
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241029T225000
+DTEND;TZID=Europe/London:20241030T012000
+DTSTAMP:20241029T225100Z
+UID:ci0960123-tt27911000--2024-10-29-22-50
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241029T202000
+DTEND;TZID=Europe/London:20241029T225000
+DTSTAMP:20241029T202100Z
+UID:ci0960123-tt8368368--2024-10-29-20-20
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241029T230500
+DTEND;TZID=Europe/London:20241030T013500
+DTSTAMP:20241029T230600Z
+UID:ci0960123-tt8368368--2024-10-29-23-5
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T094500
+DTEND;TZID=Europe/London:20241029T115500
+DTSTAMP:20241029T094600Z
+UID:ci0960123-tt29623480--2024-10-29-9-45
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T110000
+DTEND;TZID=Europe/London:20241029T131000
+DTSTAMP:20241029T110100Z
+UID:ci0960123-tt29623480--2024-10-29-11-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T123500
+DTEND;TZID=Europe/London:20241029T144500
+DTSTAMP:20241029T123600Z
+UID:ci0960123-tt29623480--2024-10-29-12-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T132500
+DTEND;TZID=Europe/London:20241029T153500
+DTSTAMP:20241029T132600Z
+UID:ci0960123-tt29623480--2024-10-29-13-25
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T150500
+DTEND;TZID=Europe/London:20241029T171500
+DTSTAMP:20241029T150600Z
+UID:ci0960123-tt29623480--2024-10-29-15-5
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T155500
+DTEND;TZID=Europe/London:20241029T180500
+DTSTAMP:20241029T155600Z
+UID:ci0960123-tt29623480--2024-10-29-15-55
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T173500
+DTEND;TZID=Europe/London:20241029T194500
+DTSTAMP:20241029T173600Z
+UID:ci0960123-tt29623480--2024-10-29-17-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241029T232000
+DTEND;TZID=Europe/London:20241030T013000
+DTSTAMP:20241029T232100Z
+UID:ci0960123-tt29623480--2024-10-29-23-20
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241029T114500
+DTEND;TZID=Europe/London:20241029T135500
+DTSTAMP:20241029T114600Z
+UID:ci0960123-tt29623480-3d-2024-10-29-11-45
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241029T141000
+DTEND;TZID=Europe/London:20241029T162000
+DTSTAMP:20241029T141100Z
+UID:ci0960123-tt29623480-3d-2024-10-29-14-10
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241029T101000
+DTEND;TZID=Europe/London:20241029T122000
+DTSTAMP:20241029T101100Z
+UID:ci0960123-tt8864596--2024-10-29-10-10
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241029T122000
+DTEND;TZID=Europe/London:20241029T143000
+DTSTAMP:20241029T122100Z
+UID:ci0960123-tt8864596--2024-10-29-12-20
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241029T143000
+DTEND;TZID=Europe/London:20241029T164000
+DTSTAMP:20241029T143100Z
+UID:ci0960123-tt8864596--2024-10-29-14-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vettaiyan
+DTSTART;TZID=Europe/London:20241029T201500
+DTEND;TZID=Europe/London:20241029T232500
+DTSTAMP:20241029T201600Z
+UID:ci0960123-tt26936666--2024-10-29-20-15
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nRuthless criminal activity is m
+ et with force from a maverick police officer with a disregard for the rule
+ s as he confronts an outbreak of lawlessness.\n\nhttps://www.imdb.com/titl
+ e/tt26936666/\n\nIMDb rating: 7.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:200% Wolf
+DTSTART;TZID=Europe/London:20241030T092500
+DTEND;TZID=Europe/London:20241030T113000
+DTSTAMP:20241030T092600Z
+UID:ci0960123-tt27722575--2024-10-30-9-25
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen Freddy Lupin's wayward wish
+  transforms him into a werewolf and deposits a mischievous moon sprite on 
+ earth\, Freddy must restore the cosmic order before the earth and moon col
+ lide.\n\nhttps://www.imdb.com/title/tt27722575/\n\nIMDb rating: 5.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nightmare on Elm Street (1984)
+DTSTART;TZID=Europe/London:20241030T173000
+DTEND;TZID=Europe/London:20241030T193000
+DTSTAMP:20241030T173100Z
+UID:ci0960123-tt0087800--2024-10-30-17-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTeenager Nancy Thompson must unc
+ over the dark truth concealed by her parents after she and her friends bec
+ ome targets of the spirit of a serial killer with a bladed glove in their 
+ dreams\, in which if they die\, it kills them in rea...\n\nhttps://www.imd
+ b.com/title/tt0087800/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241030T142000
+DTEND;TZID=Europe/London:20241030T163000
+DTSTAMP:20241030T142100Z
+UID:ci0960123-tt2049403--2024-10-30-14-20
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241030T165000
+DTEND;TZID=Europe/London:20241030T190000
+DTSTAMP:20241030T165100Z
+UID:ci0960123-tt2049403--2024-10-30-16-50
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241030T222000
+DTEND;TZID=Europe/London:20241031T003000
+DTSTAMP:20241030T222100Z
+UID:ci0960123-tt2049403--2024-10-30-22-20
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluey at the Cinema: Family Trip Collection
+DTSTART;TZID=Europe/London:20241030T091500
+DTEND;TZID=Europe/London:20241030T103500
+DTSTAMP:20241030T091600Z
+UID:ci0960123-tt33253099--2024-10-30-9-15
+DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
+ 53099/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Despicable Me 4
+DTSTART;TZID=Europe/London:20241030T100000
+DTEND;TZID=Europe/London:20241030T120000
+DTSTAMP:20241030T100100Z
+UID:ci0960123-tt7510222--2024-10-30-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
+  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
+ menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
+ nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
+ mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241030T140500
+DTEND;TZID=Europe/London:20241030T165000
+DTSTAMP:20241030T140600Z
+UID:ci0960123-tt11315808--2024-10-30-14-5
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241030T192000
+DTEND;TZID=Europe/London:20241030T220500
+DTSTAMP:20241030T192100Z
+UID:ci0960123-tt11315808--2024-10-30-19-20
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lee
+DTSTART;TZID=Europe/London:20241030T104000
+DTEND;TZID=Europe/London:20241030T130500
+DTSTAMP:20241030T104100Z
+UID:ci0960123-tt5112584--2024-10-30-10-40
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nThe story of American photograp
+ her Lee Miller\, a fashion model who became an acclaimed war correspondent
+  for Vogue magazine during World War II.\n\nhttps://www.imdb.com/title/tt5
+ 112584/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Let Go
+DTSTART;TZID=Europe/London:20241030T234000
+DTEND;TZID=Europe/London:20241031T015000
+DTSTAMP:20241030T234100Z
+UID:ci0960123-tt14415204--2024-10-30-23-40
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA family that has been haunted 
+ by an evil spirit for years. Their safety and their surroundings come into
+  question when one of the children questions if the evil is real.\n\nhttps
+ ://www.imdb.com/title/tt14415204/\n\nIMDb rating: 5.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebellious
+DTSTART;TZID=Europe/London:20241030T114500
+DTEND;TZID=Europe/London:20241030T134500
+DTSTAMP:20241030T114600Z
+UID:ci0960123-tt32155919--2024-10-30-11-45
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn this modern twist on a classi
+ c fairy tale\, a headstrong princess is stolen by an evil sorcerer\, and h
+ er scholarly fiancé must use his wits in an epic quest to find her while 
+ she boldly challenges her captors and plots a daring ...\n\nhttps://www.im
+ db.com/title/tt32155919/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salem's Lot
+DTSTART;TZID=Europe/London:20241030T234500
+DTEND;TZID=Europe/London:20241031T020500
+DTSTAMP:20241030T234600Z
+UID:ci0960123-tt10245072--2024-10-30-23-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAn author returns to his hometo
+ wn of Jerusalem's Lot in search of inspiration for his next book\, only to
+  discover that the townspeople are being attacked by a bloodthirsty vampir
+ e.\n\nhttps://www.imdb.com/title/tt10245072/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241030T203500
+DTEND;TZID=Europe/London:20241030T231000
+DTSTAMP:20241030T203600Z
+UID:ci0960123-tt29268110--2024-10-30-20-35
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241030T212500
+DTEND;TZID=Europe/London:20241031T000000
+DTSTAMP:20241030T212600Z
+UID:ci0960123-tt29268110--2024-10-30-21-25
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speak No Evil
+DTSTART;TZID=Europe/London:20241030T172000
+DTEND;TZID=Europe/London:20241030T193500
+DTSTAMP:20241030T172100Z
+UID:ci0960123-tt27534307--2024-10-30-17-20
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
+ whole weekend in a lonely home in the countryside\, but as the weekend pro
+ gresses\, they realize that a dark side lies within the family who invited
+  them.\n\nhttps://www.imdb.com/title/tt27534307/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241030T194500
+DTEND;TZID=Europe/London:20241030T221500
+DTSTAMP:20241030T194600Z
+UID:ci0960123-tt27911000--2024-10-30-19-45
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241030T225000
+DTEND;TZID=Europe/London:20241031T012000
+DTSTAMP:20241030T225100Z
+UID:ci0960123-tt27911000--2024-10-30-22-50
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241030T184000
+DTEND;TZID=Europe/London:20241030T211000
+DTSTAMP:20241030T184100Z
+UID:ci0960123-tt8368368--2024-10-30-18-40
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241030T223000
+DTEND;TZID=Europe/London:20241031T012000
+DTSTAMP:20241030T223100Z
+UID:ci0960123-tt17526714--2024-10-30-22-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
+ k-market drug: a cell-replicating substance that temporarily creates a you
+ nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
+ /\n\nIMDb rating: 7.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241030T101500
+DTEND;TZID=Europe/London:20241030T122500
+DTSTAMP:20241030T101600Z
+UID:ci0960123-tt29623480--2024-10-30-10-15
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241030T120000
+DTEND;TZID=Europe/London:20241030T141000
+DTSTAMP:20241030T120100Z
+UID:ci0960123-tt29623480--2024-10-30-12-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241030T125500
+DTEND;TZID=Europe/London:20241030T150500
+DTSTAMP:20241030T125600Z
+UID:ci0960123-tt29623480--2024-10-30-12-55
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241030T143500
+DTEND;TZID=Europe/London:20241030T164500
+DTSTAMP:20241030T143600Z
+UID:ci0960123-tt29623480--2024-10-30-14-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241030T153500
+DTEND;TZID=Europe/London:20241030T174500
+DTSTAMP:20241030T153600Z
+UID:ci0960123-tt29623480--2024-10-30-15-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241030T162000
+DTEND;TZID=Europe/London:20241030T183000
+DTSTAMP:20241030T162100Z
+UID:ci0960123-tt29623480--2024-10-30-16-20
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241030T170500
+DTEND;TZID=Europe/London:20241030T191500
+DTSTAMP:20241030T170600Z
+UID:ci0960123-tt29623480--2024-10-30-17-5
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241030T105500
+DTEND;TZID=Europe/London:20241030T130500
+DTSTAMP:20241030T105600Z
+UID:ci0960123-tt29623480-3d-2024-10-30-10-55
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241030T133500
+DTEND;TZID=Europe/London:20241030T154500
+DTSTAMP:20241030T133600Z
+UID:ci0960123-tt29623480-3d-2024-10-30-13-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241030T103000
+DTEND;TZID=Europe/London:20241030T124000
+DTSTAMP:20241030T103100Z
+UID:ci0960123-tt8864596--2024-10-30-10-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241030T124000
+DTEND;TZID=Europe/London:20241030T145000
+DTSTAMP:20241030T124100Z
+UID:ci0960123-tt8864596--2024-10-30-12-40
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241030T150500
+DTEND;TZID=Europe/London:20241030T171500
+DTSTAMP:20241030T150600Z
+UID:ci0960123-tt8864596--2024-10-30-15-5
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241030T181000
+DTEND;TZID=Europe/London:20241030T202000
+DTSTAMP:20241030T181100Z
+UID:ci0960123-tt8864596--2024-10-30-18-10
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T112000
+DTEND;TZID=Europe/London:20241030T133500
+DTSTAMP:20241030T112100Z
+UID:ci0960123-tt16366836--2024-10-30-11-20
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T135000
+DTEND;TZID=Europe/London:20241030T160500
+DTSTAMP:20241030T135100Z
+UID:ci0960123-tt16366836--2024-10-30-13-50
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T152000
+DTEND;TZID=Europe/London:20241030T173500
+DTSTAMP:20241030T152100Z
+UID:ci0960123-tt16366836--2024-10-30-15-20
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T175000
+DTEND;TZID=Europe/London:20241030T200500
+DTSTAMP:20241030T175100Z
+UID:ci0960123-tt16366836--2024-10-30-17-50
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T184500
+DTEND;TZID=Europe/London:20241030T210000
+DTSTAMP:20241030T184600Z
+UID:ci0960123-tt16366836--2024-10-30-18-45
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T193000
+DTEND;TZID=Europe/London:20241030T214500
+DTSTAMP:20241030T193100Z
+UID:ci0960123-tt16366836--2024-10-30-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T202000
+DTEND;TZID=Europe/London:20241030T223500
+DTSTAMP:20241030T202100Z
+UID:ci0960123-tt16366836--2024-10-30-20-20
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T211500
+DTEND;TZID=Europe/London:20241030T233000
+DTSTAMP:20241030T211600Z
+UID:ci0960123-tt16366836--2024-10-30-21-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241030T220500
+DTEND;TZID=Europe/London:20241031T002000
+DTSTAMP:20241030T220600Z
+UID:ci0960123-tt16366836--2024-10-30-22-5
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance (3D)
+DTSTART;TZID=Europe/London:20241030T160500
+DTEND;TZID=Europe/London:20241030T182000
+DTSTAMP:20241030T160600Z
+UID:ci0960123-tt16366836-3d-2024-10-30-16-5
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vettaiyan
+DTSTART;TZID=Europe/London:20241030T200000
+DTEND;TZID=Europe/London:20241030T231000
+DTSTAMP:20241030T200100Z
+UID:ci0960123-tt26936666--2024-10-30-20-0
+DESCRIPTION:Duration: 2h 43m (163 mins)\n\nRuthless criminal activity is m
+ et with force from a maverick police officer with a disregard for the rule
+ s as he confronts an outbreak of lawlessness.\n\nhttps://www.imdb.com/titl
+ e/tt26936666/\n\nIMDb rating: 7.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:200% Wolf
+DTSTART;TZID=Europe/London:20241031T101500
+DTEND;TZID=Europe/London:20241031T122000
+DTSTAMP:20241031T101600Z
+UID:ci0960123-tt27722575--2024-10-31-10-15
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nWhen Freddy Lupin's wayward wish
+  transforms him into a werewolf and deposits a mischievous moon sprite on 
+ earth\, Freddy must restore the cosmic order before the earth and moon col
+ lide.\n\nhttps://www.imdb.com/title/tt27722575/\n\nIMDb rating: 5.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nightmare on Elm Street (1984)
+DTSTART;TZID=Europe/London:20241031T092000
+DTEND;TZID=Europe/London:20241031T112000
+DTSTAMP:20241031T092100Z
+UID:ci0960123-tt0087800--2024-10-31-9-20
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTeenager Nancy Thompson must unc
+ over the dark truth concealed by her parents after she and her friends bec
+ ome targets of the spirit of a serial killer with a bladed glove in their 
+ dreams\, in which if they die\, it kills them in rea...\n\nhttps://www.imd
+ b.com/title/tt0087800/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241031T122000
+DTEND;TZID=Europe/London:20241031T143000
+DTSTAMP:20241031T122100Z
+UID:ci0960123-tt2049403--2024-10-31-12-20
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beetlejuice Beetlejuice
+DTSTART;TZID=Europe/London:20241031T174500
+DTEND;TZID=Europe/London:20241031T195500
+DTSTAMP:20241031T174600Z
+UID:ci0960123-tt2049403--2024-10-31-17-45
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nAfter a family tragedy\, three 
+ generations of the Deetz family return home to Winter River. Still haunted
+  by Beetlejuice\, Lydia's life is turned upside down when her teenage daug
+ hter\, Astrid\, accidentally opens the portal to the Af...\n\nhttps://www.
+ imdb.com/title/tt2049403/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bluey at the Cinema: Family Trip Collection
+DTSTART;TZID=Europe/London:20241031T155500
+DTEND;TZID=Europe/London:20241031T171500
+DTSTAMP:20241031T155600Z
+UID:ci0960123-tt33253099--2024-10-31-15-55
+DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
+ 53099/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Despicable Me 4
+DTSTART;TZID=Europe/London:20241031T100000
+DTEND;TZID=Europe/London:20241031T120000
+DTSTAMP:20241031T100100Z
+UID:ci0960123-tt7510222--2024-10-31-10-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
+  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
+ menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
+ nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
+ mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heretic
+DTSTART;TZID=Europe/London:20241031T180500
+DTEND;TZID=Europe/London:20241031T202000
+DTSTAMP:20241031T180600Z
+UID:ci0960123-tt28015403--2024-10-31-18-5
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
+ rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
+ //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heretic
+DTSTART;TZID=Europe/London:20241031T205000
+DTEND;TZID=Europe/London:20241031T230500
+DTSTAMP:20241031T205100Z
+UID:ci0960123-tt28015403--2024-10-31-20-50
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
+ rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
+ //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heretic
+DTSTART;TZID=Europe/London:20241031T223000
+DTEND;TZID=Europe/London:20241101T004500
+DTSTAMP:20241031T223100Z
+UID:ci0960123-tt28015403--2024-10-31-22-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
+ rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
+ //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241031T173000
+DTEND;TZID=Europe/London:20241031T201500
+DTSTAMP:20241031T173100Z
+UID:ci0960123-tt11315808--2024-10-31-17-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joker: Folie à Deux
+DTSTART;TZID=Europe/London:20241031T230500
+DTEND;TZID=Europe/London:20241101T015000
+DTSTAMP:20241031T230600Z
+UID:ci0960123-tt11315808--2024-10-31-23-5
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nStruggling with his dual identi
+ ty\, failed comedian Arthur Fleck meets the love of his life\, Harley Quin
+ n\, while incarcerated at Arkham State Hospital.\n\nhttps://www.imdb.com/t
+ itle/tt11315808/\n\nIMDb rating: 5.3
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lee
+DTSTART;TZID=Europe/London:20241031T093000
+DTEND;TZID=Europe/London:20241031T115500
+DTSTAMP:20241031T093100Z
+UID:ci0960123-tt5112584--2024-10-31-9-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nThe story of American photograp
+ her Lee Miller\, a fashion model who became an acclaimed war correspondent
+  for Vogue magazine during World War II.\n\nhttps://www.imdb.com/title/tt5
+ 112584/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebellious
+DTSTART;TZID=Europe/London:20241031T113500
+DTEND;TZID=Europe/London:20241031T133500
+DTSTAMP:20241031T113600Z
+UID:ci0960123-tt32155919--2024-10-31-11-35
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn this modern twist on a classi
+ c fairy tale\, a headstrong princess is stolen by an evil sorcerer\, and h
+ er scholarly fiancé must use his wits in an epic quest to find her while 
+ she boldly challenges her captors and plots a daring ...\n\nhttps://www.im
+ db.com/title/tt32155919/\n\nIMDb rating: 6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salem's Lot
+DTSTART;TZID=Europe/London:20241031T121000
+DTEND;TZID=Europe/London:20241031T143000
+DTSTAMP:20241031T121100Z
+UID:ci0960123-tt10245072--2024-10-31-12-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAn author returns to his hometo
+ wn of Jerusalem's Lot in search of inspiration for his next book\, only to
+  discover that the townspeople are being attacked by a bloodthirsty vampir
+ e.\n\nhttps://www.imdb.com/title/tt10245072/\n\nIMDb rating: 5.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241031T163000
+DTEND;TZID=Europe/London:20241031T190500
+DTSTAMP:20241031T163100Z
+UID:ci0960123-tt29268110--2024-10-31-16-30
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241031T183500
+DTEND;TZID=Europe/London:20241031T211000
+DTSTAMP:20241031T183600Z
+UID:ci0960123-tt29268110--2024-10-31-18-35
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241031T201500
+DTEND;TZID=Europe/London:20241031T225000
+DTSTAMP:20241031T201600Z
+UID:ci0960123-tt29268110--2024-10-31-20-15
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smile 2
+DTSTART;TZID=Europe/London:20241031T222000
+DTEND;TZID=Europe/London:20241101T005500
+DTSTAMP:20241031T222100Z
+UID:ci0960123-tt29268110--2024-10-31-22-20
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
+ \, global pop sensation Skye Riley begins experiencing increasingly terrif
+ ying and inexplicable events. Overwhelmed by the escalating horrors and th
+ e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
+ .com/title/tt29268110/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speak No Evil
+DTSTART;TZID=Europe/London:20241031T171500
+DTEND;TZID=Europe/London:20241031T193000
+DTSTAMP:20241031T171600Z
+UID:ci0960123-tt27534307--2024-10-31-17-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA family is invited to spend a 
+ whole weekend in a lonely home in the countryside\, but as the weekend pro
+ gresses\, they realize that a dark side lies within the family who invited
+  them.\n\nhttps://www.imdb.com/title/tt27534307/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241031T151500
+DTEND;TZID=Europe/London:20241031T174500
+DTSTAMP:20241031T151600Z
+UID:ci0960123-tt27911000--2024-10-31-15-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241031T203000
+DTEND;TZID=Europe/London:20241031T230000
+DTSTAMP:20241031T203100Z
+UID:ci0960123-tt27911000--2024-10-31-20-30
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrifier 3
+DTSTART;TZID=Europe/London:20241031T232000
+DTEND;TZID=Europe/London:20241101T015000
+DTSTAMP:20241031T232100Z
+UID:ci0960123-tt27911000--2024-10-31-23-20
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nArt the Clown is set to unleash
+  chaos on the unsuspecting residents of Miles County as they peacefully dr
+ ift off to sleep on Christmas Eve.\n\nhttps://www.imdb.com/title/tt2791100
+ 0/\n\nIMDb rating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241031T194500
+DTEND;TZID=Europe/London:20241031T221500
+DTSTAMP:20241031T194600Z
+UID:ci0960123-tt8368368--2024-10-31-19-45
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
+  Trump started his real-estate business in 1970s and '80s New York with th
+ e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
+ le/tt8368368/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241031T192000
+DTEND;TZID=Europe/London:20241031T221000
+DTSTAMP:20241031T192100Z
+UID:ci0960123-tt17526714--2024-10-31-19-20
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
+ k-market drug: a cell-replicating substance that temporarily creates a you
+ nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
+ /\n\nIMDb rating: 7.6
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241031T103500
+DTEND;TZID=Europe/London:20241031T124500
+DTSTAMP:20241031T103600Z
+UID:ci0960123-tt29623480--2024-10-31-10-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241031T115000
+DTEND;TZID=Europe/London:20241031T140000
+DTSTAMP:20241031T115100Z
+UID:ci0960123-tt29623480--2024-10-31-11-50
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241031T132500
+DTEND;TZID=Europe/London:20241031T153500
+DTSTAMP:20241031T132600Z
+UID:ci0960123-tt29623480--2024-10-31-13-25
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241031T142000
+DTEND;TZID=Europe/London:20241031T163000
+DTSTAMP:20241031T142100Z
+UID:ci0960123-tt29623480--2024-10-31-14-20
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241031T161000
+DTEND;TZID=Europe/London:20241031T182000
+DTSTAMP:20241031T161100Z
+UID:ci0960123-tt29623480--2024-10-31-16-10
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=Europe/London:20241031T170000
+DTEND;TZID=Europe/London:20241031T191000
+DTSTAMP:20241031T170100Z
+UID:ci0960123-tt29623480--2024-10-31-17-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241031T123500
+DTEND;TZID=Europe/London:20241031T144500
+DTSTAMP:20241031T123600Z
+UID:ci0960123-tt29623480-3d-2024-10-31-12-35
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot (3D)
+DTSTART;TZID=Europe/London:20241031T150000
+DTEND;TZID=Europe/London:20241031T171000
+DTSTAMP:20241031T150100Z
+UID:ci0960123-tt29623480-3d-2024-10-31-15-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241031T110000
+DTEND;TZID=Europe/London:20241031T131000
+DTSTAMP:20241031T110100Z
+UID:ci0960123-tt8864596--2024-10-31-11-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241031T134500
+DTEND;TZID=Europe/London:20241031T155500
+DTSTAMP:20241031T134600Z
+UID:ci0960123-tt8864596--2024-10-31-13-45
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241031T111500
+DTEND;TZID=Europe/London:20241031T133000
+DTSTAMP:20241031T111600Z
+UID:ci0960123-tt16366836--2024-10-31-11-15
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -893,10 +3273,24 @@ DTSTART;TZID=Europe/London:20241031T130000
 DTEND;TZID=Europe/London:20241031T151500
 DTSTAMP:20241031T130100Z
 UID:ci0960123-tt16366836--2024-10-31-13-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241031T144500
+DTEND;TZID=Europe/London:20241031T170000
+DTSTAMP:20241031T144600Z
+UID:ci0960123-tt16366836--2024-10-31-14-45
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -905,10 +3299,11 @@ DTSTART;TZID=Europe/London:20241031T154000
 DTEND;TZID=Europe/London:20241031T175500
 DTSTAMP:20241031T154100Z
 UID:ci0960123-tt16366836--2024-10-31-15-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -917,10 +3312,11 @@ DTSTART;TZID=Europe/London:20241031T182000
 DTEND;TZID=Europe/London:20241031T203500
 DTSTAMP:20241031T182100Z
 UID:ci0960123-tt16366836--2024-10-31-18-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -929,10 +3325,50 @@ DTSTART;TZID=Europe/London:20241031T200000
 DTEND;TZID=Europe/London:20241031T221500
 DTSTAMP:20241031T200100Z
 UID:ci0960123-tt16366836--2024-10-31-20-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom are on the run.
-  Hunted by both of their worlds and with the net closing in\, the duo are 
- forced into a devastating decision that will bring the curtains down on Ve
- nom and Eddie's last dance.\n\nhttps://www.imdb.com/title/tt16366836/
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241031T212500
+DTEND;TZID=Europe/London:20241031T234000
+DTSTAMP:20241031T212600Z
+UID:ci0960123-tt16366836--2024-10-31-21-25
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance
+DTSTART;TZID=Europe/London:20241031T223000
+DTEND;TZID=Europe/London:20241101T004500
+DTSTAMP:20241031T223100Z
+UID:ci0960123-tt16366836--2024-10-31-22-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venom: The Last Dance (3D)
+DTSTART;TZID=Europe/London:20241031T232000
+DTEND;TZID=Europe/London:20241101T013500
+DTSTAMP:20241031T232100Z
+UID:ci0960123-tt16366836-3d-2024-10-31-23-20
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+ face pursuit from both worlds. As circumstances tighten\, they're compelle
+ d to make a heart-wrenching choice that could mark the end of their symbio
+ tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
+  6.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT

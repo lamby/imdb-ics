@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241023T150842Z
+LAST-MODIFIED:20241025T154135Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Blade II (2002)
-DTSTART;TZID=America/Los_Angeles:20241023T191500
-DTEND;TZID=America/Los_Angeles:20241023T214000
-DTSTAMP:20241024T030800Z
-UID:ci0005472-tt0187738--2024-10-23-19-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nBlade forms an uneasy alliance 
- with the vampire council in order to combat the Reapers\, who are feeding 
- on vampires.\n\nhttps://www.imdb.com/title/tt0187738/\n\nIMDb rating: 6.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Satan's Slaves (2017) (3D)
-DTSTART;TZID=America/Los_Angeles:20241024T213000
-DTEND;TZID=America/Los_Angeles:20241024T234500
-DTSTAMP:20241025T052300Z
-UID:ci0005472-tt7076834-3d-2024-10-24-21-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAfter dying from a strange illn
- ess that she suffered for 3 years\, a mother returns home to pick up her c
- hildren.\n\nhttps://www.imdb.com/title/tt7076834/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Young Frankenstein (1974)
-DTSTART;TZID=America/Los_Angeles:20241024T190000
-DTEND;TZID=America/Los_Angeles:20241024T211500
-DTSTAMP:20241025T025300Z
-UID:ci0005472-tt0072431--2024-10-24-19-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAn American grandson of the inf
- amous scientist\, struggling to prove that his grandfather was not as insa
- ne as people believe\, is invited to Transylvania\, where he discovers the
-  process that reanimates a dead body.\n\nhttps://www.imdb.com/title/tt0072
- 431/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Frankenstein (1974)
 DTSTART;TZID=America/Los_Angeles:20241025T190000
@@ -199,7 +161,7 @@ UID:ci0005472-tt23623894--2024-11-2-12-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nTrailblazing food writer Ruth R
  eichl examines the precarious state of America's food system. A Sundance F
  ilm Festival premiere.\n\nhttps://www.imdb.com/title/tt23623894/\n\nIMDb r
- ating: 7.2
+ ating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
