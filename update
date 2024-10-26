@@ -122,6 +122,11 @@ class ImdbICS:
             "id": "ci0034743",
             "timezone": "America/Los_Angeles",
         },
+        {
+            "name": "Landmark Crest Cinema, Shoreline",
+            "id": "ci0001936",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
