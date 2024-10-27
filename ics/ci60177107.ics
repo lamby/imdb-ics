@@ -1,73 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241025T155646Z
+LAST-MODIFIED:20241027T200240Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Halloween (1978)
-DTSTART;TZID=America/Los_Angeles:20241025T200000
-DTEND;TZID=America/Los_Angeles:20241025T220000
-DTSTAMP:20241026T035300Z
-UID:ci60177107-tt0077651--2024-10-25-20-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFifteen years after murdering hi
- s sister on Halloween night 1963\, Michael Myers escapes from a mental hos
- pital and returns to the small town of Haddonfield\, Illinois\, to kill ag
- ain.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opera (1987)
-DTSTART;TZID=America/Los_Angeles:20241025T171500
-DTEND;TZID=America/Los_Angeles:20241025T193000
-DTSTAMP:20241026T010800Z
-UID:ci60177107-tt0093677--2024-10-25-17-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
-  by a deranged fan bent on killing the people associated with her to claim
-  her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
-  6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christine (1983)
-DTSTART;TZID=America/Los_Angeles:20241026T200000
-DTEND;TZID=America/Los_Angeles:20241026T221500
-DTSTAMP:20241027T035300Z
-UID:ci60177107-tt0085333--2024-10-26-20-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA nerdish boy buys a strange ca
- r with an evil mind of its own and his nature starts to change to reflect 
- it.\n\nhttps://www.imdb.com/title/tt0085333/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dunwich Horror (1970)
-DTSTART;TZID=America/Los_Angeles:20241026T150000
-DTEND;TZID=America/Los_Angeles:20241026T165500
-DTSTAMP:20241026T225300Z
-UID:ci60177107-tt0065669--2024-10-26-15-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nWilbur Whateley travels to the A
- rkham Miskatonic University to borrow the legendary Necronomicon. But\, li
- ttle does anyone know\, Whateley isn't quite human...\n\nhttps://www.imdb.
- com/title/tt0065669/\n\nIMDb rating: 5.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Strangers (2008)
-DTSTART;TZID=America/Los_Angeles:20241026T173000
-DTEND;TZID=America/Los_Angeles:20241026T192500
-DTSTAMP:20241027T012300Z
-UID:ci60177107-tt0482606--2024-10-26-17-30
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nJames Hoyt and Kristen McKay vis
- it an isolated vacation home to enjoy some time together. However\, they a
- re in for a rude surprise when three masked assailants make their stay a n
- ightmare.\n\nhttps://www.imdb.com/title/tt0482606/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christine (1983)
 DTSTART;TZID=America/Los_Angeles:20241027T161500
@@ -165,6 +101,19 @@ DTSTART;TZID=America/Los_Angeles:20241106T162000
 DTEND;TZID=America/Los_Angeles:20241106T191500
 DTSTAMP:20241107T001300Z
 UID:ci60177107-tt0091670--2024-11-6-16-20
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241111T153000
+DTEND;TZID=America/Los_Angeles:20241111T182500
+DTSTAMP:20241111T232300Z
+UID:ci60177107-tt0091670--2024-11-11-15-30
 DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
  a man searches for a way to restore peace to the world and finds he must g
  ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 

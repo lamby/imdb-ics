@@ -1,7 +1,108 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241025T155528Z
+LAST-MODIFIED:20241027T200114Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Frankenstein (1931)
+DTSTART;TZID=America/Los_Angeles:20241027T140000
+DTEND;TZID=America/Los_Angeles:20241027T153500
+DTSTAMP:20241027T215300Z
+UID:ci1024213-tt0021884--2024-10-27-14-0
+DESCRIPTION:Duration: 1h 10m (70 mins)\n\nDr Henry Frankenstein is obsesse
+ d with assembling a living being from parts of several exhumed corpses.\n\
+ nhttps://www.imdb.com/title/tt0021884/\n\nIMDb rating: 7.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein (1931)
+DTSTART;TZID=America/Los_Angeles:20241027T190000
+DTEND;TZID=America/Los_Angeles:20241027T203500
+DTSTAMP:20241028T025300Z
+UID:ci1024213-tt0021884--2024-10-27-19-0
+DESCRIPTION:Duration: 1h 10m (70 mins)\n\nDr Henry Frankenstein is obsesse
+ d with assembling a living being from parts of several exhumed corpses.\n\
+ nhttps://www.imdb.com/title/tt0021884/\n\nIMDb rating: 7.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Dead II (1987)
+DTSTART;TZID=America/Los_Angeles:20241028T173000
+DTEND;TZID=America/Los_Angeles:20241028T192000
+DTSTAMP:20241029T012300Z
+UID:ci1024213-tt0092991--2024-10-28-17-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAsh Williams\, the lone survivor
+  of an earlier onslaught of flesh-possessing spirits\, holes up in a cabin
+  with a group of strangers while the demons continue their attack.\n\nhttp
+ s://www.imdb.com/title/tt0092991/\n\nIMDb rating: 7.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thundercrack! (1975)
+DTSTART;TZID=America/Los_Angeles:20241028T203000
+DTEND;TZID=America/Los_Angeles:20241028T233500
+DTSTAMP:20241029T042300Z
+UID:ci1024213-tt0073806--2024-10-28-20-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nWith a killer gorilla on the lo
+ ose\, a group of strangers find themselves stranded at a remote mansion of
+  a grieving madwoman one dark and stormy night. They indulge in swapping b
+ izarre personal backstories - and bodily fluids.\n\nhttps://www.imdb.com/t
+ itle/tt0073806/\n\nIMDb rating: 6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Dead II (1987)
+DTSTART;TZID=America/Los_Angeles:20241029T173000
+DTEND;TZID=America/Los_Angeles:20241029T192000
+DTSTAMP:20241030T012300Z
+UID:ci1024213-tt0092991--2024-10-29-17-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAsh Williams\, the lone survivor
+  of an earlier onslaught of flesh-possessing spirits\, holes up in a cabin
+  with a group of strangers while the demons continue their attack.\n\nhttp
+ s://www.imdb.com/title/tt0092991/\n\nIMDb rating: 7.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ganja & Hess (1973)
+DTSTART;TZID=America/Los_Angeles:20241029T203000
+DTEND;TZID=America/Los_Angeles:20241029T225000
+DTSTAMP:20241030T042300Z
+UID:ci1024213-tt0068619--2024-10-29-20-30
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nAfter being stabbed with an anc
+ ient\, germ-infested knife\, a doctor's assistant finds himself with an in
+ satiable desire for blood.\n\nhttps://www.imdb.com/title/tt0068619/\n\nIMD
+ b rating: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein (1931)
+DTSTART;TZID=America/Los_Angeles:20241030T163000
+DTEND;TZID=America/Los_Angeles:20241030T180500
+DTSTAMP:20241031T002300Z
+UID:ci1024213-tt0021884--2024-10-30-16-30
+DESCRIPTION:Duration: 1h 10m (70 mins)\n\nDr Henry Frankenstein is obsesse
+ d with assembling a living being from parts of several exhumed corpses.\n\
+ nhttps://www.imdb.com/title/tt0021884/\n\nIMDb rating: 7.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Five Minutes to Live (1961)
+DTSTART;TZID=America/Los_Angeles:20241031T193000
+DTEND;TZID=America/Los_Angeles:20241031T211000
+DTSTAMP:20241101T032300Z
+UID:ci1024213-tt0054817--2024-10-31-19-30
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA murderous thug and his cohorts
+  take a bank executives wife hostage after their robbery plans go awry.\n\
+ nhttps://www.imdb.com/title/tt0054817/\n\nIMDb rating: 5.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR

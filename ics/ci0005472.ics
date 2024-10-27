@@ -1,63 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241025T155438Z
+LAST-MODIFIED:20241027T200027Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Young Frankenstein (1974)
-DTSTART;TZID=America/Los_Angeles:20241025T190000
-DTEND;TZID=America/Los_Angeles:20241025T211500
-DTSTAMP:20241026T025300Z
-UID:ci0005472-tt0072431--2024-10-25-19-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAn American grandson of the inf
- amous scientist\, struggling to prove that his grandfather was not as insa
- ne as people believe\, is invited to Transylvania\, where he discovers the
-  process that reanimates a dead body.\n\nhttps://www.imdb.com/title/tt0072
- 431/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Satan's Slaves (2017) (3D)
-DTSTART;TZID=America/Los_Angeles:20241026T170000
-DTEND;TZID=America/Los_Angeles:20241026T191500
-DTSTAMP:20241027T005300Z
-UID:ci0005472-tt7076834-3d-2024-10-26-17-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAfter dying from a strange illn
- ess that she suffered for 3 years\, a mother returns home to pick up her c
- hildren.\n\nhttps://www.imdb.com/title/tt7076834/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Madness (1984)
-DTSTART;TZID=America/Los_Angeles:20241026T190000
-DTEND;TZID=America/Los_Angeles:20241026T210000
-DTSTAMP:20241027T025300Z
-UID:ci0005472-tt0088116--2024-10-26-19-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA criminally-insane man is accid
- entally released from a mental hospital. The staff tries to cover it up\, 
- but a young psychiatrist travels to the college town where he committed se
- veral murders to warn the locals and await his arri...\n\nhttps://www.imdb
- .com/title/tt0088116/\n\nIMDb rating: 5.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Young Frankenstein (1974)
-DTSTART;TZID=America/Los_Angeles:20241026T143000
-DTEND;TZID=America/Los_Angeles:20241026T164500
-DTSTAMP:20241026T222300Z
-UID:ci0005472-tt0072431--2024-10-26-14-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAn American grandson of the inf
- amous scientist\, struggling to prove that his grandfather was not as insa
- ne as people believe\, is invited to Transylvania\, where he discovers the
-  process that reanimates a dead body.\n\nhttps://www.imdb.com/title/tt0072
- 431/\n\nIMDb rating: 8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hellraiser (1987)
 DTSTART;TZID=America/Los_Angeles:20241028T211500
@@ -283,6 +229,20 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
  rthday\, an incident happens which turns their lives upside down. The whol
  e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
  b.com/title/tt32566980/\n\nIMDb rating: 9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missing from Fire Trail Road
+DTSTART;TZID=America/Los_Angeles:20241111T190000
+DTEND;TZID=America/Los_Angeles:20241111T211000
+DTSTAMP:20241112T025300Z
+UID:ci0005472-tt27829180--2024-11-11-19-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe case of Mary Ellen Johnson-
+ Davis\, a Native-American woman who disappeared in 2020\, exposing how hun
+ dreds of indigenous women continue to go missing in the US\, perpetuating 
+ trans-generational trauma on Indian reservations.\n\nhttps://www.imdb.com/
+ title/tt27829180/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
