@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241027T200114Z
+LAST-MODIFIED:20241028T154056Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Frankenstein (1931)
-DTSTART;TZID=America/Los_Angeles:20241027T140000
-DTEND;TZID=America/Los_Angeles:20241027T153500
-DTSTAMP:20241027T215300Z
-UID:ci1024213-tt0021884--2024-10-27-14-0
-DESCRIPTION:Duration: 1h 10m (70 mins)\n\nDr Henry Frankenstein is obsesse
- d with assembling a living being from parts of several exhumed corpses.\n\
- nhttps://www.imdb.com/title/tt0021884/\n\nIMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankenstein (1931)
-DTSTART;TZID=America/Los_Angeles:20241027T190000
-DTEND;TZID=America/Los_Angeles:20241027T203500
-DTSTAMP:20241028T025300Z
-UID:ci1024213-tt0021884--2024-10-27-19-0
-DESCRIPTION:Duration: 1h 10m (70 mins)\n\nDr Henry Frankenstein is obsesse
- d with assembling a living being from parts of several exhumed corpses.\n\
- nhttps://www.imdb.com/title/tt0021884/\n\nIMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evil Dead II (1987)
 DTSTART;TZID=America/Los_Angeles:20241028T173000

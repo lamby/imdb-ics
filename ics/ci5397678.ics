@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241027T200308Z
+LAST-MODIFIED:20241028T154231Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241027T161500
-DTEND;TZID=America/Los_Angeles:20241027T184000
-DTSTAMP:20241028T000800Z
-UID:ci5397678-tt0460791--2024-10-27-16-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241027T193000
-DTEND;TZID=America/Los_Angeles:20241027T215500
-DTSTAMP:20241028T032300Z
-UID:ci5397678-tt0460791--2024-10-27-19-30
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Fall (2006)
 DTSTART;TZID=America/Los_Angeles:20241028T161500
@@ -453,6 +427,32 @@ DESCRIPTION:Duration: 1h 15m (75 mins)\n\nAfter helping a cat\, a seventee
  agical world where her only hope of freedom lies with a dapper cat statuet
  te come to life.\n\nhttps://www.imdb.com/title/tt0347618/\n\nIMDb rating: 
  7.1
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porco Rosso (1992)
+DTSTART;TZID=America/Los_Angeles:20241112T190000
+DTEND;TZID=America/Los_Angeles:20241112T210000
+DTSTAMP:20241113T025300Z
+UID:ci5397678-tt0104652--2024-11-12-19-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
+  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
+ .imdb.com/title/tt0104652/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret World of Arrietty (2010)
+DTSTART;TZID=America/Los_Angeles:20241112T160000
+DTEND;TZID=America/Los_Angeles:20241112T180000
+DTSTAMP:20241112T235300Z
+UID:ci5397678-tt1568921--2024-11-12-16-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThe Clock family are four-inch-t
+ all people who live anonymously in another family's residence\, borrowing 
+ simple items to make their home. Life changes for the Clocks when their te
+ enage daughter Arrietty is discovered.\n\nhttps://www.imdb.com/title/tt156
+ 8921/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

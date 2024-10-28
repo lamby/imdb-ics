@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241027T200401Z
+LAST-MODIFIED:20241028T154318Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hocus Pocus (1993)
-DTSTART;TZID=America/Los_Angeles:20241027T150000
-DTEND;TZID=America/Los_Angeles:20241027T170500
-DTSTAMP:20241027T225300Z
-UID:ci0015312-tt0107120--2024-10-27-15-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
- little sister move to Salem\, where he struggles to fit in before awakenin
- g a trio of diabolical witches that were executed in the 17th century.\n\n
- https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hocus Pocus (1993)
-DTSTART;TZID=America/Los_Angeles:20241027T180000
-DTEND;TZID=America/Los_Angeles:20241027T200500
-DTSTAMP:20241028T015300Z
-UID:ci0015312-tt0107120--2024-10-27-18-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
- little sister move to Salem\, where he struggles to fit in before awakenin
- g a trio of diabolical witches that were executed in the 17th century.\n\n
- https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Evil Dead (1981)
-DTSTART;TZID=America/Los_Angeles:20241027T203000
-DTEND;TZID=America/Los_Angeles:20241027T222000
-DTSTAMP:20241028T042300Z
-UID:ci0015312-tt0083907--2024-10-27-20-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
- n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
- ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hocus Pocus (1993)
 DTSTART;TZID=America/Los_Angeles:20241028T190000

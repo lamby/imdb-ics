@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241027T200240Z
+LAST-MODIFIED:20241028T154209Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Christine (1983)
-DTSTART;TZID=America/Los_Angeles:20241027T161500
-DTEND;TZID=America/Los_Angeles:20241027T183000
-DTSTAMP:20241028T000800Z
-UID:ci60177107-tt0085333--2024-10-27-16-15
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA nerdish boy buys a strange ca
- r with an evil mind of its own and his nature starts to change to reflect 
- it.\n\nhttps://www.imdb.com/title/tt0085333/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halloween (1978)
-DTSTART;TZID=America/Los_Angeles:20241027T134500
-DTEND;TZID=America/Los_Angeles:20241027T154500
-DTSTAMP:20241027T213800Z
-UID:ci60177107-tt0077651--2024-10-27-13-45
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nFifteen years after murdering hi
- s sister on Halloween night 1963\, Michael Myers escapes from a mental hos
- pital and returns to the small town of Haddonfield\, Illinois\, to kill ag
- ain.\n\nhttps://www.imdb.com/title/tt0077651/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The People Under the Stairs (1991)
-DTSTART;TZID=America/Los_Angeles:20241027T190000
-DTEND;TZID=America/Los_Angeles:20241027T211000
-DTSTAMP:20241028T025300Z
-UID:ci60177107-tt0105121--2024-10-27-19-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen Fool breaks into the home 
- of his family's landlords\, he discovers that they have mutilated several 
- boys and kept them imprisoned under stairs. As Fool attempts to flee\, he 
- meets their daughter\, Alice. Can Fool and Alice escape?\n\nhttps://www.im
- db.com/title/tt0105121/\n\nIMDb rating: 6.4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HauntedWeen (1991)
 DTSTART;TZID=America/Los_Angeles:20241028T200000
@@ -53,7 +14,7 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nTwenty years after a fatal incid
  ent\, Eddie Burber's old home\, now haunted\, hosts a fraternity fundraise
  r. Unbeknownst to them\, real deaths occur amid the haunted house thrills 
  as they're hunted and trapped inside.\n\nhttps://www.imdb.com/title/tt0150
- 855/\n\nIMDb rating: 5
+ 855/\n\nIMDb rating: 4.9
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -114,6 +75,32 @@ DTSTART;TZID=America/Los_Angeles:20241111T153000
 DTEND;TZID=America/Los_Angeles:20241111T182500
 DTSTAMP:20241111T232300Z
 UID:ci60177107-tt0091670--2024-11-11-15-30
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241112T160000
+DTEND;TZID=America/Los_Angeles:20241112T185500
+DTSTAMP:20241112T235300Z
+UID:ci60177107-tt0091670--2024-11-12-16-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241112T191500
+DTEND;TZID=America/Los_Angeles:20241112T221000
+DTSTAMP:20241113T030800Z
+UID:ci60177107-tt0091670--2024-11-12-19-15
 DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
  a man searches for a way to restore peace to the world and finds he must g
  ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
