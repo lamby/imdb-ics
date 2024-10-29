@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241028T154209Z
+LAST-MODIFIED:20241029T150716Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:HauntedWeen (1991)
-DTSTART;TZID=America/Los_Angeles:20241028T200000
-DTEND;TZID=America/Los_Angeles:20241028T215500
-DTSTAMP:20241029T035300Z
-UID:ci60177107-tt0150855--2024-10-28-20-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nTwenty years after a fatal incid
- ent\, Eddie Burber's old home\, now haunted\, hosts a fraternity fundraise
- r. Unbeknownst to them\, real deaths occur amid the haunted house thrills 
- as they're hunted and trapped inside.\n\nhttps://www.imdb.com/title/tt0150
- 855/\n\nIMDb rating: 4.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opera (1987)
-DTSTART;TZID=America/Los_Angeles:20241028T171500
-DTEND;TZID=America/Los_Angeles:20241028T193000
-DTSTAMP:20241029T010800Z
-UID:ci60177107-tt0093677--2024-10-28-17-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young opera singer is stalked
-  by a deranged fan bent on killing the people associated with her to claim
-  her for himself.\n\nhttps://www.imdb.com/title/tt0093677/\n\nIMDb rating:
-  6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night of the Eagle (1962)
 DTSTART;TZID=America/Los_Angeles:20241030T170000
@@ -101,6 +74,19 @@ DTSTART;TZID=America/Los_Angeles:20241112T191500
 DTEND;TZID=America/Los_Angeles:20241112T221000
 DTSTAMP:20241113T030800Z
 UID:ci60177107-tt0091670--2024-11-12-19-15
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241113T160000
+DTEND;TZID=America/Los_Angeles:20241113T185500
+DTSTAMP:20241113T235300Z
+UID:ci60177107-tt0091670--2024-11-13-16-0
 DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
  a man searches for a way to restore peace to the world and finds he must g
  ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 

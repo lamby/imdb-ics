@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241028T154231Z
+LAST-MODIFIED:20241029T150733Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241028T161500
-DTEND;TZID=America/Los_Angeles:20241028T184000
-DTSTAMP:20241029T000800Z
-UID:ci5397678-tt0460791--2024-10-28-16-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241028T193000
-DTEND;TZID=America/Los_Angeles:20241028T215500
-DTSTAMP:20241029T032300Z
-UID:ci5397678-tt0460791--2024-10-28-19-30
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Fall (2006)
 DTSTART;TZID=America/Los_Angeles:20241029T161500
@@ -453,6 +427,34 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThe Clock family are four-inch-t
  simple items to make their home. Life changes for the Clocks when their te
  enage daughter Arrietty is discovered.\n\nhttps://www.imdb.com/title/tt156
  8921/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There (2014)
+DTSTART;TZID=America/Los_Angeles:20241113T160000
+DTEND;TZID=America/Los_Angeles:20241113T181000
+DTSTAMP:20241113T235300Z
+UID:ci5397678-tt3398268--2024-11-13-16-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAnna\, a shy 12-year-old girl\,
+  is sent to spend time with her aunt and uncle who live in the countryside
+ \, where she meets Marnie. The two become best friends. But Anna gradually
+  discovers that Marnie is not quite who she appears to...\n\nhttps://www.i
+ mdb.com/title/tt3398268/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wind Rises (2013)
+DTSTART;TZID=America/Los_Angeles:20241113T190000
+DTEND;TZID=America/Los_Angeles:20241113T213500
+DTSTAMP:20241114T025300Z
+UID:ci5397678-tt2013293--2024-11-13-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
+ sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
+ s\, fighter aircraft designed by him end up getting used by the Japanese E
+ mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
+ ating: 7.7
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
