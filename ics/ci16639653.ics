@@ -1,71 +1,115 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241029T150708Z
+LAST-MODIFIED:20241030T141629Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
 BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241029T161500
-DTEND;TZID=America/Los_Angeles:20241029T184000
-DTSTAMP:20241030T000800Z
-UID:ci16639653-tt0460791--2024-10-29-16-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241030T160000
+DTEND;TZID=America/Los_Angeles:20241030T182500
+DTSTAMP:20241030T235300Z
+UID:ci16639653-tt20215234--2024-10-30-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241029T193000
-DTEND;TZID=America/Los_Angeles:20241029T215500
-DTSTAMP:20241030T032300Z
-UID:ci16639653-tt0460791--2024-10-29-19-30
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241030T191500
+DTEND;TZID=America/Los_Angeles:20241030T214000
+DTSTAMP:20241031T030800Z
+UID:ci16639653-tt20215234--2024-10-30-19-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241030T161500
-DTEND;TZID=America/Los_Angeles:20241030T184000
-DTSTAMP:20241031T000800Z
-UID:ci16639653-tt0460791--2024-10-30-16-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
+SUMMARY:We Live in Time
+DTSTART;TZID=America/Los_Angeles:20241030T163000
+DTEND;TZID=America/Los_Angeles:20241030T184500
+DTSTAMP:20241031T002300Z
+UID:ci16639653-tt27131358--2024-10-30-16-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Fall (2006)
+SUMMARY:We Live in Time
+DTSTART;TZID=America/Los_Angeles:20241030T193000
+DTEND;TZID=America/Los_Angeles:20241030T214500
+DTSTAMP:20241031T032300Z
+UID:ci16639653-tt27131358--2024-10-30-19-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241031T184500
+DTEND;TZID=America/Los_Angeles:20241031T213000
+DTSTAMP:20241101T023800Z
+UID:ci16639653-tt28607951--2024-10-31-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241031T160000
+DTEND;TZID=America/Los_Angeles:20241031T182500
+DTSTAMP:20241031T235300Z
+UID:ci16639653-tt20215234--2024-10-31-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241031T191500
+DTEND;TZID=America/Los_Angeles:20241031T214000
+DTSTAMP:20241101T030800Z
+UID:ci16639653-tt20215234--2024-10-31-19-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Live in Time
 DTSTART;TZID=America/Los_Angeles:20241031T161500
-DTEND;TZID=America/Los_Angeles:20241031T184000
+DTEND;TZID=America/Los_Angeles:20241031T183000
 DTSTAMP:20241101T000800Z
-UID:ci16639653-tt0460791--2024-10-31-16-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241031T193000
-DTEND;TZID=America/Los_Angeles:20241031T215500
-DTSTAMP:20241101T032300Z
-UID:ci16639653-tt0460791--2024-10-31-19-30
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
+UID:ci16639653-tt27131358--2024-10-31-16-15
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -94,6 +138,34 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   news reaches Russia\, her fairytale is threatened as his parents set out 
  for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
  t28607951/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241101T160000
+DTEND;TZID=America/Los_Angeles:20241101T182500
+DTSTAMP:20241101T235300Z
+UID:ci16639653-tt20215234--2024-11-1-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241101T190000
+DTEND;TZID=America/Los_Angeles:20241101T212500
+DTSTAMP:20241102T025300Z
+UID:ci16639653-tt20215234--2024-11-1-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -140,6 +212,48 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241102T130000
+DTEND;TZID=America/Los_Angeles:20241102T152500
+DTSTAMP:20241102T205300Z
+UID:ci16639653-tt20215234--2024-11-2-13-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241102T160000
+DTEND;TZID=America/Los_Angeles:20241102T182500
+DTSTAMP:20241102T235300Z
+UID:ci16639653-tt20215234--2024-11-2-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241102T190000
+DTEND;TZID=America/Los_Angeles:20241102T212500
+DTSTAMP:20241103T025300Z
+UID:ci16639653-tt20215234--2024-11-2-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Anora
 DTSTART;TZID=America/Los_Angeles:20241103T124500
 DTEND;TZID=America/Los_Angeles:20241103T153000
@@ -182,6 +296,48 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241103T130000
+DTEND;TZID=America/Los_Angeles:20241103T152500
+DTSTAMP:20241103T205300Z
+UID:ci16639653-tt20215234--2024-11-3-13-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241103T160000
+DTEND;TZID=America/Los_Angeles:20241103T182500
+DTSTAMP:20241103T235300Z
+UID:ci16639653-tt20215234--2024-11-3-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241103T190000
+DTEND;TZID=America/Los_Angeles:20241103T212500
+DTSTAMP:20241104T025300Z
+UID:ci16639653-tt20215234--2024-11-3-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Anora
 DTSTART;TZID=America/Los_Angeles:20241104T154500
 DTEND;TZID=America/Los_Angeles:20241104T183000
@@ -210,11 +366,66 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241104T160000
+DTEND;TZID=America/Los_Angeles:20241104T182500
+DTSTAMP:20241104T235300Z
+UID:ci16639653-tt20215234--2024-11-4-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241104T191500
+DTEND;TZID=America/Los_Angeles:20241104T214000
+DTSTAMP:20241105T030800Z
+UID:ci16639653-tt20215234--2024-11-4-19-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfect Blue (1997)
+DTSTART;TZID=America/Los_Angeles:20241104T190000
+DTEND;TZID=America/Los_Angeles:20241104T205000
+DTSTAMP:20241105T025300Z
+UID:ci16639653-tt0156887--2024-11-4-19-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nA pop singer gives up her career
+  to become an actress\, but she slowly goes insane when she starts being s
+ talked by an obsessed fan and what seems to be a ghost of her past.\n\nhtt
+ ps://www.imdb.com/title/tt0156887/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Anora
 DTSTART;TZID=America/Los_Angeles:20241105T154500
 DTEND;TZID=America/Los_Angeles:20241105T183000
 DTSTAMP:20241105T233800Z
 UID:ci16639653-tt28607951--2024-11-5-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241105T180000
+DTEND;TZID=America/Los_Angeles:20241105T204500
+DTSTAMP:20241106T015300Z
+UID:ci16639653-tt28607951--2024-11-5-18-0
 DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
   news reaches Russia\, her fairytale is threatened as his parents set out 
@@ -234,6 +445,34 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   news reaches Russia\, her fairytale is threatened as his parents set out 
  for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
  t28607951/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241105T160000
+DTEND;TZID=America/Los_Angeles:20241105T182500
+DTSTAMP:20241105T235300Z
+UID:ci16639653-tt20215234--2024-11-5-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241105T190000
+DTEND;TZID=America/Los_Angeles:20241105T212500
+DTSTAMP:20241106T025300Z
+UID:ci16639653-tt20215234--2024-11-5-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -262,6 +501,34 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   news reaches Russia\, her fairytale is threatened as his parents set out 
  for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
  t28607951/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241106T160000
+DTEND;TZID=America/Los_Angeles:20241106T182500
+DTSTAMP:20241106T235300Z
+UID:ci16639653-tt20215234--2024-11-6-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241106T190000
+DTEND;TZID=America/Los_Angeles:20241106T212500
+DTSTAMP:20241107T025300Z
+UID:ci16639653-tt20215234--2024-11-6-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -303,6 +570,47 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   news reaches Russia\, her fairytale is threatened as his parents set out 
  for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
  t28607951/\n\nIMDb rating: 8.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241107T160000
+DTEND;TZID=America/Los_Angeles:20241107T182500
+DTSTAMP:20241107T235300Z
+UID:ci16639653-tt20215234--2024-11-7-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=America/Los_Angeles:20241107T190000
+DTEND;TZID=America/Los_Angeles:20241107T212500
+DTSTAMP:20241108T025300Z
+UID:ci16639653-tt20215234--2024-11-7-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:There's Still Tomorrow
+DTSTART;TZID=America/Los_Angeles:20241107T183000
+DTEND;TZID=America/Los_Angeles:20241107T205500
+DTSTAMP:20241108T022300Z
+UID:ci16639653-tt21800162--2024-11-7-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSet in postwar 1940s Italy\, it
+  follows Delia breaking traditional family patterns and aspiring to a diff
+ erent future\, after receiving a mysterious letter.\n\nhttps://www.imdb.co
+ m/title/tt21800162/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

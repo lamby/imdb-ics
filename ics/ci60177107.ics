@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241029T150716Z
+LAST-MODIFIED:20241030T141639Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
 BEGIN:VEVENT
@@ -30,6 +30,45 @@ LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thieves Like Us (1974)
+DTSTART;TZID=America/Los_Angeles:20241101T190000
+DTEND;TZID=America/Los_Angeles:20241101T213000
+DTSTAMP:20241102T025300Z
+UID:ci60177107-tt0072274--2024-11-1-19-0
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nWhen two men break out of priso
+ n\, they join up with another and restart their criminal ways\, robbing ba
+ nks across the South.\n\nhttps://www.imdb.com/title/tt0072274/\n\nIMDb rat
+ ing: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know Your Place (2022)
+DTSTART;TZID=America/Los_Angeles:20241104T190000
+DTEND;TZID=America/Los_Angeles:20241104T212500
+DTSTAMP:20241105T025300Z
+UID:ci60177107-tt15275946--2024-11-4-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
+ forming city\, a young Eritrean-American boy confronts the realities of ch
+ ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
+ .4
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gone to Earth (1950)
+DTSTART;TZID=America/Los_Angeles:20241106T193000
+DTEND;TZID=America/Los_Angeles:20241106T212000
+DTSTAMP:20241107T032300Z
+UID:ci60177107-tt0042513--2024-11-6-19-30
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA beautiful\, superstitious\, an
+ imal-loving Gypsy is hotly desired by a fox-hunting squire even after she 
+ marries a clergyman.\n\nhttps://www.imdb.com/title/tt0042513/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Sacrifice (1986)
 DTSTART;TZID=America/Los_Angeles:20241106T162000
 DTEND;TZID=America/Los_Angeles:20241106T191500
@@ -39,6 +78,19 @@ DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\,
  a man searches for a way to restore peace to the world and finds he must g
  ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
  rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know Your Place (2022)
+DTSTART;TZID=America/Los_Angeles:20241107T190000
+DTEND;TZID=America/Los_Angeles:20241107T212500
+DTSTAMP:20241108T025300Z
+UID:ci60177107-tt15275946--2024-11-7-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
+ forming city\, a young Eritrean-American boy confronts the realities of ch
+ ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
+ .4
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
@@ -87,6 +139,32 @@ DTSTART;TZID=America/Los_Angeles:20241113T160000
 DTEND;TZID=America/Los_Angeles:20241113T185500
 DTSTAMP:20241113T235300Z
 UID:ci60177107-tt0091670--2024-11-13-16-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241114T160000
+DTEND;TZID=America/Los_Angeles:20241114T185500
+DTSTAMP:20241114T235300Z
+UID:ci60177107-tt0091670--2024-11-14-16-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241114T191500
+DTEND;TZID=America/Los_Angeles:20241114T221000
+DTSTAMP:20241115T030800Z
+UID:ci60177107-tt0091670--2024-11-14-19-15
 DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
  a man searches for a way to restore peace to the world and finds he must g
  ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 

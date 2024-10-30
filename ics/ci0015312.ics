@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241029T150818Z
+LAST-MODIFIED:20241030T141752Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hocus Pocus (1993)
-DTSTART;TZID=America/Los_Angeles:20241029T160000
-DTEND;TZID=America/Los_Angeles:20241029T180500
-DTSTAMP:20241029T235300Z
-UID:ci0015312-tt0107120--2024-10-29-16-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
- little sister move to Salem\, where he struggles to fit in before awakenin
- g a trio of diabolical witches that were executed in the 17th century.\n\n
- https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hocus Pocus (1993)
-DTSTART;TZID=America/Los_Angeles:20241029T190000
-DTEND;TZID=America/Los_Angeles:20241029T210500
-DTSTAMP:20241030T025300Z
-UID:ci0015312-tt0107120--2024-10-29-19-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA teenage boy named Max and his 
- little sister move to Salem\, where he struggles to fit in before awakenin
- g a trio of diabolical witches that were executed in the 17th century.\n\n
- https://www.imdb.com/title/tt0107120/\n\nIMDb rating: 6.9
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Evil Dead (1981)
-DTSTART;TZID=America/Los_Angeles:20241029T213000
-DTEND;TZID=America/Los_Angeles:20241029T232000
-DTSTAMP:20241030T052300Z
-UID:ci0015312-tt0083907--2024-10-29-21-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
- n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
- ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hocus Pocus (1993)
 DTSTART;TZID=America/Los_Angeles:20241030T160000
@@ -77,6 +39,240 @@ UID:ci0015312-tt0083907--2024-10-30-21-30
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nFive friends travel to a cabin i
  n the woods\, where they unknowingly release flesh-possessing demons.\n\nh
  ttps://www.imdb.com/title/tt0083907/\n\nIMDb rating: 7.4
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241101T160000
+DTEND;TZID=America/Los_Angeles:20241101T182000
+DTSTAMP:20241101T235300Z
+UID:ci0015312-tt0246578--2024-11-1-16-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241101T213000
+DTEND;TZID=America/Los_Angeles:20241101T235000
+DTSTAMP:20241102T052300Z
+UID:ci0015312-tt0246578--2024-11-1-21-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvey (1950)
+DTSTART;TZID=America/Los_Angeles:20241101T190000
+DTEND;TZID=America/Los_Angeles:20241101T211000
+DTSTAMP:20241102T025300Z
+UID:ci0015312-tt0042546--2024-11-1-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA whimsical man is thought to b
+ e insane due to his insistence that he is best friends with an invisible\,
+  humanoid rabbit\, but he may be wiser than anyone knows.\n\nhttps://www.i
+ mdb.com/title/tt0042546/\n\nIMDb rating: 7.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241102T160000
+DTEND;TZID=America/Los_Angeles:20241102T182000
+DTSTAMP:20241102T235300Z
+UID:ci0015312-tt0246578--2024-11-2-16-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241102T213000
+DTEND;TZID=America/Los_Angeles:20241102T235000
+DTSTAMP:20241103T052300Z
+UID:ci0015312-tt0246578--2024-11-2-21-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvey (1950)
+DTSTART;TZID=America/Los_Angeles:20241102T190000
+DTEND;TZID=America/Los_Angeles:20241102T211000
+DTSTAMP:20241103T025300Z
+UID:ci0015312-tt0042546--2024-11-2-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA whimsical man is thought to b
+ e insane due to his insistence that he is best friends with an invisible\,
+  humanoid rabbit\, but he may be wiser than anyone knows.\n\nhttps://www.i
+ mdb.com/title/tt0042546/\n\nIMDb rating: 7.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241103T160000
+DTEND;TZID=America/Los_Angeles:20241103T182000
+DTSTAMP:20241103T235300Z
+UID:ci0015312-tt0246578--2024-11-3-16-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241103T213000
+DTEND;TZID=America/Los_Angeles:20241103T235000
+DTSTAMP:20241104T052300Z
+UID:ci0015312-tt0246578--2024-11-3-21-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvey (1950)
+DTSTART;TZID=America/Los_Angeles:20241103T190000
+DTEND;TZID=America/Los_Angeles:20241103T211000
+DTSTAMP:20241104T025300Z
+UID:ci0015312-tt0042546--2024-11-3-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA whimsical man is thought to b
+ e insane due to his insistence that he is best friends with an invisible\,
+  humanoid rabbit\, but he may be wiser than anyone knows.\n\nhttps://www.i
+ mdb.com/title/tt0042546/\n\nIMDb rating: 7.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241104T160000
+DTEND;TZID=America/Los_Angeles:20241104T182000
+DTSTAMP:20241104T235300Z
+UID:ci0015312-tt0246578--2024-11-4-16-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241104T213000
+DTEND;TZID=America/Los_Angeles:20241104T235000
+DTSTAMP:20241105T052300Z
+UID:ci0015312-tt0246578--2024-11-4-21-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvey (1950)
+DTSTART;TZID=America/Los_Angeles:20241104T190000
+DTEND;TZID=America/Los_Angeles:20241104T211000
+DTSTAMP:20241105T025300Z
+UID:ci0015312-tt0042546--2024-11-4-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA whimsical man is thought to b
+ e insane due to his insistence that he is best friends with an invisible\,
+  humanoid rabbit\, but he may be wiser than anyone knows.\n\nhttps://www.i
+ mdb.com/title/tt0042546/\n\nIMDb rating: 7.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241105T160000
+DTEND;TZID=America/Los_Angeles:20241105T182000
+DTSTAMP:20241105T235300Z
+UID:ci0015312-tt0246578--2024-11-5-16-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241105T213000
+DTEND;TZID=America/Los_Angeles:20241105T235000
+DTSTAMP:20241106T052300Z
+UID:ci0015312-tt0246578--2024-11-5-21-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvey (1950)
+DTSTART;TZID=America/Los_Angeles:20241105T190000
+DTEND;TZID=America/Los_Angeles:20241105T211000
+DTSTAMP:20241106T025300Z
+UID:ci0015312-tt0042546--2024-11-5-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA whimsical man is thought to b
+ e insane due to his insistence that he is best friends with an invisible\,
+  humanoid rabbit\, but he may be wiser than anyone knows.\n\nhttps://www.i
+ mdb.com/title/tt0042546/\n\nIMDb rating: 7.9
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241106T160000
+DTEND;TZID=America/Los_Angeles:20241106T182000
+DTSTAMP:20241106T235300Z
+UID:ci0015312-tt0246578--2024-11-6-16-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donnie Darko (2001)
+DTSTART;TZID=America/Los_Angeles:20241106T213000
+DTEND;TZID=America/Los_Angeles:20241106T235000
+DTSTAMP:20241107T052300Z
+UID:ci0015312-tt0246578--2024-11-6-21-30
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAfter narrowly escaping a bizar
+ re accident\, a troubled teenager is plagued by visions of a man in a larg
+ e rabbit suit who manipulates him to commit a series of crimes.\n\nhttps:/
+ /www.imdb.com/title/tt0246578/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvey (1950)
+DTSTART;TZID=America/Los_Angeles:20241106T190000
+DTEND;TZID=America/Los_Angeles:20241106T211000
+DTSTAMP:20241107T025300Z
+UID:ci0015312-tt0042546--2024-11-6-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA whimsical man is thought to b
+ e insane due to his insistence that he is best friends with an invisible\,
+  humanoid rabbit\, but he may be wiser than anyone knows.\n\nhttps://www.i
+ mdb.com/title/tt0042546/\n\nIMDb rating: 7.9
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
