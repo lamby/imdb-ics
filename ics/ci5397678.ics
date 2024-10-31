@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241030T141704Z
+LAST-MODIFIED:20241031T150015Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241030T161500
-DTEND;TZID=America/Los_Angeles:20241030T184000
-DTSTAMP:20241031T000800Z
-UID:ci5397678-tt0460791--2024-10-30-16-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Fall (2006)
 DTSTART;TZID=America/Los_Angeles:20241031T161500
@@ -105,7 +92,7 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
  sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
  s\, fighter aircraft designed by him end up getting used by the Japanese E
  mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
- ating: 7.7
+ ating: 7.8
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -279,7 +266,7 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
  sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
  s\, fighter aircraft designed by him end up getting used by the Japanese E
  mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
- ating: 7.7
+ ating: 7.8
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -428,7 +415,7 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
  sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
  s\, fighter aircraft designed by him end up getting used by the Japanese E
  mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
- ating: 7.7
+ ating: 7.8
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -456,6 +443,33 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA five-year-old boy develops a
  relationship with Ponyo\, a young goldfish princess who longs to become a 
  human after falling in love with him.\n\nhttps://www.imdb.com/title/tt0876
  563/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek (2001)
+DTSTART;TZID=America/Los_Angeles:20241115T161500
+DTEND;TZID=America/Los_Angeles:20241115T181000
+DTSTAMP:20241116T000800Z
+UID:ci5397678-tt0126029--2024-11-15-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA mean lord exiles fairytale cre
+ atures to the swamp of a grumpy ogre\, who must go on a quest and rescue a
+  princess for the lord in order to get his land back.\n\nhttps://www.imdb.
+ com/title/tt0126029/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek 2 (2004)
+DTSTART;TZID=America/Los_Angeles:20241115T190000
+DTEND;TZID=America/Los_Angeles:20241115T210000
+DTSTAMP:20241116T025300Z
+UID:ci5397678-tt0298148--2024-11-15-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
+ ngdom of Far Far Away\, where Fiona's parents are King and Queen\, to cele
+ brate their marriage. When they arrive\, they find they are not as welcome
+  as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
+ \nIMDb rating: 7.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

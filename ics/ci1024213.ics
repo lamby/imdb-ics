@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241030T141532Z
+LAST-MODIFIED:20241031T145833Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Frankenstein (1931)
-DTSTART;TZID=America/Los_Angeles:20241030T163000
-DTEND;TZID=America/Los_Angeles:20241030T180500
-DTSTAMP:20241031T002300Z
-UID:ci1024213-tt0021884--2024-10-30-16-30
-DESCRIPTION:Duration: 1h 10m (70 mins)\n\nDr Henry Frankenstein is obsesse
- d with assembling a living being from parts of several exhumed corpses.\n\
- nhttps://www.imdb.com/title/tt0021884/\n\nIMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Five Minutes to Live (1961)
 DTSTART;TZID=America/Los_Angeles:20241031T193000

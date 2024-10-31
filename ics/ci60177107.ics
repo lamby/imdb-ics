@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241030T141639Z
+LAST-MODIFIED:20241031T145953Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Night of the Eagle (1962)
-DTSTART;TZID=America/Los_Angeles:20241030T170000
-DTEND;TZID=America/Los_Angeles:20241030T185500
-DTSTAMP:20241031T005300Z
-UID:ci60177107-tt0056279--2024-10-30-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA woman who may be a witch defen
- ds her husband from forces attempting to harm him.\n\nhttps://www.imdb.com
- /title/tt0056279/\n\nIMDb rating: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hour of Glory (1949)
-DTSTART;TZID=America/Los_Angeles:20241030T193000
-DTEND;TZID=America/Los_Angeles:20241030T214500
-DTSTAMP:20241031T032300Z
-UID:ci60177107-tt0041886--2024-10-30-19-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAs the Germans drop explosive b
- ooby-traps on Britain in 1943\, the embittered expert who'll have to disar
- m them fights a private battle with alcohol.\n\nhttps://www.imdb.com/title
- /tt0041886/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thieves Like Us (1974)
 DTSTART;TZID=America/Los_Angeles:20241101T190000
