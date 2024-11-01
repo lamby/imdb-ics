@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241031T150015Z
+LAST-MODIFIED:20241101T142009Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241031T161500
-DTEND;TZID=America/Los_Angeles:20241031T184000
-DTSTAMP:20241101T000800Z
-UID:ci5397678-tt0460791--2024-10-31-16-15
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fall (2006)
-DTSTART;TZID=America/Los_Angeles:20241031T193000
-DTEND;TZID=America/Los_Angeles:20241031T215500
-DTSTAMP:20241101T032300Z
-UID:ci5397678-tt0460791--2024-10-31-19-30
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nIn 1920s Los Angeles\, a bedrid
- den patient in a hospital captivates a young girl with a fantastic tale of
-  heroes\, myths\, and villains on a desert island.\n\nhttps://www.imdb.com
- /title/tt0460791/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Neighbor Totoro (1988)
 DTSTART;TZID=America/Los_Angeles:20241101T193000
@@ -470,6 +444,60 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
  brate their marriage. When they arrive\, they find they are not as welcome
   as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
  \nIMDb rating: 7.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek (2001)
+DTSTART;TZID=America/Los_Angeles:20241116T114500
+DTEND;TZID=America/Los_Angeles:20241116T134000
+DTSTAMP:20241116T193800Z
+UID:ci5397678-tt0126029--2024-11-16-11-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA mean lord exiles fairytale cre
+ atures to the swamp of a grumpy ogre\, who must go on a quest and rescue a
+  princess for the lord in order to get his land back.\n\nhttps://www.imdb.
+ com/title/tt0126029/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek 2 (2004)
+DTSTART;TZID=America/Los_Angeles:20241116T143000
+DTEND;TZID=America/Los_Angeles:20241116T163000
+DTSTAMP:20241116T222300Z
+UID:ci5397678-tt0298148--2024-11-16-14-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
+ ngdom of Far Far Away\, where Fiona's parents are King and Queen\, to cele
+ brate their marriage. When they arrive\, they find they are not as welcome
+  as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
+ \nIMDb rating: 7.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek Forever After (2010)
+DTSTART;TZID=America/Los_Angeles:20241116T200000
+DTEND;TZID=America/Los_Angeles:20241116T220000
+DTSTAMP:20241117T035300Z
+UID:ci5397678-tt0892791--2024-11-16-20-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nRumpelstiltskin tricks a mid-lif
+ e crisis burdened Shrek into allowing himself to be erased from existence 
+ and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.
+ \n\nhttps://www.imdb.com/title/tt0892791/\n\nIMDb rating: 6.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek the Third (2007)
+DTSTART;TZID=America/Los_Angeles:20241116T171500
+DTEND;TZID=America/Los_Angeles:20241116T191500
+DTSTAMP:20241117T010800Z
+UID:ci5397678-tt0413267--2024-11-16-17-15
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nReluctantly designated as the he
+ ir to the land of Far\, Far Away\, Shrek hatches a plan to install the reb
+ ellious Artie as the new king while Princess Fiona tries to fend off a cou
+ p d'état by the jilted Prince Charming.\n\nhttps://www.imdb.com/title/tt0
+ 413267/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
