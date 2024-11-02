@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241101T141810Z
+LAST-MODIFIED:20241102T163140Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:In the Summers
-DTSTART;TZID=America/Los_Angeles:20241101T190000
-DTEND;TZID=America/Los_Angeles:20241101T210000
-DTSTAMP:20241102T025300Z
-UID:ci0005472-tt24805832--2024-11-1-19-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
- ative years of their lives\, two sisters navigate their loving but volatil
- e father during their yearly summer visits to his home in Las Cruces\, New
-  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food and Country
 DTSTART;TZID=America/Los_Angeles:20241102T123000
@@ -253,7 +240,34 @@ UID:ci0005472-tt16290722--2024-11-16-18-0
 DESCRIPTION:Duration: 1h 12m (72 mins)\n\nA raucous work of queer fantasy 
  and history\, Playland conjures a time-bending night in Boston's oldest an
  d most notorious gay bar.\n\nhttps://www.imdb.com/title/tt16290722/\n\nIMD
- b rating: 6.3
+ b rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louder Than You Think
+DTSTART;TZID=America/Los_Angeles:20241117T170000
+DTEND;TZID=America/Los_Angeles:20241117T185500
+DTSTAMP:20241118T005300Z
+UID:ci0005472-tt26493386--2024-11-17-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nGary Young\, drummer for indie-r
+ ock icons Pavement\, injected a wild-card unpredictability into the band's
+  breakthrough\, lo-fi sound. But those same gonzo impulses derailed his ro
+ ck star dream.\n\nhttps://www.imdb.com/title/tt26493386/\n\nIMDb rating: 8
+ .4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playland
+DTSTART;TZID=America/Los_Angeles:20241117T150000
+DTEND;TZID=America/Los_Angeles:20241117T164000
+DTSTAMP:20241117T225300Z
+UID:ci0005472-tt16290722--2024-11-17-15-0
+DESCRIPTION:Duration: 1h 12m (72 mins)\n\nA raucous work of queer fantasy 
+ and history\, Playland conjures a time-bending night in Boston's oldest an
+ d most notorious gay bar.\n\nhttps://www.imdb.com/title/tt16290722/\n\nIMD
+ b rating: 6.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

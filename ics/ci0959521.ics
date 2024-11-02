@@ -1,389 +1,48 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241101T141828Z
+LAST-MODIFIED:20241102T163200Z
 NAME:The Light Cinema\, Cambridge
 X-WR-CALNAME:The Light Cinema\, Cambridge
 BEGIN:VEVENT
-SUMMARY:Alien (1979)
-DTSTART;TZID=Europe/London:20241101T200000
-DTEND;TZID=Europe/London:20241101T222500
-DTSTAMP:20241101T200100Z
-UID:ci0959521-tt0078748--2024-11-1-20-0
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nAfter investigating a mysteriou
- s transmission of unknown origin\, the crew of a commercial spacecraft enc
- ounters a deadly lifeform.\n\nhttps://www.imdb.com/title/tt0078748/\n\nIMD
- b rating: 8.5
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241102T130000
+DTEND;TZID=Europe/London:20241102T154500
+DTSTAMP:20241102T130100Z
+UID:ci0959521-tt28607951--2024-11-2-13-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bhool Bhulaiyaa 3
-DTSTART;TZID=Europe/London:20241101T194500
-DTEND;TZID=Europe/London:20241101T225000
-DTSTAMP:20241101T194600Z
-UID:ci0959521-tt26932223--2024-11-1-19-45
-DESCRIPTION:Duration: 2h 38m (158 mins)\n\nRuhaan\, a fraudster posing as 
- an exorcist\, takes on a lucrative case at a haunted castle\, unraveling a
-  sinister plot involving mischievous priests\, culminating in a hilarious 
- yet thrilling ride filled with unexpected twists and sc...\n\nhttps://www.
- imdb.com/title/tt26932223/
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241102T160000
+DTEND;TZID=Europe/London:20241102T184500
+DTSTAMP:20241102T160100Z
+UID:ci0959521-tt28607951--2024-11-2-16-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bluey at the Cinema: Family Trip Collection
-DTSTART;TZID=Europe/London:20241101T100000
-DTEND;TZID=Europe/London:20241101T112000
-DTSTAMP:20241101T100100Z
-UID:ci0959521-tt33253099--2024-11-1-10-0
-DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
- 53099/\n\nIMDb rating: 7.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20241101T103000
-DTEND;TZID=Europe/London:20241101T123000
-DTSTAMP:20241101T103100Z
-UID:ci0959521-tt7510222--2024-11-1-10-30
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nGru\, Lucy\, Margo\, Edith\, and
-  Agnes welcome a new member to the family\, Gru Jr.\, who is intent on tor
- menting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfrie
- nd Valentina\, and the family is forced to go on the run.\n\nhttps://www.i
- mdb.com/title/tt7510222/\n\nIMDb rating: 6.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heretic
-DTSTART;TZID=Europe/London:20241101T114000
-DTEND;TZID=Europe/London:20241101T135500
-DTSTAMP:20241101T114100Z
-UID:ci0959521-tt28015403--2024-11-1-11-40
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
- rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
- //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heretic
-DTSTART;TZID=Europe/London:20241101T142000
-DTEND;TZID=Europe/London:20241101T163500
-DTSTAMP:20241101T142100Z
-UID:ci0959521-tt28015403--2024-11-1-14-20
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
- rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
- //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heretic
-DTSTART;TZID=Europe/London:20241101T170000
-DTEND;TZID=Europe/London:20241101T191500
-DTSTAMP:20241101T170100Z
-UID:ci0959521-tt28015403--2024-11-1-17-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
- rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
- //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heretic
-DTSTART;TZID=Europe/London:20241101T194000
-DTEND;TZID=Europe/London:20241101T215500
-DTSTAMP:20241101T194100Z
-UID:ci0959521-tt28015403--2024-11-1-19-40
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
- rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
- //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lucky Baskhar
-DTSTART;TZID=Europe/London:20241101T191500
-DTEND;TZID=Europe/London:20241101T223000
-DTSTAMP:20241101T191600Z
-UID:ci0959521-tt27540542--2024-11-1-19-15
-DESCRIPTION:Duration: 2h 50m (170 mins)\n\nA cash-strapped cashier working
-  at a bank embarks on a risky investment scheme and soon gets drawn into t
- he murky world of money laundering.\n\nhttps://www.imdb.com/title/tt275405
- 42/\n\nIMDb rating: 8.4
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Singham Again
-DTSTART;TZID=Europe/London:20241101T134000
-DTEND;TZID=Europe/London:20241101T163000
-DTSTAMP:20241101T134100Z
-UID:ci0959521-tt11976134--2024-11-1-13-40
-DESCRIPTION:Duration: 2h 24m (144 mins)\n\nA new chase is coming - with re
- ference to the epic Ramayana\, Singham and his team face an ambiguous vill
- ain in order to save his wife.\n\nhttps://www.imdb.com/title/tt11976134/
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Things Like These
-DTSTART;TZID=Europe/London:20241101T104000
-DTEND;TZID=Europe/London:20241101T124500
-DTSTAMP:20241101T104100Z
-UID:ci0959521-tt27196021--2024-11-1-10-40
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nIn 1985 devoted father Bill Furl
- ong discovers disturbing secrets kept by the local convent and uncovers sh
- ocking truths of his own.\n\nhttps://www.imdb.com/title/tt27196021/\n\nIMD
- b rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Things Like These
-DTSTART;TZID=Europe/London:20241101T130000
-DTEND;TZID=Europe/London:20241101T150500
-DTSTAMP:20241101T130100Z
-UID:ci0959521-tt27196021--2024-11-1-13-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nIn 1985 devoted father Bill Furl
- ong discovers disturbing secrets kept by the local convent and uncovers sh
- ocking truths of his own.\n\nhttps://www.imdb.com/title/tt27196021/\n\nIMD
- b rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Things Like These
-DTSTART;TZID=Europe/London:20241101T152000
-DTEND;TZID=Europe/London:20241101T172500
-DTSTAMP:20241101T152100Z
-UID:ci0959521-tt27196021--2024-11-1-15-20
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nIn 1985 devoted father Bill Furl
- ong discovers disturbing secrets kept by the local convent and uncovers sh
- ocking truths of his own.\n\nhttps://www.imdb.com/title/tt27196021/\n\nIMD
- b rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Things Like These
-DTSTART;TZID=Europe/London:20241101T174000
-DTEND;TZID=Europe/London:20241101T194500
-DTSTAMP:20241101T174100Z
-UID:ci0959521-tt27196021--2024-11-1-17-40
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nIn 1985 devoted father Bill Furl
- ong discovers disturbing secrets kept by the local convent and uncovers sh
- ocking truths of his own.\n\nhttps://www.imdb.com/title/tt27196021/\n\nIMD
- b rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Things Like These
-DTSTART;TZID=Europe/London:20241101T202000
-DTEND;TZID=Europe/London:20241101T222500
-DTSTAMP:20241101T202100Z
-UID:ci0959521-tt27196021--2024-11-1-20-20
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nIn 1985 devoted father Bill Furl
- ong discovers disturbing secrets kept by the local convent and uncovers sh
- ocking truths of his own.\n\nhttps://www.imdb.com/title/tt27196021/\n\nIMD
- b rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smile 2
-DTSTART;TZID=Europe/London:20241101T201500
-DTEND;TZID=Europe/London:20241101T225000
-DTSTAMP:20241101T201600Z
-UID:ci0959521-tt29268110--2024-11-1-20-15
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nAbout to embark on a world tour
- \, global pop sensation Skye Riley begins experiencing increasingly terrif
- ying and inexplicable events. Overwhelmed by the escalating horrors and th
- e pressures of fame\, Skye is forced to face her past.\n\nhttps://www.imdb
- .com/title/tt29268110/\n\nIMDb rating: 7.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241101T171500
-DTEND;TZID=Europe/London:20241101T200500
-DTSTAMP:20241101T171600Z
-UID:ci0959521-tt17526714--2024-11-1-17-15
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.6
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241101T100000
-DTEND;TZID=Europe/London:20241101T121000
-DTSTAMP:20241101T100100Z
-UID:ci0959521-tt29623480--2024-11-1-10-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241101T122000
-DTEND;TZID=Europe/London:20241101T143000
-DTSTAMP:20241101T122100Z
-UID:ci0959521-tt29623480--2024-11-1-12-20
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241101T140000
-DTEND;TZID=Europe/London:20241101T161000
-DTSTAMP:20241101T140100Z
-UID:ci0959521-tt29623480--2024-11-1-14-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241101T145000
-DTEND;TZID=Europe/London:20241101T170000
-DTSTAMP:20241101T145100Z
-UID:ci0959521-tt29623480--2024-11-1-14-50
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241101T163000
-DTEND;TZID=Europe/London:20241101T184000
-DTSTAMP:20241101T163100Z
-UID:ci0959521-tt29623480--2024-11-1-16-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241101T172000
-DTEND;TZID=Europe/London:20241101T193000
-DTSTAMP:20241101T172100Z
-UID:ci0959521-tt29623480--2024-11-1-17-20
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241101T175000
-DTEND;TZID=Europe/London:20241101T200000
-DTSTAMP:20241101T175100Z
-UID:ci0959521-tt29623480--2024-11-1-17-50
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot (IMAX)
-DTSTART;TZID=Europe/London:20241101T114500
-DTEND;TZID=Europe/London:20241101T135500
-DTSTAMP:20241101T114600Z
-UID:ci0959521-tt29623480-imax-2024-11-1-11-45
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241101T102000
-DTEND;TZID=Europe/London:20241101T123000
-DTSTAMP:20241101T102100Z
-UID:ci0959521-tt8864596--2024-11-1-10-20
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transformers One
-DTSTART;TZID=Europe/London:20241101T125000
-DTEND;TZID=Europe/London:20241101T150000
-DTSTAMP:20241101T125100Z
-UID:ci0959521-tt8864596--2024-11-1-12-50
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
- mus Prime and Megatron\, better known as sworn enemies\, but who once were
-  friends bonded like brothers who changed the fate of Cybertron forever.\n
- \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.7
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Venom: The Last Dance
-DTSTART;TZID=Europe/London:20241101T112000
-DTEND;TZID=Europe/London:20241101T133500
-DTSTAMP:20241101T112100Z
-UID:ci0959521-tt16366836--2024-11-1-11-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
- face pursuit from both worlds. As circumstances tighten\, they're compelle
- d to make a heart-wrenching choice that could mark the end of their symbio
- tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
-  6.2
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Venom: The Last Dance
-DTSTART;TZID=Europe/London:20241101T151500
-DTEND;TZID=Europe/London:20241101T173000
-DTSTAMP:20241101T151600Z
-UID:ci0959521-tt16366836--2024-11-1-15-15
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
- face pursuit from both worlds. As circumstances tighten\, they're compelle
- d to make a heart-wrenching choice that could mark the end of their symbio
- tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
-  6.2
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241102T190000
+DTEND;TZID=Europe/London:20241102T214500
+DTSTAMP:20241102T190100Z
+UID:ci0959521-tt28607951--2024-11-2-19-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -394,7 +53,7 @@ DTEND;TZID=Europe/London:20241102T120000
 DTSTAMP:20241102T104100Z
 UID:ci0959521-tt33253099--2024-11-2-10-40
 DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
- 53099/\n\nIMDb rating: 7.7
+ 53099/\n\nIMDb rating: 7.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -682,7 +341,7 @@ DTEND;TZID=Europe/London:20241102T185000
 DTSTAMP:20241102T161100Z
 UID:ci0959521-tt21601428--2024-11-2-16-10
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nhttps://www.imdb.com/title/tt21
- 601428/\n\nIMDb rating: 6
+ 601428/\n\nIMDb rating: 5.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -692,7 +351,7 @@ DTSTART;TZID=Europe/London:20241102T113000
 DTEND;TZID=Europe/London:20241102T134500
 DTSTAMP:20241102T113100Z
 UID:ci0959521-tt16366836--2024-11-2-11-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nEddie and Venom\, on the run\, 
  face pursuit from both worlds. As circumstances tighten\, they're compelle
  d to make a heart-wrenching choice that could mark the end of their symbio
  tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
@@ -706,11 +365,53 @@ DTSTART;TZID=Europe/London:20241102T151000
 DTEND;TZID=Europe/London:20241102T172500
 DTSTAMP:20241102T151100Z
 UID:ci0959521-tt16366836--2024-11-2-15-10
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nEddie and Venom\, on the run\, 
  face pursuit from both worlds. As circumstances tighten\, they're compelle
  d to make a heart-wrenching choice that could mark the end of their symbio
  tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
   6.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241103T123000
+DTEND;TZID=Europe/London:20241103T151500
+DTSTAMP:20241103T123100Z
+UID:ci0959521-tt28607951--2024-11-3-12-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241103T153000
+DTEND;TZID=Europe/London:20241103T181500
+DTSTAMP:20241103T153100Z
+UID:ci0959521-tt28607951--2024-11-3-15-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241103T183000
+DTEND;TZID=Europe/London:20241103T211500
+DTSTAMP:20241103T183100Z
+UID:ci0959521-tt28607951--2024-11-3-18-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -735,7 +436,7 @@ DTEND;TZID=Europe/London:20241103T112000
 DTSTAMP:20241103T100100Z
 UID:ci0959521-tt33253099--2024-11-3-10-0
 DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
- 53099/\n\nIMDb rating: 7.7
+ 53099/\n\nIMDb rating: 7.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -746,7 +447,7 @@ DTEND;TZID=Europe/London:20241103T115000
 DTSTAMP:20241103T103100Z
 UID:ci0959521-tt33253099--2024-11-3-10-30
 DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
- 53099/\n\nIMDb rating: 7.7
+ 53099/\n\nIMDb rating: 7.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1045,7 +746,7 @@ DTSTART;TZID=Europe/London:20241103T110000
 DTEND;TZID=Europe/London:20241103T131500
 DTSTAMP:20241103T110100Z
 UID:ci0959521-tt16366836--2024-11-3-11-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nEddie and Venom\, on the run\, 
  face pursuit from both worlds. As circumstances tighten\, they're compelle
  d to make a heart-wrenching choice that could mark the end of their symbio
  tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
@@ -1059,11 +760,53 @@ DTSTART;TZID=Europe/London:20241103T202000
 DTEND;TZID=Europe/London:20241103T223500
 DTSTAMP:20241103T202100Z
 UID:ci0959521-tt16366836--2024-11-3-20-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nEddie and Venom\, on the run\, 
  face pursuit from both worlds. As circumstances tighten\, they're compelle
  d to make a heart-wrenching choice that could mark the end of their symbio
  tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
   6.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241104T141000
+DTEND;TZID=Europe/London:20241104T165500
+DTSTAMP:20241104T141100Z
+UID:ci0959521-tt28607951--2024-11-4-14-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241104T162000
+DTEND;TZID=Europe/London:20241104T190500
+DTSTAMP:20241104T162100Z
+UID:ci0959521-tt28607951--2024-11-4-16-20
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241104T192000
+DTEND;TZID=Europe/London:20241104T220500
+DTSTAMP:20241104T192100Z
+UID:ci0959521-tt28607951--2024-11-4-19-20
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1297,11 +1040,53 @@ DTSTART;TZID=Europe/London:20241104T201000
 DTEND;TZID=Europe/London:20241104T222500
 DTSTAMP:20241104T201100Z
 UID:ci0959521-tt16366836--2024-11-4-20-10
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nEddie and Venom\, on the run\, 
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nEddie and Venom\, on the run\, 
  face pursuit from both worlds. As circumstances tighten\, they're compelle
  d to make a heart-wrenching choice that could mark the end of their symbio
  tic partnership.\n\nhttps://www.imdb.com/title/tt16366836/\n\nIMDb rating:
   6.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241105T140000
+DTEND;TZID=Europe/London:20241105T164500
+DTSTAMP:20241105T140100Z
+UID:ci0959521-tt28607951--2024-11-5-14-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241105T163000
+DTEND;TZID=Europe/London:20241105T191500
+DTSTAMP:20241105T163100Z
+UID:ci0959521-tt28607951--2024-11-5-16-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241105T193000
+DTEND;TZID=Europe/London:20241105T221500
+DTSTAMP:20241105T193100Z
+UID:ci0959521-tt28607951--2024-11-5-19-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1435,19 +1220,6 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241105T194500
-DTEND;TZID=Europe/London:20241105T221500
-DTSTAMP:20241105T194600Z
-UID:ci0959521-tt8368368--2024-11-5-19-45
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
-  Trump started his real-estate business in 1970s and '80s New York with th
- e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
- le/tt8368368/\n\nIMDb rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Substance
 DTSTART;TZID=Europe/London:20241105T160000
 DTEND;TZID=Europe/London:20241105T185000
@@ -1515,13 +1287,69 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241106T111000
+DTEND;TZID=Europe/London:20241106T135500
+DTSTAMP:20241106T111100Z
+UID:ci0959521-tt28607951--2024-11-6-11-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241106T141000
+DTEND;TZID=Europe/London:20241106T165500
+DTSTAMP:20241106T141100Z
+UID:ci0959521-tt28607951--2024-11-6-14-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241106T171000
+DTEND;TZID=Europe/London:20241106T195500
+DTSTAMP:20241106T171100Z
+UID:ci0959521-tt28607951--2024-11-6-17-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241106T201000
+DTEND;TZID=Europe/London:20241106T225500
+DTSTAMP:20241106T201100Z
+UID:ci0959521-tt28607951--2024-11-6-20-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bluey at the Cinema: Family Trip Collection
 DTSTART;TZID=Europe/London:20241106T113000
 DTEND;TZID=Europe/London:20241106T125000
 DTSTAMP:20241106T113100Z
 UID:ci0959521-tt33253099--2024-11-6-11-30
 DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
- 53099/\n\nIMDb rating: 7.7
+ 53099/\n\nIMDb rating: 7.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1681,19 +1509,6 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241106T144000
-DTEND;TZID=Europe/London:20241106T171000
-DTSTAMP:20241106T144100Z
-UID:ci0959521-tt8368368--2024-11-6-14-40
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
-  Trump started his real-estate business in 1970s and '80s New York with th
- e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
- le/tt8368368/\n\nIMDb rating: 7.3
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Substance
 DTSTART;TZID=Europe/London:20241106T120000
 DTEND;TZID=Europe/London:20241106T145000
@@ -1788,13 +1603,55 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241107T131500
+DTEND;TZID=Europe/London:20241107T160000
+DTSTAMP:20241107T131600Z
+UID:ci0959521-tt28607951--2024-11-7-13-15
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241107T161500
+DTEND;TZID=Europe/London:20241107T190000
+DTSTAMP:20241107T161600Z
+UID:ci0959521-tt28607951--2024-11-7-16-15
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241107T192000
+DTEND;TZID=Europe/London:20241107T220500
+DTSTAMP:20241107T192100Z
+UID:ci0959521-tt28607951--2024-11-7-19-20
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bluey at the Cinema: Family Trip Collection
 DTSTART;TZID=Europe/London:20241107T121500
 DTEND;TZID=Europe/London:20241107T133500
 DTSTAMP:20241107T121600Z
 UID:ci0959521-tt33253099--2024-11-7-12-15
 DESCRIPTION:Duration: 0h 55m (55 mins)\n\nhttps://www.imdb.com/title/tt332
- 53099/\n\nIMDb rating: 7.7
+ 53099/\n\nIMDb rating: 7.8
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -1959,19 +1816,6 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nReeve's rise to becoming a film
  m paralyzed from the neck down. After the accident\, he became an activist
   for spinal cord injury treatments and disability ri...\n\nhttps://www.imd
  b.com/title/tt27902121/\n\nIMDb rating: 8.4
-LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
- \, CB1 7DY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241107T151000
-DTEND;TZID=Europe/London:20241107T174000
-DTSTAMP:20241107T151100Z
-UID:ci0959521-tt8368368--2024-11-7-15-10
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nThe story of how a young Donald
-  Trump started his real-estate business in 1970s and '80s New York with th
- e helping hand of infamous lawyer Roy M. Cohn.\n\nhttps://www.imdb.com/tit
- le/tt8368368/\n\nIMDb rating: 7.3
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2236,6 +2080,31 @@ UID:ci0959521-tt15939198--2024-11-10-17-15
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nFollow the stories of a group o
  f Londoners during the events of the British capital bombing in World War 
  II.\n\nhttps://www.imdb.com/title/tt15939198/\n\nIMDb rating: 6.6
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Am Kathalan
+DTSTART;TZID=Europe/London:20241110T183000
+DTEND;TZID=Europe/London:20241110T205500
+DTSTAMP:20241110T183100Z
+UID:ci0959521-tt23577326--2024-11-10-18-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt23
+ 577326/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overlord: The Sacred Kingdom
+DTSTART;TZID=Europe/London:20241110T163000
+DTEND;TZID=Europe/London:20241110T191000
+DTSTAMP:20241110T163100Z
+UID:ci0959521-tt14603848--2024-11-10-16-30
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nMomonga\, now known as the Sorc
+ erer King Ains Ooal Gown\, rallies the Sorcerer Kingdom and its undead arm
+ y to join the fight alongside the Sacred Kingdom and the Slane Theocracy i
+ n hopes to defeat the Demon Emperor Jaldabaoth.\n\nhttps://www.imdb.com/ti
+ tle/tt14603848/\n\nIMDb rating: 7.1
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
@@ -2521,6 +2390,19 @@ LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kanguva
+DTSTART;TZID=Europe/London:20241114T191500
+DTEND;TZID=Europe/London:20241114T221500
+DTSTAMP:20241114T191600Z
+UID:ci0959521-tt22036406--2024-11-14-19-15
+DESCRIPTION:Duration: 2h 34m (154 mins)\n\nA tribal warrior's fierce strug
+ gle to save his people a millennium ago is mysteriously linked to a shadow
+  cop's perilous quest in the present.\n\nhttps://www.imdb.com/title/tt2203
+ 6406/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Piece by Piece
 DTSTART;TZID=Europe/London:20241114T120000
 DTEND;TZID=Europe/London:20241114T140000
@@ -2577,6 +2459,32 @@ DTSTAMP:20241116T190100Z
 UID:ci0959521-tt32606568--2024-11-16-19-0
 DESCRIPTION:Duration: 2h 28m (148 mins)\n\nhttps://www.imdb.com/title/tt32
  606568/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladiator II
+DTSTART;TZID=Europe/London:20241117T154000
+DTEND;TZID=Europe/London:20241117T183500
+DTSTAMP:20241117T154100Z
+UID:ci0959521-tt9218128--2024-11-17-15-40
+DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
+ the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
+ Colosseum and must look to his past to find strength to return the glory o
+ f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/
+LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
+ \, CB1 7DY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Dance
+DTSTART;TZID=Europe/London:20241117T170000
+DTEND;TZID=Europe/London:20241117T193500
+DTSTAMP:20241117T170100Z
+UID:ci0959521-tt31648020--2024-11-17-17-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA debt-ridden wedding planner i
+ nadvertently becomes a successful funeral planner. However\, he must convi
+ nce a traditional Taoist priest of his legitimacy to continue operating in
+  the field.\n\nhttps://www.imdb.com/title/tt31648020/\n\nIMDb rating: 8.5
 LOCATION:The Light Cinema\, Cambridge\, Cambridge Leisure Park\, Cambridge
  \, CB1 7DY
 END:VEVENT
