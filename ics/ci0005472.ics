@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241104T155051Z
+LAST-MODIFIED:20241105T145537Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:In the Summers
-DTSTART;TZID=America/Los_Angeles:20241104T191500
-DTEND;TZID=America/Los_Angeles:20241104T211500
-DTSTAMP:20241105T030800Z
-UID:ci0005472-tt24805832--2024-11-4-19-15
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
- ative years of their lives\, two sisters navigate their loving but volatil
- e father during their yearly summer visits to his home in Las Cruces\, New
-  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Birthday Boy
 DTSTART;TZID=America/Los_Angeles:20241105T190000
@@ -40,7 +27,7 @@ UID:ci0005472-tt24805832--2024-11-6-19-15
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
  ative years of their lives\, two sisters navigate their loving but volatil
  e father during their yearly summer visits to his home in Las Cruces\, New
-  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7.1
+  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -68,7 +55,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe case of Mary Ellen Johnson-
  Davis\, a Native-American woman who disappeared in 2020\, exposing how hun
  dreds of indigenous women continue to go missing in the US\, perpetuating 
  trans-generational trauma on Indian reservations.\n\nhttps://www.imdb.com/
- title/tt27829180/\n\nIMDb rating: 6.8
+ title/tt27829180/\n\nIMDb rating: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -201,6 +188,20 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\n\nIn the heart of a bustling Time
  s Square kitchen\, dreams and desperation collide as the staff each chase 
  the elusive American dream.\n\nhttps://www.imdb.com/title/tt19864832/\n\nI
  MDb rating: 7.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salad Days (2014)
+DTSTART;TZID=America/Los_Angeles:20241120T190000
+DTEND;TZID=America/Los_Angeles:20241120T205500
+DTSTAMP:20241121T025300Z
+UID:ci0005472-tt3905662--2024-11-20-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n&quot\;Salad Days: A Decade of P
+ unk in Washington\, DC (1980-90)&quot\; examines the early DIY punk scene 
+ in the Nation's Capital. It was a decade when seminal bands like Bad Brain
+ s\, Minor Threat\, Government Issue\, Scream\, Void\, Faith\, Rites o...\n
+ \nhttps://www.imdb.com/title/tt3905662/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

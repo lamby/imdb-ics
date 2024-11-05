@@ -1,7 +1,76 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241104T155135Z
+LAST-MODIFIED:20241105T145616Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:No Fear\, No Die (1990)
+DTSTART;TZID=America/Los_Angeles:20241105T193000
+DTEND;TZID=America/Los_Angeles:20241105T212500
+DTSTAMP:20241106T032300Z
+UID:ci1024213-tt0100536--2024-11-5-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nDah and Jocelyn come from Benin\
+ , Africa\, to coach their rooster\, &quot\;S'en fout la mort&quot\;\, for 
+ an illicit cock-fight in the basement of a restaurant.\n\nhttps://www.imdb
+ .com/title/tt0100536/\n\nIMDb rating: 6.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo (1958)
+DTSTART;TZID=America/Los_Angeles:20241105T163000
+DTEND;TZID=America/Los_Angeles:20241105T190500
+DTSTAMP:20241106T002300Z
+UID:ci1024213-tt0052357--2024-11-5-16-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nA former San Francisco police d
+ etective juggles wrestling with his personal demons and becoming obsessed 
+ with the hauntingly beautiful woman he has been hired to trail\, who may b
+ e deeply disturbed.\n\nhttps://www.imdb.com/title/tt0052357/\n\nIMDb ratin
+ g: 8.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blues Under the Skin (1973)
+DTSTART;TZID=America/Los_Angeles:20241106T193000
+DTEND;TZID=America/Los_Angeles:20241106T212500
+DTSTAMP:20241107T032300Z
+UID:ci1024213-tt0292456--2024-11-6-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nFrom the simple story of love an
+ d misery of a young couple from the Harlem ghetto to meetings with twelve 
+ great blues singers (BB King\, Mance Lipscomb\, Robert Pete Williams\, Roo
+ sevelt Sykes)\, filmed in their social milieu.\n\nhttps://www.imdb.com/tit
+ le/tt0292456/\n\nIMDb rating: 8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo (1958)
+DTSTART;TZID=America/Los_Angeles:20241106T163000
+DTEND;TZID=America/Los_Angeles:20241106T190500
+DTSTAMP:20241107T002300Z
+UID:ci1024213-tt0052357--2024-11-6-16-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nA former San Francisco police d
+ etective juggles wrestling with his personal demons and becoming obsessed 
+ with the hauntingly beautiful woman he has been hired to trail\, who may b
+ e deeply disturbed.\n\nhttps://www.imdb.com/title/tt0052357/\n\nIMDb ratin
+ g: 8.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo (1958)
+DTSTART;TZID=America/Los_Angeles:20241107T160000
+DTEND;TZID=America/Los_Angeles:20241107T183500
+DTSTAMP:20241107T235300Z
+UID:ci1024213-tt0052357--2024-11-7-16-0
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nA former San Francisco police d
+ etective juggles wrestling with his personal demons and becoming obsessed 
+ with the hauntingly beautiful woman he has been hired to trail\, who may b
+ e deeply disturbed.\n\nhttps://www.imdb.com/title/tt0052357/\n\nIMDb ratin
+ g: 8.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR

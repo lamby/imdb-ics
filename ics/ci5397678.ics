@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241104T155328Z
+LAST-MODIFIED:20241105T145755Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:When Marnie Was There (2014)
-DTSTART;TZID=America/Los_Angeles:20241104T190000
-DTEND;TZID=America/Los_Angeles:20241104T211000
-DTSTAMP:20241105T025300Z
-UID:ci5397678-tt3398268--2024-11-4-19-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAnna\, a shy 12-year-old girl\,
-  is sent to spend time with her aunt and uncle who live in the countryside
- \, where she meets Marnie. The two become best friends. But Anna gradually
-  discovers that Marnie is not quite who she appears to...\n\nhttps://www.i
- mdb.com/title/tt3398268/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Porco Rosso (1992)
-DTSTART;TZID=America/Los_Angeles:20241104T161500
-DTEND;TZID=America/Los_Angeles:20241104T181500
-DTSTAMP:20241105T000800Z
-UID:ci5397678-tt0104652--2024-11-4-16-15
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
-  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
- .imdb.com/title/tt0104652/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Neighbor Totoro (1988)
 DTSTART;TZID=America/Los_Angeles:20241105T161500

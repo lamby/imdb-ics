@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241104T155256Z
+LAST-MODIFIED:20241105T145731Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Know Your Place (2022)
-DTSTART;TZID=America/Los_Angeles:20241104T190000
-DTEND;TZID=America/Los_Angeles:20241104T212500
-DTSTAMP:20241105T025300Z
-UID:ci60177107-tt15275946--2024-11-4-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
- forming city\, a young Eritrean-American boy confronts the realities of ch
- ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .4
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gone to Earth (1950)
 DTSTART;TZID=America/Los_Angeles:20241106T193000
@@ -144,6 +131,18 @@ DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAfter the disappearance of her
  scientist father\, three peculiar beings send Meg\, her brother\, and her 
  friend to space in order to find him.\n\nhttps://www.imdb.com/title/tt1620
  680/\n\nIMDb rating: 4.3
+LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
+ 8122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peeping Tom (1960)
+DTSTART;TZID=America/Los_Angeles:20241120T193000
+DTEND;TZID=America/Los_Angeles:20241120T214000
+DTSTAMP:20241121T032300Z
+UID:ci60177107-tt0054167--2024-11-20-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA young man murders women\, usi
+ ng a movie camera to film their dying expressions of terror.\n\nhttps://ww
+ w.imdb.com/title/tt0054167/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
  8122
 END:VEVENT
