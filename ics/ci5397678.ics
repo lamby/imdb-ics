@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241105T145755Z
+LAST-MODIFIED:20241107T155246Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:My Neighbor Totoro (1988)
-DTSTART;TZID=America/Los_Angeles:20241105T161500
-DTEND;TZID=America/Los_Angeles:20241105T181000
-DTSTAMP:20241106T000800Z
-UID:ci5397678-tt0096283--2024-11-5-16-15
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nWhen two girls move to the count
- ry to be near their ailing mother\, they have adventures with the wondrous
-  forest spirits who live nearby.\n\nhttps://www.imdb.com/title/tt0096283/\
- n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret World of Arrietty (2010)
-DTSTART;TZID=America/Los_Angeles:20241105T190000
-DTEND;TZID=America/Los_Angeles:20241105T210000
-DTSTAMP:20241106T025300Z
-UID:ci5397678-tt1568921--2024-11-5-19-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThe Clock family are four-inch-t
- all people who live anonymously in another family's residence\, borrowing 
- simple items to make their home. Life changes for the Clocks when their te
- enage daughter Arrietty is discovered.\n\nhttps://www.imdb.com/title/tt156
- 8921/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nausicaä of the Valley of the Wind (1984)
-DTSTART;TZID=America/Los_Angeles:20241106T154500
-DTEND;TZID=America/Los_Angeles:20241106T181000
-DTSTAMP:20241106T233800Z
-UID:ci5397678-tt0087544--2024-11-6-15-45
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
- ausicaä desperately struggles to prevent two warring nations from destroy
- ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
- 7544/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ponyo (2008)
-DTSTART;TZID=America/Los_Angeles:20241106T190000
-DTEND;TZID=America/Los_Angeles:20241106T211000
-DTSTAMP:20241107T025300Z
-UID:ci5397678-tt0876563--2024-11-6-19-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA five-year-old boy develops a 
- relationship with Ponyo\, a young goldfish princess who longs to become a 
- human after falling in love with him.\n\nhttps://www.imdb.com/title/tt0876
- 563/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nausicaä of the Valley of the Wind (1984)
 DTSTART;TZID=America/Los_Angeles:20241107T190000
@@ -460,6 +407,76 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
  brate their marriage. When they arrive\, they find they are not as welcome
   as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
  \nIMDb rating: 7.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241121T140000
+DTEND;TZID=America/Los_Angeles:20241121T170500
+DTSTAMP:20241121T215300Z
+UID:ci5397678-tt1262426--2024-11-21-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241121T183000
+DTEND;TZID=America/Los_Angeles:20241121T213500
+DTSTAMP:20241122T022300Z
+UID:ci5397678-tt1262426--2024-11-21-18-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241122T110000
+DTEND;TZID=America/Los_Angeles:20241122T140500
+DTSTAMP:20241122T185300Z
+UID:ci5397678-tt1262426--2024-11-22-11-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241122T151500
+DTEND;TZID=America/Los_Angeles:20241122T182000
+DTSTAMP:20241122T230800Z
+UID:ci5397678-tt1262426--2024-11-22-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241122T193000
+DTEND;TZID=America/Los_Angeles:20241122T223500
+DTSTAMP:20241123T032300Z
+UID:ci5397678-tt1262426--2024-11-22-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

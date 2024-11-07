@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241105T145731Z
+LAST-MODIFIED:20241107T155227Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gone to Earth (1950)
-DTSTART;TZID=America/Los_Angeles:20241106T193000
-DTEND;TZID=America/Los_Angeles:20241106T212000
-DTSTAMP:20241107T032300Z
-UID:ci60177107-tt0042513--2024-11-6-19-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA beautiful\, superstitious\, an
- imal-loving Gypsy is hotly desired by a fox-hunting squire even after she 
- marries a clergyman.\n\nhttps://www.imdb.com/title/tt0042513/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sacrifice (1986)
-DTSTART;TZID=America/Los_Angeles:20241106T162000
-DTEND;TZID=America/Los_Angeles:20241106T191500
-DTSTAMP:20241107T001300Z
-UID:ci60177107-tt0091670--2024-11-6-16-20
-DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
- a man searches for a way to restore peace to the world and finds he must g
- ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
- rating: 7.9
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Know Your Place (2022)
 DTSTART;TZID=America/Los_Angeles:20241107T190000

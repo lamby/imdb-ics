@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241105T145537Z
+LAST-MODIFIED:20241107T155027Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Birthday Boy
-DTSTART;TZID=America/Los_Angeles:20241105T190000
-DTEND;TZID=America/Los_Angeles:20241105T212500
-DTSTAMP:20241106T025300Z
-UID:ci0005472-tt32566980--2024-11-5-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
- oad to pursue higher education. While celebrating one of their friend's bi
- rthday\, an incident happens which turns their lives upside down. The whol
- e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
- b.com/title/tt32566980/\n\nIMDb rating: 9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Summers
-DTSTART;TZID=America/Los_Angeles:20241106T191500
-DTEND;TZID=America/Los_Angeles:20241106T211500
-DTSTAMP:20241107T030800Z
-UID:ci0005472-tt24805832--2024-11-6-19-15
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nOn a journey that spans the form
- ative years of their lives\, two sisters navigate their loving but volatil
- e father during their yearly summer visits to his home in Las Cruces\, New
-  Mexico.\n\nhttps://www.imdb.com/title/tt24805832/\n\nIMDb rating: 7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Birthday Boy
 DTSTART;TZID=America/Los_Angeles:20241107T190000
@@ -202,6 +175,32 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n&quot\;Salad Days: A Decade of P
  in the Nation's Capital. It was a decade when seminal bands like Bad Brain
  s\, Minor Threat\, Government Issue\, Scream\, Void\, Faith\, Rites o...\n
  \nhttps://www.imdb.com/title/tt3905662/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pulp Fiction (1994)
+DTSTART;TZID=America/Los_Angeles:20241121T190000
+DTEND;TZID=America/Los_Angeles:20241121T220000
+DTSTAMP:20241122T025300Z
+UID:ci0005472-tt0110912--2024-11-21-19-0
+DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
+  boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
+ in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
+ 0110912/\n\nIMDb rating: 8.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pulp Fiction (1994)
+DTSTART;TZID=America/Los_Angeles:20241122T190000
+DTEND;TZID=America/Los_Angeles:20241122T220000
+DTSTAMP:20241123T025300Z
+UID:ci0005472-tt0110912--2024-11-22-19-0
+DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
+  boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
+ in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
+ 0110912/\n\nIMDb rating: 8.9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
