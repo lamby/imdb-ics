@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241107T155027Z
+LAST-MODIFIED:20241108T161357Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Birthday Boy
-DTSTART;TZID=America/Los_Angeles:20241107T190000
-DTEND;TZID=America/Los_Angeles:20241107T212500
-DTSTAMP:20241108T025300Z
-UID:ci0005472-tt32566980--2024-11-7-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nFive childhood friends went abr
- oad to pursue higher education. While celebrating one of their friend's bi
- rthday\, an incident happens which turns their lives upside down. The whol
- e story revolves around the incident. Based on a Tru...\n\nhttps://www.imd
- b.com/title/tt32566980/\n\nIMDb rating: 9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Missing from Fire Trail Road
 DTSTART;TZID=America/Los_Angeles:20241111T190000
@@ -201,6 +187,46 @@ DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
   boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
  in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
  0110912/\n\nIMDb rating: 8.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOM! A Film About the Sonics (2018)
+DTSTART;TZID=America/Los_Angeles:20241123T163000
+DTEND;TZID=America/Los_Angeles:20241123T181500
+DTSTAMP:20241124T002300Z
+UID:ci0005472-tt4733254--2024-11-23-16-30
+DESCRIPTION:Duration: 1h 17m (77 mins)\n\n'Boom' chronicles one of rock 'n
+ ' roll's wildest and most influential bands: The Sonics. For the first tim
+ e ever\, all five original members explore how a relatively unknown band f
+ rom the Pacific Northwest became a worldwide phenom...\n\nhttps://www.imdb
+ .com/title/tt4733254/\n\nIMDb rating: 9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Candy Mountain (1987)
+DTSTART;TZID=America/Los_Angeles:20241123T140000
+DTEND;TZID=America/Los_Angeles:20241123T160000
+DTSTAMP:20241123T215300Z
+UID:ci0005472-tt0092719--2024-11-23-14-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA struggling musician sets out t
+ o find the legendary guitar maker Elmore Silk\, with whom he hopes to stri
+ ke a deal to make himself rich and famous.\n\nhttps://www.imdb.com/title/t
+ t0092719/\n\nIMDb rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Search for Meaning
+DTSTART;TZID=America/Los_Angeles:20241123T191500
+DTEND;TZID=America/Los_Angeles:20241123T211500
+DTSTAMP:20241124T030800Z
+UID:ci0005472-tt32596598--2024-11-23-19-15
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn intimate exploration of Place
+ bo's evolution\, charting their journey through lyrics and songs that delv
+ e into the human experience.\n\nhttps://www.imdb.com/title/tt32596598/\n\n
+ IMDb rating: 8.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

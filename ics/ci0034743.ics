@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241107T155349Z
+LAST-MODIFIED:20241108T161717Z
 NAME:Ark Lodge Cinemas\, Seattle
 X-WR-CALNAME:Ark Lodge Cinemas\, Seattle
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20241107T191500
-DTEND;TZID=America/Los_Angeles:20241107T214000
-DTSTAMP:20241108T030800Z
-UID:ci0034743-tt20215234--2024-11-7-19-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.7
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Best Christmas Pageant Ever
-DTSTART;TZID=America/Los_Angeles:20241107T193000
-DTEND;TZID=America/Los_Angeles:20241107T215500
-DTSTAMP:20241108T032300Z
-UID:ci0034743-tt2347285--2024-11-7-19-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nNobody is ready for the mayhem 
- and surprises that ensue when six of the worst youngsters disrupt the town
- 's yearly Christmas performance.\n\nhttps://www.imdb.com/title/tt2347285/
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20241107T190000
-DTEND;TZID=America/Los_Angeles:20241107T215000
-DTSTAMP:20241108T025300Z
-UID:ci0034743-tt17526714--2024-11-7-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.5
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=America/Los_Angeles:20241107T190000
-DTEND;TZID=America/Los_Angeles:20241107T211000
-DTSTAMP:20241108T025300Z
-UID:ci0034743-tt29623480--2024-11-7-19-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.3
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbia River Canoe Project
 DTSTART;TZID=America/Los_Angeles:20241108T190000
@@ -446,10 +393,10 @@ LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20241114T191500
-DTEND;TZID=America/Los_Angeles:20241114T214000
-DTSTAMP:20241115T030800Z
-UID:ci0034743-tt20215234--2024-11-14-19-15
+DTSTART;TZID=America/Los_Angeles:20241114T191000
+DTEND;TZID=America/Los_Angeles:20241114T213500
+DTSTAMP:20241115T030300Z
+UID:ci0034743-tt20215234--2024-11-14-19-10
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -459,11 +406,23 @@ LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Best Christmas Pageant Ever
+SUMMARY:Heretic
 DTSTART;TZID=America/Los_Angeles:20241114T193000
-DTEND;TZID=America/Los_Angeles:20241114T215500
+DTEND;TZID=America/Los_Angeles:20241114T214500
 DTSTAMP:20241115T032300Z
-UID:ci0034743-tt2347285--2024-11-14-19-30
+UID:ci0034743-tt28015403--2024-11-14-19-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTwo young religious women are d
+ rawn into a game of cat-and-mouse in the house of a strange man.\n\nhttps:
+ //www.imdb.com/title/tt28015403/\n\nIMDb rating: 7.3
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Best Christmas Pageant Ever
+DTSTART;TZID=America/Los_Angeles:20241114T190000
+DTEND;TZID=America/Los_Angeles:20241114T212500
+DTSTAMP:20241115T025300Z
+UID:ci0034743-tt2347285--2024-11-14-19-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nNobody is ready for the mayhem 
  and surprises that ensue when six of the worst youngsters disrupt the town
  's yearly Christmas performance.\n\nhttps://www.imdb.com/title/tt2347285/
@@ -662,7 +621,7 @@ DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by
  the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 7.5
+ ing: 7.7
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -690,7 +649,7 @@ DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by
  the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 7.5
+ ing: 7.7
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -700,6 +659,90 @@ DTSTART;TZID=America/Los_Angeles:20241122T190000
 DTEND;TZID=America/Los_Angeles:20241122T220500
 DTSTAMP:20241123T025300Z
 UID:ci0034743-tt1262426--2024-11-22-19-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladiator II
+DTSTART;TZID=America/Los_Angeles:20241123T123000
+DTEND;TZID=America/Los_Angeles:20241123T152500
+DTSTAMP:20241123T202300Z
+UID:ci0034743-tt9218128--2024-11-23-12-30
+DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
+ the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
+ Colosseum and must look to his past to find strength to return the glory o
+ f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
+ ing: 7.7
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladiator II
+DTSTART;TZID=America/Los_Angeles:20241123T161500
+DTEND;TZID=America/Los_Angeles:20241123T191000
+DTSTAMP:20241124T000800Z
+UID:ci0034743-tt9218128--2024-11-23-16-15
+DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
+ the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
+ Colosseum and must look to his past to find strength to return the glory o
+ f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
+ ing: 7.7
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladiator II
+DTSTART;TZID=America/Los_Angeles:20241123T200000
+DTEND;TZID=America/Los_Angeles:20241123T225500
+DTSTAMP:20241124T035300Z
+UID:ci0034743-tt9218128--2024-11-23-20-0
+DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
+ the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
+ Colosseum and must look to his past to find strength to return the glory o
+ f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
+ ing: 7.7
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241123T120000
+DTEND;TZID=America/Los_Angeles:20241123T150500
+DTSTAMP:20241123T195300Z
+UID:ci0034743-tt1262426--2024-11-23-12-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241123T154500
+DTEND;TZID=America/Los_Angeles:20241123T185000
+DTSTAMP:20241123T233800Z
+UID:ci0034743-tt1262426--2024-11-23-15-45
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241123T193000
+DTEND;TZID=America/Los_Angeles:20241123T223500
+DTSTAMP:20241124T032300Z
+UID:ci0034743-tt1262426--2024-11-23-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
   woman because of her green skin\, and Glinda\, a popular girl\, become fr
  iends at Shiz University in the Land of Oz. After an encounter with the Wo

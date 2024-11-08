@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241107T155246Z
+LAST-MODIFIED:20241108T161614Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Nausicaä of the Valley of the Wind (1984)
-DTSTART;TZID=America/Los_Angeles:20241107T190000
-DTEND;TZID=America/Los_Angeles:20241107T212500
-DTSTAMP:20241108T025300Z
-UID:ci5397678-tt0087544--2024-11-7-19-0
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
- ausicaä desperately struggles to prevent two warring nations from destroy
- ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
- 7544/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Princess Mononoke (1997)
-DTSTART;TZID=America/Los_Angeles:20241107T153000
-DTEND;TZID=America/Los_Angeles:20241107T181000
-DTSTAMP:20241107T232300Z
-UID:ci5397678-tt0119698--2024-11-7-15-30
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nOn a journey to find the cure f
- or a Tatarigami's curse\, Ashitaka finds himself in the middle of a war be
- tween the forest gods and Tatara\, a mining colony. In this quest he also 
- meets San\, the Mononoke Hime.\n\nhttps://www.imdb.com/title/tt0119698/\n\
- nIMDb rating: 8.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castle in the Sky (1986)
 DTSTART;TZID=America/Los_Angeles:20241108T190000
@@ -384,6 +357,20 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Puss in Boots: The Last Wish (2022)
+DTSTART;TZID=America/Los_Angeles:20241118T200000
+DTEND;TZID=America/Los_Angeles:20241118T221000
+DTSTAMP:20241119T035300Z
+UID:ci5397678-tt3915174--2024-11-18-20-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen Puss in Boots discovers th
+ at his passion for adventure has taken its toll and he has burned through 
+ eight of his nine lives\, he launches an epic journey to restore them by f
+ inding the mythical Last Wish.\n\nhttps://www.imdb.com/title/tt3915174/\n\
+ nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/Los_Angeles:20241119T164500
 DTEND;TZID=America/Los_Angeles:20241119T184000
@@ -472,6 +459,48 @@ DTSTART;TZID=America/Los_Angeles:20241122T193000
 DTEND;TZID=America/Los_Angeles:20241122T223500
 DTSTAMP:20241123T032300Z
 UID:ci5397678-tt1262426--2024-11-22-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241123T110000
+DTEND;TZID=America/Los_Angeles:20241123T140500
+DTSTAMP:20241123T185300Z
+UID:ci5397678-tt1262426--2024-11-23-11-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241123T151500
+DTEND;TZID=America/Los_Angeles:20241123T182000
+DTSTAMP:20241123T230800Z
+UID:ci5397678-tt1262426--2024-11-23-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241123T193000
+DTEND;TZID=America/Los_Angeles:20241123T223500
+DTSTAMP:20241124T032300Z
+UID:ci5397678-tt1262426--2024-11-23-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
   woman because of her green skin\, and Glinda\, a popular girl\, become fr
  iends at Shiz University in the Land of Oz. After an encounter with the Wo

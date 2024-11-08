@@ -1,78 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241107T155202Z
+LAST-MODIFIED:20241108T161530Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241107T154500
-DTEND;TZID=America/Los_Angeles:20241107T183000
-DTSTAMP:20241107T233800Z
-UID:ci16639653-tt28607951--2024-11-7-15-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241107T184500
-DTEND;TZID=America/Los_Angeles:20241107T213000
-DTSTAMP:20241108T023800Z
-UID:ci16639653-tt28607951--2024-11-7-18-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20241107T160000
-DTEND;TZID=America/Los_Angeles:20241107T182500
-DTSTAMP:20241107T235300Z
-UID:ci16639653-tt20215234--2024-11-7-16-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20241107T190000
-DTEND;TZID=America/Los_Angeles:20241107T212500
-DTSTAMP:20241108T025300Z
-UID:ci16639653-tt20215234--2024-11-7-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:There's Still Tomorrow
-DTSTART;TZID=America/Los_Angeles:20241107T183000
-DTEND;TZID=America/Los_Angeles:20241107T205500
-DTSTAMP:20241108T022300Z
-UID:ci16639653-tt21800162--2024-11-7-18-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSet in postwar 1940s Italy\, it
-  follows Delia breaking traditional family patterns and aspiring to a diff
- erent future\, after receiving a mysterious letter.\n\nhttps://www.imdb.co
- m/title/tt21800162/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anora
 DTSTART;TZID=America/Los_Angeles:20241108T153000
@@ -339,24 +270,10 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20241110T131500
-DTEND;TZID=America/Los_Angeles:20241110T154000
-DTSTAMP:20241110T210800Z
-UID:ci16639653-tt20215234--2024-11-10-13-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20241110T160000
-DTEND;TZID=America/Los_Angeles:20241110T182500
-DTSTAMP:20241110T235300Z
-UID:ci16639653-tt20215234--2024-11-10-16-0
+DTSTART;TZID=America/Los_Angeles:20241110T124500
+DTEND;TZID=America/Los_Angeles:20241110T151000
+DTSTAMP:20241110T203800Z
+UID:ci16639653-tt20215234--2024-11-10-12-45
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -629,11 +546,11 @@ DTSTART;TZID=America/Los_Angeles:20241114T163000
 DTEND;TZID=America/Los_Angeles:20241114T182500
 DTSTAMP:20241115T002300Z
 UID:ci16639653-tt21823606--2024-11-14-16-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -643,11 +560,11 @@ DTSTART;TZID=America/Los_Angeles:20241114T193000
 DTEND;TZID=America/Los_Angeles:20241114T212500
 DTSTAMP:20241115T032300Z
 UID:ci16639653-tt21823606--2024-11-14-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -713,11 +630,11 @@ DTSTART;TZID=America/Los_Angeles:20241115T170000
 DTEND;TZID=America/Los_Angeles:20241115T185500
 DTSTAMP:20241116T005300Z
 UID:ci16639653-tt21823606--2024-11-15-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -727,11 +644,11 @@ DTSTART;TZID=America/Los_Angeles:20241115T193000
 DTEND;TZID=America/Los_Angeles:20241115T212500
 DTSTAMP:20241116T032300Z
 UID:ci16639653-tt21823606--2024-11-15-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -741,11 +658,11 @@ DTSTART;TZID=America/Los_Angeles:20241116T140000
 DTEND;TZID=America/Los_Angeles:20241116T155500
 DTSTAMP:20241116T215300Z
 UID:ci16639653-tt21823606--2024-11-16-14-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -755,11 +672,11 @@ DTSTART;TZID=America/Los_Angeles:20241116T170000
 DTEND;TZID=America/Los_Angeles:20241116T185500
 DTSTAMP:20241117T005300Z
 UID:ci16639653-tt21823606--2024-11-16-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -769,11 +686,11 @@ DTSTART;TZID=America/Los_Angeles:20241116T193000
 DTEND;TZID=America/Los_Angeles:20241116T212500
 DTSTAMP:20241117T032300Z
 UID:ci16639653-tt21823606--2024-11-16-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -783,11 +700,11 @@ DTSTART;TZID=America/Los_Angeles:20241117T140000
 DTEND;TZID=America/Los_Angeles:20241117T155500
 DTSTAMP:20241117T215300Z
 UID:ci16639653-tt21823606--2024-11-17-14-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -797,11 +714,11 @@ DTSTART;TZID=America/Los_Angeles:20241117T170000
 DTEND;TZID=America/Los_Angeles:20241117T185500
 DTSTAMP:20241118T005300Z
 UID:ci16639653-tt21823606--2024-11-17-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -811,11 +728,11 @@ DTSTART;TZID=America/Los_Angeles:20241117T193000
 DTEND;TZID=America/Los_Angeles:20241117T212500
 DTSTAMP:20241118T032300Z
 UID:ci16639653-tt21823606--2024-11-17-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -825,11 +742,11 @@ DTSTART;TZID=America/Los_Angeles:20241118T170000
 DTEND;TZID=America/Los_Angeles:20241118T185500
 DTSTAMP:20241119T005300Z
 UID:ci16639653-tt21823606--2024-11-18-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -839,11 +756,11 @@ DTSTART;TZID=America/Los_Angeles:20241118T193000
 DTEND;TZID=America/Los_Angeles:20241118T212500
 DTSTAMP:20241119T032300Z
 UID:ci16639653-tt21823606--2024-11-18-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -865,11 +782,11 @@ DTSTART;TZID=America/Los_Angeles:20241119T170000
 DTEND;TZID=America/Los_Angeles:20241119T185500
 DTSTAMP:20241120T005300Z
 UID:ci16639653-tt21823606--2024-11-19-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -879,11 +796,11 @@ DTSTART;TZID=America/Los_Angeles:20241119T193000
 DTEND;TZID=America/Los_Angeles:20241119T212500
 DTSTAMP:20241120T032300Z
 UID:ci16639653-tt21823606--2024-11-19-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -893,11 +810,11 @@ DTSTART;TZID=America/Los_Angeles:20241120T170000
 DTEND;TZID=America/Los_Angeles:20241120T185500
 DTSTAMP:20241121T005300Z
 UID:ci16639653-tt21823606--2024-11-20-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -907,11 +824,11 @@ DTSTART;TZID=America/Los_Angeles:20241120T193000
 DTEND;TZID=America/Los_Angeles:20241120T212500
 DTSTAMP:20241121T032300Z
 UID:ci16639653-tt21823606--2024-11-20-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -921,11 +838,11 @@ DTSTART;TZID=America/Los_Angeles:20241121T170000
 DTEND;TZID=America/Los_Angeles:20241121T185500
 DTSTAMP:20241122T005300Z
 UID:ci16639653-tt21823606--2024-11-21-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -935,11 +852,11 @@ DTSTART;TZID=America/Los_Angeles:20241121T193000
 DTEND;TZID=America/Los_Angeles:20241121T212500
 DTSTAMP:20241122T032300Z
 UID:ci16639653-tt21823606--2024-11-21-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins David and Ben
- ji reunite for a tour through Poland to honor their beloved grandmother. T
- he adventure takes a turn when the odd-couple's old tensions resurface aga
- inst the backdrop of their family history.\n\nhttps://www.imdb.com/title/t
- t21823606/\n\nIMDb rating: 7.4
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
