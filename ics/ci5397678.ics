@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241108T161614Z
+LAST-MODIFIED:20241109T164921Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Castle in the Sky (1986)
-DTSTART;TZID=America/Los_Angeles:20241108T190000
-DTEND;TZID=America/Los_Angeles:20241108T213000
-DTSTAMP:20241109T025300Z
-UID:ci5397678-tt0092067--2024-11-8-19-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nPazu's life changes when he mee
- ts Sheeta\, a girl whom pirates are chasing for her crystal amulet\, which
-  has the potential to locate Laputa\, a legendary castle floating in the s
- ky.\n\nhttps://www.imdb.com/title/tt0092067/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wind Rises (2013)
-DTSTART;TZID=America/Los_Angeles:20241108T153000
-DTEND;TZID=America/Los_Angeles:20241108T180500
-DTSTAMP:20241108T232300Z
-UID:ci5397678-tt2013293--2024-11-8-15-30
-DESCRIPTION:Duration: 2h 06m (126 mins)\n\nJiro Horikoshi studies assiduou
- sly to fulfill his aim of becoming an aeronautical engineer. As WWII begin
- s\, fighter aircraft designed by him end up getting used by the Japanese E
- mpire against its foes.\n\nhttps://www.imdb.com/title/tt2013293/\n\nIMDb r
- ating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Howl's Moving Castle (2004)
 DTSTART;TZID=America/Los_Angeles:20241109T190000
@@ -501,6 +474,48 @@ DTSTART;TZID=America/Los_Angeles:20241123T193000
 DTEND;TZID=America/Los_Angeles:20241123T223500
 DTSTAMP:20241124T032300Z
 UID:ci5397678-tt1262426--2024-11-23-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241124T110000
+DTEND;TZID=America/Los_Angeles:20241124T140500
+DTSTAMP:20241124T185300Z
+UID:ci5397678-tt1262426--2024-11-24-11-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241124T151500
+DTEND;TZID=America/Los_Angeles:20241124T182000
+DTSTAMP:20241124T230800Z
+UID:ci5397678-tt1262426--2024-11-24-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241124T193000
+DTEND;TZID=America/Los_Angeles:20241124T223500
+DTSTAMP:20241125T032300Z
+UID:ci5397678-tt1262426--2024-11-24-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
   woman because of her green skin\, and Glinda\, a popular girl\, become fr
  iends at Shiz University in the Land of Oz. After an encounter with the Wo
