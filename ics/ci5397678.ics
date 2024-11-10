@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241109T164921Z
+LAST-MODIFIED:20241110T170624Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Howl's Moving Castle (2004)
-DTSTART;TZID=America/Los_Angeles:20241109T190000
-DTEND;TZID=America/Los_Angeles:20241109T212500
-DTSTAMP:20241110T025300Z
-UID:ci5397678-tt0347149--2024-11-9-19-0
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhen an unconfident young woman
-  is cursed with an old body by a spiteful witch\, her only chance of break
- ing the spell lies with a self-indulgent yet insecure young wizard and his
-  companions in his legged\, walking castle.\n\nhttps://www.imdb.com/title/
- tt0347149/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spirited Away (2001)
-DTSTART;TZID=America/Los_Angeles:20241109T151500
-DTEND;TZID=America/Los_Angeles:20241109T174500
-DTSTAMP:20241109T230800Z
-UID:ci5397678-tt0245429--2024-11-9-15-15
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nDuring her family's move to the
-  suburbs\, a sullen 10-year-old girl wanders into a world ruled by gods\, 
- witches and spirits\, and where humans are changed into beasts.\n\nhttps:/
- /www.imdb.com/title/tt0245429/\n\nIMDb rating: 8.6
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Howl's Moving Castle (2004)
 DTSTART;TZID=America/Los_Angeles:20241110T113000
@@ -330,20 +303,6 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Puss in Boots: The Last Wish (2022)
-DTSTART;TZID=America/Los_Angeles:20241118T200000
-DTEND;TZID=America/Los_Angeles:20241118T221000
-DTSTAMP:20241119T035300Z
-UID:ci5397678-tt3915174--2024-11-18-20-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen Puss in Boots discovers th
- at his passion for adventure has taken its toll and he has burned through 
- eight of his nine lives\, he launches an epic journey to restore them by f
- inding the mythical Last Wish.\n\nhttps://www.imdb.com/title/tt3915174/\n\
- nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/Los_Angeles:20241119T164500
 DTEND;TZID=America/Los_Angeles:20241119T184000
@@ -516,6 +475,34 @@ DTSTART;TZID=America/Los_Angeles:20241124T193000
 DTEND;TZID=America/Los_Angeles:20241124T223500
 DTSTAMP:20241125T032300Z
 UID:ci5397678-tt1262426--2024-11-24-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241125T151500
+DTEND;TZID=America/Los_Angeles:20241125T182000
+DTSTAMP:20241125T230800Z
+UID:ci5397678-tt1262426--2024-11-25-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241125T193000
+DTEND;TZID=America/Los_Angeles:20241125T223500
+DTSTAMP:20241126T032300Z
+UID:ci5397678-tt1262426--2024-11-25-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
   woman because of her green skin\, and Glinda\, a popular girl\, become fr
  iends at Shiz University in the Land of Oz. After an encounter with the Wo
