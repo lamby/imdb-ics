@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241110T170353Z
+LAST-MODIFIED:20241111T170055Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -249,6 +249,19 @@ DTSTART;TZID=America/Los_Angeles:20241125T190000
 DTEND;TZID=America/Los_Angeles:20241125T220000
 DTSTAMP:20241126T025300Z
 UID:ci0005472-tt0110912--2024-11-25-19-0
+DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
+  boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
+ in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
+ 0110912/\n\nIMDb rating: 8.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pulp Fiction (1994)
+DTSTART;TZID=America/Los_Angeles:20241126T190000
+DTEND;TZID=America/Los_Angeles:20241126T220000
+DTSTAMP:20241127T025300Z
+UID:ci0005472-tt0110912--2024-11-26-19-0
 DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
   boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
  in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt

@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241110T170624Z
+LAST-MODIFIED:20241111T170307Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Howl's Moving Castle (2004)
-DTSTART;TZID=America/Los_Angeles:20241110T113000
-DTEND;TZID=America/Los_Angeles:20241110T135500
-DTSTAMP:20241110T192300Z
-UID:ci5397678-tt0347149--2024-11-10-11-30
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWhen an unconfident young woman
-  is cursed with an old body by a spiteful witch\, her only chance of break
- ing the spell lies with a self-indulgent yet insecure young wizard and his
-  companions in his legged\, walking castle.\n\nhttps://www.imdb.com/title/
- tt0347149/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Princess Mononoke (1997)
-DTSTART;TZID=America/Los_Angeles:20241110T150000
-DTEND;TZID=America/Los_Angeles:20241110T174000
-DTSTAMP:20241110T225300Z
-UID:ci5397678-tt0119698--2024-11-10-15-0
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nOn a journey to find the cure f
- or a Tatarigami's curse\, Ashitaka finds himself in the middle of a war be
- tween the forest gods and Tatara\, a mining colony. In this quest he also 
- meets San\, the Mononoke Hime.\n\nhttps://www.imdb.com/title/tt0119698/\n\
- nIMDb rating: 8.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spirited Away (2001)
-DTSTART;TZID=America/Los_Angeles:20241110T183000
-DTEND;TZID=America/Los_Angeles:20241110T210000
-DTSTAMP:20241111T022300Z
-UID:ci5397678-tt0245429--2024-11-10-18-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nDuring her family's move to the
-  suburbs\, a sullen 10-year-old girl wanders into a world ruled by gods\, 
- witches and spirits\, and where humans are changed into beasts.\n\nhttps:/
- /www.imdb.com/title/tt0245429/\n\nIMDb rating: 8.6
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castle in the Sky (1986)
 DTSTART;TZID=America/Los_Angeles:20241111T153000
@@ -176,7 +135,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
  ngdom of Far Far Away\, where Fiona's parents are King and Queen\, to cele
  brate their marriage. When they arrive\, they find they are not as welcome
   as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
- \nIMDb rating: 7.3
+ \nIMDb rating: 7.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -203,7 +162,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
  ngdom of Far Far Away\, where Fiona's parents are King and Queen\, to cele
  brate their marriage. When they arrive\, they find they are not as welcome
   as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
- \nIMDb rating: 7.3
+ \nIMDb rating: 7.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -257,7 +216,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
  ngdom of Far Far Away\, where Fiona's parents are King and Queen\, to cele
  brate their marriage. When they arrive\, they find they are not as welcome
   as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
- \nIMDb rating: 7.3
+ \nIMDb rating: 7.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -303,6 +262,20 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Puss in Boots: The Last Wish (2022)
+DTSTART;TZID=America/Los_Angeles:20241118T200000
+DTEND;TZID=America/Los_Angeles:20241118T221000
+DTSTAMP:20241119T035300Z
+UID:ci5397678-tt3915174--2024-11-18-20-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhen Puss in Boots discovers th
+ at his passion for adventure has taken its toll and he has burned through 
+ eight of his nine lives\, he launches an epic journey to restore them by f
+ inding the mythical Last Wish.\n\nhttps://www.imdb.com/title/tt3915174/\n\
+ nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/Los_Angeles:20241119T164500
 DTEND;TZID=America/Los_Angeles:20241119T184000
@@ -325,7 +298,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
  ngdom of Far Far Away\, where Fiona's parents are King and Queen\, to cele
  brate their marriage. When they arrive\, they find they are not as welcome
   as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
- \nIMDb rating: 7.3
+ \nIMDb rating: 7.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -503,6 +476,34 @@ DTSTART;TZID=America/Los_Angeles:20241125T193000
 DTEND;TZID=America/Los_Angeles:20241125T223500
 DTSTAMP:20241126T032300Z
 UID:ci5397678-tt1262426--2024-11-25-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241126T151500
+DTEND;TZID=America/Los_Angeles:20241126T182000
+DTSTAMP:20241126T230800Z
+UID:ci5397678-tt1262426--2024-11-26-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241126T193000
+DTEND;TZID=America/Los_Angeles:20241126T223500
+DTSTAMP:20241127T032300Z
+UID:ci5397678-tt1262426--2024-11-26-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
   woman because of her green skin\, and Glinda\, a popular girl\, become fr
  iends at Shiz University in the Land of Oz. After an encounter with the Wo
