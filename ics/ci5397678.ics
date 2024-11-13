@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241111T170307Z
+LAST-MODIFIED:20241113T100819Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Castle in the Sky (1986)
-DTSTART;TZID=America/Los_Angeles:20241111T153000
-DTEND;TZID=America/Los_Angeles:20241111T180000
-DTSTAMP:20241111T232300Z
-UID:ci5397678-tt0092067--2024-11-11-15-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nPazu's life changes when he mee
- ts Sheeta\, a girl whom pirates are chasing for her crystal amulet\, which
-  has the potential to locate Laputa\, a legendary castle floating in the s
- ky.\n\nhttps://www.imdb.com/title/tt0092067/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat Returns (2002)
-DTSTART;TZID=America/Los_Angeles:20241111T190000
-DTEND;TZID=America/Los_Angeles:20241111T204000
-DTSTAMP:20241112T025300Z
-UID:ci5397678-tt0347618--2024-11-11-19-0
-DESCRIPTION:Duration: 1h 15m (75 mins)\n\nAfter helping a cat\, a seventee
- n-year-old girl finds herself involuntarily engaged to a cat Prince in a m
- agical world where her only hope of freedom lies with a dapper cat statuet
- te come to life.\n\nhttps://www.imdb.com/title/tt0347618/\n\nIMDb rating: 
- 7.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Porco Rosso (1992)
-DTSTART;TZID=America/Los_Angeles:20241112T190000
-DTEND;TZID=America/Los_Angeles:20241112T210000
-DTSTAMP:20241113T025300Z
-UID:ci5397678-tt0104652--2024-11-12-19-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
-  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
- .imdb.com/title/tt0104652/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret World of Arrietty (2010)
-DTSTART;TZID=America/Los_Angeles:20241112T160000
-DTEND;TZID=America/Los_Angeles:20241112T180000
-DTSTAMP:20241112T235300Z
-UID:ci5397678-tt1568921--2024-11-12-16-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThe Clock family are four-inch-t
- all people who live anonymously in another family's residence\, borrowing 
- simple items to make their home. Life changes for the Clocks when their te
- enage daughter Arrietty is discovered.\n\nhttps://www.imdb.com/title/tt156
- 8921/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:When Marnie Was There (2014)
 DTSTART;TZID=America/Los_Angeles:20241113T160000
@@ -504,6 +451,76 @@ DTSTART;TZID=America/Los_Angeles:20241126T193000
 DTEND;TZID=America/Los_Angeles:20241126T223500
 DTSTAMP:20241127T032300Z
 UID:ci5397678-tt1262426--2024-11-26-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241127T151500
+DTEND;TZID=America/Los_Angeles:20241127T182000
+DTSTAMP:20241127T230800Z
+UID:ci5397678-tt1262426--2024-11-27-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241127T193000
+DTEND;TZID=America/Los_Angeles:20241127T223500
+DTSTAMP:20241128T032300Z
+UID:ci5397678-tt1262426--2024-11-27-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241128T110000
+DTEND;TZID=America/Los_Angeles:20241128T140500
+DTSTAMP:20241128T185300Z
+UID:ci5397678-tt1262426--2024-11-28-11-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241128T151500
+DTEND;TZID=America/Los_Angeles:20241128T182000
+DTSTAMP:20241128T230800Z
+UID:ci5397678-tt1262426--2024-11-28-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241128T193000
+DTEND;TZID=America/Los_Angeles:20241128T223500
+DTSTAMP:20241129T032300Z
+UID:ci5397678-tt1262426--2024-11-28-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
   woman because of her green skin\, and Glinda\, a popular girl\, become fr
  iends at Shiz University in the Land of Oz. After an encounter with the Wo

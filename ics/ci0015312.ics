@@ -1,91 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241111T170358Z
+LAST-MODIFIED:20241113T100915Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:All About Eve (1950)
-DTSTART;TZID=America/Los_Angeles:20241111T160000
-DTEND;TZID=America/Los_Angeles:20241111T184500
-DTSTAMP:20241111T235300Z
-UID:ci0015312-tt0042192--2024-11-11-16-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nSeemingly timid but secretly ru
- thless ingenue Eve Harrington insinuates herself into the lives of aging B
- roadway star Margo Channing and her circle of theater friends in this Osca
- r-winning story.\n\nhttps://www.imdb.com/title/tt0042192/\n\nIMDb rating: 
- 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All About Eve (1950)
-DTSTART;TZID=America/Los_Angeles:20241111T190000
-DTEND;TZID=America/Los_Angeles:20241111T214500
-DTSTAMP:20241112T025300Z
-UID:ci0015312-tt0042192--2024-11-11-19-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nSeemingly timid but secretly ru
- thless ingenue Eve Harrington insinuates herself into the lives of aging B
- roadway star Margo Channing and her circle of theater friends in this Osca
- r-winning story.\n\nhttps://www.imdb.com/title/tt0042192/\n\nIMDb rating: 
- 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner (1982)
-DTSTART;TZID=America/Los_Angeles:20241111T220000
-DTEND;TZID=America/Los_Angeles:20241112T002500
-DTSTAMP:20241112T055300Z
-UID:ci0015312-tt0083658--2024-11-11-22-0
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA blade runner must pursue and 
- terminate four replicants who stole a ship in space and have returned to E
- arth to find their creator.\n\nhttps://www.imdb.com/title/tt0083658/\n\nIM
- Db rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All About Eve (1950)
-DTSTART;TZID=America/Los_Angeles:20241112T160000
-DTEND;TZID=America/Los_Angeles:20241112T184500
-DTSTAMP:20241112T235300Z
-UID:ci0015312-tt0042192--2024-11-12-16-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nSeemingly timid but secretly ru
- thless ingenue Eve Harrington insinuates herself into the lives of aging B
- roadway star Margo Channing and her circle of theater friends in this Osca
- r-winning story.\n\nhttps://www.imdb.com/title/tt0042192/\n\nIMDb rating: 
- 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All About Eve (1950)
-DTSTART;TZID=America/Los_Angeles:20241112T190000
-DTEND;TZID=America/Los_Angeles:20241112T214500
-DTSTAMP:20241113T025300Z
-UID:ci0015312-tt0042192--2024-11-12-19-0
-DESCRIPTION:Duration: 2h 18m (138 mins)\n\nSeemingly timid but secretly ru
- thless ingenue Eve Harrington insinuates herself into the lives of aging B
- roadway star Margo Channing and her circle of theater friends in this Osca
- r-winning story.\n\nhttps://www.imdb.com/title/tt0042192/\n\nIMDb rating: 
- 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner (1982)
-DTSTART;TZID=America/Los_Angeles:20241112T220000
-DTEND;TZID=America/Los_Angeles:20241113T002500
-DTSTAMP:20241113T055300Z
-UID:ci0015312-tt0083658--2024-11-12-22-0
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA blade runner must pursue and 
- terminate four replicants who stole a ship in space and have returned to E
- arth to find their creator.\n\nhttps://www.imdb.com/title/tt0083658/\n\nIM
- Db rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All About Eve (1950)
 DTSTART;TZID=America/Los_Angeles:20241113T160000
@@ -124,6 +42,188 @@ DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA blade runner must pursue and
  terminate four replicants who stole a ship in space and have returned to E
  arth to find their creator.\n\nhttps://www.imdb.com/title/tt0083658/\n\nIM
  Db rating: 8.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothra (1961)
+DTSTART;TZID=America/Los_Angeles:20241115T214500
+DTEND;TZID=America/Los_Angeles:20241115T235500
+DTSTAMP:20241116T053800Z
+UID:ci0015312-tt0055198--2024-11-15-21-45
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAn expedition to Infant Island 
+ uncovers a native tribe and twin tiny fairy priestesses of a mythical deit
+ y\, who sets out to rescue the pair after they are kidnapped by a greedy b
+ usinessman.\n\nhttps://www.imdb.com/title/tt0055198/\n\nIMDb rating: 6.6
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241115T160000
+DTEND;TZID=America/Los_Angeles:20241115T182500
+DTSTAMP:20241115T235300Z
+UID:ci0015312-tt0087544--2024-11-15-16-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241115T190000
+DTEND;TZID=America/Los_Angeles:20241115T212500
+DTSTAMP:20241116T025300Z
+UID:ci0015312-tt0087544--2024-11-15-19-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothra (1961)
+DTSTART;TZID=America/Los_Angeles:20241116T214500
+DTEND;TZID=America/Los_Angeles:20241116T235500
+DTSTAMP:20241117T053800Z
+UID:ci0015312-tt0055198--2024-11-16-21-45
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAn expedition to Infant Island 
+ uncovers a native tribe and twin tiny fairy priestesses of a mythical deit
+ y\, who sets out to rescue the pair after they are kidnapped by a greedy b
+ usinessman.\n\nhttps://www.imdb.com/title/tt0055198/\n\nIMDb rating: 6.6
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241116T160000
+DTEND;TZID=America/Los_Angeles:20241116T182500
+DTSTAMP:20241116T235300Z
+UID:ci0015312-tt0087544--2024-11-16-16-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241116T190000
+DTEND;TZID=America/Los_Angeles:20241116T212500
+DTSTAMP:20241117T025300Z
+UID:ci0015312-tt0087544--2024-11-16-19-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothra (1961)
+DTSTART;TZID=America/Los_Angeles:20241117T214500
+DTEND;TZID=America/Los_Angeles:20241117T235500
+DTSTAMP:20241118T053800Z
+UID:ci0015312-tt0055198--2024-11-17-21-45
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAn expedition to Infant Island 
+ uncovers a native tribe and twin tiny fairy priestesses of a mythical deit
+ y\, who sets out to rescue the pair after they are kidnapped by a greedy b
+ usinessman.\n\nhttps://www.imdb.com/title/tt0055198/\n\nIMDb rating: 6.6
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothra (1961)
+DTSTART;TZID=America/Los_Angeles:20241118T214500
+DTEND;TZID=America/Los_Angeles:20241118T235500
+DTSTAMP:20241119T053800Z
+UID:ci0015312-tt0055198--2024-11-18-21-45
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAn expedition to Infant Island 
+ uncovers a native tribe and twin tiny fairy priestesses of a mythical deit
+ y\, who sets out to rescue the pair after they are kidnapped by a greedy b
+ usinessman.\n\nhttps://www.imdb.com/title/tt0055198/\n\nIMDb rating: 6.6
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241118T160000
+DTEND;TZID=America/Los_Angeles:20241118T182500
+DTSTAMP:20241118T235300Z
+UID:ci0015312-tt0087544--2024-11-18-16-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241118T190000
+DTEND;TZID=America/Los_Angeles:20241118T212500
+DTSTAMP:20241119T025300Z
+UID:ci0015312-tt0087544--2024-11-18-19-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mothra (1961)
+DTSTART;TZID=America/Los_Angeles:20241119T214500
+DTEND;TZID=America/Los_Angeles:20241119T235500
+DTSTAMP:20241120T053800Z
+UID:ci0015312-tt0055198--2024-11-19-21-45
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nAn expedition to Infant Island 
+ uncovers a native tribe and twin tiny fairy priestesses of a mythical deit
+ y\, who sets out to rescue the pair after they are kidnapped by a greedy b
+ usinessman.\n\nhttps://www.imdb.com/title/tt0055198/\n\nIMDb rating: 6.6
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241119T160000
+DTEND;TZID=America/Los_Angeles:20241119T182500
+DTSTAMP:20241119T235300Z
+UID:ci0015312-tt0087544--2024-11-19-16-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241119T190000
+DTEND;TZID=America/Los_Angeles:20241119T212500
+DTSTAMP:20241120T025300Z
+UID:ci0015312-tt0087544--2024-11-19-19-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind (1984)
+DTSTART;TZID=America/Los_Angeles:20241120T160000
+DTEND;TZID=America/Los_Angeles:20241120T182500
+DTSTAMP:20241120T235300Z
+UID:ci0015312-tt0087544--2024-11-20-16-0
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
+ ausicaä desperately struggles to prevent two warring nations from destroy
+ ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
+ 7544/\n\nIMDb rating: 8
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
