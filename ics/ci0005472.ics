@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241115T071031Z
+LAST-MODIFIED:20241116T063000Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:La Cocina
-DTSTART;TZID=America/Los_Angeles:20241115T190000
-DTEND;TZID=America/Los_Angeles:20241115T214500
-DTSTAMP:20241116T025300Z
-UID:ci0005472-tt19864832--2024-11-15-19-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nIn the heart of a bustling Time
- s Square kitchen\, dreams and desperation collide as the staff each chase 
- the elusive American dream.\n\nhttps://www.imdb.com/title/tt19864832/\n\nI
- MDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Cocina
 DTSTART;TZID=America/Los_Angeles:20241116T150000
@@ -293,6 +280,45 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nHippo\, a peculiar adolescent\,
   and his Hungarian step-sister Buttercup struggle to come of age in late 1
  990s America\, under the roof of a mother who has been institutionalized a
  t least once.\n\nhttps://www.imdb.com/title/tt15468190/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Female Trouble (1974)
+DTSTART;TZID=America/Los_Angeles:20241201T143000
+DTEND;TZID=America/Los_Angeles:20241201T162500
+DTSTAMP:20241201T222300Z
+UID:ci0005472-tt0072979--2024-12-1-14-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA spoiled schoolgirl runs away f
+ rom home\, gets pregnant while hitch-hiking\, and ends up as a fashion mod
+ el for a pair of beauticians who like to photograph women committing crime
+ s.\n\nhttps://www.imdb.com/title/tt0072979/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hippo
+DTSTART;TZID=America/Los_Angeles:20241201T191500
+DTEND;TZID=America/Los_Angeles:20241201T212000
+DTSTAMP:20241202T030800Z
+UID:ci0005472-tt15468190--2024-12-1-19-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nHippo\, a peculiar adolescent\,
+  and his Hungarian step-sister Buttercup struggle to come of age in late 1
+ 990s America\, under the roof of a mother who has been institutionalized a
+ t least once.\n\nhttps://www.imdb.com/title/tt15468190/\n\nIMDb rating: 7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Search for Meaning
+DTSTART;TZID=America/Los_Angeles:20241201T170000
+DTEND;TZID=America/Los_Angeles:20241201T190000
+DTSTAMP:20241202T005300Z
+UID:ci0005472-tt32596598--2024-12-1-17-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn intimate exploration of Place
+ bo's evolution\, charting their journey through lyrics and songs that delv
+ e into the human experience.\n\nhttps://www.imdb.com/title/tt32596598/\n\n
+ IMDb rating: 8.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241115T071248Z
+LAST-MODIFIED:20241116T063222Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Shrek (2001)
-DTSTART;TZID=America/Los_Angeles:20241115T161500
-DTEND;TZID=America/Los_Angeles:20241115T181000
-DTSTAMP:20241116T000800Z
-UID:ci5397678-tt0126029--2024-11-15-16-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA mean lord exiles fairytale cre
- atures to the swamp of a grumpy ogre\, who must go on a quest and rescue a
-  princess for the lord in order to get his land back.\n\nhttps://www.imdb.
- com/title/tt0126029/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shrek 2 (2004)
-DTSTART;TZID=America/Los_Angeles:20241115T190000
-DTEND;TZID=America/Los_Angeles:20241115T210000
-DTSTAMP:20241116T025300Z
-UID:ci5397678-tt0298148--2024-11-15-19-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nShrek and Fiona travel to the Ki
- ngdom of Far Far Away\, where Fiona's parents are King and Queen\, to cele
- brate their marriage. When they arrive\, they find they are not as welcome
-  as they thought they would be.\n\nhttps://www.imdb.com/title/tt0298148/\n
- \nIMDb rating: 7.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shrek (2001)
 DTSTART;TZID=America/Los_Angeles:20241116T114500
@@ -537,6 +510,48 @@ DTSTART;TZID=America/Los_Angeles:20241130T193000
 DTEND;TZID=America/Los_Angeles:20241130T223500
 DTSTAMP:20241201T032300Z
 UID:ci5397678-tt1262426--2024-11-30-19-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241201T110000
+DTEND;TZID=America/Los_Angeles:20241201T140500
+DTSTAMP:20241201T185300Z
+UID:ci5397678-tt1262426--2024-12-1-11-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241201T151500
+DTEND;TZID=America/Los_Angeles:20241201T182000
+DTSTAMP:20241201T230800Z
+UID:ci5397678-tt1262426--2024-12-1-15-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Glinda\, a popular girl\, become fr
+ iends at Shiz University in the Land of Oz. After an encounter with the Wo
+ nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+ .imdb.com/title/tt1262426/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20241201T193000
+DTEND;TZID=America/Los_Angeles:20241201T223500
+DTSTAMP:20241202T032300Z
+UID:ci5397678-tt1262426--2024-12-1-19-30
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
   woman because of her green skin\, and Glinda\, a popular girl\, become fr
  iends at Shiz University in the Land of Oz. After an encounter with the Wo
