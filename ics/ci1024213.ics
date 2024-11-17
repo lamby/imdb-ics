@@ -1,7 +1,103 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241116T063042Z
+LAST-MODIFIED:20241117T083820Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Hello Cinema (1995)
+DTSTART;TZID=America/Los_Angeles:20241117T140000
+DTEND;TZID=America/Los_Angeles:20241117T154000
+DTSTAMP:20241117T215300Z
+UID:ci1024213-tt0114329--2024-11-17-14-0
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nMakhmalbaf puts an advertisement
+  in the papers calling for an open casting for his next movie. However whe
+ n hundreds of people show up\, he decides to make a movie about the castin
+ g and the screen tests of the would-be actors.\n\nhttps://www.imdb.com/tit
+ le/tt0114329/\n\nIMDb rating: 7.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hello Cinema (1995)
+DTSTART;TZID=America/Los_Angeles:20241118T163000
+DTEND;TZID=America/Los_Angeles:20241118T181000
+DTSTAMP:20241119T002300Z
+UID:ci1024213-tt0114329--2024-11-18-16-30
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nMakhmalbaf puts an advertisement
+  in the papers calling for an open casting for his next movie. However whe
+ n hundreds of people show up\, he decides to make a movie about the castin
+ g and the screen tests of the would-be actors.\n\nhttps://www.imdb.com/tit
+ le/tt0114329/\n\nIMDb rating: 7.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarnation (2003)
+DTSTART;TZID=America/Los_Angeles:20241118T193000
+DTEND;TZID=America/Los_Angeles:20241118T212500
+DTSTAMP:20241119T032300Z
+UID:ci1024213-tt0390538--2024-11-18-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nFilmmaker Jonathan Caouette's do
+ cumentary on growing up with his schizophrenic mother -- a mixture of snap
+ shots\, Super-8 film\, answering machine messages\, video diaries\, early 
+ short films\, and more - culled from nineteen years of ...\n\nhttps://www.
+ imdb.com/title/tt0390538/\n\nIMDb rating: 7.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My First Film
+DTSTART;TZID=America/Los_Angeles:20241119T193000
+DTEND;TZID=America/Los_Angeles:20241119T213500
+DTSTAMP:20241120T032300Z
+UID:ci1024213-tt23778542--2024-11-19-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nFollow a young filmmaker\, as s
+ he recounts the story of struggling to make her first feature. Fact bleedi
+ ng into fiction\, and past\, present\, and future converging to create a m
+ odern myth that redefines the very act of creation.\n\nhttps://www.imdb.co
+ m/title/tt23778542/\n\nIMDb rating: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My First Film
+DTSTART;TZID=America/Los_Angeles:20241120T163000
+DTEND;TZID=America/Los_Angeles:20241120T183500
+DTSTAMP:20241121T002300Z
+UID:ci1024213-tt23778542--2024-11-20-16-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nFollow a young filmmaker\, as s
+ he recounts the story of struggling to make her first feature. Fact bleedi
+ ng into fiction\, and past\, present\, and future converging to create a m
+ odern myth that redefines the very act of creation.\n\nhttps://www.imdb.co
+ m/title/tt23778542/\n\nIMDb rating: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shirkers (2018)
+DTSTART;TZID=America/Los_Angeles:20241120T193000
+DTEND;TZID=America/Los_Angeles:20241120T213500
+DTSTAMP:20241121T032300Z
+UID:ci1024213-tt7472352--2024-11-20-19-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA woman explores the events surr
+ ounding a film she and her friends began making with a mysterious stranger
+  decades ago.\n\nhttps://www.imdb.com/title/tt7472352/\n\nIMDb rating: 7.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My First Film
+DTSTART;TZID=America/Los_Angeles:20241121T193000
+DTEND;TZID=America/Los_Angeles:20241121T213500
+DTSTAMP:20241122T032300Z
+UID:ci1024213-tt23778542--2024-11-21-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nFollow a young filmmaker\, as s
+ he recounts the story of struggling to make her first feature. Fact bleedi
+ ng into fiction\, and past\, present\, and future converging to create a m
+ odern myth that redefines the very act of creation.\n\nhttps://www.imdb.co
+ m/title/tt23778542/\n\nIMDb rating: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR

@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241116T063000Z
+LAST-MODIFIED:20241117T083730Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:La Cocina
-DTSTART;TZID=America/Los_Angeles:20241116T150000
-DTEND;TZID=America/Los_Angeles:20241116T174500
-DTSTAMP:20241116T225300Z
-UID:ci0005472-tt19864832--2024-11-16-15-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nIn the heart of a bustling Time
- s Square kitchen\, dreams and desperation collide as the staff each chase 
- the elusive American dream.\n\nhttps://www.imdb.com/title/tt19864832/\n\nI
- MDb rating: 7.3
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Louder Than You Think
-DTSTART;TZID=America/Los_Angeles:20241116T200000
-DTEND;TZID=America/Los_Angeles:20241116T215500
-DTSTAMP:20241117T035300Z
-UID:ci0005472-tt26493386--2024-11-16-20-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nGary Young\, drummer for indie-r
- ock icons Pavement\, injected a wild-card unpredictability into the band's
-  breakthrough\, lo-fi sound. But those same gonzo impulses derailed his ro
- ck star dream.\n\nhttps://www.imdb.com/title/tt26493386/\n\nIMDb rating: 8
- .4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Playland
-DTSTART;TZID=America/Los_Angeles:20241116T180000
-DTEND;TZID=America/Los_Angeles:20241116T194000
-DTSTAMP:20241117T015300Z
-UID:ci0005472-tt16290722--2024-11-16-18-0
-DESCRIPTION:Duration: 1h 12m (72 mins)\n\nA raucous work of queer fantasy 
- and history\, Playland conjures a time-bending night in Boston's oldest an
- d most notorious gay bar.\n\nhttps://www.imdb.com/title/tt16290722/\n\nIMD
- b rating: 6.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Louder Than You Think
 DTSTART;TZID=America/Los_Angeles:20241117T170000
@@ -80,7 +40,7 @@ UID:ci0005472-tt19864832--2024-11-18-19-0
 DESCRIPTION:Duration: 2h 19m (139 mins)\n\nIn the heart of a bustling Time
  s Square kitchen\, dreams and desperation collide as the staff each chase 
  the elusive American dream.\n\nhttps://www.imdb.com/title/tt19864832/\n\nI
- MDb rating: 7.3
+ MDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -174,6 +134,20 @@ DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
   boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
  in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
  0110912/\n\nIMDb rating: 8.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Episode IV - A New Hope (1977)
+DTSTART;TZID=America/Los_Angeles:20241124T191500
+DTEND;TZID=America/Los_Angeles:20241124T214500
+DTSTAMP:20241125T030800Z
+UID:ci0005472-tt0076759--2024-11-24-19-15
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nLuke Skywalker joins forces wit
+ h a Jedi Knight\, a cocky pilot\, a Wookiee and two droids to save the gal
+ axy from the Empire's world-destroying battle station\, while also attempt
+ ing to rescue Princess Leia from the mysterious Darth ...\n\nhttps://www.i
+ mdb.com/title/tt0076759/\n\nIMDb rating: 8.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -319,6 +293,32 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn intimate exploration of Place
  bo's evolution\, charting their journey through lyrics and songs that delv
  e into the human experience.\n\nhttps://www.imdb.com/title/tt32596598/\n\n
  IMDb rating: 8.3
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Female Trouble (1974)
+DTSTART;TZID=America/Los_Angeles:20241202T190000
+DTEND;TZID=America/Los_Angeles:20241202T205500
+DTSTAMP:20241203T025300Z
+UID:ci0005472-tt0072979--2024-12-2-19-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA spoiled schoolgirl runs away f
+ rom home\, gets pregnant while hitch-hiking\, and ends up as a fashion mod
+ el for a pair of beauticians who like to photograph women committing crime
+ s.\n\nhttps://www.imdb.com/title/tt0072979/\n\nIMDb rating: 7.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hippo
+DTSTART;TZID=America/Los_Angeles:20241202T211500
+DTEND;TZID=America/Los_Angeles:20241202T232000
+DTSTAMP:20241203T050800Z
+UID:ci0005472-tt15468190--2024-12-2-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nHippo\, a peculiar adolescent\,
+  and his Hungarian step-sister Buttercup struggle to come of age in late 1
+ 990s America\, under the roof of a mother who has been institutionalized a
+ t least once.\n\nhttps://www.imdb.com/title/tt15468190/\n\nIMDb rating: 7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
