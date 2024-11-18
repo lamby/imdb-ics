@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241117T084211Z
+LAST-MODIFIED:20241118T090427Z
 NAME:SIFF Cinema Egyptian\, Seattle
 X-WR-CALNAME:SIFF Cinema Egyptian\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Wrinkle in Time (2018)
-DTSTART;TZID=America/Los_Angeles:20241117T190000
-DTEND;TZID=America/Los_Angeles:20241117T211500
-DTSTAMP:20241118T025300Z
-UID:ci60177107-tt1620680--2024-11-17-19-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAfter the disappearance of her 
- scientist father\, three peculiar beings send Meg\, her brother\, and her 
- friend to space in order to find him.\n\nhttps://www.imdb.com/title/tt1620
- 680/\n\nIMDb rating: 4.3
-LOCATION:SIFF Cinema Egyptian\, Seattle\, 805 East Pine\, Seattle\, WA\, 9
- 8122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peeping Tom (1960)
 DTSTART;TZID=America/Los_Angeles:20241120T193000
