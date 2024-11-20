@@ -1,65 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241119T093644Z
+LAST-MODIFIED:20241120T113127Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241119T170000
-DTEND;TZID=America/Los_Angeles:20241119T185500
-DTSTAMP:20241120T005300Z
-UID:ci16639653-tt21823606--2024-11-19-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241119T193000
-DTEND;TZID=America/Los_Angeles:20241119T212500
-DTSTAMP:20241120T032300Z
-UID:ci16639653-tt21823606--2024-11-19-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241119T154500
-DTEND;TZID=America/Los_Angeles:20241119T183000
-DTSTAMP:20241119T233800Z
-UID:ci16639653-tt28607951--2024-11-19-15-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241119T184500
-DTEND;TZID=America/Los_Angeles:20241119T213000
-DTSTAMP:20241120T023800Z
-UID:ci16639653-tt28607951--2024-11-19-18-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=America/Los_Angeles:20241120T170000
@@ -201,6 +145,62 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241122T170000
+DTEND;TZID=America/Los_Angeles:20241122T185500
+DTSTAMP:20241123T005300Z
+UID:ci16639653-tt21823606--2024-11-22-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241122T193000
+DTEND;TZID=America/Los_Angeles:20241122T212500
+DTSTAMP:20241123T032300Z
+UID:ci16639653-tt21823606--2024-11-22-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241122T154500
+DTEND;TZID=America/Los_Angeles:20241122T183000
+DTSTAMP:20241122T233800Z
+UID:ci16639653-tt28607951--2024-11-22-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241122T184500
+DTEND;TZID=America/Los_Angeles:20241122T213000
+DTSTAMP:20241123T023800Z
+UID:ci16639653-tt28607951--2024-11-22-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dahomey
 DTSTART;TZID=America/Los_Angeles:20241122T171500
 DTEND;TZID=America/Los_Angeles:20241122T185000
@@ -223,6 +223,76 @@ DESCRIPTION:Duration: 1h 08m (68 mins)\n\nThe journey of 26 plundered roya
  l treasures from the Kingdom of Dahomey exhibited in Paris\, now being ret
  urned to Benin. Diop artistically voices a new generation's demands.\n\nht
  tps://www.imdb.com/title/tt31015216/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241123T143000
+DTEND;TZID=America/Los_Angeles:20241123T162500
+DTSTAMP:20241123T222300Z
+UID:ci16639653-tt21823606--2024-11-23-14-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241123T170000
+DTEND;TZID=America/Los_Angeles:20241123T185500
+DTSTAMP:20241124T005300Z
+UID:ci16639653-tt21823606--2024-11-23-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241123T193000
+DTEND;TZID=America/Los_Angeles:20241123T212500
+DTSTAMP:20241124T032300Z
+UID:ci16639653-tt21823606--2024-11-23-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241123T154500
+DTEND;TZID=America/Los_Angeles:20241123T183000
+DTSTAMP:20241123T233800Z
+UID:ci16639653-tt28607951--2024-11-23-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241123T184500
+DTEND;TZID=America/Los_Angeles:20241123T213000
+DTSTAMP:20241124T023800Z
+UID:ci16639653-tt28607951--2024-11-23-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -266,6 +336,76 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241124T143000
+DTEND;TZID=America/Los_Angeles:20241124T162500
+DTSTAMP:20241124T222300Z
+UID:ci16639653-tt21823606--2024-11-24-14-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241124T170000
+DTEND;TZID=America/Los_Angeles:20241124T185500
+DTSTAMP:20241125T005300Z
+UID:ci16639653-tt21823606--2024-11-24-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241124T193000
+DTEND;TZID=America/Los_Angeles:20241124T212500
+DTSTAMP:20241125T032300Z
+UID:ci16639653-tt21823606--2024-11-24-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241124T154500
+DTEND;TZID=America/Los_Angeles:20241124T183000
+DTSTAMP:20241124T233800Z
+UID:ci16639653-tt28607951--2024-11-24-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241124T184500
+DTEND;TZID=America/Los_Angeles:20241124T213000
+DTSTAMP:20241125T023800Z
+UID:ci16639653-tt28607951--2024-11-24-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Breakfast of Champions (1999)
 DTSTART;TZID=America/Los_Angeles:20241124T140000
 DTEND;TZID=America/Los_Angeles:20241124T161500
@@ -301,6 +441,48 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
  forming city\, a young Eritrean-American boy confronts the realities of ch
  ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
  .5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241125T170000
+DTEND;TZID=America/Los_Angeles:20241125T185500
+DTSTAMP:20241126T005300Z
+UID:ci16639653-tt21823606--2024-11-25-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241125T193000
+DTEND;TZID=America/Los_Angeles:20241125T212500
+DTSTAMP:20241126T032300Z
+UID:ci16639653-tt21823606--2024-11-25-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241125T154500
+DTEND;TZID=America/Los_Angeles:20241125T183000
+DTSTAMP:20241125T233800Z
+UID:ci16639653-tt28607951--2024-11-25-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -344,6 +526,62 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241126T170000
+DTEND;TZID=America/Los_Angeles:20241126T185500
+DTSTAMP:20241127T005300Z
+UID:ci16639653-tt21823606--2024-11-26-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241126T193000
+DTEND;TZID=America/Los_Angeles:20241126T212500
+DTSTAMP:20241127T032300Z
+UID:ci16639653-tt21823606--2024-11-26-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241126T154500
+DTEND;TZID=America/Los_Angeles:20241126T183000
+DTSTAMP:20241126T233800Z
+UID:ci16639653-tt28607951--2024-11-26-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241126T184500
+DTEND;TZID=America/Los_Angeles:20241126T213000
+DTSTAMP:20241127T023800Z
+UID:ci16639653-tt28607951--2024-11-26-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dahomey
 DTSTART;TZID=America/Los_Angeles:20241126T171500
 DTEND;TZID=America/Los_Angeles:20241126T185000
@@ -370,6 +608,62 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241127T170000
+DTEND;TZID=America/Los_Angeles:20241127T185500
+DTSTAMP:20241128T005300Z
+UID:ci16639653-tt21823606--2024-11-27-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241127T193000
+DTEND;TZID=America/Los_Angeles:20241127T212500
+DTSTAMP:20241128T032300Z
+UID:ci16639653-tt21823606--2024-11-27-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241127T154500
+DTEND;TZID=America/Los_Angeles:20241127T183000
+DTSTAMP:20241127T233800Z
+UID:ci16639653-tt28607951--2024-11-27-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241127T184500
+DTEND;TZID=America/Los_Angeles:20241127T213000
+DTSTAMP:20241128T023800Z
+UID:ci16639653-tt28607951--2024-11-27-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dahomey
 DTSTART;TZID=America/Los_Angeles:20241127T171500
 DTEND;TZID=America/Los_Angeles:20241127T185000
@@ -392,6 +686,76 @@ DESCRIPTION:Duration: 1h 08m (68 mins)\n\nThe journey of 26 plundered roya
  l treasures from the Kingdom of Dahomey exhibited in Paris\, now being ret
  urned to Benin. Diop artistically voices a new generation's demands.\n\nht
  tps://www.imdb.com/title/tt31015216/\n\nIMDb rating: 6.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241128T143000
+DTEND;TZID=America/Los_Angeles:20241128T162500
+DTSTAMP:20241128T222300Z
+UID:ci16639653-tt21823606--2024-11-28-14-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241128T170000
+DTEND;TZID=America/Los_Angeles:20241128T185500
+DTSTAMP:20241129T005300Z
+UID:ci16639653-tt21823606--2024-11-28-17-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241128T193000
+DTEND;TZID=America/Los_Angeles:20241128T212500
+DTSTAMP:20241129T032300Z
+UID:ci16639653-tt21823606--2024-11-28-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.5
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241128T154500
+DTEND;TZID=America/Los_Angeles:20241128T183000
+DTSTAMP:20241128T233800Z
+UID:ci16639653-tt28607951--2024-11-28-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241128T184500
+DTEND;TZID=America/Los_Angeles:20241128T213000
+DTSTAMP:20241129T023800Z
+UID:ci16639653-tt28607951--2024-11-28-18-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.2
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -641,6 +1005,19 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
  sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
  ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
  6077/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241205T190000
+DTEND;TZID=America/Los_Angeles:20241205T205000
+DTSTAMP:20241206T025300Z
+UID:ci16639653-tt0104940--2024-12-5-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
