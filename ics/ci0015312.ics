@@ -1,20 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241120T113510Z
+LAST-MODIFIED:20241121T080627Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Nausicaä of the Valley of the Wind (1984)
-DTSTART;TZID=America/Los_Angeles:20241120T160000
-DTEND;TZID=America/Los_Angeles:20241120T182500
-DTSTAMP:20241120T235300Z
-UID:ci0015312-tt0087544--2024-11-20-16-0
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nWarrior and pacifist Princess N
- ausicaä desperately struggles to prevent two warring nations from destroy
- ing themselves and their dying planet.\n\nhttps://www.imdb.com/title/tt008
- 7544/\n\nIMDb rating: 8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR

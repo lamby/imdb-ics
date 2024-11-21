@@ -1,79 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241120T113127Z
+LAST-MODIFIED:20241121T080511Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241120T170000
-DTEND;TZID=America/Los_Angeles:20241120T185500
-DTSTAMP:20241121T005300Z
-UID:ci16639653-tt21823606--2024-11-20-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241120T193000
-DTEND;TZID=America/Los_Angeles:20241120T212500
-DTSTAMP:20241121T032300Z
-UID:ci16639653-tt21823606--2024-11-20-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241120T154500
-DTEND;TZID=America/Los_Angeles:20241120T183000
-DTSTAMP:20241120T233800Z
-UID:ci16639653-tt28607951--2024-11-20-15-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241120T184500
-DTEND;TZID=America/Los_Angeles:20241120T213000
-DTSTAMP:20241121T023800Z
-UID:ci16639653-tt28607951--2024-11-20-18-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Place to Grow Old
-DTSTART;TZID=America/Los_Angeles:20241120T173000
-DTEND;TZID=America/Los_Angeles:20241120T184500
-DTSTAMP:20241121T012300Z
-UID:ci16639653-tt32741568--2024-11-20-17-30
-DESCRIPTION:Duration: 0h 50m (50 mins)\n\nA growing crisis unfolding quiet
- ly across America: the increasing number of seniors facing homelessness. S
- et in Portland\, Oregon\, this poignant documentary follows the lives of t
- hree older adults navigating the harsh realities of ...\n\nhttps://www.imd
- b.com/title/tt32741568/\n\nIMDb rating: 9.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=America/Los_Angeles:20241121T170000
@@ -1018,6 +948,34 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
  kes Christmas\, is visited by spirits who foretell his future and share se
  crets from his past and present\, which helps change his view on life\n\nh
  ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20241206T160000
+DTEND;TZID=America/Los_Angeles:20241206T184000
+DTSTAMP:20241206T235300Z
+UID:ci16639653-tt24176060--2024-12-6-16-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nLee\, who recounts his life in 
+ Mexico City among American expatriate college students and bar owners surv
+ iving on part-time jobs and GI Bill benefits. He is driven to pursue a you
+ ng man named Allerton\, who is based on Adelbert Lewi...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20241206T190000
+DTEND;TZID=America/Los_Angeles:20241206T214000
+DTSTAMP:20241207T025300Z
+UID:ci16639653-tt24176060--2024-12-6-19-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nLee\, who recounts his life in 
+ Mexico City among American expatriate college students and bar owners surv
+ iving on part-time jobs and GI Bill benefits. He is driven to pursue a you
+ ng man named Allerton\, who is based on Adelbert Lewi...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 5.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
