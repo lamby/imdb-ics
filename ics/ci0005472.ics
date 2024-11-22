@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241121T080335Z
+LAST-MODIFIED:20241122T040321Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Pulp Fiction (1994)
-DTSTART;TZID=America/Los_Angeles:20241121T190000
-DTEND;TZID=America/Los_Angeles:20241121T220000
-DTSTAMP:20241122T025300Z
-UID:ci0005472-tt0110912--2024-11-21-19-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
-  boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
- in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
- 0110912/\n\nIMDb rating: 8.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pulp Fiction (1994)
 DTSTART;TZID=America/Los_Angeles:20241122T190000
@@ -66,7 +53,7 @@ UID:ci0005472-tt32596598--2024-11-23-19-15
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn intimate exploration of Place
  bo's evolution\, charting their journey through lyrics and songs that delv
  e into the human experience.\n\nhttps://www.imdb.com/title/tt32596598/\n\n
- IMDb rating: 8.3
+ IMDb rating: 8.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -241,7 +228,7 @@ UID:ci0005472-tt32596598--2024-12-1-17-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn intimate exploration of Place
  bo's evolution\, charting their journey through lyrics and songs that delv
  e into the human experience.\n\nhttps://www.imdb.com/title/tt32596598/\n\n
- IMDb rating: 8.3
+ IMDb rating: 8.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -363,6 +350,32 @@ DESCRIPTION:Duration: 1h 19m (79 mins)\n\nLittle Billy witnesses his paren
  anta punishes those who are naughty. Now Billy is 18 and out of the orphan
  age\, and he has just become Santa himself.\n\nhttps://www.imdb.com/title/
  tt0088117/\n\nIMDb rating: 5.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241207T160000
+DTEND;TZID=America/Los_Angeles:20241207T183500
+DTSTAMP:20241207T235300Z
+UID:ci0005472-tt0038650--2024-12-7-16-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Third Man (1949)
+DTSTART;TZID=America/Los_Angeles:20241207T190000
+DTEND;TZID=America/Los_Angeles:20241207T210000
+DTSTAMP:20241208T025300Z
+UID:ci0005472-tt0041959--2024-12-7-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nPulp novelist Holly Martins trav
+ els to shadowy\, postwar Vienna\, only to find himself investigating the m
+ ysterious death of an old friend\, Harry Lime.\n\nhttps://www.imdb.com/tit
+ le/tt0041959/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

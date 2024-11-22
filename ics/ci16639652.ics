@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241121T080535Z
+LAST-MODIFIED:20241122T040534Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gummo (1997)
-DTSTART;TZID=America/Los_Angeles:20241121T193000
-DTEND;TZID=America/Los_Angeles:20241121T212500
-DTSTAMP:20241122T032300Z
-UID:ci16639652-tt0119237--2024-11-21-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nLonely residents of a tornado-st
- ricken Ohio town wander the deserted landscape trying to fulfill their bor
- ing\, nihilistic lives.\n\nhttps://www.imdb.com/title/tt0119237/\n\nIMDb r
- ating: 6.6
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sweetheart Deal (2022)
 DTSTART;TZID=America/Los_Angeles:20241122T163000
@@ -267,6 +254,31 @@ UID:ci16639652-tt32141038--2024-12-6-7-0
 DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
  roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
  \nhttps://www.imdb.com/title/tt32141038/\n\nIMDb rating: 8
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Carry/Lo Que Llevamos
+DTSTART;TZID=America/Los_Angeles:20241207T050000
+DTEND;TZID=America/Los_Angeles:20241207T065500
+DTSTAMP:20241207T125300Z
+UID:ci16639652-tt30832742--2024-12-7-5-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nFleeing persecution in Honduras\
+ , a young family migrates in cargo trains across Mexico and claims asylum 
+ in the US. While they await a final decision\, a local synagogue sponsors 
+ them.\n\nhttps://www.imdb.com/title/tt30832742/\n\nIMDb rating: 8.8
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strange Darling
+DTSTART;TZID=America/Los_Angeles:20241207T073000
+DTEND;TZID=America/Los_Angeles:20241207T093500
+DTSTAMP:20241207T152300Z
+UID:ci16639652-tt22375054--2024-12-7-7-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nNothing is what it seems when a 
+ twisted one-night stand spirals into a serial killer's vicious murder spre
+ e.\n\nhttps://www.imdb.com/title/tt22375054/\n\nIMDb rating: 7.1
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
