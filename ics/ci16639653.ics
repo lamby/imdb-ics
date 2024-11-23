@@ -1,91 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241122T040506Z
+LAST-MODIFIED:20241123T110631Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241122T170000
-DTEND;TZID=America/Los_Angeles:20241122T185500
-DTSTAMP:20241123T005300Z
-UID:ci16639653-tt21823606--2024-11-22-17-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241122T193000
-DTEND;TZID=America/Los_Angeles:20241122T212500
-DTSTAMP:20241123T032300Z
-UID:ci16639653-tt21823606--2024-11-22-19-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241122T154500
-DTEND;TZID=America/Los_Angeles:20241122T183000
-DTSTAMP:20241122T233800Z
-UID:ci16639653-tt28607951--2024-11-22-15-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241122T184500
-DTEND;TZID=America/Los_Angeles:20241122T213000
-DTSTAMP:20241123T023800Z
-UID:ci16639653-tt28607951--2024-11-22-18-45
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.2
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dahomey
-DTSTART;TZID=America/Los_Angeles:20241122T171500
-DTEND;TZID=America/Los_Angeles:20241122T185000
-DTSTAMP:20241123T010800Z
-UID:ci16639653-tt31015216--2024-11-22-17-15
-DESCRIPTION:Duration: 1h 08m (68 mins)\n\nThe journey of 26 plundered roya
- l treasures from the Kingdom of Dahomey exhibited in Paris\, now being ret
- urned to Benin. Diop artistically voices a new generation's demands.\n\nht
- tps://www.imdb.com/title/tt31015216/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dahomey
-DTSTART;TZID=America/Los_Angeles:20241122T194500
-DTEND;TZID=America/Los_Angeles:20241122T212000
-DTSTAMP:20241123T033800Z
-UID:ci16639653-tt31015216--2024-11-22-19-45
-DESCRIPTION:Duration: 1h 08m (68 mins)\n\nThe journey of 26 plundered roya
- l treasures from the Kingdom of Dahomey exhibited in Paris\, now being ret
- urned to Benin. Diop artistically voices a new generation's demands.\n\nht
- tps://www.imdb.com/title/tt31015216/\n\nIMDb rating: 6.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=America/Los_Angeles:20241123T143000
@@ -300,7 +218,7 @@ UID:ci16639653-tt15275946--2024-11-24-19-0
 DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAmidst the landscape of a trans
  forming city\, a young Eritrean-American boy confronts the realities of ch
  ange and loss.\n\nhttps://www.imdb.com/title/tt15275946/\n\nIMDb rating: 8
- .5
+ .4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -856,6 +774,34 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241205T161500
+DTEND;TZID=America/Los_Angeles:20241205T184000
+DTSTAMP:20241206T000800Z
+UID:ci16639653-tt32086077--2024-12-5-16-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241205T190000
+DTEND;TZID=America/Los_Angeles:20241205T212500
+DTSTAMP:20241206T025300Z
+UID:ci16639653-tt32086077--2024-12-5-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Muppet Christmas Carol (1992)
 DTSTART;TZID=America/Los_Angeles:20241205T190000
 DTEND;TZID=America/Los_Angeles:20241205T205000
@@ -865,6 +811,32 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
  kes Christmas\, is visited by spirits who foretell his future and share se
  crets from his past and present\, which helps change his view on life\n\nh
  ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241206T163000
+DTEND;TZID=America/Los_Angeles:20241206T182000
+DTSTAMP:20241207T002300Z
+UID:ci16639653-tt4772188--2024-12-6-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241206T194500
+DTEND;TZID=America/Los_Angeles:20241206T213500
+DTSTAMP:20241207T033800Z
+UID:ci16639653-tt4772188--2024-12-6-19-45
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -893,6 +865,45 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nLee\, who recounts his life in
  iving on part-time jobs and GI Bill benefits. He is driven to pursue a you
  ng man named Allerton\, who is based on Adelbert Lewi...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241207T134500
+DTEND;TZID=America/Los_Angeles:20241207T153500
+DTSTAMP:20241207T213800Z
+UID:ci16639653-tt4772188--2024-12-7-13-45
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241207T163000
+DTEND;TZID=America/Los_Angeles:20241207T182000
+DTSTAMP:20241208T002300Z
+UID:ci16639653-tt4772188--2024-12-7-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241207T194500
+DTEND;TZID=America/Los_Angeles:20241207T213500
+DTSTAMP:20241208T033800Z
+UID:ci16639653-tt4772188--2024-12-7-19-45
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -944,6 +955,100 @@ DTSTART;TZID=America/Los_Angeles:20241207T130000
 DTEND;TZID=America/Los_Angeles:20241207T145000
 DTSTAMP:20241207T205300Z
 UID:ci16639653-tt0104940--2024-12-7-13-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241208T134500
+DTEND;TZID=America/Los_Angeles:20241208T153500
+DTSTAMP:20241208T213800Z
+UID:ci16639653-tt4772188--2024-12-8-13-45
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241208T163000
+DTEND;TZID=America/Los_Angeles:20241208T182000
+DTSTAMP:20241209T002300Z
+UID:ci16639653-tt4772188--2024-12-8-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241208T194500
+DTEND;TZID=America/Los_Angeles:20241208T213500
+DTSTAMP:20241209T033800Z
+UID:ci16639653-tt4772188--2024-12-8-19-45
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20241208T124500
+DTEND;TZID=America/Los_Angeles:20241208T152500
+DTSTAMP:20241208T203800Z
+UID:ci16639653-tt24176060--2024-12-8-12-45
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nLee\, who recounts his life in 
+ Mexico City among American expatriate college students and bar owners surv
+ iving on part-time jobs and GI Bill benefits. He is driven to pursue a you
+ ng man named Allerton\, who is based on Adelbert Lewi...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20241208T160000
+DTEND;TZID=America/Los_Angeles:20241208T184000
+DTSTAMP:20241208T235300Z
+UID:ci16639653-tt24176060--2024-12-8-16-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nLee\, who recounts his life in 
+ Mexico City among American expatriate college students and bar owners surv
+ iving on part-time jobs and GI Bill benefits. He is driven to pursue a you
+ ng man named Allerton\, who is based on Adelbert Lewi...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20241208T190000
+DTEND;TZID=America/Los_Angeles:20241208T214000
+DTSTAMP:20241209T025300Z
+UID:ci16639653-tt24176060--2024-12-8-19-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nLee\, who recounts his life in 
+ Mexico City among American expatriate college students and bar owners surv
+ iving on part-time jobs and GI Bill benefits. He is driven to pursue a you
+ ng man named Allerton\, who is based on Adelbert Lewi...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 5.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241208T130000
+DTEND;TZID=America/Los_Angeles:20241208T145000
+DTSTAMP:20241208T205300Z
+UID:ci16639653-tt0104940--2024-12-8-13-0
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
  kes Christmas\, is visited by spirits who foretell his future and share se
  crets from his past and present\, which helps change his view on life\n\nh
