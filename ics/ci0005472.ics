@@ -1,89 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241123T110442Z
+LAST-MODIFIED:20241126T093407Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:BOOM! A Film About the Sonics (2018)
-DTSTART;TZID=America/Los_Angeles:20241123T163000
-DTEND;TZID=America/Los_Angeles:20241123T181500
-DTSTAMP:20241124T002300Z
-UID:ci0005472-tt4733254--2024-11-23-16-30
-DESCRIPTION:Duration: 1h 17m (77 mins)\n\n'Boom' chronicles one of rock 'n
- ' roll's wildest and most influential bands: The Sonics. For the first tim
- e ever\, all five original members explore how a relatively unknown band f
- rom the Pacific Northwest became a worldwide phenom...\n\nhttps://www.imdb
- .com/title/tt4733254/\n\nIMDb rating: 9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Candy Mountain (1987)
-DTSTART;TZID=America/Los_Angeles:20241123T140000
-DTEND;TZID=America/Los_Angeles:20241123T160000
-DTSTAMP:20241123T215300Z
-UID:ci0005472-tt0092719--2024-11-23-14-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA struggling musician sets out t
- o find the legendary guitar maker Elmore Silk\, with whom he hopes to stri
- ke a deal to make himself rich and famous.\n\nhttps://www.imdb.com/title/t
- t0092719/\n\nIMDb rating: 6.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:This Search for Meaning
-DTSTART;TZID=America/Los_Angeles:20241123T191500
-DTEND;TZID=America/Los_Angeles:20241123T211500
-DTSTAMP:20241124T030800Z
-UID:ci0005472-tt32596598--2024-11-23-19-15
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn intimate exploration of Place
- bo's evolution\, charting their journey through lyrics and songs that delv
- e into the human experience.\n\nhttps://www.imdb.com/title/tt32596598/\n\n
- IMDb rating: 8.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pulp Fiction (1994)
-DTSTART;TZID=America/Los_Angeles:20241124T160000
-DTEND;TZID=America/Los_Angeles:20241124T190000
-DTSTAMP:20241124T235300Z
-UID:ci0005472-tt0110912--2024-11-24-16-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
-  boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
- in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
- 0110912/\n\nIMDb rating: 8.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: Episode IV - A New Hope (1977)
-DTSTART;TZID=America/Los_Angeles:20241124T191500
-DTEND;TZID=America/Los_Angeles:20241124T214500
-DTSTAMP:20241125T030800Z
-UID:ci0005472-tt0076759--2024-11-24-19-15
-DESCRIPTION:Duration: 2h 01m (121 mins)\n\nLuke Skywalker joins forces wit
- h a Jedi Knight\, a cocky pilot\, a Wookiee and two droids to save the gal
- axy from the Empire's world-destroying battle station\, while also attempt
- ing to rescue Princess Leia from the mysterious Darth ...\n\nhttps://www.i
- mdb.com/title/tt0076759/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pulp Fiction (1994)
-DTSTART;TZID=America/Los_Angeles:20241125T190000
-DTEND;TZID=America/Los_Angeles:20241125T220000
-DTSTAMP:20241126T025300Z
-UID:ci0005472-tt0110912--2024-11-25-19-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
-  boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
- in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
- 0110912/\n\nIMDb rating: 8.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pulp Fiction (1994)
 DTSTART;TZID=America/Los_Angeles:20241126T190000
@@ -215,7 +135,7 @@ UID:ci0005472-tt32596598--2024-12-1-17-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAn intimate exploration of Place
  bo's evolution\, charting their journey through lyrics and songs that delv
  e into the human experience.\n\nhttps://www.imdb.com/title/tt32596598/\n\n
- IMDb rating: 8.4
+ IMDb rating: 8.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -403,6 +323,32 @@ DESCRIPTION:Duration: 1h 19m (79 mins)\n\nLittle Billy witnesses his paren
  anta punishes those who are naughty. Now Billy is 18 and out of the orphan
  age\, and he has just become Santa himself.\n\nhttps://www.imdb.com/title/
  tt0088117/\n\nIMDb rating: 5.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241209T190000
+DTEND;TZID=America/Los_Angeles:20241209T213500
+DTSTAMP:20241210T025300Z
+UID:ci0005472-tt0038650--2024-12-9-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babymetal: Legend 43 - The Movie
+DTSTART;TZID=America/Los_Angeles:20241211T190000
+DTEND;TZID=America/Los_Angeles:20241211T212500
+DTSTAMP:20241212T025300Z
+UID:ci0005472-tt32986910--2024-12-11-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nJapanese Metal Band BABYMETAL's
+  Concert film which took place in Okinawa\,as a finale of their BABYMETAL 
+ WORLD TOUR 2023-2024 at March 24\, 2024.\n\nhttps://www.imdb.com/title/tt3
+ 2986910/\n\nIMDb rating: 6.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

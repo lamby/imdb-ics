@@ -1,7 +1,48 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241123T110535Z
+LAST-MODIFIED:20241126T093456Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:A Whole Night (1982)
+DTSTART;TZID=America/Los_Angeles:20241126T193000
+DTEND;TZID=America/Los_Angeles:20241126T212500
+DTSTAMP:20241127T032300Z
+UID:ci1024213-tt0084808--2024-11-26-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nFollowing over two dozen differe
+ nt people in the almost wordless atmosphere of a dark night in a Brussels 
+ town\, Akerman examines acceptance and rejection in the realm of romance.\
+ n\nhttps://www.imdb.com/title/tt0084808/\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duck Soup (1933)
+DTSTART;TZID=America/Los_Angeles:20241126T163000
+DTEND;TZID=America/Los_Angeles:20241126T180500
+DTSTAMP:20241127T002300Z
+UID:ci1024213-tt0023969--2024-11-26-16-30
+DESCRIPTION:Duration: 1h 09m (69 mins)\n\nRufus T. Firefly is named the di
+ ctator of bankrupt Freedonia and declares war on neighboring Sylvania over
+  the love of his wealthy backer Mrs. Teasdale\, contending with two inept 
+ spies who can't seem to keep straight which side th...\n\nhttps://www.imdb
+ .com/title/tt0023969/\n\nIMDb rating: 7.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blood Rage (1987)
+DTSTART;TZID=America/Los_Angeles:20241127T193000
+DTEND;TZID=America/Los_Angeles:20241127T212000
+DTSTAMP:20241128T032300Z
+UID:ci1024213-tt0085253--2024-11-27-19-30
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA boy kills a man and accuses hi
+ s twin brother of the murder\, and the innocent brother ends up institutio
+ nalized\, while his psychotic twin goes free. 10 years later\, the innocen
+ t twin escapes\, which triggers his brother into killi...\n\nhttps://www.i
+ mdb.com/title/tt0085253/\n\nIMDb rating: 5.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR
