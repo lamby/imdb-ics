@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241126T093359Z
+LAST-MODIFIED:20241127T100340Z
 NAME:Everyman Cambridge\, Cambridge
 X-WR-CALNAME:Everyman Cambridge\, Cambridge
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241126T153000
-DTEND;TZID=Europe/London:20241126T183500
-DTSTAMP:20241126T153100Z
-UID:ci1040905-tt1262426--2024-11-26-15-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8.2
-LOCATION:Everyman Cambridge\, Cambridge\, Unit 42\, Grand Arcade\, Cambrid
- ge\, CB2 3BJ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241126T192000
-DTEND;TZID=Europe/London:20241126T222500
-DTSTAMP:20241126T192100Z
-UID:ci1040905-tt1262426--2024-11-26-19-20
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8.2
-LOCATION:Everyman Cambridge\, Cambridge\, Unit 42\, Grand Arcade\, Cambrid
- ge\, CB2 3BJ
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
 DTSTART;TZID=Europe/London:20241127T153000
