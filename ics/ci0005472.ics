@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241127T100349Z
+LAST-MODIFIED:20241128T095643Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Pulp Fiction (1994)
-DTSTART;TZID=America/Los_Angeles:20241127T190000
-DTEND;TZID=America/Los_Angeles:20241127T220000
-DTSTAMP:20241128T025300Z
-UID:ci0005472-tt0110912--2024-11-27-19-0
-DESCRIPTION:Duration: 2h 34m (154 mins)\n\nThe lives of two mob hitmen\, a
-  boxer\, a gangster and his wife\, and a pair of diner bandits intertwine 
- in four tales of violence and redemption.\n\nhttps://www.imdb.com/title/tt
- 0110912/\n\nIMDb rating: 8.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Female Trouble (1974)
 DTSTART;TZID=America/Los_Angeles:20241129T213000
@@ -336,6 +323,19 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nJapanese Metal Band BABYMETAL's
   Concert film which took place in Okinawa\,as a finale of their BABYMETAL 
  WORLD TOUR 2023-2024 at March 24\, 2024.\n\nhttps://www.imdb.com/title/tt3
  2986910/\n\nIMDb rating: 6.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241213T190000
+DTEND;TZID=America/Los_Angeles:20241213T213500
+DTSTAMP:20241214T025300Z
+UID:ci0005472-tt0038650--2024-12-13-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
