@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241130T093936Z
+LAST-MODIFIED:20241201T103128Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:All We Imagine as Light
-DTSTART;TZID=America/Los_Angeles:20241130T133000
-DTEND;TZID=America/Los_Angeles:20241130T155500
-DTSTAMP:20241130T212300Z
-UID:ci16639653-tt32086077--2024-11-30-13-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
- ine is troubled when she receives an unexpected gift from her estranged hu
- sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
- ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
- 6077/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All We Imagine as Light
-DTSTART;TZID=America/Los_Angeles:20241130T161500
-DTEND;TZID=America/Los_Angeles:20241130T184000
-DTSTAMP:20241201T000800Z
-UID:ci16639653-tt32086077--2024-11-30-16-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
- ine is troubled when she receives an unexpected gift from her estranged hu
- sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
- ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
- 6077/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All We Imagine as Light
-DTSTART;TZID=America/Los_Angeles:20241130T190000
-DTEND;TZID=America/Los_Angeles:20241130T212500
-DTSTAMP:20241201T025300Z
-UID:ci16639653-tt32086077--2024-11-30-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
- ine is troubled when she receives an unexpected gift from her estranged hu
- sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
- ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
- 6077/\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All We Imagine as Light
 DTSTART;TZID=America/Los_Angeles:20241201T133000
@@ -817,6 +775,34 @@ DTSTART;TZID=America/Los_Angeles:20241215T191500
 DTEND;TZID=America/Los_Angeles:20241215T215500
 DTSTAMP:20241216T030800Z
 UID:ci16639653-tt24176060--2024-12-15-19-15
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nIn 1950s Mexico City\, an Ameri
+ can ex-pat in his late forties leads a solitary life amidst a small Americ
+ an community. However\, the arrival of a young student stirs the man into 
+ finally establishing a meaningful connection with som...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 5.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20241216T161500
+DTEND;TZID=America/Los_Angeles:20241216T185500
+DTSTAMP:20241217T000800Z
+UID:ci16639653-tt24176060--2024-12-16-16-15
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nIn 1950s Mexico City\, an Ameri
+ can ex-pat in his late forties leads a solitary life amidst a small Americ
+ an community. However\, the arrival of a young student stirs the man into 
+ finally establishing a meaningful connection with som...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 5.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20241216T191500
+DTEND;TZID=America/Los_Angeles:20241216T215500
+DTSTAMP:20241217T030800Z
+UID:ci16639653-tt24176060--2024-12-16-19-15
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 

@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241130T093751Z
+LAST-MODIFIED:20241201T102943Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:BOOM! A Film About the Sonics (2018)
-DTSTART;TZID=America/Los_Angeles:20241130T163000
-DTEND;TZID=America/Los_Angeles:20241130T181500
-DTSTAMP:20241201T002300Z
-UID:ci0005472-tt4733254--2024-11-30-16-30
-DESCRIPTION:Duration: 1h 17m (77 mins)\n\n'Boom' chronicles one of rock 'n
- ' roll's wildest and most influential bands: The Sonics. For the first tim
- e ever\, all five original members explore how a relatively unknown band f
- rom the Pacific Northwest became a worldwide phenom...\n\nhttps://www.imdb
- .com/title/tt4733254/\n\nIMDb rating: 9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heavier Trip
-DTSTART;TZID=America/Los_Angeles:20241130T190000
-DTEND;TZID=America/Los_Angeles:20241130T210500
-DTSTAMP:20241201T025300Z
-UID:ci0005472-tt28772978--2024-11-30-19-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nImpaled Rektum\, a band\, is in 
- jail but must escape when the guitarist's father falls ill and their famil
- y home/business faces demolition. They receive an offer to play a major fe
- stival but decline due to being imprisoned and unpre...\n\nhttps://www.imd
- b.com/title/tt28772978/\n\nIMDb rating: 6.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hippo
-DTSTART;TZID=America/Los_Angeles:20241130T140000
-DTEND;TZID=America/Los_Angeles:20241130T160500
-DTSTAMP:20241130T215300Z
-UID:ci0005472-tt15468190--2024-11-30-14-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nHippo\, a peculiar adolescent\,
-  and his Hungarian step-sister Buttercup struggle to come of age in late 1
- 990s America\, under the roof of a mother who has been institutionalized a
- t least once.\n\nhttps://www.imdb.com/title/tt15468190/\n\nIMDb rating: 7.
- 2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Female Trouble (1974)
 DTSTART;TZID=America/Los_Angeles:20241201T143000
@@ -387,6 +345,19 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLeonard Fife\, one of sixty thou
  sand draft evaders and deserters who fled to Canada to avoid serving in Vi
  etnam\, shares all his secrets to de-mythologize his mythologized life.\n\
  nhttps://www.imdb.com/title/tt29994753/\n\nIMDb rating: 5.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241216T190000
+DTEND;TZID=America/Los_Angeles:20241216T213500
+DTSTAMP:20241217T025300Z
+UID:ci0005472-tt0038650--2024-12-16-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
