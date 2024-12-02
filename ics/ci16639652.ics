@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241201T103151Z
+LAST-MODIFIED:20241202T062721Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Black Box Diaries
-DTSTART;TZID=America/Los_Angeles:20241201T143000
-DTEND;TZID=America/Los_Angeles:20241201T164000
-DTSTAMP:20241201T222300Z
-UID:ci16639652-tt30227076--2024-12-1-14-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nJournalist Shiori Ito investiga
- tes her own sexual assault\, seeking to prosecute the high-profile offende
- r. Her quest becomes a landmark case\, exposing Japan's outdated judicial 
- and societal systems.\n\nhttps://www.imdb.com/title/tt30227076/\n\nIMDb ra
- ting: 7.9
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Box Diaries
-DTSTART;TZID=America/Los_Angeles:20241201T170000
-DTEND;TZID=America/Los_Angeles:20241201T191000
-DTSTAMP:20241202T005300Z
-UID:ci16639652-tt30227076--2024-12-1-17-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nJournalist Shiori Ito investiga
- tes her own sexual assault\, seeking to prosecute the high-profile offende
- r. Her quest becomes a landmark case\, exposing Japan's outdated judicial 
- and societal systems.\n\nhttps://www.imdb.com/title/tt30227076/\n\nIMDb ra
- ting: 7.9
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rainier: A Beer Odyssey
 DTSTART;TZID=America/Los_Angeles:20241206T070000
@@ -115,6 +87,19 @@ DTSTART;TZID=America/Los_Angeles:20241216T190000
 DTEND;TZID=America/Los_Angeles:20241216T215500
 DTSTAMP:20241217T025300Z
 UID:ci16639652-tt0091670--2024-12-16-19-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
+ a man searches for a way to restore peace to the world and finds he must g
+ ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
+ rating: 7.9
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sacrifice (1986)
+DTSTART;TZID=America/Los_Angeles:20241217T190000
+DTEND;TZID=America/Los_Angeles:20241217T215500
+DTSTAMP:20241218T025300Z
+UID:ci16639652-tt0091670--2024-12-17-19-0
 DESCRIPTION:Duration: 2h 29m (149 mins)\n\nAt the dawn of World War III\, 
  a man searches for a way to restore peace to the world and finds he must g
  ive something in return.\n\nhttps://www.imdb.com/title/tt0091670/\n\nIMDb 
