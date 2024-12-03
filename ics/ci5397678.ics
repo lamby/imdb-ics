@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241202T062738Z
+LAST-MODIFIED:20241203T071137Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20241202T151500
-DTEND;TZID=America/Los_Angeles:20241202T182000
-DTSTAMP:20241202T230800Z
-UID:ci5397678-tt1262426--2024-12-2-15-15
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20241202T193000
-DTEND;TZID=America/Los_Angeles:20241202T223500
-DTSTAMP:20241203T032300Z
-UID:ci5397678-tt1262426--2024-12-2-19-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
 DTSTART;TZID=America/Los_Angeles:20241203T151500
