@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241203T070900Z
+LAST-MODIFIED:20241204T090201Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Female Trouble (1974)
-DTSTART;TZID=America/Los_Angeles:20241203T213000
-DTEND;TZID=America/Los_Angeles:20241203T232500
-DTSTAMP:20241204T052300Z
-UID:ci0005472-tt0072979--2024-12-3-21-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA spoiled schoolgirl runs away f
- rom home\, gets pregnant while hitch-hiking\, and ends up as a fashion mod
- el for a pair of beauticians who like to photograph women committing crime
- s.\n\nhttps://www.imdb.com/title/tt0072979/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hippo
-DTSTART;TZID=America/Los_Angeles:20241203T190000
-DTEND;TZID=America/Los_Angeles:20241203T210500
-DTSTAMP:20241204T025300Z
-UID:ci0005472-tt15468190--2024-12-3-19-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nHippo\, a peculiar adolescent\,
-  and his Hungarian step-sister Buttercup struggle to come of age in late 1
- 990s America\, under the roof of a mother who has been institutionalized a
- t least once.\n\nhttps://www.imdb.com/title/tt15468190/\n\nIMDb rating: 7.
- 2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Female Trouble (1974)
 DTSTART;TZID=America/Los_Angeles:20241204T190000
@@ -313,6 +286,19 @@ DTSTART;TZID=America/Los_Angeles:20241218T190000
 DTEND;TZID=America/Los_Angeles:20241218T213500
 DTSTAMP:20241219T025300Z
 UID:ci0005472-tt0038650--2024-12-18-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241219T190000
+DTEND;TZID=America/Los_Angeles:20241219T213500
+DTSTAMP:20241220T025300Z
+UID:ci0005472-tt0038650--2024-12-19-19-0
 DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
   help a desperately frustrated businessman by showing him what life would 
  have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00

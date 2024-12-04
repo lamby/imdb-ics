@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241203T071217Z
+LAST-MODIFIED:20241204T090512Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Casablanca (1942)
-DTSTART;TZID=America/Los_Angeles:20241203T160000
-DTEND;TZID=America/Los_Angeles:20241203T181000
-DTSTAMP:20241203T235300Z
-UID:ci0015312-tt0034583--2024-12-3-16-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA cynical expatriate American c
- afe owner struggles to decide whether or not to help his former lover and 
- her fugitive husband escape the Nazis in French Morocco.\n\nhttps://www.im
- db.com/title/tt0034583/\n\nIMDb rating: 8.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casablanca (1942)
-DTSTART;TZID=America/Los_Angeles:20241203T190000
-DTEND;TZID=America/Los_Angeles:20241203T211000
-DTSTAMP:20241204T025300Z
-UID:ci0015312-tt0034583--2024-12-3-19-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA cynical expatriate American c
- afe owner struggles to decide whether or not to help his former lover and 
- her fugitive husband escape the Nazis in French Morocco.\n\nhttps://www.im
- db.com/title/tt0034583/\n\nIMDb rating: 8.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel (2014)
-DTSTART;TZID=America/Los_Angeles:20241203T213000
-DTEND;TZID=America/Los_Angeles:20241203T233500
-DTSTAMP:20241204T052300Z
-UID:ci0015312-tt2278388--2024-12-3-21-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA writer encounters the owner of
-  an aging high-class hotel\, who tells him of his early years serving as a
-  lobby boy in the hotel's glorious years under an exceptional concierge.\n
- \nhttps://www.imdb.com/title/tt2278388/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Casablanca (1942)
 DTSTART;TZID=America/Los_Angeles:20241204T160000
@@ -66,6 +27,253 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn San Francisco\, an amiable ba
  nker's seemingly perfect life is turned upside down when his deceitful bri
  de-to-be embarks on a passionate affair with his best friend.\n\nhttps://w
  ww.imdb.com/title/tt0368226/\n\nIMDb rating: 3.6
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=America/Los_Angeles:20241206T213000
+DTEND;TZID=America/Los_Angeles:20241206T234500
+DTSTAMP:20241207T052300Z
+UID:ci0015312-tt0087363--2024-12-6-21-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
+ s three important rules concerning his new pet and unleashes a horde of ma
+ levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
+ itle/tt0087363/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241206T160000
+DTEND;TZID=America/Los_Angeles:20241206T175000
+DTSTAMP:20241206T235300Z
+UID:ci0015312-tt0104940--2024-12-6-16-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241206T190000
+DTEND;TZID=America/Los_Angeles:20241206T205000
+DTSTAMP:20241207T025300Z
+UID:ci0015312-tt0104940--2024-12-6-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=America/Los_Angeles:20241207T213000
+DTEND;TZID=America/Los_Angeles:20241207T234500
+DTSTAMP:20241208T052300Z
+UID:ci0015312-tt0087363--2024-12-7-21-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
+ s three important rules concerning his new pet and unleashes a horde of ma
+ levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
+ itle/tt0087363/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241207T160000
+DTEND;TZID=America/Los_Angeles:20241207T175000
+DTSTAMP:20241207T235300Z
+UID:ci0015312-tt0104940--2024-12-7-16-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241207T190000
+DTEND;TZID=America/Los_Angeles:20241207T205000
+DTSTAMP:20241208T025300Z
+UID:ci0015312-tt0104940--2024-12-7-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=America/Los_Angeles:20241208T213000
+DTEND;TZID=America/Los_Angeles:20241208T234500
+DTSTAMP:20241209T052300Z
+UID:ci0015312-tt0087363--2024-12-8-21-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
+ s three important rules concerning his new pet and unleashes a horde of ma
+ levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
+ itle/tt0087363/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241208T160000
+DTEND;TZID=America/Los_Angeles:20241208T175000
+DTSTAMP:20241208T235300Z
+UID:ci0015312-tt0104940--2024-12-8-16-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241208T190000
+DTEND;TZID=America/Los_Angeles:20241208T205000
+DTSTAMP:20241209T025300Z
+UID:ci0015312-tt0104940--2024-12-8-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=America/Los_Angeles:20241209T213000
+DTEND;TZID=America/Los_Angeles:20241209T234500
+DTSTAMP:20241210T052300Z
+UID:ci0015312-tt0087363--2024-12-9-21-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
+ s three important rules concerning his new pet and unleashes a horde of ma
+ levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
+ itle/tt0087363/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241209T160000
+DTEND;TZID=America/Los_Angeles:20241209T175000
+DTSTAMP:20241209T235300Z
+UID:ci0015312-tt0104940--2024-12-9-16-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241209T190000
+DTEND;TZID=America/Los_Angeles:20241209T205000
+DTSTAMP:20241210T025300Z
+UID:ci0015312-tt0104940--2024-12-9-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=America/Los_Angeles:20241210T213000
+DTEND;TZID=America/Los_Angeles:20241210T234500
+DTSTAMP:20241211T052300Z
+UID:ci0015312-tt0087363--2024-12-10-21-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
+ s three important rules concerning his new pet and unleashes a horde of ma
+ levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
+ itle/tt0087363/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241210T160000
+DTEND;TZID=America/Los_Angeles:20241210T175000
+DTSTAMP:20241210T235300Z
+UID:ci0015312-tt0104940--2024-12-10-16-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241210T190000
+DTEND;TZID=America/Los_Angeles:20241210T205000
+DTSTAMP:20241211T025300Z
+UID:ci0015312-tt0104940--2024-12-10-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=America/Los_Angeles:20241211T213000
+DTEND;TZID=America/Los_Angeles:20241211T234500
+DTSTAMP:20241212T052300Z
+UID:ci0015312-tt0087363--2024-12-11-21-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
+ s three important rules concerning his new pet and unleashes a horde of ma
+ levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
+ itle/tt0087363/\n\nIMDb rating: 7.3
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241211T160000
+DTEND;TZID=America/Los_Angeles:20241211T175000
+DTSTAMP:20241211T235300Z
+UID:ci0015312-tt0104940--2024-12-11-16-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol (1992)
+DTSTART;TZID=America/Los_Angeles:20241211T190000
+DTEND;TZID=America/Los_Angeles:20241211T205000
+DTSTAMP:20241212T025300Z
+UID:ci0015312-tt0104940--2024-12-11-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
+ kes Christmas\, is visited by spirits who foretell his future and share se
+ crets from his past and present\, which helps change his view on life\n\nh
+ ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jingle All the Way (1996)
+DTSTART;TZID=America/Los_Angeles:20241212T200000
+DTEND;TZID=America/Los_Angeles:20241212T215500
+DTSTAMP:20241213T035300Z
+UID:ci0015312-tt0116705--2024-12-12-20-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA father vows to get his son a T
+ urbo Man action figure for Christmas. However\, every store is sold out\, 
+ and he must travel all over town and compete with everybody else in order 
+ to find one.\n\nhttps://www.imdb.com/title/tt0116705/\n\nIMDb rating: 5.7
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
