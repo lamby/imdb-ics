@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241204T090201Z
+LAST-MODIFIED:20241206T100102Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Female Trouble (1974)
-DTSTART;TZID=America/Los_Angeles:20241204T190000
-DTEND;TZID=America/Los_Angeles:20241204T205500
-DTSTAMP:20241205T025300Z
-UID:ci0005472-tt0072979--2024-12-4-19-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA spoiled schoolgirl runs away f
- rom home\, gets pregnant while hitch-hiking\, and ends up as a fashion mod
- el for a pair of beauticians who like to photograph women committing crime
- s.\n\nhttps://www.imdb.com/title/tt0072979/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hippo
-DTSTART;TZID=America/Los_Angeles:20241204T211500
-DTEND;TZID=America/Los_Angeles:20241204T232000
-DTSTAMP:20241205T050800Z
-UID:ci0005472-tt15468190--2024-12-4-21-15
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nHippo\, a peculiar adolescent\,
-  and his Hungarian step-sister Buttercup struggle to come of age in late 1
- 990s America\, under the roof of a mother who has been institutionalized a
- t least once.\n\nhttps://www.imdb.com/title/tt15468190/\n\nIMDb rating: 7.
- 2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20241205T191500
-DTEND;TZID=America/Los_Angeles:20241205T213000
-DTSTAMP:20241206T030800Z
-UID:ci0005472-tt12818328--2024-12-5-19-15
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20241206T184500
@@ -159,7 +119,7 @@ UID:ci0005472-tt32986910--2024-12-11-19-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nJapanese Metal Band BABYMETAL's
   Concert film which took place in Okinawa\,as a finale of their BABYMETAL 
  WORLD TOUR 2023-2024 at March 24\, 2024.\n\nhttps://www.imdb.com/title/tt3
- 2986910/\n\nIMDb rating: 6.7
+ 2986910/\n\nIMDb rating: 6.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -303,6 +263,58 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
   help a desperately frustrated businessman by showing him what life would 
  have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
  38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241220T190000
+DTEND;TZID=America/Los_Angeles:20241220T213500
+DTSTAMP:20241221T025300Z
+UID:ci0005472-tt0038650--2024-12-20-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241221T153000
+DTEND;TZID=America/Los_Angeles:20241221T180500
+DTSTAMP:20241221T232300Z
+UID:ci0005472-tt0038650--2024-12-21-15-30
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241221T183000
+DTEND;TZID=America/Los_Angeles:20241221T210500
+DTSTAMP:20241222T022300Z
+UID:ci0005472-tt0038650--2024-12-21-18-30
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oh\, Canada
+DTSTART;TZID=America/Los_Angeles:20241221T130000
+DTEND;TZID=America/Los_Angeles:20241221T150000
+DTSTAMP:20241221T205300Z
+UID:ci0005472-tt29994753--2024-12-21-13-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLeonard Fife\, one of sixty thou
+ sand draft evaders and deserters who fled to Canada to avoid serving in Vi
+ etnam\, shares all his secrets to de-mythologize his mythologized life.\n\
+ nhttps://www.imdb.com/title/tt29994753/\n\nIMDb rating: 5.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

@@ -1,44 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241204T090245Z
+LAST-MODIFIED:20241206T100156Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Funeral Parade of Roses (1969)
-DTSTART;TZID=America/Los_Angeles:20241204T193000
-DTEND;TZID=America/Los_Angeles:20241204T214000
-DTSTAMP:20241205T032300Z
-UID:ci1024213-tt0064068--2024-12-4-19-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe trials and tribulations of 
- Eddie and other transvestites in Japan.\n\nhttps://www.imdb.com/title/tt00
- 64068/\n\nIMDb rating: 7.7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shadows of Forgotten Ancestors (1965)
-DTSTART;TZID=America/Los_Angeles:20241204T163000
-DTEND;TZID=America/Los_Angeles:20241204T183500
-DTSTAMP:20241205T002300Z
-UID:ci1024213-tt0058642--2024-12-4-16-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA timeless Carpathian story - th
- e young Ivan falls in love with the daughter of his father's killer among 
- the Hutsul people of Ukraine.\n\nhttps://www.imdb.com/title/tt0058642/\n\n
- IMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funeral Parade of Roses (1969)
-DTSTART;TZID=America/Los_Angeles:20241205T163000
-DTEND;TZID=America/Los_Angeles:20241205T184000
-DTSTAMP:20241206T002300Z
-UID:ci1024213-tt0064068--2024-12-5-16-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe trials and tribulations of 
- Eddie and other transvestites in Japan.\n\nhttps://www.imdb.com/title/tt00
- 64068/\n\nIMDb rating: 7.7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 END:VCALENDAR
