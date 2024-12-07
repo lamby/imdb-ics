@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241206T100102Z
+LAST-MODIFIED:20241207T110625Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20241206T184500
-DTEND;TZID=America/Los_Angeles:20241206T212000
-DTSTAMP:20241207T023800Z
-UID:ci0005472-tt0038650--2024-12-6-18-45
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Night\, Deadly Night (1984)
-DTSTART;TZID=America/Los_Angeles:20241206T213000
-DTEND;TZID=America/Los_Angeles:20241206T231500
-DTSTAMP:20241207T052300Z
-UID:ci0005472-tt0088117--2024-12-6-21-30
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nLittle Billy witnesses his paren
- ts getting killed by Santa after being warned by his senile grandpa that S
- anta punishes those who are naughty. Now Billy is 18 and out of the orphan
- age\, and he has just become Santa himself.\n\nhttps://www.imdb.com/title/
- tt0088117/\n\nIMDb rating: 5.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20241207T160000
@@ -113,13 +86,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babymetal: Legend 43 - The Movie
 DTSTART;TZID=America/Los_Angeles:20241211T190000
-DTEND;TZID=America/Los_Angeles:20241211T212500
+DTEND;TZID=America/Los_Angeles:20241211T205000
 DTSTAMP:20241212T025300Z
 UID:ci0005472-tt32986910--2024-12-11-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nJapanese Metal Band BABYMETAL's
-  Concert film which took place in Okinawa\,as a finale of their BABYMETAL 
- WORLD TOUR 2023-2024 at March 24\, 2024.\n\nhttps://www.imdb.com/title/tt3
- 2986910/\n\nIMDb rating: 6.4
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nJapanese Metal Band BABYMETAL's 
+ Concert film which took place in Okinawa\,as a finale of their BABYMETAL W
+ ORLD TOUR 2023-2024 at March 24\, 2024.\n\nhttps://www.imdb.com/title/tt32
+ 986910/\n\nIMDb rating: 6.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -311,6 +284,45 @@ DTSTART;TZID=America/Los_Angeles:20241221T130000
 DTEND;TZID=America/Los_Angeles:20241221T150000
 DTSTAMP:20241221T205300Z
 UID:ci0005472-tt29994753--2024-12-21-13-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLeonard Fife\, one of sixty thou
+ sand draft evaders and deserters who fled to Canada to avoid serving in Vi
+ etnam\, shares all his secrets to de-mythologize his mythologized life.\n\
+ nhttps://www.imdb.com/title/tt29994753/\n\nIMDb rating: 5.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241222T160000
+DTEND;TZID=America/Los_Angeles:20241222T183500
+DTSTAMP:20241222T235300Z
+UID:ci0005472-tt0038650--2024-12-22-16-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241222T190000
+DTEND;TZID=America/Los_Angeles:20241222T213500
+DTSTAMP:20241223T025300Z
+UID:ci0005472-tt0038650--2024-12-22-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oh\, Canada
+DTSTART;TZID=America/Los_Angeles:20241222T133000
+DTEND;TZID=America/Los_Angeles:20241222T153000
+DTSTAMP:20241222T212300Z
+UID:ci0005472-tt29994753--2024-12-22-13-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLeonard Fife\, one of sixty thou
  sand draft evaders and deserters who fled to Canada to avoid serving in Vi
  etnam\, shares all his secrets to de-mythologize his mythologized life.\n\

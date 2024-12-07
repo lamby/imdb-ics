@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241206T100407Z
+LAST-MODIFIED:20241207T110828Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Rainier: A Beer Odyssey
-DTSTART;TZID=America/Los_Angeles:20241206T070000
-DTEND;TZID=America/Los_Angeles:20241206T093000
-DTSTAMP:20241206T145300Z
-UID:ci16639652-tt32141038--2024-12-6-7-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
- roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
- \nhttps://www.imdb.com/title/tt32141038/\n\nIMDb rating: 8.3
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All We Carry/Lo Que Llevamos
 DTSTART;TZID=America/Los_Angeles:20241207T050000

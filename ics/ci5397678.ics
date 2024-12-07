@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241206T100429Z
+LAST-MODIFIED:20241207T110843Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20241206T153000
-DTEND;TZID=America/Los_Angeles:20241206T183500
-DTSTAMP:20241206T232300Z
-UID:ci5397678-tt1262426--2024-12-6-15-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20241206T193000
-DTEND;TZID=America/Los_Angeles:20241206T223500
-DTSTAMP:20241207T032300Z
-UID:ci5397678-tt1262426--2024-12-6-19-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
 DTSTART;TZID=America/Los_Angeles:20241207T113000
@@ -479,6 +451,45 @@ DTSTART;TZID=America/Los_Angeles:20241221T190000
 DTEND;TZID=America/Los_Angeles:20241221T212500
 DTSTAMP:20241222T025300Z
 UID:ci5397678-tt13186482--2024-12-21-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20241222T120000
+DTEND;TZID=America/Los_Angeles:20241222T142500
+DTSTAMP:20241222T195300Z
+UID:ci5397678-tt13186482--2024-12-22-12-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20241222T153000
+DTEND;TZID=America/Los_Angeles:20241222T175500
+DTSTAMP:20241222T232300Z
+UID:ci5397678-tt13186482--2024-12-22-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20241222T190000
+DTEND;TZID=America/Los_Angeles:20241222T212500
+DTSTAMP:20241223T025300Z
+UID:ci5397678-tt13186482--2024-12-22-19-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
