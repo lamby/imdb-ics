@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241207T110625Z
+LAST-MODIFIED:20241208T093033Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20241207T160000
-DTEND;TZID=America/Los_Angeles:20241207T183500
-DTSTAMP:20241207T235300Z
-UID:ci0005472-tt0038650--2024-12-7-16-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man (1949)
-DTSTART;TZID=America/Los_Angeles:20241207T190000
-DTEND;TZID=America/Los_Angeles:20241207T210000
-DTSTAMP:20241208T025300Z
-UID:ci0005472-tt0041959--2024-12-7-19-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nPulp novelist Holly Martins trav
- els to shadowy\, postwar Vienna\, only to find himself investigating the m
- ysterious death of an old friend\, Harry Lime.\n\nhttps://www.imdb.com/tit
- le/tt0041959/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hundreds of Beavers (2022)
 DTSTART;TZID=America/Los_Angeles:20241208T180000
@@ -327,6 +301,19 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nLeonard Fife\, one of sixty thou
  sand draft evaders and deserters who fled to Canada to avoid serving in Vi
  etnam\, shares all his secrets to de-mythologize his mythologized life.\n\
  nhttps://www.imdb.com/title/tt29994753/\n\nIMDb rating: 5.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life (1946)
+DTSTART;TZID=America/Los_Angeles:20241223T190000
+DTEND;TZID=America/Los_Angeles:20241223T213500
+DTSTAMP:20241224T025300Z
+UID:ci0005472-tt0038650--2024-12-23-19-0
+DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
+  help a desperately frustrated businessman by showing him what life would 
+ have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
+ 38650/\n\nIMDb rating: 8.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
