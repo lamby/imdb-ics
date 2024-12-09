@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241208T094013Z
+LAST-MODIFIED:20241209T090426Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gasoline Rainbow
-DTSTART;TZID=America/Los_Angeles:20241208T050000
-DTEND;TZID=America/Los_Angeles:20241208T072000
-DTSTAMP:20241208T125300Z
-UID:ci16639652-tt28494031--2024-12-8-5-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nFollows 5 teenagers from small-
- town Oregon who\, with high school in the rearview\, decide to embark on o
- ne last adventure: to make it to a place they've never been -the Pacific c
- oast\, 500 miles away. Their plan\, in full: &quot\;F**k it.&quot\;\n\nhtt
- ps://www.imdb.com/title/tt28494031/\n\nIMDb rating: 6.3
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Sacrifice (1986)
 DTSTART;TZID=America/Los_Angeles:20241213T153000
