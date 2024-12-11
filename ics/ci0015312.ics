@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241210T100657Z
+LAST-MODIFIED:20241211T090225Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gremlins (1984)
-DTSTART;TZID=America/Los_Angeles:20241210T213000
-DTEND;TZID=America/Los_Angeles:20241210T234500
-DTSTAMP:20241211T052300Z
-UID:ci0015312-tt0087363--2024-12-10-21-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
- s three important rules concerning his new pet and unleashes a horde of ma
- levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
- itle/tt0087363/\n\nIMDb rating: 7.3
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol (1992)
-DTSTART;TZID=America/Los_Angeles:20241210T160000
-DTEND;TZID=America/Los_Angeles:20241210T175000
-DTSTAMP:20241210T235300Z
-UID:ci0015312-tt0104940--2024-12-10-16-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
- kes Christmas\, is visited by spirits who foretell his future and share se
- crets from his past and present\, which helps change his view on life\n\nh
- ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol (1992)
-DTSTART;TZID=America/Los_Angeles:20241210T190000
-DTEND;TZID=America/Los_Angeles:20241210T205000
-DTSTAMP:20241211T025300Z
-UID:ci0015312-tt0104940--2024-12-10-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
- kes Christmas\, is visited by spirits who foretell his future and share se
- crets from his past and present\, which helps change his view on life\n\nh
- ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gremlins (1984)
 DTSTART;TZID=America/Los_Angeles:20241211T213000
@@ -92,6 +53,238 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA father vows to get his son a T
  urbo Man action figure for Christmas. However\, every store is sold out\, 
  and he must travel all over town and compete with everybody else in order 
  to find one.\n\nhttps://www.imdb.com/title/tt0116705/\n\nIMDb rating: 5.7
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241213T160000
+DTEND;TZID=America/Los_Angeles:20241213T180500
+DTSTAMP:20241213T235300Z
+UID:ci0015312-tt0319343--2024-12-13-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241213T190000
+DTEND;TZID=America/Los_Angeles:20241213T210500
+DTSTAMP:20241214T025300Z
+UID:ci0015312-tt0319343--2024-12-13-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Godfathers (2003)
+DTSTART;TZID=America/Los_Angeles:20241213T213000
+DTEND;TZID=America/Los_Angeles:20241213T233000
+DTSTAMP:20241214T052300Z
+UID:ci0015312-tt0388473--2024-12-13-21-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nOn Christmas Eve\, three homeles
+ s people living on the streets of Tokyo discover a newborn baby among the 
+ trash and set out to find its parents.\n\nhttps://www.imdb.com/title/tt038
+ 8473/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241214T160000
+DTEND;TZID=America/Los_Angeles:20241214T180500
+DTSTAMP:20241214T235300Z
+UID:ci0015312-tt0319343--2024-12-14-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241214T190000
+DTEND;TZID=America/Los_Angeles:20241214T210500
+DTSTAMP:20241215T025300Z
+UID:ci0015312-tt0319343--2024-12-14-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Godfathers (2003)
+DTSTART;TZID=America/Los_Angeles:20241214T213000
+DTEND;TZID=America/Los_Angeles:20241214T233000
+DTSTAMP:20241215T052300Z
+UID:ci0015312-tt0388473--2024-12-14-21-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nOn Christmas Eve\, three homeles
+ s people living on the streets of Tokyo discover a newborn baby among the 
+ trash and set out to find its parents.\n\nhttps://www.imdb.com/title/tt038
+ 8473/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241215T160000
+DTEND;TZID=America/Los_Angeles:20241215T180500
+DTSTAMP:20241215T235300Z
+UID:ci0015312-tt0319343--2024-12-15-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241215T190000
+DTEND;TZID=America/Los_Angeles:20241215T210500
+DTSTAMP:20241216T025300Z
+UID:ci0015312-tt0319343--2024-12-15-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Godfathers (2003)
+DTSTART;TZID=America/Los_Angeles:20241215T213000
+DTEND;TZID=America/Los_Angeles:20241215T233000
+DTSTAMP:20241216T052300Z
+UID:ci0015312-tt0388473--2024-12-15-21-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nOn Christmas Eve\, three homeles
+ s people living on the streets of Tokyo discover a newborn baby among the 
+ trash and set out to find its parents.\n\nhttps://www.imdb.com/title/tt038
+ 8473/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241216T160000
+DTEND;TZID=America/Los_Angeles:20241216T180500
+DTSTAMP:20241216T235300Z
+UID:ci0015312-tt0319343--2024-12-16-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241216T190000
+DTEND;TZID=America/Los_Angeles:20241216T210500
+DTSTAMP:20241217T025300Z
+UID:ci0015312-tt0319343--2024-12-16-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Godfathers (2003)
+DTSTART;TZID=America/Los_Angeles:20241216T213000
+DTEND;TZID=America/Los_Angeles:20241216T233000
+DTSTAMP:20241217T052300Z
+UID:ci0015312-tt0388473--2024-12-16-21-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nOn Christmas Eve\, three homeles
+ s people living on the streets of Tokyo discover a newborn baby among the 
+ trash and set out to find its parents.\n\nhttps://www.imdb.com/title/tt038
+ 8473/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241217T160000
+DTEND;TZID=America/Los_Angeles:20241217T180500
+DTSTAMP:20241217T235300Z
+UID:ci0015312-tt0319343--2024-12-17-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241217T190000
+DTEND;TZID=America/Los_Angeles:20241217T210500
+DTSTAMP:20241218T025300Z
+UID:ci0015312-tt0319343--2024-12-17-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Godfathers (2003)
+DTSTART;TZID=America/Los_Angeles:20241217T213000
+DTEND;TZID=America/Los_Angeles:20241217T233000
+DTSTAMP:20241218T052300Z
+UID:ci0015312-tt0388473--2024-12-17-21-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nOn Christmas Eve\, three homeles
+ s people living on the streets of Tokyo discover a newborn baby among the 
+ trash and set out to find its parents.\n\nhttps://www.imdb.com/title/tt038
+ 8473/\n\nIMDb rating: 7.8
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241218T160000
+DTEND;TZID=America/Los_Angeles:20241218T180500
+DTSTAMP:20241218T235300Z
+UID:ci0015312-tt0319343--2024-12-18-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Comet (1984)
+DTSTART;TZID=America/Los_Angeles:20241219T200000
+DTEND;TZID=America/Los_Angeles:20241219T220000
+DTSTAMP:20241220T035300Z
+UID:ci0015312-tt0087799--2024-12-19-20-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA comet wipes out most of life o
+ n Earth\, leaving two Valley Girls fighting against cannibal zombies and a
+  sinister group of scientists.\n\nhttps://www.imdb.com/title/tt0087799/\n\
+ nIMDb rating: 6.3
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT

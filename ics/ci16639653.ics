@@ -1,77 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241210T100540Z
+LAST-MODIFIED:20241211T090049Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241210T161500
-DTEND;TZID=America/Los_Angeles:20241210T181000
-DTSTAMP:20241211T000800Z
-UID:ci16639653-tt21823606--2024-12-10-16-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow
-DTSTART;TZID=America/Los_Angeles:20241210T163000
-DTEND;TZID=America/Los_Angeles:20241210T182000
-DTSTAMP:20241211T002300Z
-UID:ci16639653-tt4772188--2024-12-10-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
- s its home is devastated by a great flood\, he finds refuge on a boat popu
- lated by various species\, and will have to team up with them despite thei
- r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow
-DTSTART;TZID=America/Los_Angeles:20241210T194500
-DTEND;TZID=America/Los_Angeles:20241210T213500
-DTSTAMP:20241211T033800Z
-UID:ci16639653-tt4772188--2024-12-10-19-45
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
- s its home is devastated by a great flood\, he finds refuge on a boat popu
- lated by various species\, and will have to team up with them despite thei
- r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer
-DTSTART;TZID=America/Los_Angeles:20241210T160000
-DTEND;TZID=America/Los_Angeles:20241210T184500
-DTSTAMP:20241210T235300Z
-UID:ci16639653-tt24176060--2024-12-10-16-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
- can ex-pat in his late forties leads a solitary life amidst a small Americ
- an community. However\, the arrival of a young student stirs the man into 
- finally establishing a meaningful connection with som...\n\nhttps://www.im
- db.com/title/tt24176060/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer
-DTSTART;TZID=America/Los_Angeles:20241210T190000
-DTEND;TZID=America/Los_Angeles:20241210T214500
-DTSTAMP:20241211T025300Z
-UID:ci16639653-tt24176060--2024-12-10-19-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
- can ex-pat in his late forties leads a solitary life amidst a small Americ
- an community. However\, the arrival of a young student stirs the man into 
- finally establishing a meaningful connection with som...\n\nhttps://www.im
- db.com/title/tt24176060/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=America/Los_Angeles:20241211T161500
@@ -106,7 +38,7 @@ DTSTART;TZID=America/Los_Angeles:20241211T163000
 DTEND;TZID=America/Los_Angeles:20241211T182000
 DTSTAMP:20241212T002300Z
 UID:ci16639653-tt4772188--2024-12-11-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
  s its home is devastated by a great flood\, he finds refuge on a boat popu
  lated by various species\, and will have to team up with them despite thei
  r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
@@ -119,7 +51,7 @@ DTSTART;TZID=America/Los_Angeles:20241211T194500
 DTEND;TZID=America/Los_Angeles:20241211T213500
 DTSTAMP:20241212T033800Z
 UID:ci16639653-tt4772188--2024-12-11-19-45
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
  s its home is devastated by a great flood\, he finds refuge on a boat popu
  lated by various species\, and will have to team up with them despite thei
  r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
@@ -132,7 +64,7 @@ DTSTART;TZID=America/Los_Angeles:20241211T160000
 DTEND;TZID=America/Los_Angeles:20241211T184500
 DTSTAMP:20241211T235300Z
 UID:ci16639653-tt24176060--2024-12-11-16-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -146,7 +78,7 @@ DTSTART;TZID=America/Los_Angeles:20241211T190000
 DTEND;TZID=America/Los_Angeles:20241211T214500
 DTSTAMP:20241212T025300Z
 UID:ci16639653-tt24176060--2024-12-11-19-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -188,7 +120,7 @@ DTSTART;TZID=America/Los_Angeles:20241212T163000
 DTEND;TZID=America/Los_Angeles:20241212T182000
 DTSTAMP:20241213T002300Z
 UID:ci16639653-tt4772188--2024-12-12-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
  s its home is devastated by a great flood\, he finds refuge on a boat popu
  lated by various species\, and will have to team up with them despite thei
  r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
@@ -201,7 +133,7 @@ DTSTART;TZID=America/Los_Angeles:20241212T194500
 DTEND;TZID=America/Los_Angeles:20241212T213500
 DTSTAMP:20241213T033800Z
 UID:ci16639653-tt4772188--2024-12-12-19-45
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCat is a solitary animal\, but a
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
  s its home is devastated by a great flood\, he finds refuge on a boat popu
  lated by various species\, and will have to team up with them despite thei
  r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
@@ -214,7 +146,7 @@ DTSTART;TZID=America/Los_Angeles:20241212T160000
 DTEND;TZID=America/Los_Angeles:20241212T184500
 DTSTAMP:20241212T235300Z
 UID:ci16639653-tt24176060--2024-12-12-16-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -228,11 +160,65 @@ DTSTART;TZID=America/Los_Angeles:20241212T190000
 DTEND;TZID=America/Los_Angeles:20241212T214500
 DTSTAMP:20241213T025300Z
 UID:ci16639653-tt24176060--2024-12-12-19-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241213T190000
+DTEND;TZID=America/Los_Angeles:20241213T205500
+DTSTAMP:20241214T025300Z
+UID:ci16639653-tt21823606--2024-12-13-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241213T160000
+DTEND;TZID=America/Los_Angeles:20241213T182500
+DTSTAMP:20241213T235300Z
+UID:ci16639653-tt32086077--2024-12-13-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241213T164500
+DTEND;TZID=America/Los_Angeles:20241213T183500
+DTSTAMP:20241214T003800Z
+UID:ci16639653-tt4772188--2024-12-13-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241213T194500
+DTEND;TZID=America/Los_Angeles:20241213T213500
+DTSTAMP:20241214T033800Z
+UID:ci16639653-tt4772188--2024-12-13-19-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -242,7 +228,7 @@ DTSTART;TZID=America/Los_Angeles:20241213T161500
 DTEND;TZID=America/Los_Angeles:20241213T190000
 DTSTAMP:20241214T000800Z
 UID:ci16639653-tt24176060--2024-12-13-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -256,11 +242,39 @@ DTSTART;TZID=America/Los_Angeles:20241213T191500
 DTEND;TZID=America/Los_Angeles:20241213T220000
 DTSTAMP:20241214T030800Z
 UID:ci16639653-tt24176060--2024-12-13-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241214T133000
+DTEND;TZID=America/Los_Angeles:20241214T152500
+DTSTAMP:20241214T212300Z
+UID:ci16639653-tt21823606--2024-12-14-13-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241214T190000
+DTEND;TZID=America/Los_Angeles:20241214T212500
+DTSTAMP:20241215T025300Z
+UID:ci16639653-tt32086077--2024-12-14-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -279,12 +293,51 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241214T140000
+DTEND;TZID=America/Los_Angeles:20241214T155000
+DTSTAMP:20241214T215300Z
+UID:ci16639653-tt4772188--2024-12-14-14-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241214T164500
+DTEND;TZID=America/Los_Angeles:20241214T183500
+DTSTAMP:20241215T003800Z
+UID:ci16639653-tt4772188--2024-12-14-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241214T194500
+DTEND;TZID=America/Los_Angeles:20241214T213500
+DTSTAMP:20241215T033800Z
+UID:ci16639653-tt4772188--2024-12-14-19-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Queer
 DTSTART;TZID=America/Los_Angeles:20241214T131500
 DTEND;TZID=America/Los_Angeles:20241214T160000
 DTSTAMP:20241214T210800Z
 UID:ci16639653-tt24176060--2024-12-14-13-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -298,7 +351,7 @@ DTSTART;TZID=America/Los_Angeles:20241214T161500
 DTEND;TZID=America/Los_Angeles:20241214T190000
 DTSTAMP:20241215T000800Z
 UID:ci16639653-tt24176060--2024-12-14-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -312,11 +365,78 @@ DTSTART;TZID=America/Los_Angeles:20241214T191500
 DTEND;TZID=America/Los_Angeles:20241214T220000
 DTSTAMP:20241215T030800Z
 UID:ci16639653-tt24176060--2024-12-14-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241215T190000
+DTEND;TZID=America/Los_Angeles:20241215T205500
+DTSTAMP:20241216T025300Z
+UID:ci16639653-tt21823606--2024-12-15-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241215T160000
+DTEND;TZID=America/Los_Angeles:20241215T182500
+DTSTAMP:20241215T235300Z
+UID:ci16639653-tt32086077--2024-12-15-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241215T140000
+DTEND;TZID=America/Los_Angeles:20241215T155000
+DTSTAMP:20241215T215300Z
+UID:ci16639653-tt4772188--2024-12-15-14-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241215T164500
+DTEND;TZID=America/Los_Angeles:20241215T183500
+DTSTAMP:20241216T003800Z
+UID:ci16639653-tt4772188--2024-12-15-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241215T194500
+DTEND;TZID=America/Los_Angeles:20241215T213500
+DTSTAMP:20241216T033800Z
+UID:ci16639653-tt4772188--2024-12-15-19-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -326,7 +446,7 @@ DTSTART;TZID=America/Los_Angeles:20241215T131500
 DTEND;TZID=America/Los_Angeles:20241215T160000
 DTSTAMP:20241215T210800Z
 UID:ci16639653-tt24176060--2024-12-15-13-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -340,7 +460,7 @@ DTSTART;TZID=America/Los_Angeles:20241215T161500
 DTEND;TZID=America/Los_Angeles:20241215T190000
 DTSTAMP:20241216T000800Z
 UID:ci16639653-tt24176060--2024-12-15-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -354,11 +474,65 @@ DTSTART;TZID=America/Los_Angeles:20241215T191500
 DTEND;TZID=America/Los_Angeles:20241215T220000
 DTSTAMP:20241216T030800Z
 UID:ci16639653-tt24176060--2024-12-15-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241216T160000
+DTEND;TZID=America/Los_Angeles:20241216T175500
+DTSTAMP:20241216T235300Z
+UID:ci16639653-tt21823606--2024-12-16-16-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241216T190000
+DTEND;TZID=America/Los_Angeles:20241216T212500
+DTSTAMP:20241217T025300Z
+UID:ci16639653-tt32086077--2024-12-16-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241216T164500
+DTEND;TZID=America/Los_Angeles:20241216T183500
+DTSTAMP:20241217T003800Z
+UID:ci16639653-tt4772188--2024-12-16-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241216T194500
+DTEND;TZID=America/Los_Angeles:20241216T213500
+DTSTAMP:20241217T033800Z
+UID:ci16639653-tt4772188--2024-12-16-19-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -368,7 +542,7 @@ DTSTART;TZID=America/Los_Angeles:20241216T161500
 DTEND;TZID=America/Los_Angeles:20241216T190000
 DTSTAMP:20241217T000800Z
 UID:ci16639653-tt24176060--2024-12-16-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -382,11 +556,51 @@ DTSTART;TZID=America/Los_Angeles:20241216T191500
 DTEND;TZID=America/Los_Angeles:20241216T220000
 DTSTAMP:20241217T030800Z
 UID:ci16639653-tt24176060--2024-12-16-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241217T160000
+DTEND;TZID=America/Los_Angeles:20241217T182500
+DTSTAMP:20241217T235300Z
+UID:ci16639653-tt32086077--2024-12-17-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241217T164500
+DTEND;TZID=America/Los_Angeles:20241217T183500
+DTSTAMP:20241218T003800Z
+UID:ci16639653-tt4772188--2024-12-17-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241217T194500
+DTEND;TZID=America/Los_Angeles:20241217T213500
+DTSTAMP:20241218T033800Z
+UID:ci16639653-tt4772188--2024-12-17-19-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -396,7 +610,7 @@ DTSTART;TZID=America/Los_Angeles:20241217T161500
 DTEND;TZID=America/Los_Angeles:20241217T190000
 DTSTAMP:20241218T000800Z
 UID:ci16639653-tt24176060--2024-12-17-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -410,11 +624,65 @@ DTSTART;TZID=America/Los_Angeles:20241217T191500
 DTEND;TZID=America/Los_Angeles:20241217T220000
 DTSTAMP:20241218T030800Z
 UID:ci16639653-tt24176060--2024-12-17-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241218T160000
+DTEND;TZID=America/Los_Angeles:20241218T175500
+DTSTAMP:20241218T235300Z
+UID:ci16639653-tt21823606--2024-12-18-16-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241218T190000
+DTEND;TZID=America/Los_Angeles:20241218T212500
+DTSTAMP:20241219T025300Z
+UID:ci16639653-tt32086077--2024-12-18-19-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241218T164500
+DTEND;TZID=America/Los_Angeles:20241218T183500
+DTSTAMP:20241219T003800Z
+UID:ci16639653-tt4772188--2024-12-18-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241218T194500
+DTEND;TZID=America/Los_Angeles:20241218T213500
+DTSTAMP:20241219T033800Z
+UID:ci16639653-tt4772188--2024-12-18-19-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -424,7 +692,7 @@ DTSTART;TZID=America/Los_Angeles:20241218T161500
 DTEND;TZID=America/Los_Angeles:20241218T190000
 DTSTAMP:20241219T000800Z
 UID:ci16639653-tt24176060--2024-12-18-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -438,11 +706,65 @@ DTSTART;TZID=America/Los_Angeles:20241218T191500
 DTEND;TZID=America/Los_Angeles:20241218T220000
 DTSTAMP:20241219T030800Z
 UID:ci16639653-tt24176060--2024-12-18-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20241219T190000
+DTEND;TZID=America/Los_Angeles:20241219T205500
+DTSTAMP:20241220T025300Z
+UID:ci16639653-tt21823606--2024-12-19-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother. The adventure tak
+ es a turn when the odd-couple's old tensions resurface against the backdro
+ p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
+ Db rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All We Imagine as Light
+DTSTART;TZID=America/Los_Angeles:20241219T160000
+DTEND;TZID=America/Los_Angeles:20241219T182500
+DTSTAMP:20241219T235300Z
+UID:ci16639653-tt32086077--2024-12-19-16-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
+ ine is troubled when she receives an unexpected gift from her estranged hu
+ sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
+ ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
+ 6077/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241219T164500
+DTEND;TZID=America/Los_Angeles:20241219T183500
+DTSTAMP:20241220T003800Z
+UID:ci16639653-tt4772188--2024-12-19-16-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20241219T194500
+DTEND;TZID=America/Los_Angeles:20241219T213500
+DTSTAMP:20241220T033800Z
+UID:ci16639653-tt4772188--2024-12-19-19-45
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -452,7 +774,7 @@ DTSTART;TZID=America/Los_Angeles:20241219T161500
 DTEND;TZID=America/Los_Angeles:20241219T190000
 DTSTAMP:20241220T000800Z
 UID:ci16639653-tt24176060--2024-12-19-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
@@ -466,11 +788,67 @@ DTSTART;TZID=America/Los_Angeles:20241219T191500
 DTEND;TZID=America/Los_Angeles:20241219T220000
 DTSTAMP:20241220T030800Z
 UID:ci16639653-tt24176060--2024-12-19-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
  can ex-pat in his late forties leads a solitary life amidst a small Americ
  an community. However\, the arrival of a young student stirs the man into 
  finally establishing a meaningful connection with som...\n\nhttps://www.im
  db.com/title/tt24176060/\n\nIMDb rating: 6.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241224T160000
+DTEND;TZID=America/Los_Angeles:20241224T185000
+DTSTAMP:20241224T235300Z
+UID:ci16639653-tt11563598--2024-12-24-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241224T190000
+DTEND;TZID=America/Los_Angeles:20241224T215000
+DTSTAMP:20241225T025300Z
+UID:ci16639653-tt11563598--2024-12-24-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241225T160000
+DTEND;TZID=America/Los_Angeles:20241225T185000
+DTSTAMP:20241225T235300Z
+UID:ci16639653-tt11563598--2024-12-25-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241225T190000
+DTEND;TZID=America/Los_Angeles:20241225T215000
+DTSTAMP:20241226T025300Z
+UID:ci16639653-tt11563598--2024-12-25-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -507,6 +885,87 @@ DTSTART;TZID=America/Los_Angeles:20241225T191500
 DTEND;TZID=America/Los_Angeles:20241225T215500
 DTSTAMP:20241226T030800Z
 UID:ci16639653-tt5040012--2024-12-25-19-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241226T130000
+DTEND;TZID=America/Los_Angeles:20241226T155000
+DTSTAMP:20241226T205300Z
+UID:ci16639653-tt11563598--2024-12-26-13-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241226T160000
+DTEND;TZID=America/Los_Angeles:20241226T185000
+DTSTAMP:20241226T235300Z
+UID:ci16639653-tt11563598--2024-12-26-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241226T190000
+DTEND;TZID=America/Los_Angeles:20241226T215000
+DTSTAMP:20241227T025300Z
+UID:ci16639653-tt11563598--2024-12-26-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20241226T131500
+DTEND;TZID=America/Los_Angeles:20241226T155500
+DTSTAMP:20241226T210800Z
+UID:ci16639653-tt5040012--2024-12-26-13-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20241226T161500
+DTEND;TZID=America/Los_Angeles:20241226T185500
+DTSTAMP:20241227T000800Z
+UID:ci16639653-tt5040012--2024-12-26-16-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20241226T191500
+DTEND;TZID=America/Los_Angeles:20241226T215500
+DTSTAMP:20241227T030800Z
+UID:ci16639653-tt5040012--2024-12-26-19-15
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
