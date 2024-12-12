@@ -1,91 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241211T090049Z
+LAST-MODIFIED:20241212T081859Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=America/Los_Angeles:20241211T161500
-DTEND;TZID=America/Los_Angeles:20241211T181000
-DTSTAMP:20241212T000800Z
-UID:ci16639653-tt21823606--2024-12-11-16-15
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother. The adventure tak
- es a turn when the odd-couple's old tensions resurface against the backdro
- p of their family history.\n\nhttps://www.imdb.com/title/tt21823606/\n\nIM
- Db rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All We Imagine as Light
-DTSTART;TZID=America/Los_Angeles:20241211T191500
-DTEND;TZID=America/Los_Angeles:20241211T214000
-DTSTAMP:20241212T030800Z
-UID:ci16639653-tt32086077--2024-12-11-19-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn Mumbai\, Nurse Prabha's rout
- ine is troubled when she receives an unexpected gift from her estranged hu
- sband. Her younger roommate\, Anu\, tries in vain to find a spot in the ci
- ty to be intimate with her boyfriend.\n\nhttps://www.imdb.com/title/tt3208
- 6077/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow
-DTSTART;TZID=America/Los_Angeles:20241211T163000
-DTEND;TZID=America/Los_Angeles:20241211T182000
-DTSTAMP:20241212T002300Z
-UID:ci16639653-tt4772188--2024-12-11-16-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
- s its home is devastated by a great flood\, he finds refuge on a boat popu
- lated by various species\, and will have to team up with them despite thei
- r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow
-DTSTART;TZID=America/Los_Angeles:20241211T194500
-DTEND;TZID=America/Los_Angeles:20241211T213500
-DTSTAMP:20241212T033800Z
-UID:ci16639653-tt4772188--2024-12-11-19-45
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
- s its home is devastated by a great flood\, he finds refuge on a boat popu
- lated by various species\, and will have to team up with them despite thei
- r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer
-DTSTART;TZID=America/Los_Angeles:20241211T160000
-DTEND;TZID=America/Los_Angeles:20241211T184500
-DTSTAMP:20241211T235300Z
-UID:ci16639653-tt24176060--2024-12-11-16-0
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
- can ex-pat in his late forties leads a solitary life amidst a small Americ
- an community. However\, the arrival of a young student stirs the man into 
- finally establishing a meaningful connection with som...\n\nhttps://www.im
- db.com/title/tt24176060/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer
-DTSTART;TZID=America/Los_Angeles:20241211T190000
-DTEND;TZID=America/Los_Angeles:20241211T214500
-DTSTAMP:20241212T025300Z
-UID:ci16639653-tt24176060--2024-12-11-19-0
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nIn 1950s Mexico City\, an Ameri
- can ex-pat in his late forties leads a solitary life amidst a small Americ
- an community. However\, the arrival of a young student stirs the man into 
- finally establishing a meaningful connection with som...\n\nhttps://www.im
- db.com/title/tt24176060/\n\nIMDb rating: 6.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All We Imagine as Light
 DTSTART;TZID=America/Los_Angeles:20241212T161500
@@ -853,6 +771,30 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241225T163000
+DTEND;TZID=America/Los_Angeles:20241225T185000
+DTSTAMP:20241226T002300Z
+UID:ci16639653-tt30057084--2024-12-25-16-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241225T193000
+DTEND;TZID=America/Los_Angeles:20241225T215000
+DTSTAMP:20241226T032300Z
+UID:ci16639653-tt30057084--2024-12-25-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fiddler on the Roof (1971)
 DTSTART;TZID=America/Los_Angeles:20241225T120000
 DTEND;TZID=America/Los_Angeles:20241225T153000
@@ -935,6 +877,42 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241226T133000
+DTEND;TZID=America/Los_Angeles:20241226T155000
+DTSTAMP:20241226T212300Z
+UID:ci16639653-tt30057084--2024-12-26-13-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241226T163000
+DTEND;TZID=America/Los_Angeles:20241226T185000
+DTSTAMP:20241227T002300Z
+UID:ci16639653-tt30057084--2024-12-26-16-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241226T193000
+DTEND;TZID=America/Los_Angeles:20241226T215000
+DTSTAMP:20241227T032300Z
+UID:ci16639653-tt30057084--2024-12-26-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nosferatu
 DTSTART;TZID=America/Los_Angeles:20241226T131500
 DTEND;TZID=America/Los_Angeles:20241226T155500
@@ -966,6 +944,123 @@ DTSTART;TZID=America/Los_Angeles:20241226T191500
 DTEND;TZID=America/Los_Angeles:20241226T215500
 DTSTAMP:20241227T030800Z
 UID:ci16639653-tt5040012--2024-12-26-19-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241227T130000
+DTEND;TZID=America/Los_Angeles:20241227T155000
+DTSTAMP:20241227T205300Z
+UID:ci16639653-tt11563598--2024-12-27-13-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241227T160000
+DTEND;TZID=America/Los_Angeles:20241227T185000
+DTSTAMP:20241227T235300Z
+UID:ci16639653-tt11563598--2024-12-27-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20241227T190000
+DTEND;TZID=America/Los_Angeles:20241227T215000
+DTSTAMP:20241228T025300Z
+UID:ci16639653-tt11563598--2024-12-27-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nAt the Newport Folk Festival in
+  1965\, a young Bob Dylan shakes up his act on the folk music scene by goi
+ ng electric and siring rock as the voice of a generation - defining one of
+  the most transformative moments in 20th century music.\n\nhttps://www.imd
+ b.com/title/tt11563598/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241227T133000
+DTEND;TZID=America/Los_Angeles:20241227T155000
+DTSTAMP:20241227T212300Z
+UID:ci16639653-tt30057084--2024-12-27-13-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241227T163000
+DTEND;TZID=America/Los_Angeles:20241227T185000
+DTSTAMP:20241228T002300Z
+UID:ci16639653-tt30057084--2024-12-27-16-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20241227T193000
+DTEND;TZID=America/Los_Angeles:20241227T215000
+DTSTAMP:20241228T032300Z
+UID:ci16639653-tt30057084--2024-12-27-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20241227T131500
+DTEND;TZID=America/Los_Angeles:20241227T155500
+DTSTAMP:20241227T210800Z
+UID:ci16639653-tt5040012--2024-12-27-13-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20241227T161500
+DTEND;TZID=America/Los_Angeles:20241227T185500
+DTSTAMP:20241228T000800Z
+UID:ci16639653-tt5040012--2024-12-27-16-15
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20241227T191500
+DTEND;TZID=America/Los_Angeles:20241227T215500
+DTSTAMP:20241228T030800Z
+UID:ci16639653-tt5040012--2024-12-27-19-15
 DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001

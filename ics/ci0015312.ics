@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241211T090225Z
+LAST-MODIFIED:20241212T082013Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gremlins (1984)
-DTSTART;TZID=America/Los_Angeles:20241211T213000
-DTEND;TZID=America/Los_Angeles:20241211T234500
-DTSTAMP:20241212T052300Z
-UID:ci0015312-tt0087363--2024-12-11-21-30
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
- s three important rules concerning his new pet and unleashes a horde of ma
- levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
- itle/tt0087363/\n\nIMDb rating: 7.3
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol (1992)
-DTSTART;TZID=America/Los_Angeles:20241211T160000
-DTEND;TZID=America/Los_Angeles:20241211T175000
-DTSTAMP:20241211T235300Z
-UID:ci0015312-tt0104940--2024-12-11-16-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
- kes Christmas\, is visited by spirits who foretell his future and share se
- crets from his past and present\, which helps change his view on life\n\nh
- ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol (1992)
-DTSTART;TZID=America/Los_Angeles:20241211T190000
-DTEND;TZID=America/Los_Angeles:20241211T205000
-DTSTAMP:20241212T025300Z
-UID:ci0015312-tt0104940--2024-12-11-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nScrooge\, an old miser who disli
- kes Christmas\, is visited by spirits who foretell his future and share se
- crets from his past and present\, which helps change his view on life\n\nh
- ttps://www.imdb.com/title/tt0104940/\n\nIMDb rating: 7.8
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jingle All the Way (1996)
 DTSTART;TZID=America/Los_Angeles:20241212T200000
