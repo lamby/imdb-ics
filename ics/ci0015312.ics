@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241212T082013Z
+LAST-MODIFIED:20241213T102201Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Jingle All the Way (1996)
-DTSTART;TZID=America/Los_Angeles:20241212T200000
-DTEND;TZID=America/Los_Angeles:20241212T215500
-DTSTAMP:20241213T035300Z
-UID:ci0015312-tt0116705--2024-12-12-20-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA father vows to get his son a T
- urbo Man action figure for Christmas. However\, every store is sold out\, 
- and he must travel all over town and compete with everybody else in order 
- to find one.\n\nhttps://www.imdb.com/title/tt0116705/\n\nIMDb rating: 5.7
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elf (2003)
 DTSTART;TZID=America/Los_Angeles:20241213T160000

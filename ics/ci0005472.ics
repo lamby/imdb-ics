@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241212T081720Z
+LAST-MODIFIED:20241213T101913Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -314,6 +314,34 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   news reaches Russia\, her fairytale is threatened as his parents set out 
  for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
  t28607951/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20241228T143000
+DTEND;TZID=America/Los_Angeles:20241228T171500
+DTSTAMP:20241228T222300Z
+UID:ci0005472-tt28607951--2024-12-28-14-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phantom of the Paradise (1974)
+DTSTART;TZID=America/Los_Angeles:20241228T180000
+DTEND;TZID=America/Los_Angeles:20241228T200000
+DTSTAMP:20241229T015300Z
+UID:ci0005472-tt0071994--2024-12-28-18-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA disfigured composer sells his 
+ soul for the woman he loves so that she will perform his music. However\, 
+ an evil record tycoon betrays him and steals his music to open his rock pa
+ lace\, The Paradise.\n\nhttps://www.imdb.com/title/tt0071994/\n\nIMDb rati
+ ng: 7.3
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
