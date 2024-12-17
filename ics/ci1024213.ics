@@ -1,7 +1,63 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241214T084908Z
+LAST-MODIFIED:20241217T174114Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:The Snow Queen (1986)
+DTSTART;TZID=America/Los_Angeles:20241217T163000
+DTEND;TZID=America/Los_Angeles:20241217T182500
+DTSTAMP:20241218T002300Z
+UID:ci1024213-tt0091449--2024-12-17-16-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nIn this adaptation of Hans Chris
+ tian Andersen's longest story\, the beautiful Snow Queen has captured two 
+ children and now keeps them apart. She has inserted a sliver of her own sp
+ ecial ice into the eye of the boy\, so that his hear...\n\nhttps://www.imd
+ b.com/title/tt0091449/\n\nIMDb rating: 6.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secrets & Lies (1996)
+DTSTART;TZID=America/Los_Angeles:20241218T163000
+DTEND;TZID=America/Los_Angeles:20241218T191500
+DTSTAMP:20241219T002300Z
+UID:ci1024213-tt0117589--2024-12-18-16-30
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nFollowing the death of her adop
+ tive parents\, a successful young black optometrist establishes contact wi
+ th her biological mother -- a lonely white factory worker living in povert
+ y in East London.\n\nhttps://www.imdb.com/title/tt0117589/\n\nIMDb rating:
+  8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secrets & Lies (1996)
+DTSTART;TZID=America/Los_Angeles:20241219T193000
+DTEND;TZID=America/Los_Angeles:20241219T221500
+DTSTAMP:20241220T032300Z
+UID:ci1024213-tt0117589--2024-12-19-19-30
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nFollowing the death of her adop
+ tive parents\, a successful young black optometrist establishes contact wi
+ th her biological mother -- a lonely white factory worker living in povert
+ y in East London.\n\nhttps://www.imdb.com/title/tt0117589/\n\nIMDb rating:
+  8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lion in Winter (1968)
+DTSTART;TZID=America/Los_Angeles:20241219T163000
+DTEND;TZID=America/Los_Angeles:20241219T191000
+DTSTAMP:20241220T002300Z
+UID:ci1024213-tt0063227--2024-12-19-16-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\n1183 A.D.: King Henry II's thre
+ e sons all want to inherit the throne\, but he won't commit to a choice. W
+ hen he allows his imprisoned wife Eleanor of Aquitaine out for a Christmas
+  visit\, they all variously plot to force him into a ...\n\nhttps://www.im
+ db.com/title/tt0063227/\n\nIMDb rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR
