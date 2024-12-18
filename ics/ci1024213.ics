@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241217T174114Z
+LAST-MODIFIED:20241218T094520Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Snow Queen (1986)
-DTSTART;TZID=America/Los_Angeles:20241217T163000
-DTEND;TZID=America/Los_Angeles:20241217T182500
-DTSTAMP:20241218T002300Z
-UID:ci1024213-tt0091449--2024-12-17-16-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nIn this adaptation of Hans Chris
- tian Andersen's longest story\, the beautiful Snow Queen has captured two 
- children and now keeps them apart. She has inserted a sliver of her own sp
- ecial ice into the eye of the boy\, so that his hear...\n\nhttps://www.imd
- b.com/title/tt0091449/\n\nIMDb rating: 6.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Secrets & Lies (1996)
 DTSTART;TZID=America/Los_Angeles:20241218T163000

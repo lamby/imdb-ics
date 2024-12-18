@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241217T174250Z
+LAST-MODIFIED:20241218T094651Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20241217T113000
-DTEND;TZID=America/Los_Angeles:20241217T143500
-DTSTAMP:20241217T192300Z
-UID:ci5397678-tt1262426--2024-12-17-11-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
 DTSTART;TZID=America/Los_Angeles:20241218T113000
@@ -519,6 +505,32 @@ DTSTART;TZID=America/Los_Angeles:20250101T190000
 DTEND;TZID=America/Los_Angeles:20250101T212500
 DTSTAMP:20250102T025300Z
 UID:ci5397678-tt13186482--2025-1-1-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250102T154500
+DTEND;TZID=America/Los_Angeles:20250102T181000
+DTSTAMP:20250102T233800Z
+UID:ci5397678-tt13186482--2025-1-2-15-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250102T190000
+DTEND;TZID=America/Los_Angeles:20250102T212500
+DTSTAMP:20250103T025300Z
+UID:ci5397678-tt13186482--2025-1-2-19-0
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s

@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241217T174042Z
+LAST-MODIFIED:20241218T094451Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20241217T190000
-DTEND;TZID=America/Los_Angeles:20241217T213500
-DTSTAMP:20241218T025300Z
-UID:ci0005472-tt0038650--2024-12-17-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20241218T190000
@@ -317,6 +304,20 @@ DTSTART;TZID=America/Los_Angeles:20250101T190000
 DTEND;TZID=America/Los_Angeles:20250101T214500
 DTSTAMP:20250102T025300Z
 UID:ci0005472-tt28607951--2025-1-1-19-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
+  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
+  news reaches Russia\, her fairytale is threatened as his parents set out 
+ for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
+ t28607951/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20250102T190000
+DTEND;TZID=America/Los_Angeles:20250102T214500
+DTSTAMP:20250103T025300Z
+UID:ci0005472-tt28607951--2025-1-2-19-0
 DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
   news reaches Russia\, her fairytale is threatened as his parents set out 
