@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241218T094451Z
+LAST-MODIFIED:20241220T103146Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20241218T190000
-DTEND;TZID=America/Los_Angeles:20241218T213500
-DTSTAMP:20241219T025300Z
-UID:ci0005472-tt0038650--2024-12-18-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20241219T190000
-DTEND;TZID=America/Los_Angeles:20241219T213500
-DTSTAMP:20241220T025300Z
-UID:ci0005472-tt0038650--2024-12-19-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20241220T190000
@@ -286,20 +260,6 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20250101T160000
-DTEND;TZID=America/Los_Angeles:20250101T184500
-DTSTAMP:20250101T235300Z
-UID:ci0005472-tt28607951--2025-1-1-16-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
 DTSTART;TZID=America/Los_Angeles:20250101T190000
 DTEND;TZID=America/Los_Angeles:20250101T214500
 DTSTAMP:20250102T025300Z
@@ -323,6 +283,73 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
   news reaches Russia\, her fairytale is threatened as his parents set out 
  for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
  t28607951/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Ground Zero
+DTSTART;TZID=America/Los_Angeles:20250103T190000
+DTEND;TZID=America/Los_Angeles:20250103T212000
+DTSTAMP:20250104T025300Z
+UID:ci0005472-tt32606918--2025-1-3-19-0
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
+ n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
+  Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
+ o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
+ com/title/tt32606918/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Police Story (1985)
+DTSTART;TZID=America/Los_Angeles:20250103T213000
+DTEND;TZID=America/Los_Angeles:20250103T233500
+DTSTAMP:20250104T052300Z
+UID:ci0005472-tt0089374--2025-1-3-21-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA virtuous Hong Kong Police Offi
+ cer must clear his good name when the drug lord he is after frames him for
+  the murder of a dirty cop.\n\nhttps://www.imdb.com/title/tt0089374/\n\nIM
+ Db rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Ground Zero
+DTSTART;TZID=America/Los_Angeles:20250104T160000
+DTEND;TZID=America/Los_Angeles:20250104T182000
+DTSTAMP:20250104T235300Z
+UID:ci0005472-tt32606918--2025-1-4-16-0
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
+ n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
+  Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
+ o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
+ com/title/tt32606918/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20250104T210000
+DTEND;TZID=America/Los_Angeles:20250104T231500
+DTSTAMP:20250105T045300Z
+UID:ci0005472-tt12818328--2025-1-4-21-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Police Story (1985)
+DTSTART;TZID=America/Los_Angeles:20250104T183000
+DTEND;TZID=America/Los_Angeles:20250104T203500
+DTSTAMP:20250105T022300Z
+UID:ci0005472-tt0089374--2025-1-4-18-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA virtuous Hong Kong Police Offi
+ cer must clear his good name when the drug lord he is after frames him for
+  the murder of a dirty cop.\n\nhttps://www.imdb.com/title/tt0089374/\n\nIM
+ Db rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

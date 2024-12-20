@@ -1,15 +1,28 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241218T094730Z
+LAST-MODIFIED:20241220T103423Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
 BEGIN:VEVENT
+SUMMARY:Die Hard (1988)
+DTSTART;TZID=America/Los_Angeles:20241220T213000
+DTEND;TZID=America/Los_Angeles:20241221T001000
+DTSTAMP:20241221T052300Z
+UID:ci0015312-tt0095016--2024-12-20-21-30
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA New York City police officer 
+ tries to save his estranged wife and several others taken hostage by terro
+ rists during a Christmas party at the Nakatomi Plaza in Los Angeles.\n\nht
+ tps://www.imdb.com/title/tt0095016/\n\nIMDb rating: 8.2
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elf (2003)
-DTSTART;TZID=America/Los_Angeles:20241218T160000
-DTEND;TZID=America/Los_Angeles:20241218T180500
-DTSTAMP:20241218T235300Z
-UID:ci0015312-tt0319343--2024-12-18-16-0
+DTSTART;TZID=America/Los_Angeles:20241220T160000
+DTEND;TZID=America/Los_Angeles:20241220T180500
+DTSTAMP:20241220T235300Z
+UID:ci0015312-tt0319343--2024-12-20-16-0
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
  dy travels from the North Pole to New York City to meet his biological fat
  her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
@@ -19,15 +32,98 @@ LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night of the Comet (1984)
-DTSTART;TZID=America/Los_Angeles:20241219T200000
-DTEND;TZID=America/Los_Angeles:20241219T220000
-DTSTAMP:20241220T035300Z
-UID:ci0015312-tt0087799--2024-12-19-20-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA comet wipes out most of life o
- n Earth\, leaving two Valley Girls fighting against cannibal zombies and a
-  sinister group of scientists.\n\nhttps://www.imdb.com/title/tt0087799/\n\
- nIMDb rating: 6.3
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241220T190000
+DTEND;TZID=America/Los_Angeles:20241220T210500
+DTSTAMP:20241221T025300Z
+UID:ci0015312-tt0319343--2024-12-20-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Hard (1988)
+DTSTART;TZID=America/Los_Angeles:20241221T213000
+DTEND;TZID=America/Los_Angeles:20241222T001000
+DTSTAMP:20241222T052300Z
+UID:ci0015312-tt0095016--2024-12-21-21-30
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA New York City police officer 
+ tries to save his estranged wife and several others taken hostage by terro
+ rists during a Christmas party at the Nakatomi Plaza in Los Angeles.\n\nht
+ tps://www.imdb.com/title/tt0095016/\n\nIMDb rating: 8.2
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241221T160000
+DTEND;TZID=America/Los_Angeles:20241221T180500
+DTSTAMP:20241221T235300Z
+UID:ci0015312-tt0319343--2024-12-21-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241221T190000
+DTEND;TZID=America/Los_Angeles:20241221T210500
+DTSTAMP:20241222T025300Z
+UID:ci0015312-tt0319343--2024-12-21-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241222T160000
+DTEND;TZID=America/Los_Angeles:20241222T180500
+DTSTAMP:20241222T235300Z
+UID:ci0015312-tt0319343--2024-12-22-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (2003)
+DTSTART;TZID=America/Los_Angeles:20241223T160000
+DTEND;TZID=America/Los_Angeles:20241223T180500
+DTSTAMP:20241223T235300Z
+UID:ci0015312-tt0319343--2024-12-23-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
+ dy travels from the North Pole to New York City to meet his biological fat
+ her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
+ f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
+ rating: 7.1
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sound of Music (1965)
+DTSTART;TZID=America/Los_Angeles:20241226T200000
+DTEND;TZID=America/Los_Angeles:20241226T232000
+DTSTAMP:20241227T035300Z
+UID:ci0015312-tt0059742--2024-12-26-20-0
+DESCRIPTION:Duration: 2h 52m (172 mins)\n\nA young novice is sent by her c
+ onvent in 1930s Austria to become a governess to the seven children of a w
+ idowed naval officer.\n\nhttps://www.imdb.com/title/tt0059742/\n\nIMDb rat
+ ing: 8.1
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
