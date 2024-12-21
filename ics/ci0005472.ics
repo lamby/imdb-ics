@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241220T103146Z
+LAST-MODIFIED:20241221T105653Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's a Wonderful Life (1946)
-DTSTART;TZID=America/Los_Angeles:20241220T190000
-DTEND;TZID=America/Los_Angeles:20241220T213500
-DTSTAMP:20241221T025300Z
-UID:ci0005472-tt0038650--2024-12-20-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nAn angel is sent from Heaven to
-  help a desperately frustrated businessman by showing him what life would 
- have been like if he had never existed.\n\nhttps://www.imdb.com/title/tt00
- 38650/\n\nIMDb rating: 8.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's a Wonderful Life (1946)
 DTSTART;TZID=America/Los_Angeles:20241221T153000
@@ -296,7 +283,7 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
  n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
   Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
  o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
- com/title/tt32606918/\n\nIMDb rating: 8
+ com/title/tt32606918/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -323,7 +310,7 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
  n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
   Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
  o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
- com/title/tt32606918/\n\nIMDb rating: 8
+ com/title/tt32606918/\n\nIMDb rating: 8.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -350,6 +337,47 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA virtuous Hong Kong Police Offi
  cer must clear his good name when the drug lord he is after frames him for
   the murder of a dirty cop.\n\nhttps://www.imdb.com/title/tt0089374/\n\nIM
  Db rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Ground Zero
+DTSTART;TZID=America/Los_Angeles:20250105T180000
+DTEND;TZID=America/Los_Angeles:20250105T202000
+DTSTAMP:20250106T015300Z
+UID:ci0005472-tt32606918--2025-1-5-18-0
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
+ n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
+  Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
+ o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
+ com/title/tt32606918/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Police Story (1985)
+DTSTART;TZID=America/Los_Angeles:20250105T203000
+DTEND;TZID=America/Los_Angeles:20250105T223500
+DTSTAMP:20250106T042300Z
+UID:ci0005472-tt0089374--2025-1-5-20-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA virtuous Hong Kong Police Offi
+ cer must clear his good name when the drug lord he is after frames him for
+  the murder of a dirty cop.\n\nhttps://www.imdb.com/title/tt0089374/\n\nIM
+ Db rating: 7.5
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Girl with the Needle
+DTSTART;TZID=America/Los_Angeles:20250105T151500
+DTEND;TZID=America/Los_Angeles:20250105T174500
+DTSTAMP:20250105T230800Z
+UID:ci0005472-tt10236164--2025-1-5-15-15
+DESCRIPTION:Duration: 2h 03m (123 mins)\n\nCopenhagen 1919: A young worker
+  finds herself unemployed and pregnant. She meets Dagmar\, who runs an und
+ erground adoption agency. A strong connection grows but her world shatters
+  when she stumbles on the shocking truth behind her ...\n\nhttps://www.imd
+ b.com/title/tt10236164/\n\nIMDb rating: 7.4
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
