@@ -1,7 +1,71 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241221T105731Z
+LAST-MODIFIED:20241222T090133Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Five Minutes to Live (1961)
+DTSTART;TZID=America/Los_Angeles:20241222T170000
+DTEND;TZID=America/Los_Angeles:20241222T184000
+DTSTAMP:20241223T005300Z
+UID:ci1024213-tt0054817--2024-12-22-17-0
+DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA murderous thug and his cohorts
+  take a bank executive's wife hostage after their robbery plans go awry.\n
+ \nhttps://www.imdb.com/title/tt0054817/\n\nIMDb rating: 5.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shop Around the Corner (1940)
+DTSTART;TZID=America/Los_Angeles:20241222T140000
+DTEND;TZID=America/Los_Angeles:20241222T160500
+DTSTAMP:20241222T215300Z
+UID:ci1024213-tt0033045--2024-12-22-14-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nTwo employees at a gift shop can
+  barely stand each other\, without realizing that they are falling in love
+  through the post as each other's anonymous pen pal.\n\nhttps://www.imdb.c
+ om/title/tt0033045/\n\nIMDb rating: 8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fanny and Alexander (1982)
+DTSTART;TZID=America/Los_Angeles:20241223T140000
+DTEND;TZID=America/Los_Angeles:20241223T173500
+DTSTAMP:20241223T215300Z
+UID:ci1024213-tt0083922--2024-12-23-14-0
+DESCRIPTION:Duration: 3h 08m (188 mins)\n\nTwo young Swedish children in t
+ he 1900s experience the many comedies and tragedies of their lively and af
+ fectionate theatrical family\, the Ekdahls.\n\nhttps://www.imdb.com/title/
+ tt0083922/\n\nIMDb rating: 8.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Shop Around the Corner (1940)
+DTSTART;TZID=America/Los_Angeles:20241224T153000
+DTEND;TZID=America/Los_Angeles:20241224T173500
+DTSTAMP:20241224T232300Z
+UID:ci1024213-tt0033045--2024-12-24-15-30
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nTwo employees at a gift shop can
+  barely stand each other\, without realizing that they are falling in love
+  through the post as each other's anonymous pen pal.\n\nhttps://www.imdb.c
+ om/title/tt0033045/\n\nIMDb rating: 8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fanny and Alexander (1982)
+DTSTART;TZID=America/Los_Angeles:20241226T140000
+DTEND;TZID=America/Los_Angeles:20241226T173500
+DTSTAMP:20241226T215300Z
+UID:ci1024213-tt0083922--2024-12-26-14-0
+DESCRIPTION:Duration: 3h 08m (188 mins)\n\nTwo young Swedish children in t
+ he 1900s experience the many comedies and tragedies of their lively and af
+ fectionate theatrical family\, the Ekdahls.\n\nhttps://www.imdb.com/title/
+ tt0083922/\n\nIMDb rating: 8.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR

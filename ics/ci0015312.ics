@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241221T110028Z
+LAST-MODIFIED:20241222T090333Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Die Hard (1988)
-DTSTART;TZID=America/Los_Angeles:20241221T213000
-DTEND;TZID=America/Los_Angeles:20241222T001000
-DTSTAMP:20241222T052300Z
-UID:ci0015312-tt0095016--2024-12-21-21-30
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA New York City police officer 
- tries to save his estranged wife and several others taken hostage by terro
- rists during a Christmas party at the Nakatomi Plaza in Los Angeles.\n\nht
- tps://www.imdb.com/title/tt0095016/\n\nIMDb rating: 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elf (2003)
-DTSTART;TZID=America/Los_Angeles:20241221T160000
-DTEND;TZID=America/Los_Angeles:20241221T180500
-DTSTAMP:20241221T235300Z
-UID:ci0015312-tt0319343--2024-12-21-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
- dy travels from the North Pole to New York City to meet his biological fat
- her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
- f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
- rating: 7.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elf (2003)
-DTSTART;TZID=America/Los_Angeles:20241221T190000
-DTEND;TZID=America/Los_Angeles:20241221T210500
-DTSTAMP:20241222T025300Z
-UID:ci0015312-tt0319343--2024-12-21-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
- dy travels from the North Pole to New York City to meet his biological fat
- her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
- f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
- rating: 7.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elf (2003)
 DTSTART;TZID=America/Los_Angeles:20241222T160000
