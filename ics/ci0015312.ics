@@ -1,47 +1,34 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241222T090333Z
+LAST-MODIFIED:20241230T101517Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
 BEGIN:VEVENT
-SUMMARY:Elf (2003)
-DTSTART;TZID=America/Los_Angeles:20241222T160000
-DTEND;TZID=America/Los_Angeles:20241222T180500
-DTSTAMP:20241222T235300Z
-UID:ci0015312-tt0319343--2024-12-22-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
- dy travels from the North Pole to New York City to meet his biological fat
- her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
- f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
- rating: 7.1
+SUMMARY:The Shining (1980)
+DTSTART;TZID=America/Los_Angeles:20241230T160000
+DTEND;TZID=America/Los_Angeles:20241230T185500
+DTSTAMP:20241230T235300Z
+UID:ci0015312-tt0081505--2024-12-30-16-0
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
+ otel for the winter\, where a sinister presence influences the father into
+  violence. At the same time\, his psychic son sees horrifying forebodings 
+ from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
+ /\n\nIMDb rating: 8.4
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elf (2003)
-DTSTART;TZID=America/Los_Angeles:20241223T160000
-DTEND;TZID=America/Los_Angeles:20241223T180500
-DTSTAMP:20241223T235300Z
-UID:ci0015312-tt0319343--2024-12-23-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nRaised as an oversized elf\, Bud
- dy travels from the North Pole to New York City to meet his biological fat
- her\, Walter Hobbs\, who doesn't know he exists and is in desperate need o
- f some Christmas spirit.\n\nhttps://www.imdb.com/title/tt0319343/\n\nIMDb 
- rating: 7.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sound of Music (1965)
-DTSTART;TZID=America/Los_Angeles:20241226T200000
-DTEND;TZID=America/Los_Angeles:20241226T232000
-DTSTAMP:20241227T035300Z
-UID:ci0015312-tt0059742--2024-12-26-20-0
-DESCRIPTION:Duration: 2h 52m (172 mins)\n\nA young novice is sent by her c
- onvent in 1930s Austria to become a governess to the seven children of a w
- idowed naval officer.\n\nhttps://www.imdb.com/title/tt0059742/\n\nIMDb rat
- ing: 8.1
+SUMMARY:The Shining (1980)
+DTSTART;TZID=America/Los_Angeles:20241230T193000
+DTEND;TZID=America/Los_Angeles:20241230T222500
+DTSTAMP:20241231T032300Z
+UID:ci0015312-tt0081505--2024-12-30-19-30
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nA family heads to an isolated h
+ otel for the winter\, where a sinister presence influences the father into
+  violence. At the same time\, his psychic son sees horrifying forebodings 
+ from both the past and the future.\n\nhttps://www.imdb.com/title/tt0081505
+ /\n\nIMDb rating: 8.4
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT

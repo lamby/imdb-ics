@@ -1,15 +1,103 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241222T085937Z
+LAST-MODIFIED:20241230T101125Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T122500
+DTEND;TZID=Europe/London:20241230T150500
+DTSTAMP:20241230T122600Z
+UID:ci0960123-tt14260836--2024-12-30-12-25
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T142000
+DTEND;TZID=Europe/London:20241230T170000
+DTSTAMP:20241230T142100Z
+UID:ci0960123-tt14260836--2024-12-30-14-20
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T164000
+DTEND;TZID=Europe/London:20241230T192000
+DTSTAMP:20241230T164100Z
+UID:ci0960123-tt14260836--2024-12-30-16-40
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T174500
+DTEND;TZID=Europe/London:20241230T202500
+DTSTAMP:20241230T174600Z
+UID:ci0960123-tt14260836--2024-12-30-17-45
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T190000
+DTEND;TZID=Europe/London:20241230T214000
+DTSTAMP:20241230T190100Z
+UID:ci0960123-tt14260836--2024-12-30-19-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T194000
+DTEND;TZID=Europe/London:20241230T222000
+DTSTAMP:20241230T194100Z
+UID:ci0960123-tt14260836--2024-12-30-19-40
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T205500
+DTEND;TZID=Europe/London:20241230T233500
+DTSTAMP:20241230T205600Z
+UID:ci0960123-tt14260836--2024-12-30-20-55
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241230T221500
+DTEND;TZID=Europe/London:20241231T005500
+DTSTAMP:20241230T221600Z
+UID:ci0960123-tt14260836--2024-12-30-22-15
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241222T150000
-DTEND;TZID=Europe/London:20241222T172500
-DTSTAMP:20241222T150100Z
-UID:ci0960123-tt20215234--2024-12-22-15-0
+DTSTART;TZID=Europe/London:20241230T113000
+DTEND;TZID=Europe/London:20241230T135500
+DTSTAMP:20241230T113100Z
+UID:ci0960123-tt20215234--2024-12-30-11-30
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -19,10 +107,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241222T210500
-DTEND;TZID=Europe/London:20241222T233000
-DTSTAMP:20241222T210600Z
-UID:ci0960123-tt20215234--2024-12-22-21-5
+DTSTART;TZID=Europe/London:20241230T225500
+DTEND;TZID=Europe/London:20241231T012000
+DTSTAMP:20241230T225600Z
+UID:ci0960123-tt20215234--2024-12-30-22-55
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -32,23 +120,36 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241222T174000
-DTEND;TZID=Europe/London:20241222T203500
-DTSTAMP:20241222T174100Z
-UID:ci0960123-tt9218128--2024-12-22-17-40
+DTSTART;TZID=Europe/London:20241230T155500
+DTEND;TZID=Europe/London:20241230T185000
+DTSTAMP:20241230T155600Z
+UID:ci0960123-tt9218128--2024-12-30-15-55
 DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
  the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.8
+ ing: 6.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kraven: The Hunter
-DTSTART;TZID=Europe/London:20241222T220000
-DTEND;TZID=Europe/London:20241223T003500
-DTSTAMP:20241222T220100Z
-UID:ci0960123-tt8790086--2024-12-22-22-0
+DTSTART;TZID=Europe/London:20241230T192500
+DTEND;TZID=Europe/London:20241230T220000
+DTSTAMP:20241230T192600Z
+UID:ci0960123-tt8790086--2024-12-30-19-25
+DESCRIPTION:Duration: 2h 07m (127 mins)\n\nKraven's complex relationship w
+ ith his ruthless father\, Nikolai Kravinoff\, starts him down a path of ve
+ ngeance with brutal consequences\, motivating him to become not only the g
+ reatest hunter in the world\, but also one of its most ...\n\nhttps://www.
+ imdb.com/title/tt8790086/\n\nIMDb rating: 5.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kraven: The Hunter
+DTSTART;TZID=Europe/London:20241230T224000
+DTEND;TZID=Europe/London:20241231T011500
+DTSTAMP:20241230T224100Z
+UID:ci0960123-tt8790086--2024-12-30-22-40
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nKraven's complex relationship w
  ith his ruthless father\, Nikolai Kravinoff\, starts him down a path of ve
  ngeance with brutal consequences\, motivating him to become not only the g
@@ -58,471 +159,421 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241222T083000
-DTEND;TZID=Europe/London:20241222T103500
-DTSTAMP:20241222T083100Z
-UID:ci0960123-tt13622970--2024-12-22-8-30
+DTSTART;TZID=Europe/London:20241230T090000
+DTEND;TZID=Europe/London:20241230T110500
+DTSTAMP:20241230T090100Z
+UID:ci0960123-tt13622970--2024-12-30-9-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241222T111500
-DTEND;TZID=Europe/London:20241222T132000
-DTSTAMP:20241222T111600Z
-UID:ci0960123-tt13622970--2024-12-22-11-15
+DTSTART;TZID=Europe/London:20241230T114500
+DTEND;TZID=Europe/London:20241230T135000
+DTSTAMP:20241230T114600Z
+UID:ci0960123-tt13622970--2024-12-30-11-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241222T132000
-DTEND;TZID=Europe/London:20241222T152500
-DTSTAMP:20241222T132100Z
-UID:ci0960123-tt13622970--2024-12-22-13-20
+DTSTART;TZID=Europe/London:20241230T134000
+DTEND;TZID=Europe/London:20241230T154500
+DTSTAMP:20241230T134100Z
+UID:ci0960123-tt13622970--2024-12-30-13-40
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241222T142000
-DTEND;TZID=Europe/London:20241222T162500
-DTSTAMP:20241222T142100Z
-UID:ci0960123-tt13622970--2024-12-22-14-20
+DTSTART;TZID=Europe/London:20241230T143500
+DTEND;TZID=Europe/London:20241230T164000
+DTSTAMP:20241230T143600Z
+UID:ci0960123-tt13622970--2024-12-30-14-35
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241222T154000
-DTEND;TZID=Europe/London:20241222T174500
-DTSTAMP:20241222T154100Z
-UID:ci0960123-tt13622970--2024-12-22-15-40
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241222T180000
-DTEND;TZID=Europe/London:20241222T200500
-DTSTAMP:20241222T180100Z
-UID:ci0960123-tt13622970--2024-12-22-18-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2 (3D)
-DTSTART;TZID=Europe/London:20241222T200000
-DTEND;TZID=Europe/London:20241222T220500
-DTSTAMP:20241222T200100Z
-UID:ci0960123-tt13622970-3d-2024-12-22-20-0
+DTSTART;TZID=Europe/London:20241230T200000
+DTEND;TZID=Europe/London:20241230T220500
+DTSTAMP:20241230T200100Z
+UID:ci0960123-tt13622970-3d-2024-12-30-20-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T091000
-DTEND;TZID=Europe/London:20241222T113500
-DTSTAMP:20241222T091100Z
-UID:ci0960123-tt13186482--2024-12-22-9-10
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241230T084500
+DTEND;TZID=Europe/London:20241230T111000
+DTSTAMP:20241230T084600Z
+UID:ci0960123-tt13186482--2024-12-30-8-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T115500
-DTEND;TZID=Europe/London:20241222T142000
-DTSTAMP:20241222T115600Z
-UID:ci0960123-tt13186482--2024-12-22-11-55
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241230T125500
+DTEND;TZID=Europe/London:20241230T152000
+DTSTAMP:20241230T125600Z
+UID:ci0960123-tt13186482--2024-12-30-12-55
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T131500
-DTEND;TZID=Europe/London:20241222T154000
-DTSTAMP:20241222T131600Z
-UID:ci0960123-tt13186482--2024-12-22-13-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241230T150500
+DTEND;TZID=Europe/London:20241230T173000
+DTSTAMP:20241230T150600Z
+UID:ci0960123-tt13186482--2024-12-30-15-5
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T155500
-DTEND;TZID=Europe/London:20241222T182000
-DTSTAMP:20241222T155600Z
-UID:ci0960123-tt13186482--2024-12-22-15-55
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241230T181500
+DTEND;TZID=Europe/London:20241230T204000
+DTSTAMP:20241230T181600Z
+UID:ci0960123-tt13186482--2024-12-30-18-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T162500
-DTEND;TZID=Europe/London:20241222T185000
-DTSTAMP:20241222T162600Z
-UID:ci0960123-tt13186482--2024-12-22-16-25
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241230T201500
+DTEND;TZID=Europe/London:20241230T224000
+DTSTAMP:20241230T201600Z
+UID:ci0960123-tt13186482--2024-12-30-20-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T185000
-DTEND;TZID=Europe/London:20241222T211500
-DTSTAMP:20241222T185100Z
-UID:ci0960123-tt13186482--2024-12-22-18-50
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241230T220500
+DTEND;TZID=Europe/London:20241231T003000
+DTSTAMP:20241230T220600Z
+UID:ci0960123-tt13186482--2024-12-30-22-5
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T194500
-DTEND;TZID=Europe/London:20241222T221000
-DTSTAMP:20241222T194600Z
-UID:ci0960123-tt13186482--2024-12-22-19-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T202000
-DTEND;TZID=Europe/London:20241222T224500
-DTSTAMP:20241222T202100Z
-UID:ci0960123-tt13186482--2024-12-22-20-20
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T222500
-DTEND;TZID=Europe/London:20241223T005000
-DTSTAMP:20241222T222600Z
-UID:ci0960123-tt13186482--2024-12-22-22-25
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241222T234500
-DTEND;TZID=Europe/London:20241223T021000
-DTSTAMP:20241222T234600Z
-UID:ci0960123-tt13186482--2024-12-22-23-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pushpa: The Rule - Part 2
-DTSTART;TZID=Europe/London:20241222T222500
-DTEND;TZID=Europe/London:20241223T021500
-DTSTAMP:20241222T222600Z
-UID:ci0960123-tt16539454--2024-12-22-22-25
-DESCRIPTION:Duration: 3h 21m (201 mins)\n\nPushpa struggles to sustain his
-  sandalwood smuggling business in the face of tough opposition from the po
- lice.\n\nhttps://www.imdb.com/title/tt16539454/\n\nIMDb rating: 6.6
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red One
-DTSTART;TZID=Europe/London:20241222T170000
-DTEND;TZID=Europe/London:20241222T193000
-DTSTAMP:20241222T170100Z
-UID:ci0960123-tt14948432--2024-12-22-17-0
+DTSTART;TZID=Europe/London:20241230T093000
+DTEND;TZID=Europe/London:20241230T120000
+DTSTAMP:20241230T093100Z
+UID:ci0960123-tt14948432--2024-12-30-9-30
 DESCRIPTION:Duration: 2h 03m (123 mins)\n\nAfter Santa Claus is kidnapped\
  , the North Pole's Head of Security must team up with a notorious hacker i
  n a globe-trotting\, action-packed mission to save Christmas.\n\nhttps://w
- ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red One
-DTSTART;TZID=Europe/London:20241222T230000
-DTEND;TZID=Europe/London:20241223T013000
-DTSTAMP:20241222T230100Z
-UID:ci0960123-tt14948432--2024-12-22-23-0
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nAfter Santa Claus is kidnapped\
- , the North Pole's Head of Security must team up with a notorious hacker i
- n a globe-trotting\, action-packed mission to save Christmas.\n\nhttps://w
- ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.5
+ ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T083500
-DTEND;TZID=Europe/London:20241222T105000
-DTSTAMP:20241222T083600Z
-UID:ci0960123-tt18259086--2024-12-22-8-35
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241230T091500
+DTEND;TZID=Europe/London:20241230T113000
+DTSTAMP:20241230T091600Z
+UID:ci0960123-tt18259086--2024-12-30-9-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T100000
-DTEND;TZID=Europe/London:20241222T121500
-DTSTAMP:20241222T100100Z
-UID:ci0960123-tt18259086--2024-12-22-10-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241230T111500
+DTEND;TZID=Europe/London:20241230T133000
+DTSTAMP:20241230T111600Z
+UID:ci0960123-tt18259086--2024-12-30-11-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T105000
-DTEND;TZID=Europe/London:20241222T130500
-DTSTAMP:20241222T105100Z
-UID:ci0960123-tt18259086--2024-12-22-10-50
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241230T123500
+DTEND;TZID=Europe/London:20241230T145000
+DTSTAMP:20241230T123600Z
+UID:ci0960123-tt18259086--2024-12-30-12-35
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T113000
-DTEND;TZID=Europe/London:20241222T134500
-DTSTAMP:20241222T113100Z
-UID:ci0960123-tt18259086--2024-12-22-11-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241230T140500
+DTEND;TZID=Europe/London:20241230T162000
+DTSTAMP:20241230T140600Z
+UID:ci0960123-tt18259086--2024-12-30-14-5
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T134000
-DTEND;TZID=Europe/London:20241222T155500
-DTSTAMP:20241222T134100Z
-UID:ci0960123-tt18259086--2024-12-22-13-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241230T153500
+DTEND;TZID=Europe/London:20241230T175000
+DTSTAMP:20241230T153600Z
+UID:ci0960123-tt18259086--2024-12-30-15-35
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T161500
-DTEND;TZID=Europe/London:20241222T183000
-DTSTAMP:20241222T161600Z
-UID:ci0960123-tt18259086--2024-12-22-16-15
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241230T165500
+DTEND;TZID=Europe/London:20241230T191000
+DTSTAMP:20241230T165600Z
+UID:ci0960123-tt18259086--2024-12-30-16-55
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T172500
-DTEND;TZID=Europe/London:20241222T194000
-DTSTAMP:20241222T172600Z
-UID:ci0960123-tt18259086--2024-12-22-17-25
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241230T215500
+DTEND;TZID=Europe/London:20241231T001000
+DTSTAMP:20241230T215600Z
+UID:ci0960123-tt18259086--2024-12-30-21-55
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T183500
-DTEND;TZID=Europe/London:20241222T205000
-DTSTAMP:20241222T183600Z
-UID:ci0960123-tt18259086--2024-12-22-18-35
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T193000
-DTEND;TZID=Europe/London:20241222T214500
-DTSTAMP:20241222T193100Z
-UID:ci0960123-tt18259086--2024-12-22-19-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241222T213500
-DTEND;TZID=Europe/London:20241222T235000
-DTSTAMP:20241222T213600Z
-UID:ci0960123-tt18259086--2024-12-22-21-35
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casse-Noisette (1937)
-DTSTART;TZID=Europe/London:20241222T140000
-DTEND;TZID=Europe/London:20241222T162500
-DTSTAMP:20241222T140100Z
-UID:ci0960123-tt4221058--2024-12-22-14-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt42
- 21058/
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241222T100000
-DTEND;TZID=Europe/London:20241222T121000
-DTSTAMP:20241222T100100Z
-UID:ci0960123-tt29623480--2024-12-22-10-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.2
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241230T100000
+DTEND;TZID=Europe/London:20241230T121000
+DTSTAMP:20241230T100100Z
+UID:ci0960123-tt8864596--2024-12-30-10-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241222T110000
-DTEND;TZID=Europe/London:20241222T140500
-DTSTAMP:20241222T110100Z
-UID:ci0960123-tt1262426--2024-12-22-11-0
+DTSTART;TZID=Europe/London:20241230T112000
+DTEND;TZID=Europe/London:20241230T142500
+DTSTAMP:20241230T112100Z
+UID:ci0960123-tt1262426--2024-12-30-11-20
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241222T130000
-DTEND;TZID=Europe/London:20241222T160500
-DTSTAMP:20241222T130100Z
-UID:ci0960123-tt1262426--2024-12-22-13-0
+DTSTART;TZID=Europe/London:20241230T134500
+DTEND;TZID=Europe/London:20241230T165000
+DTSTAMP:20241230T134600Z
+UID:ci0960123-tt1262426--2024-12-30-13-45
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241222T190500
-DTEND;TZID=Europe/London:20241222T221000
-DTSTAMP:20241222T190600Z
-UID:ci0960123-tt1262426--2024-12-22-19-5
+DTSTART;TZID=Europe/London:20241230T152000
+DTEND;TZID=Europe/London:20241230T182500
+DTSTAMP:20241230T152100Z
+UID:ci0960123-tt1262426--2024-12-30-15-20
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=Europe/London:20241230T184500
+DTEND;TZID=Europe/London:20241230T215000
+DTSTAMP:20241230T184600Z
+UID:ci0960123-tt1262426--2024-12-30-18-45
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked (3D)
-DTSTART;TZID=Europe/London:20241222T222000
-DTEND;TZID=Europe/London:20241223T012500
-DTSTAMP:20241222T222100Z
-UID:ci0960123-tt1262426-3d-2024-12-22-22-20
+DTSTART;TZID=Europe/London:20241230T222500
+DTEND;TZID=Europe/London:20241231T013000
+DTSTAMP:20241230T222600Z
+UID:ci0960123-tt1262426-3d-2024-12-30-22-25
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T124000
+DTEND;TZID=Europe/London:20241231T152000
+DTSTAMP:20241231T124100Z
+UID:ci0960123-tt14260836--2024-12-31-12-40
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T140000
+DTEND;TZID=Europe/London:20241231T164000
+DTSTAMP:20241231T140100Z
+UID:ci0960123-tt14260836--2024-12-31-14-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T154000
+DTEND;TZID=Europe/London:20241231T182000
+DTSTAMP:20241231T154100Z
+UID:ci0960123-tt14260836--2024-12-31-15-40
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T165500
+DTEND;TZID=Europe/London:20241231T193500
+DTSTAMP:20241231T165600Z
+UID:ci0960123-tt14260836--2024-12-31-16-55
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T180500
+DTEND;TZID=Europe/London:20241231T204500
+DTSTAMP:20241231T180600Z
+UID:ci0960123-tt14260836--2024-12-31-18-5
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T190500
+DTEND;TZID=Europe/London:20241231T214500
+DTSTAMP:20241231T190600Z
+UID:ci0960123-tt14260836--2024-12-31-19-5
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T195000
+DTEND;TZID=Europe/London:20241231T223000
+DTSTAMP:20241231T195100Z
+UID:ci0960123-tt14260836--2024-12-31-19-50
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20241231T205000
+DTEND;TZID=Europe/London:20241231T233000
+DTSTAMP:20241231T205100Z
+UID:ci0960123-tt14260836--2024-12-31-20-50
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241223T001500
-DTEND;TZID=Europe/London:20241223T024000
-DTSTAMP:20241223T001600Z
-UID:ci0960123-tt20215234--2024-12-23-0-15
+DTSTART;TZID=Europe/London:20241231T110500
+DTEND;TZID=Europe/London:20241231T133000
+DTSTAMP:20241231T110600Z
+UID:ci0960123-tt20215234--2024-12-31-11-5
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -532,23 +583,10 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241223T125500
-DTEND;TZID=Europe/London:20241223T152000
-DTSTAMP:20241223T125600Z
-UID:ci0960123-tt20215234--2024-12-23-12-55
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241223T164500
-DTEND;TZID=Europe/London:20241223T191000
-DTSTAMP:20241223T164600Z
-UID:ci0960123-tt20215234--2024-12-23-16-45
+DTSTART;TZID=Europe/London:20241231T180500
+DTEND;TZID=Europe/London:20241231T203000
+DTSTAMP:20241231T180600Z
+UID:ci0960123-tt20215234--2024-12-31-18-5
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -558,36 +596,23 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241223T185500
-DTEND;TZID=Europe/London:20241223T215000
-DTSTAMP:20241223T185600Z
-UID:ci0960123-tt9218128--2024-12-23-18-55
+DTSTART;TZID=Europe/London:20241231T155500
+DTEND;TZID=Europe/London:20241231T185000
+DTSTAMP:20241231T155600Z
+UID:ci0960123-tt9218128--2024-12-31-15-55
 DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
  the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241223T203500
-DTEND;TZID=Europe/London:20241223T233000
-DTSTAMP:20241223T203600Z
-UID:ci0960123-tt9218128--2024-12-23-20-35
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.8
+ ing: 6.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kraven: The Hunter
-DTSTART;TZID=Europe/London:20241223T210500
-DTEND;TZID=Europe/London:20241223T234000
-DTSTAMP:20241223T210600Z
-UID:ci0960123-tt8790086--2024-12-23-21-5
+DTSTART;TZID=Europe/London:20241231T204500
+DTEND;TZID=Europe/London:20241231T232000
+DTSTAMP:20241231T204600Z
+UID:ci0960123-tt8790086--2024-12-31-20-45
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nKraven's complex relationship w
  ith his ruthless father\, Nikolai Kravinoff\, starts him down a path of ve
  ngeance with brutal consequences\, motivating him to become not only the g
@@ -597,437 +622,345 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241223T083000
-DTEND;TZID=Europe/London:20241223T103500
-DTSTAMP:20241223T083100Z
-UID:ci0960123-tt13622970--2024-12-23-8-30
+DTSTART;TZID=Europe/London:20241231T080500
+DTEND;TZID=Europe/London:20241231T101000
+DTSTAMP:20241231T080600Z
+UID:ci0960123-tt13622970--2024-12-31-8-5
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241223T102000
-DTEND;TZID=Europe/London:20241223T122500
-DTSTAMP:20241223T102100Z
-UID:ci0960123-tt13622970--2024-12-23-10-20
+DTSTART;TZID=Europe/London:20241231T094500
+DTEND;TZID=Europe/London:20241231T115000
+DTSTAMP:20241231T094600Z
+UID:ci0960123-tt13622970--2024-12-31-9-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241223T124000
-DTEND;TZID=Europe/London:20241223T144500
-DTSTAMP:20241223T124100Z
-UID:ci0960123-tt13622970--2024-12-23-12-40
+DTSTART;TZID=Europe/London:20241231T120000
+DTEND;TZID=Europe/London:20241231T140500
+DTSTAMP:20241231T120100Z
+UID:ci0960123-tt13622970--2024-12-31-12-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241223T143000
-DTEND;TZID=Europe/London:20241223T163500
-DTSTAMP:20241223T143100Z
-UID:ci0960123-tt13622970--2024-12-23-14-30
+DTSTART;TZID=Europe/London:20241231T142000
+DTEND;TZID=Europe/London:20241231T162500
+DTSTAMP:20241231T142100Z
+UID:ci0960123-tt13622970--2024-12-31-14-20
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241223T153500
-DTEND;TZID=Europe/London:20241223T174000
-DTSTAMP:20241223T153600Z
-UID:ci0960123-tt13622970--2024-12-23-15-35
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241223T223000
-DTEND;TZID=Europe/London:20241224T003500
-DTSTAMP:20241223T223100Z
-UID:ci0960123-tt13622970--2024-12-23-22-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2 (3D)
-DTSTART;TZID=Europe/London:20241223T193500
-DTEND;TZID=Europe/London:20241223T214000
-DTSTAMP:20241223T193600Z
-UID:ci0960123-tt13622970-3d-2024-12-23-19-35
+DTSTART;TZID=Europe/London:20241231T200500
+DTEND;TZID=Europe/London:20241231T221000
+DTSTAMP:20241231T200600Z
+UID:ci0960123-tt13622970-3d-2024-12-31-20-5
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T092500
-DTEND;TZID=Europe/London:20241223T115000
-DTSTAMP:20241223T092600Z
-UID:ci0960123-tt13186482--2024-12-23-9-25
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241231T152500
+DTEND;TZID=Europe/London:20241231T175000
+DTSTAMP:20241231T152600Z
+UID:ci0960123-tt13186482--2024-12-31-15-25
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T101000
-DTEND;TZID=Europe/London:20241223T123500
-DTSTAMP:20241223T101100Z
-UID:ci0960123-tt13186482--2024-12-23-10-10
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241231T184000
+DTEND;TZID=Europe/London:20241231T210500
+DTSTAMP:20241231T184100Z
+UID:ci0960123-tt13186482--2024-12-31-18-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T114500
-DTEND;TZID=Europe/London:20241223T141000
-DTSTAMP:20241223T114600Z
-UID:ci0960123-tt13186482--2024-12-23-11-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20241231T201500
+DTEND;TZID=Europe/London:20241231T224000
+DTSTAMP:20241231T201600Z
+UID:ci0960123-tt13186482--2024-12-31-20-15
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T140500
-DTEND;TZID=Europe/London:20241223T163000
-DTSTAMP:20241223T140600Z
-UID:ci0960123-tt13186482--2024-12-23-14-5
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T155000
-DTEND;TZID=Europe/London:20241223T181500
-DTSTAMP:20241223T155100Z
-UID:ci0960123-tt13186482--2024-12-23-15-50
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T172000
-DTEND;TZID=Europe/London:20241223T194500
-DTSTAMP:20241223T172100Z
-UID:ci0960123-tt13186482--2024-12-23-17-20
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T175500
-DTEND;TZID=Europe/London:20241223T202000
-DTSTAMP:20241223T175600Z
-UID:ci0960123-tt13186482--2024-12-23-17-55
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T192500
-DTEND;TZID=Europe/London:20241223T215000
-DTSTAMP:20241223T192600Z
-UID:ci0960123-tt13186482--2024-12-23-19-25
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T202000
-DTEND;TZID=Europe/London:20241223T224500
-DTSTAMP:20241223T202100Z
-UID:ci0960123-tt13186482--2024-12-23-20-20
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241223T230000
-DTEND;TZID=Europe/London:20241224T012500
-DTSTAMP:20241223T230100Z
-UID:ci0960123-tt13186482--2024-12-23-23-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red One
-DTSTART;TZID=Europe/London:20241223T200500
-DTEND;TZID=Europe/London:20241223T223500
-DTSTAMP:20241223T200600Z
-UID:ci0960123-tt14948432--2024-12-23-20-5
+DTSTART;TZID=Europe/London:20241231T104000
+DTEND;TZID=Europe/London:20241231T131000
+DTSTAMP:20241231T104100Z
+UID:ci0960123-tt14948432--2024-12-31-10-40
 DESCRIPTION:Duration: 2h 03m (123 mins)\n\nAfter Santa Claus is kidnapped\
  , the North Pole's Head of Security must team up with a notorious hacker i
  n a globe-trotting\, action-packed mission to save Christmas.\n\nhttps://w
- ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red One
-DTSTART;TZID=Europe/London:20241223T221500
-DTEND;TZID=Europe/London:20241224T004500
-DTSTAMP:20241223T221600Z
-UID:ci0960123-tt14948432--2024-12-23-22-15
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nAfter Santa Claus is kidnapped\
- , the North Pole's Head of Security must team up with a notorious hacker i
- n a globe-trotting\, action-packed mission to save Christmas.\n\nhttps://w
- ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.5
+ ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T002500
-DTEND;TZID=Europe/London:20241223T024000
-DTSTAMP:20241223T002600Z
-UID:ci0960123-tt18259086--2024-12-23-0-25
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241231T102500
+DTEND;TZID=Europe/London:20241231T124000
+DTSTAMP:20241231T102600Z
+UID:ci0960123-tt18259086--2024-12-31-10-25
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T110000
-DTEND;TZID=Europe/London:20241223T131500
-DTSTAMP:20241223T110100Z
-UID:ci0960123-tt18259086--2024-12-23-11-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241231T113000
+DTEND;TZID=Europe/London:20241231T134500
+DTSTAMP:20241231T113100Z
+UID:ci0960123-tt18259086--2024-12-31-11-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T121000
-DTEND;TZID=Europe/London:20241223T142500
-DTSTAMP:20241223T121100Z
-UID:ci0960123-tt18259086--2024-12-23-12-10
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241231T125500
+DTEND;TZID=Europe/London:20241231T151000
+DTSTAMP:20241231T125600Z
+UID:ci0960123-tt18259086--2024-12-31-12-55
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T134000
-DTEND;TZID=Europe/London:20241223T155500
-DTSTAMP:20241223T134100Z
-UID:ci0960123-tt18259086--2024-12-23-13-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241231T144000
+DTEND;TZID=Europe/London:20241231T165500
+DTSTAMP:20241231T144100Z
+UID:ci0960123-tt18259086--2024-12-31-14-40
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T144500
-DTEND;TZID=Europe/London:20241223T170000
-DTSTAMP:20241223T144600Z
-UID:ci0960123-tt18259086--2024-12-23-14-45
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241231T171500
+DTEND;TZID=Europe/London:20241231T193000
+DTSTAMP:20241231T171600Z
+UID:ci0960123-tt18259086--2024-12-31-17-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T151500
-DTEND;TZID=Europe/London:20241223T173000
-DTSTAMP:20241223T151600Z
-UID:ci0960123-tt18259086--2024-12-23-15-15
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20241231T211500
+DTEND;TZID=Europe/London:20241231T233000
+DTSTAMP:20241231T211600Z
+UID:ci0960123-tt18259086--2024-12-31-21-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T162000
-DTEND;TZID=Europe/London:20241223T183500
-DTSTAMP:20241223T162100Z
-UID:ci0960123-tt18259086--2024-12-23-16-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T174500
-DTEND;TZID=Europe/London:20241223T200000
-DTSTAMP:20241223T174600Z
-UID:ci0960123-tt18259086--2024-12-23-17-45
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T183500
-DTEND;TZID=Europe/London:20241223T205000
-DTSTAMP:20241223T183600Z
-UID:ci0960123-tt18259086--2024-12-23-18-35
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T200000
-DTEND;TZID=Europe/London:20241223T221500
-DTSTAMP:20241223T200100Z
-UID:ci0960123-tt18259086--2024-12-23-20-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241223T225500
-DTEND;TZID=Europe/London:20241224T011000
-DTSTAMP:20241223T225600Z
-UID:ci0960123-tt18259086--2024-12-23-22-55
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241223T100000
-DTEND;TZID=Europe/London:20241223T121000
-DTSTAMP:20241223T100100Z
-UID:ci0960123-tt29623480--2024-12-23-10-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.2
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20241231T100000
+DTEND;TZID=Europe/London:20241231T121000
+DTSTAMP:20241231T100100Z
+UID:ci0960123-tt8864596--2024-12-31-10-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241223T105000
-DTEND;TZID=Europe/London:20241223T135500
-DTSTAMP:20241223T105100Z
-UID:ci0960123-tt1262426--2024-12-23-10-50
+DTSTART;TZID=Europe/London:20241231T120000
+DTEND;TZID=Europe/London:20241231T150500
+DTSTAMP:20241231T120100Z
+UID:ci0960123-tt1262426--2024-12-31-12-0
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241223T221500
-DTEND;TZID=Europe/London:20241224T012000
-DTSTAMP:20241223T221600Z
-UID:ci0960123-tt1262426--2024-12-23-22-15
+DTSTART;TZID=Europe/London:20241231T135000
+DTEND;TZID=Europe/London:20241231T165500
+DTSTAMP:20241231T135100Z
+UID:ci0960123-tt1262426--2024-12-31-13-50
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=Europe/London:20241231T171000
+DTEND;TZID=Europe/London:20241231T201500
+DTSTAMP:20241231T171100Z
+UID:ci0960123-tt1262426--2024-12-31-17-10
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250101T114000
+DTEND;TZID=Europe/London:20250101T142000
+DTSTAMP:20250101T114100Z
+UID:ci0960123-tt14260836--2025-1-1-11-40
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250101T135500
+DTEND;TZID=Europe/London:20250101T163500
+DTSTAMP:20250101T135600Z
+UID:ci0960123-tt14260836--2025-1-1-13-55
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250101T143500
+DTEND;TZID=Europe/London:20250101T171500
+DTSTAMP:20250101T143600Z
+UID:ci0960123-tt14260836--2025-1-1-14-35
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250101T155500
+DTEND;TZID=Europe/London:20250101T183500
+DTSTAMP:20250101T155600Z
+UID:ci0960123-tt14260836--2025-1-1-15-55
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250101T164500
+DTEND;TZID=Europe/London:20250101T192500
+DTSTAMP:20250101T164600Z
+UID:ci0960123-tt14260836--2025-1-1-16-45
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250101T180500
+DTEND;TZID=Europe/London:20250101T204500
+DTSTAMP:20250101T180600Z
+UID:ci0960123-tt14260836--2025-1-1-18-5
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250101T194500
+DTEND;TZID=Europe/London:20250101T222500
+DTSTAMP:20250101T194600Z
+UID:ci0960123-tt14260836--2025-1-1-19-45
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241224T185000
-DTEND;TZID=Europe/London:20241224T211500
-DTSTAMP:20241224T185100Z
-UID:ci0960123-tt20215234--2024-12-24-18-50
+DTSTART;TZID=Europe/London:20250101T143500
+DTEND;TZID=Europe/London:20250101T170000
+DTSTAMP:20250101T143600Z
+UID:ci0960123-tt20215234--2025-1-1-14-35
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
+ d with leading one of the world's most secretive and ancient events\, sele
+ cting a new Pope\, he finds himself at the center of a conspiracy that cou
+ ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
+ om/title/tt20215234/\n\nIMDb rating: 7.4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conclave
+DTSTART;TZID=Europe/London:20250101T223000
+DTEND;TZID=Europe/London:20250102T005500
+DTSTAMP:20250101T223100Z
+UID:ci0960123-tt20215234--2025-1-1-22-30
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -1037,23 +970,35 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241224T191000
-DTEND;TZID=Europe/London:20241224T220500
-DTSTAMP:20241224T191100Z
-UID:ci0960123-tt9218128--2024-12-24-19-10
+DTSTART;TZID=Europe/London:20250101T212000
+DTEND;TZID=Europe/London:20250102T001500
+DTSTAMP:20250101T212100Z
+UID:ci0960123-tt9218128--2025-1-1-21-20
 DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
  the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.8
+ ing: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=Europe/London:20250101T223000
+DTEND;TZID=Europe/London:20250102T004500
+DTSTAMP:20250101T223100Z
+UID:ci0960123-tt0087363--2025-1-1-22-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA young man inadvertently break
+ s three important rules concerning his new pet and unleashes a horde of ma
+ levolently mischievous monsters on a small town.\n\nhttps://www.imdb.com/t
+ itle/tt0087363/\n\nIMDb rating: 7.3
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kraven: The Hunter
-DTSTART;TZID=Europe/London:20241224T213000
-DTEND;TZID=Europe/London:20241225T000500
-DTSTAMP:20241224T213100Z
-UID:ci0960123-tt8790086--2024-12-24-21-30
+DTSTART;TZID=Europe/London:20250101T173000
+DTEND;TZID=Europe/London:20250101T200500
+DTSTAMP:20250101T173100Z
+UID:ci0960123-tt8790086--2025-1-1-17-30
 DESCRIPTION:Duration: 2h 07m (127 mins)\n\nKraven's complex relationship w
  ith his ruthless father\, Nikolai Kravinoff\, starts him down a path of ve
  ngeance with brutal consequences\, motivating him to become not only the g
@@ -1063,496 +1008,449 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241224T083000
-DTEND;TZID=Europe/London:20241224T103500
-DTSTAMP:20241224T083100Z
-UID:ci0960123-tt13622970--2024-12-24-8-30
+DTSTART;TZID=Europe/London:20250101T100000
+DTEND;TZID=Europe/London:20250101T120500
+DTSTAMP:20250101T100100Z
+UID:ci0960123-tt13622970--2025-1-1-10-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241224T105500
-DTEND;TZID=Europe/London:20241224T130000
-DTSTAMP:20241224T105600Z
-UID:ci0960123-tt13622970--2024-12-24-10-55
+DTSTART;TZID=Europe/London:20250101T121500
+DTEND;TZID=Europe/London:20250101T142000
+DTSTAMP:20250101T121600Z
+UID:ci0960123-tt13622970--2025-1-1-12-15
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241224T120500
-DTEND;TZID=Europe/London:20241224T141000
-DTSTAMP:20241224T120600Z
-UID:ci0960123-tt13622970--2024-12-24-12-5
+DTSTART;TZID=Europe/London:20250101T133500
+DTEND;TZID=Europe/London:20250101T154000
+DTSTAMP:20250101T133600Z
+UID:ci0960123-tt13622970--2025-1-1-13-35
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241224T130000
-DTEND;TZID=Europe/London:20241224T150500
-DTSTAMP:20241224T130100Z
-UID:ci0960123-tt13622970--2024-12-24-13-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241224T140500
-DTEND;TZID=Europe/London:20241224T161000
-DTSTAMP:20241224T140600Z
-UID:ci0960123-tt13622970--2024-12-24-14-5
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241224T152500
-DTEND;TZID=Europe/London:20241224T173000
-DTSTAMP:20241224T152600Z
-UID:ci0960123-tt13622970--2024-12-24-15-25
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2 (3D)
-DTSTART;TZID=Europe/London:20241224T182500
-DTEND;TZID=Europe/London:20241224T203000
-DTSTAMP:20241224T182600Z
-UID:ci0960123-tt13622970-3d-2024-12-24-18-25
+DTSTART;TZID=Europe/London:20250101T205000
+DTEND;TZID=Europe/London:20250101T225500
+DTSTAMP:20250101T205100Z
+UID:ci0960123-tt13622970-3d-2025-1-1-20-50
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T092500
-DTEND;TZID=Europe/London:20241224T115000
-DTSTAMP:20241224T092600Z
-UID:ci0960123-tt13186482--2024-12-24-9-25
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20250101T184000
+DTEND;TZID=Europe/London:20250101T210500
+DTSTAMP:20250101T184100Z
+UID:ci0960123-tt13186482--2025-1-1-18-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T101500
-DTEND;TZID=Europe/London:20241224T124000
-DTSTAMP:20241224T101600Z
-UID:ci0960123-tt13186482--2024-12-24-10-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20250101T204500
+DTEND;TZID=Europe/London:20250101T231000
+DTSTAMP:20250101T204600Z
+UID:ci0960123-tt13186482--2025-1-1-20-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T112500
-DTEND;TZID=Europe/London:20241224T135000
-DTSTAMP:20241224T112600Z
-UID:ci0960123-tt13186482--2024-12-24-11-25
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250101T132000
+DTEND;TZID=Europe/London:20250101T160000
+DTSTAMP:20250101T132100Z
+UID:ci0960123-tt5040012--2025-1-1-13-20
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T123500
-DTEND;TZID=Europe/London:20241224T150000
-DTSTAMP:20241224T123600Z
-UID:ci0960123-tt13186482--2024-12-24-12-35
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250101T150500
+DTEND;TZID=Europe/London:20250101T174500
+DTSTAMP:20250101T150600Z
+UID:ci0960123-tt5040012--2025-1-1-15-5
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T154000
-DTEND;TZID=Europe/London:20241224T180500
-DTSTAMP:20241224T154100Z
-UID:ci0960123-tt13186482--2024-12-24-15-40
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250101T171500
+DTEND;TZID=Europe/London:20250101T195500
+DTSTAMP:20250101T171600Z
+UID:ci0960123-tt5040012--2025-1-1-17-15
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T163500
-DTEND;TZID=Europe/London:20241224T190000
-DTSTAMP:20241224T163600Z
-UID:ci0960123-tt13186482--2024-12-24-16-35
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250101T185500
+DTEND;TZID=Europe/London:20250101T213500
+DTSTAMP:20250101T185600Z
+UID:ci0960123-tt5040012--2025-1-1-18-55
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T173000
-DTEND;TZID=Europe/London:20241224T195500
-DTSTAMP:20241224T173100Z
-UID:ci0960123-tt13186482--2024-12-24-17-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250101T200000
+DTEND;TZID=Europe/London:20250101T224000
+DTSTAMP:20250101T200100Z
+UID:ci0960123-tt5040012--2025-1-1-20-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T181500
-DTEND;TZID=Europe/London:20241224T204000
-DTSTAMP:20241224T181600Z
-UID:ci0960123-tt13186482--2024-12-24-18-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T195000
-DTEND;TZID=Europe/London:20241224T221500
-DTSTAMP:20241224T195100Z
-UID:ci0960123-tt13186482--2024-12-24-19-50
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241224T205500
-DTEND;TZID=Europe/London:20241224T232000
-DTSTAMP:20241224T205600Z
-UID:ci0960123-tt13186482--2024-12-24-20-55
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red One
-DTSTART;TZID=Europe/London:20241224T142500
-DTEND;TZID=Europe/London:20241224T165500
-DTSTAMP:20241224T142600Z
-UID:ci0960123-tt14948432--2024-12-24-14-25
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nAfter Santa Claus is kidnapped\
- , the North Pole's Head of Security must team up with a notorious hacker i
- n a globe-trotting\, action-packed mission to save Christmas.\n\nhttps://w
- ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red One
-DTSTART;TZID=Europe/London:20241224T201500
-DTEND;TZID=Europe/London:20241224T224500
-DTSTAMP:20241224T201600Z
-UID:ci0960123-tt14948432--2024-12-24-20-15
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nAfter Santa Claus is kidnapped\
- , the North Pole's Head of Security must team up with a notorious hacker i
- n a globe-trotting\, action-packed mission to save Christmas.\n\nhttps://w
- ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.5
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250101T221500
+DTEND;TZID=Europe/London:20250102T005500
+DTSTAMP:20250101T221600Z
+UID:ci0960123-tt5040012--2025-1-1-22-15
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T000000
-DTEND;TZID=Europe/London:20241224T021500
-DTSTAMP:20241224T000100Z
-UID:ci0960123-tt18259086--2024-12-24-0-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250101T100000
+DTEND;TZID=Europe/London:20250101T121500
+DTSTAMP:20250101T100100Z
+UID:ci0960123-tt18259086--2025-1-1-10-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T083000
-DTEND;TZID=Europe/London:20241224T104500
-DTSTAMP:20241224T083100Z
-UID:ci0960123-tt18259086--2024-12-24-8-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250101T105000
+DTEND;TZID=Europe/London:20250101T130500
+DTSTAMP:20250101T105100Z
+UID:ci0960123-tt18259086--2025-1-1-10-50
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T093500
-DTEND;TZID=Europe/London:20241224T115000
-DTSTAMP:20241224T093600Z
-UID:ci0960123-tt18259086--2024-12-24-9-35
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250101T125000
+DTEND;TZID=Europe/London:20250101T150500
+DTSTAMP:20250101T125100Z
+UID:ci0960123-tt18259086--2025-1-1-12-50
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T110000
-DTEND;TZID=Europe/London:20241224T131500
-DTSTAMP:20241224T110100Z
-UID:ci0960123-tt18259086--2024-12-24-11-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250101T144500
+DTEND;TZID=Europe/London:20250101T170000
+DTSTAMP:20250101T144600Z
+UID:ci0960123-tt18259086--2025-1-1-14-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T122000
-DTEND;TZID=Europe/London:20241224T143500
-DTSTAMP:20241224T122100Z
-UID:ci0960123-tt18259086--2024-12-24-12-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250101T163000
+DTEND;TZID=Europe/London:20250101T184500
+DTSTAMP:20250101T163100Z
+UID:ci0960123-tt18259086--2025-1-1-16-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T134000
-DTEND;TZID=Europe/London:20241224T155500
-DTSTAMP:20241224T134100Z
-UID:ci0960123-tt18259086--2024-12-24-13-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250101T215500
+DTEND;TZID=Europe/London:20250102T001000
+DTSTAMP:20250101T215600Z
+UID:ci0960123-tt18259086--2025-1-1-21-55
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T145500
-DTEND;TZID=Europe/London:20241224T171000
-DTSTAMP:20241224T145600Z
-UID:ci0960123-tt18259086--2024-12-24-14-55
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250101T224500
+DTEND;TZID=Europe/London:20250102T010000
+DTSTAMP:20250101T224600Z
+UID:ci0960123-tt18259086--2025-1-1-22-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T162000
-DTEND;TZID=Europe/London:20241224T183500
-DTSTAMP:20241224T162100Z
-UID:ci0960123-tt18259086--2024-12-24-16-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20250101T100000
+DTEND;TZID=Europe/London:20250101T121000
+DTSTAMP:20250101T100100Z
+UID:ci0960123-tt8864596--2025-1-1-10-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T171000
-DTEND;TZID=Europe/London:20241224T192500
-DTSTAMP:20241224T171100Z
-UID:ci0960123-tt18259086--2024-12-24-17-10
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250101T113000
+DTEND;TZID=Europe/London:20250101T134500
+DTSTAMP:20250101T113100Z
+UID:ci0960123-tt27131358--2025-1-1-11-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T175500
-DTEND;TZID=Europe/London:20241224T201000
-DTSTAMP:20241224T175600Z
-UID:ci0960123-tt18259086--2024-12-24-17-55
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250101T171500
+DTEND;TZID=Europe/London:20250101T193000
+DTSTAMP:20250101T171600Z
+UID:ci0960123-tt27131358--2025-1-1-17-15
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T185000
-DTEND;TZID=Europe/London:20241224T210500
-DTSTAMP:20241224T185100Z
-UID:ci0960123-tt18259086--2024-12-24-18-50
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250101T194500
+DTEND;TZID=Europe/London:20250101T220000
+DTSTAMP:20250101T194600Z
+UID:ci0960123-tt27131358--2025-1-1-19-45
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241224T213000
-DTEND;TZID=Europe/London:20241224T234500
-DTSTAMP:20241224T213100Z
-UID:ci0960123-tt18259086--2024-12-24-21-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241224T100000
-DTEND;TZID=Europe/London:20241224T121000
-DTSTAMP:20241224T100100Z
-UID:ci0960123-tt29623480--2024-12-24-10-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.2
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250101T230500
+DTEND;TZID=Europe/London:20250102T012000
+DTSTAMP:20250101T230600Z
+UID:ci0960123-tt27131358--2025-1-1-23-5
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241224T151500
-DTEND;TZID=Europe/London:20241224T182000
-DTSTAMP:20241224T151600Z
-UID:ci0960123-tt1262426--2024-12-24-15-15
+DTSTART;TZID=Europe/London:20250101T112500
+DTEND;TZID=Europe/London:20250101T143000
+DTSTAMP:20250101T112600Z
+UID:ci0960123-tt1262426--2025-1-1-11-25
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241224T203000
-DTEND;TZID=Europe/London:20241224T233500
-DTSTAMP:20241224T203100Z
-UID:ci0960123-tt1262426--2024-12-24-20-30
+DTSTART;TZID=Europe/London:20250101T152000
+DTEND;TZID=Europe/London:20250101T182500
+DTSTAMP:20250101T152100Z
+UID:ci0960123-tt1262426--2025-1-1-15-20
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=Europe/London:20250101T191000
+DTEND;TZID=Europe/London:20250101T221500
+DTSTAMP:20250101T191100Z
+UID:ci0960123-tt1262426--2025-1-1-19-10
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20241226T145000
-DTEND;TZID=Europe/London:20241226T173000
-DTSTAMP:20241226T145100Z
-UID:ci0960123-tt14260836--2024-12-26-14-50
+DTSTART;TZID=Europe/London:20250102T111000
+DTEND;TZID=Europe/London:20250102T135000
+DTSTAMP:20250102T111100Z
+UID:ci0960123-tt14260836--2025-1-2-11-10
 DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
  op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20241226T170000
-DTEND;TZID=Europe/London:20241226T194000
-DTSTAMP:20241226T170100Z
-UID:ci0960123-tt14260836--2024-12-26-17-0
+DTSTART;TZID=Europe/London:20250102T131500
+DTEND;TZID=Europe/London:20250102T155500
+DTSTAMP:20250102T131600Z
+UID:ci0960123-tt14260836--2025-1-2-13-15
 DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
  op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20241226T201500
-DTEND;TZID=Europe/London:20241226T225500
-DTSTAMP:20241226T201600Z
-UID:ci0960123-tt14260836--2024-12-26-20-15
+DTSTART;TZID=Europe/London:20250102T145000
+DTEND;TZID=Europe/London:20250102T173000
+DTSTAMP:20250102T145100Z
+UID:ci0960123-tt14260836--2025-1-2-14-50
 DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
  op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
- nIMDb rating: 7.1
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250102T161500
+DTEND;TZID=Europe/London:20250102T185500
+DTSTAMP:20250102T161600Z
+UID:ci0960123-tt14260836--2025-1-2-16-15
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250102T170000
+DTEND;TZID=Europe/London:20250102T194000
+DTSTAMP:20250102T170100Z
+UID:ci0960123-tt14260836--2025-1-2-17-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250102T185500
+DTEND;TZID=Europe/London:20250102T213500
+DTSTAMP:20250102T185600Z
+UID:ci0960123-tt14260836--2025-1-2-18-55
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250102T204000
+DTEND;TZID=Europe/London:20250102T232000
+DTSTAMP:20250102T204100Z
+UID:ci0960123-tt14260836--2025-1-2-20-40
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250102T220500
+DTEND;TZID=Europe/London:20250103T004500
+DTSTAMP:20250102T220600Z
+UID:ci0960123-tt14260836--2025-1-2-22-5
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Better Man
+DTSTART;TZID=Europe/London:20250102T223500
+DTEND;TZID=Europe/London:20250103T011500
+DTSTAMP:20250102T223600Z
+UID:ci0960123-tt14260836--2025-1-2-22-35
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
+ op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
+ nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241226T114500
-DTEND;TZID=Europe/London:20241226T141000
-DTSTAMP:20241226T114600Z
-UID:ci0960123-tt20215234--2024-12-26-11-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241226T135500
-DTEND;TZID=Europe/London:20241226T162000
-DTSTAMP:20241226T135600Z
-UID:ci0960123-tt20215234--2024-12-26-13-55
+DTSTART;TZID=Europe/London:20250102T121000
+DTEND;TZID=Europe/London:20250102T143500
+DTSTAMP:20250102T121100Z
+UID:ci0960123-tt20215234--2025-1-2-12-10
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
  d with leading one of the world's most secretive and ancient events\, sele
  cting a new Pope\, he finds himself at the center of a conspiracy that cou
@@ -1562,411 +1460,380 @@ LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241226T163500
-DTEND;TZID=Europe/London:20241226T193000
-DTSTAMP:20241226T163600Z
-UID:ci0960123-tt9218128--2024-12-26-16-35
+DTSTART;TZID=Europe/London:20250102T150500
+DTEND;TZID=Europe/London:20250102T180000
+DTSTAMP:20250102T150600Z
+UID:ci0960123-tt9218128--2025-1-2-15-5
 DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
  the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kraven: The Hunter
-DTSTART;TZID=Europe/London:20241226T202500
-DTEND;TZID=Europe/London:20241226T230000
-DTSTAMP:20241226T202600Z
-UID:ci0960123-tt8790086--2024-12-26-20-25
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nKraven's complex relationship w
- ith his ruthless father\, Nikolai Kravinoff\, starts him down a path of ve
- ngeance with brutal consequences\, motivating him to become not only the g
- reatest hunter in the world\, but also one of its most ...\n\nhttps://www.
- imdb.com/title/tt8790086/\n\nIMDb rating: 5.4
+ ing: 6.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241226T102000
-DTEND;TZID=Europe/London:20241226T122500
-DTSTAMP:20241226T102100Z
-UID:ci0960123-tt13622970--2024-12-26-10-20
+DTSTART;TZID=Europe/London:20250102T090000
+DTEND;TZID=Europe/London:20250102T110500
+DTSTAMP:20250102T090100Z
+UID:ci0960123-tt13622970--2025-1-2-9-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20241226T124000
-DTEND;TZID=Europe/London:20241226T144500
-DTSTAMP:20241226T124100Z
-UID:ci0960123-tt13622970--2024-12-26-12-40
+DTSTART;TZID=Europe/London:20250102T095000
+DTEND;TZID=Europe/London:20250102T115500
+DTSTAMP:20250102T095100Z
+UID:ci0960123-tt13622970--2025-1-2-9-50
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=Europe/London:20250102T141500
+DTEND;TZID=Europe/London:20250102T162000
+DTSTAMP:20250102T141600Z
+UID:ci0960123-tt13622970--2025-1-2-14-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moana 2 (3D)
-DTSTART;TZID=Europe/London:20241226T182000
-DTEND;TZID=Europe/London:20241226T202500
-DTSTAMP:20241226T182100Z
-UID:ci0960123-tt13622970-3d-2024-12-26-18-20
+DTSTART;TZID=Europe/London:20250102T194500
+DTEND;TZID=Europe/London:20250102T215000
+DTSTAMP:20250102T194600Z
+UID:ci0960123-tt13622970-3d-2025-1-2-19-45
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
  all from her wayfinding ancestors\, Moana must journey to the far seas of 
  Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
  hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
+ ating: 6.9
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T111500
-DTEND;TZID=Europe/London:20241226T134000
-DTSTAMP:20241226T111600Z
-UID:ci0960123-tt13186482--2024-12-26-11-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20250102T090000
+DTEND;TZID=Europe/London:20250102T112500
+DTSTAMP:20250102T090100Z
+UID:ci0960123-tt13186482--2025-1-2-9-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T122500
-DTEND;TZID=Europe/London:20241226T145000
-DTSTAMP:20241226T122600Z
-UID:ci0960123-tt13186482--2024-12-26-12-25
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20250102T135500
+DTEND;TZID=Europe/London:20250102T162000
+DTSTAMP:20250102T135600Z
+UID:ci0960123-tt13186482--2025-1-2-13-55
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T133500
-DTEND;TZID=Europe/London:20241226T160000
-DTSTAMP:20241226T133600Z
-UID:ci0960123-tt13186482--2024-12-26-13-35
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20250102T180500
+DTEND;TZID=Europe/London:20250102T203000
+DTSTAMP:20250102T180600Z
+UID:ci0960123-tt13186482--2025-1-2-18-5
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T153500
-DTEND;TZID=Europe/London:20241226T180000
-DTSTAMP:20241226T153600Z
-UID:ci0960123-tt13186482--2024-12-26-15-35
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
+DTSTART;TZID=Europe/London:20250102T195500
+DTEND;TZID=Europe/London:20250102T222000
+DTSTAMP:20250102T195600Z
+UID:ci0960123-tt13186482--2025-1-2-19-55
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
  earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+ MDb rating: 6.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T174500
-DTEND;TZID=Europe/London:20241226T201000
-DTSTAMP:20241226T174600Z
-UID:ci0960123-tt13186482--2024-12-26-17-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250102T163500
+DTEND;TZID=Europe/London:20250102T191500
+DTSTAMP:20250102T163600Z
+UID:ci0960123-tt5040012--2025-1-2-16-35
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T185500
-DTEND;TZID=Europe/London:20241226T212000
-DTSTAMP:20241226T185600Z
-UID:ci0960123-tt13186482--2024-12-26-18-55
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250102T174500
+DTEND;TZID=Europe/London:20250102T202500
+DTSTAMP:20250102T174600Z
+UID:ci0960123-tt5040012--2025-1-2-17-45
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T195000
-DTEND;TZID=Europe/London:20241226T221500
-DTSTAMP:20241226T195100Z
-UID:ci0960123-tt13186482--2024-12-26-19-50
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250102T191000
+DTEND;TZID=Europe/London:20250102T215000
+DTSTAMP:20250102T191100Z
+UID:ci0960123-tt5040012--2025-1-2-19-10
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20241226T214000
-DTEND;TZID=Europe/London:20241227T000500
-DTSTAMP:20241226T214100Z
-UID:ci0960123-tt13186482--2024-12-26-21-40
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250102T195000
+DTEND;TZID=Europe/London:20250102T223000
+DTSTAMP:20250102T195100Z
+UID:ci0960123-tt5040012--2025-1-2-19-50
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250102T205000
+DTEND;TZID=Europe/London:20250102T233000
+DTSTAMP:20250102T205100Z
+UID:ci0960123-tt5040012--2025-1-2-20-50
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=Europe/London:20250102T224000
+DTEND;TZID=Europe/London:20250103T012000
+DTSTAMP:20250102T224100Z
+UID:ci0960123-tt5040012--2025-1-2-22-40
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red One
-DTSTART;TZID=Europe/London:20241226T221500
-DTEND;TZID=Europe/London:20241227T004500
-DTSTAMP:20241226T221600Z
-UID:ci0960123-tt14948432--2024-12-26-22-15
+DTSTART;TZID=Europe/London:20250102T104000
+DTEND;TZID=Europe/London:20250102T131000
+DTSTAMP:20250102T104100Z
+UID:ci0960123-tt14948432--2025-1-2-10-40
 DESCRIPTION:Duration: 2h 03m (123 mins)\n\nAfter Santa Claus is kidnapped\
  , the North Pole's Head of Security must team up with a notorious hacker i
  n a globe-trotting\, action-packed mission to save Christmas.\n\nhttps://w
- ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.5
+ ww.imdb.com/title/tt14948432/\n\nIMDb rating: 6.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T110000
-DTEND;TZID=Europe/London:20241226T131500
-DTSTAMP:20241226T110100Z
-UID:ci0960123-tt18259086--2024-12-26-11-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250102T092500
+DTEND;TZID=Europe/London:20250102T114000
+DTSTAMP:20250102T092600Z
+UID:ci0960123-tt18259086--2025-1-2-9-25
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T121000
-DTEND;TZID=Europe/London:20241226T142500
-DTSTAMP:20241226T121100Z
-UID:ci0960123-tt18259086--2024-12-26-12-10
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250102T112500
+DTEND;TZID=Europe/London:20250102T134000
+DTSTAMP:20250102T112600Z
+UID:ci0960123-tt18259086--2025-1-2-11-25
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T130000
-DTEND;TZID=Europe/London:20241226T151500
-DTSTAMP:20241226T130100Z
-UID:ci0960123-tt18259086--2024-12-26-13-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250102T133000
+DTEND;TZID=Europe/London:20250102T154500
+DTSTAMP:20250102T133100Z
+UID:ci0960123-tt18259086--2025-1-2-13-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T142500
-DTEND;TZID=Europe/London:20241226T164000
-DTSTAMP:20241226T142600Z
-UID:ci0960123-tt18259086--2024-12-26-14-25
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250102T162000
+DTEND;TZID=Europe/London:20250102T183500
+DTSTAMP:20250102T162100Z
+UID:ci0960123-tt18259086--2025-1-2-16-20
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T150500
-DTEND;TZID=Europe/London:20241226T172000
-DTSTAMP:20241226T150600Z
-UID:ci0960123-tt18259086--2024-12-26-15-5
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
+DTSTART;TZID=Europe/London:20250102T215000
+DTEND;TZID=Europe/London:20250103T000500
+DTSTAMP:20250102T215100Z
+UID:ci0960123-tt18259086--2025-1-2-21-50
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
  unite against a powerful new adversary\, Shadow\, a mysterious villain wit
  h powers unlike anything they have faced before. With their abilities outm
  atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+ b.com/title/tt18259086/\n\nIMDb rating: 7.4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T162000
-DTEND;TZID=Europe/London:20241226T183500
-DTSTAMP:20241226T162100Z
-UID:ci0960123-tt18259086--2024-12-26-16-20
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:Transformers One
+DTSTART;TZID=Europe/London:20250102T100000
+DTEND;TZID=Europe/London:20250102T121000
+DTSTAMP:20250102T100100Z
+UID:ci0960123-tt8864596--2025-1-2-10-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe untold origin story of Opti
+ mus Prime and Megatron\, better known as sworn enemies\, but who once were
+  friends bonded like brothers who changed the fate of Cybertron forever.\n
+ \nhttps://www.imdb.com/title/tt8864596/\n\nIMDb rating: 7.6
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T173500
-DTEND;TZID=Europe/London:20241226T195000
-DTSTAMP:20241226T173600Z
-UID:ci0960123-tt18259086--2024-12-26-17-35
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250102T115500
+DTEND;TZID=Europe/London:20250102T141000
+DTSTAMP:20250102T115600Z
+UID:ci0960123-tt27131358--2025-1-2-11-55
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T184000
-DTEND;TZID=Europe/London:20241226T205500
-DTSTAMP:20241226T184100Z
-UID:ci0960123-tt18259086--2024-12-26-18-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250102T163500
+DTEND;TZID=Europe/London:20250102T185000
+DTSTAMP:20250102T163600Z
+UID:ci0960123-tt27131358--2025-1-2-16-35
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T194500
-DTEND;TZID=Europe/London:20241226T220000
-DTSTAMP:20241226T194600Z
-UID:ci0960123-tt18259086--2024-12-26-19-45
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250102T183500
+DTEND;TZID=Europe/London:20250102T205000
+DTSTAMP:20250102T183600Z
+UID:ci0960123-tt27131358--2025-1-2-18-35
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T204000
-DTEND;TZID=Europe/London:20241226T225500
-DTSTAMP:20241226T204100Z
-UID:ci0960123-tt18259086--2024-12-26-20-40
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20241226T222500
-DTEND;TZID=Europe/London:20241227T004000
-DTSTAMP:20241226T222600Z
-UID:ci0960123-tt18259086--2024-12-26-22-25
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241226T100000
-DTEND;TZID=Europe/London:20241226T121000
-DTSTAMP:20241226T100100Z
-UID:ci0960123-tt29623480--2024-12-26-10-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.2
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250102T210500
+DTEND;TZID=Europe/London:20250102T232000
+DTSTAMP:20250102T210600Z
+UID:ci0960123-tt27131358--2025-1-2-21-5
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAn up-and-coming chef and a rec
+ ent divorcée find their lives forever changed when a chance encounter bri
+ ngs them together\, in a decade-spanning\, deeply moving romance.\n\nhttps
+ ://www.imdb.com/title/tt27131358/\n\nIMDb rating: 7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241226T100000
-DTEND;TZID=Europe/London:20241226T130500
-DTSTAMP:20241226T100100Z
-UID:ci0960123-tt1262426--2024-12-26-10-0
+DTSTART;TZID=Europe/London:20250102T141000
+DTEND;TZID=Europe/London:20250102T171500
+DTSTAMP:20250102T141100Z
+UID:ci0960123-tt1262426--2025-1-2-14-10
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241226T150000
-DTEND;TZID=Europe/London:20241226T180500
-DTSTAMP:20241226T150100Z
-UID:ci0960123-tt1262426--2024-12-26-15-0
+SUMMARY:Wicked (3D)
+DTSTART;TZID=Europe/London:20250102T221500
+DTEND;TZID=Europe/London:20250103T012000
+DTSTAMP:20250102T221600Z
+UID:ci0960123-tt1262426-3d-2025-1-2-22-15
 DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
  .imdb.com/title/tt1262426/\n\nIMDb rating: 8
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20241226T201000
-DTEND;TZID=Europe/London:20241226T231500
-DTSTAMP:20241226T201100Z
-UID:ci0960123-tt1262426--2024-12-26-20-10
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Glinda\, a popular girl\, become fr
- iends at Shiz University in the Land of Oz. After an encounter with the Wo
- nderful Wizard of Oz\, their friendship reaches a crossr...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 8
+SUMMARY:National Theatre Live: Nye
+DTSTART;TZID=Europe/London:20250112T140000
+DTEND;TZID=Europe/London:20250112T170500
+DTSTAMP:20250112T140100Z
+UID:ci0960123-tt30985842--2025-1-12-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nConfronted with death\, Aneurin
+  'Nye' Bevan's deepest memories lead him on a mind-bending journey back th
+ rough his life\; from childhood to mining underground\, Parliament and fig
+ hts with Churchill.\n\nhttps://www.imdb.com/title/tt30985842/\n\nIMDb rati
+ ng: 8.1
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20241227T201500
-DTEND;TZID=Europe/London:20241227T225500
-DTSTAMP:20241227T201600Z
-UID:ci0960123-tt14260836--2024-12-27-20-15
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
- op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
- nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20241228T201500
-DTEND;TZID=Europe/London:20241228T225500
-DTSTAMP:20241228T201600Z
-UID:ci0960123-tt14260836--2024-12-28-20-15
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
- op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
- nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20241229T201500
-DTEND;TZID=Europe/London:20241229T225500
-DTSTAMP:20241229T201600Z
-UID:ci0960123-tt14260836--2024-12-29-20-15
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA singular profile of British p
- op superstar Robbie Williams.\n\nhttps://www.imdb.com/title/tt14260836/\n\
- nIMDb rating: 7.1
+SUMMARY:National Theatre Live: Nye
+DTSTART;TZID=Europe/London:20250114T133000
+DTEND;TZID=Europe/London:20250114T163500
+DTSTAMP:20250114T133100Z
+UID:ci0960123-tt30985842--2025-1-14-13-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nConfronted with death\, Aneurin
+  'Nye' Bevan's deepest memories lead him on a mind-bending journey back th
+ rough his life\; from childhood to mining underground\, Parliament and fig
+ hts with Churchill.\n\nhttps://www.imdb.com/title/tt30985842/\n\nIMDb rati
+ ng: 8.1
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 END:VCALENDAR

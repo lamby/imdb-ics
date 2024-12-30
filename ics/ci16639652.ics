@@ -1,7 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241222T090248Z
+LAST-MODIFIED:20241230T101432Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
+BEGIN:VEVENT
+SUMMARY:Bona (1980)
+DTSTART;TZID=America/Los_Angeles:20250110T190000
+DTEND;TZID=America/Los_Angeles:20250110T205000
+DTSTAMP:20250111T025300Z
+UID:ci16639652-tt0082093--2025-1-10-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA female movie fan idolizes a mo
+ vie bit-player who becomes her obsession. Her unrequited love for him lead
+ s to a nightmarish end.\n\nhttps://www.imdb.com/title/tt0082093/\n\nIMDb r
+ ating: 7.4
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
 END:VCALENDAR
