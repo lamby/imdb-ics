@@ -1,100 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241230T101412Z
+LAST-MODIFIED:20241231T090306Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20241230T160000
-DTEND;TZID=America/Los_Angeles:20241230T185000
-DTSTAMP:20241230T235300Z
-UID:ci16639653-tt11563598--2024-12-30-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20241230T190000
-DTEND;TZID=America/Los_Angeles:20241230T215000
-DTSTAMP:20241231T025300Z
-UID:ci16639653-tt11563598--2024-12-30-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20241230T163000
-DTEND;TZID=America/Los_Angeles:20241230T185000
-DTSTAMP:20241231T002300Z
-UID:ci16639653-tt30057084--2024-12-30-16-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20241230T193000
-DTEND;TZID=America/Los_Angeles:20241230T215000
-DTSTAMP:20241231T032300Z
-UID:ci16639653-tt30057084--2024-12-30-19-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20241230T161500
-DTEND;TZID=America/Los_Angeles:20241230T185500
-DTSTAMP:20241231T000800Z
-UID:ci16639653-tt5040012--2024-12-30-16-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20241230T191500
-DTEND;TZID=America/Los_Angeles:20241230T215500
-DTSTAMP:20241231T030800Z
-UID:ci16639653-tt5040012--2024-12-30-19-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
 DTSTART;TZID=America/Los_Angeles:20241231T140000
 DTEND;TZID=America/Los_Angeles:20241231T165000
 DTSTAMP:20241231T215300Z
 UID:ci16639653-tt11563598--2024-12-31-14-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -104,11 +24,11 @@ DTSTART;TZID=America/Los_Angeles:20241231T170000
 DTEND;TZID=America/Los_Angeles:20241231T195000
 DTSTAMP:20250101T005300Z
 UID:ci16639653-tt11563598--2024-12-31-17-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -121,7 +41,7 @@ UID:ci16639653-tt30057084--2024-12-31-14-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
+ .6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -169,11 +89,11 @@ DTSTART;TZID=America/Los_Angeles:20250101T130000
 DTEND;TZID=America/Los_Angeles:20250101T155000
 DTSTAMP:20250101T205300Z
 UID:ci16639653-tt11563598--2025-1-1-13-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -183,11 +103,11 @@ DTSTART;TZID=America/Los_Angeles:20250101T160000
 DTEND;TZID=America/Los_Angeles:20250101T185000
 DTSTAMP:20250101T235300Z
 UID:ci16639653-tt11563598--2025-1-1-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -197,11 +117,11 @@ DTSTART;TZID=America/Los_Angeles:20250101T190000
 DTEND;TZID=America/Los_Angeles:20250101T215000
 DTSTAMP:20250102T025300Z
 UID:ci16639653-tt11563598--2025-1-1-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -214,7 +134,7 @@ UID:ci16639653-tt30057084--2025-1-1-13-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
+ .6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -227,7 +147,7 @@ UID:ci16639653-tt30057084--2025-1-1-16-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
+ .6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -240,7 +160,7 @@ UID:ci16639653-tt30057084--2025-1-1-19-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
+ .6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -289,11 +209,11 @@ DTSTART;TZID=America/Los_Angeles:20250102T160000
 DTEND;TZID=America/Los_Angeles:20250102T185000
 DTSTAMP:20250102T235300Z
 UID:ci16639653-tt11563598--2025-1-2-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -303,11 +223,11 @@ DTSTART;TZID=America/Los_Angeles:20250102T190000
 DTEND;TZID=America/Los_Angeles:20250102T215000
 DTSTAMP:20250103T025300Z
 UID:ci16639653-tt11563598--2025-1-2-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, unknown 19-year-old B
- ob Dylan arrives in New York City with his guitar. He forges relationships
-  with music icons of Greenwich Village on his meteoric rise\, culminating 
- in a groundbreaking performance that reverberates wor...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.9
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -320,7 +240,7 @@ UID:ci16639653-tt30057084--2025-1-2-16-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
+ .6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -333,7 +253,7 @@ UID:ci16639653-tt30057084--2025-1-2-19-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .5
+ .6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -537,6 +457,34 @@ DTSTART;TZID=America/Los_Angeles:20250114T191500
 DTEND;TZID=America/Los_Angeles:20250114T213000
 DTSTAMP:20250115T030800Z
 UID:ci16639653-tt29439114--2025-1-14-19-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250115T163000
+DTEND;TZID=America/Los_Angeles:20250115T184500
+DTSTAMP:20250116T002300Z
+UID:ci16639653-tt29439114--2025-1-15-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250115T191500
+DTEND;TZID=America/Los_Angeles:20250115T213000
+DTSTAMP:20250116T030800Z
+UID:ci16639653-tt29439114--2025-1-15-19-15
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
  iends in their youth\, when they worked together at the same magazine. Aft
  er years of being out of touch\, they meet again in an extreme but strange
