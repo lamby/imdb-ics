@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241231T090120Z
+LAST-MODIFIED:20250101T105326Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20241231T150000
-DTEND;TZID=America/Los_Angeles:20241231T174500
-DTSTAMP:20241231T225300Z
-UID:ci0005472-tt28607951--2024-12-31-15-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anora
 DTSTART;TZID=America/Los_Angeles:20250101T190000
@@ -197,7 +183,7 @@ LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mountains
+SUMMARY:Mountains (2023)
 DTSTART;TZID=America/Los_Angeles:20250109T190000
 DTEND;TZID=America/Los_Angeles:20250109T210000
 DTSTAMP:20250110T025300Z
@@ -205,7 +191,7 @@ UID:ci0005472-tt22170270--2025-1-9-19-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Haitian demolition worker is f
  aced with the realities of redevelopment as he is tasked with dismantling 
  his rapidly gentrifying neighborhood.\n\nhttps://www.imdb.com/title/tt2217
- 0270/\n\nIMDb rating: 7
+ 0270/\n\nIMDb rating: 7.1
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -231,7 +217,7 @@ UID:ci0005472-tt27989261--2025-1-11-16-30
 DESCRIPTION:Duration: 0h 41m (41 mins)\n\nA self-portrait of the director 
  and his oeuvre\, revisiting in free-form more than 40 years of the author'
  s filmography.\n\nhttps://www.imdb.com/title/tt27989261/\n\nIMDb rating: 6
- .8
+ .9
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

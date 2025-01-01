@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241231T090206Z
+LAST-MODIFIED:20250101T105418Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Art on Film\, Program 3: Form (1992)
-DTSTART;TZID=America/Los_Angeles:20241231T163000
-DTEND;TZID=America/Los_Angeles:20241231T175000
-DTSTAMP:20250101T002300Z
-UID:ci1024213-tt3773736--2024-12-31-16-30
-DESCRIPTION:Duration: 0h 52m (52 mins)\n\nThe Program for Art on Film was 
- a joint venture of The Metropolitan Museum of Art and the J. Paul Getty Tr
- ust. It was established in 1984 to foster new ways of thinking about the r
- elationship between art and moving-image media. Be...\n\nhttps://www.imdb.
- com/title/tt3773736/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phantom Thread (2017)
-DTSTART;TZID=America/Los_Angeles:20241231T193000
-DTEND;TZID=America/Los_Angeles:20241231T220500
-DTSTAMP:20250101T032300Z
-UID:ci1024213-tt5776858--2024-12-31-19-30
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nSet in 1950s London\, Reynolds 
- Woodcock is a renowned dressmaker whose fastidious life is disrupted by a 
- young\, strong-willed woman\, Alma\, who becomes his muse and lover.\n\nht
- tps://www.imdb.com/title/tt5776858/\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Happy-Go-Lucky (2008)
 DTSTART;TZID=America/Los_Angeles:20250101T193000
