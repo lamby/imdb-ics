@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250101T105418Z
+LAST-MODIFIED:20250102T094544Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Happy-Go-Lucky (2008)
-DTSTART;TZID=America/Los_Angeles:20250101T193000
-DTEND;TZID=America/Los_Angeles:20250101T215500
-DTSTAMP:20250102T032300Z
-UID:ci1024213-tt1045670--2025-1-1-19-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA look at a few chapters in the
-  life of Poppy\, a cheery\, colorful\, North London schoolteacher whose op
- timism tends to exasperate those around her.\n\nhttps://www.imdb.com/title
- /tt1045670/\n\nIMDb rating: 7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Happy-Go-Lucky (2008)
 DTSTART;TZID=America/Los_Angeles:20250102T193000
