@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250102T094441Z
+LAST-MODIFIED:20250103T101638Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=America/Los_Angeles:20250102T190000
-DTEND;TZID=America/Los_Angeles:20250102T214500
-DTSTAMP:20250103T025300Z
-UID:ci0005472-tt28607951--2025-1-2-19-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAnora\, a young sex worker from
-  Brooklyn\, meets and impulsively marries the son of an oligarch. Once the
-  news reaches Russia\, her fairytale is threatened as his parents set out 
- for New York to get the marriage annulled.\n\nhttps://www.imdb.com/title/t
- t28607951/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Ground Zero
 DTSTART;TZID=America/Los_Angeles:20250103T190000
@@ -122,7 +108,7 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\n\nCopenhagen 1919: A young worker
   finds herself unemployed and pregnant. She meets Dagmar\, who runs an und
  erground adoption agency. A strong connection grows but her world shatters
   when she stumbles on the shocking truth behind her ...\n\nhttps://www.imd
- b.com/title/tt10236164/\n\nIMDb rating: 7.4
+ b.com/title/tt10236164/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -136,7 +122,7 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\n\nCopenhagen 1919: A young worker
   finds herself unemployed and pregnant. She meets Dagmar\, who runs an und
  erground adoption agency. A strong connection grows but her world shatters
   when she stumbles on the shocking truth behind her ...\n\nhttps://www.imd
- b.com/title/tt10236164/\n\nIMDb rating: 7.4
+ b.com/title/tt10236164/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -150,7 +136,7 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\n\nCopenhagen 1919: A young worker
   finds herself unemployed and pregnant. She meets Dagmar\, who runs an und
  erground adoption agency. A strong connection grows but her world shatters
   when she stumbles on the shocking truth behind her ...\n\nhttps://www.imd
- b.com/title/tt10236164/\n\nIMDb rating: 7.4
+ b.com/title/tt10236164/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -164,7 +150,7 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\n\nCopenhagen 1919: A young worker
   finds herself unemployed and pregnant. She meets Dagmar\, who runs an und
  erground adoption agency. A strong connection grows but her world shatters
   when she stumbles on the shocking truth behind her ...\n\nhttps://www.imd
- b.com/title/tt10236164/\n\nIMDb rating: 7.4
+ b.com/title/tt10236164/\n\nIMDb rating: 7.5
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -270,6 +256,46 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn F.B.I. Agent persuades a soc
  e mind of a comatose serial killer in order to learn where he has hidden h
  is latest kidnap victim.\n\nhttps://www.imdb.com/title/tt0209958/\n\nIMDb 
  rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's Not Me
+DTSTART;TZID=America/Los_Angeles:20250118T163000
+DTEND;TZID=America/Los_Angeles:20250118T174000
+DTSTAMP:20250119T002300Z
+UID:ci0005472-tt27989261--2025-1-18-16-30
+DESCRIPTION:Duration: 0h 41m (41 mins)\n\nA self-portrait of the director 
+ and his oeuvre\, revisiting in free-form more than 40 years of the author'
+ s filmography.\n\nhttps://www.imdb.com/title/tt27989261/\n\nIMDb rating: 6
+ .9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cell (2000)
+DTSTART;TZID=America/Los_Angeles:20250118T210000
+DTEND;TZID=America/Los_Angeles:20250118T231500
+DTSTAMP:20250119T045300Z
+UID:ci0005472-tt0209958--2025-1-18-21-0
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn F.B.I. Agent persuades a soc
+ ial worker\, who is adept with a new experimental technology\, to enter th
+ e mind of a comatose serial killer in order to learn where he has hidden h
+ is latest kidnap victim.\n\nhttps://www.imdb.com/title/tt0209958/\n\nIMDb 
+ rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Picture Show (1971)
+DTSTART;TZID=America/Los_Angeles:20250118T180000
+DTEND;TZID=America/Los_Angeles:20250118T202500
+DTSTAMP:20250119T015300Z
+UID:ci0005472-tt0067328--2025-1-18-18-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn 1951\, a group of high schoo
+ lers come of age in a bleak\, isolated\, atrophied North Texas town that i
+ s slowly dying\, both culturally and economically.\n\nhttps://www.imdb.com
+ /title/tt0067328/\n\nIMDb rating: 8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

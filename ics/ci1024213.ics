@@ -1,33 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250102T094544Z
+LAST-MODIFIED:20250103T101731Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Happy-Go-Lucky (2008)
-DTSTART;TZID=America/Los_Angeles:20250102T193000
-DTEND;TZID=America/Los_Angeles:20250102T215500
-DTSTAMP:20250103T032300Z
-UID:ci1024213-tt1045670--2025-1-2-19-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nA look at a few chapters in the
-  life of Poppy\, a cheery\, colorful\, North London schoolteacher whose op
- timism tends to exasperate those around her.\n\nhttps://www.imdb.com/title
- /tt1045670/\n\nIMDb rating: 7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phantom Thread (2017)
-DTSTART;TZID=America/Los_Angeles:20250102T163000
-DTEND;TZID=America/Los_Angeles:20250102T190500
-DTSTAMP:20250103T002300Z
-UID:ci1024213-tt5776858--2025-1-2-16-30
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nSet in 1950s London\, Reynolds 
- Woodcock is a renowned dressmaker whose fastidious life is disrupted by a 
- young\, strong-willed woman\, Alma\, who becomes his muse and lover.\n\nht
- tps://www.imdb.com/title/tt5776858/\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 END:VCALENDAR
