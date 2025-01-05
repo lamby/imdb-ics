@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250104T100832Z
+LAST-MODIFIED:20250105T103837Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:From Ground Zero
-DTSTART;TZID=America/Los_Angeles:20250104T160000
-DTEND;TZID=America/Los_Angeles:20250104T182000
-DTSTAMP:20250104T235300Z
-UID:ci0005472-tt32606918--2025-1-4-16-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
- n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
-  Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
- o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
- com/title/tt32606918/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers (2022)
-DTSTART;TZID=America/Los_Angeles:20250104T210000
-DTEND;TZID=America/Los_Angeles:20250104T231500
-DTSTAMP:20250105T045300Z
-UID:ci0005472-tt12818328--2025-1-4-21-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Police Story (1985)
-DTSTART;TZID=America/Los_Angeles:20250104T183000
-DTEND;TZID=America/Los_Angeles:20250104T203500
-DTSTAMP:20250105T022300Z
-UID:ci0005472-tt0089374--2025-1-4-18-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA virtuous Hong Kong Police Offi
- cer must clear his good name when the drug lord he is after frames him for
-  the murder of a dirty cop.\n\nhttps://www.imdb.com/title/tt0089374/\n\nIM
- Db rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Ground Zero
 DTSTART;TZID=America/Los_Angeles:20250105T180000
@@ -296,6 +256,18 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn F.B.I. Agent persuades a soc
  e mind of a comatose serial killer in order to learn where he has hidden h
  is latest kidnap victim.\n\nhttps://www.imdb.com/title/tt0209958/\n\nIMDb 
  rating: 6.4
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:King: A Filmed Record... Montgomery to Memphis (1969)
+DTSTART;TZID=America/Los_Angeles:20250120T183000
+DTEND;TZID=America/Los_Angeles:20250120T220000
+DTSTAMP:20250121T022300Z
+UID:ci0005472-tt0065944--2025-1-20-18-30
+DESCRIPTION:Duration: 3h 05m (185 mins)\n\nFollows Martin Luther King's li
+ fe and decades-long civil rights activism.\n\nhttps://www.imdb.com/title/t
+ t0065944/\n\nIMDb rating: 8.2
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
