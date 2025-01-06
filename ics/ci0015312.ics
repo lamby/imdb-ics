@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250105T104237Z
+LAST-MODIFIED:20250106T090620Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Labyrinth (1986)
-DTSTART;TZID=America/Los_Angeles:20250105T160000
-DTEND;TZID=America/Los_Angeles:20250105T181000
-DTSTAMP:20250105T235300Z
-UID:ci0015312-tt0091369--2025-1-5-16-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nTeenage Sarah journeys through 
- a maze to save her baby brother from the Goblin King.\n\nhttps://www.imdb.
- com/title/tt0091369/\n\nIMDb rating: 7.3
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Labyrinth (1986)
-DTSTART;TZID=America/Los_Angeles:20250105T190000
-DTEND;TZID=America/Los_Angeles:20250105T211000
-DTSTAMP:20250106T025300Z
-UID:ci0015312-tt0091369--2025-1-5-19-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nTeenage Sarah journeys through 
- a maze to save her baby brother from the Goblin King.\n\nhttps://www.imdb.
- com/title/tt0091369/\n\nIMDb rating: 7.3
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pan's Labyrinth (2006)
-DTSTART;TZID=America/Los_Angeles:20250105T213000
-DTEND;TZID=America/Los_Angeles:20250105T235500
-DTSTAMP:20250106T052300Z
-UID:ci0015312-tt0457430--2025-1-5-21-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn 1944 Spain\, a girl is sent 
- to live with her ruthless stepfather. During the night\, she meets a fairy
-  who takes her to an old faun. He tells her she's a princess\, but must pr
- ove her royalty by surviving three gruesome tasks.\n\nhttps://www.imdb.com
- /title/tt0457430/\n\nIMDb rating: 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Labyrinth (1986)
 DTSTART;TZID=America/Los_Angeles:20250106T160000

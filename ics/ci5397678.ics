@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250105T104151Z
+LAST-MODIFIED:20250106T090544Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250105T123000
-DTEND;TZID=America/Los_Angeles:20250105T145500
-DTSTAMP:20250105T202300Z
-UID:ci5397678-tt13186482--2025-1-5-12-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250105T154500
-DTEND;TZID=America/Los_Angeles:20250105T181000
-DTSTAMP:20250105T233800Z
-UID:ci5397678-tt13186482--2025-1-5-15-45
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250105T190000
-DTEND;TZID=America/Los_Angeles:20250105T212500
-DTSTAMP:20250106T025300Z
-UID:ci5397678-tt13186482--2025-1-5-19-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mufasa: The Lion King
 DTSTART;TZID=America/Los_Angeles:20250106T154500
@@ -374,6 +332,20 @@ DTSTART;TZID=America/Los_Angeles:20250120T190000
 DTEND;TZID=America/Los_Angeles:20250120T230000
 DTSTAMP:20250121T025300Z
 UID:ci5397678-tt8999762--2025-1-20-19-0
+DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250121T190000
+DTEND;TZID=America/Los_Angeles:20250121T230000
+DTSTAMP:20250122T025300Z
+UID:ci5397678-tt8999762--2025-1-21-19-0
 DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
  his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
  the birth of modern United States\, their lives are changed forever by a m
