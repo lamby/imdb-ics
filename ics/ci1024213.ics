@@ -1,7 +1,87 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250106T090415Z
+LAST-MODIFIED:20250107T091610Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Eno
+DTSTART;TZID=America/Los_Angeles:20250107T190000
+DTEND;TZID=America/Los_Angeles:20250107T205000
+DTSTAMP:20250108T025300Z
+UID:ci1024213-tt19854690--2025-1-7-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA generative documentary about a
+ rtist Brian Eno\, with 52 quintillion possible iterations\, so that no vie
+ wing is the same twice.\n\nhttps://www.imdb.com/title/tt19854690/\n\nIMDb 
+ rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eno
+DTSTART;TZID=America/Los_Angeles:20250108T190000
+DTEND;TZID=America/Los_Angeles:20250108T205000
+DTSTAMP:20250109T025300Z
+UID:ci1024213-tt19854690--2025-1-8-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA generative documentary about a
+ rtist Brian Eno\, with 52 quintillion possible iterations\, so that no vie
+ wing is the same twice.\n\nhttps://www.imdb.com/title/tt19854690/\n\nIMDb 
+ rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Third Generation (1979)
+DTSTART;TZID=America/Los_Angeles:20250108T163000
+DTEND;TZID=America/Los_Angeles:20250108T185000
+DTSTAMP:20250109T002300Z
+UID:ci1024213-tt0079083--2025-1-8-16-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA wildly anarchic satire of urb
+ an guerrilla warfare in which a band of leftist radicals inadvertently bec
+ ome puppets of the West German government\, which uses them to justify its
+  authoritarian policies.\n\nhttps://www.imdb.com/title/tt0079083/\n\nIMDb 
+ rating: 6.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eno
+DTSTART;TZID=America/Los_Angeles:20250109T163000
+DTEND;TZID=America/Los_Angeles:20250109T182000
+DTSTAMP:20250110T002300Z
+UID:ci1024213-tt19854690--2025-1-9-16-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA generative documentary about a
+ rtist Brian Eno\, with 52 quintillion possible iterations\, so that no vie
+ wing is the same twice.\n\nhttps://www.imdb.com/title/tt19854690/\n\nIMDb 
+ rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Third Generation (1979)
+DTSTART;TZID=America/Los_Angeles:20250109T163000
+DTEND;TZID=America/Los_Angeles:20250109T185000
+DTSTAMP:20250110T002300Z
+UID:ci1024213-tt0079083--2025-1-9-16-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA wildly anarchic satire of urb
+ an guerrilla warfare in which a band of leftist radicals inadvertently bec
+ ome puppets of the West German government\, which uses them to justify its
+  authoritarian policies.\n\nhttps://www.imdb.com/title/tt0079083/\n\nIMDb 
+ rating: 6.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union
+DTSTART;TZID=America/Los_Angeles:20250109T193000
+DTEND;TZID=America/Los_Angeles:20250109T213500
+DTSTAMP:20250110T032300Z
+UID:ci1024213-tt30319916--2025-1-9-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA group of current and former A
+ mazon workers in New York City's Staten Island challenges one of the world
+ 's largest companies in a unionization battle.\n\nhttps://www.imdb.com/tit
+ le/tt30319916/\n\nIMDb rating: 7.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR
