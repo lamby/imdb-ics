@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250107T091646Z
+LAST-MODIFIED:20250109T081316Z
 NAME:iPic Theaters at Redmond Town Center\, Redmond
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250107T151500
-DTEND;TZID=America/Los_Angeles:20250107T180500
-DTSTAMP:20250107T230800Z
-UID:ci0014968-tt11563598--2025-1-7-15-15
+DTSTART;TZID=America/Los_Angeles:20250109T151500
+DTEND;TZID=America/Los_Angeles:20250109T180500
+DTSTAMP:20250109T230800Z
+UID:ci0014968-tt11563598--2025-1-9-15-15
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
  d Bob Dylan arrives in New York City with his guitar and forges relationsh
  ips with music icons on his meteoric rise\, culminating in a groundbreakin
@@ -20,10 +20,10 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250107T190000
-DTEND;TZID=America/Los_Angeles:20250107T215000
-DTSTAMP:20250108T025300Z
-UID:ci0014968-tt11563598--2025-1-7-19-0
+DTSTART;TZID=America/Los_Angeles:20250109T191500
+DTEND;TZID=America/Los_Angeles:20250109T220500
+DTSTAMP:20250110T030800Z
+UID:ci0014968-tt11563598--2025-1-9-19-15
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
  d Bob Dylan arrives in New York City with his guitar and forges relationsh
  ips with music icons on his meteoric rise\, culminating in a groundbreakin
@@ -34,10 +34,10 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250107T224500
-DTEND;TZID=America/Los_Angeles:20250108T013500
-DTSTAMP:20250108T063800Z
-UID:ci0014968-tt11563598--2025-1-7-22-45
+DTSTART;TZID=America/Los_Angeles:20250109T223000
+DTEND;TZID=America/Los_Angeles:20250110T012000
+DTSTAMP:20250110T062300Z
+UID:ci0014968-tt11563598--2025-1-9-22-30
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
  d Bob Dylan arrives in New York City with his guitar and forges relationsh
  ips with music icons on his meteoric rise\, culminating in a groundbreakin
@@ -48,10 +48,10 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20250107T160000
-DTEND;TZID=America/Los_Angeles:20250107T182000
-DTSTAMP:20250107T235300Z
-UID:ci0014968-tt30057084--2025-1-7-16-0
+DTSTART;TZID=America/Los_Angeles:20250109T160000
+DTEND;TZID=America/Los_Angeles:20250109T182000
+DTSTAMP:20250109T235300Z
+UID:ci0014968-tt30057084--2025-1-9-16-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
@@ -61,10 +61,10 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20250107T191500
-DTEND;TZID=America/Los_Angeles:20250107T213500
-DTSTAMP:20250108T030800Z
-UID:ci0014968-tt30057084--2025-1-7-19-15
+DTSTART;TZID=America/Los_Angeles:20250109T193000
+DTEND;TZID=America/Los_Angeles:20250109T215000
+DTSTAMP:20250110T032300Z
+UID:ci0014968-tt30057084--2025-1-9-19-30
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
@@ -74,515 +74,14 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20250107T224500
-DTEND;TZID=America/Los_Angeles:20250108T010500
-DTSTAMP:20250108T063800Z
-UID:ci0014968-tt30057084--2025-1-7-22-45
+DTSTART;TZID=America/Los_Angeles:20250109T230000
+DTEND;TZID=America/Los_Angeles:20250110T012000
+DTSTAMP:20250110T065300Z
+UID:ci0014968-tt30057084--2025-1-9-23-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
  .6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=America/Los_Angeles:20250107T143000
-DTEND;TZID=America/Los_Angeles:20250107T172500
-DTSTAMP:20250107T222300Z
-UID:ci0014968-tt9218128--2025-1-7-14-30
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=America/Los_Angeles:20250107T184500
-DTEND;TZID=America/Los_Angeles:20250107T214000
-DTSTAMP:20250108T023800Z
-UID:ci0014968-tt9218128--2025-1-7-18-45
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=America/Los_Angeles:20250107T223000
-DTEND;TZID=America/Los_Angeles:20250108T012500
-DTSTAMP:20250108T062300Z
-UID:ci0014968-tt9218128--2025-1-7-22-30
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=America/Los_Angeles:20250107T141500
-DTEND;TZID=America/Los_Angeles:20250107T162000
-DTSTAMP:20250107T220800Z
-UID:ci0014968-tt13622970--2025-1-7-14-15
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=America/Los_Angeles:20250107T181500
-DTEND;TZID=America/Los_Angeles:20250107T202000
-DTSTAMP:20250108T020800Z
-UID:ci0014968-tt13622970--2025-1-7-18-15
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=America/Los_Angeles:20250107T213000
-DTEND;TZID=America/Los_Angeles:20250107T233500
-DTSTAMP:20250108T052300Z
-UID:ci0014968-tt13622970--2025-1-7-21-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250107T150000
-DTEND;TZID=America/Los_Angeles:20250107T172500
-DTSTAMP:20250107T225300Z
-UID:ci0014968-tt13186482--2025-1-7-15-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250107T183000
-DTEND;TZID=America/Los_Angeles:20250107T205500
-DTSTAMP:20250108T022300Z
-UID:ci0014968-tt13186482--2025-1-7-18-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250107T214500
-DTEND;TZID=America/Los_Angeles:20250108T001000
-DTSTAMP:20250108T053800Z
-UID:ci0014968-tt13186482--2025-1-7-21-45
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=America/Los_Angeles:20250107T144500
-DTEND;TZID=America/Los_Angeles:20250107T170000
-DTSTAMP:20250107T223800Z
-UID:ci0014968-tt18259086--2025-1-7-14-45
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=America/Los_Angeles:20250107T180000
-DTEND;TZID=America/Los_Angeles:20250107T201500
-DTSTAMP:20250108T015300Z
-UID:ci0014968-tt18259086--2025-1-7-18-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=America/Los_Angeles:20250107T211500
-DTEND;TZID=America/Los_Angeles:20250107T233000
-DTSTAMP:20250108T050800Z
-UID:ci0014968-tt18259086--2025-1-7-21-15
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250107T140000
-DTEND;TZID=America/Los_Angeles:20250107T170500
-DTSTAMP:20250107T215300Z
-UID:ci0014968-tt1262426--2025-1-7-14-0
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250107T174500
-DTEND;TZID=America/Los_Angeles:20250107T205000
-DTSTAMP:20250108T013800Z
-UID:ci0014968-tt1262426--2025-1-7-17-45
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250107T220000
-DTEND;TZID=America/Los_Angeles:20250108T010500
-DTSTAMP:20250108T055300Z
-UID:ci0014968-tt1262426--2025-1-7-22-0
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250108T151500
-DTEND;TZID=America/Los_Angeles:20250108T180500
-DTSTAMP:20250108T230800Z
-UID:ci0014968-tt11563598--2025-1-8-15-15
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
- d Bob Dylan arrives in New York City with his guitar and forges relationsh
- ips with music icons on his meteoric rise\, culminating in a groundbreakin
- g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
- t11563598/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250108T190000
-DTEND;TZID=America/Los_Angeles:20250108T215000
-DTSTAMP:20250109T025300Z
-UID:ci0014968-tt11563598--2025-1-8-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
- d Bob Dylan arrives in New York City with his guitar and forges relationsh
- ips with music icons on his meteoric rise\, culminating in a groundbreakin
- g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
- t11563598/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250108T224500
-DTEND;TZID=America/Los_Angeles:20250109T013500
-DTSTAMP:20250109T063800Z
-UID:ci0014968-tt11563598--2025-1-8-22-45
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
- d Bob Dylan arrives in New York City with his guitar and forges relationsh
- ips with music icons on his meteoric rise\, culminating in a groundbreakin
- g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
- t11563598/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20250108T160000
-DTEND;TZID=America/Los_Angeles:20250108T182000
-DTSTAMP:20250108T235300Z
-UID:ci0014968-tt30057084--2025-1-8-16-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20250108T191500
-DTEND;TZID=America/Los_Angeles:20250108T213500
-DTSTAMP:20250109T030800Z
-UID:ci0014968-tt30057084--2025-1-8-19-15
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=America/Los_Angeles:20250108T224500
-DTEND;TZID=America/Los_Angeles:20250109T010500
-DTSTAMP:20250109T063800Z
-UID:ci0014968-tt30057084--2025-1-8-22-45
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=America/Los_Angeles:20250108T143000
-DTEND;TZID=America/Los_Angeles:20250108T172500
-DTSTAMP:20250108T222300Z
-UID:ci0014968-tt9218128--2025-1-8-14-30
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=America/Los_Angeles:20250108T184500
-DTEND;TZID=America/Los_Angeles:20250108T214000
-DTSTAMP:20250109T023800Z
-UID:ci0014968-tt9218128--2025-1-8-18-45
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=America/Los_Angeles:20250108T223000
-DTEND;TZID=America/Los_Angeles:20250109T012500
-DTSTAMP:20250109T062300Z
-UID:ci0014968-tt9218128--2025-1-8-22-30
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=America/Los_Angeles:20250108T141500
-DTEND;TZID=America/Los_Angeles:20250108T162000
-DTSTAMP:20250108T220800Z
-UID:ci0014968-tt13622970--2025-1-8-14-15
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=America/Los_Angeles:20250108T181500
-DTEND;TZID=America/Los_Angeles:20250108T202000
-DTSTAMP:20250109T020800Z
-UID:ci0014968-tt13622970--2025-1-8-18-15
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=America/Los_Angeles:20250108T213000
-DTEND;TZID=America/Los_Angeles:20250108T233500
-DTSTAMP:20250109T052300Z
-UID:ci0014968-tt13622970--2025-1-8-21-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250108T150000
-DTEND;TZID=America/Los_Angeles:20250108T172500
-DTSTAMP:20250108T225300Z
-UID:ci0014968-tt13186482--2025-1-8-15-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250108T183000
-DTEND;TZID=America/Los_Angeles:20250108T205500
-DTSTAMP:20250109T022300Z
-UID:ci0014968-tt13186482--2025-1-8-18-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=America/Los_Angeles:20250108T214500
-DTEND;TZID=America/Los_Angeles:20250109T001000
-DTSTAMP:20250109T053800Z
-UID:ci0014968-tt13186482--2025-1-8-21-45
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=America/Los_Angeles:20250108T144500
-DTEND;TZID=America/Los_Angeles:20250108T170000
-DTSTAMP:20250108T223800Z
-UID:ci0014968-tt18259086--2025-1-8-14-45
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=America/Los_Angeles:20250108T180000
-DTEND;TZID=America/Los_Angeles:20250108T201500
-DTSTAMP:20250109T015300Z
-UID:ci0014968-tt18259086--2025-1-8-18-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=America/Los_Angeles:20250108T211500
-DTEND;TZID=America/Los_Angeles:20250108T233000
-DTSTAMP:20250109T050800Z
-UID:ci0014968-tt18259086--2025-1-8-21-15
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.2
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250108T140000
-DTEND;TZID=America/Los_Angeles:20250108T170500
-DTSTAMP:20250108T215300Z
-UID:ci0014968-tt1262426--2025-1-8-14-0
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250108T174500
-DTEND;TZID=America/Los_Angeles:20250108T205000
-DTSTAMP:20250109T013800Z
-UID:ci0014968-tt1262426--2025-1-8-17-45
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond\, WA\, 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250108T220000
-DTEND;TZID=America/Los_Angeles:20250109T010500
-DTSTAMP:20250109T055300Z
-UID:ci0014968-tt1262426--2025-1-8-22-0
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -596,7 +95,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -610,7 +109,270 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladiator II
+DTSTART;TZID=America/Los_Angeles:20250109T144500
+DTEND;TZID=America/Los_Angeles:20250109T174000
+DTSTAMP:20250109T223800Z
+UID:ci0014968-tt9218128--2025-1-9-14-45
+DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
+ the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
+ Colosseum and must look to his past to find strength to return the glory o
+ f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
+ ing: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250109T144500
+DTEND;TZID=America/Los_Angeles:20250109T165000
+DTSTAMP:20250109T223800Z
+UID:ci0014968-tt13622970--2025-1-9-14-45
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250109T181500
+DTEND;TZID=America/Los_Angeles:20250109T202000
+DTSTAMP:20250110T020800Z
+UID:ci0014968-tt13622970--2025-1-9-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250109T211500
+DTEND;TZID=America/Los_Angeles:20250109T232000
+DTSTAMP:20250110T050800Z
+UID:ci0014968-tt13622970--2025-1-9-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250109T150000
+DTEND;TZID=America/Los_Angeles:20250109T172500
+DTSTAMP:20250109T225300Z
+UID:ci0014968-tt13186482--2025-1-9-15-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250109T183000
+DTEND;TZID=America/Los_Angeles:20250109T205500
+DTSTAMP:20250110T022300Z
+UID:ci0014968-tt13186482--2025-1-9-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250109T214500
+DTEND;TZID=America/Los_Angeles:20250110T001000
+DTSTAMP:20250110T053800Z
+UID:ci0014968-tt13186482--2025-1-9-21-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250109T153000
+DTEND;TZID=America/Los_Angeles:20250109T174500
+DTSTAMP:20250109T232300Z
+UID:ci0014968-tt18259086--2025-1-9-15-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250109T184500
+DTEND;TZID=America/Los_Angeles:20250109T210000
+DTSTAMP:20250110T023800Z
+UID:ci0014968-tt18259086--2025-1-9-18-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250109T221500
+DTEND;TZID=America/Los_Angeles:20250110T003000
+DTSTAMP:20250110T060800Z
+UID:ci0014968-tt18259086--2025-1-9-22-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250109T143000
+DTEND;TZID=America/Los_Angeles:20250109T173500
+DTSTAMP:20250109T222300Z
+UID:ci0014968-tt1262426--2025-1-9-14-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250109T180000
+DTEND;TZID=America/Los_Angeles:20250109T210500
+DTSTAMP:20250110T015300Z
+UID:ci0014968-tt1262426--2025-1-9-18-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250109T220000
+DTEND;TZID=America/Los_Angeles:20250110T010500
+DTSTAMP:20250110T055300Z
+UID:ci0014968-tt1262426--2025-1-9-22-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250110T153000
+DTEND;TZID=America/Los_Angeles:20250110T182000
+DTSTAMP:20250110T232300Z
+UID:ci0014968-tt11563598--2025-1-10-15-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250110T191500
+DTEND;TZID=America/Los_Angeles:20250110T220500
+DTSTAMP:20250111T030800Z
+UID:ci0014968-tt11563598--2025-1-10-19-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250110T223000
+DTEND;TZID=America/Los_Angeles:20250111T012000
+DTSTAMP:20250111T062300Z
+UID:ci0014968-tt11563598--2025-1-10-22-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250110T160000
+DTEND;TZID=America/Los_Angeles:20250110T182000
+DTSTAMP:20250110T235300Z
+UID:ci0014968-tt30057084--2025-1-10-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250110T193000
+DTEND;TZID=America/Los_Angeles:20250110T215000
+DTSTAMP:20250111T032300Z
+UID:ci0014968-tt30057084--2025-1-10-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250110T230000
+DTEND;TZID=America/Los_Angeles:20250111T012000
+DTSTAMP:20250111T065300Z
+UID:ci0014968-tt30057084--2025-1-10-23-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -624,7 +386,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -638,7 +400,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -652,7 +414,283 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250110T150000
+DTEND;TZID=America/Los_Angeles:20250110T170500
+DTSTAMP:20250110T225300Z
+UID:ci0014968-tt13622970--2025-1-10-15-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250110T181500
+DTEND;TZID=America/Los_Angeles:20250110T202000
+DTSTAMP:20250111T020800Z
+UID:ci0014968-tt13622970--2025-1-10-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250110T211500
+DTEND;TZID=America/Los_Angeles:20250110T232000
+DTSTAMP:20250111T050800Z
+UID:ci0014968-tt13622970--2025-1-10-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250110T144500
+DTEND;TZID=America/Los_Angeles:20250110T171000
+DTSTAMP:20250110T223800Z
+UID:ci0014968-tt13186482--2025-1-10-14-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250110T183000
+DTEND;TZID=America/Los_Angeles:20250110T205500
+DTSTAMP:20250111T022300Z
+UID:ci0014968-tt13186482--2025-1-10-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250110T214500
+DTEND;TZID=America/Los_Angeles:20250111T001000
+DTSTAMP:20250111T053800Z
+UID:ci0014968-tt13186482--2025-1-10-21-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250110T154500
+DTEND;TZID=America/Los_Angeles:20250110T180000
+DTSTAMP:20250110T233800Z
+UID:ci0014968-tt18259086--2025-1-10-15-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250110T184500
+DTEND;TZID=America/Los_Angeles:20250110T210000
+DTSTAMP:20250111T023800Z
+UID:ci0014968-tt18259086--2025-1-10-18-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250110T221500
+DTEND;TZID=America/Los_Angeles:20250111T003000
+DTSTAMP:20250111T060800Z
+UID:ci0014968-tt18259086--2025-1-10-22-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250110T140000
+DTEND;TZID=America/Los_Angeles:20250110T170500
+DTSTAMP:20250110T215300Z
+UID:ci0014968-tt1262426--2025-1-10-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250110T180000
+DTEND;TZID=America/Los_Angeles:20250110T210500
+DTSTAMP:20250111T015300Z
+UID:ci0014968-tt1262426--2025-1-10-18-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250110T220000
+DTEND;TZID=America/Los_Angeles:20250111T010500
+DTSTAMP:20250111T055300Z
+UID:ci0014968-tt1262426--2025-1-10-22-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250111T120000
+DTEND;TZID=America/Los_Angeles:20250111T145000
+DTSTAMP:20250111T195300Z
+UID:ci0014968-tt11563598--2025-1-11-12-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250111T153000
+DTEND;TZID=America/Los_Angeles:20250111T182000
+DTSTAMP:20250111T232300Z
+UID:ci0014968-tt11563598--2025-1-11-15-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250111T191500
+DTEND;TZID=America/Los_Angeles:20250111T220500
+DTSTAMP:20250112T030800Z
+UID:ci0014968-tt11563598--2025-1-11-19-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250111T223000
+DTEND;TZID=America/Los_Angeles:20250112T012000
+DTSTAMP:20250112T062300Z
+UID:ci0014968-tt11563598--2025-1-11-22-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250111T123000
+DTEND;TZID=America/Los_Angeles:20250111T145000
+DTSTAMP:20250111T202300Z
+UID:ci0014968-tt30057084--2025-1-11-12-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250111T160000
+DTEND;TZID=America/Los_Angeles:20250111T182000
+DTSTAMP:20250111T235300Z
+UID:ci0014968-tt30057084--2025-1-11-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250111T193000
+DTEND;TZID=America/Los_Angeles:20250111T215000
+DTSTAMP:20250112T032300Z
+UID:ci0014968-tt30057084--2025-1-11-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250111T230000
+DTEND;TZID=America/Los_Angeles:20250112T012000
+DTSTAMP:20250112T065300Z
+UID:ci0014968-tt30057084--2025-1-11-23-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -666,7 +704,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -680,7 +718,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -694,7 +732,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -708,7 +746,339 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250111T110000
+DTEND;TZID=America/Los_Angeles:20250111T130500
+DTSTAMP:20250111T185300Z
+UID:ci0014968-tt13622970--2025-1-11-11-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250111T150000
+DTEND;TZID=America/Los_Angeles:20250111T170500
+DTSTAMP:20250111T225300Z
+UID:ci0014968-tt13622970--2025-1-11-15-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250111T181500
+DTEND;TZID=America/Los_Angeles:20250111T202000
+DTSTAMP:20250112T020800Z
+UID:ci0014968-tt13622970--2025-1-11-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250111T211500
+DTEND;TZID=America/Los_Angeles:20250111T232000
+DTSTAMP:20250112T050800Z
+UID:ci0014968-tt13622970--2025-1-11-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250111T114500
+DTEND;TZID=America/Los_Angeles:20250111T141000
+DTSTAMP:20250111T193800Z
+UID:ci0014968-tt13186482--2025-1-11-11-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250111T144500
+DTEND;TZID=America/Los_Angeles:20250111T171000
+DTSTAMP:20250111T223800Z
+UID:ci0014968-tt13186482--2025-1-11-14-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250111T183000
+DTEND;TZID=America/Los_Angeles:20250111T205500
+DTSTAMP:20250112T022300Z
+UID:ci0014968-tt13186482--2025-1-11-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250111T214500
+DTEND;TZID=America/Los_Angeles:20250112T001000
+DTSTAMP:20250112T053800Z
+UID:ci0014968-tt13186482--2025-1-11-21-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250111T113000
+DTEND;TZID=America/Los_Angeles:20250111T134500
+DTSTAMP:20250111T192300Z
+UID:ci0014968-tt18259086--2025-1-11-11-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250111T154500
+DTEND;TZID=America/Los_Angeles:20250111T180000
+DTSTAMP:20250111T233800Z
+UID:ci0014968-tt18259086--2025-1-11-15-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250111T184500
+DTEND;TZID=America/Los_Angeles:20250111T210000
+DTSTAMP:20250112T023800Z
+UID:ci0014968-tt18259086--2025-1-11-18-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250111T221500
+DTEND;TZID=America/Los_Angeles:20250112T003000
+DTSTAMP:20250112T060800Z
+UID:ci0014968-tt18259086--2025-1-11-22-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250111T111500
+DTEND;TZID=America/Los_Angeles:20250111T142000
+DTSTAMP:20250111T190800Z
+UID:ci0014968-tt1262426--2025-1-11-11-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250111T140000
+DTEND;TZID=America/Los_Angeles:20250111T170500
+DTSTAMP:20250111T215300Z
+UID:ci0014968-tt1262426--2025-1-11-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250111T180000
+DTEND;TZID=America/Los_Angeles:20250111T210500
+DTSTAMP:20250112T015300Z
+UID:ci0014968-tt1262426--2025-1-11-18-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250111T220000
+DTEND;TZID=America/Los_Angeles:20250112T010500
+DTSTAMP:20250112T055300Z
+UID:ci0014968-tt1262426--2025-1-11-22-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250112T120000
+DTEND;TZID=America/Los_Angeles:20250112T145000
+DTSTAMP:20250112T195300Z
+UID:ci0014968-tt11563598--2025-1-12-12-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250112T153000
+DTEND;TZID=America/Los_Angeles:20250112T182000
+DTSTAMP:20250112T232300Z
+UID:ci0014968-tt11563598--2025-1-12-15-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250112T191500
+DTEND;TZID=America/Los_Angeles:20250112T220500
+DTSTAMP:20250113T030800Z
+UID:ci0014968-tt11563598--2025-1-12-19-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250112T223000
+DTEND;TZID=America/Los_Angeles:20250113T012000
+DTSTAMP:20250113T062300Z
+UID:ci0014968-tt11563598--2025-1-12-22-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250112T123000
+DTEND;TZID=America/Los_Angeles:20250112T145000
+DTSTAMP:20250112T202300Z
+UID:ci0014968-tt30057084--2025-1-12-12-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250112T160000
+DTEND;TZID=America/Los_Angeles:20250112T182000
+DTSTAMP:20250112T235300Z
+UID:ci0014968-tt30057084--2025-1-12-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250112T193000
+DTEND;TZID=America/Los_Angeles:20250112T215000
+DTSTAMP:20250113T032300Z
+UID:ci0014968-tt30057084--2025-1-12-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250112T230000
+DTEND;TZID=America/Los_Angeles:20250113T012000
+DTSTAMP:20250113T065300Z
+UID:ci0014968-tt30057084--2025-1-12-23-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -722,7 +1092,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -736,7 +1106,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -750,7 +1120,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -764,7 +1134,312 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250112T110000
+DTEND;TZID=America/Los_Angeles:20250112T130500
+DTSTAMP:20250112T185300Z
+UID:ci0014968-tt13622970--2025-1-12-11-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250112T150000
+DTEND;TZID=America/Los_Angeles:20250112T170500
+DTSTAMP:20250112T225300Z
+UID:ci0014968-tt13622970--2025-1-12-15-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250112T181500
+DTEND;TZID=America/Los_Angeles:20250112T202000
+DTSTAMP:20250113T020800Z
+UID:ci0014968-tt13622970--2025-1-12-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250112T211500
+DTEND;TZID=America/Los_Angeles:20250112T232000
+DTSTAMP:20250113T050800Z
+UID:ci0014968-tt13622970--2025-1-12-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250112T114500
+DTEND;TZID=America/Los_Angeles:20250112T141000
+DTSTAMP:20250112T193800Z
+UID:ci0014968-tt13186482--2025-1-12-11-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250112T144500
+DTEND;TZID=America/Los_Angeles:20250112T171000
+DTSTAMP:20250112T223800Z
+UID:ci0014968-tt13186482--2025-1-12-14-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250112T183000
+DTEND;TZID=America/Los_Angeles:20250112T205500
+DTSTAMP:20250113T022300Z
+UID:ci0014968-tt13186482--2025-1-12-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250112T214500
+DTEND;TZID=America/Los_Angeles:20250113T001000
+DTSTAMP:20250113T053800Z
+UID:ci0014968-tt13186482--2025-1-12-21-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250112T113000
+DTEND;TZID=America/Los_Angeles:20250112T134500
+DTSTAMP:20250112T192300Z
+UID:ci0014968-tt18259086--2025-1-12-11-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250112T154500
+DTEND;TZID=America/Los_Angeles:20250112T180000
+DTSTAMP:20250112T233800Z
+UID:ci0014968-tt18259086--2025-1-12-15-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250112T184500
+DTEND;TZID=America/Los_Angeles:20250112T210000
+DTSTAMP:20250113T023800Z
+UID:ci0014968-tt18259086--2025-1-12-18-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250112T221500
+DTEND;TZID=America/Los_Angeles:20250113T003000
+DTSTAMP:20250113T060800Z
+UID:ci0014968-tt18259086--2025-1-12-22-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250112T111500
+DTEND;TZID=America/Los_Angeles:20250112T142000
+DTSTAMP:20250112T190800Z
+UID:ci0014968-tt1262426--2025-1-12-11-15
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250112T140000
+DTEND;TZID=America/Los_Angeles:20250112T170500
+DTSTAMP:20250112T215300Z
+UID:ci0014968-tt1262426--2025-1-12-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250112T180000
+DTEND;TZID=America/Los_Angeles:20250112T210500
+DTSTAMP:20250113T015300Z
+UID:ci0014968-tt1262426--2025-1-12-18-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250112T220000
+DTEND;TZID=America/Los_Angeles:20250113T010500
+DTSTAMP:20250113T055300Z
+UID:ci0014968-tt1262426--2025-1-12-22-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250113T153000
+DTEND;TZID=America/Los_Angeles:20250113T182000
+DTSTAMP:20250113T232300Z
+UID:ci0014968-tt11563598--2025-1-13-15-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250113T191500
+DTEND;TZID=America/Los_Angeles:20250113T220500
+DTSTAMP:20250114T030800Z
+UID:ci0014968-tt11563598--2025-1-13-19-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250113T223000
+DTEND;TZID=America/Los_Angeles:20250114T012000
+DTSTAMP:20250114T062300Z
+UID:ci0014968-tt11563598--2025-1-13-22-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250113T160000
+DTEND;TZID=America/Los_Angeles:20250113T182000
+DTSTAMP:20250113T235300Z
+UID:ci0014968-tt30057084--2025-1-13-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250113T193000
+DTEND;TZID=America/Los_Angeles:20250113T215000
+DTSTAMP:20250114T032300Z
+UID:ci0014968-tt30057084--2025-1-13-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250113T230000
+DTEND;TZID=America/Los_Angeles:20250114T012000
+DTSTAMP:20250114T065300Z
+UID:ci0014968-tt30057084--2025-1-13-23-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -778,7 +1453,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -792,7 +1467,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -806,7 +1481,256 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250113T150000
+DTEND;TZID=America/Los_Angeles:20250113T170500
+DTSTAMP:20250113T225300Z
+UID:ci0014968-tt13622970--2025-1-13-15-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250113T181500
+DTEND;TZID=America/Los_Angeles:20250113T202000
+DTSTAMP:20250114T020800Z
+UID:ci0014968-tt13622970--2025-1-13-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250113T211500
+DTEND;TZID=America/Los_Angeles:20250113T232000
+DTSTAMP:20250114T050800Z
+UID:ci0014968-tt13622970--2025-1-13-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250113T144500
+DTEND;TZID=America/Los_Angeles:20250113T171000
+DTSTAMP:20250113T223800Z
+UID:ci0014968-tt13186482--2025-1-13-14-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250113T183000
+DTEND;TZID=America/Los_Angeles:20250113T205500
+DTSTAMP:20250114T022300Z
+UID:ci0014968-tt13186482--2025-1-13-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250113T214500
+DTEND;TZID=America/Los_Angeles:20250114T001000
+DTSTAMP:20250114T053800Z
+UID:ci0014968-tt13186482--2025-1-13-21-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250113T154500
+DTEND;TZID=America/Los_Angeles:20250113T180000
+DTSTAMP:20250113T233800Z
+UID:ci0014968-tt18259086--2025-1-13-15-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250113T184500
+DTEND;TZID=America/Los_Angeles:20250113T210000
+DTSTAMP:20250114T023800Z
+UID:ci0014968-tt18259086--2025-1-13-18-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250113T221500
+DTEND;TZID=America/Los_Angeles:20250114T003000
+DTSTAMP:20250114T060800Z
+UID:ci0014968-tt18259086--2025-1-13-22-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250113T140000
+DTEND;TZID=America/Los_Angeles:20250113T170500
+DTSTAMP:20250113T215300Z
+UID:ci0014968-tt1262426--2025-1-13-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250113T180000
+DTEND;TZID=America/Los_Angeles:20250113T210500
+DTSTAMP:20250114T015300Z
+UID:ci0014968-tt1262426--2025-1-13-18-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250113T220000
+DTEND;TZID=America/Los_Angeles:20250114T010500
+DTSTAMP:20250114T055300Z
+UID:ci0014968-tt1262426--2025-1-13-22-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250114T153000
+DTEND;TZID=America/Los_Angeles:20250114T182000
+DTSTAMP:20250114T232300Z
+UID:ci0014968-tt11563598--2025-1-14-15-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250114T191500
+DTEND;TZID=America/Los_Angeles:20250114T220500
+DTSTAMP:20250115T030800Z
+UID:ci0014968-tt11563598--2025-1-14-19-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250114T223000
+DTEND;TZID=America/Los_Angeles:20250115T012000
+DTSTAMP:20250115T062300Z
+UID:ci0014968-tt11563598--2025-1-14-22-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250114T160000
+DTEND;TZID=America/Los_Angeles:20250114T182000
+DTSTAMP:20250114T235300Z
+UID:ci0014968-tt30057084--2025-1-14-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250114T193000
+DTEND;TZID=America/Los_Angeles:20250114T215000
+DTSTAMP:20250115T032300Z
+UID:ci0014968-tt30057084--2025-1-14-19-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250114T230000
+DTEND;TZID=America/Los_Angeles:20250115T012000
+DTSTAMP:20250115T065300Z
+UID:ci0014968-tt30057084--2025-1-14-23-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -820,7 +1744,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -834,7 +1758,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -848,7 +1772,243 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250114T150000
+DTEND;TZID=America/Los_Angeles:20250114T170500
+DTSTAMP:20250114T225300Z
+UID:ci0014968-tt13622970--2025-1-14-15-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250114T181500
+DTEND;TZID=America/Los_Angeles:20250114T202000
+DTSTAMP:20250115T020800Z
+UID:ci0014968-tt13622970--2025-1-14-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250114T211500
+DTEND;TZID=America/Los_Angeles:20250114T232000
+DTSTAMP:20250115T050800Z
+UID:ci0014968-tt13622970--2025-1-14-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250114T144500
+DTEND;TZID=America/Los_Angeles:20250114T171000
+DTSTAMP:20250114T223800Z
+UID:ci0014968-tt13186482--2025-1-14-14-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250114T183000
+DTEND;TZID=America/Los_Angeles:20250114T205500
+DTSTAMP:20250115T022300Z
+UID:ci0014968-tt13186482--2025-1-14-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250114T214500
+DTEND;TZID=America/Los_Angeles:20250115T001000
+DTSTAMP:20250115T053800Z
+UID:ci0014968-tt13186482--2025-1-14-21-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250114T154500
+DTEND;TZID=America/Los_Angeles:20250114T180000
+DTSTAMP:20250114T233800Z
+UID:ci0014968-tt18259086--2025-1-14-15-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250114T184500
+DTEND;TZID=America/Los_Angeles:20250114T210000
+DTSTAMP:20250115T023800Z
+UID:ci0014968-tt18259086--2025-1-14-18-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250114T221500
+DTEND;TZID=America/Los_Angeles:20250115T003000
+DTSTAMP:20250115T060800Z
+UID:ci0014968-tt18259086--2025-1-14-22-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250114T140000
+DTEND;TZID=America/Los_Angeles:20250114T170500
+DTSTAMP:20250114T215300Z
+UID:ci0014968-tt1262426--2025-1-14-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250114T180000
+DTEND;TZID=America/Los_Angeles:20250114T210500
+DTSTAMP:20250115T015300Z
+UID:ci0014968-tt1262426--2025-1-14-18-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250114T220000
+DTEND;TZID=America/Los_Angeles:20250115T010500
+DTSTAMP:20250115T055300Z
+UID:ci0014968-tt1262426--2025-1-14-22-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250115T153000
+DTEND;TZID=America/Los_Angeles:20250115T182000
+DTSTAMP:20250115T232300Z
+UID:ci0014968-tt11563598--2025-1-15-15-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250115T191500
+DTEND;TZID=America/Los_Angeles:20250115T220500
+DTSTAMP:20250116T030800Z
+UID:ci0014968-tt11563598--2025-1-15-19-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250115T223000
+DTEND;TZID=America/Los_Angeles:20250116T012000
+DTSTAMP:20250116T062300Z
+UID:ci0014968-tt11563598--2025-1-15-22-30
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with music icons on his meteoric rise\, culminating in a groundbreakin
+ g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
+ t11563598/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250115T160000
+DTEND;TZID=America/Los_Angeles:20250115T182000
+DTSTAMP:20250115T235300Z
+UID:ci0014968-tt30057084--2025-1-15-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babygirl
+DTSTART;TZID=America/Los_Angeles:20250115T230000
+DTEND;TZID=America/Los_Angeles:20250116T012000
+DTSTAMP:20250116T065300Z
+UID:ci0014968-tt30057084--2025-1-15-23-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
+ eer and family on the line when she begins a torrid affair with her much-y
+ ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
+ .6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -862,7 +2022,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -876,7 +2036,7 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT
@@ -890,7 +2050,175 @@ DESCRIPTION:Duration: 2h 24m (144 mins)\n\nBig Nick is back on the hunt in
   Europe and closing in on Donnie\, who is embroiled in the treacherous wor
  ld of diamond thieves and the infamous Panther mafia\, as they plot a mass
  ive heist of the world's largest diamond exchange.\n\nhttps://www.imdb.com
- /title/tt8008948/
+ /title/tt8008948/\n\nIMDb rating: 8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250115T150000
+DTEND;TZID=America/Los_Angeles:20250115T170500
+DTSTAMP:20250115T225300Z
+UID:ci0014968-tt13622970--2025-1-15-15-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250115T181500
+DTEND;TZID=America/Los_Angeles:20250115T202000
+DTSTAMP:20250116T020800Z
+UID:ci0014968-tt13622970--2025-1-15-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moana 2
+DTSTART;TZID=America/Los_Angeles:20250115T211500
+DTEND;TZID=America/Los_Angeles:20250115T232000
+DTSTAMP:20250116T050800Z
+UID:ci0014968-tt13622970--2025-1-15-21-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
+ all from her wayfinding ancestors\, Moana must journey to the far seas of 
+ Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
+ hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
+ ating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250115T144500
+DTEND;TZID=America/Los_Angeles:20250115T171000
+DTSTAMP:20250115T223800Z
+UID:ci0014968-tt13186482--2025-1-15-14-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250115T183000
+DTEND;TZID=America/Los_Angeles:20250115T205500
+DTSTAMP:20250116T022300Z
+UID:ci0014968-tt13186482--2025-1-15-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=America/Los_Angeles:20250115T214500
+DTEND;TZID=America/Los_Angeles:20250116T001000
+DTSTAMP:20250116T053800Z
+UID:ci0014968-tt13186482--2025-1-15-21-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250115T154500
+DTEND;TZID=America/Los_Angeles:20250115T180000
+DTSTAMP:20250115T233800Z
+UID:ci0014968-tt18259086--2025-1-15-15-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250115T184500
+DTEND;TZID=America/Los_Angeles:20250115T210000
+DTSTAMP:20250116T023800Z
+UID:ci0014968-tt18259086--2025-1-15-18-45
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250115T221500
+DTEND;TZID=America/Los_Angeles:20250116T003000
+DTSTAMP:20250116T060800Z
+UID:ci0014968-tt18259086--2025-1-15-22-15
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250115T140000
+DTEND;TZID=America/Los_Angeles:20250115T170500
+DTSTAMP:20250115T215300Z
+UID:ci0014968-tt1262426--2025-1-15-14-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250115T180000
+DTEND;TZID=America/Los_Angeles:20250115T210500
+DTSTAMP:20250116T015300Z
+UID:ci0014968-tt1262426--2025-1-15-18-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond\, WA\, 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250115T220000
+DTEND;TZID=America/Los_Angeles:20250116T010500
+DTSTAMP:20250116T055300Z
+UID:ci0014968-tt1262426--2025-1-15-22-0
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond\, WA\, 98052
 END:VEVENT

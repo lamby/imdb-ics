@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250107T091517Z
+LAST-MODIFIED:20250109T081149Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Girl with the Needle
-DTSTART;TZID=America/Los_Angeles:20250107T190000
-DTEND;TZID=America/Los_Angeles:20250107T213000
-DTSTAMP:20250108T025300Z
-UID:ci0005472-tt10236164--2025-1-7-19-0
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nCopenhagen 1919: A young worker
-  finds herself unemployed and pregnant. She meets Dagmar\, who runs an und
- erground adoption agency. A strong connection grows but her world shatters
-  when she stumbles on the shocking truth behind her ...\n\nhttps://www.imd
- b.com/title/tt10236164/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Girl with the Needle
-DTSTART;TZID=America/Los_Angeles:20250108T190000
-DTEND;TZID=America/Los_Angeles:20250108T213000
-DTSTAMP:20250109T025300Z
-UID:ci0005472-tt10236164--2025-1-8-19-0
-DESCRIPTION:Duration: 2h 03m (123 mins)\n\nCopenhagen 1919: A young worker
-  finds herself unemployed and pregnant. She meets Dagmar\, who runs an und
- erground adoption agency. A strong connection grows but her world shatters
-  when she stumbles on the shocking truth behind her ...\n\nhttps://www.imd
- b.com/title/tt10236164/\n\nIMDb rating: 7.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mountains (2023)
 DTSTART;TZID=America/Los_Angeles:20250109T190000
@@ -187,7 +159,7 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
  n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
   Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
  o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
- com/title/tt32606918/\n\nIMDb rating: 7.7
+ com/title/tt32606918/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -240,7 +212,7 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
  n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
   Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
  o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
- com/title/tt32606918/\n\nIMDb rating: 7.7
+ com/title/tt32606918/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -254,6 +226,45 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOrdinary word processor Paul Hac
  kett experiences the worst night of his life after he agrees to visit Marc
  y\, a Soho resident that he met that evening at a coffee shop.\n\nhttps://
  www.imdb.com/title/tt0088680/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bringing Up Baby (1938)
+DTSTART;TZID=America/Los_Angeles:20250123T191500
+DTEND;TZID=America/Los_Angeles:20250123T212500
+DTSTAMP:20250124T030800Z
+UID:ci0005472-tt0029947--2025-1-23-19-15
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhile trying to secure a $1 mil
+ lion donation for his museum\, a befuddled paleontologist is pursued by a 
+ flighty and often irritating heiress and her pet leopard\, Baby.\n\nhttps:
+ //www.imdb.com/title/tt0029947/\n\nIMDb rating: 7.8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost in the Shell (1995)
+DTSTART;TZID=America/Los_Angeles:20250124T190000
+DTEND;TZID=America/Los_Angeles:20250124T205000
+DTSTAMP:20250125T025300Z
+UID:ci0005472-tt0113568--2025-1-24-19-0
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA cyborg policewoman and her par
+ tner hunt a mysterious and powerful hacker called the Puppet Master.\n\nht
+ tps://www.imdb.com/title/tt0113568/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin (2004)
+DTSTART;TZID=America/Los_Angeles:20250124T210000
+DTEND;TZID=America/Los_Angeles:20250124T231000
+DTSTAMP:20250125T045300Z
+UID:ci0005472-tt0370986--2025-1-24-21-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nTwo pre-adolescent boys both ex
+ perienced a strange event and later it affects their lives in different wa
+ ys. One becomes a reckless\, sexually adventurous prostitute\, while the o
+ ther retreats into a reclusive fantasy of alien abduc...\n\nhttps://www.im
+ db.com/title/tt0370986/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
