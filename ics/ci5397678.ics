@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250109T081422Z
+LAST-MODIFIED:20250110T091602Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250109T190000
-DTEND;TZID=America/Los_Angeles:20250109T230000
-DTSTAMP:20250110T025300Z
-UID:ci5397678-tt8999762--2025-1-9-19-0
-DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250110T140000
@@ -322,6 +308,47 @@ DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
  k-market drug: a cell-replicating substance that temporarily creates a you
  nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
  /\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=America/Los_Angeles:20250125T203000
+DTEND;TZID=America/Los_Angeles:20250125T234500
+DTSTAMP:20250126T042300Z
+UID:ci5397678-tt15239678--2025-1-25-20-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with the F
+ remen while on a warpath of revenge against the conspirators who destroyed
+  his family. Facing a choice between the love of his life and the fate of 
+ the universe\, he endeavors to prevent a terrible fu...\n\nhttps://www.imd
+ b.com/title/tt15239678/\n\nIMDb rating: 8.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=America/Los_Angeles:20250125T140000
+DTEND;TZID=America/Los_Angeles:20250125T160500
+DTSTAMP:20250125T215300Z
+UID:ci5397678-tt22022452--2025-1-25-14-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA sequel that features Riley ent
+ ering puberty and experiencing brand new\, more complex emotions as a resu
+ lt. As Riley tries to adapt to her teenage years\, her old emotions try to
+  adapt to the possibility of being replaced.\n\nhttps://www.imdb.com/title
+ /tt22022452/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria
+DTSTART;TZID=America/Los_Angeles:20250125T170000
+DTEND;TZID=America/Los_Angeles:20250125T193000
+DTSTAMP:20250126T005300Z
+UID:ci5397678-tt22893404--2025-1-25-17-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nMaria Callas\, the world's grea
+ test opera singer\, lives the last days of her life in 1970s Paris\, as sh
+ e confronts her identity and life.\n\nhttps://www.imdb.com/title/tt2289340
+ 4/\n\nIMDb rating: 6.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
