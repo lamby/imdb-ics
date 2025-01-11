@@ -1,19 +1,34 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250110T091551Z
+LAST-MODIFIED:20250111T102936Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
-SUMMARY:Bona (1980)
-DTSTART;TZID=America/Los_Angeles:20250110T190000
-DTEND;TZID=America/Los_Angeles:20250110T205000
-DTSTAMP:20250111T025300Z
-UID:ci16639652-tt0082093--2025-1-10-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA female movie fan idolizes a mo
- vie bit-player who becomes her obsession. Her unrequited love for him lead
- s to a nightmarish end.\n\nhttps://www.imdb.com/title/tt0082093/\n\nIMDb r
- ating: 7.4
+SUMMARY:DIG! XX
+DTSTART;TZID=America/Los_Angeles:20250126T150000
+DTEND;TZID=America/Los_Angeles:20250126T175500
+DTSTAMP:20250126T225300Z
+UID:ci16639652-tt30843675--2025-1-26-15-0
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nDIG. XX looks at the collision 
+ of art and commerce through the star-crossed friendship and bitter rivalry
+  of dueling rock bands - The Dandy Warhols and The Brian Jonestown Massacr
+ e. DIG. XX is the 20th anniversary extended edition...\n\nhttps://www.imdb
+ .com/title/tt30843675/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIG! XX
+DTSTART;TZID=America/Los_Angeles:20250126T181500
+DTEND;TZID=America/Los_Angeles:20250126T211000
+DTSTAMP:20250127T020800Z
+UID:ci16639652-tt30843675--2025-1-26-18-15
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nDIG. XX looks at the collision 
+ of art and commerce through the star-crossed friendship and bitter rivalry
+  of dueling rock bands - The Dandy Warhols and The Brian Jonestown Massacr
+ e. DIG. XX is the 20th anniversary extended edition...\n\nhttps://www.imdb
+ .com/title/tt30843675/\n\nIMDb rating: 8.3
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT

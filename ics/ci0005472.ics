@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250110T091316Z
+LAST-MODIFIED:20250111T102715Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Vampyr (1932)
-DTSTART;TZID=America/Los_Angeles:20250110T200000
-DTEND;TZID=America/Los_Angeles:20250110T214000
-DTSTAMP:20250111T035300Z
-UID:ci0005472-tt0023649--2025-1-10-20-0
-DESCRIPTION:Duration: 1h 15m (75 mins)\n\nA drifter obsessed with the supe
- rnatural stumbles upon an inn where a severely ill adolescent girl is slow
- ly becoming a vampire.\n\nhttps://www.imdb.com/title/tt0023649/\n\nIMDb ra
- ting: 7.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's Not Me
 DTSTART;TZID=America/Los_Angeles:20250111T163000
@@ -26,7 +13,7 @@ UID:ci0005472-tt27989261--2025-1-11-16-30
 DESCRIPTION:Duration: 0h 41m (41 mins)\n\nA self-portrait of the director 
  and his oeuvre\, revisiting in free-form more than 40 years of the author'
  s filmography.\n\nhttps://www.imdb.com/title/tt27989261/\n\nIMDb rating: 6
- .9
+ .8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -105,7 +92,7 @@ UID:ci0005472-tt27989261--2025-1-18-16-30
 DESCRIPTION:Duration: 0h 41m (41 mins)\n\nA self-portrait of the director 
  and his oeuvre\, revisiting in free-form more than 40 years of the author'
  s filmography.\n\nhttps://www.imdb.com/title/tt27989261/\n\nIMDb rating: 6
- .9
+ .8
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -133,6 +120,20 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nIn 1951\, a group of high schoo
  lers come of age in a bleak\, isolated\, atrophied North Texas town that i
  s slowly dying\, both culturally and economically.\n\nhttps://www.imdb.com
  /title/tt0067328/\n\nIMDb rating: 8
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Ground Zero: Stories from Gaza
+DTSTART;TZID=America/Los_Angeles:20250119T123000
+DTEND;TZID=America/Los_Angeles:20250119T145000
+DTSTAMP:20250119T202300Z
+UID:ci0005472-tt32606918--2025-1-19-12-30
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nFrom Ground Zero is a collectio
+ n of 22 short films made in Gaza. Initiated by Palestinian director Rashid
+  Masharawi\, the project was born to give a voice to 22 Gazan filmmakers t
+ o tell the untold stories of the current war on film.\n\nhttps://www.imdb.
+ com/title/tt32606918/\n\nIMDb rating: 7.6
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -275,6 +276,45 @@ DTSTART;TZID=America/Los_Angeles:20250125T190000
 DTEND;TZID=America/Los_Angeles:20250125T211000
 DTSTAMP:20250126T025300Z
 UID:ci0005472-tt0370986--2025-1-25-19-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nTwo pre-adolescent boys both ex
+ perienced a strange event and later it affects their lives in different wa
+ ys. One becomes a reckless\, sexually adventurous prostitute\, while the o
+ ther retreats into a reclusive fantasy of alien abduc...\n\nhttps://www.im
+ db.com/title/tt0370986/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost in the Shell (1995)
+DTSTART;TZID=America/Los_Angeles:20250126T203000
+DTEND;TZID=America/Los_Angeles:20250126T222000
+DTSTAMP:20250127T042300Z
+UID:ci0005472-tt0113568--2025-1-26-20-30
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA cyborg policewoman and her par
+ tner hunt a mysterious and powerful hacker called the Puppet Master.\n\nht
+ tps://www.imdb.com/title/tt0113568/\n\nIMDb rating: 7.9
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Grand Illusion (1937)
+DTSTART;TZID=America/Los_Angeles:20250126T180000
+DTEND;TZID=America/Los_Angeles:20250126T202000
+DTSTAMP:20250127T015300Z
+UID:ci0005472-tt0028950--2025-1-26-18-0
+DESCRIPTION:Duration: 1h 53m (113 mins)\n\nDuring WWI\, two French soldier
+ s are captured and imprisoned in a German P.O.W. camp. Several escape atte
+ mpts follow until they are eventually sent to a seemingly inescapable fort
+ ress.\n\nhttps://www.imdb.com/title/tt0028950/\n\nIMDb rating: 8.1
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin (2004)
+DTSTART;TZID=America/Los_Angeles:20250126T153000
+DTEND;TZID=America/Los_Angeles:20250126T174000
+DTSTAMP:20250126T232300Z
+UID:ci0005472-tt0370986--2025-1-26-15-30
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nTwo pre-adolescent boys both ex
  perienced a strange event and later it affects their lives in different wa
  ys. One becomes a reckless\, sexually adventurous prostitute\, while the o

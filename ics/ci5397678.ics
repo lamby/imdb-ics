@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250110T091602Z
+LAST-MODIFIED:20250111T102947Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250110T140000
-DTEND;TZID=America/Los_Angeles:20250110T180000
-DTSTAMP:20250110T215300Z
-UID:ci5397678-tt8999762--2025-1-10-14-0
-DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250110T190000
-DTEND;TZID=America/Los_Angeles:20250110T230000
-DTSTAMP:20250111T025300Z
-UID:ci5397678-tt8999762--2025-1-10-19-0
-DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250111T140000
@@ -349,6 +321,48 @@ DESCRIPTION:Duration: 2h 04m (124 mins)\n\nMaria Callas\, the world's grea
  test opera singer\, lives the last days of her life in 1970s Paris\, as sh
  e confronts her identity and life.\n\nhttps://www.imdb.com/title/tt2289340
  4/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Challengers
+DTSTART;TZID=America/Los_Angeles:20250126T203000
+DTEND;TZID=America/Los_Angeles:20250126T231000
+DTSTAMP:20250127T042300Z
+UID:ci5397678-tt16426418--2025-1-26-20-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTashi\, a former tennis prodigy
+  turned coach\, transformed her husband into a champion. But to overcome a
+  recent losing streak and redeem himself\, he'll need to face off against 
+ his former best friend and Tashi's ex-boyfriend.\n\nhttps://www.imdb.com/t
+ itle/tt16426418/\n\nIMDb rating: 7.1
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=America/Los_Angeles:20250126T170000
+DTEND;TZID=America/Los_Angeles:20250126T194000
+DTSTAMP:20250127T005300Z
+UID:ci5397678-tt20221436--2025-1-26-17-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
+ rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
+ Emilia enlists Rita\, an unappreciated lawyer\, to help fake her death so 
+ that she can finally live authentically as her true self.\n\nhttps://www.i
+ mdb.com/title/tt20221436/\n\nIMDb rating: 6.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20250126T140000
+DTEND;TZID=America/Los_Angeles:20250126T161000
+DTSTAMP:20250126T215300Z
+UID:ci5397678-tt29623480--2025-1-26-14-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
