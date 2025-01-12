@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250111T102947Z
+LAST-MODIFIED:20250112T093341Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250111T140000
-DTEND;TZID=America/Los_Angeles:20250111T180000
-DTSTAMP:20250111T215300Z
-UID:ci5397678-tt8999762--2025-1-11-14-0
-DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250111T190000
-DTEND;TZID=America/Los_Angeles:20250111T230000
-DTSTAMP:20250112T025300Z
-UID:ci5397678-tt8999762--2025-1-11-19-0
-DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250112T140000
@@ -363,6 +335,34 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
  harsh environment\, Roz bonds with the island's animals and cares for an o
  rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
  ng: 8.2
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=America/Los_Angeles:20250127T203000
+DTEND;TZID=America/Los_Angeles:20250127T231500
+DTSTAMP:20250128T042300Z
+UID:ci5397678-tt28607951--2025-1-27-20-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA young escort from Brooklyn me
+ ets and impulsively marries the son of a Russian oligarch. Once the news r
+ eaches Russia\, her fairy tale is threatened as his parents set out for Ne
+ w York to get the marriage annulled.\n\nhttps://www.imdb.com/title/tt28607
+ 951/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20250127T173000
+DTEND;TZID=America/Los_Angeles:20250127T192000
+DTSTAMP:20250128T012300Z
+UID:ci5397678-tt4772188--2025-1-27-17-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 7.
+ 9
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

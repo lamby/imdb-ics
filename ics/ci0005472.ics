@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250111T102715Z
+LAST-MODIFIED:20250112T093108Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:It's Not Me
-DTSTART;TZID=America/Los_Angeles:20250111T163000
-DTEND;TZID=America/Los_Angeles:20250111T174000
-DTSTAMP:20250112T002300Z
-UID:ci0005472-tt27989261--2025-1-11-16-30
-DESCRIPTION:Duration: 0h 41m (41 mins)\n\nA self-portrait of the director 
- and his oeuvre\, revisiting in free-form more than 40 years of the author'
- s filmography.\n\nhttps://www.imdb.com/title/tt27989261/\n\nIMDb rating: 6
- .8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vampyr (1932)
 DTSTART;TZID=America/Los_Angeles:20250113T193000
@@ -320,6 +307,19 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nTwo pre-adolescent boys both ex
  ys. One becomes a reckless\, sexually adventurous prostitute\, while the o
  ther retreats into a reclusive fantasy of alien abduc...\n\nhttps://www.im
  db.com/title/tt0370986/\n\nIMDb rating: 7.6
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers (2022)
+DTSTART;TZID=America/Los_Angeles:20250127T191500
+DTEND;TZID=America/Los_Angeles:20250127T213000
+DTSTAMP:20250128T030800Z
+UID:ci0005472-tt12818328--2025-1-27-19-15
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nIMDb rating: 7.7
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT

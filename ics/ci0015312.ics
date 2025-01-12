@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250111T103037Z
+LAST-MODIFIED:20250112T093432Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Life Aquatic with Steve Zissou (2004)
-DTSTART;TZID=America/Los_Angeles:20250111T190000
-DTEND;TZID=America/Los_Angeles:20250111T212500
-DTSTAMP:20250112T025300Z
-UID:ci0015312-tt0362270--2025-1-11-19-0
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nWith a plan to exact revenge on
-  a legendary shark that killed his partner\, oceanographer Steve Zissou (B
- ill Murray) rallies a crew that includes his estranged wife\, a journalist
- \, and a man who may or may not be his son.\n\nhttps://www.imdb.com/title/
- tt0362270/\n\nIMDb rating: 7.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Thing (1982)
-DTSTART;TZID=America/Los_Angeles:20250111T160000
-DTEND;TZID=America/Los_Angeles:20250111T181500
-DTSTAMP:20250111T235300Z
-UID:ci0015312-tt0084787--2025-1-11-16-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA research team in Antarctica i
- s hunted by a shape-shifting alien that assumes the appearance of its vict
- ims.\n\nhttps://www.imdb.com/title/tt0084787/\n\nIMDb rating: 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Thing (1982)
-DTSTART;TZID=America/Los_Angeles:20250111T214500
-DTEND;TZID=America/Los_Angeles:20250112T000000
-DTSTAMP:20250112T053800Z
-UID:ci0015312-tt0084787--2025-1-11-21-45
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA research team in Antarctica i
- s hunted by a shape-shifting alien that assumes the appearance of its vict
- ims.\n\nhttps://www.imdb.com/title/tt0084787/\n\nIMDb rating: 8.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Life Aquatic with Steve Zissou (2004)
 DTSTART;TZID=America/Los_Angeles:20250112T190000
