@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250112T093331Z
+LAST-MODIFIED:20250113T101748Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -38,6 +38,20 @@ DTSTART;TZID=America/Los_Angeles:20250127T190000
 DTEND;TZID=America/Los_Angeles:20250127T215500
 DTSTAMP:20250128T025300Z
 UID:ci16639652-tt30843675--2025-1-27-19-0
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nDIG. XX looks at the collision 
+ of art and commerce through the star-crossed friendship and bitter rivalry
+  of dueling rock bands - The Dandy Warhols and The Brian Jonestown Massacr
+ e. DIG. XX is the 20th anniversary extended edition...\n\nhttps://www.imdb
+ .com/title/tt30843675/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIG! XX
+DTSTART;TZID=America/Los_Angeles:20250128T190000
+DTEND;TZID=America/Los_Angeles:20250128T215500
+DTSTAMP:20250129T025300Z
+UID:ci16639652-tt30843675--2025-1-28-19-0
 DESCRIPTION:Duration: 2h 26m (146 mins)\n\nDIG. XX looks at the collision 
  of art and commerce through the star-crossed friendship and bitter rivalry
   of dueling rock bands - The Dandy Warhols and The Brian Jonestown Massacr

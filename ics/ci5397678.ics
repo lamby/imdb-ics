@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250112T093341Z
+LAST-MODIFIED:20250113T101757Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250112T140000
-DTEND;TZID=America/Los_Angeles:20250112T180000
-DTSTAMP:20250112T215300Z
-UID:ci5397678-tt8999762--2025-1-12-14-0
-DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250112T190000
-DTEND;TZID=America/Los_Angeles:20250112T230000
-DTSTAMP:20250113T025300Z
-UID:ci5397678-tt8999762--2025-1-12-19-0
-DESCRIPTION:Duration: 3h 35m (215 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250113T190000
@@ -363,6 +335,33 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
  lated by various species\, and will have to team up with them despite thei
  r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 7.
  9
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=America/Los_Angeles:20250128T203000
+DTEND;TZID=America/Los_Angeles:20250128T222000
+DTSTAMP:20250129T042300Z
+UID:ci5397678-tt4772188--2025-1-28-20-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
+ s its home is devastated by a great flood\, he finds refuge on a boat popu
+ lated by various species\, and will have to team up with them despite thei
+ r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 7.
+ 9
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=America/Los_Angeles:20250128T170000
+DTEND;TZID=America/Los_Angeles:20250128T195000
+DTSTAMP:20250129T005300Z
+UID:ci5397678-tt17526714--2025-1-28-17-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
+ k-market drug: a cell-replicating substance that temporarily creates a you
+ nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
+ /\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
