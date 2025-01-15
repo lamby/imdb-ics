@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250114T085407Z
+LAST-MODIFIED:20250115T095140Z
 NAME:Ark Lodge Cinemas\, Seattle
 X-WR-CALNAME:Ark Lodge Cinemas\, Seattle
 BEGIN:VEVENT
@@ -197,6 +197,20 @@ LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic the Hedgehog 3
+DTSTART;TZID=America/Los_Angeles:20250118T123000
+DTEND;TZID=America/Los_Angeles:20250118T144500
+DTSTAMP:20250118T202300Z
+UID:ci0034743-tt18259086--2025-1-18-12-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
+ unite against a powerful new adversary\, Shadow\, a mysterious villain wit
+ h powers unlike anything they have faced before. With their abilities outm
+ atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
+ b.com/title/tt18259086/\n\nIMDb rating: 7.2
+LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
+ \, WA\, 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonic the Hedgehog 3
 DTSTART;TZID=America/Los_Angeles:20250118T160000
 DTEND;TZID=America/Los_Angeles:20250118T181500
 DTSTAMP:20250118T235300Z
@@ -329,20 +343,6 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
  2/\n\nIMDb rating: 7.6
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=America/Los_Angeles:20250119T123000
-DTEND;TZID=America/Los_Angeles:20250119T144500
-DTSTAMP:20250119T202300Z
-UID:ci0034743-tt18259086--2025-1-19-12-30
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7.2
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT

@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250114T085011Z
+LAST-MODIFIED:20250115T094850Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Escape from New York (1981)
-DTSTART;TZID=America/Los_Angeles:20250114T193000
-DTEND;TZID=America/Los_Angeles:20250114T213500
-DTSTAMP:20250115T032300Z
-UID:ci1024213-tt0082340--2025-1-14-19-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn 1997\, when the U.S. presiden
- t crashes into Manhattan\, now a giant maximum security prison\, a convict
- ed bank robber is sent in to rescue him.\n\nhttps://www.imdb.com/title/tt0
- 082340/\n\nIMDb rating: 7.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Escape from New York (1981)
 DTSTART;TZID=America/Los_Angeles:20250115T163000
