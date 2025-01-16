@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250115T095022Z
+LAST-MODIFIED:20250116T095839Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -57,6 +57,19 @@ DESCRIPTION:Duration: 2h 26m (146 mins)\n\nDIG. XX looks at the collision
   of dueling rock bands - The Dandy Warhols and The Brian Jonestown Massacr
  e. DIG. XX is the 20th anniversary extended edition...\n\nhttps://www.imdb
  .com/title/tt30843675/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Trash
+DTSTART;TZID=America/Los_Angeles:20250131T190000
+DTEND;TZID=America/Los_Angeles:20250131T205000
+DTSTAMP:20250201T025300Z
+UID:ci16639652-tt28419896--2025-1-31-19-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA group of homeless misfits must
+  fight for survival when they discover a plot to exterminate every homeles
+ s person in the city.\n\nhttps://www.imdb.com/title/tt28419896/\n\nIMDb ra
+ ting: 4.4
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
