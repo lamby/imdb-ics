@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250116T095943Z
+LAST-MODIFIED:20250117T092554Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:They Live (1988)
-DTSTART;TZID=America/Los_Angeles:20250116T200000
-DTEND;TZID=America/Los_Angeles:20250116T220000
-DTSTAMP:20250117T035300Z
-UID:ci0015312-tt0096256--2025-1-16-20-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nThey influence our decisions wit
- hout us knowing it. They numb our senses without us feeling it. They contr
- ol our lives without us realizing it. They live.\n\nhttps://www.imdb.com/t
- itle/tt0096256/\n\nIMDb rating: 7.2
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Psycho (2000)
 DTSTART;TZID=America/Los_Angeles:20250117T220000
