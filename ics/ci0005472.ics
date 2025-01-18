@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250117T092217Z
+LAST-MODIFIED:20250118T085704Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Lair of the White Worm (1988)
-DTSTART;TZID=America/Los_Angeles:20250117T190000
-DTEND;TZID=America/Los_Angeles:20250117T210000
-DTSTAMP:20250118T025300Z
-UID:ci0005472-tt0095488--2025-1-17-19-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen an archaeologist uncovers a
-  strange skull in a foreign land\, the residents of a nearby town begin to
-  disappear\, leading to further inexplicable occurrences.\n\nhttps://www.i
- mdb.com/title/tt0095488/\n\nIMDb rating: 6.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cell (2000)
-DTSTART;TZID=America/Los_Angeles:20250117T211500
-DTEND;TZID=America/Los_Angeles:20250117T233000
-DTSTAMP:20250118T050800Z
-UID:ci0005472-tt0209958--2025-1-17-21-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn F.B.I. Agent persuades a soc
- ial worker\, who is adept with a new experimental technology\, to enter th
- e mind of a comatose serial killer in order to learn where he has hidden h
- is latest kidnap victim.\n\nhttps://www.imdb.com/title/tt0209958/\n\nIMDb 
- rating: 6.4
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It's Not Me
 DTSTART;TZID=America/Los_Angeles:20250118T163000
