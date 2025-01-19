@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250118T090023Z
+LAST-MODIFIED:20250119T162422Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:American Psycho (2000)
-DTSTART;TZID=America/Los_Angeles:20250118T220000
-DTEND;TZID=America/Los_Angeles:20250119T001000
-DTSTAMP:20250119T055300Z
-UID:ci0015312-tt0144084--2025-1-18-22-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA wealthy New York City investm
- ent banking executive\, Patrick Bateman\, hides his alternate psychopathic
-  ego from his co-workers and friends as he delves deeper into his violent\
- , hedonistic fantasies.\n\nhttps://www.imdb.com/title/tt0144084/\n\nIMDb r
- ating: 7.6
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selma (2014)
-DTSTART;TZID=America/Los_Angeles:20250118T160000
-DTEND;TZID=America/Los_Angeles:20250118T183500
-DTSTAMP:20250118T235300Z
-UID:ci0015312-tt1020072--2025-1-18-16-0
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nA chronicle of Dr. Martin Luthe
- r King\, Jr.'s campaign to secure equal voting rights via an epic march fr
- om Selma to Montgomery\, Alabama\, in 1965.\n\nhttps://www.imdb.com/title/
- tt1020072/\n\nIMDb rating: 7.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Selma (2014)
-DTSTART;TZID=America/Los_Angeles:20250118T190000
-DTEND;TZID=America/Los_Angeles:20250118T213500
-DTSTAMP:20250119T025300Z
-UID:ci0015312-tt1020072--2025-1-18-19-0
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nA chronicle of Dr. Martin Luthe
- r King\, Jr.'s campaign to secure equal voting rights via an epic march fr
- om Selma to Montgomery\, Alabama\, in 1965.\n\nhttps://www.imdb.com/title/
- tt1020072/\n\nIMDb rating: 7.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Psycho (2000)
 DTSTART;TZID=America/Los_Angeles:20250119T220000
