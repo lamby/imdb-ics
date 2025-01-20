@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250119T162326Z
+LAST-MODIFIED:20250120T093555Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250119T140000
-DTEND;TZID=America/Los_Angeles:20250119T180000
-DTSTAMP:20250119T215300Z
-UID:ci5397678-tt8999762--2025-1-19-14-0
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250119T190000
-DTEND;TZID=America/Los_Angeles:20250119T230000
-DTSTAMP:20250120T025300Z
-UID:ci5397678-tt8999762--2025-1-19-19-0
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250120T190000
