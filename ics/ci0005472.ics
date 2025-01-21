@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250120T093323Z
+LAST-MODIFIED:20250121T071213Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:King: A Filmed Record... Montgomery to Memphis (1969)
-DTSTART;TZID=America/Los_Angeles:20250120T183000
-DTEND;TZID=America/Los_Angeles:20250120T220000
-DTSTAMP:20250121T022300Z
-UID:ci0005472-tt0065944--2025-1-20-18-30
-DESCRIPTION:Duration: 3h 05m (185 mins)\n\nFollows Martin Luther King's li
- fe and decades-long civil rights activism.\n\nhttps://www.imdb.com/title/t
- t0065944/\n\nIMDb rating: 8.2
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Ground Zero
 DTSTART;TZID=America/Los_Angeles:20250121T191500

@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250120T093555Z
+LAST-MODIFIED:20250121T071441Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250120T190000
-DTEND;TZID=America/Los_Angeles:20250120T230000
-DTSTAMP:20250121T025300Z
-UID:ci5397678-tt8999762--2025-1-20-19-0
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250121T190000
@@ -83,7 +69,7 @@ UID:ci5397678-tt17526714--2025-1-24-20-30
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
  k-market drug: a cell-replicating substance that temporarily creates a you
  nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.4
+ /\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -152,7 +138,7 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
  rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
  Emilia enlists Rita\, an unappreciated lawyer\, to help fake her death so 
  that she can finally live authentically as her true self.\n\nhttps://www.i
- mdb.com/title/tt20221436/\n\nIMDb rating: 6.5
+ mdb.com/title/tt20221436/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -221,7 +207,7 @@ UID:ci5397678-tt17526714--2025-1-28-17-0
 DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
  k-market drug: a cell-replicating substance that temporarily creates a you
  nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.4
+ /\n\nIMDb rating: 7.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -276,7 +262,7 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
  rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
  Emilia enlists Rita\, an unappreciated lawyer\, to help fake her death so 
  that she can finally live authentically as her true self.\n\nhttps://www.i
- mdb.com/title/tt20221436/\n\nIMDb rating: 6.5
+ mdb.com/title/tt20221436/\n\nIMDb rating: 6.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

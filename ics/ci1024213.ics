@@ -1,7 +1,44 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250120T093422Z
+LAST-MODIFIED:20250121T071305Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Steamboat Bill\, Jr. (1928)
+DTSTART;TZID=America/Los_Angeles:20250121T163000
+DTEND;TZID=America/Los_Angeles:20250121T180500
+DTSTAMP:20250122T002300Z
+UID:ci1024213-tt0019421--2025-1-21-16-30
+DESCRIPTION:Duration: 1h 10m (70 mins)\n\nThe effete son of a cantankerous
+  riverboat captain comes to join his father's crew.\n\nhttps://www.imdb.co
+ m/title/tt0019421/\n\nIMDb rating: 7.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Thoughts That Once We Had (2015)
+DTSTART;TZID=America/Los_Angeles:20250122T193000
+DTEND;TZID=America/Los_Angeles:20250122T214500
+DTSTAMP:20250123T032300Z
+UID:ci1024213-tt4555248--2025-1-22-19-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nA personal history of cinema\, 
+ partially inspired by Gilles Deleuze\, 'The movement-image' and 'The time-
+ image.' All quotations are from Deleuze\, unless otherwise attributed.\n\n
+ https://www.imdb.com/title/tt4555248/\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Edge (1968)
+DTSTART;TZID=America/Los_Angeles:20250123T193000
+DTEND;TZID=America/Los_Angeles:20250123T213500
+DTSTAMP:20250124T032300Z
+UID:ci1024213-tt0061612--2025-1-23-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA troubled antiwar activist pla
+ ns to assassinate the President of the United States.\n\nhttps://www.imdb.
+ com/title/tt0061612/\n\nIMDb rating: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR

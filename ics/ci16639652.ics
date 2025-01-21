@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250120T093544Z
+LAST-MODIFIED:20250121T071430Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -83,6 +83,17 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA group of homeless misfits must
   fight for survival when they discover a plot to exterminate every homeles
  s person in the city.\n\nhttps://www.imdb.com/title/tt28419896/\n\nIMDb ra
  ting: 4.4
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Macbeth: David Tennant & Cush Jumbo
+DTSTART;TZID=America/Los_Angeles:20250205T190000
+DTEND;TZID=America/Los_Angeles:20250205T212000
+DTSTAMP:20250206T025300Z
+UID:ci16639652-tt34729082--2025-2-5-19-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nhttps://www.imdb.com/title/tt34
+ 729082/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
