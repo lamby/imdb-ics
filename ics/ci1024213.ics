@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250121T071305Z
+LAST-MODIFIED:20250122T094937Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Steamboat Bill\, Jr. (1928)
-DTSTART;TZID=America/Los_Angeles:20250121T163000
-DTEND;TZID=America/Los_Angeles:20250121T180500
-DTSTAMP:20250122T002300Z
-UID:ci1024213-tt0019421--2025-1-21-16-30
-DESCRIPTION:Duration: 1h 10m (70 mins)\n\nThe effete son of a cantankerous
-  riverboat captain comes to join his father's crew.\n\nhttps://www.imdb.co
- m/title/tt0019421/\n\nIMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Thoughts That Once We Had (2015)
 DTSTART;TZID=America/Los_Angeles:20250122T193000
