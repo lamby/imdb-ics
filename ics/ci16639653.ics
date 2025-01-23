@@ -1,88 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250122T095638Z
+LAST-MODIFIED:20250123T100724Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250122T160000
-DTEND;TZID=America/Los_Angeles:20250122T185000
-DTSTAMP:20250122T235300Z
-UID:ci16639653-tt11563598--2025-1-22-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
- d Bob Dylan arrives in New York City with his guitar and forges relationsh
- ips with music icons on his meteoric rise\, culminating in a groundbreakin
- g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
- t11563598/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20250122T161500
-DTEND;TZID=America/Los_Angeles:20250122T185500
-DTSTAMP:20250123T000800Z
-UID:ci16639653-tt5040012--2025-1-22-16-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20250122T191500
-DTEND;TZID=America/Los_Angeles:20250122T215500
-DTSTAMP:20250123T030800Z
-UID:ci16639653-tt5040012--2025-1-22-19-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250122T163000
-DTEND;TZID=America/Los_Angeles:20250122T184500
-DTSTAMP:20250123T002300Z
-UID:ci16639653-tt29439114--2025-1-22-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250122T193000
-DTEND;TZID=America/Los_Angeles:20250122T214500
-DTSTAMP:20250123T032300Z
-UID:ci16639653-tt29439114--2025-1-22-19-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
 DTSTART;TZID=America/Los_Angeles:20250123T160000
 DTEND;TZID=America/Los_Angeles:20250123T185000
 DTSTAMP:20250123T235300Z
 UID:ci16639653-tt11563598--2025-1-23-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
- d Bob Dylan arrives in New York City with his guitar and forges relationsh
- ips with music icons on his meteoric rise\, culminating in a groundbreakin
- g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
- t11563598/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -92,11 +24,11 @@ DTSTART;TZID=America/Los_Angeles:20250123T190000
 DTEND;TZID=America/Los_Angeles:20250123T215000
 DTSTAMP:20250124T025300Z
 UID:ci16639653-tt11563598--2025-1-23-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
- d Bob Dylan arrives in New York City with his guitar and forges relationsh
- ips with music icons on his meteoric rise\, culminating in a groundbreakin
- g performance that reverberates worldwide.\n\nhttps://www.imdb.com/title/t
- t11563598/\n\nIMDb rating: 7.7
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -146,6 +78,544 @@ DTSTART;TZID=America/Los_Angeles:20250123T193000
 DTEND;TZID=America/Los_Angeles:20250123T214500
 DTSTAMP:20250124T032300Z
 UID:ci16639653-tt29439114--2025-1-23-19-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250124T151500
+DTEND;TZID=America/Los_Angeles:20250124T180500
+DTSTAMP:20250124T230800Z
+UID:ci16639653-tt11563598--2025-1-24-15-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20250124T190000
+DTEND;TZID=America/Los_Angeles:20250124T214000
+DTSTAMP:20250125T025300Z
+UID:ci16639653-tt5040012--2025-1-24-19-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250124T183000
+DTEND;TZID=America/Los_Angeles:20250124T223000
+DTSTAMP:20250125T022300Z
+UID:ci16639653-tt8999762--2025-1-24-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250124T163000
+DTEND;TZID=America/Los_Angeles:20250124T184500
+DTSTAMP:20250125T002300Z
+UID:ci16639653-tt29439114--2025-1-24-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250125T160000
+DTEND;TZID=America/Los_Angeles:20250125T185000
+DTSTAMP:20250125T235300Z
+UID:ci16639653-tt11563598--2025-1-25-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20250125T190000
+DTEND;TZID=America/Los_Angeles:20250125T214000
+DTSTAMP:20250126T025300Z
+UID:ci16639653-tt5040012--2025-1-25-19-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250125T140000
+DTEND;TZID=America/Los_Angeles:20250125T180000
+DTSTAMP:20250125T215300Z
+UID:ci16639653-tt8999762--2025-1-25-14-0
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250125T183000
+DTEND;TZID=America/Los_Angeles:20250125T223000
+DTSTAMP:20250126T022300Z
+UID:ci16639653-tt8999762--2025-1-25-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250125T134500
+DTEND;TZID=America/Los_Angeles:20250125T160000
+DTSTAMP:20250125T213800Z
+UID:ci16639653-tt29439114--2025-1-25-13-45
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250125T163000
+DTEND;TZID=America/Los_Angeles:20250125T184500
+DTSTAMP:20250126T002300Z
+UID:ci16639653-tt29439114--2025-1-25-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250125T191500
+DTEND;TZID=America/Los_Angeles:20250125T213000
+DTSTAMP:20250126T030800Z
+UID:ci16639653-tt29439114--2025-1-25-19-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250126T190000
+DTEND;TZID=America/Los_Angeles:20250126T215000
+DTSTAMP:20250127T025300Z
+UID:ci16639653-tt11563598--2025-1-26-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20250126T160000
+DTEND;TZID=America/Los_Angeles:20250126T184000
+DTSTAMP:20250126T235300Z
+UID:ci16639653-tt5040012--2025-1-26-16-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250126T140000
+DTEND;TZID=America/Los_Angeles:20250126T180000
+DTSTAMP:20250126T215300Z
+UID:ci16639653-tt8999762--2025-1-26-14-0
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250126T183000
+DTEND;TZID=America/Los_Angeles:20250126T223000
+DTSTAMP:20250127T022300Z
+UID:ci16639653-tt8999762--2025-1-26-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250126T134500
+DTEND;TZID=America/Los_Angeles:20250126T160000
+DTSTAMP:20250126T213800Z
+UID:ci16639653-tt29439114--2025-1-26-13-45
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250126T163000
+DTEND;TZID=America/Los_Angeles:20250126T184500
+DTSTAMP:20250127T002300Z
+UID:ci16639653-tt29439114--2025-1-26-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250126T191500
+DTEND;TZID=America/Los_Angeles:20250126T213000
+DTSTAMP:20250127T030800Z
+UID:ci16639653-tt29439114--2025-1-26-19-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250127T190000
+DTEND;TZID=America/Los_Angeles:20250127T215000
+DTSTAMP:20250128T025300Z
+UID:ci16639653-tt11563598--2025-1-27-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20250127T160000
+DTEND;TZID=America/Los_Angeles:20250127T184000
+DTSTAMP:20250127T235300Z
+UID:ci16639653-tt5040012--2025-1-27-16-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250127T183000
+DTEND;TZID=America/Los_Angeles:20250127T223000
+DTSTAMP:20250128T022300Z
+UID:ci16639653-tt8999762--2025-1-27-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250127T163000
+DTEND;TZID=America/Los_Angeles:20250127T184500
+DTSTAMP:20250128T002300Z
+UID:ci16639653-tt29439114--2025-1-27-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250127T191500
+DTEND;TZID=America/Los_Angeles:20250127T213000
+DTSTAMP:20250128T030800Z
+UID:ci16639653-tt29439114--2025-1-27-19-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250128T190000
+DTEND;TZID=America/Los_Angeles:20250128T215000
+DTSTAMP:20250129T025300Z
+UID:ci16639653-tt11563598--2025-1-28-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20250128T160000
+DTEND;TZID=America/Los_Angeles:20250128T184000
+DTSTAMP:20250128T235300Z
+UID:ci16639653-tt5040012--2025-1-28-16-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250128T183000
+DTEND;TZID=America/Los_Angeles:20250128T223000
+DTSTAMP:20250129T022300Z
+UID:ci16639653-tt8999762--2025-1-28-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250128T163000
+DTEND;TZID=America/Los_Angeles:20250128T184500
+DTSTAMP:20250129T002300Z
+UID:ci16639653-tt29439114--2025-1-28-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250128T191500
+DTEND;TZID=America/Los_Angeles:20250128T213000
+DTSTAMP:20250129T030800Z
+UID:ci16639653-tt29439114--2025-1-28-19-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250129T160000
+DTEND;TZID=America/Los_Angeles:20250129T185000
+DTSTAMP:20250129T235300Z
+UID:ci16639653-tt11563598--2025-1-29-16-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gone to Earth (1950)
+DTSTART;TZID=America/Los_Angeles:20250129T193000
+DTEND;TZID=America/Los_Angeles:20250129T212000
+DTSTAMP:20250130T032300Z
+UID:ci16639653-tt0042513--2025-1-29-19-30
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA beautiful\, superstitious\, an
+ imal-loving Gypsy is hotly desired by a fox-hunting squire even after she 
+ marries a clergyman.\n\nhttps://www.imdb.com/title/tt0042513/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20250129T153000
+DTEND;TZID=America/Los_Angeles:20250129T181000
+DTSTAMP:20250129T232300Z
+UID:ci16639653-tt5040012--2025-1-29-15-30
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250129T183000
+DTEND;TZID=America/Los_Angeles:20250129T223000
+DTSTAMP:20250130T022300Z
+UID:ci16639653-tt8999762--2025-1-29-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250129T163000
+DTEND;TZID=America/Los_Angeles:20250129T184500
+DTSTAMP:20250130T002300Z
+UID:ci16639653-tt29439114--2025-1-29-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250129T191500
+DTEND;TZID=America/Los_Angeles:20250129T213000
+DTSTAMP:20250130T030800Z
+UID:ci16639653-tt29439114--2025-1-29-19-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=America/Los_Angeles:20250130T190000
+DTEND;TZID=America/Los_Angeles:20250130T215000
+DTSTAMP:20250131T025300Z
+UID:ci16639653-tt11563598--2025-1-30-19-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
+ year-old named Bob Dylan arrives with his revolutionary talent. He forges 
+ relationships with music icons of Greenwich Village on his meteoric rise\,
+  culminating in a performance that reverberates world...\n\nhttps://www.im
+ db.com/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu
+DTSTART;TZID=America/Los_Angeles:20250130T160000
+DTEND;TZID=America/Los_Angeles:20250130T184000
+DTSTAMP:20250130T235300Z
+UID:ci16639653-tt5040012--2025-1-30-16-0
+DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
+ een a haunted young woman and the terrifying vampire infatuated with her\,
+  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
+ 2/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250130T183000
+DTEND;TZID=America/Los_Angeles:20250130T223000
+DTSTAMP:20250131T022300Z
+UID:ci16639653-tt8999762--2025-1-30-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250130T163000
+DTEND;TZID=America/Los_Angeles:20250130T184500
+DTSTAMP:20250131T002300Z
+UID:ci16639653-tt29439114--2025-1-30-16-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
+ iends in their youth\, when they worked together at the same magazine. Aft
+ er years of being out of touch\, they meet again in an extreme but strange
+ ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
+ ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Room Next Door
+DTSTART;TZID=America/Los_Angeles:20250130T191500
+DTEND;TZID=America/Los_Angeles:20250130T213000
+DTSTAMP:20250131T030800Z
+UID:ci16639653-tt29439114--2025-1-30-19-15
 DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
  iends in their youth\, when they worked together at the same magazine. Aft
  er years of being out of touch\, they meet again in an extreme but strange

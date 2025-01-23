@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250122T094937Z
+LAST-MODIFIED:20250123T100619Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Thoughts That Once We Had (2015)
-DTSTART;TZID=America/Los_Angeles:20250122T193000
-DTEND;TZID=America/Los_Angeles:20250122T214500
-DTSTAMP:20250123T032300Z
-UID:ci1024213-tt4555248--2025-1-22-19-30
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nA personal history of cinema\, 
- partially inspired by Gilles Deleuze\, 'The movement-image' and 'The time-
- image.' All quotations are from Deleuze\, unless otherwise attributed.\n\n
- https://www.imdb.com/title/tt4555248/\n\nIMDb rating: 7.2
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Edge (1968)
 DTSTART;TZID=America/Los_Angeles:20250123T193000
