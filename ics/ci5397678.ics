@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250123T101146Z
+LAST-MODIFIED:20250124T103717Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250123T190000
-DTEND;TZID=America/Los_Angeles:20250123T230000
-DTSTAMP:20250124T025300Z
-UID:ci5397678-tt8999762--2025-1-23-19-0
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
 DTSTART;TZID=America/Los_Angeles:20250124T170000
@@ -110,7 +96,7 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
  rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
  Emilia enlists Rita\, an unappreciated lawyer\, to help fake her death so 
  that she can finally live authentically as her true self.\n\nhttps://www.i
- mdb.com/title/tt20221436/\n\nIMDb rating: 6.4
+ mdb.com/title/tt20221436/\n\nIMDb rating: 6.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -234,7 +220,7 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
  rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
  Emilia enlists Rita\, an unappreciated lawyer\, to help fake her death so 
  that she can finally live authentically as her true self.\n\nhttps://www.i
- mdb.com/title/tt20221436/\n\nIMDb rating: 6.4
+ mdb.com/title/tt20221436/\n\nIMDb rating: 6.3
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -256,6 +242,30 @@ DTSTART;TZID=America/Los_Angeles:20250207T194500
 DTEND;TZID=America/Los_Angeles:20250207T214500
 DTSTAMP:20250208T033800Z
 UID:ci5397678-tt0058450--2025-2-7-19-45
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250208T170000
+DTEND;TZID=America/Los_Angeles:20250208T190000
+DTSTAMP:20250209T005300Z
+UID:ci5397678-tt0058450--2025-2-8-17-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250208T194500
+DTEND;TZID=America/Los_Angeles:20250208T214500
+DTSTAMP:20250209T033800Z
+UID:ci5397678-tt0058450--2025-2-8-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
  e/tt0058450/\n\nIMDb rating: 7.8

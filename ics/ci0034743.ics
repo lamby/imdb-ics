@@ -1,64 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250123T101248Z
+LAST-MODIFIED:20250124T103826Z
 NAME:Ark Lodge Cinemas\, Seattle
 X-WR-CALNAME:Ark Lodge Cinemas\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250123T180000
-DTEND;TZID=America/Los_Angeles:20250123T205000
-DTSTAMP:20250124T015300Z
-UID:ci0034743-tt11563598--2025-1-23-18-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
- year-old named Bob Dylan arrives with his revolutionary talent. He forges 
- relationships with music icons of Greenwich Village on his meteoric rise\,
-  culminating in a performance that reverberates world...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.7
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20250123T190000
-DTEND;TZID=America/Los_Angeles:20250123T214000
-DTSTAMP:20250124T025300Z
-UID:ci0034743-tt5040012--2025-1-23-19-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250123T180000
-DTEND;TZID=America/Los_Angeles:20250123T220000
-DTSTAMP:20250124T015300Z
-UID:ci0034743-tt8999762--2025-1-23-18-0
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250123T180000
-DTEND;TZID=America/Los_Angeles:20250123T210500
-DTSTAMP:20250124T015300Z
-UID:ci0034743-tt1262426--2025-1-23-18-0
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
- \, WA\, 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
 DTSTART;TZID=America/Los_Angeles:20250124T190000
@@ -82,7 +27,7 @@ UID:ci0034743-tt5040012--2025-1-24-19-30
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -165,7 +110,7 @@ UID:ci0034743-tt5040012--2025-1-25-12-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -178,7 +123,7 @@ UID:ci0034743-tt5040012--2025-1-25-15-45
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -191,7 +136,7 @@ UID:ci0034743-tt5040012--2025-1-25-19-30
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -302,7 +247,7 @@ UID:ci0034743-tt5040012--2025-1-26-12-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -315,7 +260,7 @@ UID:ci0034743-tt5040012--2025-1-26-15-45
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT
@@ -328,7 +273,7 @@ UID:ci0034743-tt5040012--2025-1-26-19-30
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:Ark Lodge Cinemas\, Seattle\, 4816 Rainier Avenue South\, Seattle
  \, WA\, 98118
 END:VEVENT

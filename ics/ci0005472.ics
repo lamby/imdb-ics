@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250123T100534Z
+LAST-MODIFIED:20250124T103448Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Bringing Up Baby (1938)
-DTSTART;TZID=America/Los_Angeles:20250123T191500
-DTEND;TZID=America/Los_Angeles:20250123T212500
-DTSTAMP:20250124T030800Z
-UID:ci0005472-tt0029947--2025-1-23-19-15
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nWhile trying to secure a $1 mil
- lion donation for his museum\, a befuddled paleontologist is pursued by a 
- flighty and often irritating heiress and her pet leopard\, Baby.\n\nhttps:
- //www.imdb.com/title/tt0029947/\n\nIMDb rating: 7.8
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghost in the Shell (1995)
 DTSTART;TZID=America/Los_Angeles:20250124T190000

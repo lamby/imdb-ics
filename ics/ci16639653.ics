@@ -1,91 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250123T100724Z
+LAST-MODIFIED:20250124T103645Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250123T160000
-DTEND;TZID=America/Los_Angeles:20250123T185000
-DTSTAMP:20250123T235300Z
-UID:ci16639653-tt11563598--2025-1-23-16-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
- year-old named Bob Dylan arrives with his revolutionary talent. He forges 
- relationships with music icons of Greenwich Village on his meteoric rise\,
-  culminating in a performance that reverberates world...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250123T190000
-DTEND;TZID=America/Los_Angeles:20250123T215000
-DTSTAMP:20250124T025300Z
-UID:ci16639653-tt11563598--2025-1-23-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
- year-old named Bob Dylan arrives with his revolutionary talent. He forges 
- relationships with music icons of Greenwich Village on his meteoric rise\,
-  culminating in a performance that reverberates world...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dinner in America (2020)
-DTSTART;TZID=America/Los_Angeles:20250123T191500
-DTEND;TZID=America/Los_Angeles:20250123T213000
-DTSTAMP:20250124T030800Z
-UID:ci16639653-tt9058654--2025-1-23-19-15
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAn on-the-lam punk rocker and a
-  young woman obsessed with his band unexpectedly fall in love and go on an
-  epic journey together through America's decaying Midwestern suburbs.\n\nh
- ttps://www.imdb.com/title/tt9058654/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20250123T161500
-DTEND;TZID=America/Los_Angeles:20250123T185500
-DTSTAMP:20250124T000800Z
-UID:ci16639653-tt5040012--2025-1-23-16-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250123T163000
-DTEND;TZID=America/Los_Angeles:20250123T184500
-DTSTAMP:20250124T002300Z
-UID:ci16639653-tt29439114--2025-1-23-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250123T193000
-DTEND;TZID=America/Los_Angeles:20250123T214500
-DTSTAMP:20250124T032300Z
-UID:ci16639653-tt29439114--2025-1-23-19-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
 DTSTART;TZID=America/Los_Angeles:20250124T151500
@@ -109,7 +27,7 @@ UID:ci16639653-tt5040012--2025-1-24-19-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -164,7 +82,7 @@ UID:ci16639653-tt5040012--2025-1-25-19-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -261,7 +179,7 @@ UID:ci16639653-tt5040012--2025-1-26-16-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -358,7 +276,7 @@ UID:ci16639653-tt5040012--2025-1-27-16-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -427,7 +345,7 @@ UID:ci16639653-tt5040012--2025-1-28-16-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -509,7 +427,7 @@ UID:ci16639653-tt5040012--2025-1-29-15-30
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -578,7 +496,7 @@ UID:ci16639653-tt5040012--2025-1-30-16-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.6
+ 2/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
