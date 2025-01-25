@@ -1,64 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250124T103645Z
+LAST-MODIFIED:20250125T101439Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250124T151500
-DTEND;TZID=America/Los_Angeles:20250124T180500
-DTSTAMP:20250124T230800Z
-UID:ci16639653-tt11563598--2025-1-24-15-15
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
- year-old named Bob Dylan arrives with his revolutionary talent. He forges 
- relationships with music icons of Greenwich Village on his meteoric rise\,
-  culminating in a performance that reverberates world...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20250124T190000
-DTEND;TZID=America/Los_Angeles:20250124T214000
-DTSTAMP:20250125T025300Z
-UID:ci16639653-tt5040012--2025-1-24-19-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250124T183000
-DTEND;TZID=America/Los_Angeles:20250124T223000
-DTSTAMP:20250125T022300Z
-UID:ci16639653-tt8999762--2025-1-24-18-30
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8.1
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250124T163000
-DTEND;TZID=America/Los_Angeles:20250124T184500
-DTSTAMP:20250125T002300Z
-UID:ci16639653-tt29439114--2025-1-24-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
 DTSTART;TZID=America/Los_Angeles:20250125T160000
@@ -539,6 +484,132 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
  er years of being out of touch\, they meet again in an extreme but strange
  ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
  ng: 6.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250131T183000
+DTEND;TZID=America/Los_Angeles:20250131T223000
+DTSTAMP:20250201T022300Z
+UID:ci16639653-tt8999762--2025-1-31-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250201T140000
+DTEND;TZID=America/Los_Angeles:20250201T180000
+DTSTAMP:20250201T215300Z
+UID:ci16639653-tt8999762--2025-2-1-14-0
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250201T183000
+DTEND;TZID=America/Los_Angeles:20250201T223000
+DTSTAMP:20250202T022300Z
+UID:ci16639653-tt8999762--2025-2-1-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250202T140000
+DTEND;TZID=America/Los_Angeles:20250202T180000
+DTSTAMP:20250202T215300Z
+UID:ci16639653-tt8999762--2025-2-2-14-0
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250202T183000
+DTEND;TZID=America/Los_Angeles:20250202T223000
+DTSTAMP:20250203T022300Z
+UID:ci16639653-tt8999762--2025-2-2-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250203T183000
+DTEND;TZID=America/Los_Angeles:20250203T223000
+DTSTAMP:20250204T022300Z
+UID:ci16639653-tt8999762--2025-2-3-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250204T183000
+DTEND;TZID=America/Los_Angeles:20250204T223000
+DTSTAMP:20250205T022300Z
+UID:ci16639653-tt8999762--2025-2-4-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250205T183000
+DTEND;TZID=America/Los_Angeles:20250205T223000
+DTSTAMP:20250206T022300Z
+UID:ci16639653-tt8999762--2025-2-5-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brutalist
+DTSTART;TZID=America/Los_Angeles:20250206T183000
+DTEND;TZID=America/Los_Angeles:20250206T223000
+DTSTAMP:20250207T022300Z
+UID:ci16639653-tt8999762--2025-2-6-18-30
+DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
+ his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
+ the birth of modern United States\, their lives are changed forever by a m
+ ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
+ Db rating: 8.1
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

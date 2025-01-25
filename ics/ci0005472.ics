@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250124T103448Z
+LAST-MODIFIED:20250125T101245Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Ghost in the Shell (1995)
-DTSTART;TZID=America/Los_Angeles:20250124T190000
-DTEND;TZID=America/Los_Angeles:20250124T205000
-DTSTAMP:20250125T025300Z
-UID:ci0005472-tt0113568--2025-1-24-19-0
-DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA cyborg policewoman and her par
- tner hunt a mysterious and powerful hacker called the Puppet Master.\n\nht
- tps://www.imdb.com/title/tt0113568/\n\nIMDb rating: 7.9
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin (2004)
-DTSTART;TZID=America/Los_Angeles:20250124T210000
-DTEND;TZID=America/Los_Angeles:20250124T231000
-DTSTAMP:20250125T045300Z
-UID:ci0005472-tt0370986--2025-1-24-21-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nTwo pre-adolescent boys both ex
- perienced a strange event and later it affects their lives in different wa
- ys. One becomes a reckless\, sexually adventurous prostitute\, while the o
- ther retreats into a reclusive fantasy of alien abduc...\n\nhttps://www.im
- db.com/title/tt0370986/\n\nIMDb rating: 7.6
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Ground Zero
 DTSTART;TZID=America/Los_Angeles:20250125T161500

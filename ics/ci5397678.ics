@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250124T103717Z
+LAST-MODIFIED:20250125T101508Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20250124T170000
-DTEND;TZID=America/Los_Angeles:20250124T192500
-DTSTAMP:20250125T005300Z
-UID:ci5397678-tt20215234--2025-1-24-17-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20250124T203000
-DTEND;TZID=America/Los_Angeles:20250124T232000
-DTSTAMP:20250125T042300Z
-UID:ci5397678-tt17526714--2025-1-24-20-30
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dune: Part Two
 DTSTART;TZID=America/Los_Angeles:20250125T203000
@@ -225,6 +198,198 @@ LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nickel Boys
+DTSTART;TZID=America/Los_Angeles:20250131T203000
+DTEND;TZID=America/Los_Angeles:20250131T231500
+DTSTAMP:20250201T042300Z
+UID:ci5397678-tt23055660--2025-1-31-20-30
+DESCRIPTION:Duration: 2h 20m (140 mins)\n\nBased on the Pulitzer Prize-win
+ ning novel by Colson Whitehead\, &quot\;Nickel Boys&quot\; chronicles the 
+ powerful friendship between two young African-American men navigating the 
+ harrowing trials of reform school together in Florida.\n\nhttps://www.imdb
+ .com/title/tt23055660/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer
+DTSTART;TZID=America/Los_Angeles:20250131T170000
+DTEND;TZID=America/Los_Angeles:20250131T194500
+DTSTAMP:20250201T005300Z
+UID:ci5397678-tt24176060--2025-1-31-17-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nIn 1950s Mexico City\, an Ameri
+ can immigrant in his late forties leads a solitary life amidst a small Ame
+ rican community. However\, the arrival of a young student stirs the man in
+ to finally establishing a meaningful connection with ...\n\nhttps://www.im
+ db.com/title/tt24176060/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Pain
+DTSTART;TZID=America/Los_Angeles:20250201T203000
+DTEND;TZID=America/Los_Angeles:20250201T222500
+DTSTAMP:20250202T042300Z
+UID:ci5397678-tt21823606--2025-2-1-20-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
+  tour through Poland to honor their beloved grandmother\, but their old te
+ nsions resurface against the backdrop of their family history.\n\nhttps://
+ www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.2
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune: Part Two
+DTSTART;TZID=America/Los_Angeles:20250201T133000
+DTEND;TZID=America/Los_Angeles:20250201T164500
+DTSTAMP:20250201T212300Z
+UID:ci5397678-tt15239678--2025-2-1-13-30
+DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with the F
+ remen while on a warpath of revenge against the conspirators who destroyed
+  his family. Facing a choice between the love of his life and the fate of 
+ the universe\, he endeavors to prevent a terrible fu...\n\nhttps://www.imd
+ b.com/title/tt15239678/\n\nIMDb rating: 8.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing (2023)
+DTSTART;TZID=America/Los_Angeles:20250201T173000
+DTEND;TZID=America/Los_Angeles:20250201T194500
+DTSTAMP:20250202T012300Z
+UID:ci5397678-tt28479262--2025-2-1-17-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=America/Los_Angeles:20250202T143000
+DTEND;TZID=America/Los_Angeles:20250202T163500
+DTSTAMP:20250202T222300Z
+UID:ci5397678-tt22022452--2025-2-2-14-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA sequel that features Riley ent
+ ering puberty and experiencing brand new\, more complex emotions as a resu
+ lt. As Riley tries to adapt to her teenage years\, her old emotions try to
+  adapt to the possibility of being replaced.\n\nhttps://www.imdb.com/title
+ /tt22022452/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memoir of a Snail
+DTSTART;TZID=America/Los_Angeles:20250202T203000
+DTEND;TZID=America/Los_Angeles:20250202T223000
+DTSTAMP:20250203T042300Z
+UID:ci5397678-tt23770030--2025-2-2-20-30
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA bittersweet memoir of a melanc
+ holic woman called Grace Pudel - a hoarder of snails\, romance novels\, an
+ d guinea pigs.\n\nhttps://www.imdb.com/title/tt23770030/\n\nIMDb rating: 7
+ .8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wild Robot
+DTSTART;TZID=America/Los_Angeles:20250202T172500
+DTEND;TZID=America/Los_Angeles:20250202T193500
+DTSTAMP:20250203T011800Z
+UID:ci5397678-tt29623480--2025-2-2-17-25
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
+ ent robot called Roz is stranded on an uninhabited island. To survive the 
+ harsh environment\, Roz bonds with the island's animals and cares for an o
+ rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
+ ng: 8.2
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria
+DTSTART;TZID=America/Los_Angeles:20250203T203000
+DTEND;TZID=America/Los_Angeles:20250203T230000
+DTSTAMP:20250204T042300Z
+UID:ci5397678-tt22893404--2025-2-3-20-30
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nMaria Callas\, the world's grea
+ test opera singer\, lives the last days of her life in 1970s Paris\, as sh
+ e confronts her identity and life.\n\nhttps://www.imdb.com/title/tt2289340
+ 4/\n\nIMDb rating: 6.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porcelain War
+DTSTART;TZID=America/Los_Angeles:20250203T170000
+DTEND;TZID=America/Los_Angeles:20250203T185500
+DTSTAMP:20250204T005300Z
+UID:ci5397678-tt30294282--2025-2-3-17-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nUnder roaring fighter jets\, Ukr
+ ainian artists Slava\, Anya\, and Andrey choose to stay behind. Defiantly 
+ finding beauty amid destruction\, they show that although it's easy to mak
+ e people afraid\, it's hard to destroy their passion fo...\n\nhttps://www.
+ imdb.com/title/tt30294282/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nickel Boys
+DTSTART;TZID=America/Los_Angeles:20250204T170000
+DTEND;TZID=America/Los_Angeles:20250204T194500
+DTSTAMP:20250205T005300Z
+UID:ci5397678-tt23055660--2025-2-4-17-0
+DESCRIPTION:Duration: 2h 20m (140 mins)\n\nBased on the Pulitzer Prize-win
+ ning novel by Colson Whitehead\, &quot\;Nickel Boys&quot\; chronicles the 
+ powerful friendship between two young African-American men navigating the 
+ harrowing trials of reform school together in Florida.\n\nhttps://www.imdb
+ .com/title/tt23055660/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=America/Los_Angeles:20250204T203000
+DTEND;TZID=America/Los_Angeles:20250204T233500
+DTSTAMP:20250205T042300Z
+UID:ci5397678-tt1262426--2025-2-4-20-30
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memoir of a Snail
+DTSTART;TZID=America/Los_Angeles:20250205T170000
+DTEND;TZID=America/Los_Angeles:20250205T190000
+DTSTAMP:20250206T005300Z
+UID:ci5397678-tt23770030--2025-2-5-17-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA bittersweet memoir of a melanc
+ holic woman called Grace Pudel - a hoarder of snails\, romance novels\, an
+ d guinea pigs.\n\nhttps://www.imdb.com/title/tt23770030/\n\nIMDb rating: 7
+ .8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing (2023)
+DTSTART;TZID=America/Los_Angeles:20250205T203000
+DTEND;TZID=America/Los_Angeles:20250205T224500
+DTSTAMP:20250206T042300Z
+UID:ci5397678-tt28479262--2025-2-5-20-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nDivine G\, imprisoned at Sing S
+ ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
+ oup alongside other incarcerated men in this story of resilience\, humanit
+ y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
+ 8479262/\n\nIMDb rating: 7.7
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Umbrellas of Cherbourg (1964)
 DTSTART;TZID=America/Los_Angeles:20250207T170000
 DTEND;TZID=America/Los_Angeles:20250207T190000
@@ -266,6 +431,30 @@ DTSTART;TZID=America/Los_Angeles:20250208T194500
 DTEND;TZID=America/Los_Angeles:20250208T214500
 DTSTAMP:20250209T033800Z
 UID:ci5397678-tt0058450--2025-2-8-19-45
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250209T170000
+DTEND;TZID=America/Los_Angeles:20250209T190000
+DTSTAMP:20250210T005300Z
+UID:ci5397678-tt0058450--2025-2-9-17-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250209T194500
+DTEND;TZID=America/Los_Angeles:20250209T214500
+DTSTAMP:20250210T033800Z
+UID:ci5397678-tt0058450--2025-2-9-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
  e/tt0058450/\n\nIMDb rating: 7.8

@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250124T103814Z
+LAST-MODIFIED:20250125T101604Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Modern Times (1936)
-DTSTART;TZID=America/Los_Angeles:20250124T190000
-DTEND;TZID=America/Los_Angeles:20250124T205500
-DTSTAMP:20250125T025300Z
-UID:ci0015312-tt0027977--2025-1-24-19-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe Tramp struggles to live in m
- odern industrial society with the help of a young homeless woman.\n\nhttps
- ://www.imdb.com/title/tt0027977/\n\nIMDb rating: 8.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The City of Lost Children (1995)
-DTSTART;TZID=America/Los_Angeles:20250124T160000
-DTEND;TZID=America/Los_Angeles:20250124T182000
-DTSTAMP:20250124T235300Z
-UID:ci0015312-tt0112682--2025-1-24-16-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA scientist in a surrealist soc
- iety kidnaps children to steal their dreams\, hoping that they slow his ag
- ing process.\n\nhttps://www.imdb.com/title/tt0112682/\n\nIMDb rating: 7.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The City of Lost Children (1995)
-DTSTART;TZID=America/Los_Angeles:20250124T213000
-DTEND;TZID=America/Los_Angeles:20250124T235000
-DTSTAMP:20250125T052300Z
-UID:ci0015312-tt0112682--2025-1-24-21-30
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA scientist in a surrealist soc
- iety kidnaps children to steal their dreams\, hoping that they slow his ag
- ing process.\n\nhttps://www.imdb.com/title/tt0112682/\n\nIMDb rating: 7.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Modern Times (1936)
 DTSTART;TZID=America/Los_Angeles:20250125T190000
