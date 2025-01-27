@@ -1,92 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250125T101508Z
+LAST-MODIFIED:20250127T082809Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=America/Los_Angeles:20250125T203000
-DTEND;TZID=America/Los_Angeles:20250125T234500
-DTSTAMP:20250126T042300Z
-UID:ci5397678-tt15239678--2025-1-25-20-30
-DESCRIPTION:Duration: 2h 46m (166 mins)\n\nPaul Atreides unites with the F
- remen while on a warpath of revenge against the conspirators who destroyed
-  his family. Facing a choice between the love of his life and the fate of 
- the universe\, he endeavors to prevent a terrible fu...\n\nhttps://www.imd
- b.com/title/tt15239678/\n\nIMDb rating: 8.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=America/Los_Angeles:20250125T140000
-DTEND;TZID=America/Los_Angeles:20250125T160500
-DTSTAMP:20250125T215300Z
-UID:ci5397678-tt22022452--2025-1-25-14-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA sequel that features Riley ent
- ering puberty and experiencing brand new\, more complex emotions as a resu
- lt. As Riley tries to adapt to her teenage years\, her old emotions try to
-  adapt to the possibility of being replaced.\n\nhttps://www.imdb.com/title
- /tt22022452/\n\nIMDb rating: 7.6
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maria
-DTSTART;TZID=America/Los_Angeles:20250125T170000
-DTEND;TZID=America/Los_Angeles:20250125T193000
-DTSTAMP:20250126T005300Z
-UID:ci5397678-tt22893404--2025-1-25-17-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nMaria Callas\, the world's grea
- test opera singer\, lives the last days of her life in 1970s Paris\, as sh
- e confronts her identity and life.\n\nhttps://www.imdb.com/title/tt2289340
- 4/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Challengers
-DTSTART;TZID=America/Los_Angeles:20250126T203000
-DTEND;TZID=America/Los_Angeles:20250126T231000
-DTSTAMP:20250127T042300Z
-UID:ci5397678-tt16426418--2025-1-26-20-30
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTashi\, a former tennis prodigy
-  turned coach\, transformed her husband into a champion. But to overcome a
-  recent losing streak and redeem himself\, he'll need to face off against 
- his former best friend and Tashi's ex-boyfriend.\n\nhttps://www.imdb.com/t
- itle/tt16426418/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emilia Pérez
-DTSTART;TZID=America/Los_Angeles:20250126T170000
-DTEND;TZID=America/Los_Angeles:20250126T194000
-DTSTAMP:20250127T005300Z
-UID:ci5397678-tt20221436--2025-1-26-17-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
- rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
- Emilia enlists Rita\, an unappreciated lawyer\, to help fake her death so 
- that she can finally live authentically as her true self.\n\nhttps://www.i
- mdb.com/title/tt20221436/\n\nIMDb rating: 6.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wild Robot
-DTSTART;TZID=America/Los_Angeles:20250126T140000
-DTEND;TZID=America/Los_Angeles:20250126T161000
-DTSTAMP:20250126T215300Z
-UID:ci5397678-tt29623480--2025-1-26-14-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nAfter a shipwreck\, an intellig
- ent robot called Roz is stranded on an uninhabited island. To survive the 
- harsh environment\, Roz bonds with the island's animals and cares for an o
- rphaned baby goose.\n\nhttps://www.imdb.com/title/tt29623480/\n\nIMDb rati
- ng: 8.2
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anora
 DTSTART;TZID=America/Los_Angeles:20250127T203000
@@ -179,7 +96,7 @@ UID:ci5397678-tt21823606--2025-1-30-17-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
   tour through Poland to honor their beloved grandmother\, but their old te
  nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.2
+ www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -191,9 +108,9 @@ DTSTAMP:20250131T042300Z
 UID:ci5397678-tt20221436--2025-1-30-20-30
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
  rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
- Emilia enlists Rita\, an unappreciated lawyer\, to help fake her death so 
- that she can finally live authentically as her true self.\n\nhttps://www.i
- mdb.com/title/tt20221436/\n\nIMDb rating: 6.3
+ Emilia enlists unappreciated lawyer Rita to help fake her death so that sh
+ e can finally live authentically as her true self.\n\nhttps://www.imdb.com
+ /title/tt20221436/\n\nIMDb rating: 6.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -234,7 +151,7 @@ UID:ci5397678-tt21823606--2025-2-1-20-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
   tour through Poland to honor their beloved grandmother\, but their old te
  nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.2
+ www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -330,7 +247,7 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nUnder roaring fighter jets\, Ukr
  ainian artists Slava\, Anya\, and Andrey choose to stay behind. Defiantly 
  finding beauty amid destruction\, they show that although it's easy to mak
  e people afraid\, it's hard to destroy their passion fo...\n\nhttps://www.
- imdb.com/title/tt30294282/\n\nIMDb rating: 7.7
+ imdb.com/title/tt30294282/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -455,6 +372,42 @@ DTSTART;TZID=America/Los_Angeles:20250209T194500
 DTEND;TZID=America/Los_Angeles:20250209T214500
 DTSTAMP:20250210T033800Z
 UID:ci5397678-tt0058450--2025-2-9-19-45
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250210T160000
+DTEND;TZID=America/Los_Angeles:20250210T180000
+DTSTAMP:20250210T235300Z
+UID:ci5397678-tt0058450--2025-2-10-16-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250211T170000
+DTEND;TZID=America/Los_Angeles:20250211T190000
+DTSTAMP:20250212T005300Z
+UID:ci5397678-tt0058450--2025-2-11-17-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250211T194500
+DTEND;TZID=America/Los_Angeles:20250211T214500
+DTSTAMP:20250212T033800Z
+UID:ci5397678-tt0058450--2025-2-11-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
  e/tt0058450/\n\nIMDb rating: 7.8
