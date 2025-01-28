@@ -1,78 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250127T082713Z
+LAST-MODIFIED:20250128T073625Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250127T190000
-DTEND;TZID=America/Los_Angeles:20250127T215000
-DTSTAMP:20250128T025300Z
-UID:ci16639653-tt11563598--2025-1-27-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
- year-old named Bob Dylan arrives with his revolutionary talent. He forges 
- relationships with music icons of Greenwich Village on his meteoric rise\,
-  culminating in a performance that reverberates world...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20250127T160000
-DTEND;TZID=America/Los_Angeles:20250127T184000
-DTSTAMP:20250127T235300Z
-UID:ci16639653-tt5040012--2025-1-27-16-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250127T183000
-DTEND;TZID=America/Los_Angeles:20250127T223000
-DTSTAMP:20250128T022300Z
-UID:ci16639653-tt8999762--2025-1-27-18-30
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250127T163000
-DTEND;TZID=America/Los_Angeles:20250127T184500
-DTSTAMP:20250128T002300Z
-UID:ci16639653-tt29439114--2025-1-27-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250127T191500
-DTEND;TZID=America/Los_Angeles:20250127T213000
-DTSTAMP:20250128T030800Z
-UID:ci16639653-tt29439114--2025-1-27-19-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
 DTSTART;TZID=America/Los_Angeles:20250128T190000
@@ -96,7 +27,7 @@ UID:ci16639653-tt5040012--2025-1-28-16-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.5
+ 2/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -178,7 +109,7 @@ UID:ci16639653-tt5040012--2025-1-29-15-30
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.5
+ 2/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -247,7 +178,7 @@ UID:ci16639653-tt5040012--2025-1-30-16-0
 DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
  een a haunted young woman and the terrifying vampire infatuated with her\,
   causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.5
+ 2/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -308,6 +239,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250131T190000
+DTEND;TZID=America/Los_Angeles:20250131T221500
+DTSTAMP:20250201T025300Z
+UID:ci16639653-tt32178949--2025-1-31-19-0
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250201T140000
 DTEND;TZID=America/Los_Angeles:20250201T180000
@@ -332,6 +277,34 @@ DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and
  the birth of modern United States\, their lives are changed forever by a m
  ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
  Db rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250201T141500
+DTEND;TZID=America/Los_Angeles:20250201T173000
+DTSTAMP:20250201T220800Z
+UID:ci16639653-tt32178949--2025-2-1-14-15
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250201T190000
+DTEND;TZID=America/Los_Angeles:20250201T221500
+DTSTAMP:20250202T025300Z
+UID:ci16639653-tt32178949--2025-2-1-19-0
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -364,6 +337,34 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250202T141500
+DTEND;TZID=America/Los_Angeles:20250202T173000
+DTSTAMP:20250202T220800Z
+UID:ci16639653-tt32178949--2025-2-2-14-15
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250202T190000
+DTEND;TZID=America/Los_Angeles:20250202T221500
+DTSTAMP:20250203T025300Z
+UID:ci16639653-tt32178949--2025-2-2-19-0
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250203T183000
 DTEND;TZID=America/Los_Angeles:20250203T223000
@@ -374,6 +375,20 @@ DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and
  the birth of modern United States\, their lives are changed forever by a m
  ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
  Db rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250203T190000
+DTEND;TZID=America/Los_Angeles:20250203T221500
+DTSTAMP:20250204T025300Z
+UID:ci16639653-tt32178949--2025-2-3-19-0
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -392,6 +407,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250204T190000
+DTEND;TZID=America/Los_Angeles:20250204T221500
+DTSTAMP:20250205T025300Z
+UID:ci16639653-tt32178949--2025-2-4-19-0
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250205T183000
 DTEND;TZID=America/Los_Angeles:20250205T223000
@@ -406,6 +435,33 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250205T190000
+DTEND;TZID=America/Los_Angeles:20250205T221500
+DTSTAMP:20250206T025300Z
+UID:ci16639653-tt32178949--2025-2-5-19-0
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250206T190000
+DTEND;TZID=America/Los_Angeles:20250206T214500
+DTSTAMP:20250207T025300Z
+UID:ci16639653-tt14961016--2025-2-6-19-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Brutalist
 DTSTART;TZID=America/Los_Angeles:20250206T183000
 DTEND;TZID=America/Los_Angeles:20250206T223000
@@ -416,6 +472,202 @@ DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and
  the birth of modern United States\, their lives are changed forever by a m
  ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
  Db rating: 8
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=America/Los_Angeles:20250206T154500
+DTEND;TZID=America/Los_Angeles:20250206T190000
+DTSTAMP:20250206T233800Z
+UID:ci16639653-tt32178949--2025-2-6-15-45
+DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
+ es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
+ he suspects his wife and daughters\, imposing draconian measures that stra
+ in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
+ 32178949/\n\nIMDb rating: 7.6
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250207T160000
+DTEND;TZID=America/Los_Angeles:20250207T184500
+DTSTAMP:20250207T235300Z
+UID:ci16639653-tt14961016--2025-2-7-16-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250207T191500
+DTEND;TZID=America/Los_Angeles:20250207T220000
+DTSTAMP:20250208T030800Z
+UID:ci16639653-tt14961016--2025-2-7-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250208T124500
+DTEND;TZID=America/Los_Angeles:20250208T153000
+DTSTAMP:20250208T203800Z
+UID:ci16639653-tt14961016--2025-2-8-12-45
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250208T160000
+DTEND;TZID=America/Los_Angeles:20250208T184500
+DTSTAMP:20250208T235300Z
+UID:ci16639653-tt14961016--2025-2-8-16-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250208T191500
+DTEND;TZID=America/Los_Angeles:20250208T220000
+DTSTAMP:20250209T030800Z
+UID:ci16639653-tt14961016--2025-2-8-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250209T124500
+DTEND;TZID=America/Los_Angeles:20250209T153000
+DTSTAMP:20250209T203800Z
+UID:ci16639653-tt14961016--2025-2-9-12-45
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250209T160000
+DTEND;TZID=America/Los_Angeles:20250209T184500
+DTSTAMP:20250209T235300Z
+UID:ci16639653-tt14961016--2025-2-9-16-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250209T191500
+DTEND;TZID=America/Los_Angeles:20250209T220000
+DTSTAMP:20250210T030800Z
+UID:ci16639653-tt14961016--2025-2-9-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250210T160000
+DTEND;TZID=America/Los_Angeles:20250210T184500
+DTSTAMP:20250210T235300Z
+UID:ci16639653-tt14961016--2025-2-10-16-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250210T191500
+DTEND;TZID=America/Los_Angeles:20250210T220000
+DTSTAMP:20250211T030800Z
+UID:ci16639653-tt14961016--2025-2-10-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250211T160000
+DTEND;TZID=America/Los_Angeles:20250211T184500
+DTSTAMP:20250211T235300Z
+UID:ci16639653-tt14961016--2025-2-11-16-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250211T191500
+DTEND;TZID=America/Los_Angeles:20250211T220000
+DTSTAMP:20250212T030800Z
+UID:ci16639653-tt14961016--2025-2-11-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250212T160000
+DTEND;TZID=America/Los_Angeles:20250212T184500
+DTSTAMP:20250212T235300Z
+UID:ci16639653-tt14961016--2025-2-12-16-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250212T191500
+DTEND;TZID=America/Los_Angeles:20250212T220000
+DTSTAMP:20250213T030800Z
+UID:ci16639653-tt14961016--2025-2-12-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250127T082738Z
+LAST-MODIFIED:20250128T073644Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:DIG! XX
-DTSTART;TZID=America/Los_Angeles:20250127T190000
-DTEND;TZID=America/Los_Angeles:20250127T215500
-DTSTAMP:20250128T025300Z
-UID:ci16639652-tt30843675--2025-1-27-19-0
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nTwo rock bands\, The Dandy Warh
- ols and The Brian Jonestown Massacre\, navigate fame\, friendship\, and fi
- erce rivalry in a raw journey through the music industry. The 20th anniver
- sary cut adds fresh footage and new perspectives.\n\nhttps://www.imdb.com/
- title/tt30843675/\n\nIMDb rating: 8.1
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DIG! XX
 DTSTART;TZID=America/Los_Angeles:20250128T190000
@@ -84,6 +70,62 @@ LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250207T164500
+DTEND;TZID=America/Los_Angeles:20250207T184500
+DTSTAMP:20250208T003800Z
+UID:ci16639652-tt30953759--2025-2-7-16-45
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250207T190000
+DTEND;TZID=America/Los_Angeles:20250207T210000
+DTSTAMP:20250208T025300Z
+UID:ci16639652-tt30953759--2025-2-7-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250208T164500
+DTEND;TZID=America/Los_Angeles:20250208T184500
+DTSTAMP:20250209T003800Z
+UID:ci16639652-tt30953759--2025-2-8-16-45
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250208T190000
+DTEND;TZID=America/Los_Angeles:20250208T210000
+DTSTAMP:20250209T025300Z
+UID:ci16639652-tt30953759--2025-2-8-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Macbeth: David Tennant & Cush Jumbo
 DTSTART;TZID=America/Los_Angeles:20250209T130000
 DTEND;TZID=America/Los_Angeles:20250209T152000
@@ -91,6 +133,48 @@ DTSTAMP:20250209T205300Z
 UID:ci16639652-tt34729082--2025-2-9-13-0
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nhttps://www.imdb.com/title/tt34
  729082/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250210T190000
+DTEND;TZID=America/Los_Angeles:20250210T210000
+DTSTAMP:20250211T025300Z
+UID:ci16639652-tt30953759--2025-2-10-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250211T190000
+DTEND;TZID=America/Los_Angeles:20250211T210000
+DTSTAMP:20250212T025300Z
+UID:ci16639652-tt30953759--2025-2-11-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nIMDb rating: 8.3
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250212T190000
+DTEND;TZID=America/Los_Angeles:20250212T210000
+DTSTAMP:20250213T025300Z
+UID:ci16639652-tt30953759--2025-2-12-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nIMDb rating: 8.3
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
