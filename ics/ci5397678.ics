@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250128T073658Z
+LAST-MODIFIED:20250129T095930Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Flow
-DTSTART;TZID=America/Los_Angeles:20250128T203000
-DTEND;TZID=America/Los_Angeles:20250128T222000
-DTSTAMP:20250129T042300Z
-UID:ci5397678-tt4772188--2025-1-28-20-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
- s its home is devastated by a great flood\, he finds refuge on a boat popu
- lated by various species\, and will have to team up with them despite thei
- r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nIMDb rating: 7.
- 9
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=America/Los_Angeles:20250128T170000
-DTEND;TZID=America/Los_Angeles:20250128T195000
-DTSTAMP:20250129T005300Z
-UID:ci5397678-tt17526714--2025-1-28-17-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nA fading celebrity takes a blac
- k-market drug: a cell-replicating substance that temporarily creates a you
- nger\, better version of herself.\n\nhttps://www.imdb.com/title/tt17526714
- /\n\nIMDb rating: 7.3
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Challengers
 DTSTART;TZID=America/Los_Angeles:20250129T170000
@@ -68,7 +41,7 @@ UID:ci5397678-tt21823606--2025-1-30-17-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
   tour through Poland to honor their beloved grandmother\, but their old te
  nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.2
+ www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -96,7 +69,7 @@ DESCRIPTION:Duration: 2h 20m (140 mins)\n\nBased on the Pulitzer Prize-win
  ning novel by Colson Whitehead\, &quot\;Nickel Boys&quot\; chronicles the 
  powerful friendship between two young African-American men navigating the 
  harrowing trials of reform school together in Florida.\n\nhttps://www.imdb
- .com/title/tt23055660/\n\nIMDb rating: 7.7
+ .com/title/tt23055660/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -123,7 +96,7 @@ UID:ci5397678-tt21823606--2025-2-1-20-30
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
   tour through Poland to honor their beloved grandmother\, but their old te
  nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.2
+ www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -233,7 +206,7 @@ DESCRIPTION:Duration: 2h 20m (140 mins)\n\nBased on the Pulitzer Prize-win
  ning novel by Colson Whitehead\, &quot\;Nickel Boys&quot\; chronicles the 
  powerful friendship between two young African-American men navigating the 
  harrowing trials of reform school together in Florida.\n\nhttps://www.imdb
- .com/title/tt23055660/\n\nIMDb rating: 7.7
+ .com/title/tt23055660/\n\nIMDb rating: 7.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -404,6 +377,30 @@ DTSTART;TZID=America/Los_Angeles:20250212T194500
 DTEND;TZID=America/Los_Angeles:20250212T214500
 DTSTAMP:20250213T033800Z
 UID:ci5397678-tt0058450--2025-2-12-19-45
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250213T170000
+DTEND;TZID=America/Los_Angeles:20250213T190000
+DTSTAMP:20250214T005300Z
+UID:ci5397678-tt0058450--2025-2-13-17-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
+  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
+ e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg (1964)
+DTSTART;TZID=America/Los_Angeles:20250213T194500
+DTEND;TZID=America/Los_Angeles:20250213T214500
+DTSTAMP:20250214T033800Z
+UID:ci5397678-tt0058450--2025-2-13-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
  e/tt0058450/\n\nIMDb rating: 7.8

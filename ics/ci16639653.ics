@@ -1,78 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250128T073625Z
+LAST-MODIFIED:20250129T095819Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=America/Los_Angeles:20250128T190000
-DTEND;TZID=America/Los_Angeles:20250128T215000
-DTSTAMP:20250129T025300Z
-UID:ci16639653-tt11563598--2025-1-28-19-0
-DESCRIPTION:Duration: 2h 21m (141 mins)\n\nNew York\, 1961. An unknown 19-
- year-old named Bob Dylan arrives with his revolutionary talent. He forges 
- relationships with music icons of Greenwich Village on his meteoric rise\,
-  culminating in a performance that reverberates world...\n\nhttps://www.im
- db.com/title/tt11563598/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=America/Los_Angeles:20250128T160000
-DTEND;TZID=America/Los_Angeles:20250128T184000
-DTSTAMP:20250128T235300Z
-UID:ci16639653-tt5040012--2025-1-28-16-0
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250128T183000
-DTEND;TZID=America/Los_Angeles:20250128T223000
-DTSTAMP:20250129T022300Z
-UID:ci16639653-tt8999762--2025-1-28-18-30
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250128T163000
-DTEND;TZID=America/Los_Angeles:20250128T184500
-DTSTAMP:20250129T002300Z
-UID:ci16639653-tt29439114--2025-1-28-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Room Next Door
-DTSTART;TZID=America/Los_Angeles:20250128T191500
-DTEND;TZID=America/Los_Angeles:20250128T213000
-DTSTAMP:20250129T030800Z
-UID:ci16639653-tt29439114--2025-1-28-19-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nIngrid and Martha were close fr
- iends in their youth\, when they worked together at the same magazine. Aft
- er years of being out of touch\, they meet again in an extreme but strange
- ly sweet situation.\n\nhttps://www.imdb.com/title/tt29439114/\n\nIMDb rati
- ng: 6.9
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Complete Unknown
 DTSTART;TZID=America/Los_Angeles:20250129T160000
@@ -664,6 +595,32 @@ DTSTART;TZID=America/Los_Angeles:20250212T191500
 DTEND;TZID=America/Los_Angeles:20250212T220000
 DTSTAMP:20250213T030800Z
 UID:ci16639653-tt14961016--2025-2-12-19-15
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250213T160000
+DTEND;TZID=America/Los_Angeles:20250213T184500
+DTSTAMP:20250213T235300Z
+UID:ci16639653-tt14961016--2025-2-13-16-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nIMDb rating: 8.9
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250213T191500
+DTEND;TZID=America/Los_Angeles:20250213T220000
+DTSTAMP:20250214T030800Z
+UID:ci16639653-tt14961016--2025-2-13-19-15
 DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA mother is forced to reinvent 
  herself when her family's life is shattered by an act of arbitrary violenc
  e during the tightening grip of a military dictatorship in Brazil\, 1971.\
