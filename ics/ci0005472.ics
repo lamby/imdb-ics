@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250129T095548Z
+LAST-MODIFIED:20250130T070603Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Rebecca (1940)
-DTSTART;TZID=America/Los_Angeles:20250129T190000
-DTEND;TZID=America/Los_Angeles:20250129T213500
-DTSTAMP:20250130T025300Z
-UID:ci0005472-tt0032976--2025-1-29-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA self-conscious woman juggles 
- adjusting to her new role as an aristocrat's wife and avoiding being intim
- idated by his first wife's spectral presence.\n\nhttps://www.imdb.com/titl
- e/tt0032976/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Re-Animator (1985)
 DTSTART;TZID=America/Los_Angeles:20250130T220000

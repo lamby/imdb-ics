@@ -1,45 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250129T100048Z
+LAST-MODIFIED:20250130T071113Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Modern Times (1936)
-DTSTART;TZID=America/Los_Angeles:20250129T190000
-DTEND;TZID=America/Los_Angeles:20250129T205500
-DTSTAMP:20250130T025300Z
-UID:ci0015312-tt0027977--2025-1-29-19-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nThe Tramp struggles to live in m
- odern industrial society with the help of a young homeless woman.\n\nhttps
- ://www.imdb.com/title/tt0027977/\n\nIMDb rating: 8.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The City of Lost Children (1995)
-DTSTART;TZID=America/Los_Angeles:20250129T160000
-DTEND;TZID=America/Los_Angeles:20250129T182000
-DTSTAMP:20250129T235300Z
-UID:ci0015312-tt0112682--2025-1-29-16-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA scientist in a surrealist soc
- iety kidnaps children to steal their dreams\, hoping that they slow his ag
- ing process.\n\nhttps://www.imdb.com/title/tt0112682/\n\nIMDb rating: 7.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The City of Lost Children (1995)
-DTSTART;TZID=America/Los_Angeles:20250129T213000
-DTEND;TZID=America/Los_Angeles:20250129T235000
-DTSTAMP:20250130T052300Z
-UID:ci0015312-tt0112682--2025-1-29-21-30
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA scientist in a surrealist soc
- iety kidnaps children to steal their dreams\, hoping that they slow his ag
- ing process.\n\nhttps://www.imdb.com/title/tt0112682/\n\nIMDb rating: 7.5
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wizard of Oz (1939)
 DTSTART;TZID=America/Los_Angeles:20250130T200000

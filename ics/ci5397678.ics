@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250129T095930Z
+LAST-MODIFIED:20250130T070932Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Challengers
-DTSTART;TZID=America/Los_Angeles:20250129T170000
-DTEND;TZID=America/Los_Angeles:20250129T194000
-DTSTAMP:20250130T005300Z
-UID:ci5397678-tt16426418--2025-1-29-17-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTashi\, a former tennis prodigy
-  turned coach\, transformed her husband into a champion. But to overcome a
-  recent losing streak and redeem himself\, he'll need to face off against 
- his former best friend and Tashi's ex-boyfriend.\n\nhttps://www.imdb.com/t
- itle/tt16426418/\n\nIMDb rating: 7.1
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=America/Los_Angeles:20250129T203000
-DTEND;TZID=America/Los_Angeles:20250129T225500
-DTSTAMP:20250130T042300Z
-UID:ci5397678-tt20215234--2025-1-29-20-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=America/Los_Angeles:20250130T173000
@@ -55,7 +27,7 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\n\nEmilia Pérez follows four rema
  rkable women in Mexico\, each pursuing their own happiness. Cartel leader 
  Emilia enlists unappreciated lawyer Rita to help fake her death so that sh
  e can finally live authentically as her true self.\n\nhttps://www.imdb.com
- /title/tt20221436/\n\nIMDb rating: 6
+ /title/tt20221436/\n\nIMDb rating: 5.9
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -404,6 +376,32 @@ UID:ci5397678-tt0058450--2025-2-13-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
  e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hell's Half Acre (1954)
+DTSTART;TZID=America/Los_Angeles:20250214T204500
+DTEND;TZID=America/Los_Angeles:20250214T224000
+DTSTAMP:20250215T043800Z
+UID:ci5397678-tt0047074--2025-2-14-20-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn American woman goes to Hawaii
+  to search for her husband\, MIA since the war\, but he's a fugitive from 
+ the law and involved in a private feud against his former crime syndicate 
+ partners.\n\nhttps://www.imdb.com/title/tt0047074/\n\nIMDb rating: 6.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Narrow Margin (1952)
+DTSTART;TZID=America/Los_Angeles:20250214T183000
+DTEND;TZID=America/Los_Angeles:20250214T201000
+DTSTAMP:20250215T022300Z
+UID:ci5397678-tt0044954--2025-2-14-18-30
+DESCRIPTION:Duration: 1h 11m (71 mins)\n\nA woman planning to testify agai
+ nst the mob must be protected against potential assassins on the train tri
+ p from Chicago to Los Angeles.\n\nhttps://www.imdb.com/title/tt0044954/\n\
+ nIMDb rating: 7.6
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
