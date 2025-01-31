@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250130T070603Z
+LAST-MODIFIED:20250131T104114Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Re-Animator (1985)
-DTSTART;TZID=America/Los_Angeles:20250130T220000
-DTEND;TZID=America/Los_Angeles:20250130T235000
-DTSTAMP:20250131T055300Z
-UID:ci0005472-tt0089885--2025-1-30-22-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAfter an odd new medical student
-  arrives on campus\, a dedicated local and his girlfriend become involved 
- in bizarre experiments centering around the re-animation of dead tissue.\n
- \nhttps://www.imdb.com/title/tt0089885/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rebecca (1940)
-DTSTART;TZID=America/Los_Angeles:20250130T190000
-DTEND;TZID=America/Los_Angeles:20250130T213500
-DTSTAMP:20250131T025300Z
-UID:ci0005472-tt0032976--2025-1-30-19-0
-DESCRIPTION:Duration: 2h 10m (130 mins)\n\nA self-conscious woman juggles 
- adjusting to her new role as an aristocrat's wife and avoiding being intim
- idated by his first wife's spectral presence.\n\nhttps://www.imdb.com/titl
- e/tt0032976/\n\nIMDb rating: 8.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinema Paradiso (1988)
 DTSTART;TZID=America/Los_Angeles:20250131T190000

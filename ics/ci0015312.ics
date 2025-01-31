@@ -1,21 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250130T071113Z
+LAST-MODIFIED:20250131T104546Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz (1939)
-DTSTART;TZID=America/Los_Angeles:20250130T200000
-DTEND;TZID=America/Los_Angeles:20250130T221000
-DTSTAMP:20250131T035300Z
-UID:ci0015312-tt0032138--2025-1-30-20-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nYoung Dorothy Gale and her dog 
- Toto are swept away by a tornado from their Kansas farm to the magical Lan
- d of Oz and embark on a quest with three new friends to see the Wizard\, w
- ho can return her to her home and fulfill the others...\n\nhttps://www.imd
- b.com/title/tt0032138/\n\nIMDb rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 END:VCALENDAR

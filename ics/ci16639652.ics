@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250130T070917Z
+LAST-MODIFIED:20250131T104405Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:DIG! XX
-DTSTART;TZID=America/Los_Angeles:20250130T190000
-DTEND;TZID=America/Los_Angeles:20250130T215500
-DTSTAMP:20250131T025300Z
-UID:ci16639652-tt30843675--2025-1-30-19-0
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nTwo rock bands\, The Dandy Warh
- ols and The Brian Jonestown Massacre\, navigate fame\, friendship\, and fi
- erce rivalry in a raw journey through the music industry. The 20th anniver
- sary cut adds fresh footage and new perspectives.\n\nhttps://www.imdb.com/
- title/tt30843675/\n\nIMDb rating: 8.1
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Street Trash
 DTSTART;TZID=America/Los_Angeles:20250131T190000
