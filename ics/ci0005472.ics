@@ -1,34 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250131T104114Z
+LAST-MODIFIED:20250203T083305Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Cinema Paradiso (1988)
-DTSTART;TZID=America/Los_Angeles:20250131T190000
-DTEND;TZID=America/Los_Angeles:20250131T222000
-DTSTAMP:20250201T025300Z
-UID:ci0005472-tt0095765--2025-1-31-19-0
-DESCRIPTION:Duration: 2h 54m (174 mins)\n\nSalvatore\, a famous film direc
- tor\, returns to his hometown for the funeral of the local theater's film 
- projectionist\, Alfredo. He reminisces about his life as a young boy falli
- ng in love with cinema.\n\nhttps://www.imdb.com/title/tt0095765/\n\nIMDb r
- ating: 8.5
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Re-Animator (1985)
-DTSTART;TZID=America/Los_Angeles:20250131T220000
-DTEND;TZID=America/Los_Angeles:20250131T235000
-DTSTAMP:20250201T055300Z
-UID:ci0005472-tt0089885--2025-1-31-22-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAfter an odd new medical student
-  arrives on campus\, a dedicated local and his girlfriend become involved 
- in bizarre experiments centering around the re-animation of dead tissue.\n
- \nhttps://www.imdb.com/title/tt0089885/\n\nIMDb rating: 7.1
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
- , 98105
-END:VEVENT
 END:VCALENDAR

@@ -1,1282 +1,59 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250131T103942Z
+LAST-MODIFIED:20250203T083148Z
 NAME:Vue Cambridge
 X-WR-CALNAME:Vue Cambridge
 BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250131T144500
-DTEND;TZID=Europe/London:20250131T164000
-DTSTAMP:20250131T144600Z
-UID:ci0960123-tt21823606--2025-1-31-14-45
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother\, but their old te
- nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=Europe/London:20250131T203000
-DTEND;TZID=Europe/London:20250131T225000
-DTSTAMP:20250131T203100Z
-UID:ci0960123-tt30057084--2025-1-31-20-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20250131T141500
-DTEND;TZID=Europe/London:20250131T165500
-DTSTAMP:20250131T141600Z
-UID:ci0960123-tt14260836--2025-1-31-14-15
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
- ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
- \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20250131T222000
-DTEND;TZID=Europe/London:20250201T010000
-DTSTAMP:20250131T222100Z
-UID:ci0960123-tt14260836--2025-1-31-22-20
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
- ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
- \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20250131T162000
-DTEND;TZID=Europe/London:20250131T184500
-DTSTAMP:20250131T162100Z
-UID:ci0960123-tt20215234--2025-1-31-16-20
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deva
-DTSTART;TZID=Europe/London:20250131T205000
-DTEND;TZID=Europe/London:20250131T235500
-DTSTAMP:20250131T205100Z
-UID:ci0960123-tt27852049--2025-1-31-20-50
-DESCRIPTION:Duration: 2h 36m (156 mins)\n\nAround a brilliant yet rebellio
- us police officer who uncovers a web of deceit and betrayal while investig
- ating a high-profile case.\n\nhttps://www.imdb.com/title/tt27852049/
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flight Risk
-DTSTART;TZID=Europe/London:20250131T190500
-DTEND;TZID=Europe/London:20250131T210500
-DTSTAMP:20250131T190600Z
-UID:ci0960123-tt10078772--2025-1-31-19-5
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
- l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
-  tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250131T123500
-DTEND;TZID=Europe/London:20250131T144000
-DTSTAMP:20250131T123600Z
-UID:ci0960123-tt11891850--2025-1-31-12-35
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250131T150000
-DTEND;TZID=Europe/London:20250131T170500
-DTSTAMP:20250131T150100Z
-UID:ci0960123-tt11891850--2025-1-31-15-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250131T183000
-DTEND;TZID=Europe/London:20250131T203500
-DTSTAMP:20250131T183100Z
-UID:ci0960123-tt11891850--2025-1-31-18-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20250131T115500
-DTEND;TZID=Europe/London:20250131T140000
-DTSTAMP:20250131T115600Z
-UID:ci0960123-tt13622970--2025-1-31-11-55
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20250131T164500
-DTEND;TZID=Europe/London:20250131T185000
-DTSTAMP:20250131T164600Z
-UID:ci0960123-tt13622970--2025-1-31-16-45
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20250131T113000
-DTEND;TZID=Europe/London:20250131T135500
-DTSTAMP:20250131T113100Z
-UID:ci0960123-tt13186482--2025-1-31-11-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20250131T170000
-DTEND;TZID=Europe/London:20250131T192500
-DTSTAMP:20250131T170100Z
-UID:ci0960123-tt13186482--2025-1-31-17-0
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=Europe/London:20250131T193000
-DTEND;TZID=Europe/London:20250131T221000
-DTSTAMP:20250131T193100Z
-UID:ci0960123-tt5040012--2025-1-31-19-30
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20250131T142500
-DTEND;TZID=Europe/London:20250131T164000
-DTSTAMP:20250131T142600Z
-UID:ci0960123-tt5822536--2025-1-31-14-25
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nPaddington returns to Peru to v
- isit his beloved Aunt Lucy\, who now resides at the Home for Retired Bears
- . With the Brown family in tow\, a thrilling adventure ensues when a myste
- ry plunges them into an unexpected journey.\n\nhttps://www.imdb.com/title/
- tt5822536/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presence
-DTSTART;TZID=Europe/London:20250131T212000
-DTEND;TZID=Europe/London:20250131T231000
-DTSTAMP:20250131T212100Z
-UID:ci0960123-tt28249919--2025-1-31-21-20
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA family becomes convinced they 
- are not alone after moving into their new home in the suburbs.\n\nhttps://
- www.imdb.com/title/tt28249919/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250131T120000
-DTEND;TZID=Europe/London:20250131T141500
-DTSTAMP:20250131T120100Z
-UID:ci0960123-tt18259086--2025-1-31-12-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250131T153000
-DTEND;TZID=Europe/London:20250131T174500
-DTSTAMP:20250131T153100Z
-UID:ci0960123-tt18259086--2025-1-31-15-30
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250131T173000
-DTEND;TZID=Europe/London:20250131T194500
-DTSTAMP:20250131T173100Z
-UID:ci0960123-tt18259086--2025-1-31-17-30
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250131T224000
-DTEND;TZID=Europe/London:20250201T005500
-DTSTAMP:20250131T224100Z
-UID:ci0960123-tt18259086--2025-1-31-22-40
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250131T121500
-DTEND;TZID=Europe/London:20250131T161500
-DTSTAMP:20250131T121600Z
-UID:ci0960123-tt8999762--2025-1-31-12-15
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250131T194500
-DTEND;TZID=Europe/London:20250131T234500
-DTSTAMP:20250131T194600Z
-UID:ci0960123-tt8999762--2025-1-31-19-45
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Colors Within
-DTSTART;TZID=Europe/London:20250131T180500
-DTEND;TZID=Europe/London:20250131T201500
-DTSTAMP:20250131T180600Z
-UID:ci0960123-tt23951384--2025-1-31-18-5
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA girl who can see colors in pe
- ople's hearts joins a band with two other people.\n\nhttps://www.imdb.com/
- title/tt23951384/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=Europe/London:20250131T135000
-DTEND;TZID=Europe/London:20250131T160500
-DTSTAMP:20250131T135100Z
-UID:ci0960123-tt27131358--2025-1-31-13-50
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
- talented chef and a recently divorcée fall in love and build the home and
-  family they've always dreamed of\, until a painful truth puts their love 
- story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
- g: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=Europe/London:20250131T200000
-DTEND;TZID=Europe/London:20250131T221500
-DTSTAMP:20250131T200100Z
-UID:ci0960123-tt27131358--2025-1-31-20-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
- talented chef and a recently divorcée fall in love and build the home and
-  family they've always dreamed of\, until a painful truth puts their love 
- story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
- g: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=Europe/London:20250131T223500
-DTEND;TZID=Europe/London:20250201T005000
-DTSTAMP:20250131T223600Z
-UID:ci0960123-tt27131358--2025-1-31-22-35
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
- talented chef and a recently divorcée fall in love and build the home and
-  family they've always dreamed of\, until a painful truth puts their love 
- story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
- g: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250131T114000
-DTEND;TZID=Europe/London:20250131T144500
-DTSTAMP:20250131T114100Z
-UID:ci0960123-tt1262426--2025-1-31-11-40
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250131T171000
-DTEND;TZID=Europe/London:20250131T201500
-DTSTAMP:20250131T171100Z
-UID:ci0960123-tt1262426--2025-1-31-17-10
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:G I-DLE World Tour - iDOL - in Cinemas
-DTSTART;TZID=Europe/London:20250201T150000
-DTEND;TZID=Europe/London:20250201T171000
-DTSTAMP:20250201T150100Z
-UID:ci0960123-tt35318576--2025-2-1-15-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nhttps://www.imdb.com/title/tt35
- 318576/\n\nIMDb rating: 8.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250201T093000
-DTEND;TZID=Europe/London:20250201T112500
-DTSTAMP:20250201T093100Z
-UID:ci0960123-tt21823606--2025-2-1-9-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother\, but their old te
- nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250201T140000
-DTEND;TZID=Europe/London:20250201T155500
-DTSTAMP:20250201T140100Z
-UID:ci0960123-tt21823606--2025-2-1-14-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother\, but their old te
- nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250201T180000
-DTEND;TZID=Europe/London:20250201T195500
-DTSTAMP:20250201T180100Z
-UID:ci0960123-tt21823606--2025-2-1-18-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother\, but their old te
- nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=Europe/London:20250201T163500
-DTEND;TZID=Europe/London:20250201T185500
-DTSTAMP:20250201T163600Z
-UID:ci0960123-tt30057084--2025-2-1-16-35
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=Europe/London:20250201T192500
-DTEND;TZID=Europe/London:20250201T214500
-DTSTAMP:20250201T192600Z
-UID:ci0960123-tt30057084--2025-2-1-19-25
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20250201T101500
-DTEND;TZID=Europe/London:20250201T125500
-DTSTAMP:20250201T101600Z
-UID:ci0960123-tt14260836--2025-2-1-10-15
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
- ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
- \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20250201T172000
-DTEND;TZID=Europe/London:20250201T200000
-DTSTAMP:20250201T172100Z
-UID:ci0960123-tt14260836--2025-2-1-17-20
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
- ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
- \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dominic and the Ladies' Purse
-DTSTART;TZID=Europe/London:20250201T224000
-DTEND;TZID=Europe/London:20250202T014000
-DTSTAMP:20250201T224100Z
-UID:ci0960123-tt32887317--2025-2-1-22-40
-DESCRIPTION:Duration: 2h 31m (151 mins)\n\nDominic\, a disgraced ex-cop tu
- rned detective\, takes on a seemingly simple case to locate a purse's owne
- r\, which unveils a dark web of missing persons\, murder\, a stalker\, and
-  the mysterious dancer Nandhita.\n\nhttps://www.imdb.com/title/tt32887317/
- \n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flight Risk
-DTSTART;TZID=Europe/London:20250201T184000
-DTEND;TZID=Europe/London:20250201T204000
-DTSTAMP:20250201T184100Z
-UID:ci0960123-tt10078772--2025-2-1-18-40
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
- l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
-  tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game Changer
-DTSTART;TZID=Europe/London:20250201T214500
-DTEND;TZID=Europe/London:20250202T005500
-DTSTAMP:20250201T214600Z
-UID:ci0960123-tt14209618--2025-2-1-21-45
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nAn honest IAS officer's fight a
- gainst a corrupt political system through fair and transparent elections.\
- n\nhttps://www.imdb.com/title/tt14209618/\n\nIMDb rating: 6.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20250201T132500
-DTEND;TZID=Europe/London:20250201T162000
-DTSTAMP:20250201T132600Z
-UID:ci0960123-tt9218128--2025-2-1-13-25
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250201T121500
-DTEND;TZID=Europe/London:20250201T142000
-DTSTAMP:20250201T121600Z
-UID:ci0960123-tt11891850--2025-2-1-12-15
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250201T161000
-DTEND;TZID=Europe/London:20250201T181500
-DTSTAMP:20250201T161100Z
-UID:ci0960123-tt11891850--2025-2-1-16-10
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250201T192500
-DTEND;TZID=Europe/London:20250201T213000
-DTSTAMP:20250201T192600Z
-UID:ci0960123-tt11891850--2025-2-1-19-25
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20250201T103500
-DTEND;TZID=Europe/London:20250201T124000
-DTSTAMP:20250201T103600Z
-UID:ci0960123-tt13622970--2025-2-1-10-35
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20250201T145000
-DTEND;TZID=Europe/London:20250201T165500
-DTSTAMP:20250201T145100Z
-UID:ci0960123-tt13622970--2025-2-1-14-50
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20250201T112000
-DTEND;TZID=Europe/London:20250201T134500
-DTSTAMP:20250201T112100Z
-UID:ci0960123-tt13186482--2025-2-1-11-20
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20250201T143500
-DTEND;TZID=Europe/London:20250201T170000
-DTSTAMP:20250201T143600Z
-UID:ci0960123-tt13186482--2025-2-1-14-35
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=Europe/London:20250201T162000
-DTEND;TZID=Europe/London:20250201T190000
-DTSTAMP:20250201T162100Z
-UID:ci0960123-tt5040012--2025-2-1-16-20
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=Europe/London:20250201T203000
-DTEND;TZID=Europe/London:20250201T231000
-DTSTAMP:20250201T203100Z
-UID:ci0960123-tt5040012--2025-2-1-20-30
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20250201T105500
-DTEND;TZID=Europe/London:20250201T131000
-DTSTAMP:20250201T105600Z
-UID:ci0960123-tt5822536--2025-2-1-10-55
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nPaddington returns to Peru to v
- isit his beloved Aunt Lucy\, who now resides at the Home for Retired Bears
- . With the Brown family in tow\, a thrilling adventure ensues when a myste
- ry plunges them into an unexpected journey.\n\nhttps://www.imdb.com/title/
- tt5822536/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20250201T125500
-DTEND;TZID=Europe/London:20250201T151000
-DTSTAMP:20250201T125600Z
-UID:ci0960123-tt5822536--2025-2-1-12-55
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nPaddington returns to Peru to v
- isit his beloved Aunt Lucy\, who now resides at the Home for Retired Bears
- . With the Brown family in tow\, a thrilling adventure ensues when a myste
- ry plunges them into an unexpected journey.\n\nhttps://www.imdb.com/title/
- tt5822536/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20250201T154000
-DTEND;TZID=Europe/London:20250201T175500
-DTSTAMP:20250201T154100Z
-UID:ci0960123-tt5822536--2025-2-1-15-40
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nPaddington returns to Peru to v
- isit his beloved Aunt Lucy\, who now resides at the Home for Retired Bears
- . With the Brown family in tow\, a thrilling adventure ensues when a myste
- ry plunges them into an unexpected journey.\n\nhttps://www.imdb.com/title/
- tt5822536/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Panda Bear in Africa
-DTSTART;TZID=Europe/London:20250201T100000
-DTEND;TZID=Europe/London:20250201T115000
-DTSTAMP:20250201T100100Z
-UID:ci0960123-tt13616980--2025-2-1-10-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA panda travels from China to Af
- rica\, facing hippos\, hyenas\, gorillas. He rescues his kidnapped dragon 
- friend\, makes new friends\, and protects their jungle home.\n\nhttps://ww
- w.imdb.com/title/tt13616980/\n\nIMDb rating: 5.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presence
-DTSTART;TZID=Europe/London:20250201T171500
-DTEND;TZID=Europe/London:20250201T190500
-DTSTAMP:20250201T171600Z
-UID:ci0960123-tt28249919--2025-2-1-17-15
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA family becomes convinced they 
- are not alone after moving into their new home in the suburbs.\n\nhttps://
- www.imdb.com/title/tt28249919/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presence
-DTSTART;TZID=Europe/London:20250201T225500
-DTEND;TZID=Europe/London:20250202T004500
-DTSTAMP:20250201T225600Z
-UID:ci0960123-tt28249919--2025-2-1-22-55
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA family becomes convinced they 
- are not alone after moving into their new home in the suburbs.\n\nhttps://
- www.imdb.com/title/tt28249919/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven (1995)
-DTSTART;TZID=Europe/London:20250201T232500
-DTEND;TZID=Europe/London:20250202T020000
-DTSTAMP:20250201T232600Z
-UID:ci0960123-tt0114369--2025-2-1-23-25
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nTwo detectives\, a rookie and a
-  veteran\, hunt a serial killer who uses the seven deadly sins as his moti
- ves.\n\nhttps://www.imdb.com/title/tt0114369/\n\nIMDb rating: 8.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250201T102000
-DTEND;TZID=Europe/London:20250201T123500
-DTSTAMP:20250201T102100Z
-UID:ci0960123-tt18259086--2025-2-1-10-20
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250201T152500
-DTEND;TZID=Europe/London:20250201T174000
-DTSTAMP:20250201T152600Z
-UID:ci0960123-tt18259086--2025-2-1-15-25
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250201T191500
-DTEND;TZID=Europe/London:20250201T231500
-DTSTAMP:20250201T191600Z
-UID:ci0960123-tt8999762--2025-2-1-19-15
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250201T205500
-DTEND;TZID=Europe/London:20250202T005500
-DTSTAMP:20250201T205600Z
-UID:ci0960123-tt8999762--2025-2-1-20-55
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Colors Within
-DTSTART;TZID=Europe/London:20250201T132000
-DTEND;TZID=Europe/London:20250201T153000
-DTSTAMP:20250201T132100Z
-UID:ci0960123-tt23951384--2025-2-1-13-20
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA girl who can see colors in pe
- ople's hearts joins a band with two other people.\n\nhttps://www.imdb.com/
- title/tt23951384/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vermiglio
-DTSTART;TZID=Europe/London:20250201T094500
-DTEND;TZID=Europe/London:20250201T121000
-DTSTAMP:20250201T094600Z
-UID:ci0960123-tt28618488--2025-2-1-9-45
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
- ntain village. The arrival of Pietro\, a deserter\, into the family of the
-  local teacher\, and his love for the teacher's eldest daughter\, will cha
- nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
- 8/\n\nIMDb rating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=Europe/London:20250201T181000
-DTEND;TZID=Europe/London:20250201T202500
-DTSTAMP:20250201T181100Z
-UID:ci0960123-tt27131358--2025-2-1-18-10
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
- talented chef and a recently divorcée fall in love and build the home and
-  family they've always dreamed of\, until a painful truth puts their love 
- story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
- g: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=Europe/London:20250201T201000
-DTEND;TZID=Europe/London:20250201T222500
-DTSTAMP:20250201T201100Z
-UID:ci0960123-tt27131358--2025-2-1-20-10
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
- talented chef and a recently divorcée fall in love and build the home and
-  family they've always dreamed of\, until a painful truth puts their love 
- story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
- g: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250201T114000
-DTEND;TZID=Europe/London:20250201T144500
-DTSTAMP:20250201T114100Z
-UID:ci0960123-tt1262426--2025-2-1-11-40
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250201T125500
-DTEND;TZID=Europe/London:20250201T160000
-DTSTAMP:20250201T125600Z
-UID:ci0960123-tt1262426--2025-2-1-12-55
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250201T220000
-DTEND;TZID=Europe/London:20250202T010500
-DTSTAMP:20250201T220100Z
-UID:ci0960123-tt1262426--2025-2-1-22-0
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wolf Man
-DTSTART;TZID=Europe/London:20250201T233000
-DTEND;TZID=Europe/London:20250202T014000
-DTSTAMP:20250201T233100Z
-UID:ci0960123-tt4216984--2025-2-1-23-30
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA family at a remote farmhouse 
- is attacked by an unseen animal\, but as the night stretches on\, the fath
- er begins to transform into something unrecognizable.\n\nhttps://www.imdb.
- com/title/tt4216984/\n\nIMDb rating: 5.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250202T152000
-DTEND;TZID=Europe/London:20250202T171500
-DTSTAMP:20250202T152100Z
-UID:ci0960123-tt21823606--2025-2-2-15-20
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother\, but their old te
- nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250202T172000
-DTEND;TZID=Europe/London:20250202T191500
-DTSTAMP:20250202T172100Z
-UID:ci0960123-tt21823606--2025-2-2-17-20
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nMismatched cousins reunite for a
-  tour through Poland to honor their beloved grandmother\, but their old te
- nsions resurface against the backdrop of their family history.\n\nhttps://
- www.imdb.com/title/tt21823606/\n\nIMDb rating: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=Europe/London:20250202T164000
-DTEND;TZID=Europe/London:20250202T190000
-DTSTAMP:20250202T164100Z
-UID:ci0960123-tt30057084--2025-2-2-16-40
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=Europe/London:20250202T200000
-DTEND;TZID=Europe/London:20250202T222000
-DTSTAMP:20250202T200100Z
-UID:ci0960123-tt30057084--2025-2-2-20-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
- eer and family on the line when she begins a torrid affair with her much-y
- ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20250202T121000
-DTEND;TZID=Europe/London:20250202T145000
-DTSTAMP:20250202T121100Z
-UID:ci0960123-tt14260836--2025-2-2-12-10
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
- ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
- \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Better Man
-DTSTART;TZID=Europe/London:20250202T225500
-DTEND;TZID=Europe/London:20250203T013500
-DTSTAMP:20250202T225600Z
-UID:ci0960123-tt14260836--2025-2-2-22-55
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
- ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
- \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20250202T095000
-DTEND;TZID=Europe/London:20250202T121500
-DTSTAMP:20250202T095100Z
-UID:ci0960123-tt20215234--2025-2-2-9-50
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nWhen Cardinal Lawrence is taske
- d with leading one of the world's most secretive and ancient events\, sele
- cting a new Pope\, he finds himself at the center of a conspiracy that cou
- ld shake the very foundation of the Catholic Church.\n\nhttps://www.imdb.c
- om/title/tt20215234/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flight Risk
-DTSTART;TZID=Europe/London:20250202T204000
-DTEND;TZID=Europe/London:20250202T224000
-DTSTAMP:20250202T204100Z
-UID:ci0960123-tt10078772--2025-2-2-20-40
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
- l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
-  tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game Changer
-DTSTART;TZID=Europe/London:20250202T223000
-DTEND;TZID=Europe/London:20250203T014000
-DTSTAMP:20250202T223100Z
-UID:ci0960123-tt14209618--2025-2-2-22-30
-DESCRIPTION:Duration: 2h 45m (165 mins)\n\nAn honest IAS officer's fight a
- gainst a corrupt political system through fair and transparent elections.\
- n\nhttps://www.imdb.com/title/tt14209618/\n\nIMDb rating: 6.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20250202T161500
-DTEND;TZID=Europe/London:20250202T191000
-DTSTAMP:20250202T161600Z
-UID:ci0960123-tt9218128--2025-2-2-16-15
-DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by 
- the tyrannical emperors who now lead Rome\, Lucius is forced to enter the 
- Colosseum and must look to his past to find strength to return the glory o
- f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
- ing: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250202T124500
-DTEND;TZID=Europe/London:20250202T145000
-DTSTAMP:20250202T124600Z
-UID:ci0960123-tt11891850--2025-2-2-12-45
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250202T182000
-DTEND;TZID=Europe/London:20250202T202500
-DTSTAMP:20250202T182100Z
-UID:ci0960123-tt11891850--2025-2-2-18-20
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250202T200500
-DTEND;TZID=Europe/London:20250202T221000
-DTSTAMP:20250202T200600Z
-UID:ci0960123-tt11891850--2025-2-2-20-5
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20250202T093500
-DTEND;TZID=Europe/London:20250202T114000
-DTSTAMP:20250202T093600Z
-UID:ci0960123-tt13622970--2025-2-2-9-35
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20250202T133000
-DTEND;TZID=Europe/London:20250202T153500
-DTSTAMP:20250202T133100Z
-UID:ci0960123-tt13622970--2025-2-2-13-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nAfter receiving an unexpected c
- all from her wayfinding ancestors\, Moana must journey to the far seas of 
- Oceania and into dangerous\, long-lost waters for an adventure unlike anyt
- hing she's ever faced.\n\nhttps://www.imdb.com/title/tt13622970/\n\nIMDb r
- ating: 6.9
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20250202T113000
-DTEND;TZID=Europe/London:20250202T135500
-DTSTAMP:20250202T113100Z
-UID:ci0960123-tt13186482--2025-2-2-11-30
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mufasa: The Lion King
-DTSTART;TZID=Europe/London:20250202T144000
-DTEND;TZID=Europe/London:20250202T170500
-DTSTAMP:20250202T144100Z
-UID:ci0960123-tt13186482--2025-2-2-14-40
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
-  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
- chance meeting sets in motion an expansive journey of a group of misfits s
- earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
- MDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=Europe/London:20250202T191500
-DTEND;TZID=Europe/London:20250202T215500
-DTSTAMP:20250202T191600Z
-UID:ci0960123-tt5040012--2025-2-2-19-15
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nosferatu
-DTSTART;TZID=Europe/London:20250202T221000
-DTEND;TZID=Europe/London:20250203T005000
-DTSTAMP:20250202T221100Z
-UID:ci0960123-tt5040012--2025-2-2-22-10
-DESCRIPTION:Duration: 2h 12m (132 mins)\n\nA gothic tale of obsession betw
- een a haunted young woman and the terrifying vampire infatuated with her\,
-  causing untold horror in its wake.\n\nhttps://www.imdb.com/title/tt504001
- 2/\n\nIMDb rating: 7.4
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20250202T110000
-DTEND;TZID=Europe/London:20250202T131500
-DTSTAMP:20250202T110100Z
-UID:ci0960123-tt5822536--2025-2-2-11-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nPaddington returns to Peru to v
- isit his beloved Aunt Lucy\, who now resides at the Home for Retired Bears
- . With the Brown family in tow\, a thrilling adventure ensues when a myste
- ry plunges them into an unexpected journey.\n\nhttps://www.imdb.com/title/
- tt5822536/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20250202T155000
-DTEND;TZID=Europe/London:20250202T180500
-DTSTAMP:20250202T155100Z
-UID:ci0960123-tt5822536--2025-2-2-15-50
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nPaddington returns to Peru to v
- isit his beloved Aunt Lucy\, who now resides at the Home for Retired Bears
- . With the Brown family in tow\, a thrilling adventure ensues when a myste
- ry plunges them into an unexpected journey.\n\nhttps://www.imdb.com/title/
- tt5822536/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20250202T175000
-DTEND;TZID=Europe/London:20250202T200500
-DTSTAMP:20250202T175100Z
-UID:ci0960123-tt5822536--2025-2-2-17-50
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nPaddington returns to Peru to v
- isit his beloved Aunt Lucy\, who now resides at the Home for Retired Bears
- . With the Brown family in tow\, a thrilling adventure ensues when a myste
- ry plunges them into an unexpected journey.\n\nhttps://www.imdb.com/title/
- tt5822536/\n\nIMDb rating: 6.8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Panda Bear in Africa
-DTSTART;TZID=Europe/London:20250202T100000
-DTEND;TZID=Europe/London:20250202T115000
-DTSTAMP:20250202T100100Z
-UID:ci0960123-tt13616980--2025-2-2-10-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA panda travels from China to Af
- rica\, facing hippos\, hyenas\, gorillas. He rescues his kidnapped dragon 
- friend\, makes new friends\, and protects their jungle home.\n\nhttps://ww
- w.imdb.com/title/tt13616980/\n\nIMDb rating: 5.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presence
-DTSTART;TZID=Europe/London:20250202T223500
-DTEND;TZID=Europe/London:20250203T002500
-DTSTAMP:20250202T223600Z
-UID:ci0960123-tt28249919--2025-2-2-22-35
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA family becomes convinced they 
- are not alone after moving into their new home in the suburbs.\n\nhttps://
- www.imdb.com/title/tt28249919/\n\nIMDb rating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven (1995)
-DTSTART;TZID=Europe/London:20250202T225500
-DTEND;TZID=Europe/London:20250203T013000
-DTSTAMP:20250202T225600Z
-UID:ci0960123-tt0114369--2025-2-2-22-55
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nTwo detectives\, a rookie and a
-  veteran\, hunt a serial killer who uses the seven deadly sins as his moti
- ves.\n\nhttps://www.imdb.com/title/tt0114369/\n\nIMDb rating: 8.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250202T115500
-DTEND;TZID=Europe/London:20250202T141000
-DTSTAMP:20250202T115600Z
-UID:ci0960123-tt18259086--2025-2-2-11-55
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonic the Hedgehog 3
-DTSTART;TZID=Europe/London:20250202T141000
-DTEND;TZID=Europe/London:20250202T162500
-DTSTAMP:20250202T141100Z
-UID:ci0960123-tt18259086--2025-2-2-14-10
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nSonic\, Knuckles\, and Tails re
- unite against a powerful new adversary\, Shadow\, a mysterious villain wit
- h powers unlike anything they have faced before. With their abilities outm
- atched\, Team Sonic must seek out an unlikely alliance.\n\nhttps://www.imd
- b.com/title/tt18259086/\n\nIMDb rating: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250202T123000
-DTEND;TZID=Europe/London:20250202T163000
-DTSTAMP:20250202T123100Z
-UID:ci0960123-tt8999762--2025-2-2-12-30
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250202T194500
-DTEND;TZID=Europe/London:20250202T234500
-DTSTAMP:20250202T194600Z
-UID:ci0960123-tt8999762--2025-2-2-19-45
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nIM
- Db rating: 8
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=Europe/London:20250202T173500
-DTEND;TZID=Europe/London:20250202T195000
-DTSTAMP:20250202T173600Z
-UID:ci0960123-tt27131358--2025-2-2-17-35
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
- talented chef and a recently divorcée fall in love and build the home and
-  family they've always dreamed of\, until a painful truth puts their love 
- story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
- g: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Live in Time
-DTSTART;TZID=Europe/London:20250202T202500
-DTEND;TZID=Europe/London:20250202T224000
-DTSTAMP:20250202T202600Z
-UID:ci0960123-tt27131358--2025-2-2-20-25
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
- talented chef and a recently divorcée fall in love and build the home and
-  family they've always dreamed of\, until a painful truth puts their love 
- story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
- g: 7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250202T094000
-DTEND;TZID=Europe/London:20250202T124500
-DTSTAMP:20250202T094100Z
-UID:ci0960123-tt1262426--2025-2-2-9-40
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250202T112000
-DTEND;TZID=Europe/London:20250202T142500
-DTSTAMP:20250202T112100Z
-UID:ci0960123-tt1262426--2025-2-2-11-20
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250202T142500
-DTEND;TZID=Europe/London:20250202T173000
-DTSTAMP:20250202T142600Z
-UID:ci0960123-tt1262426--2025-2-2-14-25
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=Europe/London:20250202T224500
-DTEND;TZID=Europe/London:20250203T015000
-DTSTAMP:20250202T224600Z
-UID:ci0960123-tt1262426--2025-2-2-22-45
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250203T115500
+DTEND;TZID=Europe/London:20250203T144500
+DTSTAMP:20250203T115600Z
+UID:ci0960123-tt11563598--2025-2-3-11-55
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250203T141500
+DTEND;TZID=Europe/London:20250203T170500
+DTSTAMP:20250203T141600Z
+UID:ci0960123-tt11563598--2025-2-3-14-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250203T174000
+DTEND;TZID=Europe/London:20250203T203000
+DTSTAMP:20250203T174100Z
+UID:ci0960123-tt11563598--2025-2-3-17-40
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250203T202500
+DTEND;TZID=Europe/London:20250203T231500
+DTSTAMP:20250203T202600Z
+UID:ci0960123-tt11563598--2025-2-3-20-25
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1300,7 +77,7 @@ UID:ci0960123-tt30057084--2025-2-3-19-35
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
+ .2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1315,6 +92,30 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250203T181500
+DTEND;TZID=Europe/London:20250203T202000
+DTSTAMP:20250203T181600Z
+UID:ci0960123-tt26584495--2025-2-3-18-15
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250203T210500
+DTEND;TZID=Europe/London:20250203T231000
+DTSTAMP:20250203T210600Z
+UID:ci0960123-tt26584495--2025-2-3-21-5
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Flight Risk
 DTSTART;TZID=Europe/London:20250203T144500
 DTEND;TZID=Europe/London:20250203T164500
@@ -1323,7 +124,7 @@ UID:ci0960123-tt10078772--2025-2-3-14-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
  l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
   tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
+ seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1335,40 +136,7 @@ UID:ci0960123-tt10078772--2025-2-3-20-40
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
  l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
   tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250203T140000
-DTEND;TZID=Europe/London:20250203T160500
-DTSTAMP:20250203T140100Z
-UID:ci0960123-tt11891850--2025-2-3-14-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250203T163500
-DTEND;TZID=Europe/London:20250203T184000
-DTSTAMP:20250203T163600Z
-UID:ci0960123-tt11891850--2025-2-3-16-35
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250203T191500
-DTEND;TZID=Europe/London:20250203T212000
-DTSTAMP:20250203T191600Z
-UID:ci0960123-tt11891850--2025-2-3-19-15
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
+ seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1416,6 +184,19 @@ DTSTART;TZID=Europe/London:20250203T172000
 DTEND;TZID=Europe/London:20250203T194500
 DTSTAMP:20250203T172100Z
 UID:ci0960123-tt13186482--2025-2-3-17-20
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
+  meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
+ chance meeting sets in motion an expansive journey of a group of misfits s
+ earching for their destiny.\n\nhttps://www.imdb.com/title/tt13186482/\n\nI
+ MDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mufasa: The Lion King
+DTSTART;TZID=Europe/London:20250203T221000
+DTEND;TZID=Europe/London:20250204T003500
+DTSTAMP:20250203T221100Z
+UID:ci0960123-tt13186482--2025-2-3-22-10
 DESCRIPTION:Duration: 1h 58m (118 mins)\n\nMufasa\, a cub lost and alone\,
   meets a sympathetic lion named Taka\, the heir to a royal bloodline. The 
  chance meeting sets in motion an expansive journey of a group of misfits s
@@ -1600,6 +381,84 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:We Live in Time
+DTSTART;TZID=Europe/London:20250203T223000
+DTEND;TZID=Europe/London:20250204T004500
+DTSTAMP:20250203T223100Z
+UID:ci0960123-tt27131358--2025-2-3-22-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter an unusual encounter\, a 
+ talented chef and a recently divorcée fall in love and build the home and
+  family they've always dreamed of\, until a painful truth puts their love 
+ story to the test.\n\nhttps://www.imdb.com/title/tt27131358/\n\nIMDb ratin
+ g: 7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked
+DTSTART;TZID=Europe/London:20250203T213500
+DTEND;TZID=Europe/London:20250204T004000
+DTSTAMP:20250203T213600Z
+UID:ci0960123-tt1262426--2025-2-3-21-35
+DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
+  woman because of her green skin\, and Galinda\, a popular girl\, become f
+ riends at Shiz University in the Land of Oz. After an encounter with the W
+ onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
+ .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250204T114500
+DTEND;TZID=Europe/London:20250204T143500
+DTSTAMP:20250204T114600Z
+UID:ci0960123-tt11563598--2025-2-4-11-45
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250204T140500
+DTEND;TZID=Europe/London:20250204T165500
+DTSTAMP:20250204T140600Z
+UID:ci0960123-tt11563598--2025-2-4-14-5
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250204T161500
+DTEND;TZID=Europe/London:20250204T190500
+DTSTAMP:20250204T161600Z
+UID:ci0960123-tt11563598--2025-2-4-16-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250204T201500
+DTEND;TZID=Europe/London:20250204T230500
+DTSTAMP:20250204T201600Z
+UID:ci0960123-tt11563598--2025-2-4-20-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=Europe/London:20250204T151000
 DTEND;TZID=Europe/London:20250204T170500
@@ -1620,7 +479,7 @@ UID:ci0960123-tt30057084--2025-2-4-19-25
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
+ .2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1632,6 +491,54 @@ UID:ci0960123-tt14260836--2025-2-4-14-35
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
  ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
  \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250204T124500
+DTEND;TZID=Europe/London:20250204T145000
+DTSTAMP:20250204T124600Z
+UID:ci0960123-tt26584495--2025-2-4-12-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250204T152000
+DTEND;TZID=Europe/London:20250204T172500
+DTSTAMP:20250204T152100Z
+UID:ci0960123-tt26584495--2025-2-4-15-20
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250204T172000
+DTEND;TZID=Europe/London:20250204T192500
+DTSTAMP:20250204T172100Z
+UID:ci0960123-tt26584495--2025-2-4-17-20
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250204T213500
+DTEND;TZID=Europe/London:20250204T234000
+DTSTAMP:20250204T213600Z
+UID:ci0960123-tt26584495--2025-2-4-21-35
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1655,7 +562,8 @@ DTSTAMP:20250204T205100Z
 UID:ci0960123-tt27852049--2025-2-4-20-50
 DESCRIPTION:Duration: 2h 36m (156 mins)\n\nAround a brilliant yet rebellio
  us police officer who uncovers a web of deceit and betrayal while investig
- ating a high-profile case.\n\nhttps://www.imdb.com/title/tt27852049/
+ ating a high-profile case.\n\nhttps://www.imdb.com/title/tt27852049/\n\nIM
+ Db rating: 8.1
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1667,7 +575,7 @@ UID:ci0960123-tt10078772--2025-2-4-11-30
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
  l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
   tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
+ seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1679,7 +587,7 @@ UID:ci0960123-tt10078772--2025-2-4-19-20
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
  l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
   tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
+ seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1693,39 +601,6 @@ DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
  ing: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250204T113000
-DTEND;TZID=Europe/London:20250204T133500
-DTSTAMP:20250204T113100Z
-UID:ci0960123-tt11891850--2025-2-4-11-30
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250204T142000
-DTEND;TZID=Europe/London:20250204T162500
-DTSTAMP:20250204T142100Z
-UID:ci0960123-tt11891850--2025-2-4-14-20
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250204T181500
-DTEND;TZID=Europe/London:20250204T202000
-DTSTAMP:20250204T181600Z
-UID:ci0960123-tt11891850--2025-2-4-18-15
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1932,6 +807,58 @@ DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250205T121500
+DTEND;TZID=Europe/London:20250205T150500
+DTSTAMP:20250205T121600Z
+UID:ci0960123-tt11563598--2025-2-5-12-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250205T141500
+DTEND;TZID=Europe/London:20250205T170500
+DTSTAMP:20250205T141600Z
+UID:ci0960123-tt11563598--2025-2-5-14-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250205T173500
+DTEND;TZID=Europe/London:20250205T202500
+DTSTAMP:20250205T173600Z
+UID:ci0960123-tt11563598--2025-2-5-17-35
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250205T201500
+DTEND;TZID=Europe/London:20250205T230500
+DTSTAMP:20250205T201600Z
+UID:ci0960123-tt11563598--2025-2-5-20-15
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=Europe/London:20250205T180500
 DTEND;TZID=Europe/London:20250205T200000
@@ -1952,7 +879,7 @@ UID:ci0960123-tt30057084--2025-2-5-12-55
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
+ .2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1964,7 +891,7 @@ UID:ci0960123-tt30057084--2025-2-5-18-25
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
+ .2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1976,7 +903,7 @@ UID:ci0960123-tt30057084--2025-2-5-21-35
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
+ .2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -1988,6 +915,42 @@ UID:ci0960123-tt14260836--2025-2-5-13-50
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
  ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
  \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250205T140000
+DTEND;TZID=Europe/London:20250205T160500
+DTSTAMP:20250205T140100Z
+UID:ci0960123-tt26584495--2025-2-5-14-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250205T192500
+DTEND;TZID=Europe/London:20250205T213000
+DTSTAMP:20250205T192600Z
+UID:ci0960123-tt26584495--2025-2-5-19-25
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250205T215000
+DTEND;TZID=Europe/London:20250205T235500
+DTSTAMP:20250205T215100Z
+UID:ci0960123-tt26584495--2025-2-5-21-50
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2012,40 +975,7 @@ UID:ci0960123-tt10078772--2025-2-5-11-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
  l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
   tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250205T114500
-DTEND;TZID=Europe/London:20250205T135000
-DTSTAMP:20250205T114600Z
-UID:ci0960123-tt11891850--2025-2-5-11-45
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250205T151500
-DTEND;TZID=Europe/London:20250205T172000
-DTSTAMP:20250205T151600Z
-UID:ci0960123-tt11891850--2025-2-5-15-15
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250205T172000
-DTEND;TZID=Europe/London:20250205T192500
-DTSTAMP:20250205T172100Z
-UID:ci0960123-tt11891850--2025-2-5-17-20
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
+ seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2140,6 +1070,18 @@ UID:ci0960123-tt28249919--2025-2-5-11-30
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA family becomes convinced they 
  are not alone after moving into their new home in the suburbs.\n\nhttps://
  www.imdb.com/title/tt28249919/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:September 5
+DTSTART;TZID=Europe/London:20250205T194500
+DTEND;TZID=Europe/London:20250205T214500
+DTSTAMP:20250205T194600Z
+UID:ci0960123-tt28082769--2025-2-5-19-45
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nDuring the 1972 Summer Olympics 
+ in Munich\, Germany\, an American sports broadcasting team must adapt to l
+ ive coverage the Israeli athletes being held hostage by a terrorist group.
+ \n\nhttps://www.imdb.com/title/tt28082769/\n\nIMDb rating: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2259,6 +1201,45 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA family at a remote farmhouse
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250206T140500
+DTEND;TZID=Europe/London:20250206T165500
+DTSTAMP:20250206T140600Z
+UID:ci0960123-tt11563598--2025-2-6-14-5
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250206T175000
+DTEND;TZID=Europe/London:20250206T204000
+DTSTAMP:20250206T175100Z
+UID:ci0960123-tt11563598--2025-2-6-17-50
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250206T200000
+DTEND;TZID=Europe/London:20250206T225000
+DTSTAMP:20250206T200100Z
+UID:ci0960123-tt11563598--2025-2-6-20-0
+DESCRIPTION:Duration: 2h 21m (141 mins)\n\nIn 1961\, an unknown 19-year-ol
+ d Bob Dylan arrives in New York City with his guitar and forges relationsh
+ ips with musical icons on his meteoric rise\, culminating in a groundbreak
+ ing performance that reverberates around the world.\n\nhttps://www.imdb.co
+ m/title/tt11563598/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Real Pain
 DTSTART;TZID=Europe/London:20250206T205500
 DTEND;TZID=Europe/London:20250206T225000
@@ -2279,7 +1260,7 @@ UID:ci0960123-tt30057084--2025-2-6-20-35
 DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA high-powered CEO puts her car
  eer and family on the line when she begins a torrid affair with her much-y
  ounger intern.\n\nhttps://www.imdb.com/title/tt30057084/\n\nIMDb rating: 6
- .3
+ .2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2291,6 +1272,30 @@ UID:ci0960123-tt14260836--2025-2-6-11-20
 DESCRIPTION:Duration: 2h 15m (135 mins)\n\nThe meteoric rise\, dramatic fa
  ll\, and remarkable resurgence of British pop superstar Robbie Williams.\n
  \nhttps://www.imdb.com/title/tt14260836/\n\nIMDb rating: 7.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250206T130000
+DTEND;TZID=Europe/London:20250206T150500
+DTSTAMP:20250206T130100Z
+UID:ci0960123-tt26584495--2025-2-6-13-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion
+DTSTART;TZID=Europe/London:20250206T194500
+DTEND;TZID=Europe/London:20250206T215000
+DTSTAMP:20250206T194600Z
+UID:ci0960123-tt26584495--2025-2-6-19-45
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA billionaire's death sets off a
+  chain of events for Iris and her friends during a weekend trip to his lak
+ eside estate.\n\nhttps://www.imdb.com/title/tt26584495/\n\nIMDb rating: 7.
+ 4
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2315,7 +1320,7 @@ UID:ci0960123-tt10078772--2025-2-6-11-40
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA pilot transports an Air Marsha
  l accompanying a fugitive to trial. As they cross the Alaskan wilderness\,
   tensions soar and trust is tested\, as not everyone on board is who they 
- seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.6
+ seem.\n\nhttps://www.imdb.com/title/tt10078772/\n\nIMDb rating: 5.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2329,39 +1334,6 @@ DESCRIPTION:Duration: 2h 28m (148 mins)\n\nAfter his home is conquered by
  Colosseum and must look to his past to find strength to return the glory o
  f Rome to its people.\n\nhttps://www.imdb.com/title/tt9218128/\n\nIMDb rat
  ing: 6.6
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250206T131500
-DTEND;TZID=Europe/London:20250206T152000
-DTSTAMP:20250206T131600Z
-UID:ci0960123-tt11891850--2025-2-6-13-15
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250206T151000
-DTEND;TZID=Europe/London:20250206T171500
-DTSTAMP:20250206T151100Z
-UID:ci0960123-tt11891850--2025-2-6-15-10
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250206T181500
-DTEND;TZID=Europe/London:20250206T202000
-DTSTAMP:20250206T181600Z
-UID:ci0960123-tt11891850--2025-2-6-18-15
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nOngoing exploration of the conte
- mporary world with a tragicomic study of human strengths and weaknesses.\n
- \nhttps://www.imdb.com/title/tt11891850/\n\nIMDb rating: 7.5
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2447,6 +1419,42 @@ UID:ci0960123-tt28249919--2025-2-6-11-30
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA family becomes convinced they 
  are not alone after moving into their new home in the suburbs.\n\nhttps://
  www.imdb.com/title/tt28249919/\n\nIMDb rating: 6.7
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:September 5
+DTSTART;TZID=Europe/London:20250206T115000
+DTEND;TZID=Europe/London:20250206T135000
+DTSTAMP:20250206T115100Z
+UID:ci0960123-tt28082769--2025-2-6-11-50
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nDuring the 1972 Summer Olympics 
+ in Munich\, Germany\, an American sports broadcasting team must adapt to l
+ ive coverage the Israeli athletes being held hostage by a terrorist group.
+ \n\nhttps://www.imdb.com/title/tt28082769/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:September 5
+DTSTART;TZID=Europe/London:20250206T140000
+DTEND;TZID=Europe/London:20250206T160000
+DTSTAMP:20250206T140100Z
+UID:ci0960123-tt28082769--2025-2-6-14-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nDuring the 1972 Summer Olympics 
+ in Munich\, Germany\, an American sports broadcasting team must adapt to l
+ ive coverage the Israeli athletes being held hostage by a terrorist group.
+ \n\nhttps://www.imdb.com/title/tt28082769/\n\nIMDb rating: 7.2
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:September 5
+DTSTART;TZID=Europe/London:20250206T213500
+DTEND;TZID=Europe/London:20250206T233500
+DTSTAMP:20250206T213600Z
+UID:ci0960123-tt28082769--2025-2-6-21-35
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nDuring the 1972 Summer Olympics 
+ in Munich\, Germany\, an American sports broadcasting team must adapt to l
+ ive coverage the Israeli athletes being held hostage by a terrorist group.
+ \n\nhttps://www.imdb.com/title/tt28082769/\n\nIMDb rating: 7.2
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2647,19 +1655,6 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\n\nhttps://www.imdb.com/title/tt34
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Woman (1990)
-DTSTART;TZID=Europe/London:20250209T180000
-DTEND;TZID=Europe/London:20250209T202500
-DTSTAMP:20250209T180100Z
-UID:ci0960123-tt0100405--2025-2-9-18-0
-DESCRIPTION:Duration: 1h 59m (119 mins)\n\nEdward\, a rich entrepreneur\, 
- hires Vivian\, a prostitute\, to accompany him to a few social events. Tro
- uble ensues when he falls in love with her and they try to bridge the gap 
- between their worlds.\n\nhttps://www.imdb.com/title/tt0100405/\n\nIMDb rat
- ing: 7.1
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Macbeth: David Tennant & Cush Jumbo
 DTSTART;TZID=Europe/London:20250210T190000
 DTEND;TZID=Europe/London:20250210T212000
@@ -2695,10 +1690,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250213T143000
-DTEND;TZID=Europe/London:20250213T165500
+DTEND;TZID=Europe/London:20250213T170000
 DTSTAMP:20250213T143100Z
 UID:ci0960123-tt32063050--2025-2-13-14-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2708,10 +1703,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250213T163000
-DTEND;TZID=Europe/London:20250213T185500
+DTEND;TZID=Europe/London:20250213T190000
 DTSTAMP:20250213T163100Z
 UID:ci0960123-tt32063050--2025-2-13-16-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2721,10 +1716,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250213T173000
-DTEND;TZID=Europe/London:20250213T195500
+DTEND;TZID=Europe/London:20250213T200000
 DTSTAMP:20250213T173100Z
 UID:ci0960123-tt32063050--2025-2-13-17-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2734,10 +1729,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250213T183000
-DTEND;TZID=Europe/London:20250213T205500
+DTEND;TZID=Europe/London:20250213T210000
 DTSTAMP:20250213T183100Z
 UID:ci0960123-tt32063050--2025-2-13-18-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2747,10 +1742,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250213T193000
-DTEND;TZID=Europe/London:20250213T215500
+DTEND;TZID=Europe/London:20250213T220000
 DTSTAMP:20250213T193100Z
 UID:ci0960123-tt32063050--2025-2-13-19-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2760,10 +1755,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250213T203500
-DTEND;TZID=Europe/London:20250213T230000
+DTEND;TZID=Europe/London:20250213T230500
 DTSTAMP:20250213T203600Z
 UID:ci0960123-tt32063050--2025-2-13-20-35
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2773,10 +1768,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250214T130000
-DTEND;TZID=Europe/London:20250214T152500
+DTEND;TZID=Europe/London:20250214T153000
 DTSTAMP:20250214T130100Z
 UID:ci0960123-tt32063050--2025-2-14-13-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2786,10 +1781,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250214T161500
-DTEND;TZID=Europe/London:20250214T184000
+DTEND;TZID=Europe/London:20250214T184500
 DTSTAMP:20250214T161600Z
 UID:ci0960123-tt32063050--2025-2-14-16-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2799,10 +1794,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250214T171500
-DTEND;TZID=Europe/London:20250214T194000
+DTEND;TZID=Europe/London:20250214T194500
 DTSTAMP:20250214T171600Z
 UID:ci0960123-tt32063050--2025-2-14-17-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2812,10 +1807,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250214T191500
-DTEND;TZID=Europe/London:20250214T214000
+DTEND;TZID=Europe/London:20250214T214500
 DTSTAMP:20250214T191600Z
 UID:ci0960123-tt32063050--2025-2-14-19-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2825,10 +1820,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250214T201500
-DTEND;TZID=Europe/London:20250214T224000
+DTEND;TZID=Europe/London:20250214T224500
 DTSTAMP:20250214T201600Z
 UID:ci0960123-tt32063050--2025-2-14-20-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2838,14 +1833,26 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250214T224000
-DTEND;TZID=Europe/London:20250215T010500
+DTEND;TZID=Europe/London:20250215T011000
 DTSTAMP:20250214T224100Z
 UID:ci0960123-tt32063050--2025-2-14-22-40
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
  db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250214T083000
+DTEND;TZID=Europe/London:20250214T105500
+DTSTAMP:20250214T083100Z
+UID:ci0960123-tt14513804--2025-2-14-8-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -2909,6 +1916,18 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250214T222000
+DTEND;TZID=Europe/London:20250215T004500
+DTSTAMP:20250214T222100Z
+UID:ci0960123-tt14513804--2025-2-14-22-20
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Captain America: Brave New World (3D)
 DTSTART;TZID=Europe/London:20250214T203000
 DTEND;TZID=Europe/London:20250214T225500
@@ -2921,36 +1940,12 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dog Man
-DTSTART;TZID=Europe/London:20250214T123000
-DTEND;TZID=Europe/London:20250214T142500
-DTSTAMP:20250214T123100Z
-UID:ci0960123-tt10954718--2025-2-14-12-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDog Man\, half dog and half man\
- , he is sworn to protect and serve as he doggedly pursues the feline super
- villain Petey the Cat.\n\nhttps://www.imdb.com/title/tt10954718/\n\nIMDb r
- ating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dog Man
-DTSTART;TZID=Europe/London:20250214T150000
-DTEND;TZID=Europe/London:20250214T165500
-DTSTAMP:20250214T150100Z
-UID:ci0960123-tt10954718--2025-2-14-15-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDog Man\, half dog and half man\
- , he is sworn to protect and serve as he doggedly pursues the feline super
- villain Petey the Cat.\n\nhttps://www.imdb.com/title/tt10954718/\n\nIMDb r
- ating: 6.7
-LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250215T130000
-DTEND;TZID=Europe/London:20250215T152500
+DTEND;TZID=Europe/London:20250215T153000
 DTSTAMP:20250215T130100Z
 UID:ci0960123-tt32063050--2025-2-15-13-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2960,10 +1955,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250215T161500
-DTEND;TZID=Europe/London:20250215T184000
+DTEND;TZID=Europe/London:20250215T184500
 DTSTAMP:20250215T161600Z
 UID:ci0960123-tt32063050--2025-2-15-16-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2973,10 +1968,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250215T171500
-DTEND;TZID=Europe/London:20250215T194000
+DTEND;TZID=Europe/London:20250215T194500
 DTSTAMP:20250215T171600Z
 UID:ci0960123-tt32063050--2025-2-15-17-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2986,10 +1981,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250215T191500
-DTEND;TZID=Europe/London:20250215T214000
+DTEND;TZID=Europe/London:20250215T214500
 DTSTAMP:20250215T191600Z
 UID:ci0960123-tt32063050--2025-2-15-19-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -2999,10 +1994,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250215T201500
-DTEND;TZID=Europe/London:20250215T224000
+DTEND;TZID=Europe/London:20250215T224500
 DTSTAMP:20250215T201600Z
 UID:ci0960123-tt32063050--2025-2-15-20-15
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
@@ -3012,14 +2007,26 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridget Jones: Mad About the Boy
 DTSTART;TZID=Europe/London:20250215T224000
-DTEND;TZID=Europe/London:20250216T010500
+DTEND;TZID=Europe/London:20250216T011000
 DTSTAMP:20250215T224100Z
 UID:ci0960123-tt32063050--2025-2-15-22-40
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBridget Jones navigates life as
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
   a widow and single mom with the help of her family\, friends\, and former
   lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
   man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
  db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250215T083000
+DTEND;TZID=Europe/London:20250215T105500
+DTSTAMP:20250215T083100Z
+UID:ci0960123-tt14513804--2025-2-15-8-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
@@ -3083,6 +2090,18 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250215T222000
+DTEND;TZID=Europe/London:20250216T004500
+DTSTAMP:20250215T222100Z
+UID:ci0960123-tt14513804--2025-2-15-22-20
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Captain America: Brave New World (3D)
 DTSTART;TZID=Europe/London:20250215T180000
 DTEND;TZID=Europe/London:20250215T202500
@@ -3095,27 +2114,439 @@ DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dog Man
-DTSTART;TZID=Europe/London:20250215T123000
-DTEND;TZID=Europe/London:20250215T142500
-DTSTAMP:20250215T123100Z
-UID:ci0960123-tt10954718--2025-2-15-12-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDog Man\, half dog and half man\
- , he is sworn to protect and serve as he doggedly pursues the feline super
- villain Petey the Cat.\n\nhttps://www.imdb.com/title/tt10954718/\n\nIMDb r
- ating: 6.7
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250216T130000
+DTEND;TZID=Europe/London:20250216T153000
+DTSTAMP:20250216T130100Z
+UID:ci0960123-tt32063050--2025-2-16-13-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dog Man
-DTSTART;TZID=Europe/London:20250215T150000
-DTEND;TZID=Europe/London:20250215T165500
-DTSTAMP:20250215T150100Z
-UID:ci0960123-tt10954718--2025-2-15-15-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nDog Man\, half dog and half man\
- , he is sworn to protect and serve as he doggedly pursues the feline super
- villain Petey the Cat.\n\nhttps://www.imdb.com/title/tt10954718/\n\nIMDb r
- ating: 6.7
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250216T161500
+DTEND;TZID=Europe/London:20250216T184500
+DTSTAMP:20250216T161600Z
+UID:ci0960123-tt32063050--2025-2-16-16-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250216T171500
+DTEND;TZID=Europe/London:20250216T194500
+DTSTAMP:20250216T171600Z
+UID:ci0960123-tt32063050--2025-2-16-17-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250216T191500
+DTEND;TZID=Europe/London:20250216T214500
+DTSTAMP:20250216T191600Z
+UID:ci0960123-tt32063050--2025-2-16-19-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250216T201500
+DTEND;TZID=Europe/London:20250216T224500
+DTSTAMP:20250216T201600Z
+UID:ci0960123-tt32063050--2025-2-16-20-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250216T224000
+DTEND;TZID=Europe/London:20250217T011000
+DTSTAMP:20250216T224100Z
+UID:ci0960123-tt32063050--2025-2-16-22-40
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250216T083000
+DTEND;TZID=Europe/London:20250216T105500
+DTSTAMP:20250216T083100Z
+UID:ci0960123-tt14513804--2025-2-16-8-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250216T112500
+DTEND;TZID=Europe/London:20250216T135000
+DTSTAMP:20250216T112600Z
+UID:ci0960123-tt14513804--2025-2-16-11-25
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250216T133000
+DTEND;TZID=Europe/London:20250216T155500
+DTSTAMP:20250216T133100Z
+UID:ci0960123-tt14513804--2025-2-16-13-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250216T142000
+DTEND;TZID=Europe/London:20250216T164500
+DTSTAMP:20250216T142100Z
+UID:ci0960123-tt14513804--2025-2-16-14-20
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250216T164500
+DTEND;TZID=Europe/London:20250216T191000
+DTSTAMP:20250216T164600Z
+UID:ci0960123-tt14513804--2025-2-16-16-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250216T194500
+DTEND;TZID=Europe/London:20250216T221000
+DTSTAMP:20250216T194600Z
+UID:ci0960123-tt14513804--2025-2-16-19-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World (3D)
+DTSTART;TZID=Europe/London:20250216T153000
+DTEND;TZID=Europe/London:20250216T175500
+DTSTAMP:20250216T153100Z
+UID:ci0960123-tt14513804-3d-2025-2-16-15-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250217T130000
+DTEND;TZID=Europe/London:20250217T153000
+DTSTAMP:20250217T130100Z
+UID:ci0960123-tt32063050--2025-2-17-13-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250217T161500
+DTEND;TZID=Europe/London:20250217T184500
+DTSTAMP:20250217T161600Z
+UID:ci0960123-tt32063050--2025-2-17-16-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250217T171500
+DTEND;TZID=Europe/London:20250217T194500
+DTSTAMP:20250217T171600Z
+UID:ci0960123-tt32063050--2025-2-17-17-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250217T201500
+DTEND;TZID=Europe/London:20250217T224500
+DTSTAMP:20250217T201600Z
+UID:ci0960123-tt32063050--2025-2-17-20-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250217T224000
+DTEND;TZID=Europe/London:20250218T011000
+DTSTAMP:20250217T224100Z
+UID:ci0960123-tt32063050--2025-2-17-22-40
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250217T112500
+DTEND;TZID=Europe/London:20250217T135000
+DTSTAMP:20250217T112600Z
+UID:ci0960123-tt14513804--2025-2-17-11-25
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250217T133000
+DTEND;TZID=Europe/London:20250217T155500
+DTSTAMP:20250217T133100Z
+UID:ci0960123-tt14513804--2025-2-17-13-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250217T142000
+DTEND;TZID=Europe/London:20250217T164500
+DTSTAMP:20250217T142100Z
+UID:ci0960123-tt14513804--2025-2-17-14-20
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250217T164500
+DTEND;TZID=Europe/London:20250217T191000
+DTSTAMP:20250217T164600Z
+UID:ci0960123-tt14513804--2025-2-17-16-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250217T194500
+DTEND;TZID=Europe/London:20250217T221000
+DTSTAMP:20250217T194600Z
+UID:ci0960123-tt14513804--2025-2-17-19-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World (3D)
+DTSTART;TZID=Europe/London:20250217T203000
+DTEND;TZID=Europe/London:20250217T225500
+DTSTAMP:20250217T203100Z
+UID:ci0960123-tt14513804-3d-2025-2-17-20-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250218T130000
+DTEND;TZID=Europe/London:20250218T153000
+DTSTAMP:20250218T130100Z
+UID:ci0960123-tt32063050--2025-2-18-13-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250218T161500
+DTEND;TZID=Europe/London:20250218T184500
+DTSTAMP:20250218T161600Z
+UID:ci0960123-tt32063050--2025-2-18-16-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250218T171500
+DTEND;TZID=Europe/London:20250218T194500
+DTSTAMP:20250218T171600Z
+UID:ci0960123-tt32063050--2025-2-18-17-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250218T201500
+DTEND;TZID=Europe/London:20250218T224500
+DTSTAMP:20250218T201600Z
+UID:ci0960123-tt32063050--2025-2-18-20-15
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones: Mad About the Boy
+DTSTART;TZID=Europe/London:20250218T224000
+DTEND;TZID=Europe/London:20250219T011000
+DTSTAMP:20250218T224100Z
+UID:ci0960123-tt32063050--2025-2-18-22-40
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nBridget Jones navigates life as
+  a widow and single mom with the help of her family\, friends\, and former
+  lover\, Daniel. Back to work and on the apps\, she's pursued by a younger
+  man and maybe - just maybe - her son's science teacher.\n\nhttps://www.im
+ db.com/title/tt32063050/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250218T112500
+DTEND;TZID=Europe/London:20250218T135000
+DTSTAMP:20250218T112600Z
+UID:ci0960123-tt14513804--2025-2-18-11-25
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250218T133000
+DTEND;TZID=Europe/London:20250218T155500
+DTSTAMP:20250218T133100Z
+UID:ci0960123-tt14513804--2025-2-18-13-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250218T142000
+DTEND;TZID=Europe/London:20250218T164500
+DTSTAMP:20250218T142100Z
+UID:ci0960123-tt14513804--2025-2-18-14-20
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250218T164500
+DTEND;TZID=Europe/London:20250218T191000
+DTSTAMP:20250218T164600Z
+UID:ci0960123-tt14513804--2025-2-18-16-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World
+DTSTART;TZID=Europe/London:20250218T194500
+DTEND;TZID=Europe/London:20250218T221000
+DTSTAMP:20250218T194600Z
+UID:ci0960123-tt14513804--2025-2-18-19-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
+LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captain America: Brave New World (3D)
+DTSTART;TZID=Europe/London:20250218T180000
+DTEND;TZID=Europe/London:20250218T202500
+DTSTAMP:20250218T180100Z
+UID:ci0960123-tt14513804-3d-2025-2-18-18-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nSam Wilson\, the new Captain Am
+ erica\, finds himself in the middle of an international incident and must 
+ discover the motive behind a nefarious global plan.\n\nhttps://www.imdb.co
+ m/title/tt14513804/
 LOCATION:Vue Cambridge\, The Grafton Centre\, Cambridge\, CB1 1PS
 END:VEVENT
 END:VCALENDAR
