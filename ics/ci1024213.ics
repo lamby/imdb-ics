@@ -1,7 +1,85 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250203T083354Z
+LAST-MODIFIED:20250205T093957Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
+BEGIN:VEVENT
+SUMMARY:Knightriders (1981)
+DTSTART;TZID=America/Los_Angeles:20250205T193000
+DTEND;TZID=America/Los_Angeles:20250205T214000
+DTSTAMP:20250206T032300Z
+UID:ci1024213-tt0082622--2025-2-5-19-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA medieval reenactment troupe s
+ truggles to maintain its family-like dynamic amid pressure from local auth
+ orities\, interest from talent agents\, and their &quot\;King's&quot\; del
+ usions of grandeur.\n\nhttps://www.imdb.com/title/tt0082622/\n\nIMDb ratin
+ g: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knightriders (1981)
+DTSTART;TZID=America/Los_Angeles:20250206T193000
+DTEND;TZID=America/Los_Angeles:20250206T214000
+DTSTAMP:20250207T032300Z
+UID:ci1024213-tt0082622--2025-2-6-19-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA medieval reenactment troupe s
+ truggles to maintain its family-like dynamic amid pressure from local auth
+ orities\, interest from talent agents\, and their &quot\;King's&quot\; del
+ usions of grandeur.\n\nhttps://www.imdb.com/title/tt0082622/\n\nIMDb ratin
+ g: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rude Boy (1980)
+DTSTART;TZID=America/Los_Angeles:20250207T190000
+DTEND;TZID=America/Los_Angeles:20250207T214000
+DTSTAMP:20250208T025300Z
+UID:ci1024213-tt0081441--2025-2-7-19-0
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA young British punk and roadie
+  for The Clash navigates life in socially torn 1970s England.\n\nhttps://w
+ ww.imdb.com/title/tt0081441/\n\nIMDb rating: 6.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rude Boy (1980)
+DTSTART;TZID=America/Los_Angeles:20250208T190000
+DTEND;TZID=America/Los_Angeles:20250208T214000
+DTSTAMP:20250209T025300Z
+UID:ci1024213-tt0081441--2025-2-8-19-0
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA young British punk and roadie
+  for The Clash navigates life in socially torn 1970s England.\n\nhttps://w
+ ww.imdb.com/title/tt0081441/\n\nIMDb rating: 6.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rude Boy (1980)
+DTSTART;TZID=America/Los_Angeles:20250210T163000
+DTEND;TZID=America/Los_Angeles:20250210T191000
+DTSTAMP:20250211T002300Z
+UID:ci1024213-tt0081441--2025-2-10-16-30
+DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA young British punk and roadie
+  for The Clash navigates life in socially torn 1970s England.\n\nhttps://w
+ ww.imdb.com/title/tt0081441/\n\nIMDb rating: 6.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killer Constable (1980)
+DTSTART;TZID=America/Los_Angeles:20250212T193000
+DTEND;TZID=America/Los_Angeles:20250212T214000
+DTSTAMP:20250213T032300Z
+UID:ci1024213-tt0083313--2025-2-12-19-30
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nRighteous constable Leng Tian-Y
+ ing has a fearsome reputation of killing criminals without remorse. But af
+ ter being assigned to track a gang that robbed the imperial treasury\, he 
+ comes to find that his reputation is being used agai...\n\nhttps://www.imd
+ b.com/title/tt0083313/\n\nIMDb rating: 7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
 END:VCALENDAR

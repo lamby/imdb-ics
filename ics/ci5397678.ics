@@ -1,64 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250203T083536Z
+LAST-MODIFIED:20250205T094152Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Maria
-DTSTART;TZID=America/Los_Angeles:20250203T203000
-DTEND;TZID=America/Los_Angeles:20250203T230000
-DTSTAMP:20250204T042300Z
-UID:ci5397678-tt22893404--2025-2-3-20-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nMaria Callas\, the world's grea
- test opera singer\, lives the last days of her life in 1970s Paris\, as sh
- e confronts her identity and life.\n\nhttps://www.imdb.com/title/tt2289340
- 4/\n\nIMDb rating: 6.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Porcelain War
-DTSTART;TZID=America/Los_Angeles:20250203T170000
-DTEND;TZID=America/Los_Angeles:20250203T185500
-DTSTAMP:20250204T005300Z
-UID:ci5397678-tt30294282--2025-2-3-17-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nUnder roaring fighter jets\, Ukr
- ainian artists Slava\, Anya\, and Andrey choose to stay behind. Defiantly 
- finding beauty amid destruction\, they show that although it's easy to mak
- e people afraid\, it's hard to destroy their passion fo...\n\nhttps://www.
- imdb.com/title/tt30294282/\n\nIMDb rating: 7.4
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nickel Boys
-DTSTART;TZID=America/Los_Angeles:20250204T170000
-DTEND;TZID=America/Los_Angeles:20250204T194500
-DTSTAMP:20250205T005300Z
-UID:ci5397678-tt23055660--2025-2-4-17-0
-DESCRIPTION:Duration: 2h 20m (140 mins)\n\nBased on the Pulitzer Prize-win
- ning novel by Colson Whitehead\, &quot\;Nickel Boys&quot\; chronicles the 
- powerful friendship between two young African-American men navigating the 
- harrowing trials of reform school together in Florida.\n\nhttps://www.imdb
- .com/title/tt23055660/\n\nIMDb rating: 7.5
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked
-DTSTART;TZID=America/Los_Angeles:20250204T203000
-DTEND;TZID=America/Los_Angeles:20250204T233500
-DTSTAMP:20250205T042300Z
-UID:ci5397678-tt1262426--2025-2-4-20-30
-DESCRIPTION:Duration: 2h 40m (160 mins)\n\nElphaba\, a misunderstood young
-  woman because of her green skin\, and Galinda\, a popular girl\, become f
- riends at Shiz University in the Land of Oz. After an encounter with the W
- onderful Wizard of Oz\, their friendship reaches a cross...\n\nhttps://www
- .imdb.com/title/tt1262426/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memoir of a Snail
 DTSTART;TZID=America/Los_Angeles:20250205T170000
@@ -167,6 +112,19 @@ UID:ci5397678-tt0058450--2025-2-10-16-0
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
  e/tt0058450/\n\nIMDb rating: 7.8
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Willy Wonka & the Chocolate Factory (1971)
+DTSTART;TZID=America/Los_Angeles:20250210T183000
+DTEND;TZID=America/Los_Angeles:20250210T203500
+DTSTAMP:20250211T022300Z
+UID:ci5397678-tt0067992--2025-2-10-18-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA poor but hopeful boy seeks on
+ e of the five coveted golden tickets that will send him on a tour of Willy
+  Wonka's mysterious chocolate factory.\n\nhttps://www.imdb.com/title/tt006
+ 7992/\n\nIMDb rating: 7.8
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -421,6 +379,46 @@ UID:ci5397678-tt0049406--2025-2-18-20-30
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCrook Johnny Clay assembles a fi
  ve-man team to plan and execute a daring racetrack robbery.\n\nhttps://www
  .imdb.com/title/tt0049406/\n\nIMDb rating: 7.9
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detour (1945)
+DTSTART;TZID=America/Los_Angeles:20250219T180000
+DTEND;TZID=America/Los_Angeles:20250219T193500
+DTSTAMP:20250220T015300Z
+UID:ci5397678-tt0037638--2025-2-19-18-0
+DESCRIPTION:Duration: 1h 06m (66 mins)\n\nThe life of Al Roberts\, a piani
+ st in a New York nightclub\, turns into a nightmare when he decides to hit
+ chhike to Los Angeles to visit his girlfriend.\n\nhttps://www.imdb.com/tit
+ le/tt0037638/\n\nIMDb rating: 7.3
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phantom Lady (1944)
+DTSTART;TZID=America/Los_Angeles:20250219T203000
+DTEND;TZID=America/Los_Angeles:20250219T222500
+DTSTAMP:20250220T042300Z
+UID:ci5397678-tt0036260--2025-2-19-20-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA devoted secretary risks her li
+ fe to try to find the elusive woman who may prove her boss didn't murder h
+ is selfish wife.\n\nhttps://www.imdb.com/title/tt0036260/\n\nIMDb rating: 
+ 7.2
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ace in the Hole (1951)
+DTSTART;TZID=America/Los_Angeles:20250220T203000
+DTEND;TZID=America/Los_Angeles:20250220T225000
+DTSTAMP:20250221T042300Z
+UID:ci5397678-tt0043338--2025-2-20-20-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nFrustrated former journalist Ch
+ uck Tatum now working for an Albuquerque newspaper exploits a story about 
+ trading post owner Leo Minosa trapped in a cave to rekindle Chuck's career
+ \, but the story soon escalates into a media circus.\n\nhttps://www.imdb.c
+ om/title/tt0043338/\n\nIMDb rating: 8.1
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
