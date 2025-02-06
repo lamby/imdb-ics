@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250205T094152Z
+LAST-MODIFIED:20250206T090404Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Memoir of a Snail
-DTSTART;TZID=America/Los_Angeles:20250205T170000
-DTEND;TZID=America/Los_Angeles:20250205T190000
-DTSTAMP:20250206T005300Z
-UID:ci5397678-tt23770030--2025-2-5-17-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA bittersweet memoir of a melanc
- holic woman called Grace Pudel - a hoarder of snails\, romance novels\, an
- d guinea pigs.\n\nhttps://www.imdb.com/title/tt23770030/\n\nIMDb rating: 7
- .8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sing Sing (2023)
-DTSTART;TZID=America/Los_Angeles:20250205T203000
-DTEND;TZID=America/Los_Angeles:20250205T224500
-DTSTAMP:20250206T042300Z
-UID:ci5397678-tt28479262--2025-2-5-20-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nDivine G\, imprisoned at Sing S
- ing for a crime he didn't commit\, finds purpose by acting in a theatre gr
- oup alongside other incarcerated men in this story of resilience\, humanit
- y\, and the transformative power of art.\n\nhttps://www.imdb.com/title/tt2
- 8479262/\n\nIMDb rating: 7.7
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Umbrellas of Cherbourg (1964)
 DTSTART;TZID=America/Los_Angeles:20250207T170000
@@ -419,6 +392,33 @@ DESCRIPTION:Duration: 1h 51m (111 mins)\n\nFrustrated former journalist Ch
  trading post owner Leo Minosa trapped in a cave to rekindle Chuck's career
  \, but the story soon escalates into a media circus.\n\nhttps://www.imdb.c
  om/title/tt0043338/\n\nIMDb rating: 8.1
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeanne Dielman\, 23\, quai du commerce\, 1080 Bruxelles (1975)
+DTSTART;TZID=America/Los_Angeles:20250221T190000
+DTEND;TZID=America/Los_Angeles:20250221T225000
+DTSTAMP:20250222T025300Z
+UID:ci5397678-tt0073198--2025-2-21-19-0
+DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
+  her daily chores\, takes care of her apartment where she lives with her t
+ eenage son\, and turns the occasional trick to make ends meet. However\, s
+ omething happens that changes her safe routine.\n\nhttps://www.imdb.com/ti
+ tle/tt0073198/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picnic at Hanging Rock (1975)
+DTSTART;TZID=America/Los_Angeles:20250221T160000
+DTEND;TZID=America/Los_Angeles:20250221T182000
+DTSTAMP:20250221T235300Z
+UID:ci5397678-tt0073540--2025-2-21-16-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
+ a few students and a teacher from an Australian girls' school vanish witho
+ ut a trace. Their absence frustrates and haunts the people left behind.\n\
+ nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

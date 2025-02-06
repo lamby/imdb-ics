@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250205T093957Z
+LAST-MODIFIED:20250206T090224Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Knightriders (1981)
-DTSTART;TZID=America/Los_Angeles:20250205T193000
-DTEND;TZID=America/Los_Angeles:20250205T214000
-DTSTAMP:20250206T032300Z
-UID:ci1024213-tt0082622--2025-2-5-19-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA medieval reenactment troupe s
- truggles to maintain its family-like dynamic amid pressure from local auth
- orities\, interest from talent agents\, and their &quot\;King's&quot\; del
- usions of grandeur.\n\nhttps://www.imdb.com/title/tt0082622/\n\nIMDb ratin
- g: 6.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Knightriders (1981)
 DTSTART;TZID=America/Los_Angeles:20250206T193000
