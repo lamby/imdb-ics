@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250206T090224Z
+LAST-MODIFIED:20250207T092736Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Knightriders (1981)
-DTSTART;TZID=America/Los_Angeles:20250206T193000
-DTEND;TZID=America/Los_Angeles:20250206T214000
-DTSTAMP:20250207T032300Z
-UID:ci1024213-tt0082622--2025-2-6-19-30
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA medieval reenactment troupe s
- truggles to maintain its family-like dynamic amid pressure from local auth
- orities\, interest from talent agents\, and their &quot\;King's&quot\; del
- usions of grandeur.\n\nhttps://www.imdb.com/title/tt0082622/\n\nIMDb ratin
- g: 6.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rude Boy (1980)
 DTSTART;TZID=America/Los_Angeles:20250207T190000
@@ -65,6 +51,18 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nRighteous constable Leng Tian-Y
  ter being assigned to track a gang that robbed the imperial treasury\, he 
  comes to find that his reputation is being used agai...\n\nhttps://www.imd
  b.com/title/tt0083313/\n\nIMDb rating: 7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Holds Barred (1989)
+DTSTART;TZID=America/Los_Angeles:20250222T220000
+DTEND;TZID=America/Los_Angeles:20250223T000000
+DTSTAMP:20250223T055300Z
+UID:ci1024213-tt0097987--2025-2-22-22-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA TV-network boss pits a wrestle
+ r called Zeus against a wrestler called Rip in a wrestling match.\n\nhttps
+ ://www.imdb.com/title/tt0097987/\n\nIMDb rating: 4.4
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
