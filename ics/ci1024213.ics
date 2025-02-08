@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250207T092736Z
+LAST-MODIFIED:20250208T091714Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Rude Boy (1980)
-DTSTART;TZID=America/Los_Angeles:20250207T190000
-DTEND;TZID=America/Los_Angeles:20250207T214000
-DTSTAMP:20250208T025300Z
-UID:ci1024213-tt0081441--2025-2-7-19-0
-DESCRIPTION:Duration: 2h 13m (133 mins)\n\nA young British punk and roadie
-  for The Clash navigates life in socially torn 1970s England.\n\nhttps://w
- ww.imdb.com/title/tt0081441/\n\nIMDb rating: 6.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rude Boy (1980)
 DTSTART;TZID=America/Los_Angeles:20250208T190000
@@ -50,7 +38,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nRighteous constable Leng Tian-Y
  ing has a fearsome reputation of killing criminals without remorse. But af
  ter being assigned to track a gang that robbed the imperial treasury\, he 
  comes to find that his reputation is being used agai...\n\nhttps://www.imd
- b.com/title/tt0083313/\n\nIMDb rating: 7
+ b.com/title/tt0083313/\n\nIMDb rating: 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
@@ -63,6 +51,34 @@ UID:ci1024213-tt0097987--2025-2-22-22-0
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA TV-network boss pits a wrestle
  r called Zeus against a wrestler called Rip in a wrestling match.\n\nhttps
  ://www.imdb.com/title/tt0097987/\n\nIMDb rating: 4.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentlemen Prefer Blondes (1953)
+DTSTART;TZID=America/Los_Angeles:20250223T140000
+DTEND;TZID=America/Los_Angeles:20250223T160000
+DTSTAMP:20250223T215300Z
+UID:ci1024213-tt0045810--2025-2-23-14-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nShowgirls Lorelei Lee and Doroth
+ y Shaw travel to Paris\, pursued by a private detective hired by the suspi
+ cious father of Lorelei's fiancé\, as well as a rich\, enamored old man a
+ nd many other doting admirers.\n\nhttps://www.imdb.com/title/tt0045810/\n\
+ nIMDb rating: 7.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame De... (1953)
+DTSTART;TZID=America/Los_Angeles:20250223T170000
+DTEND;TZID=America/Los_Angeles:20250223T191000
+DTSTAMP:20250224T005300Z
+UID:ci1024213-tt0046022--2025-2-23-17-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen an aristocratic woman know
+ n only as &quot\;Madame de . . .&quot\; sells a pair of earrings given to 
+ her by her husband in order to pay some debts\, she sets off a chain react
+ ion of financial and carnal consequences that can end only in de...\n\nhtt
+ ps://www.imdb.com/title/tt0046022/\n\nIMDb rating: 7.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT

@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250207T093552Z
+LAST-MODIFIED:20250208T092112Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Umbrellas of Cherbourg (1964)
-DTSTART;TZID=America/Los_Angeles:20250207T170000
-DTEND;TZID=America/Los_Angeles:20250207T190000
-DTSTAMP:20250208T005300Z
-UID:ci5397678-tt0058450--2025-2-7-17-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
-  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Umbrellas of Cherbourg (1964)
-DTSTART;TZID=America/Los_Angeles:20250207T194500
-DTEND;TZID=America/Los_Angeles:20250207T214500
-DTSTAMP:20250208T033800Z
-UID:ci5397678-tt0058450--2025-2-7-19-45
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
-  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Umbrellas of Cherbourg (1964)
 DTSTART;TZID=America/Los_Angeles:20250208T170000
@@ -403,9 +379,9 @@ DTSTAMP:20250222T025300Z
 UID:ci5397678-tt0073198--2025-2-21-19-0
 DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
   her daily chores\, takes care of her apartment where she lives with her t
- eenage son\, and turns the occasional trick to make ends meet. However\, s
- omething happens that changes her safe routine.\n\nhttps://www.imdb.com/ti
- tle/tt0073198/\n\nIMDb rating: 7.5
+ eenage son\, and turns the occasional trick to make ends meet\, but someth
+ ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
+ t0073198/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -430,9 +406,9 @@ DTSTAMP:20250222T235300Z
 UID:ci5397678-tt0073198--2025-2-22-16-0
 DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
   her daily chores\, takes care of her apartment where she lives with her t
- eenage son\, and turns the occasional trick to make ends meet. However\, s
- omething happens that changes her safe routine.\n\nhttps://www.imdb.com/ti
- tle/tt0073198/\n\nIMDb rating: 7.5
+ eenage son\, and turns the occasional trick to make ends meet\, but someth
+ ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
+ t0073198/\n\nIMDb rating: 7.5
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -442,6 +418,33 @@ DTSTART;TZID=America/Los_Angeles:20250222T203000
 DTEND;TZID=America/Los_Angeles:20250222T225000
 DTSTAMP:20250223T042300Z
 UID:ci5397678-tt0073540--2025-2-22-20-30
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
+ a few students and a teacher from an Australian girls' school vanish witho
+ ut a trace. Their absence frustrates and haunts the people left behind.\n\
+ nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeanne Dielman\, 23\, quai du commerce\, 1080 Bruxelles (1975)
+DTSTART;TZID=America/Los_Angeles:20250223T190000
+DTEND;TZID=America/Los_Angeles:20250223T225000
+DTSTAMP:20250224T025300Z
+UID:ci5397678-tt0073198--2025-2-23-19-0
+DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
+  her daily chores\, takes care of her apartment where she lives with her t
+ eenage son\, and turns the occasional trick to make ends meet\, but someth
+ ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
+ t0073198/\n\nIMDb rating: 7.5
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picnic at Hanging Rock (1975)
+DTSTART;TZID=America/Los_Angeles:20250223T160000
+DTEND;TZID=America/Los_Angeles:20250223T182000
+DTSTAMP:20250223T235300Z
+UID:ci5397678-tt0073540--2025-2-23-16-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
  a few students and a teacher from an Australian girls' school vanish witho
  ut a trace. Their absence frustrates and haunts the people left behind.\n\
