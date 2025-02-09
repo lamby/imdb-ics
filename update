@@ -313,8 +313,11 @@ class ImdbICS:
                             minute=minute,
                             tzinfo=pytz.timezone(venue["timezone"]),
                         )
-                        end = start + datetime.timedelta(
-                            minutes=self.PADDING + self.round_to_nearest(runtime, 5)
+                        estimated_start = start + datetime.timedelta(
+                            minutes=self.PADDING,
+                        )
+                        end = estimated_start + datetime.timedelta(
+                            minutes=self.round_to_nearest(runtime, 5),
                         )
                         event.add("dtstamp", start)
                         event.add("dtstart", start)
@@ -334,12 +337,18 @@ class ImdbICS:
                         except KeyError:
                             pass
                         description.append(data["url"])
+                        description.append(
+                            f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
+                        )
+                        estimated_start
                         try:
                             description.append(
                                 f"IMDb rating: {data['aggregateRating']['ratingValue']}"
                             )
                         except KeyError:
                             pass
+                        description.append(data["url"])
+
                         event.add("description", "\n\n".join(description))
 
                         cal.add_component(event)
