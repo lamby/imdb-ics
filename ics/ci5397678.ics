@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250209T091237Z
+LAST-MODIFIED:20250210T092641Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Umbrellas of Cherbourg (1964)
-DTSTART;TZID=America/Los_Angeles:20250209T170000
-DTEND;TZID=America/Los_Angeles:20250209T190000
-DTSTAMP:20250210T005300Z
-UID:ci5397678-tt0058450--2025-2-9-17-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
-  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Umbrellas of Cherbourg (1964)
-DTSTART;TZID=America/Los_Angeles:20250209T194500
-DTEND;TZID=America/Los_Angeles:20250209T214500
-DTSTAMP:20250210T033800Z
-UID:ci5397678-tt0058450--2025-2-9-19-45
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
-  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Umbrellas of Cherbourg (1964)
 DTSTART;TZID=America/Los_Angeles:20250210T160000
@@ -36,7 +12,8 @@ DTSTAMP:20250210T235300Z
 UID:ci5397678-tt0058450--2025-2-10-16-0
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
+ e/tt0058450/\n\nEstimated start: 16:25\n\nIMDb rating: 7.8\n\nhttps://www.
+ imdb.com/title/tt0058450/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -49,7 +26,8 @@ UID:ci5397678-tt0067992--2025-2-10-18-30
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA poor but hopeful boy seeks on
  e of the five coveted golden tickets that will send him on a tour of Willy
   Wonka's mysterious chocolate factory.\n\nhttps://www.imdb.com/title/tt006
- 7992/\n\nIMDb rating: 7.8
+ 7992/\n\nEstimated start: 18:55\n\nIMDb rating: 7.8\n\nhttps://www.imdb.co
+ m/title/tt0067992/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -61,7 +39,8 @@ DTSTAMP:20250212T005300Z
 UID:ci5397678-tt0058450--2025-2-11-17-0
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
+ e/tt0058450/\n\nEstimated start: 17:25\n\nIMDb rating: 7.8\n\nhttps://www.
+ imdb.com/title/tt0058450/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -73,7 +52,8 @@ DTSTAMP:20250212T033800Z
 UID:ci5397678-tt0058450--2025-2-11-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
+ e/tt0058450/\n\nEstimated start: 20:10\n\nIMDb rating: 7.8\n\nhttps://www.
+ imdb.com/title/tt0058450/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -85,7 +65,8 @@ DTSTAMP:20250213T005300Z
 UID:ci5397678-tt0058450--2025-2-12-17-0
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
+ e/tt0058450/\n\nEstimated start: 17:25\n\nIMDb rating: 7.8\n\nhttps://www.
+ imdb.com/title/tt0058450/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -97,7 +78,8 @@ DTSTAMP:20250213T033800Z
 UID:ci5397678-tt0058450--2025-2-12-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
+ e/tt0058450/\n\nEstimated start: 20:10\n\nIMDb rating: 7.8\n\nhttps://www.
+ imdb.com/title/tt0058450/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -109,7 +91,8 @@ DTSTAMP:20250214T005300Z
 UID:ci5397678-tt0058450--2025-2-13-17-0
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
+ e/tt0058450/\n\nEstimated start: 17:25\n\nIMDb rating: 7.8\n\nhttps://www.
+ imdb.com/title/tt0058450/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -121,7 +104,8 @@ DTSTAMP:20250214T033800Z
 UID:ci5397678-tt0058450--2025-2-13-19-45
 DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
   lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nIMDb rating: 7.8
+ e/tt0058450/\n\nEstimated start: 20:10\n\nIMDb rating: 7.8\n\nhttps://www.
+ imdb.com/title/tt0058450/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -134,7 +118,8 @@ UID:ci5397678-tt0047074--2025-2-14-20-45
 DESCRIPTION:Duration: 1h 30m (90 mins)\n\nAn American woman goes to Hawaii
   to search for her husband\, MIA since the war\, but he's a fugitive from 
  the law and involved in a private feud against his former crime syndicate 
- partners.\n\nhttps://www.imdb.com/title/tt0047074/\n\nIMDb rating: 6.3
+ partners.\n\nhttps://www.imdb.com/title/tt0047074/\n\nEstimated start: 21:
+ 10\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title/tt0047074/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -147,7 +132,8 @@ UID:ci5397678-tt0044954--2025-2-14-18-30
 DESCRIPTION:Duration: 1h 11m (71 mins)\n\nA woman planning to testify agai
  nst the mob must be protected against potential assassins on the train tri
  p from Chicago to Los Angeles.\n\nhttps://www.imdb.com/title/tt0044954/\n\
- nIMDb rating: 7.6
+ nEstimated start: 18:55\n\nIMDb rating: 7.6\n\nhttps://www.imdb.com/title/
+ tt0044954/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -160,7 +146,8 @@ UID:ci5397678-tt0043435--2025-2-15-20-45
 DESCRIPTION:Duration: 1h 19m (79 mins)\n\nEx-con Rocky Mulloy seeks the re
  al culprit in the crime for which he was framed in a night world of decept
  ive dames and double crosses.\n\nhttps://www.imdb.com/title/tt0043435/\n\n
- IMDb rating: 7.3
+ Estimated start: 21:10\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/title/t
+ t0043435/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -174,7 +161,8 @@ DESCRIPTION:Duration: 1h 08m (68 mins)\n\nPolice detective Mary Ryan is gi
  ven an assignment to break up a gang of jewel thieves and fences. She\, us
  ing an alias as a convict\, is placed in the cell with a suspected member 
  of the gang. Upon release she becomes a gang member ...\n\nhttps://www.imd
- b.com/title/tt0042715/\n\nIMDb rating: 6.5
+ b.com/title/tt0042715/\n\nEstimated start: 15:25\n\nIMDb rating: 6.5\n\nht
+ tps://www.imdb.com/title/tt0042715/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -188,7 +176,8 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA private eye escapes his past t
  o run a gas station in a small town\, but his past catches up with him. No
  w he must return to the big city world of danger\, corruption\, double cro
  sses\, and duplicitous dames.\n\nhttps://www.imdb.com/title/tt0039689/\n\n
- IMDb rating: 8
+ Estimated start: 18:25\n\nIMDb rating: 8\n\nhttps://www.imdb.com/title/tt0
+ 039689/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -200,8 +189,8 @@ DTSTAMP:20250215T202300Z
 UID:ci5397678-tt0042976--2025-2-15-12-30
 DESCRIPTION:Duration: 1h 26m (86 mins)\n\nIn New York\, the murder of a Be
  llevue Hospital intern prompts the police to send an undercover detective 
- to investigate.\n\nhttps://www.imdb.com/title/tt0042976/\n\nIMDb rating: 6
- .7
+ to investigate.\n\nhttps://www.imdb.com/title/tt0042976/\n\nEstimated star
+ t: 12:55\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0042976/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -214,7 +203,8 @@ UID:ci5397678-tt0045465--2025-2-16-20-45
 DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA former boxer turned cab driver
   has to hide from the police when his badgering wife is murdered by the je
  wel thief she was having an affair with.\n\nhttps://www.imdb.com/title/tt0
- 045465/\n\nIMDb rating: 7.4
+ 045465/\n\nEstimated start: 21:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.
+ com/title/tt0045465/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -227,7 +217,8 @@ UID:ci5397678-tt0041107--2025-2-16-15-0
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA district attorney rises to pol
  itical success and the governorship but loses his sense of morality once h
  e starts associating with the shadowy and perhaps diabolical Nick Beal.\n\
- nhttps://www.imdb.com/title/tt0041107/\n\nIMDb rating: 7.1
+ nhttps://www.imdb.com/title/tt0041107/\n\nEstimated start: 15:25\n\nIMDb r
+ ating: 7.1\n\nhttps://www.imdb.com/title/tt0041107/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -241,7 +232,8 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA gentle\, naive\, pregnant 19-y
  ear-old widow is slowly\, inexorably ground down by the hardened criminals
  \, sadistic guards\, and matron at a woman's prison. Will she be the same 
  person when her sentence is up?\n\nhttps://www.imdb.com/title/tt0042296/\n
- \nIMDb rating: 7.6
+ \nEstimated start: 18:25\n\nIMDb rating: 7.6\n\nhttps://www.imdb.com/title
+ /tt0042296/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -254,7 +246,8 @@ UID:ci5397678-tt0041954--2025-2-16-12-30
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA meek pharmacist creates an alt
  ernate identity under which he plans to murder the bullying liquor salesma
  n who has become his wife's lover.\n\nhttps://www.imdb.com/title/tt0041954
- /\n\nIMDb rating: 7.3
+ /\n\nEstimated start: 12:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/ti
+ tle/tt0041954/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -266,8 +259,9 @@ DTSTAMP:20250218T015300Z
 UID:ci5397678-tt0037101--2025-2-17-18-0
 DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAfter being hired to find an ex-
  con's former girlfriend\, Philip Marlowe is drawn into a deeply complex we
- b of mystery and deceit.\n\nhttps://www.imdb.com/title/tt0037101/\n\nIMDb 
- rating: 7.5
+ b of mystery and deceit.\n\nhttps://www.imdb.com/title/tt0037101/\n\nEstim
+ ated start: 18:25\n\nIMDb rating: 7.5\n\nhttps://www.imdb.com/title/tt0037
+ 101/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -278,7 +272,8 @@ DTEND;TZID=America/Los_Angeles:20250217T222000
 DTSTAMP:20250218T043800Z
 UID:ci5397678-tt0043830--2025-2-17-20-45
 DESCRIPTION:Duration: 1h 07m (67 mins)\n\nStory of a female jewel thief.\n
- \nhttps://www.imdb.com/title/tt0043830/\n\nIMDb rating: 6.4
+ \nhttps://www.imdb.com/title/tt0043830/\n\nEstimated start: 21:10\n\nIMDb 
+ rating: 6.4\n\nhttps://www.imdb.com/title/tt0043830/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -291,7 +286,8 @@ UID:ci5397678-tt0040723--2025-2-18-18-0
 DESCRIPTION:Duration: 1h 19m (79 mins)\n\nJoe Sullivan (Dennis O'Keefe) ha
  s taken the rap for Rick (Raymond Burr)\, who double-crosses him with a fl
  awed escape plan and other means intended to get rid of him.\n\nhttps://ww
- w.imdb.com/title/tt0040723/\n\nIMDb rating: 7.2
+ w.imdb.com/title/tt0040723/\n\nEstimated start: 18:25\n\nIMDb rating: 7.2\
+ n\nhttps://www.imdb.com/title/tt0040723/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -303,7 +299,8 @@ DTSTAMP:20250219T042300Z
 UID:ci5397678-tt0049406--2025-2-18-20-30
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCrook Johnny Clay assembles a fi
  ve-man team to plan and execute a daring racetrack robbery.\n\nhttps://www
- .imdb.com/title/tt0049406/\n\nIMDb rating: 7.9
+ .imdb.com/title/tt0049406/\n\nEstimated start: 20:55\n\nIMDb rating: 7.9\n
+ \nhttps://www.imdb.com/title/tt0049406/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -316,7 +313,8 @@ UID:ci5397678-tt0037638--2025-2-19-18-0
 DESCRIPTION:Duration: 1h 06m (66 mins)\n\nThe life of Al Roberts\, a piani
  st in a New York nightclub\, turns into a nightmare when he decides to hit
  chhike to Los Angeles to visit his girlfriend.\n\nhttps://www.imdb.com/tit
- le/tt0037638/\n\nIMDb rating: 7.3
+ le/tt0037638/\n\nEstimated start: 18:25\n\nIMDb rating: 7.3\n\nhttps://www
+ .imdb.com/title/tt0037638/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -328,8 +326,8 @@ DTSTAMP:20250220T042300Z
 UID:ci5397678-tt0036260--2025-2-19-20-30
 DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA devoted secretary risks her li
  fe to try to find the elusive woman who may prove her boss didn't murder h
- is selfish wife.\n\nhttps://www.imdb.com/title/tt0036260/\n\nIMDb rating: 
- 7.2
+ is selfish wife.\n\nhttps://www.imdb.com/title/tt0036260/\n\nEstimated sta
+ rt: 20:55\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/tt0036260/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -343,7 +341,8 @@ DESCRIPTION:Duration: 1h 51m (111 mins)\n\nFrustrated former journalist Ch
  uck Tatum now working for an Albuquerque newspaper exploits a story about 
  trading post owner Leo Minosa trapped in a cave to rekindle Chuck's career
  \, but the story soon escalates into a media circus.\n\nhttps://www.imdb.c
- om/title/tt0043338/\n\nIMDb rating: 8.1
+ om/title/tt0043338/\n\nEstimated start: 20:55\n\nIMDb rating: 8.1\n\nhttps
+ ://www.imdb.com/title/tt0043338/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -357,7 +356,8 @@ DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
   her daily chores\, takes care of her apartment where she lives with her t
  eenage son\, and turns the occasional trick to make ends meet\, but someth
  ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
- t0073198/\n\nIMDb rating: 7.5
+ t0073198/\n\nEstimated start: 19:25\n\nIMDb rating: 7.5\n\nhttps://www.imd
+ b.com/title/tt0073198/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -370,7 +370,8 @@ UID:ci5397678-tt0073540--2025-2-21-16-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
  a few students and a teacher from an Australian girls' school vanish witho
  ut a trace. Their absence frustrates and haunts the people left behind.\n\
- nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
+ nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 16:25\n\nIMDb r
+ ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -384,7 +385,8 @@ DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
   her daily chores\, takes care of her apartment where she lives with her t
  eenage son\, and turns the occasional trick to make ends meet\, but someth
  ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
- t0073198/\n\nIMDb rating: 7.5
+ t0073198/\n\nEstimated start: 16:25\n\nIMDb rating: 7.5\n\nhttps://www.imd
+ b.com/title/tt0073198/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -397,7 +399,8 @@ UID:ci5397678-tt0073540--2025-2-22-20-30
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
  a few students and a teacher from an Australian girls' school vanish witho
  ut a trace. Their absence frustrates and haunts the people left behind.\n\
- nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
+ nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 20:55\n\nIMDb r
+ ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -411,7 +414,8 @@ DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
   her daily chores\, takes care of her apartment where she lives with her t
  eenage son\, and turns the occasional trick to make ends meet\, but someth
  ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
- t0073198/\n\nIMDb rating: 7.5
+ t0073198/\n\nEstimated start: 19:25\n\nIMDb rating: 7.5\n\nhttps://www.imd
+ b.com/title/tt0073198/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -424,7 +428,8 @@ UID:ci5397678-tt0073540--2025-2-23-16-0
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
  a few students and a teacher from an Australian girls' school vanish witho
  ut a trace. Their absence frustrates and haunts the people left behind.\n\
- nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
+ nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 16:25\n\nIMDb r
+ ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -438,7 +443,8 @@ DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
   her daily chores\, takes care of her apartment where she lives with her t
  eenage son\, and turns the occasional trick to make ends meet\, but someth
  ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
- t0073198/\n\nIMDb rating: 7.5
+ t0073198/\n\nEstimated start: 16:25\n\nIMDb rating: 7.5\n\nhttps://www.imd
+ b.com/title/tt0073198/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
@@ -451,7 +457,37 @@ UID:ci5397678-tt0073540--2025-2-24-20-30
 DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
  a few students and a teacher from an Australian girls' school vanish witho
  ut a trace. Their absence frustrates and haunts the people left behind.\n\
- nhttps://www.imdb.com/title/tt0073540/\n\nIMDb rating: 7.4
+ nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 20:55\n\nIMDb r
+ ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeanne Dielman\, 23\, quai du commerce\, 1080 Bruxelles (1975)
+DTSTART;TZID=America/Los_Angeles:20250225T190000
+DTEND;TZID=America/Los_Angeles:20250225T225000
+DTSTAMP:20250226T025300Z
+UID:ci5397678-tt0073198--2025-2-25-19-0
+DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
+  her daily chores\, takes care of her apartment where she lives with her t
+ eenage son\, and turns the occasional trick to make ends meet\, but someth
+ ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
+ t0073198/\n\nEstimated start: 19:25\n\nIMDb rating: 7.5\n\nhttps://www.imd
+ b.com/title/tt0073198/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picnic at Hanging Rock (1975)
+DTSTART;TZID=America/Los_Angeles:20250225T160000
+DTEND;TZID=America/Los_Angeles:20250225T182000
+DTSTAMP:20250225T235300Z
+UID:ci5397678-tt0073540--2025-2-25-16-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
+ a few students and a teacher from an Australian girls' school vanish witho
+ ut a trace. Their absence frustrates and haunts the people left behind.\n\
+ nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 16:25\n\nIMDb r
+ ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250209T091227Z
+LAST-MODIFIED:20250210T092632Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Macbeth
-DTSTART;TZID=America/Los_Angeles:20250209T130000
-DTEND;TZID=America/Los_Angeles:20250209T152000
-DTSTAMP:20250209T205300Z
-UID:ci16639652-tt34729082--2025-2-9-13-0
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nThree witches tell General Macb
- eth that he will be King of Scotland. Encouraged by his wife\, Macbeth kil
- ls the king\, becomes king\, and kills more people out of paranoia. Civil 
- war erupts to overthrow Macbeth\, resulting in more death.\n\nhttps://www.
- imdb.com/title/tt34729082/\n\nIMDb rating: 8.7
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
 DTSTART;TZID=America/Los_Angeles:20250210T190000
@@ -28,7 +14,8 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
  Israeli collective shows the destruction of the occupied West Bank's Masaf
  er Yatta by Israeli soldiers and the alliance which develops between the P
  alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nIMDb rating: 8.3
+ com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
@@ -42,7 +29,8 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
  Israeli collective shows the destruction of the occupied West Bank's Masaf
  er Yatta by Israeli soldiers and the alliance which develops between the P
  alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nIMDb rating: 8.3
+ com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
@@ -56,7 +44,8 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
  Israeli collective shows the destruction of the occupied West Bank's Masaf
  er Yatta by Israeli soldiers and the alliance which develops between the P
  alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nIMDb rating: 8.3
+ com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
@@ -70,7 +59,8 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
  Israeli collective shows the destruction of the occupied West Bank's Masaf
  er Yatta by Israeli soldiers and the alliance which develops between the P
  alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nIMDb rating: 8.3
+ com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
