@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250211T084307Z
+LAST-MODIFIED:20250212T100613Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Umbrellas of Cherbourg (1964)
-DTSTART;TZID=America/Los_Angeles:20250211T170000
-DTEND;TZID=America/Los_Angeles:20250211T190000
-DTSTAMP:20250212T005300Z
-UID:ci5397678-tt0058450--2025-2-11-17-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
-  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nEstimated start: 17:25\n\nIMDb rating: 7.8\n\nhttps://www.
- imdb.com/title/tt0058450/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Umbrellas of Cherbourg (1964)
-DTSTART;TZID=America/Los_Angeles:20250211T194500
-DTEND;TZID=America/Los_Angeles:20250211T214500
-DTSTAMP:20250212T033800Z
-UID:ci5397678-tt0058450--2025-2-11-19-45
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nA young woman separated from her
-  lover by war faces a life-altering decision.\n\nhttps://www.imdb.com/titl
- e/tt0058450/\n\nEstimated start: 20:10\n\nIMDb rating: 7.8\n\nhttps://www.
- imdb.com/title/tt0058450/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Umbrellas of Cherbourg (1964)
 DTSTART;TZID=America/Los_Angeles:20250212T170000
@@ -489,6 +463,35 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\,
  a few students and a teacher from an Australian girls' school vanish witho
  ut a trace. Their absence frustrates and haunts the people left behind.\n\
  nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 20:55\n\nIMDb r
+ ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeanne Dielman\, 23\, quai du commerce\, 1080 Bruxelles (1975)
+DTSTART;TZID=America/Los_Angeles:20250227T190000
+DTEND;TZID=America/Los_Angeles:20250227T225000
+DTSTAMP:20250228T025300Z
+UID:ci5397678-tt0073198--2025-2-27-19-0
+DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
+  her daily chores\, takes care of her apartment where she lives with her t
+ eenage son\, and turns the occasional trick to make ends meet\, but someth
+ ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
+ t0073198/\n\nEstimated start: 19:25\n\nIMDb rating: 7.5\n\nhttps://www.imd
+ b.com/title/tt0073198/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Picnic at Hanging Rock (1975)
+DTSTART;TZID=America/Los_Angeles:20250227T160000
+DTEND;TZID=America/Los_Angeles:20250227T182000
+DTSTAMP:20250227T235300Z
+UID:ci5397678-tt0073540--2025-2-27-16-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
+ a few students and a teacher from an Australian girls' school vanish witho
+ ut a trace. Their absence frustrates and haunts the people left behind.\n\
+ nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 16:25\n\nIMDb r
  ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121

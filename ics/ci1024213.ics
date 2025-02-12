@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250211T083637Z
+LAST-MODIFIED:20250212T100338Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
 BEGIN:VEVENT
@@ -250,6 +250,33 @@ DTSTART;TZID=America/Los_Angeles:20250226T193000
 DTEND;TZID=America/Los_Angeles:20250226T215500
 DTSTAMP:20250227T032300Z
 UID:ci1024213-tt0048308--2025-2-26-19-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWhen she is reduced to appearin
+ g in a circus\, a notorious beauty thinks back on her past loves.\n\nhttps
+ ://www.imdb.com/title/tt0048308/\n\nEstimated start: 19:55\n\nIMDb rating:
+  7.2\n\nhttps://www.imdb.com/title/tt0048308/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flesh for Frankenstein (1973)
+DTSTART;TZID=America/Los_Angeles:20250227T163000
+DTEND;TZID=America/Los_Angeles:20250227T183000
+DTSTAMP:20250228T002300Z
+UID:ci1024213-tt0071508--2025-2-27-16-30
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nBaron Frankenstein creates two &
+ quot\;zombies&quot\; - one male\, one female - planning to mate them in or
+ der to create a master race.\n\nhttps://www.imdb.com/title/tt0071508/\n\nE
+ stimated start: 16:55\n\nIMDb rating: 5.8\n\nhttps://www.imdb.com/title/tt
+ 0071508/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola Montès (1955)
+DTSTART;TZID=America/Los_Angeles:20250227T193000
+DTEND;TZID=America/Los_Angeles:20250227T215500
+DTSTAMP:20250228T032300Z
+UID:ci1024213-tt0048308--2025-2-27-19-30
 DESCRIPTION:Duration: 1h 56m (116 mins)\n\nWhen she is reduced to appearin
  g in a circus\, a notorious beauty thinks back on her past loves.\n\nhttps
  ://www.imdb.com/title/tt0048308/\n\nEstimated start: 19:55\n\nIMDb rating:

@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250211T084258Z
+LAST-MODIFIED:20250212T100555Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=America/Los_Angeles:20250211T190000
-DTEND;TZID=America/Los_Angeles:20250211T210000
-DTSTAMP:20250212T025300Z
-UID:ci16639652-tt30953759--2025-2-11-19-0
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
- Israeli collective shows the destruction of the occupied West Bank's Masaf
- er Yatta by Israeli soldiers and the alliance which develops between the P
- alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
- ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
 DTSTART;TZID=America/Los_Angeles:20250212T190000
@@ -46,6 +31,19 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
  alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
  com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
  ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To Live and Die in L.A. (1985)
+DTSTART;TZID=America/Los_Angeles:20250227T193000
+DTEND;TZID=America/Los_Angeles:20250227T215500
+DTSTAMP:20250228T032300Z
+UID:ci16639652-tt0090180--2025-2-27-19-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA fearless Secret Service agent
+  will stop at nothing to bring down the counterfeiter who killed his partn
+ er.\n\nhttps://www.imdb.com/title/tt0090180/\n\nEstimated start: 19:55\n\n
+ IMDb rating: 7.3\n\nhttps://www.imdb.com/title/tt0090180/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
