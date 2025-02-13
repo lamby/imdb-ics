@@ -1,67 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250212T100530Z
+LAST-MODIFIED:20250213T101413Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250212T160000
-DTEND;TZID=America/Los_Angeles:20250212T184500
-DTSTAMP:20250212T235300Z
-UID:ci16639653-tt14961016--2025-2-12-16-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
- b rating: 8.9\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250212T191500
-DTEND;TZID=America/Los_Angeles:20250212T220000
-DTSTAMP:20250213T030800Z
-UID:ci16639653-tt14961016--2025-2-12-19-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:40\n\nIMD
- b rating: 8.9\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=America/Los_Angeles:20250212T183000
-DTEND;TZID=America/Los_Angeles:20250212T223000
-DTSTAMP:20250213T022300Z
-UID:ci16639653-tt8999762--2025-2-12-18-30
-DESCRIPTION:Duration: 3h 34m (214 mins)\n\nWhen a visionary architect and 
- his wife flee post-war Europe in 1947 to rebuild their legacy and witness 
- the birth of modern United States\, their lives are changed forever by a m
- ysterious\, wealthy client.\n\nhttps://www.imdb.com/title/tt8999762/\n\nEs
- timated start: 18:55\n\nIMDb rating: 8\n\nhttps://www.imdb.com/title/tt899
- 9762/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=America/Los_Angeles:20250212T190000
-DTEND;TZID=America/Los_Angeles:20250212T221500
-DTSTAMP:20250213T025300Z
-UID:ci16639653-tt32178949--2025-2-12-19-0
-DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
- es with paranoia amid political unrest in Tehran. When his gun vanishes\, 
- he suspects his wife and daughters\, imposing draconian measures that stra
- in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
- 32178949/\n\nEstimated start: 19:25\n\nIMDb rating: 7.6\n\nhttps://www.imd
- b.com/title/tt32178949/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I'm Still Here
 DTSTART;TZID=America/Los_Angeles:20250213T160000
@@ -72,7 +14,7 @@ DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent
  herself when her family's life is shattered by an act of arbitrary violenc
  e during the tightening grip of a military dictatorship in Brazil\, 1971.\
  n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
- b rating: 8.9\n\nhttps://www.imdb.com/title/tt14961016/
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -86,7 +28,7 @@ DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent
  herself when her family's life is shattered by an act of arbitrary violenc
  e during the tightening grip of a military dictatorship in Brazil\, 1971.\
  n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:40\n\nIMD
- b rating: 8.9\n\nhttps://www.imdb.com/title/tt14961016/
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -102,6 +44,441 @@ DESCRIPTION:Duration: 2h 47m (167 mins)\n\nInvestigating judge Iman grappl
  in family ties as societal rules crumble.\n\nhttps://www.imdb.com/title/tt
  32178949/\n\nEstimated start: 19:25\n\nIMDb rating: 7.6\n\nhttps://www.imd
  b.com/title/tt32178949/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250214T154500
+DTEND;TZID=America/Los_Angeles:20250214T174000
+DTSTAMP:20250214T233800Z
+UID:ci16639653-tt35675195--2025-2-14-15-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250214T194500
+DTEND;TZID=America/Los_Angeles:20250214T214000
+DTSTAMP:20250215T033800Z
+UID:ci16639653-tt35675195--2025-2-14-19-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 20:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250215T131500
+DTEND;TZID=America/Los_Angeles:20250215T151000
+DTSTAMP:20250215T210800Z
+UID:ci16639653-tt35675195--2025-2-15-13-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 13:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250215T161500
+DTEND;TZID=America/Los_Angeles:20250215T181000
+DTSTAMP:20250216T000800Z
+UID:ci16639653-tt35675195--2025-2-15-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250215T190000
+DTEND;TZID=America/Los_Angeles:20250215T205500
+DTSTAMP:20250216T025300Z
+UID:ci16639653-tt35675195--2025-2-15-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:25\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250216T123000
+DTEND;TZID=America/Los_Angeles:20250216T142500
+DTSTAMP:20250216T202300Z
+UID:ci16639653-tt35675195--2025-2-16-12-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 12:55\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250216T161500
+DTEND;TZID=America/Los_Angeles:20250216T181000
+DTSTAMP:20250217T000800Z
+UID:ci16639653-tt35675195--2025-2-16-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250216T194500
+DTEND;TZID=America/Los_Angeles:20250216T214000
+DTSTAMP:20250217T033800Z
+UID:ci16639653-tt35675195--2025-2-16-19-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 20:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250217T161500
+DTEND;TZID=America/Los_Angeles:20250217T181000
+DTSTAMP:20250218T000800Z
+UID:ci16639653-tt35675195--2025-2-17-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250217T190000
+DTEND;TZID=America/Los_Angeles:20250217T205500
+DTSTAMP:20250218T025300Z
+UID:ci16639653-tt35675195--2025-2-17-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:25\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250218T154500
+DTEND;TZID=America/Los_Angeles:20250218T174000
+DTSTAMP:20250218T233800Z
+UID:ci16639653-tt35675195--2025-2-18-15-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250218T194500
+DTEND;TZID=America/Los_Angeles:20250218T214000
+DTSTAMP:20250219T033800Z
+UID:ci16639653-tt35675195--2025-2-18-19-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 20:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250219T161500
+DTEND;TZID=America/Los_Angeles:20250219T181000
+DTSTAMP:20250220T000800Z
+UID:ci16639653-tt35675195--2025-2-19-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250219T190000
+DTEND;TZID=America/Los_Angeles:20250219T205500
+DTSTAMP:20250220T025300Z
+UID:ci16639653-tt35675195--2025-2-19-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:25\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250220T161500
+DTEND;TZID=America/Los_Angeles:20250220T181000
+DTSTAMP:20250221T000800Z
+UID:ci16639653-tt35675195--2025-2-20-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250220T190000
+DTEND;TZID=America/Los_Angeles:20250220T205500
+DTSTAMP:20250221T025300Z
+UID:ci16639653-tt35675195--2025-2-20-19-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:25\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250221T161500
+DTEND;TZID=America/Los_Angeles:20250221T181000
+DTSTAMP:20250222T000800Z
+UID:ci16639653-tt35675195--2025-2-21-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250222T124500
+DTEND;TZID=America/Los_Angeles:20250222T144000
+DTSTAMP:20250222T203800Z
+UID:ci16639653-tt35675195--2025-2-22-12-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 13:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250222T161500
+DTEND;TZID=America/Los_Angeles:20250222T181000
+DTSTAMP:20250223T000800Z
+UID:ci16639653-tt35675195--2025-2-22-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250222T194500
+DTEND;TZID=America/Los_Angeles:20250222T214000
+DTSTAMP:20250223T033800Z
+UID:ci16639653-tt35675195--2025-2-22-19-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 20:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250223T154500
+DTEND;TZID=America/Los_Angeles:20250223T174000
+DTSTAMP:20250223T233800Z
+UID:ci16639653-tt35675195--2025-2-23-15-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250223T191500
+DTEND;TZID=America/Los_Angeles:20250223T211000
+DTSTAMP:20250224T030800Z
+UID:ci16639653-tt35675195--2025-2-23-19-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250224T154000
+DTEND;TZID=America/Los_Angeles:20250224T173500
+DTSTAMP:20250224T233300Z
+UID:ci16639653-tt35675195--2025-2-24-15-40
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:05\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250224T191500
+DTEND;TZID=America/Los_Angeles:20250224T211000
+DTSTAMP:20250225T030800Z
+UID:ci16639653-tt35675195--2025-2-24-19-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250225T161500
+DTEND;TZID=America/Los_Angeles:20250225T181000
+DTSTAMP:20250226T000800Z
+UID:ci16639653-tt35675195--2025-2-25-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250225T191500
+DTEND;TZID=America/Los_Angeles:20250225T211000
+DTSTAMP:20250226T030800Z
+UID:ci16639653-tt35675195--2025-2-25-19-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250226T161500
+DTEND;TZID=America/Los_Angeles:20250226T181000
+DTSTAMP:20250227T000800Z
+UID:ci16639653-tt35675195--2025-2-26-16-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:40\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250227T154500
+DTEND;TZID=America/Los_Angeles:20250227T174000
+DTSTAMP:20250227T233800Z
+UID:ci16639653-tt35675195--2025-2-27-15-45
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Animation
+DTSTART;TZID=America/Los_Angeles:20250227T191500
+DTEND;TZID=America/Los_Angeles:20250227T211000
+DTSTAMP:20250228T030800Z
+UID:ci16639653-tt35675195--2025-2-27-19-15
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
+  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
+ t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
+ ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
+ min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
+ n\nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
