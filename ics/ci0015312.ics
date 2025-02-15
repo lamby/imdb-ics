@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250214T080256Z
+LAST-MODIFIED:20250215T112859Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Sleepless in Seattle (1993)
-DTSTART;TZID=America/Los_Angeles:20250214T190000
-DTEND;TZID=America/Los_Angeles:20250214T211000
-DTSTAMP:20250215T025300Z
-UID:ci0015312-tt0108160--2025-2-14-19-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA recently widowed man's son ca
- lls a radio talk-show in an attempt to find his father a partner.\n\nhttps
- ://www.imdb.com/title/tt0108160/\n\nEstimated start: 19:25\n\nIMDb rating:
-  6.8\n\nhttps://www.imdb.com/title/tt0108160/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild at Heart (1990)
-DTSTART;TZID=America/Los_Angeles:20250214T160000
-DTEND;TZID=America/Los_Angeles:20250214T183000
-DTSTAMP:20250214T235300Z
-UID:ci0015312-tt0100935--2025-2-14-16-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nYoung lovers Sailor and Lula ru
- n from the variety of weirdos that Lula's mom has hired to kill Sailor.\n\
- nhttps://www.imdb.com/title/tt0100935/\n\nEstimated start: 16:25\n\nIMDb r
- ating: 7.2\n\nhttps://www.imdb.com/title/tt0100935/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild at Heart (1990)
-DTSTART;TZID=America/Los_Angeles:20250214T213000
-DTEND;TZID=America/Los_Angeles:20250215T000000
-DTSTAMP:20250215T052300Z
-UID:ci0015312-tt0100935--2025-2-14-21-30
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nYoung lovers Sailor and Lula ru
- n from the variety of weirdos that Lula's mom has hired to kill Sailor.\n\
- nhttps://www.imdb.com/title/tt0100935/\n\nEstimated start: 21:55\n\nIMDb r
- ating: 7.2\n\nhttps://www.imdb.com/title/tt0100935/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sleepless in Seattle (1993)
 DTSTART;TZID=America/Los_Angeles:20250215T190000

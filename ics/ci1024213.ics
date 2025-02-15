@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250214T074225Z
+LAST-MODIFIED:20250215T112505Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love (2000)
-DTSTART;TZID=America/Los_Angeles:20250214T190000
-DTEND;TZID=America/Los_Angeles:20250214T210500
-DTSTAMP:20250215T025300Z
-UID:ci1024213-tt0118694--2025-2-14-19-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nTwo neighbors form a strong bond
-  after both suspect extramarital activities of their spouses. However\, th
- ey agree to keep their bond platonic so as not to commit similar wrongs.\n
- \nhttps://www.imdb.com/title/tt0118694/\n\nEstimated start: 19:25\n\nIMDb 
- rating: 8.1\n\nhttps://www.imdb.com/title/tt0118694/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love (2000)
-DTSTART;TZID=America/Los_Angeles:20250214T220000
-DTEND;TZID=America/Los_Angeles:20250215T000500
-DTSTAMP:20250215T055300Z
-UID:ci1024213-tt0118694--2025-2-14-22-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nTwo neighbors form a strong bond
-  after both suspect extramarital activities of their spouses. However\, th
- ey agree to keep their bond platonic so as not to commit similar wrongs.\n
- \nhttps://www.imdb.com/title/tt0118694/\n\nEstimated start: 22:25\n\nIMDb 
- rating: 8.1\n\nhttps://www.imdb.com/title/tt0118694/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hale County This Morning\, This Evening (2018)
 DTSTART;TZID=America/Los_Angeles:20250218T193000
@@ -322,6 +294,20 @@ DESCRIPTION:Duration: 1h 49m (109 mins)\n\nFrom his hospital bed\, a write
  r suffering from a skin disease hallucinates musical numbers and paranoid 
  plots.\n\nhttps://www.imdb.com/title/tt0314676/\n\nEstimated start: 12:25\
  n\nIMDb rating: 5.4\n\nhttps://www.imdb.com/title/tt0314676/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Some Like It Hot (1959)
+DTSTART;TZID=America/Los_Angeles:20250302T130000
+DTEND;TZID=America/Los_Angeles:20250302T153000
+DTSTAMP:20250302T205300Z
+UID:ci1024213-tt0053291--2025-3-2-13-0
+DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAfter two male musicians witnes
+ s a mob hit\, they flee the state in an all-female band disguised as women
+ \, but further complications set in.\n\nhttps://www.imdb.com/title/tt00532
+ 91/\n\nEstimated start: 13:25\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/
+ title/tt0053291/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
