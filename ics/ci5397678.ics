@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250217T103458Z
+LAST-MODIFIED:20250218T110209Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Murder\, My Sweet (1944)
-DTSTART;TZID=America/Los_Angeles:20250217T180000
-DTEND;TZID=America/Los_Angeles:20250217T200000
-DTSTAMP:20250218T015300Z
-UID:ci5397678-tt0037101--2025-2-17-18-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nAfter being hired to find an ex-
- con's former girlfriend\, Philip Marlowe is drawn into a deeply complex we
- b of mystery and deceit.\n\nhttps://www.imdb.com/title/tt0037101/\n\nEstim
- ated start: 18:25\n\nIMDb rating: 7.5\n\nhttps://www.imdb.com/title/tt0037
- 101/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My True Story (1951)
-DTSTART;TZID=America/Los_Angeles:20250217T204500
-DTEND;TZID=America/Los_Angeles:20250217T222000
-DTSTAMP:20250218T043800Z
-UID:ci5397678-tt0043830--2025-2-17-20-45
-DESCRIPTION:Duration: 1h 07m (67 mins)\n\nStory of a female jewel thief.\n
- \nhttps://www.imdb.com/title/tt0043830/\n\nEstimated start: 21:10\n\nIMDb 
- rating: 6.4\n\nhttps://www.imdb.com/title/tt0043830/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Raw Deal (1948)
 DTSTART;TZID=America/Los_Angeles:20250218T180000
@@ -446,6 +420,33 @@ DESCRIPTION:Duration: 3h 21m (201 mins)\n\nSprawling epic covering the lif
  e of a Texas cattle rancher and his family and associates.\n\nhttps://www.
  imdb.com/title/tt0049261/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6\n\
  nhttps://www.imdb.com/title/tt0049261/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East of Eden (1955)
+DTSTART;TZID=America/Los_Angeles:20250305T163000
+DTEND;TZID=America/Los_Angeles:20250305T185500
+DTSTAMP:20250306T002300Z
+UID:ci5397678-tt0048028--2025-3-5-16-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo brothers in 1910s Californi
+ a struggle to maintain the favor of their affectionate but strict\, Bible-
+ toting father as an old secret about their long-absent mother comes to lig
+ ht.\n\nhttps://www.imdb.com/title/tt0048028/\n\nEstimated start: 16:55\n\n
+ IMDb rating: 7.8\n\nhttps://www.imdb.com/title/tt0048028/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebel Without a Cause (1955)
+DTSTART;TZID=America/Los_Angeles:20250305T193000
+DTEND;TZID=America/Los_Angeles:20250305T215000
+DTSTAMP:20250306T032300Z
+UID:ci5397678-tt0048545--2025-3-5-19-30
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA rebellious young man with a t
+ roubled past comes to a new town\, finding friends and enemies.\n\nhttps:/
+ /www.imdb.com/title/tt0048545/\n\nEstimated start: 19:55\n\nIMDb rating: 7
+ .6\n\nhttps://www.imdb.com/title/tt0048545/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
