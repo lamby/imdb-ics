@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250218T112246Z
+LAST-MODIFIED:20250219T112327Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Raw Deal (1948)
-DTSTART;TZID=America/Los_Angeles:20250218T180000
-DTEND;TZID=America/Los_Angeles:20250218T194500
-DTSTAMP:20250219T015300Z
-UID:ci5397678-tt0040723--2025-2-18-18-0
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nJoe Sullivan (Dennis O'Keefe) ha
- s taken the rap for Rick (Raymond Burr)\, who double-crosses him with a fl
- awed escape plan and other means intended to get rid of him.\n\nhttps://ww
- w.imdb.com/title/tt0040723/\n\nEstimated start: 18:25\n\nIMDb rating: 7.2\
- n\nhttps://www.imdb.com/title/tt0040723/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killing (1956)
-DTSTART;TZID=America/Los_Angeles:20250218T203000
-DTEND;TZID=America/Los_Angeles:20250218T222000
-DTSTAMP:20250219T042300Z
-UID:ci5397678-tt0049406--2025-2-18-20-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nCrook Johnny Clay assembles a fi
- ve-man team to plan and execute a daring racetrack robbery.\n\nhttps://www
- .imdb.com/title/tt0049406/\n\nEstimated start: 20:55\n\nIMDb rating: 7.9\n
- \nhttps://www.imdb.com/title/tt0049406/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detour (1945)
 DTSTART;TZID=America/Los_Angeles:20250219T180000
@@ -446,6 +419,32 @@ UID:ci5397678-tt0048545--2025-3-5-19-30
 DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA rebellious young man with a t
  roubled past comes to a new town\, finding friends and enemies.\n\nhttps:/
  /www.imdb.com/title/tt0048545/\n\nEstimated start: 19:55\n\nIMDb rating: 7
+ .6\n\nhttps://www.imdb.com/title/tt0048545/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mickey 17
+DTSTART;TZID=America/Los_Angeles:20250306T190000
+DTEND;TZID=America/Los_Angeles:20250306T214500
+DTSTAMP:20250307T025300Z
+UID:ci5397678-tt12299608--2025-3-6-19-0
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nMickey 17\, known as an &quot\;
+ expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
+ \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:25\n\nIM
+ Db rating: 7.3\n\nhttps://www.imdb.com/title/tt12299608/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebel Without a Cause (1955)
+DTSTART;TZID=America/Los_Angeles:20250306T160000
+DTEND;TZID=America/Los_Angeles:20250306T182000
+DTSTAMP:20250306T235300Z
+UID:ci5397678-tt0048545--2025-3-6-16-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA rebellious young man with a t
+ roubled past comes to a new town\, finding friends and enemies.\n\nhttps:/
+ /www.imdb.com/title/tt0048545/\n\nEstimated start: 16:25\n\nIMDb rating: 7
  .6\n\nhttps://www.imdb.com/title/tt0048545/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121

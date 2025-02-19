@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250218T112036Z
+LAST-MODIFIED:20250219T112118Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hale County This Morning\, This Evening (2018)
-DTSTART;TZID=America/Los_Angeles:20250218T193000
-DTEND;TZID=America/Los_Angeles:20250218T211500
-DTSTAMP:20250219T032300Z
-UID:ci1024213-tt6634646--2025-2-18-19-30
-DESCRIPTION:Duration: 1h 16m (76 mins)\n\nA kaleidoscopic and humanistic v
- iew of the Black community in Hale County\, Alabama.\n\nhttps://www.imdb.c
- om/title/tt6634646/\n\nEstimated start: 19:55\n\nIMDb rating: 6.4\n\nhttps
- ://www.imdb.com/title/tt6634646/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love (2000)
-DTSTART;TZID=America/Los_Angeles:20250218T163000
-DTEND;TZID=America/Los_Angeles:20250218T183500
-DTSTAMP:20250219T002300Z
-UID:ci1024213-tt0118694--2025-2-18-16-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nTwo neighbors form a strong bond
-  after both suspect extramarital activities of their spouses. However\, th
- ey agree to keep their bond platonic so as not to commit similar wrongs.\n
- \nhttps://www.imdb.com/title/tt0118694/\n\nEstimated start: 16:55\n\nIMDb 
- rating: 8.1\n\nhttps://www.imdb.com/title/tt0118694/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hale County This Morning\, This Evening (2018)
 DTSTART;TZID=America/Los_Angeles:20250219T193000
@@ -393,6 +366,34 @@ DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAfter two male musicians witnes
  \, but further complications set in.\n\nhttps://www.imdb.com/title/tt00532
  91/\n\nEstimated start: 16:55\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/
  title/tt0053291/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eat the Night
+DTSTART;TZID=America/Los_Angeles:20250306T163000
+DTEND;TZID=America/Los_Angeles:20250306T184500
+DTSTAMP:20250307T002300Z
+UID:ci1024213-tt32128915--2025-3-6-16-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nYoung drug dealer Pablo and his
+  sister Appoline bond over an online game called Darknoon. Pablo falls for
+  Night\, neglecting his sister. While Appoline finishes the game\, Pablo a
+ nd Night become embroiled in a dangerous gang conflict.\n\nhttps://www.imd
+ b.com/title/tt32128915/\n\nEstimated start: 16:55\n\nIMDb rating: 6.2\n\nh
+ ttps://www.imdb.com/title/tt32128915/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inland Empire (2006)
+DTSTART;TZID=America/Los_Angeles:20250306T193000
+DTEND;TZID=America/Los_Angeles:20250306T225500
+DTSTAMP:20250307T032300Z
+UID:ci1024213-tt0460829--2025-3-6-19-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nAs an actress begins to adopt t
+ he persona of her character in a film\, her world becomes nightmarish and 
+ surreal.\n\nhttps://www.imdb.com/title/tt0460829/\n\nEstimated start: 19:5
+ 5\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt0460829/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
