@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250219T112317Z
+LAST-MODIFIED:20250220T133444Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -51,6 +51,34 @@ UID:ci16639652-tt35396916--2025-2-24-19-0
 DESCRIPTION:Duration: 3h 02m (182 mins)\n\nhttps://www.imdb.com/title/tt35
  396916/\n\nEstimated start: 19:25\n\nhttps://www.imdb.com/title/tt35396916
  /
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rainier: A Beer Odyssey
+DTSTART;TZID=America/Los_Angeles:20250307T180000
+DTEND;TZID=America/Los_Angeles:20250307T203000
+DTSTAMP:20250308T015300Z
+UID:ci16639652-tt32141038--2025-3-7-18-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
+ roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
+ \nhttps://www.imdb.com/title/tt32141038/\n\nEstimated start: 18:25\n\nIMDb
+  rating: 8.8\n\nhttps://www.imdb.com/title/tt32141038/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rats!
+DTSTART;TZID=America/Los_Angeles:20250307T210000
+DTEND;TZID=America/Los_Angeles:20250307T225000
+DTSTAMP:20250308T045300Z
+UID:ci16639652-tt29426703--2025-3-7-21-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nIn Fresno\, Texas\, graffiti art
+ ist Raphael's arrest leads to his involvement in a chain of events involvi
+ ng a sting operation\, suicide\, drug deals\, criminal suspicions\, weapon
+ s\, a newswoman\, and a plutonium deal gone wrong\, creatin...\n\nhttps://
+ www.imdb.com/title/tt29426703/\n\nEstimated start: 21:25\n\nIMDb rating: 8
+ .1\n\nhttps://www.imdb.com/title/tt29426703/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT

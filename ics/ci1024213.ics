@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250219T112118Z
+LAST-MODIFIED:20250220T133232Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hale County This Morning\, This Evening (2018)
-DTSTART;TZID=America/Los_Angeles:20250219T193000
-DTEND;TZID=America/Los_Angeles:20250219T211500
-DTSTAMP:20250220T032300Z
-UID:ci1024213-tt6634646--2025-2-19-19-30
-DESCRIPTION:Duration: 1h 16m (76 mins)\n\nA kaleidoscopic and humanistic v
- iew of the Black community in Hale County\, Alabama.\n\nhttps://www.imdb.c
- om/title/tt6634646/\n\nEstimated start: 19:55\n\nIMDb rating: 6.4\n\nhttps
- ://www.imdb.com/title/tt6634646/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hale County This Morning\, This Evening (2018)
 DTSTART;TZID=America/Los_Angeles:20250220T163000
@@ -394,6 +381,33 @@ DESCRIPTION:Duration: 3h 00m (180 mins)\n\nAs an actress begins to adopt t
  he persona of her character in a film\, her world becomes nightmarish and 
  surreal.\n\nhttps://www.imdb.com/title/tt0460829/\n\nEstimated start: 19:5
  5\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt0460829/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inland Empire (2006)
+DTSTART;TZID=America/Los_Angeles:20250307T183000
+DTEND;TZID=America/Los_Angeles:20250307T215500
+DTSTAMP:20250308T022300Z
+UID:ci1024213-tt0460829--2025-3-7-18-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nAs an actress begins to adopt t
+ he persona of her character in a film\, her world becomes nightmarish and 
+ surreal.\n\nhttps://www.imdb.com/title/tt0460829/\n\nEstimated start: 18:5
+ 5\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt0460829/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surf II (1983)
+DTSTART;TZID=America/Los_Angeles:20250307T220000
+DTEND;TZID=America/Los_Angeles:20250307T235500
+DTSTAMP:20250308T055300Z
+UID:ci1024213-tt0088207--2025-3-7-22-0
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA disgruntled nerd\, who was bul
+ lied in high school\, creates Buzz Cola\, a soft drink that turns surfers 
+ into mindless zombies.\n\nhttps://www.imdb.com/title/tt0088207/\n\nEstimat
+ ed start: 22:25\n\nIMDb rating: 5.3\n\nhttps://www.imdb.com/title/tt008820
+ 7/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
