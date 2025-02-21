@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250220T133444Z
+LAST-MODIFIED:20250221T100425Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Universal Language
-DTSTART;TZID=America/Los_Angeles:20250220T190000
-DTEND;TZID=America/Los_Angeles:20250220T205500
-DTSTAMP:20250221T025300Z
-UID:ci16639652-tt31691389--2025-2-20-19-0
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAn absurdist triptych of seeming
- ly unconnected stories find a mysterious point of intersection in this tal
- e set somewhere between Winnipeg and Tehran.\n\nhttps://www.imdb.com/title
- /tt31691389/\n\nEstimated start: 19:25\n\nIMDb rating: 7.1\n\nhttps://www.
- imdb.com/title/tt31691389/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:National Theatre Live: The Importance of Being Earnest
 DTSTART;TZID=America/Los_Angeles:20250222T130000
@@ -25,8 +11,8 @@ DTEND;TZID=America/Los_Angeles:20250222T163000
 DTSTAMP:20250222T205300Z
 UID:ci16639652-tt35396916--2025-2-22-13-0
 DESCRIPTION:Duration: 3h 02m (182 mins)\n\nhttps://www.imdb.com/title/tt35
- 396916/\n\nEstimated start: 13:25\n\nhttps://www.imdb.com/title/tt35396916
- /
+ 396916/\n\nEstimated start: 13:25\n\nIMDb rating: 8.9\n\nhttps://www.imdb.
+ com/title/tt35396916/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
@@ -37,8 +23,8 @@ DTEND;TZID=America/Los_Angeles:20250223T163000
 DTSTAMP:20250223T205300Z
 UID:ci16639652-tt35396916--2025-2-23-13-0
 DESCRIPTION:Duration: 3h 02m (182 mins)\n\nhttps://www.imdb.com/title/tt35
- 396916/\n\nEstimated start: 13:25\n\nhttps://www.imdb.com/title/tt35396916
- /
+ 396916/\n\nEstimated start: 13:25\n\nIMDb rating: 8.9\n\nhttps://www.imdb.
+ com/title/tt35396916/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
@@ -49,8 +35,8 @@ DTEND;TZID=America/Los_Angeles:20250224T223000
 DTSTAMP:20250225T025300Z
 UID:ci16639652-tt35396916--2025-2-24-19-0
 DESCRIPTION:Duration: 3h 02m (182 mins)\n\nhttps://www.imdb.com/title/tt35
- 396916/\n\nEstimated start: 19:25\n\nhttps://www.imdb.com/title/tt35396916
- /
+ 396916/\n\nEstimated start: 19:25\n\nIMDb rating: 8.9\n\nhttps://www.imdb.
+ com/title/tt35396916/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT
@@ -73,6 +59,47 @@ DTSTART;TZID=America/Los_Angeles:20250307T210000
 DTEND;TZID=America/Los_Angeles:20250307T225000
 DTSTAMP:20250308T045300Z
 UID:ci16639652-tt29426703--2025-3-7-21-0
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nIn Fresno\, Texas\, graffiti art
+ ist Raphael's arrest leads to his involvement in a chain of events involvi
+ ng a sting operation\, suicide\, drug deals\, criminal suspicions\, weapon
+ s\, a newswoman\, and a plutonium deal gone wrong\, creatin...\n\nhttps://
+ www.imdb.com/title/tt29426703/\n\nEstimated start: 21:25\n\nIMDb rating: 8
+ .1\n\nhttps://www.imdb.com/title/tt29426703/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rainier: A Beer Odyssey
+DTSTART;TZID=America/Los_Angeles:20250308T150000
+DTEND;TZID=America/Los_Angeles:20250308T173000
+DTSTAMP:20250308T225300Z
+UID:ci16639652-tt32141038--2025-3-8-15-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
+ roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
+ \nhttps://www.imdb.com/title/tt32141038/\n\nEstimated start: 15:25\n\nIMDb
+  rating: 8.8\n\nhttps://www.imdb.com/title/tt32141038/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rainier: A Beer Odyssey
+DTSTART;TZID=America/Los_Angeles:20250308T180000
+DTEND;TZID=America/Los_Angeles:20250308T203000
+DTSTAMP:20250309T015300Z
+UID:ci16639652-tt32141038--2025-3-8-18-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
+ roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
+ \nhttps://www.imdb.com/title/tt32141038/\n\nEstimated start: 18:25\n\nIMDb
+  rating: 8.8\n\nhttps://www.imdb.com/title/tt32141038/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rats!
+DTSTART;TZID=America/Los_Angeles:20250308T210000
+DTEND;TZID=America/Los_Angeles:20250308T225000
+DTSTAMP:20250309T045300Z
+UID:ci16639652-tt29426703--2025-3-8-21-0
 DESCRIPTION:Duration: 1h 25m (85 mins)\n\nIn Fresno\, Texas\, graffiti art
  ist Raphael's arrest leads to his involvement in a chain of events involvi
  ng a sting operation\, suicide\, drug deals\, criminal suspicions\, weapon
