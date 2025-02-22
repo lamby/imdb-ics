@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250221T101423Z
+LAST-MODIFIED:20250222T075348Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250221T160000
-DTEND;TZID=America/Los_Angeles:20250221T184500
-DTSTAMP:20250221T235300Z
-UID:ci16639653-tt14961016--2025-2-21-16-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
- b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250221T193000
-DTEND;TZID=America/Los_Angeles:20250221T221500
-DTSTAMP:20250222T032300Z
-UID:ci16639653-tt14961016--2025-2-21-19-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:55\n\nIMD
- b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Oscar Nominated Short Films: Animation
 DTSTART;TZID=America/Los_Angeles:20250222T194500
@@ -43,8 +15,23 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 20:10\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 20:10\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250222T124500
+DTEND;TZID=America/Los_Angeles:20250222T151000
+DTSTAMP:20250222T203800Z
+UID:ci16639653-tt35675225--2025-2-22-12-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 13:10\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -101,8 +88,23 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250223T154500
+DTEND;TZID=America/Los_Angeles:20250223T181000
+DTSTAMP:20250223T233800Z
+UID:ci16639653-tt35675225--2025-2-23-15-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -159,8 +161,23 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:55\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:55\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250224T154000
+DTEND;TZID=America/Los_Angeles:20250224T180500
+DTSTAMP:20250224T233300Z
+UID:ci16639653-tt35675225--2025-2-24-15-40
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 16:05\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -189,6 +206,21 @@ DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent
  e during the tightening grip of a military dictatorship in Brazil\, 1971.\
  n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
  b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250225T191500
+DTEND;TZID=America/Los_Angeles:20250225T214000
+DTSTAMP:20250226T030800Z
+UID:ci16639653-tt35675225--2025-2-25-19-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -231,7 +263,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 16:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 16:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -275,8 +307,23 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250227T154500
+DTEND;TZID=America/Los_Angeles:20250227T181000
+DTSTAMP:20250227T233800Z
+UID:ci16639653-tt35675225--2025-2-27-15-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -333,7 +380,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -349,8 +396,23 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 13:25\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 13:25\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250301T154500
+DTEND;TZID=America/Los_Angeles:20250301T181000
+DTSTAMP:20250301T233800Z
+UID:ci16639653-tt35675225--2025-3-1-15-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -365,8 +427,23 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 16:25\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 16:25\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250302T191500
+DTEND;TZID=America/Los_Angeles:20250302T214000
+DTSTAMP:20250303T030800Z
+UID:ci16639653-tt35675225--2025-3-2-19-15
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -381,7 +458,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -397,8 +474,23 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Oscar Nominated Short Films: Documentary
+DTSTART;TZID=America/Los_Angeles:20250305T154500
+DTEND;TZID=America/Los_Angeles:20250305T181000
+DTSTAMP:20250305T233800Z
+UID:ci16639653-tt35675225--2025-3-5-15-45
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
+ s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
+  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
+ \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
+ glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
+ nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -413,7 +505,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 16:10\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 16:10\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109

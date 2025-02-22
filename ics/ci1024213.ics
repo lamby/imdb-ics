@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250221T101257Z
+LAST-MODIFIED:20250222T075215Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Flesh for Frankenstein (1973)
-DTSTART;TZID=America/Los_Angeles:20250221T220000
-DTEND;TZID=America/Los_Angeles:20250222T000000
-DTSTAMP:20250222T055300Z
-UID:ci1024213-tt0071508--2025-2-21-22-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nBaron Frankenstein creates two &
- quot\;zombies&quot\; - one male\, one female - planning to mate them in or
- der to create a master race.\n\nhttps://www.imdb.com/title/tt0071508/\n\nE
- stimated start: 22:25\n\nIMDb rating: 5.8\n\nhttps://www.imdb.com/title/tt
- 0071508/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART;TZID=America/Los_Angeles:20250221T190000
-DTEND;TZID=America/Los_Angeles:20250221T213000
-DTSTAMP:20250222T025300Z
-UID:ci1024213-tt0199683--2025-2-21-19-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA young\, naive boy sets out al
- one on the road to find his wayward mother. Soon he finds an unlikely prot
- ector in a crotchety man and the two have a series of unexpected adventure
- s along the way.\n\nhttps://www.imdb.com/title/tt0199683/\n\nEstimated sta
- rt: 19:25\n\nIMDb rating: 7.7\n\nhttps://www.imdb.com/title/tt0199683/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kikujiro (1999)
 DTSTART;TZID=America/Los_Angeles:20250222T190000
@@ -422,6 +394,19 @@ DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA disgruntled nerd\, who was bul
  into mindless zombies.\n\nhttps://www.imdb.com/title/tt0088207/\n\nEstimat
  ed start: 22:25\n\nIMDb rating: 5.3\n\nhttps://www.imdb.com/title/tt008820
  7/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swept Away (2002)
+DTSTART;TZID=America/Los_Angeles:20250309T170000
+DTEND;TZID=America/Los_Angeles:20250309T185500
+DTSTAMP:20250310T005300Z
+UID:ci1024213-tt0291502--2025-3-9-17-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA snooty socialite is stranded o
+ n a Mediterranean island with a communist sailor.\n\nhttps://www.imdb.com/
+ title/tt0291502/\n\nEstimated start: 17:25\n\nIMDb rating: 3.6\n\nhttps://
+ www.imdb.com/title/tt0291502/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
