@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250222T075215Z
+LAST-MODIFIED:20250223T094842Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART;TZID=America/Los_Angeles:20250222T190000
-DTEND;TZID=America/Los_Angeles:20250222T213000
-DTSTAMP:20250223T025300Z
-UID:ci1024213-tt0199683--2025-2-22-19-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA young\, naive boy sets out al
- one on the road to find his wayward mother. Soon he finds an unlikely prot
- ector in a crotchety man and the two have a series of unexpected adventure
- s along the way.\n\nhttps://www.imdb.com/title/tt0199683/\n\nEstimated sta
- rt: 19:25\n\nIMDb rating: 7.7\n\nhttps://www.imdb.com/title/tt0199683/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Holds Barred (1989)
-DTSTART;TZID=America/Los_Angeles:20250222T220000
-DTEND;TZID=America/Los_Angeles:20250223T000000
-DTSTAMP:20250223T055300Z
-UID:ci1024213-tt0097987--2025-2-22-22-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA TV-network boss pits a wrestle
- r called Zeus against a wrestler called Rip in a wrestling match.\n\nhttps
- ://www.imdb.com/title/tt0097987/\n\nEstimated start: 22:25\n\nIMDb rating:
-  4.4\n\nhttps://www.imdb.com/title/tt0097987/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gentlemen Prefer Blondes (1953)
 DTSTART;TZID=America/Los_Angeles:20250223T140000
@@ -407,6 +380,19 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA snooty socialite is stranded o
  n a Mediterranean island with a communist sailor.\n\nhttps://www.imdb.com/
  title/tt0291502/\n\nEstimated start: 17:25\n\nIMDb rating: 3.6\n\nhttps://
  www.imdb.com/title/tt0291502/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inland Empire (2006)
+DTSTART;TZID=America/Los_Angeles:20250310T193000
+DTEND;TZID=America/Los_Angeles:20250310T225500
+DTSTAMP:20250311T032300Z
+UID:ci1024213-tt0460829--2025-3-10-19-30
+DESCRIPTION:Duration: 3h 00m (180 mins)\n\nAs an actress begins to adopt t
+ he persona of her character in a film\, her world becomes nightmarish and 
+ surreal.\n\nhttps://www.imdb.com/title/tt0460829/\n\nEstimated start: 19:5
+ 5\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt0460829/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT

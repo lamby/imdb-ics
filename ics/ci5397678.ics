@@ -1,38 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250222T075421Z
+LAST-MODIFIED:20250223T095053Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Jeanne Dielman\, 23\, quai du commerce\, 1080 Bruxelles (1975)
-DTSTART;TZID=America/Los_Angeles:20250222T160000
-DTEND;TZID=America/Los_Angeles:20250222T195000
-DTSTAMP:20250222T235300Z
-UID:ci5397678-tt0073198--2025-2-22-16-0
-DESCRIPTION:Duration: 3h 22m (202 mins)\n\nA lonely widowed housewife does
-  her daily chores\, takes care of her apartment where she lives with her t
- eenage son\, and turns the occasional trick to make ends meet\, but someth
- ing happens that changes her safe routine.\n\nhttps://www.imdb.com/title/t
- t0073198/\n\nEstimated start: 16:25\n\nIMDb rating: 7.5\n\nhttps://www.imd
- b.com/title/tt0073198/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Picnic at Hanging Rock (1975)
-DTSTART;TZID=America/Los_Angeles:20250222T203000
-DTEND;TZID=America/Los_Angeles:20250222T225000
-DTSTAMP:20250223T042300Z
-UID:ci5397678-tt0073540--2025-2-22-20-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nDuring a rural summer picnic\, 
- a few students and a teacher from an Australian girls' school vanish witho
- ut a trace. Their absence frustrates and haunts the people left behind.\n\
- nhttps://www.imdb.com/title/tt0073540/\n\nEstimated start: 20:55\n\nIMDb r
- ating: 7.4\n\nhttps://www.imdb.com/title/tt0073540/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeanne Dielman\, 23\, quai du commerce\, 1080 Bruxelles (1975)
 DTSTART;TZID=America/Los_Angeles:20250223T190000
@@ -488,6 +459,32 @@ DTSTART;TZID=America/Los_Angeles:20250309T193000
 DTEND;TZID=America/Los_Angeles:20250309T221500
 DTSTAMP:20250310T032300Z
 UID:ci5397678-tt12299608--2025-3-9-19-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nMickey 17\, known as an &quot\;
+ expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
+ \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:55\n\nIM
+ Db rating: 7.4\n\nhttps://www.imdb.com/title/tt12299608/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mickey 17
+DTSTART;TZID=America/Los_Angeles:20250310T154500
+DTEND;TZID=America/Los_Angeles:20250310T183000
+DTSTAMP:20250310T233800Z
+UID:ci5397678-tt12299608--2025-3-10-15-45
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nMickey 17\, known as an &quot\;
+ expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
+ \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 16:10\n\nIM
+ Db rating: 7.4\n\nhttps://www.imdb.com/title/tt12299608/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mickey 17
+DTSTART;TZID=America/Los_Angeles:20250310T193000
+DTEND;TZID=America/Los_Angeles:20250310T221500
+DTSTAMP:20250311T032300Z
+UID:ci5397678-tt12299608--2025-3-10-19-30
 DESCRIPTION:Duration: 2h 19m (139 mins)\n\nMickey 17\, known as an &quot\;
  expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
  \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:55\n\nIM

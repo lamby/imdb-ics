@@ -1,82 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250222T075348Z
+LAST-MODIFIED:20250223T095012Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:2025 Oscar Nominated Short Films: Animation
-DTSTART;TZID=America/Los_Angeles:20250222T194500
-DTEND;TZID=America/Los_Angeles:20250222T214000
-DTSTAMP:20250223T033800Z
-UID:ci16639653-tt35675195--2025-2-22-19-45
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
-  (Animation): &quot\;Magic Candies&quot\; - 15 min\, Japan (Japanese) &quo
- t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
- ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
- min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 20:10\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
- e/tt35675195/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 Oscar Nominated Short Films: Documentary
-DTSTART;TZID=America/Los_Angeles:20250222T124500
-DTEND;TZID=America/Los_Angeles:20250222T151000
-DTSTAMP:20250222T203800Z
-UID:ci16639653-tt35675225--2025-2-22-12-45
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
- s (Documentary): &quot\;Death by Numbers&quot\; - Kim A. Snyder\, 36 min\,
-  USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
- \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
- glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 13:10\n\nhttps://www.imdb.com/title/tt35675225/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250222T123000
-DTEND;TZID=America/Los_Angeles:20250222T151500
-DTSTAMP:20250222T202300Z
-UID:ci16639653-tt14961016--2025-2-22-12-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 12:55\n\nIMD
- b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250222T154500
-DTEND;TZID=America/Los_Angeles:20250222T183000
-DTSTAMP:20250222T233800Z
-UID:ci16639653-tt14961016--2025-2-22-15-45
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:10\n\nIMD
- b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250222T190000
-DTEND;TZID=America/Los_Angeles:20250222T214500
-DTSTAMP:20250223T025300Z
-UID:ci16639653-tt14961016--2025-2-22-19-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
- b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 Oscar Nominated Short Films: Animation
 DTSTART;TZID=America/Los_Angeles:20250223T191500
@@ -88,7 +15,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -104,7 +31,8 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
   USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
  \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
  glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
+ nEstimated start: 16:10\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/title/
+ tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -161,7 +89,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:55\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:55\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -177,7 +105,8 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
   USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
  \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
  glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 16:05\n\nhttps://www.imdb.com/title/tt35675225/
+ nEstimated start: 16:05\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/title/
+ tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -220,7 +149,8 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
   USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
  \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
  glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675225/
+ nEstimated start: 19:40\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/title/
+ tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -253,6 +183,19 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer with Monika (1953)
+DTSTART;TZID=America/Los_Angeles:20250225T193000
+DTEND;TZID=America/Los_Angeles:20250225T213500
+DTSTAMP:20250226T032300Z
+UID:ci16639653-tt0046345--2025-2-25-19-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA pair of teenagers meet one sum
+ mer day\, start a reckless affair and abandon their families to be with on
+ e another.\n\nhttps://www.imdb.com/title/tt0046345/\n\nEstimated start: 19
+ :55\n\nIMDb rating: 7.5\n\nhttps://www.imdb.com/title/tt0046345/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2025 Oscar Nominated Short Films: Animation
 DTSTART;TZID=America/Los_Angeles:20250226T161500
 DTEND;TZID=America/Los_Angeles:20250226T181000
@@ -263,7 +206,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 16:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 16:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -307,7 +250,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -323,7 +266,8 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
   USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
  \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
  glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
+ nEstimated start: 16:10\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/title/
+ tt35675225/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -380,8 +324,66 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250228T160000
+DTEND;TZID=America/Los_Angeles:20250228T184500
+DTSTAMP:20250228T235300Z
+UID:ci16639653-tt14961016--2025-2-28-16-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250228T190000
+DTEND;TZID=America/Los_Angeles:20250228T214500
+DTSTAMP:20250301T025300Z
+UID:ci16639653-tt14961016--2025-2-28-19-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250228T163000
+DTEND;TZID=America/Los_Angeles:20250228T185500
+DTSTAMP:20250301T002300Z
+UID:ci16639653-tt28618488--2025-2-28-16-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 16:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250228T193000
+DTEND;TZID=America/Los_Angeles:20250228T215500
+DTSTAMP:20250301T032300Z
+UID:ci16639653-tt28618488--2025-2-28-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -396,7 +398,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 13:25\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 13:25\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -412,7 +414,95 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
   USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
  \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
  glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
+ nEstimated start: 16:10\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/title/
+ tt35675225/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250301T124500
+DTEND;TZID=America/Los_Angeles:20250301T153000
+DTSTAMP:20250301T203800Z
+UID:ci16639653-tt14961016--2025-3-1-12-45
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 13:10\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250301T160000
+DTEND;TZID=America/Los_Angeles:20250301T184500
+DTSTAMP:20250301T235300Z
+UID:ci16639653-tt14961016--2025-3-1-16-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250301T190000
+DTEND;TZID=America/Los_Angeles:20250301T214500
+DTSTAMP:20250302T025300Z
+UID:ci16639653-tt14961016--2025-3-1-19-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250301T131500
+DTEND;TZID=America/Los_Angeles:20250301T154000
+DTSTAMP:20250301T210800Z
+UID:ci16639653-tt28618488--2025-3-1-13-15
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 13:40\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250301T163000
+DTEND;TZID=America/Los_Angeles:20250301T185500
+DTSTAMP:20250302T002300Z
+UID:ci16639653-tt28618488--2025-3-1-16-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 16:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250301T193000
+DTEND;TZID=America/Los_Angeles:20250301T215500
+DTSTAMP:20250302T032300Z
+UID:ci16639653-tt28618488--2025-3-1-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -427,7 +517,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 16:25\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 16:25\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -443,7 +533,79 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
   USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
  \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
  glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 19:40\n\nhttps://www.imdb.com/title/tt35675225/
+ nEstimated start: 19:40\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/title/
+ tt35675225/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost in the Shell (1995)
+DTSTART;TZID=America/Los_Angeles:20250302T163000
+DTEND;TZID=America/Los_Angeles:20250302T182000
+DTSTAMP:20250303T002300Z
+UID:ci16639653-tt0113568--2025-3-2-16-30
+DESCRIPTION:Duration: 1h 23m (83 mins)\n\nA cyborg policewoman and her par
+ tner hunt a mysterious and powerful hacker called the Puppet Master.\n\nht
+ tps://www.imdb.com/title/tt0113568/\n\nEstimated start: 16:55\n\nIMDb rati
+ ng: 7.9\n\nhttps://www.imdb.com/title/tt0113568/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250302T124500
+DTEND;TZID=America/Los_Angeles:20250302T153000
+DTSTAMP:20250302T203800Z
+UID:ci16639653-tt14961016--2025-3-2-12-45
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 13:10\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250302T190000
+DTEND;TZID=America/Los_Angeles:20250302T214500
+DTSTAMP:20250303T025300Z
+UID:ci16639653-tt14961016--2025-3-2-19-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250302T163000
+DTEND;TZID=America/Los_Angeles:20250302T185500
+DTSTAMP:20250303T002300Z
+UID:ci16639653-tt28618488--2025-3-2-16-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 16:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250302T193000
+DTEND;TZID=America/Los_Angeles:20250302T215500
+DTSTAMP:20250303T032300Z
+UID:ci16639653-tt28618488--2025-3-2-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -458,8 +620,123 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250303T160000
+DTEND;TZID=America/Los_Angeles:20250303T184500
+DTSTAMP:20250303T235300Z
+UID:ci16639653-tt14961016--2025-3-3-16-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250303T190000
+DTEND;TZID=America/Los_Angeles:20250303T214500
+DTSTAMP:20250304T025300Z
+UID:ci16639653-tt14961016--2025-3-3-19-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250303T163000
+DTEND;TZID=America/Los_Angeles:20250303T185500
+DTSTAMP:20250304T002300Z
+UID:ci16639653-tt28618488--2025-3-3-16-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 16:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250303T193000
+DTEND;TZID=America/Los_Angeles:20250303T215500
+DTSTAMP:20250304T032300Z
+UID:ci16639653-tt28618488--2025-3-3-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250304T160000
+DTEND;TZID=America/Los_Angeles:20250304T184500
+DTSTAMP:20250304T235300Z
+UID:ci16639653-tt14961016--2025-3-4-16-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250304T190000
+DTEND;TZID=America/Los_Angeles:20250304T214500
+DTSTAMP:20250305T025300Z
+UID:ci16639653-tt14961016--2025-3-4-19-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smiles of a Summer Night (1955)
+DTSTART;TZID=America/Los_Angeles:20250304T193000
+DTEND;TZID=America/Los_Angeles:20250304T214500
+DTSTAMP:20250305T032300Z
+UID:ci16639653-tt0048641--2025-3-4-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nIn Sweden at the turn of the ce
+ ntury\, members of the upper class and their servants find themselves in a
+  romantic tangle that they try to work out amidst jealousy and heartbreak.
+ \n\nhttps://www.imdb.com/title/tt0048641/\n\nEstimated start: 19:55\n\nIMD
+ b rating: 7.7\n\nhttps://www.imdb.com/title/tt0048641/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250304T191500
+DTEND;TZID=America/Los_Angeles:20250304T214000
+DTSTAMP:20250305T030800Z
+UID:ci16639653-tt28618488--2025-3-4-19-15
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 19:40\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -474,7 +751,7 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 19:40\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 19:40\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
@@ -490,7 +767,22 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\n2025 Oscar Nominated Short Film
   USA (English) &quot\;I Am Ready\, Warden&quot\; - Smriti Mundhra\, 37 min
  \, USA (English) &quot\;Incident&quot\; - Bill Morrison\, 30 min\, USA (En
  glish) &quot\;Instruments ...\n\nhttps://www.imdb.com/title/tt35675225/\n\
- nEstimated start: 16:10\n\nhttps://www.imdb.com/title/tt35675225/
+ nEstimated start: 16:10\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/title/
+ tt35675225/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The First Slam Dunk (2022)
+DTSTART;TZID=America/Los_Angeles:20250305T180000
+DTEND;TZID=America/Los_Angeles:20250305T203000
+DTSTAMP:20250306T015300Z
+UID:ci16639653-tt15242330--2025-3-5-18-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nFollows 17-year-old Ryota Miyag
+ i\, who struggles to accomplish his late elder brother's dream of becoming
+  a basketball star.\n\nhttps://www.imdb.com/title/tt15242330/\n\nEstimated
+  start: 18:25\n\nIMDb rating: 8.1\n\nhttps://www.imdb.com/title/tt15242330
+ /
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -505,8 +797,66 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\n2025 Oscar Nominated Short Films
  t\;In the Shadow of the Cypress&quot\; - 13 min\, Iran (Persian) &quot\;Yu
  ck!&quot\; - 10 min\, France (French) &quot\;Wander to Wonder&quot\; - 14 
  min\, Netherlands/Belgium/Fr...\n\nhttps://www.imdb.com/title/tt35675195/\
- n\nEstimated start: 16:10\n\nIMDb rating: 6.2\n\nhttps://www.imdb.com/titl
+ n\nEstimated start: 16:10\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/titl
  e/tt35675195/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250306T160000
+DTEND;TZID=America/Los_Angeles:20250306T184500
+DTSTAMP:20250306T235300Z
+UID:ci16639653-tt14961016--2025-3-6-16-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250306T190000
+DTEND;TZID=America/Los_Angeles:20250306T214500
+DTSTAMP:20250307T025300Z
+UID:ci16639653-tt14961016--2025-3-6-19-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:25\n\nIMD
+ b rating: 8.8\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250306T163000
+DTEND;TZID=America/Los_Angeles:20250306T185500
+DTSTAMP:20250307T002300Z
+UID:ci16639653-tt28618488--2025-3-6-16-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 16:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vermiglio
+DTSTART;TZID=America/Los_Angeles:20250306T193000
+DTEND;TZID=America/Los_Angeles:20250306T215500
+DTSTAMP:20250307T032300Z
+UID:ci16639653-tt28618488--2025-3-6-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\n1944\, Vermiglio\, a remote mou
+ ntain village. The arrival of Pietro\, a deserter\, into the family of the
+  local teacher\, and his love for the teacher's eldest daughter\, will cha
+ nge the course of everyone's life.\n\nhttps://www.imdb.com/title/tt2861848
+ 8/\n\nEstimated start: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/t
+ itle/tt28618488/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
