@@ -1,39 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250223T094842Z
+LAST-MODIFIED:20250224T090726Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gentlemen Prefer Blondes (1953)
-DTSTART;TZID=America/Los_Angeles:20250223T140000
-DTEND;TZID=America/Los_Angeles:20250223T160000
-DTSTAMP:20250223T215300Z
-UID:ci1024213-tt0045810--2025-2-23-14-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nShowgirls Lorelei Lee and Doroth
- y Shaw travel to Paris\, pursued by a private detective hired by the suspi
- cious father of Lorelei's fiancé\, as well as a rich\, enamored old man a
- nd many other doting admirers.\n\nhttps://www.imdb.com/title/tt0045810/\n\
- nEstimated start: 14:25\n\nIMDb rating: 7.1\n\nhttps://www.imdb.com/title/
- tt0045810/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Earrings of Madame De... (1953)
-DTSTART;TZID=America/Los_Angeles:20250223T170000
-DTEND;TZID=America/Los_Angeles:20250223T191000
-DTSTAMP:20250224T005300Z
-UID:ci1024213-tt0046022--2025-2-23-17-0
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nWhen an aristocratic woman know
- n only as &quot\;Madame de . . .&quot\; sells a pair of earrings given to 
- her by her husband in order to pay some debts\, she sets off a chain react
- ion of financial and carnal consequences that can end only in de...\n\nhtt
- ps://www.imdb.com/title/tt0046022/\n\nEstimated start: 17:25\n\nIMDb ratin
- g: 7.9\n\nhttps://www.imdb.com/title/tt0046022/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gentlemen Prefer Blondes (1953)
 DTSTART;TZID=America/Los_Angeles:20250224T193000
@@ -393,6 +363,19 @@ DESCRIPTION:Duration: 3h 00m (180 mins)\n\nAs an actress begins to adopt t
  he persona of her character in a film\, her world becomes nightmarish and 
  surreal.\n\nhttps://www.imdb.com/title/tt0460829/\n\nEstimated start: 19:5
  5\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt0460829/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swept Away (2002)
+DTSTART;TZID=America/Los_Angeles:20250311T193000
+DTEND;TZID=America/Los_Angeles:20250311T212500
+DTSTAMP:20250312T032300Z
+UID:ci1024213-tt0291502--2025-3-11-19-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA snooty socialite is stranded o
+ n a Mediterranean island with a communist sailor.\n\nhttps://www.imdb.com/
+ title/tt0291502/\n\nEstimated start: 19:55\n\nIMDb rating: 3.6\n\nhttps://
+ www.imdb.com/title/tt0291502/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
