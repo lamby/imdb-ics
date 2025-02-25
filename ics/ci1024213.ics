@@ -1,38 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250224T090726Z
+LAST-MODIFIED:20250225T102510Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Gentlemen Prefer Blondes (1953)
-DTSTART;TZID=America/Los_Angeles:20250224T193000
-DTEND;TZID=America/Los_Angeles:20250224T213000
-DTSTAMP:20250225T032300Z
-UID:ci1024213-tt0045810--2025-2-24-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nShowgirls Lorelei Lee and Doroth
- y Shaw travel to Paris\, pursued by a private detective hired by the suspi
- cious father of Lorelei's fiancé\, as well as a rich\, enamored old man a
- nd many other doting admirers.\n\nhttps://www.imdb.com/title/tt0045810/\n\
- nEstimated start: 19:55\n\nIMDb rating: 7.1\n\nhttps://www.imdb.com/title/
- tt0045810/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kikujiro (1999)
-DTSTART;TZID=America/Los_Angeles:20250224T163000
-DTEND;TZID=America/Los_Angeles:20250224T190000
-DTSTAMP:20250225T002300Z
-UID:ci1024213-tt0199683--2025-2-24-16-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA young\, naive boy sets out al
- one on the road to find his wayward mother. Soon he finds an unlikely prot
- ector in a crotchety man and the two have a series of unexpected adventure
- s along the way.\n\nhttps://www.imdb.com/title/tt0199683/\n\nEstimated sta
- rt: 16:55\n\nIMDb rating: 7.7\n\nhttps://www.imdb.com/title/tt0199683/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Earrings of Madame De... (1953)
 DTSTART;TZID=America/Los_Angeles:20250225T163000
@@ -375,6 +346,19 @@ UID:ci1024213-tt0291502--2025-3-11-19-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA snooty socialite is stranded o
  n a Mediterranean island with a communist sailor.\n\nhttps://www.imdb.com/
  title/tt0291502/\n\nEstimated start: 19:55\n\nIMDb rating: 3.6\n\nhttps://
+ www.imdb.com/title/tt0291502/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swept Away (2002)
+DTSTART;TZID=America/Los_Angeles:20250312T163000
+DTEND;TZID=America/Los_Angeles:20250312T182500
+DTSTAMP:20250313T002300Z
+UID:ci1024213-tt0291502--2025-3-12-16-30
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA snooty socialite is stranded o
+ n a Mediterranean island with a communist sailor.\n\nhttps://www.imdb.com/
+ title/tt0291502/\n\nEstimated start: 16:55\n\nIMDb rating: 3.6\n\nhttps://
  www.imdb.com/title/tt0291502/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
