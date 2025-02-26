@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250225T102715Z
+LAST-MODIFIED:20250226T094523Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -118,6 +118,19 @@ DTSTART;TZID=America/Los_Angeles:20250312T190000
 DTEND;TZID=America/Los_Angeles:20250312T213000
 DTSTAMP:20250313T025300Z
 UID:ci16639652-tt32141038--2025-3-12-19-0
+DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
+ roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
+ \nhttps://www.imdb.com/title/tt32141038/\n\nEstimated start: 19:25\n\nIMDb
+  rating: 8.8\n\nhttps://www.imdb.com/title/tt32141038/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rainier: A Beer Odyssey
+DTSTART;TZID=America/Los_Angeles:20250313T190000
+DTEND;TZID=America/Los_Angeles:20250313T213000
+DTSTAMP:20250314T025300Z
+UID:ci16639652-tt32141038--2025-3-13-19-0
 DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
  roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
  \nhttps://www.imdb.com/title/tt32141038/\n\nEstimated start: 19:25\n\nIMDb
