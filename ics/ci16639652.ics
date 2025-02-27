@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250226T094523Z
+LAST-MODIFIED:20250227T100642Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -135,6 +135,36 @@ DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA documentary on the iconic\, g
  roundbreaking Rainier Beer TV commercials\, which ran from 1974 to 1987.\n
  \nhttps://www.imdb.com/title/tt32141038/\n\nEstimated start: 19:25\n\nIMDb
   rating: 8.8\n\nhttps://www.imdb.com/title/tt32141038/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theatre of Thought (2022)
+DTSTART;TZID=America/Los_Angeles:20250314T170000
+DTEND;TZID=America/Los_Angeles:20250314T191500
+DTSTAMP:20250315T005300Z
+UID:ci16639652-tt21998502--2025-3-14-17-0
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nHerzog casts his gaze on the hu
+ man brain\, looking for clues as to why a piece of tissue can produce deep
+  thoughts and feelings\, while also considering the philosophical\, ethica
+ l and social implications.\n\nhttps://www.imdb.com/title/tt21998502/\n\nEs
+ timated start: 17:25\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/tt2
+ 1998502/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theatre of Thought (2022)
+DTSTART;TZID=America/Los_Angeles:20250314T193000
+DTEND;TZID=America/Los_Angeles:20250314T214500
+DTSTAMP:20250315T032300Z
+UID:ci16639652-tt21998502--2025-3-14-19-30
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nHerzog casts his gaze on the hu
+ man brain\, looking for clues as to why a piece of tissue can produce deep
+  thoughts and feelings\, while also considering the philosophical\, ethica
+ l and social implications.\n\nhttps://www.imdb.com/title/tt21998502/\n\nEs
+ timated start: 19:55\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/tt2
+ 1998502/
 LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
   98109
 END:VEVENT

@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250226T094633Z
+LAST-MODIFIED:20250227T100750Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Get Out (2017)
-DTSTART;TZID=America/Los_Angeles:20250226T160000
-DTEND;TZID=America/Los_Angeles:20250226T181000
-DTSTAMP:20250226T235300Z
-UID:ci0015312-tt5052448--2025-2-26-16-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young African-American visits
-  his white girlfriend's parents for the weekend\, where his simmering unea
- siness about their reception of him eventually reaches a boiling point.\n\
- nhttps://www.imdb.com/title/tt5052448/\n\nEstimated start: 16:25\n\nIMDb r
- ating: 7.8\n\nhttps://www.imdb.com/title/tt5052448/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Get Out (2017)
-DTSTART;TZID=America/Los_Angeles:20250226T213000
-DTEND;TZID=America/Los_Angeles:20250226T234000
-DTSTAMP:20250227T052300Z
-UID:ci0015312-tt5052448--2025-2-26-21-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nA young African-American visits
-  his white girlfriend's parents for the weekend\, where his simmering unea
- siness about their reception of him eventually reaches a boiling point.\n\
- nhttps://www.imdb.com/title/tt5052448/\n\nEstimated start: 21:55\n\nIMDb r
- ating: 7.8\n\nhttps://www.imdb.com/title/tt5052448/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:When Harry Met Sally... (1989)
-DTSTART;TZID=America/Los_Angeles:20250226T190000
-DTEND;TZID=America/Los_Angeles:20250226T210000
-DTSTAMP:20250227T025300Z
-UID:ci0015312-tt0098635--2025-2-26-19-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nHarry and Sally have known each 
- other for years\, and are very good friends\, but they fear sex would ruin
-  the friendship.\n\nhttps://www.imdb.com/title/tt0098635/\n\nEstimated sta
- rt: 19:25\n\nIMDb rating: 7.7\n\nhttps://www.imdb.com/title/tt0098635/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hundreds of Beavers (2022)
 DTSTART;TZID=America/Los_Angeles:20250227T200000
