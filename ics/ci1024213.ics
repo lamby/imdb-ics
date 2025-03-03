@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250302T091001Z
+LAST-MODIFIED:20250303T090540Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Some Like It Hot (1959)
-DTSTART;TZID=America/Los_Angeles:20250302T130000
-DTEND;TZID=America/Los_Angeles:20250302T153000
-DTSTAMP:20250302T205300Z
-UID:ci1024213-tt0053291--2025-3-2-13-0
-DESCRIPTION:Duration: 2h 01m (121 mins)\n\nAfter two male musicians witnes
- s a mob hit\, they flee the state in an all-female band disguised as women
- \, but further complications set in.\n\nhttps://www.imdb.com/title/tt00532
- 91/\n\nEstimated start: 13:25\n\nIMDb rating: 8.2\n\nhttps://www.imdb.com/
- title/tt0053291/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love & Human Remains (1993)
 DTSTART;TZID=America/Los_Angeles:20250303T163000

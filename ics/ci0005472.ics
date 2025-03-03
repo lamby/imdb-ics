@@ -1,7 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250302T090919Z
+LAST-MODIFIED:20250303T090459Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
+BEGIN:VEVENT
+SUMMARY:Compensation (1999)
+DTSTART;TZID=America/Los_Angeles:20250318T191500
+DTEND;TZID=America/Los_Angeles:20250318T211500
+DTSTAMP:20250319T030800Z
+UID:ci0005472-tt0223027--2025-3-18-19-15
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nThe life of a deaf African Ameri
+ can woman in the early 1900s parallels with another living in the 1990s.\n
+ \nhttps://www.imdb.com/title/tt0223027/\n\nEstimated start: 19:40\n\nIMDb 
+ rating: 6.9\n\nhttps://www.imdb.com/title/tt0223027/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
 END:VCALENDAR

@@ -1,49 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250302T091225Z
+LAST-MODIFIED:20250303T090740Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:East of Eden (1955)
-DTSTART;TZID=America/Los_Angeles:20250302T151500
-DTEND;TZID=America/Los_Angeles:20250302T174000
-DTSTAMP:20250302T230800Z
-UID:ci5397678-tt0048028--2025-3-2-15-15
-DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo brothers in 1910s Californi
- a struggle to maintain the favor of their affectionate but strict\, Bible-
- toting father as an old secret about their long-absent mother comes to lig
- ht.\n\nhttps://www.imdb.com/title/tt0048028/\n\nEstimated start: 15:40\n\n
- IMDb rating: 7.8\n\nhttps://www.imdb.com/title/tt0048028/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Giant (1956)
-DTSTART;TZID=America/Los_Angeles:20250302T183000
-DTEND;TZID=America/Los_Angeles:20250302T222000
-DTSTAMP:20250303T022300Z
-UID:ci5397678-tt0049261--2025-3-2-18-30
-DESCRIPTION:Duration: 3h 21m (201 mins)\n\nSprawling epic covering the lif
- e of a Texas cattle rancher and his family and associates.\n\nhttps://www.
- imdb.com/title/tt0049261/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6\n\
- nhttps://www.imdb.com/title/tt0049261/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rebel Without a Cause (1955)
-DTSTART;TZID=America/Los_Angeles:20250302T121500
-DTEND;TZID=America/Los_Angeles:20250302T143500
-DTSTAMP:20250302T200800Z
-UID:ci5397678-tt0048545--2025-3-2-12-15
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA rebellious young man with a t
- roubled past comes to a new town\, finding friends and enemies.\n\nhttps:/
- /www.imdb.com/title/tt0048545/\n\nEstimated start: 12:40\n\nIMDb rating: 7
- .6\n\nhttps://www.imdb.com/title/tt0048545/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:East of Eden (1955)
 DTSTART;TZID=America/Los_Angeles:20250303T193000
@@ -484,6 +444,19 @@ UID:ci5397678-tt12299608--2025-3-17-19-30
 DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
  expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
  \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:55\n\nIM
+ Db rating: 7.4\n\nhttps://www.imdb.com/title/tt12299608/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mickey 17
+DTSTART;TZID=America/Los_Angeles:20250318T140000
+DTEND;TZID=America/Los_Angeles:20250318T164500
+DTSTAMP:20250318T215300Z
+UID:ci5397678-tt12299608--2025-3-18-14-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
+ expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
+ \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 14:25\n\nIM
  Db rating: 7.4\n\nhttps://www.imdb.com/title/tt12299608/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
