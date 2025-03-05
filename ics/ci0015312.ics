@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250304T103741Z
+LAST-MODIFIED:20250305T104820Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Amélie (2001)
-DTSTART;TZID=America/Los_Angeles:20250304T160000
-DTEND;TZID=America/Los_Angeles:20250304T183000
-DTSTAMP:20250304T235300Z
-UID:ci0015312-tt0211915--2025-3-4-16-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nDespite being caught in her ima
- ginative world\, young waitress Amelie decides to help people find happine
- ss. Her quest to spread joy leads her on a journey during which she finds 
- true love.\n\nhttps://www.imdb.com/title/tt0211915/\n\nEstimated start: 16
- :25\n\nIMDb rating: 8.3\n\nhttps://www.imdb.com/title/tt0211915/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amélie (2001)
 DTSTART;TZID=America/Los_Angeles:20250305T213000
@@ -57,6 +43,239 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn San Francisco\, an amiable ba
  de-to-be embarks on a passionate affair with his best friend.\n\nhttps://w
  ww.imdb.com/title/tt0368226/\n\nEstimated start: 20:25\n\nIMDb rating: 3.6
  \n\nhttps://www.imdb.com/title/tt0368226/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Say Anything (1989)
+DTSTART;TZID=America/Los_Angeles:20250307T190000
+DTEND;TZID=America/Los_Angeles:20250307T210500
+DTSTAMP:20250308T025300Z
+UID:ci0015312-tt0098258--2025-3-7-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA noble underachiever and a bea
+ utiful valedictorian fall in love the summer before she goes off to colleg
+ e.\n\nhttps://www.imdb.com/title/tt0098258/\n\nEstimated start: 19:25\n\nI
+ MDb rating: 7.3\n\nhttps://www.imdb.com/title/tt0098258/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250307T160000
+DTEND;TZID=America/Los_Angeles:20250307T184000
+DTSTAMP:20250307T235300Z
+UID:ci0015312-tt0105665--2025-3-7-16-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 16:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250307T213000
+DTEND;TZID=America/Los_Angeles:20250308T001000
+DTSTAMP:20250308T052300Z
+UID:ci0015312-tt0105665--2025-3-7-21-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Say Anything (1989)
+DTSTART;TZID=America/Los_Angeles:20250308T190000
+DTEND;TZID=America/Los_Angeles:20250308T210500
+DTSTAMP:20250309T025300Z
+UID:ci0015312-tt0098258--2025-3-8-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA noble underachiever and a bea
+ utiful valedictorian fall in love the summer before she goes off to colleg
+ e.\n\nhttps://www.imdb.com/title/tt0098258/\n\nEstimated start: 19:25\n\nI
+ MDb rating: 7.3\n\nhttps://www.imdb.com/title/tt0098258/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250308T160000
+DTEND;TZID=America/Los_Angeles:20250308T184000
+DTSTAMP:20250308T235300Z
+UID:ci0015312-tt0105665--2025-3-8-16-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 16:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250308T213000
+DTEND;TZID=America/Los_Angeles:20250309T001000
+DTSTAMP:20250309T052300Z
+UID:ci0015312-tt0105665--2025-3-8-21-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Say Anything (1989)
+DTSTART;TZID=America/Los_Angeles:20250309T190000
+DTEND;TZID=America/Los_Angeles:20250309T210500
+DTSTAMP:20250310T025300Z
+UID:ci0015312-tt0098258--2025-3-9-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA noble underachiever and a bea
+ utiful valedictorian fall in love the summer before she goes off to colleg
+ e.\n\nhttps://www.imdb.com/title/tt0098258/\n\nEstimated start: 19:25\n\nI
+ MDb rating: 7.3\n\nhttps://www.imdb.com/title/tt0098258/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250309T160000
+DTEND;TZID=America/Los_Angeles:20250309T184000
+DTSTAMP:20250309T235300Z
+UID:ci0015312-tt0105665--2025-3-9-16-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 16:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250309T213000
+DTEND;TZID=America/Los_Angeles:20250310T001000
+DTSTAMP:20250310T052300Z
+UID:ci0015312-tt0105665--2025-3-9-21-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250310T213000
+DTEND;TZID=America/Los_Angeles:20250311T001000
+DTSTAMP:20250311T052300Z
+UID:ci0015312-tt0105665--2025-3-10-21-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Say Anything (1989)
+DTSTART;TZID=America/Los_Angeles:20250311T190000
+DTEND;TZID=America/Los_Angeles:20250311T210500
+DTSTAMP:20250312T025300Z
+UID:ci0015312-tt0098258--2025-3-11-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA noble underachiever and a bea
+ utiful valedictorian fall in love the summer before she goes off to colleg
+ e.\n\nhttps://www.imdb.com/title/tt0098258/\n\nEstimated start: 19:25\n\nI
+ MDb rating: 7.3\n\nhttps://www.imdb.com/title/tt0098258/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250311T160000
+DTEND;TZID=America/Los_Angeles:20250311T184000
+DTSTAMP:20250311T235300Z
+UID:ci0015312-tt0105665--2025-3-11-16-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 16:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250311T213000
+DTEND;TZID=America/Los_Angeles:20250312T001000
+DTSTAMP:20250312T052300Z
+UID:ci0015312-tt0105665--2025-3-11-21-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Say Anything (1989)
+DTSTART;TZID=America/Los_Angeles:20250312T190000
+DTEND;TZID=America/Los_Angeles:20250312T210500
+DTSTAMP:20250313T025300Z
+UID:ci0015312-tt0098258--2025-3-12-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA noble underachiever and a bea
+ utiful valedictorian fall in love the summer before she goes off to colleg
+ e.\n\nhttps://www.imdb.com/title/tt0098258/\n\nEstimated start: 19:25\n\nI
+ MDb rating: 7.3\n\nhttps://www.imdb.com/title/tt0098258/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250312T160000
+DTEND;TZID=America/Los_Angeles:20250312T184000
+DTSTAMP:20250312T235300Z
+UID:ci0015312-tt0105665--2025-3-12-16-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 16:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me (1992)
+DTSTART;TZID=America/Los_Angeles:20250312T213000
+DTEND;TZID=America/Los_Angeles:20250313T001000
+DTSTAMP:20250313T052300Z
+UID:ci0015312-tt0105665--2025-3-12-21-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
+ 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malignant (2021)
+DTSTART;TZID=America/Los_Angeles:20250313T200000
+DTEND;TZID=America/Los_Angeles:20250313T222000
+DTSTAMP:20250314T035300Z
+UID:ci0015312-tt3811906--2025-3-13-20-0
+DESCRIPTION:Duration: 1h 51m (111 mins)\n\nMadison is paralyzed by shockin
+ g visions of grisly murders\, and her torment worsens as she discovers tha
+ t these waking dreams are in fact terrifying realities.\n\nhttps://www.imd
+ b.com/title/tt3811906/\n\nEstimated start: 20:25\n\nIMDb rating: 6.2\n\nht
+ tps://www.imdb.com/title/tt3811906/
 LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
  2
 END:VEVENT
