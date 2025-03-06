@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250305T104820Z
+LAST-MODIFIED:20250306T064613Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Amélie (2001)
-DTSTART;TZID=America/Los_Angeles:20250305T213000
-DTEND;TZID=America/Los_Angeles:20250306T000000
-DTSTAMP:20250306T052300Z
-UID:ci0015312-tt0211915--2025-3-5-21-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nDespite being caught in her ima
- ginative world\, young waitress Amelie decides to help people find happine
- ss. Her quest to spread joy leads her on a journey during which she finds 
- true love.\n\nhttps://www.imdb.com/title/tt0211915/\n\nEstimated start: 21
- :55\n\nIMDb rating: 8.3\n\nhttps://www.imdb.com/title/tt0211915/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express (1994)
-DTSTART;TZID=America/Los_Angeles:20250305T190000
-DTEND;TZID=America/Los_Angeles:20250305T211000
-DTSTAMP:20250306T025300Z
-UID:ci0015312-tt0109424--2025-3-5-19-0
-DESCRIPTION:Duration: 1h 42m (102 mins)\n\nTwo melancholic Hong Kong polic
- emen fall in love: one with a mysterious female underworld figure\, the ot
- her with a beautiful and ethereal waitress at a late-night restaurant he f
- requents.\n\nhttps://www.imdb.com/title/tt0109424/\n\nEstimated start: 19:
- 25\n\nIMDb rating: 8\n\nhttps://www.imdb.com/title/tt0109424/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Room (2003)
 DTSTART;TZID=America/Los_Angeles:20250306T200000
