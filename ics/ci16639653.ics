@@ -1,68 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250307T124923Z
+LAST-MODIFIED:20250308T100240Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=America/Los_Angeles:20250307T164500
-DTEND;TZID=America/Los_Angeles:20250307T184500
-DTSTAMP:20250308T003800Z
-UID:ci16639653-tt30953759--2025-3-7-16-45
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
- Israeli collective shows the destruction of the occupied West Bank's Masaf
- er Yatta by Israeli soldiers and the alliance which develops between the P
- alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nEstimated start: 17:10\n\nIMDb rating: 8.3\n\nhtt
- ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Veils (2023)
-DTSTART;TZID=America/Los_Angeles:20250307T163000
-DTEND;TZID=America/Los_Angeles:20250307T184500
-DTSTAMP:20250308T002300Z
-UID:ci16639653-tt26671415--2025-3-7-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn earnest theater director has
-  the task of remounting her former mentor's most famous work\, the opera S
- alome. Some disturbing memories from her past will allow her repressed tra
- uma to color the present.\n\nhttps://www.imdb.com/title/tt26671415/\n\nEst
- imated start: 16:55\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt26
- 671415/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Veils (2023)
-DTSTART;TZID=America/Los_Angeles:20250307T191500
-DTEND;TZID=America/Los_Angeles:20250307T213000
-DTSTAMP:20250308T030800Z
-UID:ci16639653-tt26671415--2025-3-7-19-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn earnest theater director has
-  the task of remounting her former mentor's most famous work\, the opera S
- alome. Some disturbing memories from her past will allow her repressed tra
- uma to color the present.\n\nhttps://www.imdb.com/title/tt26671415/\n\nEst
- imated start: 19:40\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt26
- 671415/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Universal Language
-DTSTART;TZID=America/Los_Angeles:20250307T193000
-DTEND;TZID=America/Los_Angeles:20250307T212500
-DTSTAMP:20250308T032300Z
-UID:ci16639653-tt31691389--2025-3-7-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAn absurdist triptych of seeming
- ly unconnected stories finds a mysterious point of intersection in this ta
- le set somewhere between Winnipeg and Tehran.\n\nhttps://www.imdb.com/titl
- e/tt31691389/\n\nEstimated start: 19:55\n\nIMDb rating: 7.1\n\nhttps://www
- .imdb.com/title/tt31691389/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Other Land
 DTSTART;TZID=America/Los_Angeles:20250308T140000
@@ -534,6 +475,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250314T193000
+DTEND;TZID=America/Los_Angeles:20250314T213500
+DTSTAMP:20250315T032300Z
+UID:ci16639653-tt28332337--2025-3-14-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Bag
 DTSTART;TZID=America/Los_Angeles:20250315T143000
 DTEND;TZID=America/Los_Angeles:20250315T163000
@@ -572,6 +527,34 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
  d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250315T140000
+DTEND;TZID=America/Los_Angeles:20250315T160500
+DTSTAMP:20250315T215300Z
+UID:ci16639653-tt28332337--2025-3-15-14-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 14:25\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250315T193000
+DTEND;TZID=America/Los_Angeles:20250315T213500
+DTSTAMP:20250316T032300Z
+UID:ci16639653-tt28332337--2025-3-15-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -618,6 +601,48 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250316T140000
+DTEND;TZID=America/Los_Angeles:20250316T160500
+DTSTAMP:20250316T215300Z
+UID:ci16639653-tt28332337--2025-3-16-14-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 14:25\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250316T163000
+DTEND;TZID=America/Los_Angeles:20250316T183500
+DTSTAMP:20250317T002300Z
+UID:ci16639653-tt28332337--2025-3-16-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 16:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250316T193000
+DTEND;TZID=America/Los_Angeles:20250316T213500
+DTSTAMP:20250317T032300Z
+UID:ci16639653-tt28332337--2025-3-16-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Bag
 DTSTART;TZID=America/Los_Angeles:20250317T164500
 DTEND;TZID=America/Los_Angeles:20250317T184500
@@ -646,6 +671,34 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250317T163000
+DTEND;TZID=America/Los_Angeles:20250317T183500
+DTSTAMP:20250318T002300Z
+UID:ci16639653-tt28332337--2025-3-17-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 16:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250317T193000
+DTEND;TZID=America/Los_Angeles:20250317T213500
+DTSTAMP:20250318T032300Z
+UID:ci16639653-tt28332337--2025-3-17-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Bag
 DTSTART;TZID=America/Los_Angeles:20250318T164500
 DTEND;TZID=America/Los_Angeles:20250318T184500
@@ -661,15 +714,43 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Bag
-DTSTART;TZID=America/Los_Angeles:20250318T191500
-DTEND;TZID=America/Los_Angeles:20250318T211500
-DTSTAMP:20250319T030800Z
-UID:ci16639653-tt30988739--2025-3-18-19-15
+DTSTART;TZID=America/Los_Angeles:20250318T192000
+DTEND;TZID=America/Los_Angeles:20250318T212000
+DTSTAMP:20250319T031300Z
+UID:ci16639653-tt30988739--2025-3-18-19-20
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn 
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:45\n\nhttps://www.imdb.com/title/tt30988739/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250318T163000
+DTEND;TZID=America/Los_Angeles:20250318T183500
+DTSTAMP:20250319T002300Z
+UID:ci16639653-tt28332337--2025-3-18-16-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 16:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250318T193000
+DTEND;TZID=America/Los_Angeles:20250318T213500
+DTSTAMP:20250319T032300Z
+UID:ci16639653-tt28332337--2025-3-18-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -702,6 +783,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250319T193000
+DTEND;TZID=America/Los_Angeles:20250319T213500
+DTSTAMP:20250320T032300Z
+UID:ci16639653-tt28332337--2025-3-19-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Bag
 DTSTART;TZID=America/Los_Angeles:20250320T164500
 DTEND;TZID=America/Los_Angeles:20250320T184500
@@ -726,6 +821,20 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
  d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eephus
+DTSTART;TZID=America/Los_Angeles:20250320T193000
+DTEND;TZID=America/Los_Angeles:20250320T213500
+DTSTAMP:20250321T032300Z
+UID:ci16639653-tt28332337--2025-3-20-19-30
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
+ l game stretches to extra innings on their beloved field's final day befor
+ e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
+  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt28332337/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

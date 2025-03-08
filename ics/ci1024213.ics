@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250307T124808Z
+LAST-MODIFIED:20250308T100123Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Inland Empire (2006)
-DTSTART;TZID=America/Los_Angeles:20250307T183000
-DTEND;TZID=America/Los_Angeles:20250307T215500
-DTSTAMP:20250308T022300Z
-UID:ci1024213-tt0460829--2025-3-7-18-30
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nAs an actress begins to adopt t
- he persona of her character in a film\, her world becomes nightmarish and 
- surreal.\n\nhttps://www.imdb.com/title/tt0460829/\n\nEstimated start: 18:5
- 5\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt0460829/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf II (1983)
-DTSTART;TZID=America/Los_Angeles:20250307T220000
-DTEND;TZID=America/Los_Angeles:20250307T235500
-DTSTAMP:20250308T055300Z
-UID:ci1024213-tt0088207--2025-3-7-22-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA disgruntled nerd\, who was bul
- lied in high school\, creates Buzz Cola\, a soft drink that turns surfers 
- into mindless zombies.\n\nhttps://www.imdb.com/title/tt0088207/\n\nEstimat
- ed start: 22:25\n\nIMDb rating: 5.3\n\nhttps://www.imdb.com/title/tt008820
- 7/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inland Empire (2006)
 DTSTART;TZID=America/Los_Angeles:20250308T183000
@@ -260,6 +233,20 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA refugee arrives at the home o
  l in different ways.\n\nhttps://www.imdb.com/title/tt30414712/\n\nEstimate
  d start: 19:25\n\nIMDb rating: 4.2\n\nhttps://www.imdb.com/title/tt3041471
  2/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laura
+DTSTART;TZID=America/Los_Angeles:20250323T140000
+DTEND;TZID=America/Los_Angeles:20250323T161000
+DTSTAMP:20250323T215300Z
+UID:ci1024213-tt31031881--2025-3-23-14-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
+ nd beloved friend to many\, struggles as she becomes paralyzed due to a ho
+ rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
+ tt31031881/\n\nEstimated start: 14:25\n\nIMDb rating: 6.5\n\nhttps://www.i
+ mdb.com/title/tt31031881/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
