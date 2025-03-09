@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250308T100123Z
+LAST-MODIFIED:20250309T133452Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Inland Empire (2006)
-DTSTART;TZID=America/Los_Angeles:20250308T183000
-DTEND;TZID=America/Los_Angeles:20250308T215500
-DTSTAMP:20250309T022300Z
-UID:ci1024213-tt0460829--2025-3-8-18-30
-DESCRIPTION:Duration: 3h 00m (180 mins)\n\nAs an actress begins to adopt t
- he persona of her character in a film\, her world becomes nightmarish and 
- surreal.\n\nhttps://www.imdb.com/title/tt0460829/\n\nEstimated start: 18:5
- 5\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt0460829/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf II (1983)
-DTSTART;TZID=America/Los_Angeles:20250308T220000
-DTEND;TZID=America/Los_Angeles:20250308T235500
-DTSTAMP:20250309T055300Z
-UID:ci1024213-tt0088207--2025-3-8-22-0
-DESCRIPTION:Duration: 1h 26m (86 mins)\n\nA disgruntled nerd\, who was bul
- lied in high school\, creates Buzz Cola\, a soft drink that turns surfers 
- into mindless zombies.\n\nhttps://www.imdb.com/title/tt0088207/\n\nEstimat
- ed start: 22:25\n\nIMDb rating: 5.3\n\nhttps://www.imdb.com/title/tt008820
- 7/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swept Away (2002)
 DTSTART;TZID=America/Los_Angeles:20250309T170000
@@ -247,6 +220,33 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
  rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
  tt31031881/\n\nEstimated start: 14:25\n\nIMDb rating: 6.5\n\nhttps://www.i
  mdb.com/title/tt31031881/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laura
+DTSTART;TZID=America/Los_Angeles:20250324T163000
+DTEND;TZID=America/Los_Angeles:20250324T184000
+DTSTAMP:20250325T002300Z
+UID:ci1024213-tt31031881--2025-3-24-16-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
+ nd beloved friend to many\, struggles as she becomes paralyzed due to a ho
+ rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
+ tt31031881/\n\nEstimated start: 16:55\n\nIMDb rating: 6.5\n\nhttps://www.i
+ mdb.com/title/tt31031881/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love & Pop (1998)
+DTSTART;TZID=America/Los_Angeles:20250324T193000
+DTEND;TZID=America/Los_Angeles:20250324T214500
+DTSTAMP:20250325T032300Z
+UID:ci1024213-tt0168972--2025-3-24-19-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA high school girl engages in c
+ ompensated dating in order to buy an expensive ring before the day ends.\n
+ \nhttps://www.imdb.com/title/tt0168972/\n\nEstimated start: 19:55\n\nIMDb 
+ rating: 7.4\n\nhttps://www.imdb.com/title/tt0168972/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
