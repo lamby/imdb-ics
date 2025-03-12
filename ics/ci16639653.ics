@@ -1,65 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250311T100425Z
+LAST-MODIFIED:20250312T090124Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
 BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=America/Los_Angeles:20250311T164500
-DTEND;TZID=America/Los_Angeles:20250311T184500
-DTSTAMP:20250312T003800Z
-UID:ci16639653-tt30953759--2025-3-11-16-45
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
- Israeli collective shows the destruction of the occupied West Bank's Masaf
- er Yatta by Israeli soldiers and the alliance which develops between the P
- alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nEstimated start: 17:10\n\nIMDb rating: 8.3\n\nhtt
- ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Veils (2023)
-DTSTART;TZID=America/Los_Angeles:20250311T163000
-DTEND;TZID=America/Los_Angeles:20250311T184500
-DTSTAMP:20250312T002300Z
-UID:ci16639653-tt26671415--2025-3-11-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn earnest theater director has
-  the task of remounting her former mentor's most famous work\, the opera S
- alome. Some disturbing memories from her past will allow her repressed tra
- uma to color the present.\n\nhttps://www.imdb.com/title/tt26671415/\n\nEst
- imated start: 16:55\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt26
- 671415/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Veils (2023)
-DTSTART;TZID=America/Los_Angeles:20250311T191500
-DTEND;TZID=America/Los_Angeles:20250311T213000
-DTSTAMP:20250312T030800Z
-UID:ci16639653-tt26671415--2025-3-11-19-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn earnest theater director has
-  the task of remounting her former mentor's most famous work\, the opera S
- alome. Some disturbing memories from her past will allow her repressed tra
- uma to color the present.\n\nhttps://www.imdb.com/title/tt26671415/\n\nEst
- imated start: 19:40\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt26
- 671415/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Universal Language
-DTSTART;TZID=America/Los_Angeles:20250311T193000
-DTEND;TZID=America/Los_Angeles:20250311T212500
-DTSTAMP:20250312T032300Z
-UID:ci16639653-tt31691389--2025-3-11-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAn absurdist triptych of seeming
- ly unconnected stories finds a mysterious point of intersection in this ta
- le set somewhere between Winnipeg and Tehran.\n\nhttps://www.imdb.com/titl
- e/tt31691389/\n\nEstimated start: 19:55\n\nIMDb rating: 7.2\n\nhttps://www
- .imdb.com/title/tt31691389/
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250312T161500
+DTEND;TZID=America/Los_Angeles:20250312T190000
+DTSTAMP:20250313T000800Z
+UID:ci16639653-tt14961016--2025-3-12-16-15
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:40\n\nIMD
+ b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -75,21 +30,6 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
  alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
  com/title/tt30953759/\n\nEstimated start: 19:55\n\nIMDb rating: 8.3\n\nhtt
  ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Veils (2023)
-DTSTART;TZID=America/Los_Angeles:20250312T163000
-DTEND;TZID=America/Los_Angeles:20250312T184500
-DTSTAMP:20250313T002300Z
-UID:ci16639653-tt26671415--2025-3-12-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn earnest theater director has
-  the task of remounting her former mentor's most famous work\, the opera S
- alome. Some disturbing memories from her past will allow her repressed tra
- uma to color the present.\n\nhttps://www.imdb.com/title/tt26671415/\n\nEst
- imated start: 16:55\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt26
- 671415/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -137,6 +77,20 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250313T161500
+DTEND;TZID=America/Los_Angeles:20250313T190000
+DTSTAMP:20250314T000800Z
+UID:ci16639653-tt14961016--2025-3-13-16-15
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:40\n\nIMD
+ b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Other Land
 DTSTART;TZID=America/Los_Angeles:20250313T164500
 DTEND;TZID=America/Los_Angeles:20250313T184500
@@ -148,21 +102,6 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
  alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
  com/title/tt30953759/\n\nEstimated start: 17:10\n\nIMDb rating: 8.3\n\nhtt
  ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Veils (2023)
-DTSTART;TZID=America/Los_Angeles:20250313T163000
-DTEND;TZID=America/Los_Angeles:20250313T184500
-DTSTAMP:20250314T002300Z
-UID:ci16639653-tt26671415--2025-3-13-16-30
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn earnest theater director has
-  the task of remounting her former mentor's most famous work\, the opera S
- alome. Some disturbing memories from her past will allow her repressed tra
- uma to color the present.\n\nhttps://www.imdb.com/title/tt26671415/\n\nEst
- imated start: 16:55\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt26
- 671415/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -238,6 +177,21 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250314T170000
+DTEND;TZID=America/Los_Angeles:20250314T190000
+DTSTAMP:20250315T005300Z
+UID:ci16639653-tt30953759--2025-3-14-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 17:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Bag
 DTSTART;TZID=America/Los_Angeles:20250315T143000
 DTEND;TZID=America/Los_Angeles:20250315T163000
@@ -304,6 +258,35 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
  e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
   an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
  t: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250315T134500
+DTEND;TZID=America/Los_Angeles:20250315T163000
+DTSTAMP:20250315T213800Z
+UID:ci16639653-tt14961016--2025-3-15-13-45
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 14:10\n\nIMD
+ b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250315T170000
+DTEND;TZID=America/Los_Angeles:20250315T190000
+DTSTAMP:20250316T005300Z
+UID:ci16639653-tt30953759--2025-3-15-17-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 17:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -378,16 +361,46 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eephus
-DTSTART;TZID=America/Los_Angeles:20250316T193000
-DTEND;TZID=America/Los_Angeles:20250316T213500
-DTSTAMP:20250317T032300Z
-UID:ci16639653-tt28332337--2025-3-16-19-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
- l game stretches to extra innings on their beloved field's final day befor
- e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
-  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
- t: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250316T184500
+DTEND;TZID=America/Los_Angeles:20250316T213000
+DTSTAMP:20250317T023800Z
+UID:ci16639653-tt14961016--2025-3-16-18-45
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:10\n\nIMD
+ b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250316T161500
+DTEND;TZID=America/Los_Angeles:20250316T181500
+DTSTAMP:20250317T000800Z
+UID:ci16639653-tt30953759--2025-3-16-16-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 16:40\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250316T190000
+DTEND;TZID=America/Los_Angeles:20250316T210000
+DTSTAMP:20250317T025300Z
+UID:ci16639653-tt30953759--2025-3-16-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -421,20 +434,6 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eephus
-DTSTART;TZID=America/Los_Angeles:20250317T163000
-DTEND;TZID=America/Los_Angeles:20250317T183500
-DTSTAMP:20250318T002300Z
-UID:ci16639653-tt28332337--2025-3-17-16-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
- l game stretches to extra innings on their beloved field's final day befor
- e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
-  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
- t: 16:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eephus
 DTSTART;TZID=America/Los_Angeles:20250317T193000
 DTEND;TZID=America/Los_Angeles:20250317T213500
 DTSTAMP:20250318T032300Z
@@ -444,6 +443,50 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
  e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
   an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
  t: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250317T160000
+DTEND;TZID=America/Los_Angeles:20250317T184500
+DTSTAMP:20250317T235300Z
+UID:ci16639653-tt14961016--2025-3-17-16-0
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:25\n\nIMD
+ b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250317T161500
+DTEND;TZID=America/Los_Angeles:20250317T181500
+DTSTAMP:20250318T000800Z
+UID:ci16639653-tt30953759--2025-3-17-16-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 16:40\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250317T190000
+DTEND;TZID=America/Los_Angeles:20250317T210000
+DTSTAMP:20250318T025300Z
+UID:ci16639653-tt30953759--2025-3-17-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -463,29 +506,15 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Bag
-DTSTART;TZID=America/Los_Angeles:20250318T192000
-DTEND;TZID=America/Los_Angeles:20250318T212000
-DTSTAMP:20250319T031300Z
-UID:ci16639653-tt30988739--2025-3-18-19-20
+DTSTART;TZID=America/Los_Angeles:20250318T191500
+DTEND;TZID=America/Los_Angeles:20250318T211500
+DTSTAMP:20250319T030800Z
+UID:ci16639653-tt30988739--2025-3-18-19-15
 DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn 
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:45\n\nhttps://www.imdb.com/title/tt30988739/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eephus
-DTSTART;TZID=America/Los_Angeles:20250318T163000
-DTEND;TZID=America/Los_Angeles:20250318T183500
-DTSTAMP:20250319T002300Z
-UID:ci16639653-tt28332337--2025-3-18-16-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
- l game stretches to extra innings on their beloved field's final day befor
- e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
-  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
- t: 16:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
+ d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -500,6 +529,48 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
  e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
   an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
  t: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I'm Still Here
+DTSTART;TZID=America/Los_Angeles:20250318T163000
+DTEND;TZID=America/Los_Angeles:20250318T191500
+DTSTAMP:20250319T002300Z
+UID:ci16639653-tt14961016--2025-3-18-16-30
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:55\n\nIMD
+ b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250318T161500
+DTEND;TZID=America/Los_Angeles:20250318T181500
+DTSTAMP:20250319T000800Z
+UID:ci16639653-tt30953759--2025-3-18-16-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 16:40\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Strawberries (1957)
+DTSTART;TZID=America/Los_Angeles:20250318T193000
+DTEND;TZID=America/Los_Angeles:20250318T213000
+DTSTAMP:20250319T032300Z
+UID:ci16639653-tt0050986--2025-3-18-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter living a life marked by co
+ ldness\, an aging professor is forced to confront the emptiness of his exi
+ stence.\n\nhttps://www.imdb.com/title/tt0050986/\n\nEstimated start: 19:55
+ \n\nIMDb rating: 8.1\n\nhttps://www.imdb.com/title/tt0050986/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -532,16 +603,31 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eephus
+SUMMARY:I'm Still Here
 DTSTART;TZID=America/Los_Angeles:20250319T193000
-DTEND;TZID=America/Los_Angeles:20250319T213500
+DTEND;TZID=America/Los_Angeles:20250319T221500
 DTSTAMP:20250320T032300Z
-UID:ci16639653-tt28332337--2025-3-19-19-30
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
- l game stretches to extra innings on their beloved field's final day befor
- e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
-  an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
- t: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
+UID:ci16639653-tt14961016--2025-3-19-19-30
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
+ herself when her family's life is shattered by an act of arbitrary violenc
+ e during the tightening grip of a military dictatorship in Brazil\, 1971.\
+ n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 19:55\n\nIMD
+ b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250319T161500
+DTEND;TZID=America/Los_Angeles:20250319T181500
+DTSTAMP:20250320T000800Z
+UID:ci16639653-tt30953759--2025-3-19-16-15
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 16:40\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -584,6 +670,35 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nGrown men's recreational basebal
  e demolition. Humor and nostalgia intertwine as daylight fades\, signaling
   an era's end.\n\nhttps://www.imdb.com/title/tt28332337/\n\nEstimated star
  t: 19:55\n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt28332337/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250320T190000
+DTEND;TZID=America/Los_Angeles:20250320T210000
+DTSTAMP:20250321T025300Z
+UID:ci16639653-tt30953759--2025-3-20-19-0
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 19:25\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle\, WA\, 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Mario Bros. (1993)
+DTSTART;TZID=America/Los_Angeles:20250327T193000
+DTEND;TZID=America/Los_Angeles:20250327T214000
+DTSTAMP:20250328T032300Z
+UID:ci16639653-tt0108255--2025-3-27-19-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nTwo Brooklyn plumbers\, Mario a
+ nd Luigi\, must travel to another dimension to rescue a princess from the 
+ evil dictator King Koopa and stop him from taking over the world.\n\nhttps
+ ://www.imdb.com/title/tt0108255/\n\nEstimated start: 19:55\n\nIMDb rating:
+  4.2\n\nhttps://www.imdb.com/title/tt0108255/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

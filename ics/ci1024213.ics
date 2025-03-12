@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250311T100300Z
+LAST-MODIFIED:20250312T085955Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Swept Away (2002)
-DTSTART;TZID=America/Los_Angeles:20250311T193000
-DTEND;TZID=America/Los_Angeles:20250311T212500
-DTSTAMP:20250312T032300Z
-UID:ci1024213-tt0291502--2025-3-11-19-30
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA snooty socialite is stranded o
- n a Mediterranean island with a communist sailor.\n\nhttps://www.imdb.com/
- title/tt0291502/\n\nEstimated start: 19:55\n\nIMDb rating: 3.6\n\nhttps://
- www.imdb.com/title/tt0291502/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Swept Away (2002)
 DTSTART;TZID=America/Los_Angeles:20250312T163000
@@ -249,6 +236,20 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA refugee arrives at the home o
  l in different ways.\n\nhttps://www.imdb.com/title/tt30414712/\n\nEstimate
  d start: 16:55\n\nIMDb rating: 4.2\n\nhttps://www.imdb.com/title/tt3041471
  2/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laura
+DTSTART;TZID=America/Los_Angeles:20250327T160000
+DTEND;TZID=America/Los_Angeles:20250327T181000
+DTSTAMP:20250327T235300Z
+UID:ci1024213-tt31031881--2025-3-27-16-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
+ nd beloved friend to many\, struggles as she becomes paralyzed due to a ho
+ rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
+ tt31031881/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5\n\nhttps://www.i
+ mdb.com/title/tt31031881/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
