@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250312T090300Z
+LAST-MODIFIED:20250313T100821Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Say Anything (1989)
-DTSTART;TZID=America/Los_Angeles:20250312T190000
-DTEND;TZID=America/Los_Angeles:20250312T210500
-DTSTAMP:20250313T025300Z
-UID:ci0015312-tt0098258--2025-3-12-19-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA noble underachiever and a bea
- utiful valedictorian fall in love the summer before she goes off to colleg
- e.\n\nhttps://www.imdb.com/title/tt0098258/\n\nEstimated start: 19:25\n\nI
- MDb rating: 7.3\n\nhttps://www.imdb.com/title/tt0098258/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twin Peaks: Fire Walk with Me (1992)
-DTSTART;TZID=America/Los_Angeles:20250312T160000
-DTEND;TZID=America/Los_Angeles:20250312T184000
-DTSTAMP:20250312T235300Z
-UID:ci0015312-tt0105665--2025-3-12-16-0
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
- days are chronicled one year after the murder of Teresa Banks\, a resident
-  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
- \n\nEstimated start: 16:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
- le/tt0105665/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twin Peaks: Fire Walk with Me (1992)
-DTSTART;TZID=America/Los_Angeles:20250312T213000
-DTEND;TZID=America/Los_Angeles:20250313T001000
-DTSTAMP:20250313T052300Z
-UID:ci0015312-tt0105665--2025-3-12-21-30
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
- days are chronicled one year after the murder of Teresa Banks\, a resident
-  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
- \n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
- le/tt0105665/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Malignant (2021)
 DTSTART;TZID=America/Los_Angeles:20250313T200000

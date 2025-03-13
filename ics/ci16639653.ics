@@ -1,67 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250312T090124Z
+LAST-MODIFIED:20250313T100651Z
 NAME:SIFF Cinema Uptown\, Seattle
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:I'm Still Here
-DTSTART;TZID=America/Los_Angeles:20250312T161500
-DTEND;TZID=America/Los_Angeles:20250312T190000
-DTSTAMP:20250313T000800Z
-UID:ci16639653-tt14961016--2025-3-12-16-15
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA mother is forced to reinvent 
- herself when her family's life is shattered by an act of arbitrary violenc
- e during the tightening grip of a military dictatorship in Brazil\, 1971.\
- n\nhttps://www.imdb.com/title/tt14961016/\n\nEstimated start: 16:40\n\nIMD
- b rating: 8.5\n\nhttps://www.imdb.com/title/tt14961016/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=America/Los_Angeles:20250312T193000
-DTEND;TZID=America/Los_Angeles:20250312T213000
-DTSTAMP:20250313T032300Z
-UID:ci16639653-tt30953759--2025-3-12-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
- Israeli collective shows the destruction of the occupied West Bank's Masaf
- er Yatta by Israeli soldiers and the alliance which develops between the P
- alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nEstimated start: 19:55\n\nIMDb rating: 8.3\n\nhtt
- ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seven Veils (2023)
-DTSTART;TZID=America/Los_Angeles:20250312T191500
-DTEND;TZID=America/Los_Angeles:20250312T213000
-DTSTAMP:20250313T030800Z
-UID:ci16639653-tt26671415--2025-3-12-19-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nAn earnest theater director has
-  the task of remounting her former mentor's most famous work\, the opera S
- alome. Some disturbing memories from her past will allow her repressed tra
- uma to color the present.\n\nhttps://www.imdb.com/title/tt26671415/\n\nEst
- imated start: 19:40\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt26
- 671415/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Universal Language
-DTSTART;TZID=America/Los_Angeles:20250312T164500
-DTEND;TZID=America/Los_Angeles:20250312T184000
-DTSTAMP:20250313T003800Z
-UID:ci16639653-tt31691389--2025-3-12-16-45
-DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAn absurdist triptych of seeming
- ly unconnected stories finds a mysterious point of intersection in this ta
- le set somewhere between Winnipeg and Tehran.\n\nhttps://www.imdb.com/titl
- e/tt31691389/\n\nEstimated start: 17:10\n\nIMDb rating: 7.2\n\nhttps://www
- .imdb.com/title/tt31691389/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle\, WA\, 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Bag
 DTSTART;TZID=America/Los_Angeles:20250313T190000
@@ -72,7 +14,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:25\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:25\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -144,7 +87,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 17:10\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 17:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -158,7 +102,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:40\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -201,7 +146,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 14:55\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 14:55\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -215,7 +161,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 17:10\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 17:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -229,7 +176,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:40\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -300,7 +248,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 14:55\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 14:55\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -314,7 +263,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 17:10\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 17:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -328,7 +278,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:40\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -414,7 +365,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 17:10\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 17:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -428,7 +380,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:40\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -500,7 +453,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 17:10\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 17:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -514,7 +468,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:40\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -584,7 +539,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 17:10\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 17:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -598,7 +554,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:40\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -641,7 +598,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 17:10\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 17:10\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT
@@ -655,7 +613,8 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nWhen intelligence agent Kathryn
  Woodhouse is suspected of betraying the nation\, her husband - also a lege
  ndary agent - faces the ultimate test of whether to be loyal to his marria
  ge\, or his country.\n\nhttps://www.imdb.com/title/tt30988739/\n\nEstimate
- d start: 19:40\n\nhttps://www.imdb.com/title/tt30988739/
+ d start: 19:40\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt3098873
+ 9/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle\, WA\, 98109
 END:VEVENT

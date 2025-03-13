@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250312T090204Z
+LAST-MODIFIED:20250313T100728Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250312T163000
-DTEND;TZID=America/Los_Angeles:20250312T191500
-DTSTAMP:20250313T002300Z
-UID:ci5397678-tt12299608--2025-3-12-16-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 16:55\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250312T200000
-DTEND;TZID=America/Los_Angeles:20250312T224500
-DTSTAMP:20250313T035300Z
-UID:ci5397678-tt12299608--2025-3-12-20-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 20:25\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mickey 17
 DTSTART;TZID=America/Los_Angeles:20250313T154500
