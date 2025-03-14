@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250313T100728Z
+LAST-MODIFIED:20250314T091004Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250313T154500
-DTEND;TZID=America/Los_Angeles:20250313T183000
-DTSTAMP:20250313T233800Z
-UID:ci5397678-tt12299608--2025-3-13-15-45
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 16:10\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250313T193000
-DTEND;TZID=America/Los_Angeles:20250313T221500
-DTSTAMP:20250314T032300Z
-UID:ci5397678-tt12299608--2025-3-13-19-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:55\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mickey 17
 DTSTART;TZID=America/Los_Angeles:20250314T154500
@@ -430,6 +404,48 @@ DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
  expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
  \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:55\n\nIM
  Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji (1995)
+DTSTART;TZID=America/Los_Angeles:20250329T123000
+DTEND;TZID=America/Los_Angeles:20250329T144000
+DTSTAMP:20250329T202300Z
+UID:ci5397678-tt0113497--2025-3-29-12-30
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nWhen two kids find and play a m
+ agical board game\, they release a man trapped in it for decades - and a h
+ ost of dangers that can only be stopped by finishing the game.\n\nhttps://
+ www.imdb.com/title/tt0113497/\n\nEstimated start: 12:55\n\nIMDb rating: 7.
+ 1\n\nhttps://www.imdb.com/title/tt0113497/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RRR (2022)
+DTSTART;TZID=America/Los_Angeles:20250329T153000
+DTEND;TZID=America/Los_Angeles:20250329T190500
+DTSTAMP:20250329T232300Z
+UID:ci5397678-tt8178634--2025-3-29-15-30
+DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
+ s mission comes face to face with a steely cop serving British forces in t
+ his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
+ tt8178634/\n\nEstimated start: 15:55\n\nIMDb rating: 7.8\n\nhttps://www.im
+ db.com/title/tt8178634/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RRR (2022)
+DTSTART;TZID=America/Los_Angeles:20250329T193000
+DTEND;TZID=America/Los_Angeles:20250329T230500
+DTSTAMP:20250330T032300Z
+UID:ci5397678-tt8178634--2025-3-29-19-30
+DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
+ s mission comes face to face with a steely cop serving British forces in t
+ his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
+ tt8178634/\n\nEstimated start: 19:55\n\nIMDb rating: 7.8\n\nhttps://www.im
+ db.com/title/tt8178634/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
