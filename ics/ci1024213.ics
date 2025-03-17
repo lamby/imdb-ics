@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250316T093557Z
+LAST-MODIFIED:20250317T102513Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
 BEGIN:VEVENT
@@ -69,7 +69,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA refugee arrives at the home o
  f an upper-class family in London and seduces each member of the family. W
  hen he suddenly is gone\, he leaves behind a void that the rest try to fil
  l in different ways.\n\nhttps://www.imdb.com/title/tt30414712/\n\nEstimate
- d start: 19:25\n\nIMDb rating: 4.2\n\nhttps://www.imdb.com/title/tt3041471
+ d start: 19:25\n\nIMDb rating: 4.3\n\nhttps://www.imdb.com/title/tt3041471
  2/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
@@ -138,7 +138,7 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA refugee arrives at the home o
  f an upper-class family in London and seduces each member of the family. W
  hen he suddenly is gone\, he leaves behind a void that the rest try to fil
  l in different ways.\n\nhttps://www.imdb.com/title/tt30414712/\n\nEstimate
- d start: 16:55\n\nIMDb rating: 4.2\n\nhttps://www.imdb.com/title/tt3041471
+ d start: 16:55\n\nIMDb rating: 4.3\n\nhttps://www.imdb.com/title/tt3041471
  2/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
@@ -154,6 +154,20 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
  rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
  tt31031881/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5\n\nhttps://www.i
  mdb.com/title/tt31031881/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smooth Talk (1985)
+DTSTART;TZID=America/Los_Angeles:20250401T193000
+DTEND;TZID=America/Los_Angeles:20250401T213000
+DTSTAMP:20250402T032300Z
+UID:ci1024213-tt0090037--2025-4-1-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA free-spirited 15-year-old girl
+  flirts with a dangerous stranger in the Northern California suburbs and m
+ ust prepare herself for the frightening and traumatic consequences.\n\nhtt
+ ps://www.imdb.com/title/tt0090037/\n\nEstimated start: 19:55\n\nIMDb ratin
+ g: 6.5\n\nhttps://www.imdb.com/title/tt0090037/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT

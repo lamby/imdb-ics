@@ -1,48 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250316T093805Z
+LAST-MODIFIED:20250317T102734Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250316T120000
-DTEND;TZID=America/Los_Angeles:20250316T144500
-DTSTAMP:20250316T195300Z
-UID:ci5397678-tt12299608--2025-3-16-12-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 12:25\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250316T154500
-DTEND;TZID=America/Los_Angeles:20250316T183000
-DTSTAMP:20250316T233800Z
-UID:ci5397678-tt12299608--2025-3-16-15-45
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 16:10\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250316T193000
-DTEND;TZID=America/Los_Angeles:20250316T221500
-DTSTAMP:20250317T032300Z
-UID:ci5397678-tt12299608--2025-3-16-19-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:55\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mickey 17
 DTSTART;TZID=America/Los_Angeles:20250317T154500
@@ -418,6 +379,20 @@ DTSTART;TZID=America/Los_Angeles:20250331T183000
 DTEND;TZID=America/Los_Angeles:20250331T220500
 DTSTAMP:20250401T022300Z
 UID:ci5397678-tt8178634--2025-3-31-18-30
+DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
+ s mission comes face to face with a steely cop serving British forces in t
+ his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
+ tt8178634/\n\nEstimated start: 18:55\n\nIMDb rating: 7.8\n\nhttps://www.im
+ db.com/title/tt8178634/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RRR (2022)
+DTSTART;TZID=America/Los_Angeles:20250401T183000
+DTEND;TZID=America/Los_Angeles:20250401T220500
+DTSTAMP:20250402T022300Z
+UID:ci5397678-tt8178634--2025-4-1-18-30
 DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
  s mission comes face to face with a steely cop serving British forces in t
  his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250316T093509Z
+LAST-MODIFIED:20250317T102422Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -53,6 +53,20 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter years of living alone\, a
  n eccentric black and white couple find real companionship and romance.\n\
  nhttps://www.imdb.com/title/tt0212772/\n\nEstimated start: 19:25\n\nIMDb r
  ating: 7.1\n\nhttps://www.imdb.com/title/tt0212772/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Female Perversions (1996)
+DTSTART;TZID=America/Los_Angeles:20250401T190000
+DTEND;TZID=America/Los_Angeles:20250401T212500
+DTSTAMP:20250402T025300Z
+UID:ci0005472-tt0116293--2025-4-1-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nAn ambitious female attorney wa
+ llows in excess and meaningless sex with both male and female partners\, w
+ hile dealing with her personal life problems including helping her kleptom
+ aniac sister.\n\nhttps://www.imdb.com/title/tt0116293/\n\nEstimated start:
+  19:25\n\nIMDb rating: 5.3\n\nhttps://www.imdb.com/title/tt0116293/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
