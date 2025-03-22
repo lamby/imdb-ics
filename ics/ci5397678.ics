@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250321T084851Z
+LAST-MODIFIED:20250322T094538Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250321T154500
-DTEND;TZID=America/Los_Angeles:20250321T183000
-DTSTAMP:20250321T233800Z
-UID:ci5397678-tt12299608--2025-3-21-15-45
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 16:10\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=America/Los_Angeles:20250321T193000
-DTEND;TZID=America/Los_Angeles:20250321T221500
-DTSTAMP:20250322T032300Z
-UID:ci5397678-tt12299608--2025-3-21-19-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nMickey 17\, known as an &quot\;
- expendable\,&quot\; goes on a dangerous journey to colonize an ice planet.
- \n\nhttps://www.imdb.com/title/tt12299608/\n\nEstimated start: 19:55\n\nIM
- Db rating: 7.1\n\nhttps://www.imdb.com/title/tt12299608/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mickey 17
 DTSTART;TZID=America/Los_Angeles:20250322T120000
@@ -335,6 +309,32 @@ DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
  his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
  tt8178634/\n\nEstimated start: 18:55\n\nIMDb rating: 7.8\n\nhttps://www.im
  db.com/title/tt8178634/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesus Christ Superstar (1973)
+DTSTART;TZID=America/Los_Angeles:20250406T190000
+DTEND;TZID=America/Los_Angeles:20250406T211500
+DTSTAMP:20250407T025300Z
+UID:ci5397678-tt0070239--2025-4-6-19-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nFilm version of the musical sta
+ ge play\, presenting the last few weeks of Christ's life told in an anachr
+ onistic manner.\n\nhttps://www.imdb.com/title/tt0070239/\n\nEstimated star
+ t: 19:25\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt0070239/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Prince of Egypt (1998)
+DTSTART;TZID=America/Los_Angeles:20250406T160000
+DTEND;TZID=America/Los_Angeles:20250406T180500
+DTSTAMP:20250406T235300Z
+UID:ci5397678-tt0120794--2025-4-6-16-0
+DESCRIPTION:Duration: 1h 39m (99 mins)\n\nEgyptian Prince Moses learns of 
+ his identity as a Hebrew and his destiny to become the chosen deliverer of
+  his people.\n\nhttps://www.imdb.com/title/tt0120794/\n\nEstimated start: 
+ 16:25\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/tt0120794/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT
