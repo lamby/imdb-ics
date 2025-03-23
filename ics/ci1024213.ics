@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250322T094347Z
+LAST-MODIFIED:20250323T092638Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Love & Pop (1998)
-DTSTART;TZID=America/Los_Angeles:20250322T220000
-DTEND;TZID=America/Los_Angeles:20250323T001500
-DTSTAMP:20250323T055300Z
-UID:ci1024213-tt0168972--2025-3-22-22-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA high school girl engages in c
- ompensated dating in order to buy an expensive ring before the day ends.\n
- \nhttps://www.imdb.com/title/tt0168972/\n\nEstimated start: 22:25\n\nIMDb 
- rating: 7.4\n\nhttps://www.imdb.com/title/tt0168972/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Visitor
-DTSTART;TZID=America/Los_Angeles:20250322T190000
-DTEND;TZID=America/Los_Angeles:20250322T211000
-DTSTAMP:20250323T025300Z
-UID:ci1024213-tt30414712--2025-3-22-19-0
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA refugee arrives at the home o
- f an upper-class family in London and seduces each member of the family. W
- hen he suddenly is gone\, he leaves behind a void that the rest try to fil
- l in different ways.\n\nhttps://www.imdb.com/title/tt30414712/\n\nEstimate
- d start: 19:25\n\nIMDb rating: 4.3\n\nhttps://www.imdb.com/title/tt3041471
- 2/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laura
 DTSTART;TZID=America/Los_Angeles:20250323T140000
@@ -168,6 +140,35 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA young girl witnesses the bruta
  mares when the carnival comes back to town when she is an adult.\n\nhttps:
  //www.imdb.com/title/tt0120627/\n\nEstimated start: 14:25\n\nIMDb rating: 
  3.2\n\nhttps://www.imdb.com/title/tt0120627/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnival of Souls (1998)
+DTSTART;TZID=America/Los_Angeles:20250407T163000
+DTEND;TZID=America/Los_Angeles:20250407T182500
+DTSTAMP:20250408T002300Z
+UID:ci1024213-tt0120627--2025-4-7-16-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA young girl witnesses the bruta
+ l rape and murder of her mother by a circus clown and begins to have night
+ mares when the carnival comes back to town when she is an adult.\n\nhttps:
+ //www.imdb.com/title/tt0120627/\n\nEstimated start: 16:55\n\nIMDb rating: 
+ 3.2\n\nhttps://www.imdb.com/title/tt0120627/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Woman (2011)
+DTSTART;TZID=America/Los_Angeles:20250407T193000
+DTEND;TZID=America/Los_Angeles:20250407T214000
+DTSTAMP:20250408T032300Z
+UID:ci1024213-tt1714208--2025-4-7-19-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nWhen a successful country lawye
+ r captures and attempts to &quot\;civilize&quot\; the last remaining membe
+ r of a violent clan that has roamed the Northeast coast for decades\, he p
+ uts the lives of his family in jeopardy.\n\nhttps://www.imdb.com/title/tt1
+ 714208/\n\nEstimated start: 19:55\n\nIMDb rating: 6\n\nhttps://www.imdb.co
+ m/title/tt1714208/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
