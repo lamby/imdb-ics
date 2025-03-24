@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250323T092937Z
+LAST-MODIFIED:20250324T092524Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Ring (2002)
-DTSTART;TZID=America/Los_Angeles:20250323T160000
-DTEND;TZID=America/Los_Angeles:20250323T182000
-DTSTAMP:20250323T235300Z
-UID:ci0015312-tt0298130--2025-3-23-16-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA journalist must investigate a
-  mysterious videotape which seems to cause the death of anyone one week to
-  the day after they view it.\n\nhttps://www.imdb.com/title/tt0298130/\n\nE
- stimated start: 16:25\n\nIMDb rating: 7.1\n\nhttps://www.imdb.com/title/tt
- 0298130/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ring (2002)
 DTSTART;TZID=America/Los_Angeles:20250324T160000

@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250323T092638Z
+LAST-MODIFIED:20250324T092230Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Laura
-DTSTART;TZID=America/Los_Angeles:20250323T140000
-DTEND;TZID=America/Los_Angeles:20250323T161000
-DTSTAMP:20250323T215300Z
-UID:ci1024213-tt31031881--2025-3-23-14-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
- nd beloved friend to many\, struggles as she becomes paralyzed due to a ho
- rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
- tt31031881/\n\nEstimated start: 14:25\n\nIMDb rating: 6.5\n\nhttps://www.i
- mdb.com/title/tt31031881/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laura
 DTSTART;TZID=America/Los_Angeles:20250324T163000
