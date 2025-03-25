@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250324T092230Z
+LAST-MODIFIED:20250325T085521Z
 NAME:The Beacon\, Seattle
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Laura
-DTSTART;TZID=America/Los_Angeles:20250324T163000
-DTEND;TZID=America/Los_Angeles:20250324T184000
-DTSTAMP:20250325T002300Z
-UID:ci1024213-tt31031881--2025-3-24-16-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
- nd beloved friend to many\, struggles as she becomes paralyzed due to a ho
- rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
- tt31031881/\n\nEstimated start: 16:55\n\nIMDb rating: 6.5\n\nhttps://www.i
- mdb.com/title/tt31031881/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Love & Pop (1998)
-DTSTART;TZID=America/Los_Angeles:20250324T193000
-DTEND;TZID=America/Los_Angeles:20250324T214500
-DTSTAMP:20250325T032300Z
-UID:ci1024213-tt0168972--2025-3-24-19-30
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nA high school girl engages in c
- ompensated dating in order to buy an expensive ring before the day ends.\n
- \nhttps://www.imdb.com/title/tt0168972/\n\nEstimated start: 19:55\n\nIMDb 
- rating: 7.4\n\nhttps://www.imdb.com/title/tt0168972/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
- 118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love & Pop (1998)
 DTSTART;TZID=America/Los_Angeles:20250325T163000
@@ -70,6 +43,21 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nLaura\, a talented influencer a
  rrific accident caused by her lover\, Jojo.\n\nhttps://www.imdb.com/title/
  tt31031881/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5\n\nhttps://www.i
  mdb.com/title/tt31031881/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Revolution Selfie\; the Red Battalion (2017)
+DTSTART;TZID=America/Los_Angeles:20250329T130000
+DTEND;TZID=America/Los_Angeles:20250329T152500
+DTSTAMP:20250329T205300Z
+UID:ci1024213-tt7391456--2025-3-29-13-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nIn this mock video game\, we pl
+ ay the filmmaker\, as he brings us face to face with the armed warriors of
+  the New People's Army\, which the CIA dubs a foreign terrorist organizati
+ on in the Philippines.\n\nhttps://www.imdb.com/title/tt7391456/\n\nEstimat
+ ed start: 13:25\n\nIMDb rating: 8.8\n\nhttps://www.imdb.com/title/tt739145
+ 6/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
@@ -155,6 +143,35 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\n\nWhen a successful country lawye
  uts the lives of his family in jeopardy.\n\nhttps://www.imdb.com/title/tt1
  714208/\n\nEstimated start: 19:55\n\nIMDb rating: 6\n\nhttps://www.imdb.co
  m/title/tt1714208/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Woman (2011)
+DTSTART;TZID=America/Los_Angeles:20250409T193000
+DTEND;TZID=America/Los_Angeles:20250409T214000
+DTSTAMP:20250410T032300Z
+UID:ci1024213-tt1714208--2025-4-9-19-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nWhen a successful country lawye
+ r captures and attempts to &quot\;civilize&quot\; the last remaining membe
+ r of a violent clan that has roamed the Northeast coast for decades\, he p
+ uts the lives of his family in jeopardy.\n\nhttps://www.imdb.com/title/tt1
+ 714208/\n\nEstimated start: 19:55\n\nIMDb rating: 6\n\nhttps://www.imdb.co
+ m/title/tt1714208/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
+ 118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women (2021)
+DTSTART;TZID=America/Los_Angeles:20250409T163000
+DTEND;TZID=America/Los_Angeles:20250409T183000
+DTSTAMP:20250410T002300Z
+UID:ci1024213-tt4600982--2025-4-9-16-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA small town detective investiga
+ tes into a Sociology professor when a mutilated body is found and women ha
+ ve gone missing from his class.\n\nhttps://www.imdb.com/title/tt4600982/\n
+ \nEstimated start: 16:55\n\nIMDb rating: 4.3\n\nhttps://www.imdb.com/title
+ /tt4600982/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle\, WA\, 98
  118
 END:VEVENT
