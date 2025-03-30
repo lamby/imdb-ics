@@ -1,51 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250329T083226Z
+LAST-MODIFIED:20250330T091850Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Jumanji (1995)
-DTSTART;TZID=America/Los_Angeles:20250329T123000
-DTEND;TZID=America/Los_Angeles:20250329T144000
-DTSTAMP:20250329T202300Z
-UID:ci5397678-tt0113497--2025-3-29-12-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nWhen two kids find and play a m
- agical board game\, they release a man trapped in it for decades - and a h
- ost of dangers that can only be stopped by finishing the game.\n\nhttps://
- www.imdb.com/title/tt0113497/\n\nEstimated start: 12:55\n\nIMDb rating: 7.
- 1\n\nhttps://www.imdb.com/title/tt0113497/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RRR (2022)
-DTSTART;TZID=America/Los_Angeles:20250329T153000
-DTEND;TZID=America/Los_Angeles:20250329T190500
-DTSTAMP:20250329T232300Z
-UID:ci5397678-tt8178634--2025-3-29-15-30
-DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
- s mission comes face to face with a steely cop serving British forces in t
- his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
- tt8178634/\n\nEstimated start: 15:55\n\nIMDb rating: 7.8\n\nhttps://www.im
- db.com/title/tt8178634/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RRR (2022)
-DTSTART;TZID=America/Los_Angeles:20250329T193000
-DTEND;TZID=America/Los_Angeles:20250329T230500
-DTSTAMP:20250330T032300Z
-UID:ci5397678-tt8178634--2025-3-29-19-30
-DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
- s mission comes face to face with a steely cop serving British forces in t
- his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
- tt8178634/\n\nEstimated start: 19:55\n\nIMDb rating: 7.8\n\nhttps://www.im
- db.com/title/tt8178634/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RRR (2022)
 DTSTART;TZID=America/Los_Angeles:20250330T140000
@@ -365,6 +323,32 @@ DESCRIPTION:Duration: 2h 05m (125 mins)\n\nYoung lovers Sailor and Lula ru
  n from the variety of weirdos that Lula's mom has hired to kill Sailor.\n\
  nhttps://www.imdb.com/title/tt0100935/\n\nEstimated start: 16:25\n\nIMDb r
  ating: 7.2\n\nhttps://www.imdb.com/title/tt0100935/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cabinet of Dr. Caligari (1920)
+DTSTART;TZID=America/Los_Angeles:20250414T180000
+DTEND;TZID=America/Los_Angeles:20250414T193500
+DTSTAMP:20250415T015300Z
+UID:ci5397678-tt0010323--2025-4-14-18-0
+DESCRIPTION:Duration: 1h 07m (67 mins)\n\nHypnotist Dr. Caligari uses a so
+ mnambulist\, Cesare\, to commit murders.\n\nhttps://www.imdb.com/title/tt0
+ 010323/\n\nEstimated start: 18:25\n\nIMDb rating: 8\n\nhttps://www.imdb.co
+ m/title/tt0010323/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Phantom of the Opera (1925)
+DTSTART;TZID=America/Los_Angeles:20250414T200000
+DTEND;TZID=America/Los_Angeles:20250414T221000
+DTSTAMP:20250415T035300Z
+UID:ci5397678-tt0016220--2025-4-14-20-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA mad\, disfigured composer see
+ ks love with a lovely young opera singer.\n\nhttps://www.imdb.com/title/tt
+ 0016220/\n\nEstimated start: 20:25\n\nIMDb rating: 7.5\n\nhttps://www.imdb
+ .com/title/tt0016220/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

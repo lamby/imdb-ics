@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250329T083215Z
+LAST-MODIFIED:20250330T091842Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
 BEGIN:VEVENT
@@ -66,6 +66,20 @@ DTSTART;TZID=America/Los_Angeles:20250413T190000
 DTEND;TZID=America/Los_Angeles:20250413T211000
 DTSTAMP:20250414T025300Z
 UID:ci16639652-tt29482291--2025-4-13-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nMichelle\, a retiree in Burgund
+ y\, expects her grandson Lucas but a mistake ruins her plans. Her friend M
+ arie-Claude's son is released from prison\, reviving Michelle's purpose.\n
+ \nhttps://www.imdb.com/title/tt29482291/\n\nEstimated start: 19:25\n\nIMDb
+  rating: 6.8\n\nhttps://www.imdb.com/title/tt29482291/
+LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
+  98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Fall Is Coming
+DTSTART;TZID=America/Los_Angeles:20250414T190000
+DTEND;TZID=America/Los_Angeles:20250414T211000
+DTSTAMP:20250415T025300Z
+UID:ci16639652-tt29482291--2025-4-14-19-0
 DESCRIPTION:Duration: 1h 44m (104 mins)\n\nMichelle\, a retiree in Burgund
  y\, expects her grandson Lucas but a mistake ruins her plans. Her friend M
  arie-Claude's son is released from prison\, reviving Michelle's purpose.\n
