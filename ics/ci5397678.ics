@@ -1,37 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250330T091850Z
+LAST-MODIFIED:20250331T073430Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:RRR (2022)
-DTSTART;TZID=America/Los_Angeles:20250330T140000
-DTEND;TZID=America/Los_Angeles:20250330T173500
-DTSTAMP:20250330T215300Z
-UID:ci5397678-tt8178634--2025-3-30-14-0
-DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
- s mission comes face to face with a steely cop serving British forces in t
- his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
- tt8178634/\n\nEstimated start: 14:25\n\nIMDb rating: 7.8\n\nhttps://www.im
- db.com/title/tt8178634/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RRR (2022)
-DTSTART;TZID=America/Los_Angeles:20250330T183000
-DTEND;TZID=America/Los_Angeles:20250330T220500
-DTSTAMP:20250331T022300Z
-UID:ci5397678-tt8178634--2025-3-30-18-30
-DESCRIPTION:Duration: 3h 07m (187 mins)\n\nA fearless warrior on a perilou
- s mission comes face to face with a steely cop serving British forces in t
- his epic saga set in pre-independent India.\n\nhttps://www.imdb.com/title/
- tt8178634/\n\nEstimated start: 18:55\n\nIMDb rating: 7.8\n\nhttps://www.im
- db.com/title/tt8178634/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RRR (2022)
 DTSTART;TZID=America/Los_Angeles:20250331T183000
@@ -349,6 +321,33 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\n\nA mad\, disfigured composer see
  ks love with a lovely young opera singer.\n\nhttps://www.imdb.com/title/tt
  0016220/\n\nEstimated start: 20:25\n\nIMDb rating: 7.5\n\nhttps://www.imdb
  .com/title/tt0016220/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune (1984)
+DTSTART;TZID=America/Los_Angeles:20250415T154500
+DTEND;TZID=America/Los_Angeles:20250415T183000
+DTSTAMP:20250415T233800Z
+UID:ci5397678-tt0087182--2025-4-15-15-45
+DESCRIPTION:Duration: 2h 17m (137 mins)\n\nA Duke's son leads desert warri
+ ors against the galactic emperor and his father's evil nemesis to free the
+ ir desert world from the emperor's rule.\n\nhttps://www.imdb.com/title/tt0
+ 087182/\n\nEstimated start: 16:10\n\nIMDb rating: 6.3\n\nhttps://www.imdb.
+ com/title/tt0087182/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild at Heart (1990)
+DTSTART;TZID=America/Los_Angeles:20250415T193000
+DTEND;TZID=America/Los_Angeles:20250415T220000
+DTSTAMP:20250416T032300Z
+UID:ci5397678-tt0100935--2025-4-15-19-30
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nYoung lovers Sailor and Lula ru
+ n from the variety of weirdos that Lula's mom has hired to kill Sailor.\n\
+ nhttps://www.imdb.com/title/tt0100935/\n\nEstimated start: 19:55\n\nIMDb r
+ ating: 7.2\n\nhttps://www.imdb.com/title/tt0100935/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
   98121
 END:VEVENT

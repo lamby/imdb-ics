@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250330T091633Z
+LAST-MODIFIED:20250331T073207Z
 NAME:Grand Illusion Cinema\, Seattle
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
 BEGIN:VEVENT
@@ -13,7 +13,7 @@ UID:ci0005472-tt0212772--2025-3-31-19-0
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter years of living alone\, a
  n eccentric black and white couple find real companionship and romance.\n\
  nhttps://www.imdb.com/title/tt0212772/\n\nEstimated start: 19:25\n\nIMDb r
- ating: 7.2\n\nhttps://www.imdb.com/title/tt0212772/
+ ating: 7.1\n\nhttps://www.imdb.com/title/tt0212772/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -40,7 +40,7 @@ UID:ci0005472-tt0212772--2025-4-7-19-0
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter years of living alone\, a
  n eccentric black and white couple find real companionship and romance.\n\
  nhttps://www.imdb.com/title/tt0212772/\n\nEstimated start: 19:25\n\nIMDb r
- ating: 7.2\n\nhttps://www.imdb.com/title/tt0212772/
+ ating: 7.1\n\nhttps://www.imdb.com/title/tt0212772/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
@@ -53,7 +53,22 @@ UID:ci0005472-tt0212772--2025-4-8-19-0
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nAfter years of living alone\, a
  n eccentric black and white couple find real companionship and romance.\n\
  nhttps://www.imdb.com/title/tt0212772/\n\nEstimated start: 19:25\n\nIMDb r
- ating: 7.2\n\nhttps://www.imdb.com/title/tt0212772/
+ ating: 7.1\n\nhttps://www.imdb.com/title/tt0212772/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
+ , 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night Moves (1975)
+DTSTART;TZID=America/Los_Angeles:20250415T190000
+DTEND;TZID=America/Los_Angeles:20250415T210500
+DTSTAMP:20250416T025300Z
+UID:ci0005472-tt0073453--2025-4-15-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nLos Angeles private investigato
+ r Harry Moseby is hired by a client to find her runaway teenage daughter. 
+ Moseby tracks the daughter down\, only to stumble upon something much more
+  intriguing and sinister.\n\nhttps://www.imdb.com/title/tt0073453/\n\nEsti
+ mated start: 19:25\n\nIMDb rating: 7.1\n\nhttps://www.imdb.com/title/tt007
+ 3453/
 LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle\, WA\
  , 98105
 END:VEVENT
