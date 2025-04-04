@@ -38,29 +38,9 @@ class ImdbICS:
 
     VENUES = [
         {
-            "name": "Vue Cambridge",
-            "id": "ci0960123",
-            "timezone": "Europe/London",
-        },
-        {
-            "name": "Arts Picturehouse, Cambridge",
-            "id": "ci0959484",
-            "timezone": "Europe/London",
-        },
-        {
-            "name": "Everyman Cambridge, Cambridge",
-            "id": "ci1040905",
-            "timezone": "Europe/London",
-        },
-        {
             "name": "Grand Illusion Cinema, Seattle",
             "id": "ci0005472",
             "timezone": "America/Los_Angeles",
-        },
-        {
-            "name": "The Light Cinema, Cambridge",
-            "id": "ci0959521",
-            "timezone": "Europe/London",
         },
         {
             "name": "The Beacon, Seattle",
