@@ -38,6 +38,14 @@ class ImdbICS:
 
     VENUES = [
         {
+            "name": "Regal Bella Bottega, Redmond",
+            "id": "ci0001864",
+            "timezone": "America/Los_Angeles",
+        },
+    ]
+
+    OTHER = [
+        {
             "name": "Grand Illusion Cinema, Seattle",
             "id": "ci0005472",
             "timezone": "America/Los_Angeles",
@@ -45,11 +53,6 @@ class ImdbICS:
         {
             "name": "The Beacon, Seattle",
             "id": "ci1024213",
-            "timezone": "America/Los_Angeles",
-        },
-        {
-            "name": "Regal Bella Bottega, Redmond",
-            "id": "ci0001864",
             "timezone": "America/Los_Angeles",
         },
         {
