@@ -42,9 +42,6 @@ class ImdbICS:
             "id": "ci0001864",
             "timezone": "America/Los_Angeles",
         },
-    ]
-
-    OTHER = [
         {
             "name": "Grand Illusion Cinema, Seattle",
             "id": "ci0005472",
