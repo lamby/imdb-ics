@@ -231,6 +231,7 @@ class ImdbICS:
                 )
             )
 
+
             num_events_date = 0
             for elem in soup.select(".list.detail .list_item"):
                 title = self.text(elem, ".info h3")
