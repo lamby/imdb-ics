@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250407T145702Z
+LAST-MODIFIED:20250408T144304Z
 NAME:SIFF Film Center\, Seattle
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:National Theatre Live: Dr. Strangelove
-DTSTART;TZID=America/Los_Angeles:20250407T190000
-DTEND;TZID=America/Los_Angeles:20250407T215500
-DTSTAMP:20250408T025300Z
-UID:ci16639652-tt35396958--2025-4-7-19-0
-DESCRIPTION:Duration: 2h 30m (150 mins)\n\nSteve Coogan plays four roles i
- n the world premiere stage adaptation of Stanley Kubrick's comedy masterpi
- ece Dr. Strangelove. The explosively funny satire about a rogue U.S. Gener
- al who triggers a nuclear attack.\n\nhttps://www.imdb.com/title/tt35396958
- /\n\nEstimated start: 19:25\n\nIMDb rating: 7.6\n\nhttps://www.imdb.com/ti
- tle/tt35396958/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle\, WA\,
-  98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hit the Road (2021)
 DTSTART;TZID=America/Los_Angeles:20250410T190000

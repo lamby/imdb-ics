@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250407T145716Z
+LAST-MODIFIED:20250408T144317Z
 NAME:SIFF Cinema Downtown\, Seattle
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Jesus Christ Superstar (1973)
-DTSTART;TZID=America/Los_Angeles:20250407T160000
-DTEND;TZID=America/Los_Angeles:20250407T181500
-DTSTAMP:20250407T235300Z
-UID:ci5397678-tt0070239--2025-4-7-16-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nFilm version of the musical sta
- ge play\, presenting the last few weeks of Christ's life told in an anachr
- onistic manner.\n\nhttps://www.imdb.com/title/tt0070239/\n\nEstimated star
- t: 16:25\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/title/tt0070239/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Prince of Egypt (1998)
-DTSTART;TZID=America/Los_Angeles:20250407T190000
-DTEND;TZID=America/Los_Angeles:20250407T210500
-DTSTAMP:20250408T025300Z
-UID:ci5397678-tt0120794--2025-4-7-19-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nEgyptian Prince Moses learns of 
- his identity as a Hebrew and his destiny to become the chosen deliverer of
-  his people.\n\nhttps://www.imdb.com/title/tt0120794/\n\nEstimated start: 
- 19:25\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/tt0120794/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
-  98121
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jesus Christ Superstar (1973)
 DTSTART;TZID=America/Los_Angeles:20250408T190000
@@ -299,10 +273,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250417T160000
-DTEND;TZID=America/Los_Angeles:20250417T184000
+DTEND;TZID=America/Los_Angeles:20250417T184500
 DTSTAMP:20250417T235300Z
 UID:ci5397678-tt31193180--2025-4-17-16-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nhttp
@@ -313,10 +287,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250417T194500
-DTEND;TZID=America/Los_Angeles:20250417T222500
+DTEND;TZID=America/Los_Angeles:20250417T223000
 DTSTAMP:20250418T033800Z
 UID:ci5397678-tt31193180--2025-4-17-19-45
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 20:10\n\nhttp
@@ -327,10 +301,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250418T121500
-DTEND;TZID=America/Los_Angeles:20250418T145500
+DTEND;TZID=America/Los_Angeles:20250418T150000
 DTSTAMP:20250418T200800Z
 UID:ci5397678-tt31193180--2025-4-18-12-15
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 12:40\n\nhttp
@@ -341,10 +315,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250418T160000
-DTEND;TZID=America/Los_Angeles:20250418T184000
+DTEND;TZID=America/Los_Angeles:20250418T184500
 DTSTAMP:20250418T235300Z
 UID:ci5397678-tt31193180--2025-4-18-16-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nhttp
@@ -355,10 +329,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250418T194500
-DTEND;TZID=America/Los_Angeles:20250418T222500
+DTEND;TZID=America/Los_Angeles:20250418T223000
 DTSTAMP:20250419T033800Z
 UID:ci5397678-tt31193180--2025-4-18-19-45
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 20:10\n\nhttp
@@ -369,10 +343,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250419T121500
-DTEND;TZID=America/Los_Angeles:20250419T145500
+DTEND;TZID=America/Los_Angeles:20250419T150000
 DTSTAMP:20250419T200800Z
 UID:ci5397678-tt31193180--2025-4-19-12-15
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 12:40\n\nhttp
@@ -383,10 +357,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250419T160000
-DTEND;TZID=America/Los_Angeles:20250419T184000
+DTEND;TZID=America/Los_Angeles:20250419T184500
 DTSTAMP:20250419T235300Z
 UID:ci5397678-tt31193180--2025-4-19-16-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nhttp
@@ -397,10 +371,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250419T194500
-DTEND;TZID=America/Los_Angeles:20250419T222500
+DTEND;TZID=America/Los_Angeles:20250419T223000
 DTSTAMP:20250420T033800Z
 UID:ci5397678-tt31193180--2025-4-19-19-45
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 20:10\n\nhttp
@@ -411,10 +385,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250420T121500
-DTEND;TZID=America/Los_Angeles:20250420T145500
+DTEND;TZID=America/Los_Angeles:20250420T150000
 DTSTAMP:20250420T200800Z
 UID:ci5397678-tt31193180--2025-4-20-12-15
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 12:40\n\nhttp
@@ -425,10 +399,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250420T160000
-DTEND;TZID=America/Los_Angeles:20250420T184000
+DTEND;TZID=America/Los_Angeles:20250420T184500
 DTSTAMP:20250420T235300Z
 UID:ci5397678-tt31193180--2025-4-20-16-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nhttp
@@ -439,10 +413,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250420T194500
-DTEND;TZID=America/Los_Angeles:20250420T222500
+DTEND;TZID=America/Los_Angeles:20250420T223000
 DTSTAMP:20250421T033800Z
 UID:ci5397678-tt31193180--2025-4-20-19-45
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 20:10\n\nhttp
@@ -453,10 +427,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250421T160000
-DTEND;TZID=America/Los_Angeles:20250421T184000
+DTEND;TZID=America/Los_Angeles:20250421T184500
 DTSTAMP:20250421T235300Z
 UID:ci5397678-tt31193180--2025-4-21-16-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nhttp
@@ -467,10 +441,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250421T194500
-DTEND;TZID=America/Los_Angeles:20250421T222500
+DTEND;TZID=America/Los_Angeles:20250421T223000
 DTSTAMP:20250422T033800Z
 UID:ci5397678-tt31193180--2025-4-21-19-45
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 20:10\n\nhttp
@@ -481,10 +455,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250422T160000
-DTEND;TZID=America/Los_Angeles:20250422T184000
+DTEND;TZID=America/Los_Angeles:20250422T184500
 DTSTAMP:20250422T235300Z
 UID:ci5397678-tt31193180--2025-4-22-16-0
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nhttp
@@ -495,10 +469,38 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sinners
 DTSTART;TZID=America/Los_Angeles:20250422T194500
-DTEND;TZID=America/Los_Angeles:20250422T222500
+DTEND;TZID=America/Los_Angeles:20250422T223000
 DTSTAMP:20250423T033800Z
 UID:ci5397678-tt31193180--2025-4-22-19-45
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nTrying to leave their troubled 
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
+ lives behind\, twin brothers return to their hometown to start again\, onl
+ y to discover that an even greater evil is waiting to welcome them back.\n
+ \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 20:10\n\nhttp
+ s://www.imdb.com/title/tt31193180/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sinners
+DTSTART;TZID=America/Los_Angeles:20250423T160000
+DTEND;TZID=America/Los_Angeles:20250423T184500
+DTSTAMP:20250423T235300Z
+UID:ci5397678-tt31193180--2025-4-23-16-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
+ lives behind\, twin brothers return to their hometown to start again\, onl
+ y to discover that an even greater evil is waiting to welcome them back.\n
+ \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nhttp
+ s://www.imdb.com/title/tt31193180/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle\, WA\,
+  98121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sinners
+DTSTART;TZID=America/Los_Angeles:20250423T194500
+DTEND;TZID=America/Los_Angeles:20250423T223000
+DTSTAMP:20250424T033800Z
+UID:ci5397678-tt31193180--2025-4-23-19-45
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nTrying to leave their troubled 
  lives behind\, twin brothers return to their hometown to start again\, onl
  y to discover that an even greater evil is waiting to welcome them back.\n
  \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 20:10\n\nhttp

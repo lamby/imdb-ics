@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250407T145802Z
+LAST-MODIFIED:20250408T144416Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hereditary (2018)
-DTSTART;TZID=America/Los_Angeles:20250407T160000
-DTEND;TZID=America/Los_Angeles:20250407T183500
-DTSTAMP:20250407T235300Z
-UID:ci0015312-tt7784604--2025-4-7-16-0
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nA grieving family is haunted by
-  tragic and disturbing occurrences.\n\nhttps://www.imdb.com/title/tt778460
- 4/\n\nEstimated start: 16:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/t
- itle/tt7784604/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hereditary (2018)
-DTSTART;TZID=America/Los_Angeles:20250407T213000
-DTEND;TZID=America/Los_Angeles:20250408T000500
-DTSTAMP:20250408T052300Z
-UID:ci0015312-tt7784604--2025-4-7-21-30
-DESCRIPTION:Duration: 2h 07m (127 mins)\n\nA grieving family is haunted by
-  tragic and disturbing occurrences.\n\nhttps://www.imdb.com/title/tt778460
- 4/\n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/t
- itle/tt7784604/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady Bird (2017)
-DTSTART;TZID=America/Los_Angeles:20250407T190000
-DTEND;TZID=America/Los_Angeles:20250407T210000
-DTSTAMP:20250408T025300Z
-UID:ci0015312-tt4925292--2025-4-7-19-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nA fiercely independent teenager 
- tries to make her own way in the world while wanting to get out of her hom
- etown of Sacramento\, California and to get away from her complicated moth
- er and recently-unemployed father.\n\nhttps://www.imdb.com/title/tt4925292
- /\n\nEstimated start: 19:25\n\nIMDb rating: 7.4\n\nhttps://www.imdb.com/ti
- tle/tt4925292/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle\, WA\, 9812
- 2
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hereditary (2018)
 DTSTART;TZID=America/Los_Angeles:20250408T160000
