@@ -22,13 +22,11 @@ from lxml import etree
 from rich.logging import RichHandler
 from rich.progress import track
 
-logging.basicConfig(
-    level=logging.DEBUG, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
-)
 
 re_runtime = re.compile(r"^(?P<hours>\d+)\s*hrs?\s+(?P<minutes>\d+)mins?$")
 re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM)$")
 re_duration = re.compile(r"^PT(?P<minutes>\d+)M$")
+re_duration_new = re.compile(r"^(?:(?P<hours>\d+)h)?\s*(?:(?P<minutes>\d+)m)?$")
 
 
 class ImdbICS:
@@ -157,6 +155,9 @@ class ImdbICS:
             attempts -= 1
             time.sleep(3)
 
+        with open("/tmp/imdb-ics.html", "wb") as f:
+            f.write(r.content)
+
         return BeautifulSoup(r.content, "html.parser")
 
     def text(self, soup, pattern):
@@ -166,7 +167,13 @@ class ImdbICS:
         return soup.select(pattern)[0][attr].strip()
 
     def parse_duration(self, val):
-        return int(re_duration.match(val).group("minutes"))
+        m = re_duration.match(val)
+        if m is not None:
+            return int(m.group("minutes"))
+
+        m = re_duration_new.match(val)
+
+        return (int(m.group("hours") or 0) * 60) + int(m.group("minutes") or 0)
 
     def populate_title_info(self, imdb_title_id):
         try:
@@ -174,7 +181,7 @@ class ImdbICS:
         except KeyError:
             pass
 
-        logging.info(f"Getting info for IMDB title '{imdb_title_id}'...")
+        logging.info(f"Getting info for IMDB title '{imdb_title_id}'")
 
         url = f"https://www.imdb.com/title/{imdb_title_id}/"
 
@@ -199,28 +206,33 @@ class ImdbICS:
 
         soup = self.get_soup(base_url)
 
-        address_parts = []
-        for x in soup.select("div.description span"):
-            part = x.text.strip()
-            if part == "|":
-                # After we hit a "|" it will just be a phone number
-                break
-            address_parts.append(part)
-        venue["address"] = ", ".join(address_parts)
+        try:
+            venue["address"] = self.text(soup, ".kyPXuG")
+        except IndexError:
+            address_parts = []
+            for x in soup.select("div.description span"):
+                part = x.text.strip()
+                if part == "|":
+                    # After we hit a "|" it will just be a phone number
+                    break
+                address_parts.append(part)
+            venue["address"] = ", ".join(address_parts)
 
         logging.debug(f"Found info for '{venue['name']}' ({venue['address']})")
+
+        assert venue["address"]
 
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
         cal.add("name", venue["name"])
         cal.add("x-wr-calname", venue["name"])
-        cal.add("last-modified", datetime.datetime.utcnow())
+        cal.add("last-modified", datetime.datetime.now(datetime.UTC))
 
         num_events_venue = 0
-        for idx in track(range(self.DAYS)):
+        for idx in range(self.DAYS):
             date = self.START + datetime.timedelta(days=idx)
-            logging.debug(f"Generating ICS for '{venue['name']}' on {date}")
+            logging.info(f"Getting showtimes for '{venue['name']}' on {date}")
 
             soup = self.get_soup(
                 "{}/{:04d}-{:02d}-{:02d}".format(
@@ -231,17 +243,20 @@ class ImdbICS:
                 )
             )
 
-
             num_events_date = 0
-            for elem in soup.select(".list.detail .list_item"):
-                title = self.text(elem, ".info h3")
+            for elem in soup.select(
+                ".list.detail .list_item, .ipc-metadata-list .ipc-metadata-list-summary-item"
+            ):
+                title = self.text(elem, ".info h3, h3.ipc-title__text")
 
                 for needle in strip_suffixes:
                     if title.endswith(needle):
                         title = title[: -len(needle)]
 
                 try:
-                    href = self.attr(elem, ".info h3 a", "href")
+                    href = self.attr(
+                        elem, ".info h3 a, a.ipc-title-link-wrapper", "href"
+                    )
                 except IndexError:
                     # Some films are not on IMDB.
                     continue
@@ -255,16 +270,45 @@ class ImdbICS:
                         self.attr(elem, "time[itemprop=duration]", "datetime")
                     )
                 except IndexError:
-                    runtime = 120
+                    try:
+                        runtime = self.parse_duration(
+                            self.text(
+                                elem,
+                                "div.li-title-metadata > span.li-title-metadata-item:nth-child(2)",
+                            )
+                        )
+                    except IndexError:
+                        runtime = 120
 
-                for group in elem.select("h5.li_group"):
-                    suffix = group.text.replace("Showtimes", "").strip().rstrip(":")
+                try:
+                    first_button = elem.select("a.ipc-btn")[0]
+                except IndexError:
+                    groups = elem.select("h5.li_group")
+                else:
+                    groups = first_button.parent.parent.parent.find_all(recursive=False)
+
+                for group in groups:
+                    try:
+                        suffix = (
+                            self.text(group, "div:nth-child(1)")
+                            .strip("():")
+                            .replace("Standard", "")
+                        )
+
+                        showtimes = []
+
+                        for x in group.select("div:nth-child(2) a"):
+                            showtimes.append(self.parse_showtime(x.text))
+
+                    except IndexError:
+                        suffix = group.text.replace("Showtimes", "").strip().rstrip(":")
+
+                        showtimes = self.parse_showtimes(group.findNext("div").text)
+
                     if suffix:
                         suffix = f" ({suffix})"
 
-                    showtimes = group.findNext("div").text
-
-                    for hour, minute in self.parse_showtimes(showtimes):
+                    for hour, minute in showtimes:
                         event = icalendar.Event()
 
                         uid = (
@@ -294,6 +338,7 @@ class ImdbICS:
                             minute=minute,
                             tzinfo=pytz.timezone(venue["timezone"]),
                         )
+
                         estimated_start = start + datetime.timedelta(
                             minutes=self.PADDING,
                         )
@@ -341,6 +386,11 @@ class ImdbICS:
                 f"Found {num_events_date} events for {venue['name']} on {date}"
             )
 
+            if num_events_date == 0 and venue["id"] == "ci0001864":
+                raise click.ClickException(
+                    "No events for local cinema; exiting. Debug in /tmp"
+                )
+
         fn = logging.warning if num_events_venue == 0 else logging.debug
         fn(f"Found {num_events_venue} total events for {venue['name']}")
 
@@ -370,9 +420,30 @@ class ImdbICS:
 
             yield hour, minute
 
+    def parse_showtime(self, val):
+        split = re.split(r"[:\s]", val)
+
+        hour = int(split[0])
+        minute = int(split[1])
+
+        hour_offset = 12 if split[2] == "PM" else 0
+        if hour_offset == 0 and hour == 12:
+            hour = 0
+        if hour < 12:
+            hour += hour_offset
+
+        return hour, minute
+
 
 @click.command()
-def main():
+@click.option("--verbose", is_flag=True, default=False, help="Verbose.")
+def main(verbose):
+    level = logging.DEBUG if verbose else logging.INFO
+
+    logging.basicConfig(
+        level=level, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+    )
+
     ImdbICS().main()
 
 
