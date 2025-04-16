@@ -207,7 +207,7 @@ class ImdbICS:
         soup = self.get_soup(base_url)
 
         try:
-            venue["address"] = self.text(soup, ".kyPXuG")
+            venue["address"] = self.text(soup, ".ipc-page-section span")
         except IndexError:
             address_parts = []
             for x in soup.select("div.description span"):
