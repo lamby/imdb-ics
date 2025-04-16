@@ -134,7 +134,7 @@ class ImdbICS:
         with open(f"_data/venues.yaml", "w") as f:
             f.write(yaml.dump(sorted(self.VENUES, key=lambda x: x["name"])))
 
-    def get_soup(self, url, attempts=3):
+    def get_soup(self, url, attempts=3, debug=None):
         while True:
             r = self.session.get(
                 url,
@@ -155,8 +155,9 @@ class ImdbICS:
             attempts -= 1
             time.sleep(3)
 
-        with open("/tmp/imdb-ics.html", "wb") as f:
-            f.write(r.content)
+        if debug is not None:
+            with open(f"/tmp/{debug}", "wb") as f:
+                f.write(r.content)
 
         return BeautifulSoup(r.content, "html.parser")
 
@@ -185,7 +186,7 @@ class ImdbICS:
 
         url = f"https://www.imdb.com/title/{imdb_title_id}/"
 
-        root = self.get_soup(url)
+        root = self.get_soup(url, debug="imdb-ics-title.html")
         raw = root.select_one('script[type="application/ld+json"]').text
 
         data = json.loads(raw)
@@ -204,7 +205,7 @@ class ImdbICS:
             " ({})".format(datetime.date.today().year - 1),
         )
 
-        soup = self.get_soup(base_url)
+        soup = self.get_soup(base_url, debug="imdb-ics-venue.html")
 
         try:
             venue["address"] = self.text(soup, ".ipc-page-section span")
@@ -240,7 +241,8 @@ class ImdbICS:
                     date.year,
                     date.month,
                     date.day,
-                )
+                ),
+                debug="imbd-ics-day.html",
             )
 
             num_events_date = 0
@@ -262,7 +264,6 @@ class ImdbICS:
                     continue
 
                 imdb_title_id = f"{href}/".split("/")[3].split("?", 1)[0]
-
                 self.populate_title_info(imdb_title_id)
 
                 try:
@@ -281,29 +282,30 @@ class ImdbICS:
                         runtime = 120
 
                 try:
-                    first_button = elem.select("a.ipc-btn")[0]
+                    try:
+                        first_button = elem.select("a.ipc-btn")[0]
+                        groups = first_button.parent.parent.parent.find_all(recursive=False)
+                    except IndexError:
+                        first_button = elem.select("span.ipc-btn")[0]
+                        groups = first_button.parent.parent.parent.find_all(recursive=False)
                 except IndexError:
                     groups = elem.select("h5.li_group")
-                else:
-                    groups = first_button.parent.parent.parent.find_all(recursive=False)
+
+                if not groups:
+                    raise click.ClickException(
+                        "No events for local cinema; exiting. Debug in /tmp"
+                    )
 
                 for group in groups:
-                    try:
-                        suffix = (
-                            self.text(group, "div:nth-child(1)")
-                            .strip("():")
-                            .replace("Standard", "")
-                        )
+                    suffix = (
+                        self.text(group, "div:nth-child(1)")
+                        .strip("():")
+                        .replace("Standard", "")
+                    )
 
-                        showtimes = []
-
-                        for x in group.select("div:nth-child(2) a"):
-                            showtimes.append(self.parse_showtime(x.text))
-
-                    except IndexError:
-                        suffix = group.text.replace("Showtimes", "").strip().rstrip(":")
-
-                        showtimes = self.parse_showtimes(group.findNext("div").text)
+                    showtimes = []
+                    for x in group.select("div:nth-child(2) a, div:nth-child(2) span"):
+                        showtimes.append(self.parse_showtime(x.text))
 
                     if suffix:
                         suffix = f" ({suffix})"

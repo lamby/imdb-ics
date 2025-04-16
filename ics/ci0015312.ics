@@ -1,7 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250416T211545Z
+LAST-MODIFIED:20250416T221428Z
 NAME:Central Cinema\, Seattle
 X-WR-CALNAME:Central Cinema\, Seattle
+BEGIN:VEVENT
+SUMMARY:Life After Beth
+DTSTART;TZID=America/Los_Angeles:20250416T160000
+DTEND;TZID=America/Los_Angeles:20250416T175500
+DTSTAMP:20250416T235300Z
+UID:ci0015312-tt2581244--2025-4-16-16-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA young man's recently deceased 
+ girlfriend mysteriously returns from the dead\, but he slowly realizes she
+  is not the way he remembered her.\n\nhttps://www.imdb.com/title/tt2581244
+ /\n\nEstimated start: 16:25\n\nIMDb rating: 5.7\n\nhttps://www.imdb.com/ti
+ tle/tt2581244/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life After Beth
+DTSTART;TZID=America/Los_Angeles:20250416T160000
+DTEND;TZID=America/Los_Angeles:20250416T175500
+DTSTAMP:20250416T235300Z
+UID:ci0015312-tt2581244--2025-4-16-16-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA young man's recently deceased 
+ girlfriend mysteriously returns from the dead\, but he slowly realizes she
+  is not the way he remembered her.\n\nhttps://www.imdb.com/title/tt2581244
+ /\n\nEstimated start: 16:25\n\nIMDb rating: 5.7\n\nhttps://www.imdb.com/ti
+ tle/tt2581244/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
 END:VCALENDAR
