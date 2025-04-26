@@ -226,7 +226,8 @@ class ImdbICS:
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
-        cal.add("name", venue["name"])
+        name_for_display = venue['name'].split(',', 1)[0]
+        cal.add("name", f"Cinema 🇺🇸 {name_for_display}")
         cal.add("x-wr-calname", venue["name"])
         cal.add("last-modified", datetime.datetime.now(datetime.UTC))
 
