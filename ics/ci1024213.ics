@@ -1,62 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250427T152823Z
+LAST-MODIFIED:20250428T153131Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
 BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250427T110000
-DTEND;TZID=America/Los_Angeles:20250427T125000
-DTSTAMP:20250427T185300Z
-UID:ci1024213-tt35423402--2025-4-27-11-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
- ting: 8.1\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250427T110000
-DTEND;TZID=America/Los_Angeles:20250427T125000
-DTSTAMP:20250427T185300Z
-UID:ci1024213-tt35423402--2025-4-27-11-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
- ting: 8.1\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Victim
-DTSTART;TZID=America/Los_Angeles:20250427T140000
-DTEND;TZID=America/Los_Angeles:20250427T154000
-DTSTAMP:20250427T215300Z
-UID:ci1024213-tt0036341--2025-4-27-14-0
-DESCRIPTION:Duration: 1h 11m (71 mins)\n\nA woman in search of her missing
-  sister uncovers a Satanic cult in New York's Greenwich Village and finds 
- that they could have something to do with her sibling's random disappearan
- ce.\n\nhttps://www.imdb.com/title/tt0036341/\n\nEstimated start: 14:25\n\n
- IMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0036341/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Victim
-DTSTART;TZID=America/Los_Angeles:20250427T140000
-DTEND;TZID=America/Los_Angeles:20250427T154000
-DTSTAMP:20250427T215300Z
-UID:ci1024213-tt0036341--2025-4-27-14-0
-DESCRIPTION:Duration: 1h 11m (71 mins)\n\nA woman in search of her missing
-  sister uncovers a Satanic cult in New York's Greenwich Village and finds 
- that they could have something to do with her sibling's random disappearan
- ce.\n\nhttps://www.imdb.com/title/tt0036341/\n\nEstimated start: 14:25\n\n
- IMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0036341/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Celine and Julie Go Boating
 DTSTART;TZID=America/Los_Angeles:20250428T193000
 DTEND;TZID=America/Los_Angeles:20250428T231000
@@ -345,6 +293,32 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA small town detective investiga
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Encampments
+DTSTART;TZID=America/Los_Angeles:20250504T110000
+DTEND;TZID=America/Los_Angeles:20250504T125000
+DTSTAMP:20250504T185300Z
+UID:ci1024213-tt35423402--2025-5-4-11-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
+ sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
+ their university to divest from the US and Israeli weapons companies.\n\nh
+ ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
+ ting: 8.1\n\nhttps://www.imdb.com/title/tt35423402/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Encampments
+DTSTART;TZID=America/Los_Angeles:20250504T110000
+DTEND;TZID=America/Los_Angeles:20250504T125000
+DTSTAMP:20250504T185300Z
+UID:ci1024213-tt35423402--2025-5-4-11-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
+ sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
+ their university to divest from the US and Israeli weapons companies.\n\nh
+ ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
+ ting: 8.1\n\nhttps://www.imdb.com/title/tt35423402/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wizard of the Emerald City
 DTSTART;TZID=America/Los_Angeles:20250504T140000
 DTEND;TZID=America/Los_Angeles:20250504T162500
@@ -370,32 +344,6 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nSwept by a hurricane into a mag
  he Wizard who will grant their cherished wishes.\n\nhttps://www.imdb.com/t
  itle/tt24218194/\n\nEstimated start: 14:25\n\nIMDb rating: 5.7\n\nhttps://
  www.imdb.com/title/tt24218194/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250504T110000
-DTEND;TZID=America/Los_Angeles:20250504T125000
-DTSTAMP:20250504T185300Z
-UID:ci1024213-tt35423402--2025-5-4-11-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
- ting: 8.1\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250504T110000
-DTEND;TZID=America/Los_Angeles:20250504T125000
-DTSTAMP:20250504T185300Z
-UID:ci1024213-tt35423402--2025-5-4-11-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
- ting: 8.1\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -770,6 +718,32 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:55\n\nIMDb ra
  ting: 8.1\n\nhttps://www.imdb.com/title/tt35423402/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hung Up on a Dream: The Zombies Documentary
+DTSTART;TZID=America/Los_Angeles:20250513T193000
+DTEND;TZID=America/Los_Angeles:20250513T215500
+DTSTAMP:20250514T032300Z
+UID:ci1024213-tt21380552--2025-5-13-19-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nBritish Invasion icons The Zomb
+ ies reflect on paving 60 years and counting of their musical path from tee
+ nage friends to legends in the Rock and Roll Hall of Fame.\n\nhttps://www.
+ imdb.com/title/tt21380552/\n\nEstimated start: 19:55\n\nIMDb rating: 8.6\n
+ \nhttps://www.imdb.com/title/tt21380552/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hung Up on a Dream: The Zombies Documentary
+DTSTART;TZID=America/Los_Angeles:20250513T193000
+DTEND;TZID=America/Los_Angeles:20250513T215500
+DTSTAMP:20250514T032300Z
+UID:ci1024213-tt21380552--2025-5-13-19-30
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nBritish Invasion icons The Zomb
+ ies reflect on paving 60 years and counting of their musical path from tee
+ nage friends to legends in the Rock and Roll Hall of Fame.\n\nhttps://www.
+ imdb.com/title/tt21380552/\n\nEstimated start: 19:55\n\nIMDb rating: 8.6\n
+ \nhttps://www.imdb.com/title/tt21380552/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
