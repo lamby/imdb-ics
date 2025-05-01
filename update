@@ -41,6 +41,11 @@ class ImdbICS:
             "timezone": "America/Los_Angeles",
         },
         {
+            "name": "SIFF Cinema Uptown, Seattle",
+            "id": "ci16639653",
+            "timezone": "America/Los_Angeles",
+        },
+        {
             "name": "Grand Illusion Cinema, Seattle",
             "id": "ci0005472",
             "timezone": "America/Los_Angeles",
@@ -63,11 +68,6 @@ class ImdbICS:
         {
             "name": "AMC Pacific Place 12, Woodinville",
             "id": "ci0004663",
-            "timezone": "America/Los_Angeles",
-        },
-        {
-            "name": "SIFF Cinema Uptown, Seattle",
-            "id": "ci16639653",
             "timezone": "America/Los_Angeles",
         },
         {
@@ -305,8 +305,12 @@ class ImdbICS:
                     )
 
                     showtimes = []
-                    for x in group.select("div:nth-child(2) a, div:nth-child(2) span"):
-                        showtimes.append(self.parse_showtime(x.text))
+
+                    for x in group.select(".ipc-btn"):
+                        try:
+                            showtimes.append(self.parse_showtime(x.text))
+                        except ValueError:
+                            raise ValueError(f"Could not parse showtime {x.text!r} within group {group!r}")
 
                     if suffix:
                         suffix = f" ({suffix})"
