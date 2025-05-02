@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250501T154138Z
+LAST-MODIFIED:20250502T132309Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Written on the Wind
-DTSTART;TZID=America/Los_Angeles:20250501T163000
-DTEND;TZID=America/Los_Angeles:20250501T183500
-DTSTAMP:20250502T002300Z
-UID:ci1024213-tt0049966--2025-5-1-16-30
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nAlcoholic playboy Kyle Hadley ma
- rries the woman secretly loved by his poor but hard-working best friend\, 
- who in turn is pursued by Kyle's sister.\n\nhttps://www.imdb.com/title/tt0
- 049966/\n\nEstimated start: 16:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.
- com/title/tt0049966/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eno
-DTSTART;TZID=America/Los_Angeles:20250501T193000
-DTEND;TZID=America/Los_Angeles:20250501T212000
-DTSTAMP:20250502T032300Z
-UID:ci1024213-tt19854690--2025-5-1-19-30
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA generative documentary about a
- rtist Brian Eno\, with 52 quintillion possible iterations\, so that no vie
- wing is the same twice.\n\nhttps://www.imdb.com/title/tt19854690/\n\nEstim
- ated start: 19:55\n\nIMDb rating: 7.9\n\nhttps://www.imdb.com/title/tt1985
- 4690/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Encampments
 DTSTART;TZID=America/Los_Angeles:20250502T160000
@@ -361,6 +335,32 @@ DESCRIPTION:Duration: 1h 03m (63 mins)\n\nDirector Guy Maddin's interpreta
  ge from old films and television shows shot in and around the San Francisc
  o area.\n\nhttps://www.imdb.com/title/tt6736812/\n\nEstimated start: 19:25
  \n\nIMDb rating: 6.9\n\nhttps://www.imdb.com/title/tt6736812/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mermaid Legend
+DTSTART;TZID=America/Los_Angeles:20250517T220000
+DTEND;TZID=America/Los_Angeles:20250518T001500
+DTSTAMP:20250518T055300Z
+UID:ci1024213-tt0174918--2025-5-17-22-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWoman is avenging the death of 
+ her husband in this slightly supernatural drama.\n\nhttps://www.imdb.com/t
+ itle/tt0174918/\n\nEstimated start: 22:25\n\nIMDb rating: 7\n\nhttps://www
+ .imdb.com/title/tt0174918/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Go Public: A Documentary Film Project
+DTSTART;TZID=America/Los_Angeles:20250517T190000
+DTEND;TZID=America/Los_Angeles:20250517T212500
+DTSTAMP:20250518T025300Z
+UID:ci1024213-tt2381118--2025-5-17-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
+ e life of Pasadena Unified School District\, capturing personal stories of
+  students\, teachers\, and staff to highlight the dedication and complexit
+ ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
+ stimated start: 19:25\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
+ 81118/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR

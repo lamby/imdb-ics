@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250501T154443Z
+LAST-MODIFIED:20250502T132612Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Room
-DTSTART;TZID=America/Los_Angeles:20250501T200000
-DTEND;TZID=America/Los_Angeles:20250501T220500
-DTSTAMP:20250502T035300Z
-UID:ci0015312-tt0368226--2025-5-1-20-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nIn San Francisco\, an amiable ba
- nker's seemingly perfect life is turned upside down when his deceitful bri
- de-to-be embarks on a passionate affair with his best friend.\n\nhttps://w
- ww.imdb.com/title/tt0368226/\n\nEstimated start: 20:25\n\nIMDb rating: 3.6
- \n\nhttps://www.imdb.com/title/tt0368226/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everything Everywhere All at Once
 DTSTART;TZID=America/Los_Angeles:20250502T160000
