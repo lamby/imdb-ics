@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250502T132309Z
+LAST-MODIFIED:20250503T173547Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250502T160000
-DTEND;TZID=America/Los_Angeles:20250502T175000
-DTSTAMP:20250502T235300Z
-UID:ci1024213-tt35423402--2025-5-2-16-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:25\n\nIMDb ra
- ting: 8.2\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leila and the Wolves
-DTSTART;TZID=America/Los_Angeles:20250502T190000
-DTEND;TZID=America/Los_Angeles:20250502T205500
-DTSTAMP:20250503T025300Z
-UID:ci1024213-tt0087608--2025-5-2-19-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA film that weaves together re-e
- nactments\, archive footage and fairy-tale sequences to create a testament
-  to the history of Lebanese and Palestinian women to the political struggl
- es of the twentieth century.\n\nhttps://www.imdb.com/title/tt0087608/\n\nE
- stimated start: 19:25\n\nIMDb rating: 7.7\n\nhttps://www.imdb.com/title/tt
- 0087608/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Women
 DTSTART;TZID=America/Los_Angeles:20250503T200000
@@ -361,6 +334,20 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
  ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
  stimated start: 19:25\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
  81118/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Happened Here
+DTSTART;TZID=America/Los_Angeles:20250518T170000
+DTEND;TZID=America/Los_Angeles:20250518T190000
+DTSTAMP:20250519T005300Z
+UID:ci1024213-tt0055024--2025-5-18-17-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nIn 1940\, Germany invades Britai
+ n and transforms it into a Fascist state where some Britons collaborate an
+ d others resist. In 1944\, Pauline\, an apolitical Irish nurse becomes a r
+ eluctant player in the fight between the two sides.\n\nhttps://www.imdb.co
+ m/title/tt0055024/\n\nEstimated start: 17:25\n\nIMDb rating: 6.7\n\nhttps:
+ //www.imdb.com/title/tt0055024/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
