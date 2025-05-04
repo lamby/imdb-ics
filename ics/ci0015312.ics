@@ -1,47 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250503T173849Z
+LAST-MODIFIED:20250504T171357Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Everything Everywhere All at Once
-DTSTART;TZID=America/Los_Angeles:20250503T160000
-DTEND;TZID=America/Los_Angeles:20250503T184500
-DTSTAMP:20250503T235300Z
-UID:ci0015312-tt6710474--2025-5-3-16-0
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA middle-aged Chinese immigrant
-  is swept up into an insane adventure in which she alone can save existenc
- e by exploring other universes and connecting with the lives she could hav
- e led.\n\nhttps://www.imdb.com/title/tt6710474/\n\nEstimated start: 16:25\
- n\nIMDb rating: 7.8\n\nhttps://www.imdb.com/title/tt6710474/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everything Everywhere All at Once
-DTSTART;TZID=America/Los_Angeles:20250503T213000
-DTEND;TZID=America/Los_Angeles:20250504T001500
-DTSTAMP:20250504T052300Z
-UID:ci0015312-tt6710474--2025-5-3-21-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nA middle-aged Chinese immigrant
-  is swept up into an insane adventure in which she alone can save existenc
- e by exploring other universes and connecting with the lives she could hav
- e led.\n\nhttps://www.imdb.com/title/tt6710474/\n\nEstimated start: 21:55\
- n\nIMDb rating: 7.8\n\nhttps://www.imdb.com/title/tt6710474/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ratatouille
-DTSTART;TZID=America/Los_Angeles:20250503T190000
-DTEND;TZID=America/Los_Angeles:20250503T212000
-DTSTAMP:20250504T025300Z
-UID:ci0015312-tt0382932--2025-5-3-19-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nA rat who can cook makes an unu
- sual alliance with a young kitchen worker at a famous Paris restaurant.\n\
- nhttps://www.imdb.com/title/tt0382932/\n\nEstimated start: 19:25\n\nIMDb r
- ating: 8.1\n\nhttps://www.imdb.com/title/tt0382932/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everything Everywhere All at Once
 DTSTART;TZID=America/Los_Angeles:20250504T160000

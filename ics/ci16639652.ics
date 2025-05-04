@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250503T173725Z
+LAST-MODIFIED:20250504T171230Z
 NAME:Cinema 🇺🇸 SIFF Film Center
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:High School
-DTSTART;TZID=America/Los_Angeles:20250503T123000
-DTEND;TZID=America/Los_Angeles:20250503T141000
-DTSTAMP:20250503T202300Z
-UID:ci16639652-tt0064429--2025-5-3-12-30
-DESCRIPTION:Duration: 1h 15m (75 mins)\n\nDocumentary filmmaker Frederick 
- Wiseman takes us inside Northeast High School as a fly on the wall to obse
- rve the teachers and how they interact with the students.\n\nhttps://www.i
- mdb.com/title/tt0064429/\n\nEstimated start: 12:55\n\nIMDb rating: 7.5\n\n
- https://www.imdb.com/title/tt0064429/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle WA 981
- 09
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Welfare
 DTSTART;TZID=America/Los_Angeles:20250504T183000
