@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250504T171230Z
+LAST-MODIFIED:20250505T130157Z
 NAME:Cinema 🇺🇸 SIFF Film Center
 X-WR-CALNAME:SIFF Film Center\, Seattle
-BEGIN:VEVENT
-SUMMARY:Welfare
-DTSTART;TZID=America/Los_Angeles:20250504T183000
-DTEND;TZID=America/Los_Angeles:20250504T214500
-DTSTAMP:20250505T022300Z
-UID:ci16639652-tt0073887--2025-5-4-18-30
-DESCRIPTION:Duration: 2h 47m (167 mins)\n\nExplores the complexity of the 
- welfare system\, highlighting issues like housing\, unemployment\, and med
- ical problems. It shows both welfare workers and clients struggling to nav
- igate the laws and regulations that impact their lives.\n\nhttps://www.imd
- b.com/title/tt0073887/\n\nEstimated start: 18:55\n\nIMDb rating: 8.2\n\nht
- tps://www.imdb.com/title/tt0073887/
-LOCATION:SIFF Film Center\, Seattle\, 305 Harrison Street\, Seattle WA 981
- 09
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High School
 DTSTART;TZID=America/Los_Angeles:20250505T200000
