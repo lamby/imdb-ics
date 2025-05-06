@@ -1,95 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250505T125945Z
+LAST-MODIFIED:20250506T135303Z
 NAME:Cinema 🇺🇸 SIFF Cinema Uptown
 X-WR-CALNAME:SIFF Cinema Uptown\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Shrouds
-DTSTART;TZID=America/Los_Angeles:20250505T160000
-DTEND;TZID=America/Los_Angeles:20250505T182500
-DTSTAMP:20250505T235300Z
-UID:ci16639653-tt20212786--2025-5-5-16-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nKarsh\, an innovative businessm
- an and grieving widower\, builds a device to connect with the dead inside 
- a burial shroud.\n\nhttps://www.imdb.com/title/tt20212786/\n\nEstimated st
- art: 16:25\n\nIMDb rating: 6\n\nhttps://www.imdb.com/title/tt20212786/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle WA 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shrouds
-DTSTART;TZID=America/Los_Angeles:20250505T190000
-DTEND;TZID=America/Los_Angeles:20250505T212500
-DTSTAMP:20250506T025300Z
-UID:ci16639653-tt20212786--2025-5-5-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nKarsh\, an innovative businessm
- an and grieving widower\, builds a device to connect with the dead inside 
- a burial shroud.\n\nhttps://www.imdb.com/title/tt20212786/\n\nEstimated st
- art: 19:25\n\nIMDb rating: 6\n\nhttps://www.imdb.com/title/tt20212786/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle WA 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wedding Banquet
-DTSTART;TZID=America/Los_Angeles:20250505T161500
-DTEND;TZID=America/Los_Angeles:20250505T182500
-DTSTAMP:20250506T000800Z
-UID:ci16639653-tt32214413--2025-5-5-16-15
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
-  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
- fertilization treatments for her. Plans evolve as Min's grandmother surpri
- ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
- 214413/\n\nEstimated start: 16:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
- com/title/tt32214413/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle WA 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wedding Banquet
-DTSTART;TZID=America/Los_Angeles:20250505T191500
-DTEND;TZID=America/Los_Angeles:20250505T212500
-DTSTAMP:20250506T030800Z
-UID:ci16639653-tt32214413--2025-5-5-19-15
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
-  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
- fertilization treatments for her. Plans evolve as Min's grandmother surpri
- ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
- 214413/\n\nEstimated start: 19:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
- com/title/tt32214413/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle WA 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=America/Los_Angeles:20250505T163000
-DTEND;TZID=America/Los_Angeles:20250505T183000
-DTSTAMP:20250506T002300Z
-UID:ci16639653-tt30953759--2025-5-5-16-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
- Israeli collective shows the destruction of the occupied West Bank's Masaf
- er Yatta by Israeli soldiers and the alliance which develops between the P
- alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nEstimated start: 16:55\n\nIMDb rating: 8.3\n\nhtt
- ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle WA 98109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=America/Los_Angeles:20250505T193000
-DTEND;TZID=America/Los_Angeles:20250505T213000
-DTSTAMP:20250506T032300Z
-UID:ci16639653-tt30953759--2025-5-5-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
- Israeli collective shows the destruction of the occupied West Bank's Masaf
- er Yatta by Israeli soldiers and the alliance which develops between the P
- alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
- com/title/tt30953759/\n\nEstimated start: 19:55\n\nIMDb rating: 8.3\n\nhtt
- ps://www.imdb.com/title/tt30953759/
-LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
- tle WA 98109
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Shrouds
 DTSTART;TZID=America/Los_Angeles:20250506T160000
@@ -328,6 +242,66 @@ LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle WA 98109
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Wedding Banquet
+DTSTART;TZID=America/Los_Angeles:20250509T161500
+DTEND;TZID=America/Los_Angeles:20250509T182500
+DTSTAMP:20250510T000800Z
+UID:ci16639653-tt32214413--2025-5-9-16-15
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
+  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
+ fertilization treatments for her. Plans evolve as Min's grandmother surpri
+ ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
+ 214413/\n\nEstimated start: 16:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
+ com/title/tt32214413/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet
+DTSTART;TZID=America/Los_Angeles:20250509T191500
+DTEND;TZID=America/Los_Angeles:20250509T212500
+DTSTAMP:20250510T030800Z
+UID:ci16639653-tt32214413--2025-5-9-19-15
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
+  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
+ fertilization treatments for her. Plans evolve as Min's grandmother surpri
+ ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
+ 214413/\n\nEstimated start: 19:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
+ com/title/tt32214413/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250509T163000
+DTEND;TZID=America/Los_Angeles:20250509T183000
+DTSTAMP:20250510T002300Z
+UID:ci16639653-tt30953759--2025-5-9-16-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 16:55\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250509T193000
+DTEND;TZID=America/Los_Angeles:20250509T213000
+DTSTAMP:20250510T032300Z
+UID:ci16639653-tt30953759--2025-5-9-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 19:55\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Shrouds
 DTSTART;TZID=America/Los_Angeles:20250510T130000
 DTEND;TZID=America/Los_Angeles:20250510T152500
@@ -363,6 +337,81 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nKarsh\, an innovative businessm
  an and grieving widower\, builds a device to connect with the dead inside 
  a burial shroud.\n\nhttps://www.imdb.com/title/tt20212786/\n\nEstimated st
  art: 19:25\n\nIMDb rating: 6\n\nhttps://www.imdb.com/title/tt20212786/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet
+DTSTART;TZID=America/Los_Angeles:20250510T161500
+DTEND;TZID=America/Los_Angeles:20250510T182500
+DTSTAMP:20250511T000800Z
+UID:ci16639653-tt32214413--2025-5-10-16-15
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
+  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
+ fertilization treatments for her. Plans evolve as Min's grandmother surpri
+ ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
+ 214413/\n\nEstimated start: 16:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
+ com/title/tt32214413/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet
+DTSTART;TZID=America/Los_Angeles:20250510T191500
+DTEND;TZID=America/Los_Angeles:20250510T212500
+DTSTAMP:20250511T030800Z
+UID:ci16639653-tt32214413--2025-5-10-19-15
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
+  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
+ fertilization treatments for her. Plans evolve as Min's grandmother surpri
+ ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
+ 214413/\n\nEstimated start: 19:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
+ com/title/tt32214413/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250510T133000
+DTEND;TZID=America/Los_Angeles:20250510T153000
+DTSTAMP:20250510T212300Z
+UID:ci16639653-tt30953759--2025-5-10-13-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 13:55\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250510T163000
+DTEND;TZID=America/Los_Angeles:20250510T183000
+DTSTAMP:20250511T002300Z
+UID:ci16639653-tt30953759--2025-5-10-16-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 16:55\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250510T193000
+DTEND;TZID=America/Los_Angeles:20250510T213000
+DTSTAMP:20250511T032300Z
+UID:ci16639653-tt30953759--2025-5-10-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 19:55\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle WA 98109
 END:VEVENT
@@ -417,6 +466,96 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nKarsh\, an innovative businessm
  an and grieving widower\, builds a device to connect with the dead inside 
  a burial shroud.\n\nhttps://www.imdb.com/title/tt20212786/\n\nEstimated st
  art: 19:25\n\nIMDb rating: 6\n\nhttps://www.imdb.com/title/tt20212786/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Mia!
+DTSTART;TZID=America/Los_Angeles:20250511T120000
+DTEND;TZID=America/Los_Angeles:20250511T141500
+DTSTAMP:20250511T195300Z
+UID:ci16639653-tt0795421--2025-5-11-12-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nDonna\, an independent hotelier
+ \, is preparing for her daughter's wedding with the help of two old friend
+ s. Meanwhile Sophie\, the spirited bride\, has a plan. She invites three m
+ en from her mother's past in hope of meeting her real f...\n\nhttps://www.
+ imdb.com/title/tt0795421/\n\nEstimated start: 12:25\n\nIMDb rating: 6.5\n\
+ nhttps://www.imdb.com/title/tt0795421/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet
+DTSTART;TZID=America/Los_Angeles:20250511T131500
+DTEND;TZID=America/Los_Angeles:20250511T152500
+DTSTAMP:20250511T210800Z
+UID:ci16639653-tt32214413--2025-5-11-13-15
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
+  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
+ fertilization treatments for her. Plans evolve as Min's grandmother surpri
+ ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
+ 214413/\n\nEstimated start: 13:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
+ com/title/tt32214413/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet
+DTSTART;TZID=America/Los_Angeles:20250511T161500
+DTEND;TZID=America/Los_Angeles:20250511T182500
+DTSTAMP:20250512T000800Z
+UID:ci16639653-tt32214413--2025-5-11-16-15
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
+  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
+ fertilization treatments for her. Plans evolve as Min's grandmother surpri
+ ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
+ 214413/\n\nEstimated start: 16:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
+ com/title/tt32214413/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wedding Banquet
+DTSTART;TZID=America/Los_Angeles:20250511T191500
+DTEND;TZID=America/Los_Angeles:20250511T212500
+DTSTAMP:20250512T030800Z
+UID:ci16639653-tt32214413--2025-5-11-19-15
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA gay man makes a deal with his
+  lesbian friend: a green-card marriage for him\, in exchange for in vitro 
+ fertilization treatments for her. Plans evolve as Min's grandmother surpri
+ ses them with a Korean wedding banquet.\n\nhttps://www.imdb.com/title/tt32
+ 214413/\n\nEstimated start: 19:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.
+ com/title/tt32214413/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250511T163000
+DTEND;TZID=America/Los_Angeles:20250511T183000
+DTSTAMP:20250512T002300Z
+UID:ci16639653-tt30953759--2025-5-11-16-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 16:55\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
+LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
+ tle WA 98109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=America/Los_Angeles:20250511T193000
+DTEND;TZID=America/Los_Angeles:20250511T213000
+DTSTAMP:20250512T032300Z
+UID:ci16639653-tt30953759--2025-5-11-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nThis film made by a Palestinian-
+ Israeli collective shows the destruction of the occupied West Bank's Masaf
+ er Yatta by Israeli soldiers and the alliance which develops between the P
+ alestinian activist Basel and Israeli journalist Y...\n\nhttps://www.imdb.
+ com/title/tt30953759/\n\nEstimated start: 19:55\n\nIMDb rating: 8.3\n\nhtt
+ ps://www.imdb.com/title/tt30953759/
 LOCATION:SIFF Cinema Uptown\, Seattle\, 511 Queen Anne Avenue North\, Seat
  tle WA 98109
 END:VEVENT
