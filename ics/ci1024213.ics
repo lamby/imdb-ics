@@ -1,22 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250506T135333Z
+LAST-MODIFIED:20250507T142129Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Women
-DTSTART;TZID=America/Los_Angeles:20250506T163000
-DTEND;TZID=America/Los_Angeles:20250506T183000
-DTSTAMP:20250507T002300Z
-UID:ci1024213-tt4600982--2025-5-6-16-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA small town detective investiga
- tes into a Sociology professor when a mutilated body is found and women ha
- ve gone missing from his class.\n\nhttps://www.imdb.com/title/tt4600982/\n
- \nEstimated start: 16:55\n\nIMDb rating: 4.3\n\nhttps://www.imdb.com/title
- /tt4600982/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Titicut Follies
 DTSTART;TZID=America/Los_Angeles:20250507T163000
@@ -94,7 +81,7 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\n\nExplores Catherine E. Coulson's
   life and her role as Twin Peaks' Log Lady\, featuring interviews and arch
  ival footage that reveal her artistic journey and the character's cultural
   significance.\n\nhttps://www.imdb.com/title/tt10654402/\n\nEstimated star
- t: 19:25\n\nIMDb rating: 7.8\n\nhttps://www.imdb.com/title/tt10654402/
+ t: 19:25\n\nIMDb rating: 7.7\n\nhttps://www.imdb.com/title/tt10654402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -319,6 +306,18 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
  ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
  stimated start: 16:55\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
  81118/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hospital
+DTSTART;TZID=America/Los_Angeles:20250522T163000
+DTEND;TZID=America/Los_Angeles:20250522T182000
+DTSTAMP:20250523T002300Z
+UID:ci1024213-tt0065853--2025-5-22-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn intimate look at the daily ac
+ tivities of medical staff and patients in New York's Metropolitan Hospital
+ .\n\nhttps://www.imdb.com/title/tt0065853/\n\nEstimated start: 16:55\n\nIM
+ Db rating: 7.9\n\nhttps://www.imdb.com/title/tt0065853/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR

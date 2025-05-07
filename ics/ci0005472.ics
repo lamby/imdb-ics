@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250506T135320Z
+LAST-MODIFIED:20250507T142116Z
 NAME:Cinema 🇺🇸 Grand Illusion Cinema
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Elephant Man
-DTSTART;TZID=America/Los_Angeles:20250506T190000
-DTEND;TZID=America/Los_Angeles:20250506T213000
-DTSTAMP:20250507T025300Z
-UID:ci0005472-tt0080678--2025-5-6-19-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA Victorian surgeon rescues a h
- eavily disfigured man who is mistreated while scraping a living as a side-
- show freak. Behind his monstrous façade\, there is revealed a person of k
- indness\, intelligence and sophistication.\n\nhttps://www.imdb.com/title/t
- t0080678/\n\nEstimated start: 19:25\n\nIMDb rating: 8.2\n\nhttps://www.imd
- b.com/title/tt0080678/
-LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle WA 98
- 105
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Elephant Man
 DTSTART;TZID=America/Los_Angeles:20250512T190000
