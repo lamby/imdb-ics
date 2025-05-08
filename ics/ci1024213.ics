@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250507T142129Z
+LAST-MODIFIED:20250508T151350Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Titicut Follies
-DTSTART;TZID=America/Los_Angeles:20250507T163000
-DTEND;TZID=America/Los_Angeles:20250507T182000
-DTSTAMP:20250508T002300Z
-UID:ci1024213-tt0062374--2025-5-7-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nDocumentary filmmaker Frederick 
- Wiseman takes us inside the Massachusetts Correctional Institution Bridgew
- ater\, where people stay trapped in their madness.\n\nhttps://www.imdb.com
- /title/tt0062374/\n\nEstimated start: 16:55\n\nIMDb rating: 7.7\n\nhttps:/
- /www.imdb.com/title/tt0062374/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women
-DTSTART;TZID=America/Los_Angeles:20250507T193000
-DTEND;TZID=America/Los_Angeles:20250507T213000
-DTSTAMP:20250508T032300Z
-UID:ci1024213-tt4600982--2025-5-7-19-30
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nA small town detective investiga
- tes into a Sociology professor when a mutilated body is found and women ha
- ve gone missing from his class.\n\nhttps://www.imdb.com/title/tt4600982/\n
- \nEstimated start: 19:55\n\nIMDb rating: 4.3\n\nhttps://www.imdb.com/title
- /tt4600982/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noroi
 DTSTART;TZID=America/Los_Angeles:20250509T220000
@@ -54,7 +28,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 8.2\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +68,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 17:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 8.2\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -107,7 +81,20 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 20:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 8.2\n\nhttps://www.imdb.com/title/tt35423402/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Under the Roofs of Paris
+DTSTART;TZID=America/Los_Angeles:20250511T140000
+DTEND;TZID=America/Los_Angeles:20250511T160500
+DTSTAMP:20250511T215300Z
+UID:ci1024213-tt0021409--2025-5-11-14-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nAlbert is smitten for Pola but e
+ nds up wrongly committed in jail\, in the meantime her affections are soug
+ ht after by his friend\, and on his release both love and friendship must 
+ be tested.\n\nhttps://www.imdb.com/title/tt0021409/\n\nEstimated start: 14
+ :25\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt0021409/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -134,7 +121,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:55\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 8.2\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -151,6 +138,19 @@ DESCRIPTION:Duration: 1h 56m (116 mins)\n\nBritish Invasion icons The Zomb
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Under the Roofs of Paris
+DTSTART;TZID=America/Los_Angeles:20250513T163000
+DTEND;TZID=America/Los_Angeles:20250513T183500
+DTSTAMP:20250514T002300Z
+UID:ci1024213-tt0021409--2025-5-13-16-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nAlbert is smitten for Pola but e
+ nds up wrongly committed in jail\, in the meantime her affections are soug
+ ht after by his friend\, and on his release both love and friendship must 
+ be tested.\n\nhttps://www.imdb.com/title/tt0021409/\n\nEstimated start: 16
+ :55\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt0021409/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Encampments
 DTSTART;TZID=America/Los_Angeles:20250514T163000
 DTEND;TZID=America/Los_Angeles:20250514T182000
@@ -160,7 +160,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:55\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 8.2\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -189,6 +189,19 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nAlso known as The Greater Good\,
  ariety of social roles they are asked to play. More ...\n\nhttps://www.imd
  b.com/title/tt0064577/\n\nEstimated start: 16:55\n\nIMDb rating: 7.6\n\nht
  tps://www.imdb.com/title/tt0064577/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Know Catherine\, the Log Lady
+DTSTART;TZID=America/Los_Angeles:20250516T160000
+DTEND;TZID=America/Los_Angeles:20250516T182000
+DTSTAMP:20250516T235300Z
+UID:ci1024213-tt10654402--2025-5-16-16-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nExplores Catherine E. Coulson's
+  life and her role as Twin Peaks' Log Lady\, featuring interviews and arch
+ ival footage that reveal her artistic journey and the character's cultural
+  significance.\n\nhttps://www.imdb.com/title/tt10654402/\n\nEstimated star
+ t: 16:25\n\nIMDb rating: 7.7\n\nhttps://www.imdb.com/title/tt10654402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -238,8 +251,8 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
  e life of Pasadena Unified School District\, capturing personal stories of
   students\, teachers\, and staff to highlight the dedication and complexit
  ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
- stimated start: 19:25\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
- 81118/
+ stimated start: 19:25\n\nIMDb rating: 6.1\n\nhttps://www.imdb.com/title/tt
+ 2381118/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -252,7 +265,7 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nIn 1940\, Germany invades Britai
  n and transforms it into a Fascist state where some Britons collaborate an
  d others resist. In 1944\, Pauline\, an apolitical Irish nurse becomes a r
  eluctant player in the fight between the two sides.\n\nhttps://www.imdb.co
- m/title/tt0055024/\n\nEstimated start: 17:25\n\nIMDb rating: 6.7\n\nhttps:
+ m/title/tt0055024/\n\nEstimated start: 17:25\n\nIMDb rating: 6.6\n\nhttps:
  //www.imdb.com/title/tt0055024/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
@@ -266,8 +279,8 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
  e life of Pasadena Unified School District\, capturing personal stories of
   students\, teachers\, and staff to highlight the dedication and complexit
  ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
- stimated start: 19:55\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
- 81118/
+ stimated start: 19:55\n\nIMDb rating: 6.1\n\nhttps://www.imdb.com/title/tt
+ 2381118/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -304,8 +317,8 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
  e life of Pasadena Unified School District\, capturing personal stories of
   students\, teachers\, and staff to highlight the dedication and complexit
  ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
- stimated start: 16:55\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
- 81118/
+ stimated start: 16:55\n\nIMDb rating: 6.1\n\nhttps://www.imdb.com/title/tt
+ 2381118/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -318,6 +331,31 @@ DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn intimate look at the daily ac
  tivities of medical staff and patients in New York's Metropolitan Hospital
  .\n\nhttps://www.imdb.com/title/tt0065853/\n\nEstimated start: 16:55\n\nIM
  Db rating: 7.9\n\nhttps://www.imdb.com/title/tt0065853/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phenomena
+DTSTART;TZID=America/Los_Angeles:20250523T190000
+DTEND;TZID=America/Los_Angeles:20250523T212500
+DTSTAMP:20250524T025300Z
+UID:ci1024213-tt0087909--2025-5-23-19-0
+DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA young girl who has an amazing
+  ability to communicate with insects is transferred to an exclusive Swiss 
+ boarding school\, where her unusual capability might help solve a string o
+ f murders.\n\nhttps://www.imdb.com/title/tt0087909/\n\nEstimated start: 19
+ :25\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0087909/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Crazy Family
+DTSTART;TZID=America/Los_Angeles:20250523T220000
+DTEND;TZID=America/Los_Angeles:20250524T001500
+DTSTAMP:20250524T055300Z
+UID:ci1024213-tt0087377--2025-5-23-22-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAfter moving into a new house\,
+  a family starts acting crazier and crazier.\n\nhttps://www.imdb.com/title
+ /tt0087377/\n\nEstimated start: 22:25\n\nIMDb rating: 7\n\nhttps://www.imd
+ b.com/title/tt0087377/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
