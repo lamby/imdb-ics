@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250509T152032Z
+LAST-MODIFIED:20250510T154247Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Noroi
-DTSTART;TZID=America/Los_Angeles:20250509T220000
-DTEND;TZID=America/Los_Angeles:20250510T002000
-DTSTAMP:20250510T055300Z
-UID:ci1024213-tt0930083--2025-5-9-22-0
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA prominent paranormal journali
- st Kobayashi goes missing shortly after completing a documentary. What beg
- ins as an investigation into strange noises soon evolves into the chilling
-  mystery of a demonic entity named Kagutaba.\n\nhttps://www.imdb.com/title
- /tt0930083/\n\nEstimated start: 22:25\n\nIMDb rating: 6.8\n\nhttps://www.i
- mdb.com/title/tt0930083/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250509T160000
-DTEND;TZID=America/Los_Angeles:20250509T175000
-DTSTAMP:20250509T235300Z
-UID:ci1024213-tt35423402--2025-5-9-16-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noroi
 DTSTART;TZID=America/Los_Angeles:20250510T220000
@@ -256,6 +229,19 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Encampments
+DTSTART;TZID=America/Los_Angeles:20250518T110000
+DTEND;TZID=America/Los_Angeles:20250518T125000
+DTSTAMP:20250518T185300Z
+UID:ci1024213-tt35423402--2025-5-18-11-0
+DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
+ sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
+ their university to divest from the US and Israeli weapons companies.\n\nh
+ ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
+ ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:It Happened Here
 DTSTART;TZID=America/Los_Angeles:20250518T170000
 DTEND;TZID=America/Los_Angeles:20250518T190000
@@ -381,6 +367,17 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAfter moving into a new house\,
   a family starts acting crazier and crazier.\n\nhttps://www.imdb.com/title
  /tt0087377/\n\nEstimated start: 22:25\n\nIMDb rating: 7.1\n\nhttps://www.i
  mdb.com/title/tt0087377/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Million
+DTSTART;TZID=America/Los_Angeles:20250525T140000
+DTEND;TZID=America/Los_Angeles:20250525T162500
+DTSTAMP:20250525T215300Z
+UID:ci1024213-tt32250381--2025-5-25-14-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt32
+ 250381/\n\nEstimated start: 14:25\n\nhttps://www.imdb.com/title/tt32250381
+ /
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR

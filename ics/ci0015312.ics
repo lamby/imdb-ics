@@ -1,7 +1,133 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250509T152352Z
+LAST-MODIFIED:20250510T154605Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
+BEGIN:VEVENT
+SUMMARY:Porco Rosso
+DTSTART;TZID=America/Los_Angeles:20250510T160000
+DTEND;TZID=America/Los_Angeles:20250510T180000
+DTSTAMP:20250510T235300Z
+UID:ci0015312-tt0104652--2025-5-10-16-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
+  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
+ .imdb.com/title/tt0104652/\n\nEstimated start: 16:25\n\nIMDb rating: 7.7\n
+ \nhttps://www.imdb.com/title/tt0104652/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junk Head
+DTSTART;TZID=America/Los_Angeles:20250510T213000
+DTEND;TZID=America/Los_Angeles:20250510T233500
+DTSTAMP:20250511T052300Z
+UID:ci0015312-tt6848928--2025-5-10-21-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn a distant future\, humanity 
+ has lost its ability to reproduce. An expedition is sent to an underground
+  city where artificial humanoids are still fertile.\n\nhttps://www.imdb.co
+ m/title/tt6848928/\n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps:
+ //www.imdb.com/title/tt6848928/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Mia!
+DTSTART;TZID=America/Los_Angeles:20250511T160000
+DTEND;TZID=America/Los_Angeles:20250511T181500
+DTSTAMP:20250511T235300Z
+UID:ci0015312-tt0795421--2025-5-11-16-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nDonna\, an independent hotelier
+ \, is preparing for her daughter's wedding with the help of two old friend
+ s. Meanwhile Sophie\, the spirited bride\, has a plan. She invites three m
+ en from her mother's past in hope of meeting her real f...\n\nhttps://www.
+ imdb.com/title/tt0795421/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5\n\
+ nhttps://www.imdb.com/title/tt0795421/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junk Head
+DTSTART;TZID=America/Los_Angeles:20250511T213000
+DTEND;TZID=America/Los_Angeles:20250511T233500
+DTSTAMP:20250512T052300Z
+UID:ci0015312-tt6848928--2025-5-11-21-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn a distant future\, humanity 
+ has lost its ability to reproduce. An expedition is sent to an underground
+  city where artificial humanoids are still fertile.\n\nhttps://www.imdb.co
+ m/title/tt6848928/\n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps:
+ //www.imdb.com/title/tt6848928/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porco Rosso
+DTSTART;TZID=America/Los_Angeles:20250512T160000
+DTEND;TZID=America/Los_Angeles:20250512T180000
+DTSTAMP:20250512T235300Z
+UID:ci0015312-tt0104652--2025-5-12-16-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
+  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
+ .imdb.com/title/tt0104652/\n\nEstimated start: 16:25\n\nIMDb rating: 7.7\n
+ \nhttps://www.imdb.com/title/tt0104652/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junk Head
+DTSTART;TZID=America/Los_Angeles:20250512T213000
+DTEND;TZID=America/Los_Angeles:20250512T233500
+DTSTAMP:20250513T052300Z
+UID:ci0015312-tt6848928--2025-5-12-21-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn a distant future\, humanity 
+ has lost its ability to reproduce. An expedition is sent to an underground
+  city where artificial humanoids are still fertile.\n\nhttps://www.imdb.co
+ m/title/tt6848928/\n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps:
+ //www.imdb.com/title/tt6848928/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porco Rosso
+DTSTART;TZID=America/Los_Angeles:20250513T160000
+DTEND;TZID=America/Los_Angeles:20250513T180000
+DTSTAMP:20250513T235300Z
+UID:ci0015312-tt0104652--2025-5-13-16-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
+  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
+ .imdb.com/title/tt0104652/\n\nEstimated start: 16:25\n\nIMDb rating: 7.7\n
+ \nhttps://www.imdb.com/title/tt0104652/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junk Head
+DTSTART;TZID=America/Los_Angeles:20250513T213000
+DTEND;TZID=America/Los_Angeles:20250513T233500
+DTSTAMP:20250514T052300Z
+UID:ci0015312-tt6848928--2025-5-13-21-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn a distant future\, humanity 
+ has lost its ability to reproduce. An expedition is sent to an underground
+  city where artificial humanoids are still fertile.\n\nhttps://www.imdb.co
+ m/title/tt6848928/\n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps:
+ //www.imdb.com/title/tt6848928/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porco Rosso
+DTSTART;TZID=America/Los_Angeles:20250514T160000
+DTEND;TZID=America/Los_Angeles:20250514T180000
+DTSTAMP:20250514T235300Z
+UID:ci0015312-tt0104652--2025-5-14-16-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
+  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
+ .imdb.com/title/tt0104652/\n\nEstimated start: 16:25\n\nIMDb rating: 7.7\n
+ \nhttps://www.imdb.com/title/tt0104652/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army of Shadows
+DTSTART;TZID=America/Los_Angeles:20250515T200000
+DTEND;TZID=America/Los_Angeles:20250515T225000
+DTSTAMP:20250516T035300Z
+UID:ci0015312-tt0064040--2025-5-15-20-0
+DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAn account of underground resis
+ tance fighters in Nazi-occupied France.\n\nhttps://www.imdb.com/title/tt00
+ 64040/\n\nEstimated start: 20:25\n\nIMDb rating: 8.1\n\nhttps://www.imdb.c
+ om/title/tt0064040/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
 END:VCALENDAR
