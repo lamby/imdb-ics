@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250511T151844Z
+LAST-MODIFIED:20250512T150556Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mamma Mia!
-DTSTART;TZID=America/Los_Angeles:20250511T160000
-DTEND;TZID=America/Los_Angeles:20250511T181500
-DTSTAMP:20250511T235300Z
-UID:ci0015312-tt0795421--2025-5-11-16-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nDonna\, an independent hotelier
- \, is preparing for her daughter's wedding with the help of two old friend
- s. Meanwhile Sophie\, the spirited bride\, has a plan. She invites three m
- en from her mother's past in hope of meeting her real f...\n\nhttps://www.
- imdb.com/title/tt0795421/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5\n\
- nhttps://www.imdb.com/title/tt0795421/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Junk Head
-DTSTART;TZID=America/Los_Angeles:20250511T213000
-DTEND;TZID=America/Los_Angeles:20250511T233500
-DTSTAMP:20250512T052300Z
-UID:ci0015312-tt6848928--2025-5-11-21-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn a distant future\, humanity 
- has lost its ability to reproduce. An expedition is sent to an underground
-  city where artificial humanoids are still fertile.\n\nhttps://www.imdb.co
- m/title/tt6848928/\n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps:
- //www.imdb.com/title/tt6848928/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Porco Rosso
 DTSTART;TZID=America/Los_Angeles:20250512T160000

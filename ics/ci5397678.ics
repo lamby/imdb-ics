@@ -1,49 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250511T151725Z
+LAST-MODIFIED:20250512T150437Z
 NAME:Cinema 🇺🇸 SIFF Cinema Downtown
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
-BEGIN:VEVENT
-SUMMARY:Sinners
-DTSTART;TZID=America/Los_Angeles:20250511T123000
-DTEND;TZID=America/Los_Angeles:20250511T151500
-DTSTAMP:20250511T202300Z
-UID:ci5397678-tt31193180--2025-5-11-12-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nTrying to leave their troubled 
- lives behind\, twin brothers return to their hometown to start again\, onl
- y to discover that an even greater evil is waiting to welcome them back.\n
- \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 12:55\n\nIMDb
-  rating: 8.1\n\nhttps://www.imdb.com/title/tt31193180/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
- 21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sinners
-DTSTART;TZID=America/Los_Angeles:20250511T160000
-DTEND;TZID=America/Los_Angeles:20250511T184500
-DTSTAMP:20250511T235300Z
-UID:ci5397678-tt31193180--2025-5-11-16-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nTrying to leave their troubled 
- lives behind\, twin brothers return to their hometown to start again\, onl
- y to discover that an even greater evil is waiting to welcome them back.\n
- \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 16:25\n\nIMDb
-  rating: 8.1\n\nhttps://www.imdb.com/title/tt31193180/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
- 21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sinners
-DTSTART;TZID=America/Los_Angeles:20250511T193000
-DTEND;TZID=America/Los_Angeles:20250511T221500
-DTSTAMP:20250512T032300Z
-UID:ci5397678-tt31193180--2025-5-11-19-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nTrying to leave their troubled 
- lives behind\, twin brothers return to their hometown to start again\, onl
- y to discover that an even greater evil is waiting to welcome them back.\n
- \nhttps://www.imdb.com/title/tt31193180/\n\nEstimated start: 19:55\n\nIMDb
-  rating: 8.1\n\nhttps://www.imdb.com/title/tt31193180/
-LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
- 21
-END:VEVENT
 END:VCALENDAR
