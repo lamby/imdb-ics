@@ -1,36 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250512T150229Z
+LAST-MODIFIED:20250513T143823Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Noroi
-DTSTART;TZID=America/Los_Angeles:20250512T193000
-DTEND;TZID=America/Los_Angeles:20250512T215000
-DTSTAMP:20250513T032300Z
-UID:ci1024213-tt0930083--2025-5-12-19-30
-DESCRIPTION:Duration: 1h 55m (115 mins)\n\nA prominent paranormal journali
- st Kobayashi goes missing shortly after completing a documentary. What beg
- ins as an investigation into strange noises soon evolves into the chilling
-  mystery of a demonic entity named Kagutaba.\n\nhttps://www.imdb.com/title
- /tt0930083/\n\nEstimated start: 19:55\n\nIMDb rating: 6.8\n\nhttps://www.i
- mdb.com/title/tt0930083/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250512T163000
-DTEND;TZID=America/Los_Angeles:20250512T182000
-DTSTAMP:20250513T002300Z
-UID:ci1024213-tt35423402--2025-5-12-16-30
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:55\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hung Up on a Dream: The Zombies Documentary
 DTSTART;TZID=America/Los_Angeles:20250513T193000
@@ -330,6 +303,19 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAfter moving into a new house\,
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Little Darlings
+DTSTART;TZID=America/Los_Angeles:20250525T170000
+DTEND;TZID=America/Los_Angeles:20250525T190500
+DTSTAMP:20250526T005300Z
+UID:ci1024213-tt0081060--2025-5-25-17-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nTwo fifteen-year-old girls from 
+ different sides of the tracks compete to see who will be the first to lose
+  their virginity while at a summer camp.\n\nhttps://www.imdb.com/title/tt0
+ 081060/\n\nEstimated start: 17:25\n\nIMDb rating: 6.5\n\nhttps://www.imdb.
+ com/title/tt0081060/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Encampments
 DTSTART;TZID=America/Los_Angeles:20250525T110000
 DTEND;TZID=America/Los_Angeles:20250525T125000
@@ -401,6 +387,33 @@ UID:ci1024213-tt32250381--2025-5-27-16-30
 DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt32
  250381/\n\nEstimated start: 16:55\n\nhttps://www.imdb.com/title/tt32250381
  /
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Darlings
+DTSTART;TZID=America/Los_Angeles:20250528T163000
+DTEND;TZID=America/Los_Angeles:20250528T183500
+DTSTAMP:20250529T002300Z
+UID:ci1024213-tt0081060--2025-5-28-16-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nTwo fifteen-year-old girls from 
+ different sides of the tracks compete to see who will be the first to lose
+  their virginity while at a summer camp.\n\nhttps://www.imdb.com/title/tt0
+ 081060/\n\nEstimated start: 16:55\n\nIMDb rating: 6.5\n\nhttps://www.imdb.
+ com/title/tt0081060/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Missile
+DTSTART;TZID=America/Los_Angeles:20250528T193000
+DTEND;TZID=America/Los_Angeles:20250528T214500
+DTSTAMP:20250529T032300Z
+UID:ci1024213-tt29266121--2025-5-28-19-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nTells the empowering story of a
+ n abused single mother working at a small-town newspaper who gets drawn in
+ to the investigation surrounding the missile crash\, which upends life in 
+ a small northern village.\n\nhttps://www.imdb.com/title/tt29266121/\n\nEst
+ imated start: 19:55\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/title/tt29
+ 266121/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
