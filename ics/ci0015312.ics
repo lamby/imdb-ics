@@ -1,34 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250513T144206Z
+LAST-MODIFIED:20250514T150708Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Porco Rosso
-DTSTART;TZID=America/Los_Angeles:20250513T160000
-DTEND;TZID=America/Los_Angeles:20250513T180000
-DTSTAMP:20250513T235300Z
-UID:ci0015312-tt0104652--2025-5-13-16-0
-DESCRIPTION:Duration: 1h 34m (94 mins)\n\nIn 1930s Italy\, a veteran World
-  War I pilot is cursed to look like an anthropomorphic pig.\n\nhttps://www
- .imdb.com/title/tt0104652/\n\nEstimated start: 16:25\n\nIMDb rating: 7.7\n
- \nhttps://www.imdb.com/title/tt0104652/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Junk Head
-DTSTART;TZID=America/Los_Angeles:20250513T213000
-DTEND;TZID=America/Los_Angeles:20250513T233500
-DTSTAMP:20250514T052300Z
-UID:ci0015312-tt6848928--2025-5-13-21-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn a distant future\, humanity 
- has lost its ability to reproduce. An expedition is sent to an underground
-  city where artificial humanoids are still fertile.\n\nhttps://www.imdb.co
- m/title/tt6848928/\n\nEstimated start: 21:55\n\nIMDb rating: 7.3\n\nhttps:
- //www.imdb.com/title/tt6848928/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Porco Rosso
 DTSTART;TZID=America/Los_Angeles:20250514T160000
