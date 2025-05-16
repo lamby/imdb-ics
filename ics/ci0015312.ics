@@ -1,19 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250515T150624Z
+LAST-MODIFIED:20250516T143322Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Army of Shadows
-DTSTART;TZID=America/Los_Angeles:20250515T200000
-DTEND;TZID=America/Los_Angeles:20250515T225000
-DTSTAMP:20250516T035300Z
-UID:ci0015312-tt0064040--2025-5-15-20-0
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAn account of underground resis
- tance fighters in Nazi-occupied France.\n\nhttps://www.imdb.com/title/tt00
- 64040/\n\nEstimated start: 20:25\n\nIMDb rating: 8.1\n\nhttps://www.imdb.c
- om/title/tt0064040/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 END:VCALENDAR
