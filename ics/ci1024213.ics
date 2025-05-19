@@ -1,62 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250517T151516Z
+LAST-MODIFIED:20250519T142149Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mermaid Legend
-DTSTART;TZID=America/Los_Angeles:20250517T220000
-DTEND;TZID=America/Los_Angeles:20250518T001500
-DTSTAMP:20250518T055300Z
-UID:ci1024213-tt0174918--2025-5-17-22-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWoman is avenging the death of 
- her husband in this slightly supernatural drama.\n\nhttps://www.imdb.com/t
- itle/tt0174918/\n\nEstimated start: 22:25\n\nIMDb rating: 7\n\nhttps://www
- .imdb.com/title/tt0174918/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Go Public: A Documentary Film Project
-DTSTART;TZID=America/Los_Angeles:20250517T190000
-DTEND;TZID=America/Los_Angeles:20250517T212500
-DTSTAMP:20250518T025300Z
-UID:ci1024213-tt2381118--2025-5-17-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
- e life of Pasadena Unified School District\, capturing personal stories of
-  students\, teachers\, and staff to highlight the dedication and complexit
- ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
- stimated start: 19:25\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
- 81118/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250518T110000
-DTEND;TZID=America/Los_Angeles:20250518T125000
-DTSTAMP:20250518T185300Z
-UID:ci1024213-tt35423402--2025-5-18-11-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Happened Here
-DTSTART;TZID=America/Los_Angeles:20250518T170000
-DTEND;TZID=America/Los_Angeles:20250518T190000
-DTSTAMP:20250519T005300Z
-UID:ci1024213-tt0055024--2025-5-18-17-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nIn 1940\, Germany invades Britai
- n and transforms it into a Fascist state where some Britons collaborate an
- d others resist. In 1944\, Pauline\, an apolitical Irish nurse becomes a r
- eluctant player in the fight between the two sides.\n\nhttps://www.imdb.co
- m/title/tt0055024/\n\nEstimated start: 17:25\n\nIMDb rating: 6.7\n\nhttps:
- //www.imdb.com/title/tt0055024/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Go Public: A Documentary Film Project
 DTSTART;TZID=America/Los_Angeles:20250519T193000
@@ -359,6 +306,46 @@ DESCRIPTION:Duration: 1h 20m (80 mins)\n\nA lovely dame with dangerous lie
  s employs the services of a private detective\, who is quickly caught up i
  n the mystery and intrigue of a statuette known as the Maltese Falcon.\n\n
  https://www.imdb.com/title/tt0022111/\n\nEstimated start: 16:25\n\nIMDb ra
+ ting: 6.8\n\nhttps://www.imdb.com/title/tt0022111/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Maltese Falcon
+DTSTART;TZID=America/Los_Angeles:20250602T163000
+DTEND;TZID=America/Los_Angeles:20250602T181500
+DTSTAMP:20250603T002300Z
+UID:ci1024213-tt0022111--2025-6-2-16-30
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nA lovely dame with dangerous lie
+ s employs the services of a private detective\, who is quickly caught up i
+ n the mystery and intrigue of a statuette known as the Maltese Falcon.\n\n
+ https://www.imdb.com/title/tt0022111/\n\nEstimated start: 16:55\n\nIMDb ra
+ ting: 6.8\n\nhttps://www.imdb.com/title/tt0022111/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Habfürdö
+DTSTART;TZID=America/Los_Angeles:20250602T193000
+DTEND;TZID=America/Los_Angeles:20250602T211500
+DTSTAMP:20250603T032300Z
+UID:ci1024213-tt0079258--2025-6-2-19-30
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nOn his wedding day\, eccentric 4
+ 0-something shop decorator Zsolt Mohai visits Anna Parádi\, asking her to
+  call off his marriage to Klára Horváth. Drama and musical numbers follo
+ w as they discuss romance\, loyalty\, ambition.\n\nhttps://www.imdb.com/ti
+ tle/tt0079258/\n\nEstimated start: 19:55\n\nIMDb rating: 7.1\n\nhttps://ww
+ w.imdb.com/title/tt0079258/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Maltese Falcon
+DTSTART;TZID=America/Los_Angeles:20250603T163000
+DTEND;TZID=America/Los_Angeles:20250603T181500
+DTSTAMP:20250604T002300Z
+UID:ci1024213-tt0022111--2025-6-3-16-30
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nA lovely dame with dangerous lie
+ s employs the services of a private detective\, who is quickly caught up i
+ n the mystery and intrigue of a statuette known as the Maltese Falcon.\n\n
+ https://www.imdb.com/title/tt0022111/\n\nEstimated start: 16:55\n\nIMDb ra
  ting: 6.8\n\nhttps://www.imdb.com/title/tt0022111/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT

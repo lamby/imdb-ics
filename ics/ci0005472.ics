@@ -1,7 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250517T151502Z
+LAST-MODIFIED:20250519T142135Z
 NAME:Cinema 🇺🇸 Grand Illusion Cinema
 X-WR-CALNAME:Grand Illusion Cinema\, Seattle
+BEGIN:VEVENT
+SUMMARY:Desert Hearts
+DTSTART;TZID=America/Los_Angeles:20250603T191500
+DTEND;TZID=America/Los_Angeles:20250603T211500
+DTSTAMP:20250604T030800Z
+UID:ci0005472-tt0089015--2025-6-3-19-15
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nWhile waiting for her divorce pa
+ pers\, a repressed professor of literature is unexpectedly seduced by a ca
+ refree\, spirited young lesbian.\n\nhttps://www.imdb.com/title/tt0089015/\
+ n\nEstimated start: 19:40\n\nIMDb rating: 7.1\n\nhttps://www.imdb.com/titl
+ e/tt0089015/
+LOCATION:Grand Illusion Cinema\, Seattle\, 1403 NE 50th St\, Seattle WA 98
+ 105
+END:VEVENT
 END:VCALENDAR
