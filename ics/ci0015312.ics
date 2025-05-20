@@ -1,50 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250519T142503Z
+LAST-MODIFIED:20250520T165242Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Flow
-DTSTART;TZID=America/Los_Angeles:20250519T190000
-DTEND;TZID=America/Los_Angeles:20250519T205000
-DTSTAMP:20250520T025300Z
-UID:ci0015312-tt4772188--2025-5-19-19-0
-DESCRIPTION:Duration: 1h 25m (85 mins)\n\nCat is a solitary animal\, but a
- s its home is devastated by a great flood\, he finds refuge on a boat popu
- lated by various species\, and will have to team up with them despite thei
- r differences.\n\nhttps://www.imdb.com/title/tt4772188/\n\nEstimated start
- : 19:25\n\nIMDb rating: 7.9\n\nhttps://www.imdb.com/title/tt4772188/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Elephant Man
-DTSTART;TZID=America/Los_Angeles:20250519T160000
-DTEND;TZID=America/Los_Angeles:20250519T183000
-DTSTAMP:20250519T235300Z
-UID:ci0015312-tt0080678--2025-5-19-16-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA Victorian surgeon rescues a h
- eavily disfigured man who is mistreated while scraping a living as a side-
- show freak. Behind his monstrous façade\, there is revealed a person of k
- indness\, intelligence and sophistication.\n\nhttps://www.imdb.com/title/t
- t0080678/\n\nEstimated start: 16:25\n\nIMDb rating: 8.2\n\nhttps://www.imd
- b.com/title/tt0080678/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Elephant Man
-DTSTART;TZID=America/Los_Angeles:20250519T213000
-DTEND;TZID=America/Los_Angeles:20250520T000000
-DTSTAMP:20250520T052300Z
-UID:ci0015312-tt0080678--2025-5-19-21-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA Victorian surgeon rescues a h
- eavily disfigured man who is mistreated while scraping a living as a side-
- show freak. Behind his monstrous façade\, there is revealed a person of k
- indness\, intelligence and sophistication.\n\nhttps://www.imdb.com/title/t
- t0080678/\n\nEstimated start: 21:55\n\nIMDb rating: 8.2\n\nhttps://www.imd
- b.com/title/tt0080678/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flow
 DTSTART;TZID=America/Los_Angeles:20250520T190000

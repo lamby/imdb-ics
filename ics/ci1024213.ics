@@ -1,23 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250519T142149Z
+LAST-MODIFIED:20250520T164859Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Go Public: A Documentary Film Project
-DTSTART;TZID=America/Los_Angeles:20250519T193000
-DTEND;TZID=America/Los_Angeles:20250519T215500
-DTSTAMP:20250520T032300Z
-UID:ci1024213-tt2381118--2025-5-19-19-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
- e life of Pasadena Unified School District\, capturing personal stories of
-  students\, teachers\, and staff to highlight the dedication and complexit
- ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
- stimated start: 19:55\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
- 81118/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mermaid Legend
 DTSTART;TZID=America/Los_Angeles:20250520T193000
@@ -347,6 +333,18 @@ DESCRIPTION:Duration: 1h 20m (80 mins)\n\nA lovely dame with dangerous lie
  n the mystery and intrigue of a statuette known as the Maltese Falcon.\n\n
  https://www.imdb.com/title/tt0022111/\n\nEstimated start: 16:55\n\nIMDb ra
  ting: 6.8\n\nhttps://www.imdb.com/title/tt0022111/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Park
+DTSTART;TZID=America/Los_Angeles:20250604T193000
+DTEND;TZID=America/Los_Angeles:20250604T225500
+DTSTAMP:20250605T032300Z
+UID:ci1024213-tt0097033--2025-6-4-19-30
+DESCRIPTION:Duration: 2h 56m (176 mins)\n\nFrederick Wiseman chronicles ev
+ erything and everyone that appears in the world's most famed park.\n\nhttp
+ s://www.imdb.com/title/tt0097033/\n\nEstimated start: 19:55\n\nIMDb rating
+ : 7.5\n\nhttps://www.imdb.com/title/tt0097033/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
