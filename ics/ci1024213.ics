@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250520T164859Z
+LAST-MODIFIED:20250521T142320Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Mermaid Legend
-DTSTART;TZID=America/Los_Angeles:20250520T193000
-DTEND;TZID=America/Los_Angeles:20250520T214500
-DTSTAMP:20250521T032300Z
-UID:ci1024213-tt0174918--2025-5-20-19-30
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWoman is avenging the death of 
- her husband in this slightly supernatural drama.\n\nhttps://www.imdb.com/t
- itle/tt0174918/\n\nEstimated start: 19:55\n\nIMDb rating: 7\n\nhttps://www
- .imdb.com/title/tt0174918/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hospital
 DTSTART;TZID=America/Los_Angeles:20250521T193000
@@ -77,7 +65,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 7\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -115,7 +103,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 10:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 7\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +141,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
- ting: 8.4\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 7\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -344,6 +332,31 @@ UID:ci1024213-tt0097033--2025-6-4-19-30
 DESCRIPTION:Duration: 2h 56m (176 mins)\n\nFrederick Wiseman chronicles ev
  erything and everyone that appears in the world's most famed park.\n\nhttp
  s://www.imdb.com/title/tt0097033/\n\nEstimated start: 19:55\n\nIMDb rating
+ : 7.5\n\nhttps://www.imdb.com/title/tt0097033/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eno
+DTSTART;TZID=America/Los_Angeles:20250605T193000
+DTEND;TZID=America/Los_Angeles:20250605T212000
+DTSTAMP:20250606T032300Z
+UID:ci1024213-tt19854690--2025-6-5-19-30
+DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA generative documentary about a
+ rtist Brian Eno\, with 52 quintillion possible iterations\, so that no vie
+ wing is the same twice.\n\nhttps://www.imdb.com/title/tt19854690/\n\nEstim
+ ated start: 19:55\n\nIMDb rating: 7.9\n\nhttps://www.imdb.com/title/tt1985
+ 4690/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Park
+DTSTART;TZID=America/Los_Angeles:20250605T160000
+DTEND;TZID=America/Los_Angeles:20250605T192500
+DTSTAMP:20250605T235300Z
+UID:ci1024213-tt0097033--2025-6-5-16-0
+DESCRIPTION:Duration: 2h 56m (176 mins)\n\nFrederick Wiseman chronicles ev
+ erything and everyone that appears in the world's most famed park.\n\nhttp
+ s://www.imdb.com/title/tt0097033/\n\nEstimated start: 16:25\n\nIMDb rating
  : 7.5\n\nhttps://www.imdb.com/title/tt0097033/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
