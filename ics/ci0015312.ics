@@ -1,35 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250521T142646Z
+LAST-MODIFIED:20250522T155154Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:The Elephant Man
-DTSTART;TZID=America/Los_Angeles:20250521T160000
-DTEND;TZID=America/Los_Angeles:20250521T183000
-DTSTAMP:20250521T235300Z
-UID:ci0015312-tt0080678--2025-5-21-16-0
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA Victorian surgeon rescues a h
- eavily disfigured man who is mistreated while scraping a living as a side-
- show freak. Behind his monstrous façade\, there is revealed a person of k
- indness\, intelligence and sophistication.\n\nhttps://www.imdb.com/title/t
- t0080678/\n\nEstimated start: 16:25\n\nIMDb rating: 8.2\n\nhttps://www.imd
- b.com/title/tt0080678/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Elephant Man
-DTSTART;TZID=America/Los_Angeles:20250521T213000
-DTEND;TZID=America/Los_Angeles:20250522T000000
-DTSTAMP:20250522T052300Z
-UID:ci0015312-tt0080678--2025-5-21-21-30
-DESCRIPTION:Duration: 2h 04m (124 mins)\n\nA Victorian surgeon rescues a h
- eavily disfigured man who is mistreated while scraping a living as a side-
- show freak. Behind his monstrous façade\, there is revealed a person of k
- indness\, intelligence and sophistication.\n\nhttps://www.imdb.com/title/t
- t0080678/\n\nEstimated start: 21:55\n\nIMDb rating: 8.2\n\nhttps://www.imd
- b.com/title/tt0080678/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 END:VCALENDAR

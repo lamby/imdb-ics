@@ -1,35 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250521T142320Z
+LAST-MODIFIED:20250522T154818Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hospital
-DTSTART;TZID=America/Los_Angeles:20250521T193000
-DTEND;TZID=America/Los_Angeles:20250521T212000
-DTSTAMP:20250522T032300Z
-UID:ci1024213-tt0065853--2025-5-21-19-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn intimate look at the daily ac
- tivities of medical staff and patients in New York's Metropolitan Hospital
- .\n\nhttps://www.imdb.com/title/tt0065853/\n\nEstimated start: 19:55\n\nIM
- Db rating: 7.9\n\nhttps://www.imdb.com/title/tt0065853/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Go Public: A Documentary Film Project
-DTSTART;TZID=America/Los_Angeles:20250521T163000
-DTEND;TZID=America/Los_Angeles:20250521T185500
-DTSTAMP:20250522T002300Z
-UID:ci1024213-tt2381118--2025-5-21-16-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nDocumentary follows a day in th
- e life of Pasadena Unified School District\, capturing personal stories of
-  students\, teachers\, and staff to highlight the dedication and complexit
- ies within public education.\n\nhttps://www.imdb.com/title/tt2381118/\n\nE
- stimated start: 16:55\n\nIMDb rating: 7\n\nhttps://www.imdb.com/title/tt23
- 81118/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hospital
 DTSTART;TZID=America/Los_Angeles:20250522T163000
@@ -358,6 +332,33 @@ DESCRIPTION:Duration: 2h 56m (176 mins)\n\nFrederick Wiseman chronicles ev
  erything and everyone that appears in the world's most famed park.\n\nhttp
  s://www.imdb.com/title/tt0097033/\n\nEstimated start: 16:25\n\nIMDb rating
  : 7.5\n\nhttps://www.imdb.com/title/tt0097033/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me
+DTSTART;TZID=America/Los_Angeles:20250606T190000
+DTEND;TZID=America/Los_Angeles:20250606T214000
+DTSTAMP:20250607T025300Z
+UID:ci1024213-tt0105665--2025-6-6-19-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 19:25\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Habfürdö
+DTSTART;TZID=America/Los_Angeles:20250606T160000
+DTEND;TZID=America/Los_Angeles:20250606T174500
+DTSTAMP:20250606T235300Z
+UID:ci1024213-tt0079258--2025-6-6-16-0
+DESCRIPTION:Duration: 1h 19m (79 mins)\n\nOn his wedding day\, eccentric 4
+ 0-something shop decorator Zsolt Mohai visits Anna Parádi\, asking her to
+  call off his marriage to Klára Horváth. Drama and musical numbers follo
+ w as they discuss romance\, loyalty\, ambition.\n\nhttps://www.imdb.com/ti
+ tle/tt0079258/\n\nEstimated start: 16:25\n\nIMDb rating: 7.1\n\nhttps://ww
+ w.imdb.com/title/tt0079258/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
