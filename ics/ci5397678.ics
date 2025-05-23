@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250522T155029Z
+LAST-MODIFIED:20250523T145808Z
 NAME:Cinema 🇺🇸 SIFF Cinema Downtown
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
 BEGIN:VEVENT
@@ -12,7 +12,7 @@ DTSTAMP:20250606T000800Z
 UID:ci5397678-tt30840798--2025-6-5-16-15
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
  ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
- : 16:40\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title/tt30840798/
+ : 16:40\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
  21
 END:VEVENT
@@ -24,7 +24,7 @@ DTSTAMP:20250606T032300Z
 UID:ci5397678-tt30840798--2025-6-5-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
  ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
- : 19:55\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title/tt30840798/
+ : 19:55\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
  21
 END:VEVENT
@@ -36,7 +36,7 @@ DTSTAMP:20250606T205300Z
 UID:ci5397678-tt30840798--2025-6-6-13-0
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
  ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
- : 13:25\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title/tt30840798/
+ : 13:25\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
  21
 END:VEVENT
@@ -48,7 +48,7 @@ DTSTAMP:20250607T000800Z
 UID:ci5397678-tt30840798--2025-6-6-16-15
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
  ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
- : 16:40\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title/tt30840798/
+ : 16:40\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
  21
 END:VEVENT
@@ -60,7 +60,43 @@ DTSTAMP:20250607T032300Z
 UID:ci5397678-tt30840798--2025-6-6-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
  ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
- : 19:55\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title/tt30840798/
+ : 19:55\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
+ 21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Phoenician Scheme
+DTSTART;TZID=America/Los_Angeles:20250607T130000
+DTEND;TZID=America/Los_Angeles:20250607T151000
+DTSTAMP:20250607T205300Z
+UID:ci5397678-tt30840798--2025-6-7-13-0
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
+ ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
+ : 13:25\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
+ 21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Phoenician Scheme
+DTSTART;TZID=America/Los_Angeles:20250607T161500
+DTEND;TZID=America/Los_Angeles:20250607T182500
+DTSTAMP:20250608T000800Z
+UID:ci5397678-tt30840798--2025-6-7-16-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
+ ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
+ : 16:40\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
+ 21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Phoenician Scheme
+DTSTART;TZID=America/Los_Angeles:20250607T193000
+DTEND;TZID=America/Los_Angeles:20250607T214000
+DTSTAMP:20250608T032300Z
+UID:ci5397678-tt30840798--2025-6-7-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
+ ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
+ : 19:55\n\nIMDb rating: 6.5\n\nhttps://www.imdb.com/title/tt30840798/
 LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
  21
 END:VEVENT
