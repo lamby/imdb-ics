@@ -1,98 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250523T145554Z
+LAST-MODIFIED:20250525T153743Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Phenomena
-DTSTART;TZID=America/Los_Angeles:20250523T190000
-DTEND;TZID=America/Los_Angeles:20250523T212500
-DTSTAMP:20250524T025300Z
-UID:ci1024213-tt0087909--2025-5-23-19-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA young girl who has an amazing
-  ability to communicate with insects is transferred to an exclusive Swiss 
- boarding school\, where her unusual capability might help solve a string o
- f murders.\n\nhttps://www.imdb.com/title/tt0087909/\n\nEstimated start: 19
- :25\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0087909/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250523T160000
-DTEND;TZID=America/Los_Angeles:20250523T175000
-DTSTAMP:20250523T235300Z
-UID:ci1024213-tt35423402--2025-5-23-16-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:25\n\nIMDb ra
- ting: 6.9\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Crazy Family
-DTSTART;TZID=America/Los_Angeles:20250523T220000
-DTEND;TZID=America/Los_Angeles:20250524T001500
-DTSTAMP:20250524T055300Z
-UID:ci1024213-tt0087377--2025-5-23-22-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAfter moving into a new house\,
-  a family starts acting crazier and crazier.\n\nhttps://www.imdb.com/title
- /tt0087377/\n\nEstimated start: 22:25\n\nIMDb rating: 7.1\n\nhttps://www.i
- mdb.com/title/tt0087377/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phenomena
-DTSTART;TZID=America/Los_Angeles:20250524T190000
-DTEND;TZID=America/Los_Angeles:20250524T212500
-DTSTAMP:20250525T025300Z
-UID:ci1024213-tt0087909--2025-5-24-19-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA young girl who has an amazing
-  ability to communicate with insects is transferred to an exclusive Swiss 
- boarding school\, where her unusual capability might help solve a string o
- f murders.\n\nhttps://www.imdb.com/title/tt0087909/\n\nEstimated start: 19
- :25\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0087909/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250524T100000
-DTEND;TZID=America/Los_Angeles:20250524T115000
-DTSTAMP:20250524T175300Z
-UID:ci1024213-tt35423402--2025-5-24-10-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 10:25\n\nIMDb ra
- ting: 6.9\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Encampments
-DTSTART;TZID=America/Los_Angeles:20250524T160000
-DTEND;TZID=America/Los_Angeles:20250524T175000
-DTSTAMP:20250524T235300Z
-UID:ci1024213-tt35423402--2025-5-24-16-0
-DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
- sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
- their university to divest from the US and Israeli weapons companies.\n\nh
- ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 16:25\n\nIMDb ra
- ting: 6.9\n\nhttps://www.imdb.com/title/tt35423402/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Crazy Family
-DTSTART;TZID=America/Los_Angeles:20250524T220000
-DTEND;TZID=America/Los_Angeles:20250525T001500
-DTSTAMP:20250525T055300Z
-UID:ci1024213-tt0087377--2025-5-24-22-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAfter moving into a new house\,
-  a family starts acting crazier and crazier.\n\nhttps://www.imdb.com/title
- /tt0087377/\n\nEstimated start: 22:25\n\nIMDb rating: 7.1\n\nhttps://www.i
- mdb.com/title/tt0087377/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Little Darlings
 DTSTART;TZID=America/Los_Angeles:20250525T170000
@@ -116,7 +27,7 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\n\nStudents flooded Columbia Univer
  sity's lawn to create the Gaza Solidarity Encampment in order to pressure 
  their university to divest from the US and Israeli weapons companies.\n\nh
  ttps://www.imdb.com/title/tt35423402/\n\nEstimated start: 11:25\n\nIMDb ra
- ting: 6.9\n\nhttps://www.imdb.com/title/tt35423402/
+ ting: 7.1\n\nhttps://www.imdb.com/title/tt35423402/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -374,6 +285,57 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nA high-school girl named Makoto
  s of others just as much as she is her own.\n\nhttps://www.imdb.com/title/
  tt0808506/\n\nEstimated start: 19:25\n\nIMDb rating: 7.7\n\nhttps://www.im
  db.com/title/tt0808506/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Treasure of the Sierra Madre
+DTSTART;TZID=America/Los_Angeles:20250608T140000
+DTEND;TZID=America/Los_Angeles:20250608T163500
+DTSTAMP:20250608T215300Z
+UID:ci1024213-tt0040897--2025-6-8-14-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nTwo down-on-their-luck American
+ s searching for work in 1920s Mexico convince an old prospector to help th
+ em mine for gold in the Sierra Madre Mountains.\n\nhttps://www.imdb.com/ti
+ tle/tt0040897/\n\nEstimated start: 14:25\n\nIMDb rating: 8.2\n\nhttps://ww
+ w.imdb.com/title/tt0040897/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Cuts
+DTSTART;TZID=America/Los_Angeles:20250608T170000
+DTEND;TZID=America/Los_Angeles:20250608T203500
+DTSTAMP:20250609T005300Z
+UID:ci1024213-tt0108122--2025-6-8-17-0
+DESCRIPTION:Duration: 3h 08m (188 mins)\n\nThe day-to-day lives of several
+  suburban Los Angeles residents.\n\nhttps://www.imdb.com/title/tt0108122/\
+ n\nEstimated start: 17:25\n\nIMDb rating: 7.6\n\nhttps://www.imdb.com/titl
+ e/tt0108122/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me
+DTSTART;TZID=America/Los_Angeles:20250609T193000
+DTEND;TZID=America/Los_Angeles:20250609T221000
+DTSTAMP:20250610T032300Z
+UID:ci1024213-tt0105665--2025-6-9-19-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 19:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Treasure of the Sierra Madre
+DTSTART;TZID=America/Los_Angeles:20250609T163000
+DTEND;TZID=America/Los_Angeles:20250609T190500
+DTSTAMP:20250610T002300Z
+UID:ci1024213-tt0040897--2025-6-9-16-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nTwo down-on-their-luck American
+ s searching for work in 1920s Mexico convince an old prospector to help th
+ em mine for gold in the Sierra Madre Mountains.\n\nhttps://www.imdb.com/ti
+ tle/tt0040897/\n\nEstimated start: 16:55\n\nIMDb rating: 8.2\n\nhttps://ww
+ w.imdb.com/title/tt0040897/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
