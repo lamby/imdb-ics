@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250526T170341Z
+LAST-MODIFIED:20250527T154945Z
 NAME:Cinema 🇺🇸 SIFF Cinema Downtown
 X-WR-CALNAME:SIFF Cinema Downtown\, Seattle
 BEGIN:VEVENT
@@ -178,6 +178,30 @@ DTSTART;TZID=America/Los_Angeles:20250610T193000
 DTEND;TZID=America/Los_Angeles:20250610T214000
 DTSTAMP:20250611T032300Z
 UID:ci5397678-tt30840798--2025-6-10-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
+ ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
+ : 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt30840798/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
+ 21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Phoenician Scheme
+DTSTART;TZID=America/Los_Angeles:20250611T161500
+DTEND;TZID=America/Los_Angeles:20250611T182500
+DTSTAMP:20250612T000800Z
+UID:ci5397678-tt30840798--2025-6-11-16-15
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
+ ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
+ : 16:40\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt30840798/
+LOCATION:SIFF Cinema Downtown\, Seattle\, 2100 4th Avenue\, Seattle WA 981
+ 21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Phoenician Scheme
+DTSTART;TZID=America/Los_Angeles:20250611T193000
+DTEND;TZID=America/Los_Angeles:20250611T214000
+DTSTAMP:20250612T032300Z
+UID:ci5397678-tt30840798--2025-6-11-19-30
 DESCRIPTION:Duration: 1h 41m (101 mins)\n\nThe story of a family and a fam
  ily business.\n\nhttps://www.imdb.com/title/tt30840798/\n\nEstimated start
  : 19:55\n\nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt30840798/
