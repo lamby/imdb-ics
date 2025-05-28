@@ -1,7 +1,45 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250527T155132Z
+LAST-MODIFIED:20250528T143824Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
+BEGIN:VEVENT
+SUMMARY:Fantastic Mr. Fox
+DTSTART;TZID=America/Los_Angeles:20250528T160000
+DTEND;TZID=America/Los_Angeles:20250528T175500
+DTSTAMP:20250528T235300Z
+UID:ci0015312-tt0432283--2025-5-28-16-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAn urbane fox cannot resist retu
+ rning to his farm raiding ways and then must help his community survive th
+ e farmers' retaliation.\n\nhttps://www.imdb.com/title/tt0432283/\n\nEstima
+ ted start: 16:25\n\nIMDb rating: 7.9\n\nhttps://www.imdb.com/title/tt04322
+ 83/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Tenenbaums
+DTSTART;TZID=America/Los_Angeles:20250528T213000
+DTEND;TZID=America/Los_Angeles:20250528T234500
+DTSTAMP:20250529T052300Z
+UID:ci0015312-tt0265666--2025-5-28-21-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nThe eccentric members of a dysf
+ unctional family reluctantly gather under the same roof for various reason
+ s.\n\nhttps://www.imdb.com/title/tt0265666/\n\nEstimated start: 21:55\n\nI
+ MDb rating: 7.6\n\nhttps://www.imdb.com/title/tt0265666/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers
+DTSTART;TZID=America/Los_Angeles:20250529T200000
+DTEND;TZID=America/Los_Angeles:20250529T221500
+DTSTAMP:20250530T035300Z
+UID:ci0015312-tt12818328--2025-5-29-20-0
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
+ ural winter epic\, a drunken applejack salesman must go from zero to hero 
+ and become North America's greatest fur trapper by defeating hundreds of b
+ eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nEstimated start: 20:2
+ 5\n\nIMDb rating: 7.6\n\nhttps://www.imdb.com/title/tt12818328/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
 END:VCALENDAR

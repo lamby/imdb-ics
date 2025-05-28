@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250527T154723Z
+LAST-MODIFIED:20250528T143408Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-BEGIN:VEVENT
-SUMMARY:Phenomena
-DTSTART;TZID=America/Los_Angeles:20250527T193000
-DTEND;TZID=America/Los_Angeles:20250527T215500
-DTSTAMP:20250528T032300Z
-UID:ci1024213-tt0087909--2025-5-27-19-30
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA young girl who has an amazing
-  ability to communicate with insects is transferred to an exclusive Swiss 
- boarding school\, where her unusual capability might help solve a string o
- f murders.\n\nhttps://www.imdb.com/title/tt0087909/\n\nEstimated start: 19
- :55\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0087909/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Million
-DTSTART;TZID=America/Los_Angeles:20250527T163000
-DTEND;TZID=America/Los_Angeles:20250527T185500
-DTSTAMP:20250528T002300Z
-UID:ci1024213-tt32250381--2025-5-27-16-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nhttps://www.imdb.com/title/tt32
- 250381/\n\nEstimated start: 16:55\n\nhttps://www.imdb.com/title/tt32250381
- /
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Little Darlings
 DTSTART;TZID=America/Los_Angeles:20250528T163000
@@ -328,6 +304,19 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nSupposedly dead\, embittered for
   his Five Elements fighting style is deadly. Meanwhi...\n\nhttps://www.imd
  b.com/title/tt0199813/\n\nEstimated start: 19:55\n\nIMDb rating: 6.7\n\nht
  tps://www.imdb.com/title/tt0199813/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk with Me
+DTSTART;TZID=America/Los_Angeles:20250612T163000
+DTEND;TZID=America/Los_Angeles:20250612T191000
+DTSTAMP:20250613T002300Z
+UID:ci1024213-tt0105665--2025-6-12-16-30
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nLaura Palmer's harrowing final 
+ days are chronicled one year after the murder of Teresa Banks\, a resident
+  of Twin Peaks' neighboring town.\n\nhttps://www.imdb.com/title/tt0105665/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.3\n\nhttps://www.imdb.com/tit
+ le/tt0105665/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
