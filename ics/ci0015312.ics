@@ -1,20 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250529T161408Z
+LAST-MODIFIED:20250530T160202Z
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers
-DTSTART;TZID=America/Los_Angeles:20250529T200000
-DTEND;TZID=America/Los_Angeles:20250529T221500
-DTSTAMP:20250530T035300Z
-UID:ci0015312-tt12818328--2025-5-29-20-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nIn this 19th century\, supernat
- ural winter epic\, a drunken applejack salesman must go from zero to hero 
- and become North America's greatest fur trapper by defeating hundreds of b
- eavers.\n\nhttps://www.imdb.com/title/tt12818328/\n\nEstimated start: 20:2
- 5\n\nIMDb rating: 7.6\n\nhttps://www.imdb.com/title/tt12818328/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
 END:VCALENDAR

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250529T161027Z
+LAST-MODIFIED:20250530T155821Z
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
 BEGIN:VEVENT
@@ -326,6 +326,30 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nAn aspiring actress from Kansas
  comes to New York and meets a host of zany characters.\n\nhttps://www.imdb
  .com/title/tt0135644/\n\nEstimated start: 19:25\n\nIMDb rating: 7.1\n\nhtt
  ps://www.imdb.com/title/tt0135644/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lost Highway
+DTSTART;TZID=America/Los_Angeles:20250614T220000
+DTEND;TZID=America/Los_Angeles:20250615T004000
+DTSTAMP:20250615T055300Z
+UID:ci1024213-tt0116922--2025-6-14-22-0
+DESCRIPTION:Duration: 2h 14m (134 mins)\n\nAnonymous videotapes presage a 
+ musician's murder conviction\, and a gangster's girlfriend leads a mechani
+ c astray.\n\nhttps://www.imdb.com/title/tt0116922/\n\nEstimated start: 22:
+ 25\n\nIMDb rating: 7.6\n\nhttps://www.imdb.com/title/tt0116922/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Island Closest to Heaven
+DTSTART;TZID=America/Los_Angeles:20250614T190000
+DTEND;TZID=America/Los_Angeles:20250614T211000
+DTSTAMP:20250615T025300Z
+UID:ci1024213-tt0125549--2025-6-14-19-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA high school girl travels to t
+ he island of New Caledonia and has magical adventures.\n\nhttps://www.imdb
+ .com/title/tt0125549/\n\nEstimated start: 19:25\n\nIMDb rating: 6.2\n\nhtt
+ ps://www.imdb.com/title/tt0125549/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
