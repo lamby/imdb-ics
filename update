@@ -41,11 +41,6 @@ class ImdbICS:
             "timezone": "America/Los_Angeles",
         },
         {
-            "name": "SIFF Cinema Uptown, Seattle",
-            "id": "ci16639653",
-            "timezone": "America/Los_Angeles",
-        },
-        {
             "name": "Grand Illusion Cinema, Seattle",
             "id": "ci0005472",
             "timezone": "America/Los_Angeles",
@@ -68,21 +63,6 @@ class ImdbICS:
         {
             "name": "AMC Pacific Place 12, Woodinville",
             "id": "ci0004663",
-            "timezone": "America/Los_Angeles",
-        },
-        {
-            "name": "SIFF Cinema Egyptian, Seattle",
-            "id": "ci60177107",
-            "timezone": "America/Los_Angeles",
-        },
-        {
-            "name": "SIFF Film Center, Seattle",
-            "id": "ci16639652",
-            "timezone": "America/Los_Angeles",
-        },
-        {
-            "name": "SIFF Cinema Downtown, Seattle",
-            "id": "ci5397678",
             "timezone": "America/Los_Angeles",
         },
         {
