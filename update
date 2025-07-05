@@ -253,12 +253,14 @@ class ImdbICS:
                     )
                 except IndexError:
                     try:
-                        runtime = self.parse_duration(
-                            self.text(
-                                elem,
-                                "div.li-title-metadata > span.li-title-metadata-item:nth-child(2)",
-                            )
+                        candidate = self.text(
+                            elem,
+                            "div.li-title-metadata > span.li-title-metadata-item:nth-child(2)",
                         )
+
+                        if candidate == "R":
+                            raise IndexError()
+                        runtime = self.parse_duration(candidate)
                     except IndexError:
                         runtime = 120
 
