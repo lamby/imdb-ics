@@ -20,7 +20,7 @@ layout: default
 {% for venue in site.data.venues %}
 <li>
     {{ venue["name"] }} (<a href="ics/{{ venue.id }}.ics?{{ site.github.build_revision }}">ICS</a>,
-        <a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/{{ venue.id }}.ics%3F{{ site.github.build_revision }}&cors=false&title={{ venue["name"]|url_encode }}">View</a>)
+        <a href="https://larrybolt.github.io/online-ics-feed-viewer/#feed={{ site.url|url_encode }}{{ site.baseurl|url_encode }}/ics/{{ venue.id }}.ics%3F{{ site.github.build_revision }}&cors=false&title={{ venue["name"]|url_encode }}">View</a>, <a href="https://www.imdb.com/showtimes/cinema/US/{{ venue["id"] }}/">IMDB</a>)
 </li>
 {% endfor %}
 </ul>

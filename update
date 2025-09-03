@@ -41,18 +41,13 @@ class ImdbICS:
             "timezone": "America/Los_Angeles",
         },
         {
-            "name": "Grand Illusion Cinema, Seattle",
-            "id": "ci0005472",
+            "name": "iPic Theaters at Redmond Town Center, Redmond",
+            "id": "ci0014968",
             "timezone": "America/Los_Angeles",
         },
         {
             "name": "The Beacon, Seattle",
             "id": "ci1024213",
-            "timezone": "America/Los_Angeles",
-        },
-        {
-            "name": "iPic Theaters at Redmond Town Center, Redmond",
-            "id": "ci0014968",
             "timezone": "America/Los_Angeles",
         },
         {
@@ -95,6 +90,11 @@ class ImdbICS:
             "id": "ci0001936",
             "timezone": "America/Los_Angeles",
         },
+        #{
+            #"name": "Grand Illusion Cinema, Seattle",
+            #"id": "ci0005472",
+            #"timezone": "America/Los_Angeles",
+        #},
     ]
 
     def __init__(self):
@@ -264,6 +264,9 @@ class ImdbICS:
                     except IndexError:
                         runtime = 120
 
+
+
+                """
                 try:
                     try:
                         first_button = elem.select("a.ipc-btn")[0]
@@ -273,103 +276,97 @@ class ImdbICS:
                         groups = first_button.parent.parent.parent.find_all(recursive=False)
                 except IndexError:
                     groups = elem.select("h5.li_group")
+                """
 
-                if not groups:
-                    raise click.ClickException(
-                        "No events for local cinema; exiting. Debug in /tmp"
-                    )
+                for x in elem.find("span", string=re_start_time):
+                    group = x.parent.parent.parent.parent
 
-                for group in groups:
                     suffix = (
-                        self.text(group, "div:nth-child(1)")
+                        group.select_one("div:nth-child(1) > div:nth-child(1)").text
                         .strip("():")
                         .replace("Standard", "")
                     )
 
-                    showtimes = []
-
-                    for x in group.select(".ipc-btn"):
-                        try:
-                            showtimes.append(self.parse_showtime(x.text))
-                        except ValueError:
-                            raise ValueError(f"Could not parse showtime {x.text!r} within group {group!r}")
+                    try:
+                        hour, minute = self.parse_showtime(x.text)
+                    except ValueError:
+                        raise ValueError(f"Could not parse showtime {x.text!r} within group {group!r}")
 
                     if suffix:
                         suffix = f" ({suffix})"
 
-                    for hour, minute in showtimes:
-                        event = icalendar.Event()
+                    event = icalendar.Event()
 
-                        uid = (
-                            venue["id"],
-                            imdb_title_id,
-                            slugify.slugify(suffix),
-                            date.year,
-                            date.month,
-                            date.day,
-                            hour,
-                            minute,
-                        )
+                    uid = (
+                        venue["id"],
+                        imdb_title_id,
+                        slugify.slugify(suffix),
+                        date.year,
+                        date.month,
+                        date.day,
+                        hour,
+                        minute,
+                    )
 
-                        # Overview
-                        event.add("uid", "-".join(str(x) for x in uid))
-                        event.add("summary", f"{title}{suffix}")
-                        event.add(
-                            "location", "{}, {}".format(venue["name"], venue["address"])
-                        )
+                    # Overview
+                    event.add("uid", "-".join(str(x) for x in uid))
+                    event.add("summary", f"{title}{suffix}")
+                    event.add(
+                        "location", "{}, {}".format(venue["name"], venue["address"])
+                    )
 
-                        # Calculate times
-                        start = datetime.datetime(
-                            year=date.year,
-                            month=date.month,
-                            day=date.day,
-                            hour=hour,
-                            minute=minute,
-                            tzinfo=pytz.timezone(venue["timezone"]),
-                        )
+                    # Calculate times
+                    start = datetime.datetime(
+                        year=date.year,
+                        month=date.month,
+                        day=date.day,
+                        hour=hour,
+                        minute=minute,
+                        tzinfo=pytz.timezone(venue["timezone"]),
+                    )
 
-                        estimated_start = start + datetime.timedelta(
-                            minutes=self.PADDING,
-                        )
-                        end = estimated_start + datetime.timedelta(
-                            minutes=self.round_to_nearest(runtime, 5),
-                        )
-                        event.add("dtstamp", start)
-                        event.add("dtstart", start)
-                        event.add("dtend", end)
+                    estimated_start = start + datetime.timedelta(
+                        minutes=self.PADDING,
+                    )
+                    end = estimated_start + datetime.timedelta(
+                        minutes=self.round_to_nearest(runtime, 5),
+                    )
+                    event.add("dtstamp", start)
+                    event.add("dtstart", start)
+                    event.add("dtend", end)
 
-                        # Description
-                        data = self.title_info[imdb_title_id]
-                        description = []
-                        hours, minutes = divmod(runtime, 60)
+                    # Description
+                    data = self.title_info[imdb_title_id]
+                    description = []
+                    hours, minutes = divmod(runtime, 60)
+                    description.append(
+                        f"Duration: {hours}h {minutes:02d}m ({runtime} mins)"
+                    )
+                    try:
                         description.append(
-                            f"Duration: {hours}h {minutes:02d}m ({runtime} mins)"
+                            data["description"].replace("&apos;", "'")
                         )
-                        try:
-                            description.append(
-                                data["description"].replace("&apos;", "'")
-                            )
-                        except KeyError:
-                            pass
-                        description.append(data["url"])
+                    except KeyError:
+                        pass
+                    description.append(data["url"])
+                    description.append(
+                        f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
+                    )
+                    estimated_start
+                    try:
                         description.append(
-                            f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
+                            f"IMDb rating: {data['aggregateRating']['ratingValue']}"
                         )
-                        estimated_start
-                        try:
-                            description.append(
-                                f"IMDb rating: {data['aggregateRating']['ratingValue']}"
-                            )
-                        except KeyError:
-                            pass
-                        description.append(data["url"])
+                    except KeyError:
+                        pass
+                    description.append(data["url"])
 
-                        event.add("description", "\n\n".join(description))
+                    event.add("description", "\n\n".join(description))
 
-                        cal.add_component(event)
+                    cal.add_component(event)
 
-                        num_events_date += 1
-                        num_events_venue += 1
+                    num_events_date += 1
+                    num_events_venue += 1
 
             logging.debug(
                 f"Found {num_events_date} events for {venue['name']} on {date}"
