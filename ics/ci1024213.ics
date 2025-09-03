@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250903T015402Z
-BEGIN:VEVENT
-SUMMARY:Natsu no niwa: The Friends (1994)
-DTSTART;TZID=America/Los_Angeles:20250902T163000
-DTEND;TZID=America/Los_Angeles:20250902T185000
-DTSTAMP:20250903T002300Z
-UID:ci1024213-tt0110630--2025-9-2-16-30
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nThree young boys from Kobe form
-  an unlikely friendship with a lonely old man and help him restore his hou
- se and neglected garden during the summer.\n\nhttps://www.imdb.com/title/t
- t0110630/\n\nEstimated start: 16:55\n\nIMDb rating: 7.5\n\nhttps://www.imd
- b.com/title/tt0110630/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brigitte et Brigitte (1966)
-DTSTART;TZID=America/Los_Angeles:20250902T193000
-DTEND;TZID=America/Los_Angeles:20250902T211000
-DTSTAMP:20250903T032300Z
-UID:ci1024213-tt0060189--2025-9-2-19-30
-DESCRIPTION:Duration: 1h 15m (75 mins)\n\nParis\, 1960s. Two girls named B
- rigitte from the two villages share an apartment and study at the Sorbonne
- .\n\nhttps://www.imdb.com/title/tt0060189/\n\nEstimated start: 19:55\n\nIM
- Db rating: 6.3\n\nhttps://www.imdb.com/title/tt0060189/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250903T141358Z
 BEGIN:VEVENT
 SUMMARY:Brigitte et Brigitte (1966)
 DTSTART;TZID=America/Los_Angeles:20250903T163000
@@ -338,6 +313,31 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\n\nA generative documentary about a
  wing is the same twice.\n\nhttps://www.imdb.com/title/tt19854690/\n\nEstim
  ated start: 19:55\n\nIMDb rating: 8\n\nhttps://www.imdb.com/title/tt198546
  90/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trouble Every Day (2001)
+DTSTART;TZID=America/Los_Angeles:20250918T193000
+DTEND;TZID=America/Los_Angeles:20250918T214000
+DTSTAMP:20250919T032300Z
+UID:ci1024213-tt0204700--2025-9-18-19-30
+DESCRIPTION:Duration: 1h 41m (101 mins)\n\nTwo American newlyweds in Paris
+  experience a love so strong\, it almost devours them.\n\nhttps://www.imdb
+ .com/title/tt0204700/\n\nEstimated start: 19:55\n\nIMDb rating: 5.9\n\nhtt
+ ps://www.imdb.com/title/tt0204700/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Nights of a Dreamer (1971)
+DTSTART;TZID=America/Los_Angeles:20250918T163000
+DTEND;TZID=America/Los_Angeles:20250918T182500
+DTSTAMP:20250919T002300Z
+UID:ci1024213-tt0067641--2025-9-18-16-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nJacques\, a young man with artis
+ tic aspirations\, spends four nights wandering Paris with a young woman\, 
+ whom he rescued from suicide.\n\nhttps://www.imdb.com/title/tt0067641/\n\n
+ Estimated start: 16:55\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/t
+ t0067641/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
