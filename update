@@ -80,11 +80,11 @@ class ImdbICS:
             "id": "ci0015312",
             "timezone": "America/Los_Angeles",
         },
-        {
-            "name": "Landmark Crest Cinema, Shoreline",
-            "id": "ci0001936",
-            "timezone": "America/Los_Angeles",
-        },
+        #{
+            #"name": "Landmark Crest Cinema, Shoreline",
+            #"id": "ci0001936",
+            #"timezone": "America/Los_Angeles",
+        #},
         #{
             #"name": "Grand Illusion Cinema, Seattle",
             #"id": "ci0005472",
@@ -227,9 +227,15 @@ class ImdbICS:
             ):
                 title = self.text(elem, ".info h3, h3.ipc-title__text")
 
+
                 for needle in strip_suffixes:
                     if title.endswith(needle):
                         title = title[: -len(needle)]
+
+                year = int(self.text(
+                    elem,
+                    "div.li-title-metadata > span.li-title-metadata-item:nth-child(1)",
+                ))
 
                 try:
                     href = self.attr(
@@ -260,20 +266,7 @@ class ImdbICS:
                         runtime = 120
 
 
-
-                """
-                try:
-                    try:
-                        first_button = elem.select("a.ipc-btn")[0]
-                        groups = first_button.parent.parent.parent.find_all(recursive=False)
-                    except IndexError:
-                        first_button = elem.select("span.ipc-btn")[0]
-                        groups = first_button.parent.parent.parent.find_all(recursive=False)
-                except IndexError:
-                    groups = elem.select("h5.li_group")
-                """
-
-                for x in elem.find("span", string=re_start_time):
+                for x in elem.find_all("span", string=re_start_time):
                     group = x.parent.parent.parent.parent
 
                     suffix = (
@@ -303,9 +296,13 @@ class ImdbICS:
                         minute,
                     )
 
+                    year_suffix = ""
+                    if year < datetime.date.today().year - 2:
+                        year_suffix = f" ({year})"
+
                     # Overview
                     event.add("uid", "-".join(str(x) for x in uid))
-                    event.add("summary", f"{title}{suffix}")
+                    event.add("summary", f"{title}{year_suffix}{suffix}")
                     event.add(
                         "location", "{}, {}".format(venue["name"], venue["address"])
                     )
