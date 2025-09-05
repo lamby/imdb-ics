@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250904T154314Z
+LAST-MODIFIED:20250905T151418Z
 BEGIN:VEVENT
 SUMMARY:Crash (1996)
 DTSTART;TZID=America/Los_Angeles:20250905T190000
@@ -334,6 +334,33 @@ DTSTART;TZID=America/Los_Angeles:20250919T220000
 DTEND;TZID=America/Los_Angeles:20250919T234500
 DTSTAMP:20250920T055300Z
 UID:ci1024213-tt0075666--2025-9-19-22-0
+DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter the death of her parents\,
+  a young girl arrives at a convent and brings a sinister presence with her
+ . Is it her enigmatic imaginary friend\, Alucarda\, who is to blame? Or is
+  there a satanic force at work?\n\nhttps://www.imdb.com/title/tt0075666/\n
+ \nEstimated start: 22:25\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title
+ /tt0075666/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Realm of the Senses (1976)
+DTSTART;TZID=America/Los_Angeles:20250920T190000
+DTEND;TZID=America/Los_Angeles:20250920T211500
+DTSTAMP:20250921T025300Z
+UID:ci1024213-tt0074102--2025-9-20-19-0
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA fictionalized retelling of th
+ e story of Sada Abe\, whose affair with her master quickly turned obsessiv
+ e and sadomasochistic.\n\nhttps://www.imdb.com/title/tt0074102/\n\nEstimat
+ ed start: 19:25\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/title/tt007410
+ 2/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alucarda (1977)
+DTSTART;TZID=America/Los_Angeles:20250920T220000
+DTEND;TZID=America/Los_Angeles:20250920T234500
+DTSTAMP:20250921T055300Z
+UID:ci1024213-tt0075666--2025-9-20-22-0
 DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter the death of her parents\,
   a young girl arrives at a convent and brings a sinister presence with her
  . Is it her enigmatic imaginary friend\, Alucarda\, who is to blame? Or is

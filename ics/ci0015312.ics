@@ -3,17 +3,5 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-LAST-MODIFIED:20250904T154534Z
-BEGIN:VEVENT
-SUMMARY:AJ Goes to the Dog Park
-DTSTART;TZID=America/Los_Angeles:20250904T200000
-DTEND;TZID=America/Los_Angeles:20250904T214500
-DTSTAMP:20250905T035300Z
-UID:ci0015312-tt33318123--2025-9-4-20-0
-DESCRIPTION:Duration: 1h 19m (79 mins)\n\nWhen AJ loses his favorite dog p
- ark\, he must fight\, fish\, scrap\, scrape\, and sap to get it back.\n\nh
- ttps://www.imdb.com/title/tt33318123/\n\nEstimated start: 20:25\n\nIMDb ra
- ting: 5.9\n\nhttps://www.imdb.com/title/tt33318123/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
+LAST-MODIFIED:20250905T151636Z
 END:VCALENDAR
