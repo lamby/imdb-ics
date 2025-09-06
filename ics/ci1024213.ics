@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250905T151418Z
-BEGIN:VEVENT
-SUMMARY:Crash (1996)
-DTSTART;TZID=America/Los_Angeles:20250905T190000
-DTEND;TZID=America/Los_Angeles:20250905T210500
-DTSTAMP:20250906T025300Z
-UID:ci1024213-tt0115964--2025-9-5-19-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA car crash victim suddenly fin
- ds himself turned on by car accidents and becomes involved with an undergr
- ound sub-culture of like-minded souls.\n\nhttps://www.imdb.com/title/tt011
- 5964/\n\nEstimated start: 19:25\n\nIMDb rating: 6.4\n\nhttps://www.imdb.co
- m/title/tt0115964/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In My Skin (2002)
-DTSTART;TZID=America/Los_Angeles:20250905T220000
-DTEND;TZID=America/Los_Angeles:20250906T000000
-DTSTAMP:20250906T055300Z
-UID:ci1024213-tt0337961--2025-9-5-22-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA woman grows increasingly fasci
- nated with her body after suffering a disfiguring accident.\n\nhttps://www
- .imdb.com/title/tt0337961/\n\nEstimated start: 22:25\n\nIMDb rating: 6.2\n
- \nhttps://www.imdb.com/title/tt0337961/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250906T143134Z
 BEGIN:VEVENT
 SUMMARY:Crash (1996)
 DTSTART;TZID=America/Los_Angeles:20250906T190000
@@ -157,6 +132,19 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nWhen a single mother suffers a n
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Boom! (1968)
+DTSTART;TZID=America/Los_Angeles:20250911T193000
+DTEND;TZID=America/Los_Angeles:20250911T214500
+DTSTAMP:20250912T032300Z
+UID:ci1024213-tt0062751--2025-9-11-19-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nExplores the confrontation betw
+ een the woman who has everything\, including emptiness\, and a penniless p
+ oet who has nothing but the ability to fill a wealthy woman's needs.\n\nht
+ tps://www.imdb.com/title/tt0062751/\n\nEstimated start: 19:55\n\nIMDb rati
+ ng: 5.5\n\nhttps://www.imdb.com/title/tt0062751/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Piano Teacher (2001)
 DTSTART;TZID=America/Los_Angeles:20250912T190000
 DTEND;TZID=America/Los_Angeles:20250912T214000
@@ -190,6 +178,19 @@ DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA young man romantically pursue
  s his masochistic piano teacher.\n\nhttps://www.imdb.com/title/tt0254686/\
  n\nEstimated start: 19:25\n\nIMDb rating: 7.5\n\nhttps://www.imdb.com/titl
  e/tt0254686/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boom! (1968)
+DTSTART;TZID=America/Los_Angeles:20250913T130000
+DTEND;TZID=America/Los_Angeles:20250913T151500
+DTSTAMP:20250913T205300Z
+UID:ci1024213-tt0062751--2025-9-13-13-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nExplores the confrontation betw
+ een the woman who has everything\, including emptiness\, and a penniless p
+ oet who has nothing but the ability to fill a wealthy woman's needs.\n\nht
+ tps://www.imdb.com/title/tt0062751/\n\nEstimated start: 13:25\n\nIMDb rati
+ ng: 5.5\n\nhttps://www.imdb.com/title/tt0062751/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -367,6 +368,31 @@ DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter the death of her parents\,
   there a satanic force at work?\n\nhttps://www.imdb.com/title/tt0075666/\n
  \nEstimated start: 22:25\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title
  /tt0075666/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gleaners & I (2000)
+DTSTART;TZID=America/Los_Angeles:20250921T170000
+DTEND;TZID=America/Los_Angeles:20250921T185000
+DTSTAMP:20250922T005300Z
+UID:ci1024213-tt0247380--2025-9-21-17-0
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nVarda films and interviews glean
+ ers in France in all forms\, from those picking fields after the harvest t
+ o those scouring the dumpsters of Paris.\n\nhttps://www.imdb.com/title/tt0
+ 247380/\n\nEstimated start: 17:25\n\nIMDb rating: 7.7\n\nhttps://www.imdb.
+ com/title/tt0247380/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breaking Point (2009)
+DTSTART;TZID=America/Los_Angeles:20250921T140000
+DTEND;TZID=America/Los_Angeles:20250921T160000
+DTSTAMP:20250921T215300Z
+UID:ci1024213-tt0965375--2025-9-21-14-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA troubled lawyer takes on a hig
+ h profile murder case that forces him to come to terms with his own past.\
+ n\nhttps://www.imdb.com/title/tt0965375/\n\nEstimated start: 14:25\n\nIMDb
+  rating: 4.8\n\nhttps://www.imdb.com/title/tt0965375/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
