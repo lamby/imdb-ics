@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250906T143134Z
-BEGIN:VEVENT
-SUMMARY:Crash (1996)
-DTSTART;TZID=America/Los_Angeles:20250906T190000
-DTEND;TZID=America/Los_Angeles:20250906T210500
-DTSTAMP:20250907T025300Z
-UID:ci1024213-tt0115964--2025-9-6-19-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA car crash victim suddenly fin
- ds himself turned on by car accidents and becomes involved with an undergr
- ound sub-culture of like-minded souls.\n\nhttps://www.imdb.com/title/tt011
- 5964/\n\nEstimated start: 19:25\n\nIMDb rating: 6.4\n\nhttps://www.imdb.co
- m/title/tt0115964/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250907T150026Z
 BEGIN:VEVENT
 SUMMARY:Crash (1996)
 DTSTART;TZID=America/Los_Angeles:20250907T170000
@@ -393,6 +380,32 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA troubled lawyer takes on a hig
  h profile murder case that forces him to come to terms with his own past.\
  n\nhttps://www.imdb.com/title/tt0965375/\n\nEstimated start: 14:25\n\nIMDb
   rating: 4.8\n\nhttps://www.imdb.com/title/tt0965375/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breaking Point (2009)
+DTSTART;TZID=America/Los_Angeles:20250922T163000
+DTEND;TZID=America/Los_Angeles:20250922T183000
+DTSTAMP:20250923T002300Z
+UID:ci1024213-tt0965375--2025-9-22-16-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA troubled lawyer takes on a hig
+ h profile murder case that forces him to come to terms with his own past.\
+ n\nhttps://www.imdb.com/title/tt0965375/\n\nEstimated start: 16:55\n\nIMDb
+  rating: 4.8\n\nhttps://www.imdb.com/title/tt0965375/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driver Seat (2007)
+DTSTART;TZID=America/Los_Angeles:20250922T193000
+DTEND;TZID=America/Los_Angeles:20250922T215500
+DTSTAMP:20250923T032300Z
+UID:ci1024213-tt3627752--2025-9-22-19-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA power struggle is the center 
+ of the film Driver Seat\, and reveals three characters attempting to creat
+ e a plan for a robbery. The situation is tricky however\, because each gro
+ up member has their own view of how it should go down...\n\nhttps://www.im
+ db.com/title/tt3627752/\n\nEstimated start: 19:55\n\nhttps://www.imdb.com/
+ title/tt3627752/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
