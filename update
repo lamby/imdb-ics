@@ -80,16 +80,11 @@ class ImdbICS:
             "id": "ci0015312",
             "timezone": "America/Los_Angeles",
         },
-        #{
-            #"name": "Landmark Crest Cinema, Shoreline",
-            #"id": "ci0001936",
-            #"timezone": "America/Los_Angeles",
-        #},
-        #{
-            #"name": "Grand Illusion Cinema, Seattle",
-            #"id": "ci0005472",
-            #"timezone": "America/Los_Angeles",
-        #},
+        {
+            "name": "Regal Meridian 16, Seattle WA 98101",
+            "id": "ci0001533",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
