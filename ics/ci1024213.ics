@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250909T140105Z
-BEGIN:VEVENT
-SUMMARY:In My Skin (2002)
-DTSTART;TZID=America/Los_Angeles:20250909T163000
-DTEND;TZID=America/Los_Angeles:20250909T183000
-DTSTAMP:20250910T002300Z
-UID:ci1024213-tt0337961--2025-9-9-16-30
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA woman grows increasingly fasci
- nated with her body after suffering a disfiguring accident.\n\nhttps://www
- .imdb.com/title/tt0337961/\n\nEstimated start: 16:55\n\nIMDb rating: 6.2\n
- \nhttps://www.imdb.com/title/tt0337961/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kotoko (2011)
-DTSTART;TZID=America/Los_Angeles:20250909T193000
-DTEND;TZID=America/Los_Angeles:20250909T213000
-DTSTAMP:20250910T032300Z
-UID:ci1024213-tt1842532--2025-9-9-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nWhen a single mother suffers a n
- ervous breakdown\, she is suspected of child abuse and her child is taken 
- away. Her mental suffering escalates as she succumbs to her darkest fantas
- ies.\n\nhttps://www.imdb.com/title/tt1842532/\n\nEstimated start: 19:55\n\
- nIMDb rating: 6.8\n\nhttps://www.imdb.com/title/tt1842532/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250910T143008Z
 BEGIN:VEVENT
 SUMMARY:Crash (1996)
 DTSTART;TZID=America/Los_Angeles:20250910T163000
@@ -395,6 +370,33 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nVarda films and interviews glean
  o those scouring the dumpsters of Paris.\n\nhttps://www.imdb.com/title/tt0
  247380/\n\nEstimated start: 16:55\n\nIMDb rating: 7.7\n\nhttps://www.imdb.
  com/title/tt0247380/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gleaners & I (2000)
+DTSTART;TZID=America/Los_Angeles:20250925T193000
+DTEND;TZID=America/Los_Angeles:20250925T212000
+DTSTAMP:20250926T032300Z
+UID:ci1024213-tt0247380--2025-9-25-19-30
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nVarda films and interviews glean
+ ers in France in all forms\, from those picking fields after the harvest t
+ o those scouring the dumpsters of Paris.\n\nhttps://www.imdb.com/title/tt0
+ 247380/\n\nEstimated start: 19:55\n\nIMDb rating: 7.7\n\nhttps://www.imdb.
+ com/title/tt0247380/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driver Seat (2007)
+DTSTART;TZID=America/Los_Angeles:20250925T163000
+DTEND;TZID=America/Los_Angeles:20250925T185500
+DTSTAMP:20250926T002300Z
+UID:ci1024213-tt3627752--2025-9-25-16-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nA power struggle is the center 
+ of the film Driver Seat\, and reveals three characters attempting to creat
+ e a plan for a robbery. The situation is tricky however\, because each gro
+ up member has their own view of how it should go down...\n\nhttps://www.im
+ db.com/title/tt3627752/\n\nEstimated start: 16:55\n\nhttps://www.imdb.com/
+ title/tt3627752/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
