@@ -3,44 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-LAST-MODIFIED:20250910T143241Z
-BEGIN:VEVENT
-SUMMARY:Tremors (1990)
-DTSTART;TZID=America/Los_Angeles:20250910T160000
-DTEND;TZID=America/Los_Angeles:20250910T180500
-DTSTAMP:20250910T235300Z
-UID:ci0015312-tt0100814--2025-9-10-16-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNatives of a small isolated town
-  defend themselves against strange underground creatures which are killing
-  them one by one.\n\nhttps://www.imdb.com/title/tt0100814/\n\nEstimated st
- art: 16:25\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/tt0100814/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tremors (1990)
-DTSTART;TZID=America/Los_Angeles:20250910T190000
-DTEND;TZID=America/Los_Angeles:20250910T210500
-DTSTAMP:20250911T025300Z
-UID:ci0015312-tt0100814--2025-9-10-19-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nNatives of a small isolated town
-  defend themselves against strange underground creatures which are killing
-  them one by one.\n\nhttps://www.imdb.com/title/tt0100814/\n\nEstimated st
- art: 19:25\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/tt0100814/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hot Rod (2007)
-DTSTART;TZID=America/Los_Angeles:20250910T213000
-DTEND;TZID=America/Los_Angeles:20250910T232500
-DTSTAMP:20250911T052300Z
-UID:ci0015312-tt0787475--2025-9-10-21-30
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nSelf-proclaimed stuntman Rod Kim
- ble is preparing for the jump of his life - to clear fifteen buses to rais
- e money for his abusive stepfather Frank's life-saving heart operation.\n\
- nhttps://www.imdb.com/title/tt0787475/\n\nEstimated start: 21:55\n\nIMDb r
- ating: 6.7\n\nhttps://www.imdb.com/title/tt0787475/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
+LAST-MODIFIED:20250911T155855Z
 BEGIN:VEVENT
 SUMMARY:Blade II (2002)
 DTSTART;TZID=America/Los_Angeles:20250911T200000
