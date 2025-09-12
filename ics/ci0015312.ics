@@ -3,17 +3,5 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-LAST-MODIFIED:20250911T155855Z
-BEGIN:VEVENT
-SUMMARY:Blade II (2002)
-DTSTART;TZID=America/Los_Angeles:20250911T200000
-DTEND;TZID=America/Los_Angeles:20250911T222500
-DTSTAMP:20250912T035300Z
-UID:ci0015312-tt0187738--2025-9-11-20-0
-DESCRIPTION:Duration: 1h 57m (117 mins)\n\nBlade forms an uneasy alliance 
- with the vampire council in order to combat the Reapers\, who are feeding 
- on vampires.\n\nhttps://www.imdb.com/title/tt0187738/\n\nEstimated start: 
- 20:25\n\nIMDb rating: 6.7\n\nhttps://www.imdb.com/title/tt0187738/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
+LAST-MODIFIED:20250912T151601Z
 END:VCALENDAR
