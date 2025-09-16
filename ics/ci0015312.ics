@@ -3,5 +3,58 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-LAST-MODIFIED:20250915T142715Z
+LAST-MODIFIED:20250916T141600Z
+BEGIN:VEVENT
+SUMMARY:Rear Window (1954)
+DTSTART;TZID=America/Los_Angeles:20250916T160000
+DTEND;TZID=America/Los_Angeles:20250916T182000
+DTSTAMP:20250916T235300Z
+UID:ci0015312-tt0047396--2025-9-16-16-0
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA bored photographer recovering
+  from a broken leg passes the time by watching his neighbors and begins to
+  suspect one of them of murder.\n\nhttps://www.imdb.com/title/tt0047396/\n
+ \nEstimated start: 16:25\n\nIMDb rating: 8.5\n\nhttps://www.imdb.com/title
+ /tt0047396/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rear Window (1954)
+DTSTART;TZID=America/Los_Angeles:20250916T214000
+DTEND;TZID=America/Los_Angeles:20250917T000000
+DTSTAMP:20250917T053300Z
+UID:ci0015312-tt0047396--2025-9-16-21-40
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA bored photographer recovering
+  from a broken leg passes the time by watching his neighbors and begins to
+  suspect one of them of murder.\n\nhttps://www.imdb.com/title/tt0047396/\n
+ \nEstimated start: 22:05\n\nIMDb rating: 8.5\n\nhttps://www.imdb.com/title
+ /tt0047396/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rear Window (1954)
+DTSTART;TZID=America/Los_Angeles:20250917T160000
+DTEND;TZID=America/Los_Angeles:20250917T182000
+DTSTAMP:20250917T235300Z
+UID:ci0015312-tt0047396--2025-9-17-16-0
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nA bored photographer recovering
+  from a broken leg passes the time by watching his neighbors and begins to
+  suspect one of them of murder.\n\nhttps://www.imdb.com/title/tt0047396/\n
+ \nEstimated start: 16:25\n\nIMDb rating: 8.5\n\nhttps://www.imdb.com/title
+ /tt0047396/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art on Film\, Program 3: Form (1992)
+DTSTART;TZID=America/Los_Angeles:20250918T200000
+DTEND;TZID=America/Los_Angeles:20250918T212000
+DTSTAMP:20250919T035300Z
+UID:ci0015312-tt3773736--2025-9-18-20-0
+DESCRIPTION:Duration: 0h 52m (52 mins)\n\nThe Program for Art on Film was 
+ a joint venture of The Metropolitan Museum of Art and the J. Paul Getty Tr
+ ust. It was established in 1984 to foster new ways of thinking about the r
+ elationship between art and moving-image media. Be...\n\nhttps://www.imdb.
+ com/title/tt3773736/\n\nEstimated start: 20:25\n\nhttps://www.imdb.com/tit
+ le/tt3773736/
+LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
+END:VEVENT
 END:VCALENDAR
