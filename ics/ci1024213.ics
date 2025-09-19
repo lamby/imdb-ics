@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250918T151437Z
-BEGIN:VEVENT
-SUMMARY:Trouble Every Day (2001)
-DTSTART;TZID=America/Los_Angeles:20250918T193000
-DTEND;TZID=America/Los_Angeles:20250918T214000
-DTSTAMP:20250919T032300Z
-UID:ci1024213-tt0204700--2025-9-18-19-30
-DESCRIPTION:Duration: 1h 41m (101 mins)\n\nTwo American newlyweds in Paris
-  experience a love so strong\, it almost devours them.\n\nhttps://www.imdb
- .com/title/tt0204700/\n\nEstimated start: 19:55\n\nIMDb rating: 5.9\n\nhtt
- ps://www.imdb.com/title/tt0204700/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Four Nights of a Dreamer (1971)
-DTSTART;TZID=America/Los_Angeles:20250918T163000
-DTEND;TZID=America/Los_Angeles:20250918T182500
-DTSTAMP:20250919T002300Z
-UID:ci1024213-tt0067641--2025-9-18-16-30
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nJacques\, a young man with artis
- tic aspirations\, spends four nights wandering Paris with a young woman\, 
- whom he rescued from suicide.\n\nhttps://www.imdb.com/title/tt0067641/\n\n
- Estimated start: 16:55\n\nIMDb rating: 7.2\n\nhttps://www.imdb.com/title/t
- t0067641/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250919T141849Z
 BEGIN:VEVENT
 SUMMARY:Alucarda (1977)
 DTSTART;TZID=America/Los_Angeles:20250919T220000
@@ -379,6 +354,19 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA New York philosophy grad stude
  me to terms with her new lifestyle and frequent craving for human blood.\n
  \nhttps://www.imdb.com/title/tt0112288/\n\nEstimated start: 22:25\n\nIMDb 
  rating: 6.5\n\nhttps://www.imdb.com/title/tt0112288/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Re-Animator (1985)
+DTSTART;TZID=America/Los_Angeles:20251004T190000
+DTEND;TZID=America/Los_Angeles:20251004T205000
+DTSTAMP:20251005T025300Z
+UID:ci1024213-tt0089885--2025-10-4-19-0
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAfter an odd new medical student
+  arrives on campus\, a dedicated local and his girlfriend become involved 
+ in bizarre experiments centering around the re-animation of dead tissue.\n
+ \nhttps://www.imdb.com/title/tt0089885/\n\nEstimated start: 19:25\n\nIMDb 
+ rating: 7.1\n\nhttps://www.imdb.com/title/tt0089885/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
