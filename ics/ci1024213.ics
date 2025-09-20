@@ -3,21 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250919T141849Z
-BEGIN:VEVENT
-SUMMARY:Alucarda (1977)
-DTSTART;TZID=America/Los_Angeles:20250919T220000
-DTEND;TZID=America/Los_Angeles:20250919T234500
-DTSTAMP:20250920T055300Z
-UID:ci1024213-tt0075666--2025-9-19-22-0
-DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter the death of her parents\,
-  a young girl arrives at a convent and brings a sinister presence with her
- . Is it her enigmatic imaginary friend\, Alucarda\, who is to blame? Or is
-  there a satanic force at work?\n\nhttps://www.imdb.com/title/tt0075666/\n
- \nEstimated start: 22:25\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title
- /tt0075666/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250920T160315Z
 BEGIN:VEVENT
 SUMMARY:In the Realm of the Senses (1976)
 DTSTART;TZID=America/Los_Angeles:20250920T190000
@@ -367,6 +353,30 @@ DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAfter an odd new medical student
  in bizarre experiments centering around the re-animation of dead tissue.\n
  \nhttps://www.imdb.com/title/tt0089885/\n\nEstimated start: 19:25\n\nIMDb 
  rating: 7.1\n\nhttps://www.imdb.com/title/tt0089885/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda (2005)
+DTSTART;TZID=America/Los_Angeles:20251005T170000
+DTEND;TZID=America/Los_Angeles:20251005T192000
+DTSTAMP:20251006T005300Z
+UID:ci1024213-tt0468795--2025-10-5-17-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA music group of girls need to 
+ learn to play a song before the school festival.\n\nhttps://www.imdb.com/t
+ itle/tt0468795/\n\nEstimated start: 17:25\n\nIMDb rating: 7.5\n\nhttps://w
+ ww.imdb.com/title/tt0468795/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blithe Spirit (1945)
+DTSTART;TZID=America/Los_Angeles:20251005T140000
+DTEND;TZID=America/Los_Angeles:20251005T160500
+DTSTAMP:20251005T215300Z
+UID:ci1024213-tt0038363--2025-10-5-14-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA man and his second wife are ha
+ unted by the ghost of his first wife.\n\nhttps://www.imdb.com/title/tt0038
+ 363/\n\nEstimated start: 14:25\n\nIMDb rating: 7\n\nhttps://www.imdb.com/t
+ itle/tt0038363/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
