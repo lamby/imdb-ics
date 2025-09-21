@@ -3,34 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250920T160315Z
-BEGIN:VEVENT
-SUMMARY:In the Realm of the Senses (1976)
-DTSTART;TZID=America/Los_Angeles:20250920T190000
-DTEND;TZID=America/Los_Angeles:20250920T211500
-DTSTAMP:20250921T025300Z
-UID:ci1024213-tt0074102--2025-9-20-19-0
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA fictionalized retelling of th
- e story of Sada Abe\, whose affair with her master quickly turned obsessiv
- e and sadomasochistic.\n\nhttps://www.imdb.com/title/tt0074102/\n\nEstimat
- ed start: 19:25\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/title/tt007410
- 2/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alucarda (1977)
-DTSTART;TZID=America/Los_Angeles:20250920T220000
-DTEND;TZID=America/Los_Angeles:20250920T234500
-DTSTAMP:20250921T055300Z
-UID:ci1024213-tt0075666--2025-9-20-22-0
-DESCRIPTION:Duration: 1h 18m (78 mins)\n\nAfter the death of her parents\,
-  a young girl arrives at a convent and brings a sinister presence with her
- . Is it her enigmatic imaginary friend\, Alucarda\, who is to blame? Or is
-  there a satanic force at work?\n\nhttps://www.imdb.com/title/tt0075666/\n
- \nEstimated start: 22:25\n\nIMDb rating: 6.3\n\nhttps://www.imdb.com/title
- /tt0075666/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250921T141112Z
 BEGIN:VEVENT
 SUMMARY:The Gleaners & I (2000)
 DTSTART;TZID=America/Los_Angeles:20250921T170000
@@ -377,6 +350,19 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nA man and his second wife are ha
  unted by the ghost of his first wife.\n\nhttps://www.imdb.com/title/tt0038
  363/\n\nEstimated start: 14:25\n\nIMDb rating: 7\n\nhttps://www.imdb.com/t
  itle/tt0038363/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Re-Animator (1985)
+DTSTART;TZID=America/Los_Angeles:20251006T193000
+DTEND;TZID=America/Los_Angeles:20251006T212000
+DTSTAMP:20251007T032300Z
+UID:ci1024213-tt0089885--2025-10-6-19-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAfter an odd new medical student
+  arrives on campus\, a dedicated local and his girlfriend become involved 
+ in bizarre experiments centering around the re-animation of dead tissue.\n
+ \nhttps://www.imdb.com/title/tt0089885/\n\nEstimated start: 19:55\n\nIMDb 
+ rating: 7.1\n\nhttps://www.imdb.com/title/tt0089885/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
