@@ -85,6 +85,11 @@ class ImdbICS:
             "id": "ci0001533",
             "timezone": "America/Los_Angeles",
         },
+        {
+            "name": "Regal Crossroads Stadium 8, Seattle WA 98008",
+            "id": "ci0001220",
+            "timezone": "America/Los_Angeles",
+        },
     ]
 
     def __init__(self):
