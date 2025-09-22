@@ -3,47 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-LAST-MODIFIED:20250921T141339Z
-BEGIN:VEVENT
-SUMMARY:Ferris Bueller's Day Off (1986)
-DTSTART;TZID=America/Los_Angeles:20250921T190000
-DTEND;TZID=America/Los_Angeles:20250921T211000
-DTSTAMP:20250922T025300Z
-UID:ci0015312-tt0091042--2025-9-21-19-0
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA brash\, cocky high school sen
- ior\, tired of skipping school to spend a boring day at home\, is determin
- ed to enjoy an epic day roaring around his favorite Chicago sites\, enlist
- ing his best friend and girlfriend to join him on the a...\n\nhttps://www.
- imdb.com/title/tt0091042/\n\nEstimated start: 19:25\n\nIMDb rating: 7.8\n\
- nhttps://www.imdb.com/title/tt0091042/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aliens (1986)
-DTSTART;TZID=America/Los_Angeles:20250921T160000
-DTEND;TZID=America/Los_Angeles:20250921T184500
-DTSTAMP:20250921T235300Z
-UID:ci0015312-tt0090605--2025-9-21-16-0
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nDecades after surviving the Nos
- tromo incident\, Ellen Ripley is sent out to re-establish contact with a t
- erraforming colony but finds herself battling the Alien Queen and her offs
- pring.\n\nhttps://www.imdb.com/title/tt0090605/\n\nEstimated start: 16:25\
- n\nIMDb rating: 8.4\n\nhttps://www.imdb.com/title/tt0090605/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aliens (1986)
-DTSTART;TZID=America/Los_Angeles:20250921T213000
-DTEND;TZID=America/Los_Angeles:20250922T001500
-DTSTAMP:20250922T052300Z
-UID:ci0015312-tt0090605--2025-9-21-21-30
-DESCRIPTION:Duration: 2h 17m (137 mins)\n\nDecades after surviving the Nos
- tromo incident\, Ellen Ripley is sent out to re-establish contact with a t
- erraforming colony but finds herself battling the Alien Queen and her offs
- pring.\n\nhttps://www.imdb.com/title/tt0090605/\n\nEstimated start: 21:55\
- n\nIMDb rating: 8.4\n\nhttps://www.imdb.com/title/tt0090605/
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
+LAST-MODIFIED:20250922T154229Z
 BEGIN:VEVENT
 SUMMARY:Ferris Bueller's Day Off (1986)
 DTSTART;TZID=America/Los_Angeles:20250922T190000

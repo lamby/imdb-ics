@@ -339,7 +339,6 @@ class ImdbICS:
                     description.append(
                         f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
                     )
-                    estimated_start
                     try:
                         description.append(
                             f"IMDb rating: {data['aggregateRating']['ratingValue']}"
