@@ -350,7 +350,6 @@ class ImdbICS:
                         )
                     except KeyError:
                         pass
-                    description.append(data["url"])
 
                     event.add("description", "\n\n".join(description))
 
