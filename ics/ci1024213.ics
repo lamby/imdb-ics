@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250924T152801Z
-BEGIN:VEVENT
-SUMMARY:In the Realm of the Senses (1976)
-DTSTART;TZID=America/Los_Angeles:20250924T193000
-DTEND;TZID=America/Los_Angeles:20250924T214500
-DTSTAMP:20250925T032300Z
-UID:ci1024213-tt0074102--2025-9-24-19-30
-DESCRIPTION:Duration: 1h 49m (109 mins)\n\nA fictionalized retelling of th
- e story of Sada Abe\, whose affair with her master quickly turned obsessiv
- e and sadomasochistic.\n\nhttps://www.imdb.com/title/tt0074102/\n\nEstimat
- ed start: 19:55\n\nIMDb rating: 6.6\n\nhttps://www.imdb.com/title/tt007410
- 2/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gleaners & I (2000)
-DTSTART;TZID=America/Los_Angeles:20250924T163000
-DTEND;TZID=America/Los_Angeles:20250924T182000
-DTSTAMP:20250925T002300Z
-UID:ci1024213-tt0247380--2025-9-24-16-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nVarda films and interviews glean
- ers in France in all forms\, from those picking fields after the harvest t
- o those scouring the dumpsters of Paris.\n\nhttps://www.imdb.com/title/tt0
- 247380/\n\nEstimated start: 16:55\n\nIMDb rating: 7.7\n\nhttps://www.imdb.
- com/title/tt0247380/
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250925T153642Z
 BEGIN:VEVENT
 SUMMARY:The Gleaners & I (2000)
 DTSTART;TZID=America/Los_Angeles:20250925T193000
@@ -360,6 +334,19 @@ DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA group of young people are trap
  hey must fight to survive the night in this Brazilian slasher movie with p
  olitical overtones.\n\nhttps://www.imdb.com/title/tt0277315/\n\nEstimated 
  start: 19:55\n\nIMDb rating: 5\n\nhttps://www.imdb.com/title/tt0277315/
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shock: Diversão Diabólica (1984)
+DTSTART;TZID=America/Los_Angeles:20251010T160000
+DTEND;TZID=America/Los_Angeles:20251010T174000
+DTSTAMP:20251010T235300Z
+UID:ci1024213-tt0277315--2025-10-10-16-0
+DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA group of young people are trap
+ ped inside a remote music venue with a psychotic killer after a concert. T
+ hey must fight to survive the night in this Brazilian slasher movie with p
+ olitical overtones.\n\nhttps://www.imdb.com/title/tt0277315/\n\nEstimated 
+ start: 16:25\n\nIMDb rating: 5\n\nhttps://www.imdb.com/title/tt0277315/
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
