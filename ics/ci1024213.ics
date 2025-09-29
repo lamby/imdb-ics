@@ -3,56 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250927T163303Z
-BEGIN:VEVENT
-SUMMARY:Titane (2021)
-DTSTART;TZID=America/Los_Angeles:20250927T190000
-DTEND;TZID=America/Los_Angeles:20250927T211500
-DTSTAMP:20250928T025300Z
-UID:ci1024213-tt10944760--2025-9-27-19-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollowing a series of unexplain
- ed crimes\, a father is reunited with the son who has been missing for ten
-  years.\n\nhttps://www.imdb.com/title/tt10944760/\n\nEstimated start: 19:2
- 5\n\nIMDb rating: 6.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Telephone Book (1971)
-DTSTART;TZID=America/Los_Angeles:20250927T220000
-DTEND;TZID=America/Los_Angeles:20250927T234500
-DTSTAMP:20250928T055300Z
-UID:ci1024213-tt0067839--2025-9-27-22-0
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nVictim of an obscene caller beco
- mes obsessed with her fantasy of him and attempts to track down in real li
- fe\n\nhttps://www.imdb.com/title/tt0067839/\n\nEstimated start: 22:25\n\nI
- MDb rating: 6.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Touch of Evil (1958)
-DTSTART;TZID=America/Los_Angeles:20250928T140000
-DTEND;TZID=America/Los_Angeles:20250928T160000
-DTSTAMP:20250928T215300Z
-UID:ci1024213-tt0052311--2025-9-28-14-0
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Mexican official and his Ameri
- can wife are targeted in a Texas border town by the crime family he's tryi
- ng to put behind bars for drug trafficking\, as his concern grows over the
-  tactics of the local detective whose cooperation h...\n\nhttps://www.imdb
- .com/title/tt0052311/\n\nEstimated start: 14:25\n\nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lovers on the Bridge (1991)
-DTSTART;TZID=America/Los_Angeles:20250928T170000
-DTEND;TZID=America/Los_Angeles:20250928T193000
-DTSTAMP:20250929T005300Z
-UID:ci1024213-tt0101318--2025-9-28-17-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAlex\, who's homeless and addic
- ted to alcohol\, and Michèle\, who's losing her sight\, form a relationsh
- ip while sleeping rough on Paris's Pont-Neuf bridge.\n\nhttps://www.imdb.c
- om/title/tt0101318/\n\nEstimated start: 17:25\n\nIMDb rating: 7.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20250929T141925Z
 BEGIN:VEVENT
 SUMMARY:Touch of Evil (1958)
 DTSTART;TZID=America/Los_Angeles:20250929T163000
