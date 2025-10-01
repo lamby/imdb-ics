@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20250930T154049Z
-BEGIN:VEVENT
-SUMMARY:Titane (2021)
-DTSTART;TZID=America/Los_Angeles:20250930T163000
-DTEND;TZID=America/Los_Angeles:20250930T184500
-DTSTAMP:20251001T002300Z
-UID:ci1024213-tt10944760--2025-9-30-16-30
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nFollowing a series of unexplain
- ed crimes\, a father is reunited with the son who has been missing for ten
-  years.\n\nhttps://www.imdb.com/title/tt10944760/\n\nEstimated start: 16:5
- 5\n\nIMDb rating: 6.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Touch of Evil (1958)
-DTSTART;TZID=America/Los_Angeles:20250930T193000
-DTEND;TZID=America/Los_Angeles:20250930T213000
-DTSTAMP:20251001T032300Z
-UID:ci1024213-tt0052311--2025-9-30-19-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA Mexican official and his Ameri
- can wife are targeted in a Texas border town by the crime family he's tryi
- ng to put behind bars for drug trafficking\, as his concern grows over the
-  tactics of the local detective whose cooperation h...\n\nhttps://www.imdb
- .com/title/tt0052311/\n\nEstimated start: 19:55\n\nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251001T152811Z
 BEGIN:VEVENT
 SUMMARY:The Lovers on the Bridge (1991)
 DTSTART;TZID=America/Los_Angeles:20251001T163000
