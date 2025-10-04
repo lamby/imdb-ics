@@ -264,7 +264,8 @@ class ImdbICS:
                         if candidate == "R":
                             raise IndexError()
                         runtime = self.parse_duration(candidate)
-                    except IndexError:
+                    except (IndexError, AttributeError):
+                        logging.warning(f"Assuming a standard duration for {imdb_title_id}")
                         runtime = 120
 
 
