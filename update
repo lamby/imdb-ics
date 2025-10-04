@@ -232,10 +232,12 @@ class ImdbICS:
                     if title.endswith(needle):
                         title = title[: -len(needle)]
 
-                year = int(self.text(
+                year_raw = self.text(
                     elem,
                     "div.li-title-metadata > span.li-title-metadata-item:nth-child(1)",
-                ))
+                )
+
+                year = int(re.search(r"^(\d{4})", year_raw).group(1))
 
                 try:
                     href = self.attr(
