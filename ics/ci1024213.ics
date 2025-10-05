@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251004T195301Z
-BEGIN:VEVENT
-SUMMARY:Re-Animator (1985)
-DTSTART;TZID=America/Los_Angeles:20251004T190000
-DTEND;TZID=America/Los_Angeles:20251004T205000
-DTSTAMP:20251005T025300Z
-UID:ci1024213-tt0089885--2025-10-4-19-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAfter an odd new medical student
-  arrives on campus\, a dedicated local and his girlfriend become involved 
- in bizarre experiments centering around the re-animation of dead tissue.\n
- \nhttps://www.imdb.com/title/tt0089885/\n\nEstimated start: 19:25\n\nIMDb 
- rating: 7.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251005T172908Z
 BEGIN:VEVENT
 SUMMARY:Linda Linda Linda (2005)
 DTSTART;TZID=America/Los_Angeles:20251005T170000
@@ -146,6 +133,31 @@ DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a proud noble refuses to k
  iss the hand of the despotic King James in 1690\, he is cruelly executed a
  nd his son surgically disfigured.\n\nhttps://www.imdb.com/title/tt0019130/
  \n\nEstimated start: 14:25\n\nIMDb rating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Man Who Laughs (1928)
+DTSTART;TZID=America/Los_Angeles:20251020T163000
+DTEND;TZID=America/Los_Angeles:20251020T184500
+DTSTAMP:20251021T002300Z
+UID:ci1024213-tt0019130--2025-10-20-16-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWhen a proud noble refuses to k
+ iss the hand of the despotic King James in 1690\, he is cruelly executed a
+ nd his son surgically disfigured.\n\nhttps://www.imdb.com/title/tt0019130/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seduction: The Cruel Woman (1985)
+DTSTART;TZID=America/Los_Angeles:20251020T193000
+DTEND;TZID=America/Los_Angeles:20251020T212500
+DTSTAMP:20251021T032300Z
+UID:ci1024213-tt0090252--2025-10-20-19-30
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nWanda ist von Berufs wegen graus
+ am. Ihre Spezialitaet: das Erfinden von Fallen fuer ihre Liebhaber/innen. 
+ Gregor\, der romantische Schwaermer\, wird aus seinem Traum gerissen. Just
+ ine\, die naive Unschuld aus Uebersee\, muss lernen\, d...\n\nhttps://www.
+ imdb.com/title/tt0090252/\n\nEstimated start: 19:55\n\nIMDb rating: 5
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
