@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251009T160731Z
-BEGIN:VEVENT
-SUMMARY:Linda Linda Linda (2005)
-DTSTART;TZID=America/Los_Angeles:20251009T163000
-DTEND;TZID=America/Los_Angeles:20251009T185000
-DTSTAMP:20251010T002300Z
-UID:ci1024213-tt0468795--2025-10-9-16-30
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nA music group of girls need to 
- learn to play a song before the school festival.\n\nhttps://www.imdb.com/t
- itle/tt0468795/\n\nEstimated start: 16:55\n\nIMDb rating: 7.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shock: Diversão Diabólica (1984)
-DTSTART;TZID=America/Los_Angeles:20251009T193000
-DTEND;TZID=America/Los_Angeles:20251009T211000
-DTSTAMP:20251010T032300Z
-UID:ci1024213-tt0277315--2025-10-9-19-30
-DESCRIPTION:Duration: 1h 14m (74 mins)\n\nA group of young people are trap
- ped inside a remote music venue with a psychotic killer after a concert. T
- hey must fight to survive the night in this Brazilian slasher movie with p
- olitical overtones.\n\nhttps://www.imdb.com/title/tt0277315/\n\nEstimated 
- start: 19:55\n\nIMDb rating: 5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251011T170644Z
 BEGIN:VEVENT
 SUMMARY:Vampire's Kiss (1988)
 DTSTART;TZID=America/Los_Angeles:20251018T220000
@@ -125,6 +101,44 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLung and his partner Ling is ass
  d 'Happiness' which causes people to evaporate\, Lung\, Ling and Wan-Gei j
  oin forces to fight the Rapters.\n\nhttps://www.imdb.com/title/tt0105869/\
  n\nEstimated start: 22:25\n\nIMDb rating: 5.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Living Dead Girl (1982)
+DTSTART;TZID=America/Los_Angeles:20251025T220000
+DTEND;TZID=America/Los_Angeles:20251025T235500
+DTSTAMP:20251026T055300Z
+UID:ci1024213-tt0084357--2025-10-25-22-0
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA toxic spill revives a beautifu
+ l\, dead heiress who\, with the help of her childhood friend\, must quench
+  her insatiable thirst for blood.\n\nhttps://www.imdb.com/title/tt0084357/
+ \n\nEstimated start: 22:25\n\nIMDb rating: 5.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Monster Squad (1987)
+DTSTART;TZID=America/Los_Angeles:20251026T170000
+DTEND;TZID=America/Los_Angeles:20251026T185000
+DTSTAMP:20251027T005300Z
+UID:ci1024213-tt0093560--2025-10-26-17-0
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA group of 12-year-olds form a U
+ niversal Monsters fan club called Monster Squad\, and have to attempt to s
+ ave their hometown from Count Dracula and his monsters when they show up f
+ or real.\n\nhttps://www.imdb.com/title/tt0093560/\n\nEstimated start: 17:2
+ 5\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Haunting (1963)
+DTSTART;TZID=America/Los_Angeles:20251026T140000
+DTEND;TZID=America/Los_Angeles:20251026T162000
+DTSTAMP:20251026T215300Z
+UID:ci1024213-tt0057129--2025-10-26-14-0
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nHill House has stood for about 
+ 90 years and appears haunted: its inhabitants have always met strange\, tr
+ agic ends. Now Dr. John Markway has assembled a team of people who he thin
+ ks will prove whether or not the house is haunted.\n\nhttps://www.imdb.com
+ /title/tt0057129/\n\nEstimated start: 14:25\n\nIMDb rating: 7.4
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
