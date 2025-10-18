@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251017T153546Z
+LAST-MODIFIED:20251018T184848Z
 BEGIN:VEVENT
 SUMMARY:Vampire's Kiss (1988)
 DTSTART;TZID=America/Los_Angeles:20251018T220000
@@ -201,6 +201,18 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nFollows a day in the lives of a
  group of Los Angeles high school students and the strange lives they lead.
  \n\nhttps://www.imdb.com/title/tt0119809/\n\nEstimated start: 22:25\n\nIMD
  b rating: 6.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stranger Eyes
+DTSTART;TZID=America/Los_Angeles:20251102T170000
+DTEND;TZID=America/Los_Angeles:20251102T193000
+DTSTAMP:20251103T005300Z
+UID:ci1024213-tt28419037--2025-11-2-17-0
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA man obsessively searches for 
+ his missing daughter after receiving disturbing videos exposing his secret
+ s\, leading to a chilling confrontation with the voyeur.\n\nhttps://www.im
+ db.com/title/tt28419037/\n\nEstimated start: 17:25\n\nIMDb rating: 6.4
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
