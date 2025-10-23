@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251022T151946Z
-BEGIN:VEVENT
-SUMMARY:Vampire's Kiss (1988)
-DTSTART;TZID=America/Los_Angeles:20251022T163000
-DTEND;TZID=America/Los_Angeles:20251022T184000
-DTSTAMP:20251023T002300Z
-UID:ci1024213-tt0098577--2025-10-22-16-30
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAfter an encounter with a neck-
- biter\, a publishing executive thinks that he's turning into a vampire.\n\
- nhttps://www.imdb.com/title/tt0098577/\n\nEstimated start: 16:55\n\nIMDb r
- ating: 6.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251023T151207Z
 BEGIN:VEVENT
 SUMMARY:Vampire's Kiss (1988)
 DTSTART;TZID=America/Los_Angeles:20251023T163000
