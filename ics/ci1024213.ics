@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251025T162131Z
-BEGIN:VEVENT
-SUMMARY:The Living Dead Girl (1982)
-DTSTART;TZID=America/Los_Angeles:20251025T220000
-DTEND;TZID=America/Los_Angeles:20251025T235500
-DTSTAMP:20251026T055300Z
-UID:ci1024213-tt0084357--2025-10-25-22-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA toxic spill revives a beautifu
- l\, dead heiress who\, with the help of her childhood friend\, must quench
-  her insatiable thirst for blood.\n\nhttps://www.imdb.com/title/tt0084357/
- \n\nEstimated start: 22:25\n\nIMDb rating: 5.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251026T152619Z
 BEGIN:VEVENT
 SUMMARY:The Haunting (1963)
 DTSTART;TZID=America/Los_Angeles:20251026T140000
