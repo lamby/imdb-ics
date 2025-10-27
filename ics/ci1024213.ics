@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251026T152619Z
-BEGIN:VEVENT
-SUMMARY:The Haunting (1963)
-DTSTART;TZID=America/Los_Angeles:20251026T140000
-DTEND;TZID=America/Los_Angeles:20251026T162000
-DTSTAMP:20251026T215300Z
-UID:ci1024213-tt0057129--2025-10-26-14-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nHill House has stood for about 
- 90 years and appears haunted: its inhabitants have always met strange\, tr
- agic ends. Now Dr. John Markway has assembled a team of people who he thin
- ks will prove whether or not the house is haunted.\n\nhttps://www.imdb.com
- /title/tt0057129/\n\nEstimated start: 14:25\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Monster Squad (1987)
-DTSTART;TZID=America/Los_Angeles:20251026T170000
-DTEND;TZID=America/Los_Angeles:20251026T185000
-DTSTAMP:20251027T005300Z
-UID:ci1024213-tt0093560--2025-10-26-17-0
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA group of 12-year-olds form a U
- niversal Monsters fan club called Monster Squad\, and have to attempt to s
- ave their hometown from Count Dracula and his monsters when they show up f
- or real.\n\nhttps://www.imdb.com/title/tt0093560/\n\nEstimated start: 17:2
- 5\n\nIMDb rating: 6.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251027T163900Z
 BEGIN:VEVENT
 SUMMARY:The Haunting (1963)
 DTSTART;TZID=America/Los_Angeles:20251027T163000
@@ -74,10 +48,10 @@ DTEND;TZID=America/Los_Angeles:20251030T182000
 DTSTAMP:20251031T002300Z
 UID:ci1024213-tt0093560--2025-10-30-16-30
 DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA group of 12-year-olds form a U
- niversal Monsters fan club called Monster Squad\, and have to attempt to s
- ave their hometown from Count Dracula and his monsters when they show up f
- or real.\n\nhttps://www.imdb.com/title/tt0093560/\n\nEstimated start: 16:5
- 5\n\nIMDb rating: 6.9
+ niversal Monsters fan club called Monster Squad and attempt to save their 
+ hometown from Count Dracula and his fellow monsters when they show up for 
+ real.\n\nhttps://www.imdb.com/title/tt0093560/\n\nEstimated start: 16:55\n
+ \nIMDb rating: 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -188,6 +162,19 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nFollows a day in the lives of a
  group of Los Angeles high school students and the strange lives they lead.
  \n\nhttps://www.imdb.com/title/tt0119809/\n\nEstimated start: 19:55\n\nIMD
  b rating: 6.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fall of Otrar (1992)
+DTSTART;TZID=America/Los_Angeles:20251111T190000
+DTEND;TZID=America/Los_Angeles:20251111T222500
+DTSTAMP:20251112T025300Z
+UID:ci1024213-tt0104224--2025-11-11-19-0
+DESCRIPTION:Duration: 2h 56m (176 mins)\n\nThis historical epic charts pol
+ itical intrigue among the Kipchaks\, a confederation of tribes on the step
+ pes of central Asia\, before they were overrun by Genghis Khan.\n\nhttps:/
+ /www.imdb.com/title/tt0104224/\n\nEstimated start: 19:25\n\nIMDb rating: 7
+ .4
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
