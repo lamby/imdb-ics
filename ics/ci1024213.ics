@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251027T163900Z
-BEGIN:VEVENT
-SUMMARY:The Haunting (1963)
-DTSTART;TZID=America/Los_Angeles:20251027T163000
-DTEND;TZID=America/Los_Angeles:20251027T185000
-DTSTAMP:20251028T002300Z
-UID:ci1024213-tt0057129--2025-10-27-16-30
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nHill House has stood for about 
- 90 years and appears haunted: its inhabitants have always met strange\, tr
- agic ends. Now Dr. John Markway has assembled a team of people who he thin
- ks will prove whether or not the house is haunted.\n\nhttps://www.imdb.com
- /title/tt0057129/\n\nEstimated start: 16:55\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251028T161357Z
 BEGIN:VEVENT
 SUMMARY:Virgin Machine (1988)
 DTSTART;TZID=America/Los_Angeles:20251028T193000
@@ -174,6 +161,19 @@ DESCRIPTION:Duration: 2h 56m (176 mins)\n\nThis historical epic charts pol
  itical intrigue among the Kipchaks\, a confederation of tribes on the step
  pes of central Asia\, before they were overrun by Genghis Khan.\n\nhttps:/
  /www.imdb.com/title/tt0104224/\n\nEstimated start: 19:25\n\nIMDb rating: 7
+ .4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fall of Otrar (1992)
+DTSTART;TZID=America/Los_Angeles:20251112T193000
+DTEND;TZID=America/Los_Angeles:20251112T225500
+DTSTAMP:20251113T032300Z
+UID:ci1024213-tt0104224--2025-11-12-19-30
+DESCRIPTION:Duration: 2h 56m (176 mins)\n\nThis historical epic charts pol
+ itical intrigue among the Kipchaks\, a confederation of tribes on the step
+ pes of central Asia\, before they were overrun by Genghis Khan.\n\nhttps:/
+ /www.imdb.com/title/tt0104224/\n\nEstimated start: 19:55\n\nIMDb rating: 7
  .4
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
