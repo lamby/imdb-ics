@@ -4,7 +4,7 @@ PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Varsity Theatre
 X-WR-CALNAME:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 
  98105
-LAST-MODIFIED:20251028T161725Z
+LAST-MODIFIED:20251029T164947Z
 BEGIN:VEVENT
 SUMMARY:Black Phone 2
 DTSTART;TZID=America/Los_Angeles:20251029T154000
@@ -87,20 +87,6 @@ LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Phone 2
-DTSTART;TZID=America/Los_Angeles:20251030T154000
-DTEND;TZID=America/Los_Angeles:20251030T180000
-DTSTAMP:20251030T233300Z
-UID:ci0001943-tt29644189--2025-10-30-15-40
-DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
- th life after his captivity\, his sister begins receiving calls in her dre
- ams from the black phone and seeing disturbing visions of three boys being
-  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
- tle/tt29644189/\n\nEstimated start: 16:05\n\nIMDb rating: 6.6
-LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
- 5\, 4329 University Way Northeast\, Seattle WA 98105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Phone 2
 DTSTART;TZID=America/Los_Angeles:20251030T184000
 DTEND;TZID=America/Los_Angeles:20251030T210000
 DTSTAMP:20251031T023300Z
@@ -127,15 +113,28 @@ LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
  5\, 4329 University Way Northeast\, Seattle WA 98105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Springsteen: Deliver Me from Nowhere
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251030T153500
+DTEND;TZID=America/Los_Angeles:20251030T180000
+DTSTAMP:20251030T232800Z
+UID:ci0001943-tt12300742--2025-10-30-15-35
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 16:00\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
 DTSTART;TZID=America/Los_Angeles:20251030T183000
 DTEND;TZID=America/Los_Angeles:20251030T205500
 DTSTAMP:20251031T022300Z
-UID:ci0001943-tt31923069--2025-10-30-18-30
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
- fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
- SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
- b.com/title/tt31923069/\n\nEstimated start: 18:55\n\nIMDb rating: 6.9
+UID:ci0001943-tt12300742--2025-10-30-18-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
 LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
  5\, 4329 University Way Northeast\, Seattle WA 98105
 END:VEVENT
@@ -162,6 +161,566 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA well-meaning but rather inept
  angel named Gabriel meddles in the lives of a struggling gig worker and a 
  wealthy venture capitalist.\n\nhttps://www.imdb.com/title/tt27543578/\n\nE
  stimated start: 19:15\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251031T155000
+DTEND;TZID=America/Los_Angeles:20251031T181000
+DTSTAMP:20251031T234300Z
+UID:ci0001943-tt29644189--2025-10-31-15-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 16:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251031T185000
+DTEND;TZID=America/Los_Angeles:20251031T211000
+DTSTAMP:20251101T024300Z
+UID:ci0001943-tt29644189--2025-10-31-18-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 19:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251031T215000
+DTEND;TZID=America/Los_Angeles:20251101T001000
+DTSTAMP:20251101T054300Z
+UID:ci0001943-tt29644189--2025-10-31-21-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 22:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251031T153000
+DTEND;TZID=America/Los_Angeles:20251031T175500
+DTSTAMP:20251031T232300Z
+UID:ci0001943-tt31923069--2025-10-31-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 15:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251031T183000
+DTEND;TZID=America/Los_Angeles:20251031T205500
+DTSTAMP:20251101T022300Z
+UID:ci0001943-tt31923069--2025-10-31-18-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 18:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251031T213000
+DTEND;TZID=America/Los_Angeles:20251031T235500
+DTSTAMP:20251101T052300Z
+UID:ci0001943-tt31923069--2025-10-31-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 21:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251031T154000
+DTEND;TZID=America/Los_Angeles:20251031T180500
+DTSTAMP:20251031T233300Z
+UID:ci0001943-tt12300742--2025-10-31-15-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 16:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251031T184000
+DTEND;TZID=America/Los_Angeles:20251031T210500
+DTSTAMP:20251101T023300Z
+UID:ci0001943-tt12300742--2025-10-31-18-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 19:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251031T214000
+DTEND;TZID=America/Los_Angeles:20251101T000500
+DTSTAMP:20251101T053300Z
+UID:ci0001943-tt12300742--2025-10-31-21-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 22:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251101T125000
+DTEND;TZID=America/Los_Angeles:20251101T151000
+DTSTAMP:20251101T204300Z
+UID:ci0001943-tt29644189--2025-11-1-12-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 13:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251101T155000
+DTEND;TZID=America/Los_Angeles:20251101T181000
+DTSTAMP:20251101T234300Z
+UID:ci0001943-tt29644189--2025-11-1-15-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 16:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251101T185000
+DTEND;TZID=America/Los_Angeles:20251101T211000
+DTSTAMP:20251102T024300Z
+UID:ci0001943-tt29644189--2025-11-1-18-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 19:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251101T215000
+DTEND;TZID=America/Los_Angeles:20251102T001000
+DTSTAMP:20251102T054300Z
+UID:ci0001943-tt29644189--2025-11-1-21-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 22:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251101T123000
+DTEND;TZID=America/Los_Angeles:20251101T145500
+DTSTAMP:20251101T202300Z
+UID:ci0001943-tt31923069--2025-11-1-12-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 12:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251101T153000
+DTEND;TZID=America/Los_Angeles:20251101T175500
+DTSTAMP:20251101T232300Z
+UID:ci0001943-tt31923069--2025-11-1-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 15:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251101T183000
+DTEND;TZID=America/Los_Angeles:20251101T205500
+DTSTAMP:20251102T022300Z
+UID:ci0001943-tt31923069--2025-11-1-18-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 18:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251101T213000
+DTEND;TZID=America/Los_Angeles:20251101T235500
+DTSTAMP:20251102T052300Z
+UID:ci0001943-tt31923069--2025-11-1-21-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 21:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251101T124000
+DTEND;TZID=America/Los_Angeles:20251101T150500
+DTSTAMP:20251101T203300Z
+UID:ci0001943-tt12300742--2025-11-1-12-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 13:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251101T154000
+DTEND;TZID=America/Los_Angeles:20251101T180500
+DTSTAMP:20251101T233300Z
+UID:ci0001943-tt12300742--2025-11-1-15-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 16:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251101T184000
+DTEND;TZID=America/Los_Angeles:20251101T210500
+DTSTAMP:20251102T023300Z
+UID:ci0001943-tt12300742--2025-11-1-18-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 19:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251101T214000
+DTEND;TZID=America/Los_Angeles:20251102T000500
+DTSTAMP:20251102T053300Z
+UID:ci0001943-tt12300742--2025-11-1-21-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 22:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251102T125000
+DTEND;TZID=America/Los_Angeles:20251102T151000
+DTSTAMP:20251102T204300Z
+UID:ci0001943-tt29644189--2025-11-2-12-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 13:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251102T155000
+DTEND;TZID=America/Los_Angeles:20251102T181000
+DTSTAMP:20251102T234300Z
+UID:ci0001943-tt29644189--2025-11-2-15-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 16:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251102T185000
+DTEND;TZID=America/Los_Angeles:20251102T211000
+DTSTAMP:20251103T024300Z
+UID:ci0001943-tt29644189--2025-11-2-18-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 19:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251102T123000
+DTEND;TZID=America/Los_Angeles:20251102T145500
+DTSTAMP:20251102T202300Z
+UID:ci0001943-tt31923069--2025-11-2-12-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 12:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251102T153000
+DTEND;TZID=America/Los_Angeles:20251102T175500
+DTSTAMP:20251102T232300Z
+UID:ci0001943-tt31923069--2025-11-2-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 15:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251102T183000
+DTEND;TZID=America/Los_Angeles:20251102T205500
+DTSTAMP:20251103T022300Z
+UID:ci0001943-tt31923069--2025-11-2-18-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 18:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251102T124000
+DTEND;TZID=America/Los_Angeles:20251102T150500
+DTSTAMP:20251102T203300Z
+UID:ci0001943-tt12300742--2025-11-2-12-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 13:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251102T154000
+DTEND;TZID=America/Los_Angeles:20251102T180500
+DTSTAMP:20251102T233300Z
+UID:ci0001943-tt12300742--2025-11-2-15-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 16:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251102T184000
+DTEND;TZID=America/Los_Angeles:20251102T210500
+DTSTAMP:20251103T023300Z
+UID:ci0001943-tt12300742--2025-11-2-18-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 19:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251105T155000
+DTEND;TZID=America/Los_Angeles:20251105T181000
+DTSTAMP:20251105T234300Z
+UID:ci0001943-tt29644189--2025-11-5-15-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 16:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251105T185000
+DTEND;TZID=America/Los_Angeles:20251105T211000
+DTSTAMP:20251106T024300Z
+UID:ci0001943-tt29644189--2025-11-5-18-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 19:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251105T153000
+DTEND;TZID=America/Los_Angeles:20251105T175500
+DTSTAMP:20251105T232300Z
+UID:ci0001943-tt31923069--2025-11-5-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 15:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251105T183000
+DTEND;TZID=America/Los_Angeles:20251105T205500
+DTSTAMP:20251106T022300Z
+UID:ci0001943-tt31923069--2025-11-5-18-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 18:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251105T154000
+DTEND;TZID=America/Los_Angeles:20251105T180500
+DTSTAMP:20251105T233300Z
+UID:ci0001943-tt12300742--2025-11-5-15-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 16:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251105T184000
+DTEND;TZID=America/Los_Angeles:20251105T210500
+DTSTAMP:20251106T023300Z
+UID:ci0001943-tt12300742--2025-11-5-18-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 19:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251106T155000
+DTEND;TZID=America/Los_Angeles:20251106T181000
+DTSTAMP:20251106T234300Z
+UID:ci0001943-tt29644189--2025-11-6-15-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 16:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251106T185000
+DTEND;TZID=America/Los_Angeles:20251106T211000
+DTSTAMP:20251107T024300Z
+UID:ci0001943-tt29644189--2025-11-6-18-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 19:15\n\nIMDb rating: 6.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251106T153000
+DTEND;TZID=America/Los_Angeles:20251106T175500
+DTSTAMP:20251106T232300Z
+UID:ci0001943-tt31923069--2025-11-6-15-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 15:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251106T183000
+DTEND;TZID=America/Los_Angeles:20251106T205500
+DTSTAMP:20251107T022300Z
+UID:ci0001943-tt31923069--2025-11-6-18-30
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 18:55\n\nIMDb rating: 6.9
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251106T154000
+DTEND;TZID=America/Los_Angeles:20251106T180500
+DTSTAMP:20251106T233300Z
+UID:ci0001943-tt12300742--2025-11-6-15-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 16:05\n\nIMDb rating: 7.6
+LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
+ 5\, 4329 University Way Northeast\, Seattle WA 98105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251106T184000
+DTEND;TZID=America/Los_Angeles:20251106T210500
+DTSTAMP:20251107T023300Z
+UID:ci0001943-tt12300742--2025-11-6-18-40
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 19:05\n\nIMDb rating: 7.6
 LOCATION:Varsity Theatre\, 4329 University Way Northeast\, Seattle WA 9810
  5\, 4329 University Way Northeast\, Seattle WA 98105
 END:VEVENT

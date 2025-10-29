@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251028T161357Z
-BEGIN:VEVENT
-SUMMARY:Virgin Machine (1988)
-DTSTART;TZID=America/Los_Angeles:20251028T193000
-DTEND;TZID=America/Los_Angeles:20251028T212000
-DTSTAMP:20251029T032300Z
-UID:ci1024213-tt0095417--2025-10-28-19-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA reporter who goes to San Franc
- isco to write about romance has an affair with a stripper from an all-wome
- n's club.\n\nhttps://www.imdb.com/title/tt0095417/\n\nEstimated start: 19:
- 55\n\nIMDb rating: 5.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251029T164610Z
 BEGIN:VEVENT
 SUMMARY:Virgin Machine (1988)
 DTSTART;TZID=America/Los_Angeles:20251029T163000
@@ -62,7 +50,7 @@ UID:ci1024213-tt28419037--2025-11-2-17-0
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA man obsessively searches for 
  his missing daughter after receiving disturbing videos exposing his secret
  s\, leading to a chilling confrontation with the voyeur.\n\nhttps://www.im
- db.com/title/tt28419037/\n\nEstimated start: 17:25\n\nIMDb rating: 6.4
+ db.com/title/tt28419037/\n\nEstimated start: 17:25\n\nIMDb rating: 6.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +75,7 @@ UID:ci1024213-tt28419037--2025-11-4-19-30
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA man obsessively searches for 
  his missing daughter after receiving disturbing videos exposing his secret
  s\, leading to a chilling confrontation with the voyeur.\n\nhttps://www.im
- db.com/title/tt28419037/\n\nEstimated start: 19:55\n\nIMDb rating: 6.4
+ db.com/title/tt28419037/\n\nEstimated start: 19:55\n\nIMDb rating: 6.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +112,7 @@ UID:ci1024213-tt28419037--2025-11-5-16-30
 DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA man obsessively searches for 
  his missing daughter after receiving disturbing videos exposing his secret
  s\, leading to a chilling confrontation with the voyeur.\n\nhttps://www.im
- db.com/title/tt28419037/\n\nEstimated start: 16:55\n\nIMDb rating: 6.4
+ db.com/title/tt28419037/\n\nEstimated start: 16:55\n\nIMDb rating: 6.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -174,6 +162,19 @@ DESCRIPTION:Duration: 2h 56m (176 mins)\n\nThis historical epic charts pol
  itical intrigue among the Kipchaks\, a confederation of tribes on the step
  pes of central Asia\, before they were overrun by Genghis Khan.\n\nhttps:/
  /www.imdb.com/title/tt0104224/\n\nEstimated start: 19:55\n\nIMDb rating: 7
+ .4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fall of Otrar (1992)
+DTSTART;TZID=America/Los_Angeles:20251113T153000
+DTEND;TZID=America/Los_Angeles:20251113T185500
+DTSTAMP:20251113T232300Z
+UID:ci1024213-tt0104224--2025-11-13-15-30
+DESCRIPTION:Duration: 2h 56m (176 mins)\n\nThis historical epic charts pol
+ itical intrigue among the Kipchaks\, a confederation of tribes on the step
+ pes of central Asia\, before they were overrun by Genghis Khan.\n\nhttps:/
+ /www.imdb.com/title/tt0104224/\n\nEstimated start: 15:55\n\nIMDb rating: 7
  .4
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
