@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251031T162431Z
+LAST-MODIFIED:20251101T165448Z
 BEGIN:VEVENT
 SUMMARY:Nowhere (1997)
 DTSTART;TZID=America/Los_Angeles:20251101T220000
@@ -175,6 +175,42 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
  abitants of a quaint northwestern town are stunned when their homecoming q
  ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
  art: 22:25\n\nIMDb rating: 8.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fargo (1996)
+DTSTART;TZID=America/Los_Angeles:20251116T170000
+DTEND;TZID=America/Los_Angeles:20251116T190500
+DTSTAMP:20251117T005300Z
+UID:ci1024213-tt0116282--2025-11-16-17-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nMinnesota car salesman Jerry Lun
+ degaard's inept crime falls apart due to his and his henchmen's bungling a
+ nd the persistent police work of the quite pregnant Marge Gunderson.\n\nht
+ tps://www.imdb.com/title/tt0116282/\n\nEstimated start: 17:25\n\nIMDb rati
+ ng: 8.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks (2017)
+DTSTART;TZID=America/Los_Angeles:20251116T200000
+DTEND;TZID=America/Los_Angeles:20251116T222500
+DTSTAMP:20251117T035300Z
+UID:ci1024213-tt4093826--2025-11-16-20-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
+ abitants of a quaint northwestern town are stunned when their homecoming q
+ ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
+ art: 20:25\n\nIMDb rating: 8.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bad and the Beautiful (1952)
+DTSTART;TZID=America/Los_Angeles:20251116T140000
+DTEND;TZID=America/Los_Angeles:20251116T162500
+DTSTAMP:20251116T215300Z
+UID:ci1024213-tt0044391--2025-11-16-14-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nAn unscrupulous movie producer 
+ uses an actress\, a director and a writer to achieve success.\n\nhttps://w
+ ww.imdb.com/title/tt0044391/\n\nEstimated start: 14:25\n\nIMDb rating: 7.7
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
