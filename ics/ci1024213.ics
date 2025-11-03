@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251102T155445Z
-BEGIN:VEVENT
-SUMMARY:Stranger Eyes
-DTSTART;TZID=America/Los_Angeles:20251102T170000
-DTEND;TZID=America/Los_Angeles:20251102T193000
-DTSTAMP:20251103T005300Z
-UID:ci1024213-tt28419037--2025-11-2-17-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nA man obsessively searches for 
- his missing daughter after receiving disturbing videos exposing his secret
- s\, leading to a chilling confrontation with the voyeur.\n\nhttps://www.im
- db.com/title/tt28419037/\n\nEstimated start: 17:25\n\nIMDb rating: 6.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251103T150603Z
 BEGIN:VEVENT
 SUMMARY:My Father Is Coming (1991)
 DTSTART;TZID=America/Los_Angeles:20251103T193000
@@ -212,6 +200,19 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe daughters of a nobleman giv
  ilgrim takes on different identities to seek revenge. The nobleman goes mi
  ssing and his youngest has to pose as a knight to sa...\n\nhttps://www.imd
  b.com/title/tt0083082/\n\nEstimated start: 19:55\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silvestre (1981)
+DTSTART;TZID=America/Los_Angeles:20251118T160000
+DTEND;TZID=America/Los_Angeles:20251118T182500
+DTSTAMP:20251118T235300Z
+UID:ci1024213-tt0083082--2025-11-18-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe daughters of a nobleman giv
+ e shelter to a stranger. After that visit ends with a severed hand\, the p
+ ilgrim takes on different identities to seek revenge. The nobleman goes mi
+ ssing and his youngest has to pose as a knight to sa...\n\nhttps://www.imd
+ b.com/title/tt0083082/\n\nEstimated start: 16:25\n\nIMDb rating: 7.2
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
