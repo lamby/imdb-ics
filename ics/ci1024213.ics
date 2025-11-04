@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251103T150603Z
-BEGIN:VEVENT
-SUMMARY:My Father Is Coming (1991)
-DTSTART;TZID=America/Los_Angeles:20251103T193000
-DTEND;TZID=America/Los_Angeles:20251103T212000
-DTSTAMP:20251104T032300Z
-UID:ci1024213-tt0102491--2025-11-3-19-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nA immigrant's father is coming t
- o visit from Germany. She has lied to him about her acting career\, having
-  looked unsuccessfully for parts for a year\, and has also told him she's 
- married. So she enlists her gay roommate to act as h...\n\nhttps://www.imd
- b.com/title/tt0102491/\n\nEstimated start: 19:55\n\nIMDb rating: 5.7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251104T172516Z
 BEGIN:VEVENT
 SUMMARY:Stranger Eyes
 DTSTART;TZID=America/Los_Angeles:20251104T193000
@@ -213,6 +200,32 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nThe daughters of a nobleman giv
  ilgrim takes on different identities to seek revenge. The nobleman goes mi
  ssing and his youngest has to pose as a knight to sa...\n\nhttps://www.imd
  b.com/title/tt0083082/\n\nEstimated start: 16:25\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel's Egg (1985)
+DTSTART;TZID=America/Los_Angeles:20251119T190000
+DTEND;TZID=America/Los_Angeles:20251119T204000
+DTSTAMP:20251120T025300Z
+UID:ci1024213-tt0208502--2025-11-19-19-0
+DESCRIPTION:Duration: 1h 11m (71 mins)\n\nIn a decaying city\, a little gi
+ rl takes care of a large egg which she believes was laid by an angel\, and
+  crosses paths with a gun-toting young man searching for a bird he saw in 
+ a dream.\n\nhttps://www.imdb.com/title/tt0208502/\n\nEstimated start: 19:2
+ 5\n\nIMDb rating: 7.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel's Egg (1985)
+DTSTART;TZID=America/Los_Angeles:20251119T210000
+DTEND;TZID=America/Los_Angeles:20251119T224000
+DTSTAMP:20251120T045300Z
+UID:ci1024213-tt0208502--2025-11-19-21-0
+DESCRIPTION:Duration: 1h 11m (71 mins)\n\nIn a decaying city\, a little gi
+ rl takes care of a large egg which she believes was laid by an angel\, and
+  crosses paths with a gun-toting young man searching for a bird he saw in 
+ a dream.\n\nhttps://www.imdb.com/title/tt0208502/\n\nEstimated start: 21:2
+ 5\n\nIMDb rating: 7.5
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
