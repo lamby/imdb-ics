@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251107T173045Z
+LAST-MODIFIED:20251108T163420Z
 BEGIN:VEVENT
 SUMMARY:The Fall of Otrar (1992)
 DTSTART;TZID=America/Los_Angeles:20251111T190000
@@ -228,6 +228,31 @@ DESCRIPTION:Duration: 1h 20m (80 mins)\n\nA woman accidentally discovers t
  world domination documented by a disreputable early Mormon prophet.\n\nhtt
  ps://www.imdb.com/title/tt0110843/\n\nEstimated start: 22:25\n\nIMDb ratin
  g: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks (2017)
+DTSTART;TZID=America/Los_Angeles:20251123T200000
+DTEND;TZID=America/Los_Angeles:20251123T222500
+DTSTAMP:20251124T035300Z
+UID:ci1024213-tt4093826--2025-11-23-20-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
+ abitants of a quaint northwestern town are stunned when their homecoming q
+ ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
+ art: 20:25\n\nIMDb rating: 8.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tea and Sympathy (1956)
+DTSTART;TZID=America/Los_Angeles:20251123T140000
+DTEND;TZID=America/Los_Angeles:20251123T163000
+DTSTAMP:20251123T215300Z
+UID:ci1024213-tt0049829--2025-11-23-14-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA new senior at a boy's prep sc
+ hool\, finds himself harassed by the machismo culture of his classmates an
+ d the unfeelingly behavior by his father\, only being treated with decency
+  by his roommate and with affection by the coach's wife.\n\nhttps://www.im
+ db.com/title/tt0049829/\n\nEstimated start: 14:25\n\nIMDb rating: 7.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
