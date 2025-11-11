@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251110T171450Z
+LAST-MODIFIED:20251111T171023Z
 BEGIN:VEVENT
 SUMMARY:The Fall of Otrar (1992)
 DTSTART;TZID=America/Los_Angeles:20251111T190000
@@ -256,19 +256,6 @@ DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA new senior at a boy's prep sc
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hovering Over the Water (1986)
-DTSTART;TZID=America/Los_Angeles:20251124T193000
-DTEND;TZID=America/Los_Angeles:20251124T222000
-DTSTAMP:20251125T032300Z
-UID:ci1024213-tt0092306--2025-11-24-19-30
-DESCRIPTION:Duration: 2h 23m (143 mins)\n\nLaura Rossellini\, a widow from
-  Rome\, vacations on the Algarve coast one hot summer. One day while sunba
- thing\, she finds a wounded man named Robert drifting in the surf on a rub
- ber raft. She takes him home\, and\, after he is revived...\n\nhttps://www
- .imdb.com/title/tt0092306/\n\nEstimated start: 19:55\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tea and Sympathy (1956)
 DTSTART;TZID=America/Los_Angeles:20251124T163000
 DTEND;TZID=America/Los_Angeles:20251124T190000
@@ -283,6 +270,19 @@ LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hovering Over the Water (1986)
+DTSTART;TZID=America/Los_Angeles:20251124T193000
+DTEND;TZID=America/Los_Angeles:20251124T222000
+DTSTAMP:20251125T032300Z
+UID:ci1024213-tt0092306--2025-11-24-19-30
+DESCRIPTION:Duration: 2h 23m (143 mins)\n\nLaura Rossellini\, a widow from
+  Rome\, vacations on the Algarve coast one hot summer. One day while sunba
+ thing\, she finds a wounded man named Robert drifting in the surf on a rub
+ ber raft. She takes him home\, and\, after he is revived...\n\nhttps://www
+ .imdb.com/title/tt0092306/\n\nEstimated start: 19:55\n\nIMDb rating: 7.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hovering Over the Water (1986)
 DTSTART;TZID=America/Los_Angeles:20251125T153000
 DTEND;TZID=America/Los_Angeles:20251125T182000
 DTSTAMP:20251125T232300Z
@@ -292,6 +292,18 @@ DESCRIPTION:Duration: 2h 23m (143 mins)\n\nLaura Rossellini\, a widow from
  thing\, she finds a wounded man named Robert drifting in the surf on a rub
  ber raft. She takes him home\, and\, after he is revived...\n\nhttps://www
  .imdb.com/title/tt0092306/\n\nEstimated start: 15:55\n\nIMDb rating: 7.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks (2017)
+DTSTART;TZID=America/Los_Angeles:20251126T160000
+DTEND;TZID=America/Los_Angeles:20251126T182500
+DTSTAMP:20251126T235300Z
+UID:ci1024213-tt4093826--2025-11-26-16-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
+ abitants of a quaint northwestern town are stunned when their homecoming q
+ ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
+ art: 16:25\n\nIMDb rating: 8.5
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR

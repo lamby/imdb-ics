@@ -3,60 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 iPic Theaters at Redmond Town Center
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-LAST-MODIFIED:20251110T171433Z
-BEGIN:VEVENT
-SUMMARY:Predator: Badlands
-DTSTART;TZID=America/Los_Angeles:20251110T160000
-DTEND;TZID=America/Los_Angeles:20251110T181500
-DTSTAMP:20251110T235300Z
-UID:ci0014968-tt31227572--2025-11-10-16-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young Predator outcast from h
- is clan finds an unlikely ally on his journey in search of the ultimate ad
- versary.\n\nhttps://www.imdb.com/title/tt31227572/\n\nEstimated start: 16:
- 25\n\nIMDb rating: 7.6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Predator: Badlands
-DTSTART;TZID=America/Los_Angeles:20251110T190000
-DTEND;TZID=America/Los_Angeles:20251110T211500
-DTSTAMP:20251111T025300Z
-UID:ci0014968-tt31227572--2025-11-10-19-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young Predator outcast from h
- is clan finds an unlikely ally on his journey in search of the ultimate ad
- versary.\n\nhttps://www.imdb.com/title/tt31227572/\n\nEstimated start: 19:
- 25\n\nIMDb rating: 7.6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Predator: Badlands
-DTSTART;TZID=America/Los_Angeles:20251110T220000
-DTEND;TZID=America/Los_Angeles:20251111T001500
-DTSTAMP:20251111T055300Z
-UID:ci0014968-tt31227572--2025-11-10-22-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young Predator outcast from h
- is clan finds an unlikely ally on his journey in search of the ultimate ad
- versary.\n\nhttps://www.imdb.com/title/tt31227572/\n\nEstimated start: 22:
- 25\n\nIMDb rating: 7.6
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternity
-DTSTART;TZID=America/Los_Angeles:20251110T190000
-DTEND;TZID=America/Los_Angeles:20251110T212000
-DTSTAMP:20251111T025300Z
-UID:ci0014968-tt24950660--2025-11-10-19-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nIn an afterlife where souls hav
- e one week to decide where to spend eternity\, Joan is faced with the impo
- ssible choice between the man she spent her life with and her first love\,
-  who died young and has waited decades for her to arr...\n\nhttps://www.im
- db.com/title/tt24950660/\n\nEstimated start: 19:25\n\nIMDb rating: 7.3
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond WA 98052
-END:VEVENT
+LAST-MODIFIED:20251111T171005Z
 BEGIN:VEVENT
 SUMMARY:Predator: Badlands
 DTSTART;TZID=America/Los_Angeles:20251111T160000
@@ -97,6 +44,243 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251111T143000
+DTEND;TZID=America/Los_Angeles:20251111T165500
+DTSTAMP:20251111T222300Z
+UID:ci0014968-tt12300742--2025-11-11-14-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 14:55\n\nIMDb rating: 7.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251111T184500
+DTEND;TZID=America/Los_Angeles:20251111T211000
+DTSTAMP:20251112T023800Z
+UID:ci0014968-tt12300742--2025-11-11-18-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 19:10\n\nIMDb rating: 7.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251111T220000
+DTEND;TZID=America/Los_Angeles:20251112T002500
+DTSTAMP:20251112T055300Z
+UID:ci0014968-tt12300742--2025-11-11-22-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 22:25\n\nIMDb rating: 7.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART;TZID=America/Los_Angeles:20251111T144500
+DTEND;TZID=America/Los_Angeles:20251111T175500
+DTSTAMP:20251111T223800Z
+UID:ci0014968-tt30144839--2025-11-11-14-45
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nWhen their evil enemy resurface
+ s after 16 years\, a group of ex-revolutionaries reunite to rescue the dau
+ ghter of one of their own.\n\nhttps://www.imdb.com/title/tt30144839/\n\nEs
+ timated start: 15:10\n\nIMDb rating: 8.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART;TZID=America/Los_Angeles:20251111T180000
+DTEND;TZID=America/Los_Angeles:20251111T211000
+DTSTAMP:20251112T015300Z
+UID:ci0014968-tt30144839--2025-11-11-18-0
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nWhen their evil enemy resurface
+ s after 16 years\, a group of ex-revolutionaries reunite to rescue the dau
+ ghter of one of their own.\n\nhttps://www.imdb.com/title/tt30144839/\n\nEs
+ timated start: 18:25\n\nIMDb rating: 8.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART;TZID=America/Los_Angeles:20251111T214500
+DTEND;TZID=America/Los_Angeles:20251112T005500
+DTSTAMP:20251112T053800Z
+UID:ci0014968-tt30144839--2025-11-11-21-45
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nWhen their evil enemy resurface
+ s after 16 years\, a group of ex-revolutionaries reunite to rescue the dau
+ ghter of one of their own.\n\nhttps://www.imdb.com/title/tt30144839/\n\nEs
+ timated start: 22:10\n\nIMDb rating: 8.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Fortune
+DTSTART;TZID=America/Los_Angeles:20251111T153000
+DTEND;TZID=America/Los_Angeles:20251111T173500
+DTSTAMP:20251111T232300Z
+UID:ci0014968-tt27543578--2025-11-11-15-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA well-meaning but rather inept 
+ angel named Gabriel meddles in the lives of a struggling gig worker and a 
+ wealthy venture capitalist.\n\nhttps://www.imdb.com/title/tt27543578/\n\nE
+ stimated start: 15:55\n\nIMDb rating: 6.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Fortune
+DTSTART;TZID=America/Los_Angeles:20251111T183000
+DTEND;TZID=America/Los_Angeles:20251111T203500
+DTSTAMP:20251112T022300Z
+UID:ci0014968-tt27543578--2025-11-11-18-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA well-meaning but rather inept 
+ angel named Gabriel meddles in the lives of a struggling gig worker and a 
+ wealthy venture capitalist.\n\nhttps://www.imdb.com/title/tt27543578/\n\nE
+ stimated start: 18:55\n\nIMDb rating: 6.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Fortune
+DTSTART;TZID=America/Los_Angeles:20251111T211500
+DTEND;TZID=America/Los_Angeles:20251111T232000
+DTSTAMP:20251112T050800Z
+UID:ci0014968-tt27543578--2025-11-11-21-15
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA well-meaning but rather inept 
+ angel named Gabriel meddles in the lives of a struggling gig worker and a 
+ wealthy venture capitalist.\n\nhttps://www.imdb.com/title/tt27543578/\n\nE
+ stimated start: 21:40\n\nIMDb rating: 6.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251111T154500
+DTEND;TZID=America/Los_Angeles:20251111T180500
+DTSTAMP:20251111T233800Z
+UID:ci0014968-tt29644189--2025-11-11-15-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 16:10\n\nIMDb rating: 6.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251111T191500
+DTEND;TZID=America/Los_Angeles:20251111T213500
+DTSTAMP:20251112T030800Z
+UID:ci0014968-tt29644189--2025-11-11-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 19:40\n\nIMDb rating: 6.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251111T223000
+DTEND;TZID=America/Los_Angeles:20251112T005000
+DTSTAMP:20251112T062300Z
+UID:ci0014968-tt29644189--2025-11-11-22-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 22:55\n\nIMDb rating: 6.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251111T161500
+DTEND;TZID=America/Los_Angeles:20251111T184000
+DTSTAMP:20251112T000800Z
+UID:ci0014968-tt31923069--2025-11-11-16-15
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 16:40\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251111T193000
+DTEND;TZID=America/Los_Angeles:20251111T215500
+DTSTAMP:20251112T032300Z
+UID:ci0014968-tt31923069--2025-11-11-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 19:55\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251111T224500
+DTEND;TZID=America/Los_Angeles:20251112T011000
+DTSTAMP:20251112T063800Z
+UID:ci0014968-tt31923069--2025-11-11-22-45
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 23:10\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART;TZID=America/Los_Angeles:20251111T150000
+DTEND;TZID=America/Los_Angeles:20251111T172500
+DTSTAMP:20251111T225300Z
+UID:ci0014968-tt6604188--2025-11-11-15-0
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA highly sophisticated program\
+ , Ares\, is sent from the digital world into the real world on a dangerous
+  mission.\n\nhttps://www.imdb.com/title/tt6604188/\n\nEstimated start: 15:
+ 25\n\nIMDb rating: 6.5
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART;TZID=America/Los_Angeles:20251111T181500
+DTEND;TZID=America/Los_Angeles:20251111T204000
+DTSTAMP:20251112T020800Z
+UID:ci0014968-tt6604188--2025-11-11-18-15
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA highly sophisticated program\
+ , Ares\, is sent from the digital world into the real world on a dangerous
+  mission.\n\nhttps://www.imdb.com/title/tt6604188/\n\nEstimated start: 18:
+ 40\n\nIMDb rating: 6.5
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART;TZID=America/Los_Angeles:20251111T213000
+DTEND;TZID=America/Los_Angeles:20251111T235500
+DTSTAMP:20251112T052300Z
+UID:ci0014968-tt6604188--2025-11-11-21-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA highly sophisticated program\
+ , Ares\, is sent from the digital world into the real world on a dangerous
+  mission.\n\nhttps://www.imdb.com/title/tt6604188/\n\nEstimated start: 21:
+ 55\n\nIMDb rating: 6.5
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Predator: Badlands
 DTSTART;TZID=America/Los_Angeles:20251112T160000
 DTEND;TZID=America/Los_Angeles:20251112T181500
@@ -132,6 +316,243 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\n\nA young Predator outcast from h
  is clan finds an unlikely ally on his journey in search of the ultimate ad
  versary.\n\nhttps://www.imdb.com/title/tt31227572/\n\nEstimated start: 22:
  25\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251112T143000
+DTEND;TZID=America/Los_Angeles:20251112T165500
+DTSTAMP:20251112T222300Z
+UID:ci0014968-tt12300742--2025-11-12-14-30
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 14:55\n\nIMDb rating: 7.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251112T184500
+DTEND;TZID=America/Los_Angeles:20251112T211000
+DTSTAMP:20251113T023800Z
+UID:ci0014968-tt12300742--2025-11-12-18-45
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 19:10\n\nIMDb rating: 7.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bugonia
+DTSTART;TZID=America/Los_Angeles:20251112T220000
+DTEND;TZID=America/Los_Angeles:20251113T002500
+DTSTAMP:20251113T055300Z
+UID:ci0014968-tt12300742--2025-11-12-22-0
+DESCRIPTION:Duration: 1h 58m (118 mins)\n\nTwo conspiracy-obsessed young m
+ en kidnap the high-powered CEO of a major company\, convinced that she is 
+ an alien intent on destroying planet Earth.\n\nhttps://www.imdb.com/title/
+ tt12300742/\n\nEstimated start: 22:25\n\nIMDb rating: 7.7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART;TZID=America/Los_Angeles:20251112T144500
+DTEND;TZID=America/Los_Angeles:20251112T175500
+DTSTAMP:20251112T223800Z
+UID:ci0014968-tt30144839--2025-11-12-14-45
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nWhen their evil enemy resurface
+ s after 16 years\, a group of ex-revolutionaries reunite to rescue the dau
+ ghter of one of their own.\n\nhttps://www.imdb.com/title/tt30144839/\n\nEs
+ timated start: 15:10\n\nIMDb rating: 8.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART;TZID=America/Los_Angeles:20251112T180000
+DTEND;TZID=America/Los_Angeles:20251112T211000
+DTSTAMP:20251113T015300Z
+UID:ci0014968-tt30144839--2025-11-12-18-0
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nWhen their evil enemy resurface
+ s after 16 years\, a group of ex-revolutionaries reunite to rescue the dau
+ ghter of one of their own.\n\nhttps://www.imdb.com/title/tt30144839/\n\nEs
+ timated start: 18:25\n\nIMDb rating: 8.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Battle After Another
+DTSTART;TZID=America/Los_Angeles:20251112T214500
+DTEND;TZID=America/Los_Angeles:20251113T005500
+DTSTAMP:20251113T053800Z
+UID:ci0014968-tt30144839--2025-11-12-21-45
+DESCRIPTION:Duration: 2h 41m (161 mins)\n\nWhen their evil enemy resurface
+ s after 16 years\, a group of ex-revolutionaries reunite to rescue the dau
+ ghter of one of their own.\n\nhttps://www.imdb.com/title/tt30144839/\n\nEs
+ timated start: 22:10\n\nIMDb rating: 8.2
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Fortune
+DTSTART;TZID=America/Los_Angeles:20251112T153000
+DTEND;TZID=America/Los_Angeles:20251112T173500
+DTSTAMP:20251112T232300Z
+UID:ci0014968-tt27543578--2025-11-12-15-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA well-meaning but rather inept 
+ angel named Gabriel meddles in the lives of a struggling gig worker and a 
+ wealthy venture capitalist.\n\nhttps://www.imdb.com/title/tt27543578/\n\nE
+ stimated start: 15:55\n\nIMDb rating: 6.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Fortune
+DTSTART;TZID=America/Los_Angeles:20251112T183000
+DTEND;TZID=America/Los_Angeles:20251112T203500
+DTSTAMP:20251113T022300Z
+UID:ci0014968-tt27543578--2025-11-12-18-30
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA well-meaning but rather inept 
+ angel named Gabriel meddles in the lives of a struggling gig worker and a 
+ wealthy venture capitalist.\n\nhttps://www.imdb.com/title/tt27543578/\n\nE
+ stimated start: 18:55\n\nIMDb rating: 6.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Fortune
+DTSTART;TZID=America/Los_Angeles:20251112T211500
+DTEND;TZID=America/Los_Angeles:20251112T232000
+DTSTAMP:20251113T050800Z
+UID:ci0014968-tt27543578--2025-11-12-21-15
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA well-meaning but rather inept 
+ angel named Gabriel meddles in the lives of a struggling gig worker and a 
+ wealthy venture capitalist.\n\nhttps://www.imdb.com/title/tt27543578/\n\nE
+ stimated start: 21:40\n\nIMDb rating: 6.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251112T154500
+DTEND;TZID=America/Los_Angeles:20251112T180500
+DTSTAMP:20251112T233800Z
+UID:ci0014968-tt29644189--2025-11-12-15-45
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 16:10\n\nIMDb rating: 6.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251112T191500
+DTEND;TZID=America/Los_Angeles:20251112T213500
+DTSTAMP:20251113T030800Z
+UID:ci0014968-tt29644189--2025-11-12-19-15
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 19:40\n\nIMDb rating: 6.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Phone 2
+DTSTART;TZID=America/Los_Angeles:20251112T223000
+DTEND;TZID=America/Los_Angeles:20251113T005000
+DTSTAMP:20251113T062300Z
+UID:ci0014968-tt29644189--2025-11-12-22-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nAs Finn\, now 17\, struggles wi
+ th life after his captivity\, his sister begins receiving calls in her dre
+ ams from the black phone and seeing disturbing visions of three boys being
+  stalked at a winter camp known as Alpine Lake.\n\nhttps://www.imdb.com/ti
+ tle/tt29644189/\n\nEstimated start: 22:55\n\nIMDb rating: 6.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251112T161500
+DTEND;TZID=America/Los_Angeles:20251112T184000
+DTSTAMP:20251113T000800Z
+UID:ci0014968-tt31923069--2025-11-12-16-15
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 16:40\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251112T193000
+DTEND;TZID=America/Los_Angeles:20251112T215500
+DTSTAMP:20251113T032300Z
+UID:ci0014968-tt31923069--2025-11-12-19-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 19:55\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Springsteen: Deliver Me from Nowhere
+DTSTART;TZID=America/Los_Angeles:20251112T224500
+DTEND;TZID=America/Los_Angeles:20251113T011000
+DTSTAMP:20251113T063800Z
+UID:ci0014968-tt31923069--2025-11-12-22-45
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nBruce Springsteen's journey cra
+ fting his 1982 album Nebraska\, which emerged as he recorded Born in the U
+ SA with the E Street Band. Based on Warren Zanes' book.\n\nhttps://www.imd
+ b.com/title/tt31923069/\n\nEstimated start: 23:10\n\nIMDb rating: 6.9
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART;TZID=America/Los_Angeles:20251112T150000
+DTEND;TZID=America/Los_Angeles:20251112T172500
+DTSTAMP:20251112T225300Z
+UID:ci0014968-tt6604188--2025-11-12-15-0
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA highly sophisticated program\
+ , Ares\, is sent from the digital world into the real world on a dangerous
+  mission.\n\nhttps://www.imdb.com/title/tt6604188/\n\nEstimated start: 15:
+ 25\n\nIMDb rating: 6.5
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART;TZID=America/Los_Angeles:20251112T181500
+DTEND;TZID=America/Los_Angeles:20251112T204000
+DTSTAMP:20251113T020800Z
+UID:ci0014968-tt6604188--2025-11-12-18-15
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA highly sophisticated program\
+ , Ares\, is sent from the digital world into the real world on a dangerous
+  mission.\n\nhttps://www.imdb.com/title/tt6604188/\n\nEstimated start: 18:
+ 40\n\nIMDb rating: 6.5
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tron: Ares
+DTSTART;TZID=America/Los_Angeles:20251112T213000
+DTEND;TZID=America/Los_Angeles:20251112T235500
+DTSTAMP:20251113T052300Z
+UID:ci0014968-tt6604188--2025-11-12-21-30
+DESCRIPTION:Duration: 1h 59m (119 mins)\n\nA highly sophisticated program\
+ , Ares\, is sent from the digital world into the real world on a dangerous
+  mission.\n\nhttps://www.imdb.com/title/tt6604188/\n\nEstimated start: 21:
+ 55\n\nIMDb rating: 6.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -1228,45 +1649,6 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zootopia 2
-DTSTART;TZID=America/Los_Angeles:20251125T150000
-DTEND;TZID=America/Los_Angeles:20251125T171500
-DTSTAMP:20251125T225300Z
-UID:ci0014968-tt26443597--2025-11-25-15-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
-  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
-  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
- le/tt26443597/\n\nEstimated start: 15:25
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zootopia 2
-DTSTART;TZID=America/Los_Angeles:20251125T181500
-DTEND;TZID=America/Los_Angeles:20251125T203000
-DTSTAMP:20251126T020800Z
-UID:ci0014968-tt26443597--2025-11-25-18-15
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
-  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
-  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
- le/tt26443597/\n\nEstimated start: 18:40
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zootopia 2
-DTSTART;TZID=America/Los_Angeles:20251125T214500
-DTEND;TZID=America/Los_Angeles:20251126T000000
-DTSTAMP:20251126T053800Z
-UID:ci0014968-tt26443597--2025-11-25-21-45
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
-  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
-  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
- le/tt26443597/\n\nEstimated start: 22:10
-LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
- Street\, Redmond WA 98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wicked: For Good
 DTSTART;TZID=America/Los_Angeles:20251125T110000
 DTEND;TZID=America/Los_Angeles:20251125T134500
@@ -1315,6 +1697,149 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\n\nElphaba\, the future Wicked Wit
  ch of the West and her relationship with Glinda\, the Good Witch of the No
  rth. The second of a two-part feature film adaptation of the Broadway musi
  cal.\n\nhttps://www.imdb.com/title/tt19847976/\n\nEstimated start: 21:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20251125T150000
+DTEND;TZID=America/Los_Angeles:20251125T171500
+DTSTAMP:20251125T225300Z
+UID:ci0014968-tt26443597--2025-11-25-15-0
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20251125T181500
+DTEND;TZID=America/Los_Angeles:20251125T203000
+DTSTAMP:20251126T020800Z
+UID:ci0014968-tt26443597--2025-11-25-18-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:40
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20251125T214500
+DTEND;TZID=America/Los_Angeles:20251126T000000
+DTSTAMP:20251126T053800Z
+UID:ci0014968-tt26443597--2025-11-25-21-45
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 22:10
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked: For Good
+DTSTART;TZID=America/Los_Angeles:20251126T110000
+DTEND;TZID=America/Los_Angeles:20251126T134500
+DTSTAMP:20251126T185300Z
+UID:ci0014968-tt19847976--2025-11-26-11-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nElphaba\, the future Wicked Wit
+ ch of the West and her relationship with Glinda\, the Good Witch of the No
+ rth. The second of a two-part feature film adaptation of the Broadway musi
+ cal.\n\nhttps://www.imdb.com/title/tt19847976/\n\nEstimated start: 11:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked: For Good
+DTSTART;TZID=America/Los_Angeles:20251126T143000
+DTEND;TZID=America/Los_Angeles:20251126T171500
+DTSTAMP:20251126T222300Z
+UID:ci0014968-tt19847976--2025-11-26-14-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nElphaba\, the future Wicked Wit
+ ch of the West and her relationship with Glinda\, the Good Witch of the No
+ rth. The second of a two-part feature film adaptation of the Broadway musi
+ cal.\n\nhttps://www.imdb.com/title/tt19847976/\n\nEstimated start: 14:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked: For Good
+DTSTART;TZID=America/Los_Angeles:20251126T180000
+DTEND;TZID=America/Los_Angeles:20251126T204500
+DTSTAMP:20251127T015300Z
+UID:ci0014968-tt19847976--2025-11-26-18-0
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nElphaba\, the future Wicked Wit
+ ch of the West and her relationship with Glinda\, the Good Witch of the No
+ rth. The second of a two-part feature film adaptation of the Broadway musi
+ cal.\n\nhttps://www.imdb.com/title/tt19847976/\n\nEstimated start: 18:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked: For Good
+DTSTART;TZID=America/Los_Angeles:20251126T213000
+DTEND;TZID=America/Los_Angeles:20251127T001500
+DTSTAMP:20251127T052300Z
+UID:ci0014968-tt19847976--2025-11-26-21-30
+DESCRIPTION:Duration: 2h 18m (138 mins)\n\nElphaba\, the future Wicked Wit
+ ch of the West and her relationship with Glinda\, the Good Witch of the No
+ rth. The second of a two-part feature film adaptation of the Broadway musi
+ cal.\n\nhttps://www.imdb.com/title/tt19847976/\n\nEstimated start: 21:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20251126T114500
+DTEND;TZID=America/Los_Angeles:20251126T140000
+DTSTAMP:20251126T193800Z
+UID:ci0014968-tt26443597--2025-11-26-11-45
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 12:10
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20251126T151500
+DTEND;TZID=America/Los_Angeles:20251126T173000
+DTSTAMP:20251126T230800Z
+UID:ci0014968-tt26443597--2025-11-26-15-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:40
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20251126T181500
+DTEND;TZID=America/Los_Angeles:20251126T203000
+DTSTAMP:20251127T020800Z
+UID:ci0014968-tt26443597--2025-11-26-18-15
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:40
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20251126T214500
+DTEND;TZID=America/Los_Angeles:20251127T000000
+DTSTAMP:20251127T053800Z
+UID:ci0014968-tt26443597--2025-11-26-21-45
+DESCRIPTION:Duration: 1h 47m (107 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 22:10
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
