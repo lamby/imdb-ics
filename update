@@ -28,7 +28,6 @@ re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM
 re_duration = re.compile(r"^PT(?P<minutes>\d+)M$")
 re_duration_new = re.compile(r"^(?:(?P<hours>\d+)h)?\s*(?:(?P<minutes>\d+)m)?$")
 
-
 class ImdbICS:
     PADDING = 25  # minutes
     START = datetime.date.today()
@@ -124,10 +123,14 @@ class ImdbICS:
             r = self.session.get(
                 url,
                 headers={
-                    "User-Agent": "custom",
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
                     "Accept-Language": "en-US,en;q=0.9,it;q=0.8",
                 },
             )
+
+            if debug is not None:
+                with open(f"/tmp/{debug}", "wb") as f:
+                    f.write(r.content)
 
             if r.status_code == 200:
                 break
@@ -136,13 +139,10 @@ class ImdbICS:
                 logging.warning(f"Out of HTTP attempts for this URL; raising error")
                 r.raise_for_status()
 
-            logging.warning(f"Did not get HTTP 200; will re-attempt after sleep")
+            logging.warning(f"Did not get HTTP 200 (got {r.status_code}); will re-attempt after sleep; debug /tmp/{debug}")
             attempts -= 1
             time.sleep(3)
 
-        if debug is not None:
-            with open(f"/tmp/{debug}", "wb") as f:
-                f.write(r.content)
 
         return BeautifulSoup(r.content, "html.parser")
 
@@ -182,7 +182,7 @@ class ImdbICS:
         return self.title_info[imdb_title_id]
 
     def get_ics(self, venue):
-        base_url = f"https://www.imdb.com/showtimes/cinema/US/{venue['id']}"
+        base_url = f"https://www.imdb.com/showtimes/cinema/US/{venue['id']}/"
         logging.info(f"Getting info for '{venue['name']}'")
 
         strip_suffixes = (
@@ -222,7 +222,7 @@ class ImdbICS:
             logging.info(f"Getting showtimes for '{venue['name']}' on {date}")
 
             soup = self.get_soup(
-                "{}/{:04d}-{:02d}-{:02d}".format(
+                "{}{:04d}-{:02d}-{:02d}/".format(
                     base_url,
                     date.year,
                     date.month,
