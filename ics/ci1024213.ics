@@ -3,43 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251121T161427Z
-BEGIN:VEVENT
-SUMMARY:Twin Peaks (2017)
-DTSTART;TZID=America/Los_Angeles:20251121T160000
-DTEND;TZID=America/Los_Angeles:20251121T182500
-DTSTAMP:20251121T235300Z
-UID:ci1024213-tt4093826--2025-11-21-16-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
- abitants of a quaint northwestern town are stunned when their homecoming q
- ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
- art: 16:25\n\nIMDb rating: 8.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twin Peaks (2017)
-DTSTART;TZID=America/Los_Angeles:20251121T190000
-DTEND;TZID=America/Los_Angeles:20251121T212500
-DTSTAMP:20251122T025300Z
-UID:ci1024213-tt4093826--2025-11-21-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
- abitants of a quaint northwestern town are stunned when their homecoming q
- ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
- art: 19:25\n\nIMDb rating: 8.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Twin Peaks (2017)
-DTSTART;TZID=America/Los_Angeles:20251121T220000
-DTEND;TZID=America/Los_Angeles:20251122T002500
-DTSTAMP:20251122T055300Z
-UID:ci1024213-tt4093826--2025-11-21-22-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
- abitants of a quaint northwestern town are stunned when their homecoming q
- ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
- art: 22:25\n\nIMDb rating: 8.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251122T155310Z
 BEGIN:VEVENT
 SUMMARY:Plan 10 from Outer Space (1995)
 DTSTART;TZID=America/Los_Angeles:20251122T220000
@@ -263,6 +227,31 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
  abitants of a quaint northwestern town are stunned when their homecoming q
  ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
  art: 19:25\n\nIMDb rating: 8.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks (2017)
+DTSTART;TZID=America/Los_Angeles:20251207T170000
+DTEND;TZID=America/Los_Angeles:20251207T192500
+DTSTAMP:20251208T005300Z
+UID:ci1024213-tt4093826--2025-12-7-17-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
+ abitants of a quaint northwestern town are stunned when their homecoming q
+ ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
+ art: 17:25\n\nIMDb rating: 8.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet John Doe (1941)
+DTSTART;TZID=America/Los_Angeles:20251207T140000
+DTEND;TZID=America/Los_Angeles:20251207T163000
+DTSTAMP:20251207T215300Z
+UID:ci1024213-tt0033891--2025-12-7-14-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA penniless drifter is recruite
+ d by an ambitious columnist to impersonate a non-existent person who said 
+ he'd be committing suicide as a protest\, and a social movement begins.\n\
+ nhttps://www.imdb.com/title/tt0033891/\n\nEstimated start: 14:25\n\nIMDb r
+ ating: 7.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
