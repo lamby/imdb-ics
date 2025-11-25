@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251124T155041Z
-BEGIN:VEVENT
-SUMMARY:Tea and Sympathy (1956)
-DTSTART;TZID=America/Los_Angeles:20251124T163000
-DTEND;TZID=America/Los_Angeles:20251124T190000
-DTSTAMP:20251125T002300Z
-UID:ci1024213-tt0049829--2025-11-24-16-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA new senior at a boy's prep sc
- hool\, finds himself harassed by the machismo culture of his classmates an
- d the unfeelingly behavior by his father\, only being treated with decency
-  by his roommate and with affection by the coach's wife.\n\nhttps://www.im
- db.com/title/tt0049829/\n\nEstimated start: 16:55\n\nIMDb rating: 7.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hovering Over the Water (1986)
-DTSTART;TZID=America/Los_Angeles:20251124T193000
-DTEND;TZID=America/Los_Angeles:20251124T222000
-DTSTAMP:20251125T032300Z
-UID:ci1024213-tt0092306--2025-11-24-19-30
-DESCRIPTION:Duration: 2h 23m (143 mins)\n\nLaura Rossellini\, a widow from
-  Rome\, vacations on the Algarve coast one hot summer. One day while sunba
- thing\, she finds a wounded man named Robert drifting in the surf on a rub
- ber raft. She takes him home\, and\, after he is revived...\n\nhttps://www
- .imdb.com/title/tt0092306/\n\nEstimated start: 19:55\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251125T163303Z
 BEGIN:VEVENT
 SUMMARY:Hovering Over the Water (1986)
 DTSTART;TZID=America/Los_Angeles:20251125T153000
@@ -266,6 +240,32 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA crime-drama-suspense genre fil
  er his daughter's marriage and her attempts to escape from their incestuou
  s household.\n\nhttps://www.imdb.com/title/tt0221322/\n\nEstimated start: 
  16:55\n\nIMDb rating: 7.7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet John Doe (1941)
+DTSTART;TZID=America/Los_Angeles:20251210T163000
+DTEND;TZID=America/Los_Angeles:20251210T190000
+DTSTAMP:20251211T002300Z
+UID:ci1024213-tt0033891--2025-12-10-16-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA penniless drifter is recruite
+ d by an ambitious columnist to impersonate a non-existent person who said 
+ he'd be committing suicide as a protest\, and a social movement begins.\n\
+ nhttps://www.imdb.com/title/tt0033891/\n\nEstimated start: 16:55\n\nIMDb r
+ ating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bye Bye Love (1995)
+DTSTART;TZID=America/Los_Angeles:20251210T193000
+DTEND;TZID=America/Los_Angeles:20251210T214500
+DTSTAMP:20251211T032300Z
+UID:ci1024213-tt0112606--2025-12-10-19-30
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA story about the family breaku
+ p of three divorced men. The film presents their perspective and reveals t
+ heir relationship with their children\, ex-wives\, girlfriends\, and male 
+ friends\, and their identities as divorced men.\n\nhttps://www.imdb.com/ti
+ tle/tt0112606/\n\nEstimated start: 19:55\n\nIMDb rating: 6.2
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
