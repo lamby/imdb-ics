@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251126T164244Z
-BEGIN:VEVENT
-SUMMARY:Twin Peaks (2017)
-DTSTART;TZID=America/Los_Angeles:20251126T160000
-DTEND;TZID=America/Los_Angeles:20251126T182500
-DTSTAMP:20251126T235300Z
-UID:ci1024213-tt4093826--2025-11-26-16-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
- abitants of a quaint northwestern town are stunned when their homecoming q
- ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
- art: 16:25\n\nIMDb rating: 8.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251127T170112Z
 BEGIN:VEVENT
 SUMMARY:Twin Peaks (2017)
 DTSTART;TZID=America/Los_Angeles:20251128T190000
@@ -266,6 +254,31 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA story about the family breaku
  heir relationship with their children\, ex-wives\, girlfriends\, and male 
  friends\, and their identities as divorced men.\n\nhttps://www.imdb.com/ti
  tle/tt0112606/\n\nEstimated start: 16:55\n\nIMDb rating: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gremlins (1984)
+DTSTART;TZID=America/Los_Angeles:20251212T220000
+DTEND;TZID=America/Los_Angeles:20251213T001500
+DTSTAMP:20251213T055300Z
+UID:ci1024213-tt0087363--2025-12-12-22-0
+DESCRIPTION:Duration: 1h 46m (106 mins)\n\nAfter receiving an exotic small
+  animal as a Christmas gift\, a young man inadvertently breaks three impor
+ tant rules concerning his new pet\, which unleashes a horde of malevolentl
+ y mischievous creatures on a small town.\n\nhttps://www.imdb.com/title/tt0
+ 087363/\n\nEstimated start: 22:25\n\nIMDb rating: 7.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks (2017)
+DTSTART;TZID=America/Los_Angeles:20251212T190000
+DTEND;TZID=America/Los_Angeles:20251212T212500
+DTSTAMP:20251213T025300Z
+UID:ci1024213-tt4093826--2025-12-12-19-0
+DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
+ abitants of a quaint northwestern town are stunned when their homecoming q
+ ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
+ art: 19:25\n\nIMDb rating: 8.5
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
