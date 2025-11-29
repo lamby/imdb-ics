@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251128T185511Z
-BEGIN:VEVENT
-SUMMARY:Twin Peaks (2017)
-DTSTART;TZID=America/Los_Angeles:20251128T190000
-DTEND;TZID=America/Los_Angeles:20251128T212500
-DTSTAMP:20251129T025300Z
-UID:ci1024213-tt4093826--2025-11-28-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
- abitants of a quaint northwestern town are stunned when their homecoming q
- ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
- art: 19:25\n\nIMDb rating: 8.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Communion (1989)
-DTSTART;TZID=America/Los_Angeles:20251128T220000
-DTEND;TZID=America/Los_Angeles:20251129T001500
-DTSTAMP:20251129T055300Z
-UID:ci1024213-tt0097100--2025-11-28-22-0
-DESCRIPTION:Duration: 1h 47m (107 mins)\n\nOn December 26\, 1985\, Whitley
-  Strieber has a strange nightmare. In the following days\, plagued by pain
- ful headaches\, his behavior becomes increasingly erratic. Later\, under h
- ypnosis\, he realizes that his dream was not a dream at all.\n\nhttps://ww
- w.imdb.com/title/tt0097100/\n\nEstimated start: 22:25\n\nIMDb rating: 5.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251129T190347Z
 BEGIN:VEVENT
 SUMMARY:Twin Peaks (2017)
 DTSTART;TZID=America/Los_Angeles:20251130T170000
@@ -304,7 +279,19 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nThe lives of seven neophytes as
   they strive to enter a Greek letter fraternity through a difficult hazing
   process. The entire experience is seen through the eyes of Sid Lucero\, o
  ne of the neophytes.\n\nhttps://www.imdb.com/title/tt0138317/\n\nEstimated
-  start: 19:25\n\nIMDb rating: 7.4
+  start: 19:25\n\nIMDb rating: 7.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remember the Night (1939)
+DTSTART;TZID=America/Los_Angeles:20251214T140000
+DTEND;TZID=America/Los_Angeles:20251214T160000
+DTSTAMP:20251214T215300Z
+UID:ci1024213-tt0032981--2025-12-14-14-0
+DESCRIPTION:Duration: 1h 34m (94 mins)\n\nLove blooms between a sympatheti
+ c attorney and the comely shoplifter he has taken home for the Christmas h
+ oliday.\n\nhttps://www.imdb.com/title/tt0032981/\n\nEstimated start: 14:25
+ \n\nIMDb rating: 7.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
