@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251206T171105Z
-BEGIN:VEVENT
-SUMMARY:Twin Peaks (2017)
-DTSTART;TZID=America/Los_Angeles:20251206T190000
-DTEND;TZID=America/Los_Angeles:20251206T212500
-DTSTAMP:20251207T025300Z
-UID:ci1024213-tt4093826--2025-12-6-19-0
-DESCRIPTION:Duration: 2h 00m (120 mins)\n\nPicks up 25 years after the inh
- abitants of a quaint northwestern town are stunned when their homecoming q
- ueen is murdered.\n\nhttps://www.imdb.com/title/tt4093826/\n\nEstimated st
- art: 19:25\n\nIMDb rating: 8.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251207T185437Z
 BEGIN:VEVENT
 SUMMARY:Twin Peaks (2017)
 DTSTART;TZID=America/Los_Angeles:20251207T170000
@@ -318,6 +306,20 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nThe story concerns an old globe
  -maker who is mysteriously killed while going through the town portraying 
  Pere Noel (&quot\;Father Christmas&quot\; aka Santa Claus).\n\nhttps://www
  .imdb.com/title/tt0033357/\n\nEstimated start: 17:25\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Distant Voices\, Still Lives (1988)
+DTSTART;TZID=America/Los_Angeles:20251222T193000
+DTEND;TZID=America/Los_Angeles:20251222T212000
+DTSTAMP:20251223T032300Z
+UID:ci1024213-tt0095037--2025-12-22-19-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nThe lives of an English working-
+ class family are told out of order in a free-associative manner. The first
+  part\, &quot\;Distant Voices&quot\;\, focuses on the father's role in the
+  family. The second part\, &quot\;Still Lives&quot\;\, focuses on his chil
+ dren.\n\nhttps://www.imdb.com/title/tt0095037/\n\nEstimated start: 19:55\n
+ \nIMDb rating: 7.4
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
