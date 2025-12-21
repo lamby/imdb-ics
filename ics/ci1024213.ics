@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251219T140836Z
-BEGIN:VEVENT
-SUMMARY:The Red Spectacles (1987)
-DTSTART;TZID=America/Los_Angeles:20251219T190000
-DTEND;TZID=America/Los_Angeles:20251219T212500
-DTSTAMP:20251220T025300Z
-UID:ci1024213-tt0228456--2025-12-19-19-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA surreal science fiction noir 
- involving a man trapped in a future where seemingly everyone is a governme
- nt spy and all-night noodle stands are outlawed.\n\nhttps://www.imdb.com/t
- itle/tt0228456/\n\nEstimated start: 19:25\n\nIMDb rating: 6.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Red Spectacles (1987)
-DTSTART;TZID=America/Los_Angeles:20251220T190000
-DTEND;TZID=America/Los_Angeles:20251220T212500
-DTSTAMP:20251221T025300Z
-UID:ci1024213-tt0228456--2025-12-20-19-0
-DESCRIPTION:Duration: 1h 56m (116 mins)\n\nA surreal science fiction noir 
- involving a man trapped in a future where seemingly everyone is a governme
- nt spy and all-night noodle stands are outlawed.\n\nhttps://www.imdb.com/t
- itle/tt0228456/\n\nEstimated start: 19:25\n\nIMDb rating: 6.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251221T205338Z
 BEGIN:VEVENT
 SUMMARY:Christmas in Connecticut (1945)
 DTSTART;TZID=America/Los_Angeles:20251221T140000
