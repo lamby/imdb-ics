@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251224T171109Z
-BEGIN:VEVENT
-SUMMARY:Fanny and Alexander (1982)
-DTSTART;TZID=America/Los_Angeles:20251224T140000
-DTEND;TZID=America/Los_Angeles:20251224T173500
-DTSTAMP:20251224T215300Z
-UID:ci1024213-tt0083922--2025-12-24-14-0
-DESCRIPTION:Duration: 3h 08m (188 mins)\n\nTwo young Swedish children in t
- he 1900s experience the many comedies and tragedies of their lively and af
- fectionate theatrical family\, the Ekdahls.\n\nhttps://www.imdb.com/title/
- tt0083922/\n\nEstimated start: 14:25\n\nIMDb rating: 8.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251226T192040Z
 BEGIN:VEVENT
 SUMMARY:Raging Bull (1980)
 DTSTART;TZID=America/Los_Angeles:20251226T190000
@@ -149,6 +137,167 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nViridiana\, a young nun about to
   take her final vows\, pays a visit to her widowed uncle at the request of
   her Mother Superior.\n\nhttps://www.imdb.com/title/tt0055601/\n\nEstimate
  d start: 16:55\n\nIMDb rating: 8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Touch of Zen (1971)
+DTSTART;TZID=America/Los_Angeles:20260102T190000
+DTEND;TZID=America/Los_Angeles:20260102T224500
+DTSTAMP:20260103T025300Z
+UID:ci1024213-tt0064451--2026-1-2-19-0
+DESCRIPTION:Duration: 3h 20m (200 mins)\n\nA lady fugitive on the run from
+  corrupt government officials is joined in her endeavors by an unambitious
+  painter and skilled Buddhist monks.\n\nhttps://www.imdb.com/title/tt00644
+ 51/\n\nEstimated start: 19:25\n\nIMDb rating: 7.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anything That Moves
+DTSTART;TZID=America/Los_Angeles:20260103T220000
+DTEND;TZID=America/Los_Angeles:20260103T234500
+DTSTAMP:20260104T055300Z
+UID:ci1024213-tt21382792--2026-1-3-22-0
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAn innocent Chicago food deliver
+ y boy\, after having sex for money\, finds himself involved in a series of
+  murders that can be traced back to someone who was in his bed.\n\nhttps:/
+ /www.imdb.com/title/tt21382792/\n\nEstimated start: 22:25\n\nIMDb rating: 
+ 4.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anything That Moves
+DTSTART;TZID=America/Los_Angeles:20260104T170000
+DTEND;TZID=America/Los_Angeles:20260104T184500
+DTSTAMP:20260105T005300Z
+UID:ci1024213-tt21382792--2026-1-4-17-0
+DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAn innocent Chicago food deliver
+ y boy\, after having sex for money\, finds himself involved in a series of
+  murders that can be traced back to someone who was in his bed.\n\nhttps:/
+ /www.imdb.com/title/tt21382792/\n\nEstimated start: 17:25\n\nIMDb rating: 
+ 4.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Touch of Zen (1971)
+DTSTART;TZID=America/Los_Angeles:20260105T193000
+DTEND;TZID=America/Los_Angeles:20260105T231500
+DTSTAMP:20260106T032300Z
+UID:ci1024213-tt0064451--2026-1-5-19-30
+DESCRIPTION:Duration: 3h 20m (200 mins)\n\nA lady fugitive on the run from
+  corrupt government officials is joined in her endeavors by an unambitious
+  painter and skilled Buddhist monks.\n\nhttps://www.imdb.com/title/tt00644
+ 51/\n\nEstimated start: 19:55\n\nIMDb rating: 7.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Touch of Zen (1971)
+DTSTART;TZID=America/Los_Angeles:20260106T150000
+DTEND;TZID=America/Los_Angeles:20260106T184500
+DTSTAMP:20260106T225300Z
+UID:ci1024213-tt0064451--2026-1-6-15-0
+DESCRIPTION:Duration: 3h 20m (200 mins)\n\nA lady fugitive on the run from
+  corrupt government officials is joined in her endeavors by an unambitious
+  painter and skilled Buddhist monks.\n\nhttps://www.imdb.com/title/tt00644
+ 51/\n\nEstimated start: 15:25\n\nIMDb rating: 7.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giants and Toys (1958)
+DTSTART;TZID=America/Los_Angeles:20260106T193000
+DTEND;TZID=America/Los_Angeles:20260106T213000
+DTSTAMP:20260107T032300Z
+UID:ci1024213-tt0051834--2026-1-6-19-30
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nIn the middle of a fierce commer
+ cial competition among three caramel companies\, an executive builds up a 
+ ditzy teenage girl as a mascot while simultaneously trying to uncover the 
+ rival companies' plans.\n\nhttps://www.imdb.com/title/tt0051834/\n\nEstima
+ ted start: 19:55\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giants and Toys (1958)
+DTSTART;TZID=America/Los_Angeles:20260107T193000
+DTEND;TZID=America/Los_Angeles:20260107T213000
+DTSTAMP:20260108T032300Z
+UID:ci1024213-tt0051834--2026-1-7-19-30
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nIn the middle of a fierce commer
+ cial competition among three caramel companies\, an executive builds up a 
+ ditzy teenage girl as a mascot while simultaneously trying to uncover the 
+ rival companies' plans.\n\nhttps://www.imdb.com/title/tt0051834/\n\nEstima
+ ted start: 19:55\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giants and Toys (1958)
+DTSTART;TZID=America/Los_Angeles:20260108T163000
+DTEND;TZID=America/Los_Angeles:20260108T183000
+DTSTAMP:20260109T002300Z
+UID:ci1024213-tt0051834--2026-1-8-16-30
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nIn the middle of a fierce commer
+ cial competition among three caramel companies\, an executive builds up a 
+ ditzy teenage girl as a mascot while simultaneously trying to uncover the 
+ rival companies' plans.\n\nhttps://www.imdb.com/title/tt0051834/\n\nEstima
+ ted start: 16:55\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:City Wide Fever
+DTSTART;TZID=America/Los_Angeles:20260108T193000
+DTEND;TZID=America/Los_Angeles:20260108T211000
+DTSTAMP:20260109T032300Z
+UID:ci1024213-tt35223935--2026-1-8-19-30
+DESCRIPTION:Duration: 1h 13m (73 mins)\n\nSam\, a young film student\, dis
+ covers a USB detailing the life and career of forgotten Italian horror dir
+ ector Saturnino Barresi. As she begins to investigate his mysterious disap
+ pearance\, Sam finds herself pulled into a violent co...\n\nhttps://www.im
+ db.com/title/tt35223935/\n\nEstimated start: 19:55
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reflection in a Dead Diamond
+DTSTART;TZID=America/Los_Angeles:20260109T190000
+DTEND;TZID=America/Los_Angeles:20260109T205500
+DTSTAMP:20260110T025300Z
+UID:ci1024213-tt32263401--2026-1-9-19-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA retired spy suspects his forme
+ r adversaries have resurfaced when his intriguing neighbor vanishes.\n\nht
+ tps://www.imdb.com/title/tt32263401/\n\nEstimated start: 19:25\n\nIMDb rat
+ ing: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Story of O (1975)
+DTSTART;TZID=America/Los_Angeles:20260109T220000
+DTEND;TZID=America/Los_Angeles:20260110T000500
+DTSTAMP:20260110T055300Z
+UID:ci1024213-tt0073115--2026-1-9-22-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA photographer is introduced to 
+ the world of dominance and submission.\n\nhttps://www.imdb.com/title/tt007
+ 3115/\n\nEstimated start: 22:25\n\nIMDb rating: 5.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reflection in a Dead Diamond
+DTSTART;TZID=America/Los_Angeles:20260110T220000
+DTEND;TZID=America/Los_Angeles:20260110T235500
+DTSTAMP:20260111T055300Z
+UID:ci1024213-tt32263401--2026-1-10-22-0
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA retired spy suspects his forme
+ r adversaries have resurfaced when his intriguing neighbor vanishes.\n\nht
+ tps://www.imdb.com/title/tt32263401/\n\nEstimated start: 22:25\n\nIMDb rat
+ ing: 6.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantomas (1964)
+DTSTART;TZID=America/Los_Angeles:20260110T190000
+DTEND;TZID=America/Los_Angeles:20260110T211000
+DTSTAMP:20260111T025300Z
+UID:ci1024213-tt0058089--2026-1-10-19-0
+DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe best men of France - a brav
+ e journalist and an extremely energetic commissioner - attack the trail of
+  a mysterious criminal mastermind.\n\nhttps://www.imdb.com/title/tt0058089
+ /\n\nEstimated start: 19:25\n\nIMDb rating: 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
