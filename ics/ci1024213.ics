@@ -3,56 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251226T192040Z
-BEGIN:VEVENT
-SUMMARY:Raging Bull (1980)
-DTSTART;TZID=America/Los_Angeles:20251226T190000
-DTEND;TZID=America/Los_Angeles:20251226T213500
-DTSTAMP:20251227T025300Z
-UID:ci1024213-tt0081398--2025-12-26-19-0
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nThe life of boxer Jake LaMotta\
- , whose violence and temper that led him to the top in the ring destroyed 
- his life outside of it.\n\nhttps://www.imdb.com/title/tt0081398/\n\nEstima
- ted start: 19:25\n\nIMDb rating: 8.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fat City (1972)
-DTSTART;TZID=America/Los_Angeles:20251226T160000
-DTEND;TZID=America/Los_Angeles:20251226T180500
-DTSTAMP:20251226T235300Z
-UID:ci1024213-tt0068575--2025-12-26-16-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nTwo men\, working as professiona
- l boxers\, come to blows when their careers each begin to take different d
- irections.\n\nhttps://www.imdb.com/title/tt0068575/\n\nEstimated start: 16
- :25\n\nIMDb rating: 7.2
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tokyo Fist (1995)
-DTSTART;TZID=America/Los_Angeles:20251226T220000
-DTEND;TZID=America/Los_Angeles:20251226T235500
-DTSTAMP:20251227T055300Z
-UID:ci1024213-tt0114690--2025-12-26-22-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nSuspecting that his childhood fr
- iend\, a professional boxer\, is having a love affair with his fiancée\, 
- a businessman starts training rigorously in order to take him down.\n\nhtt
- ps://www.imdb.com/title/tt0114690/\n\nEstimated start: 22:25\n\nIMDb ratin
- g: 7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Set-Up (1949)
-DTSTART;TZID=America/Los_Angeles:20251226T130000
-DTEND;TZID=America/Los_Angeles:20251226T144000
-DTSTAMP:20251226T205300Z
-UID:ci1024213-tt0041859--2025-12-26-13-0
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nExpecting the usual loss\, a box
- ing manager takes bribes from a betting gangster without telling his fight
- er.\n\nhttps://www.imdb.com/title/tt0041859/\n\nEstimated start: 13:25\n\n
- IMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251227T152304Z
 BEGIN:VEVENT
 SUMMARY:Together
 DTSTART;TZID=America/Los_Angeles:20251227T190000
@@ -298,6 +249,29 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe best men of France - a brav
  e journalist and an extremely energetic commissioner - attack the trail of
   a mysterious criminal mastermind.\n\nhttps://www.imdb.com/title/tt0058089
  /\n\nEstimated start: 19:25\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Testament of Dr. Mabuse (1933)
+DTSTART;TZID=America/Los_Angeles:20260111T140000
+DTEND;TZID=America/Los_Angeles:20260111T163000
+DTSTAMP:20260111T215300Z
+UID:ci1024213-tt0023563--2026-1-11-14-0
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
+ osis to rule the rackets after death.\n\nhttps://www.imdb.com/title/tt0023
+ 563/\n\nEstimated start: 14:25\n\nIMDb rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WR: Mysteries of the Organism (1971)
+DTSTART;TZID=America/Los_Angeles:20260111T170000
+DTEND;TZID=America/Los_Angeles:20260111T185000
+DTSTAMP:20260112T005300Z
+UID:ci1024213-tt0067958--2026-1-11-17-0
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn homage to the work of psychol
+ ogist Wilhelm Reich\, matched with a story about a Yugoslavian girl's affa
+ ir with a Russian skater.\n\nhttps://www.imdb.com/title/tt0067958/\n\nEsti
+ mated start: 17:25\n\nIMDb rating: 6.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
