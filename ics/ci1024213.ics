@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20251228T190705Z
-BEGIN:VEVENT
-SUMMARY:Viridiana (1961)
-DTSTART;TZID=America/Los_Angeles:20251228T170000
-DTEND;TZID=America/Los_Angeles:20251228T190000
-DTSTAMP:20251229T005300Z
-UID:ci1024213-tt0055601--2025-12-28-17-0
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nViridiana\, a young nun about to
-  take her final vows\, pays a visit to her widowed uncle at the request of
-  her Mother Superior.\n\nhttps://www.imdb.com/title/tt0055601/\n\nEstimate
- d start: 17:25\n\nIMDb rating: 8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stella Dallas (1937)
-DTSTART;TZID=America/Los_Angeles:20251228T140000
-DTEND;TZID=America/Los_Angeles:20251228T161500
-DTSTAMP:20251228T215300Z
-UID:ci1024213-tt0029608--2025-12-28-14-0
-DESCRIPTION:Duration: 1h 46m (106 mins)\n\nA working-class woman is willin
- g to do whatever it takes to give her daughter a socially promising future
- .\n\nhttps://www.imdb.com/title/tt0029608/\n\nEstimated start: 14:25\n\nIM
- Db rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20251229T181758Z
 BEGIN:VEVENT
 SUMMARY:Viridiana (1961)
 DTSTART;TZID=America/Los_Angeles:20251229T193000
@@ -280,6 +256,30 @@ DTSTART;TZID=America/Los_Angeles:20260112T163000
 DTEND;TZID=America/Los_Angeles:20260112T190000
 DTSTAMP:20260113T002300Z
 UID:ci1024213-tt0023563--2026-1-12-16-30
+DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
+ osis to rule the rackets after death.\n\nhttps://www.imdb.com/title/tt0023
+ 563/\n\nEstimated start: 16:55\n\nIMDb rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlito's Way (1993)
+DTSTART;TZID=America/Los_Angeles:20260113T193000
+DTEND;TZID=America/Los_Angeles:20260113T222000
+DTSTAMP:20260114T032300Z
+UID:ci1024213-tt0106519--2026-1-13-19-30
+DESCRIPTION:Duration: 2h 24m (144 mins)\n\nA Puerto Rican former convict\,
+  just released from prison\, pledges to stay away from drugs and violence 
+ despite the pressure around him and lead on to a better life outside of N.
+ Y.C.\n\nhttps://www.imdb.com/title/tt0106519/\n\nEstimated start: 19:55\n\
+ nIMDb rating: 7.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Testament of Dr. Mabuse (1933)
+DTSTART;TZID=America/Los_Angeles:20260113T163000
+DTEND;TZID=America/Los_Angeles:20260113T190000
+DTSTAMP:20260114T002300Z
+UID:ci1024213-tt0023563--2026-1-13-16-30
 DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
  osis to rule the rackets after death.\n\nhttps://www.imdb.com/title/tt0023
  563/\n\nEstimated start: 16:55\n\nIMDb rating: 7.9
