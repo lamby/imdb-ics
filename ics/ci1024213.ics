@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260104T181957Z
-BEGIN:VEVENT
-SUMMARY:The Holiday (2006)
-DTSTART;TZID=America/Los_Angeles:20260104T140000
-DTEND;TZID=America/Los_Angeles:20260104T164500
-DTSTAMP:20260104T215300Z
-UID:ci1024213-tt0457939--2026-1-4-14-0
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nAmanda lives in LA and is a mov
- ie trailer editor. Iris lives in Surrey and is a journalist. The two decid
- e to swap houses for two weeks at Christmas - both trying to forget their 
- troubled love lives\, until love finds them anyways.\n\nhttps://www.imdb.c
- om/title/tt0457939/\n\nEstimated start: 14:25\n\nIMDb rating: 7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anything That Moves
-DTSTART;TZID=America/Los_Angeles:20260104T170000
-DTEND;TZID=America/Los_Angeles:20260104T184500
-DTSTAMP:20260105T005300Z
-UID:ci1024213-tt21382792--2026-1-4-17-0
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nAn innocent Chicago food deliver
- y boy\, after having sex for money\, finds himself involved in a series of
-  murders that can be traced back to someone who was in his bed.\n\nhttps:/
- /www.imdb.com/title/tt21382792/\n\nEstimated start: 17:25\n\nIMDb rating: 
- 4.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260105T170340Z
 BEGIN:VEVENT
 SUMMARY:The Holiday (2006)
 DTSTART;TZID=America/Los_Angeles:20260105T163000
@@ -251,18 +225,6 @@ DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WR: Mysteries of the Organism (1971)
-DTSTART;TZID=America/Los_Angeles:20260114T163000
-DTEND;TZID=America/Los_Angeles:20260114T182000
-DTSTAMP:20260115T002300Z
-UID:ci1024213-tt0067958--2026-1-14-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn homage to the work of psychol
- ogist Wilhelm Reich\, matched with a story about a Yugoslavian girl's affa
- ir with a Russian skater.\n\nhttps://www.imdb.com/title/tt0067958/\n\nEsti
- mated start: 16:55\n\nIMDb rating: 6.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lust of the Vampire (1957)
 DTSTART;TZID=America/Los_Angeles:20260114T193000
 DTEND;TZID=America/Los_Angeles:20260114T212000
@@ -273,6 +235,18 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nParis. Young girls are found dea
  the beautiful Gisele\, from a noble family\, tries to seduce him.\n\nhttps
  ://www.imdb.com/title/tt0049429/\n\nEstimated start: 19:55\n\nIMDb rating:
   6.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WR: Mysteries of the Organism (1971)
+DTSTART;TZID=America/Los_Angeles:20260114T163000
+DTEND;TZID=America/Los_Angeles:20260114T182000
+DTSTAMP:20260115T002300Z
+UID:ci1024213-tt0067958--2026-1-14-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn homage to the work of psychol
+ ogist Wilhelm Reich\, matched with a story about a Yugoslavian girl's affa
+ ir with a Russian skater.\n\nhttps://www.imdb.com/title/tt0067958/\n\nEsti
+ mated start: 16:55\n\nIMDb rating: 6.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -388,6 +362,32 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA master thief and his sensual
  lover pull off heist after heist\, all while an envious coalition of cops 
  and gangsters is gunning for them.\n\nhttps://www.imdb.com/title/tt0062861
  /\n\nEstimated start: 19:55\n\nIMDb rating: 6.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altered States (1980)
+DTSTART;TZID=America/Los_Angeles:20260120T193000
+DTEND;TZID=America/Los_Angeles:20260120T214000
+DTSTAMP:20260121T032300Z
+UID:ci1024213-tt0080360--2026-1-20-19-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA psycho-physiologist experimen
+ ts with drugs and a sensory-deprivation tank and has visions he believes a
+ re genetic memories.\n\nhttps://www.imdb.com/title/tt0080360/\n\nEstimated
+  start: 19:55\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Lizard (1968)
+DTSTART;TZID=America/Los_Angeles:20260120T163000
+DTEND;TZID=America/Los_Angeles:20260120T182500
+DTSTAMP:20260121T002300Z
+UID:ci1024213-tt0063203--2026-1-20-16-30
+DESCRIPTION:Duration: 1h 26m (86 mins)\n\nJapanese sixties comedy featurin
+ g a cunning female jewel thief named Black Lizard who tries to kidnap Sana
+ ye\, a wealthy jeweler's beautiful daughter as part of a plot to steal the
+  jeweler's expensive &quot\;Star of Egypt&quot\; diamond. To th...\n\nhttp
+ s://www.imdb.com/title/tt0063203/\n\nEstimated start: 16:55\n\nIMDb rating
+ : 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
