@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 iPic Theaters at Redmond Town Center
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-LAST-MODIFIED:20260106T170255Z
+LAST-MODIFIED:20260107T161055Z
 BEGIN:VEVENT
 SUMMARY:The Housemaid
 DTSTART;TZID=America/Los_Angeles:20260107T151500
@@ -124,7 +124,7 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA group of friends are going thr
  ough a mid-life crisis. They decide to remake a favorite movie from their 
  youth but encounter unexpected events when they enter the jungle.\n\nhttps
  ://www.imdb.com/title/tt33244668/\n\nEstimated start: 14:40\n\nIMDb rating
- : 6.1
+ : 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -138,7 +138,7 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA group of friends are going thr
  ough a mid-life crisis. They decide to remake a favorite movie from their 
  youth but encounter unexpected events when they enter the jungle.\n\nhttps
  ://www.imdb.com/title/tt33244668/\n\nEstimated start: 17:25\n\nIMDb rating
- : 6.1
+ : 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -152,7 +152,7 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA group of friends are going thr
  ough a mid-life crisis. They decide to remake a favorite movie from their 
  youth but encounter unexpected events when they enter the jungle.\n\nhttps
  ://www.imdb.com/title/tt33244668/\n\nEstimated start: 20:10\n\nIMDb rating
- : 6.1
+ : 6
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -211,6 +211,141 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260108T143000
+DTEND;TZID=America/Los_Angeles:20260108T171000
+DTSTAMP:20260108T222300Z
+UID:ci0014968-tt27543632--2026-1-8-14-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 14:55\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260108T180000
+DTEND;TZID=America/Los_Angeles:20260108T204000
+DTSTAMP:20260109T015300Z
+UID:ci0014968-tt27543632--2026-1-8-18-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 18:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260108T134500
+DTEND;TZID=America/Los_Angeles:20260108T173000
+DTSTAMP:20260108T213800Z
+UID:ci0014968-tt1757678--2026-1-8-13-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 14:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260108T181500
+DTEND;TZID=America/Los_Angeles:20260108T220000
+DTSTAMP:20260109T020800Z
+UID:ci0014968-tt1757678--2026-1-8-18-15
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 18:40\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260108T163000
+DTEND;TZID=America/Los_Angeles:20260108T201500
+DTSTAMP:20260109T002300Z
+UID:ci0014968-tt1757678--2026-1-8-16-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260108T150000
+DTEND;TZID=America/Los_Angeles:20260108T175500
+DTSTAMP:20260108T225300Z
+UID:ci0014968-tt32916440--2026-1-8-15-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 15:25\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260108T184500
+DTEND;TZID=America/Los_Angeles:20260108T214000
+DTSTAMP:20260109T023800Z
+UID:ci0014968-tt32916440--2026-1-8-18-45
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 19:10\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260108T153000
+DTEND;TZID=America/Los_Angeles:20260108T174500
+DTSTAMP:20260108T232300Z
+UID:ci0014968-tt26443597--2026-1-8-15-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260108T163000
+DTEND;TZID=America/Los_Angeles:20260108T184500
+DTSTAMP:20260109T002300Z
+UID:ci0014968-tt26443597--2026-1-8-16-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 16:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260108T183000
+DTEND;TZID=America/Los_Angeles:20260108T204500
+DTSTAMP:20260109T022300Z
+UID:ci0014968-tt26443597--2026-1-8-18-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Primate
 DTSTART;TZID=America/Los_Angeles:20260108T194500
 DTEND;TZID=America/Los_Angeles:20260108T214000
@@ -219,7 +354,7 @@ UID:ci0014968-tt33028778--2026-1-8-19-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 20:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -250,6 +385,209 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260109T143000
+DTEND;TZID=America/Los_Angeles:20260109T171000
+DTSTAMP:20260109T222300Z
+UID:ci0014968-tt27543632--2026-1-9-14-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 14:55\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260109T180000
+DTEND;TZID=America/Los_Angeles:20260109T204000
+DTSTAMP:20260110T015300Z
+UID:ci0014968-tt27543632--2026-1-9-18-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 18:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260109T224500
+DTEND;TZID=America/Los_Angeles:20260110T012500
+DTSTAMP:20260110T063800Z
+UID:ci0014968-tt27543632--2026-1-9-22-45
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 23:10\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260109T134500
+DTEND;TZID=America/Los_Angeles:20260109T173000
+DTSTAMP:20260109T213800Z
+UID:ci0014968-tt1757678--2026-1-9-13-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 14:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260109T181500
+DTEND;TZID=America/Los_Angeles:20260109T220000
+DTSTAMP:20260110T020800Z
+UID:ci0014968-tt1757678--2026-1-9-18-15
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 18:40\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260109T213000
+DTEND;TZID=America/Los_Angeles:20260110T011500
+DTSTAMP:20260110T052300Z
+UID:ci0014968-tt1757678--2026-1-9-21-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260109T163000
+DTEND;TZID=America/Los_Angeles:20260109T201500
+DTSTAMP:20260110T002300Z
+UID:ci0014968-tt1757678--2026-1-9-16-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260109T210000
+DTEND;TZID=America/Los_Angeles:20260110T004500
+DTSTAMP:20260110T045300Z
+UID:ci0014968-tt1757678--2026-1-9-21-0
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 21:25\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260109T150000
+DTEND;TZID=America/Los_Angeles:20260109T175500
+DTSTAMP:20260109T225300Z
+UID:ci0014968-tt32916440--2026-1-9-15-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 15:25\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260109T184500
+DTEND;TZID=America/Los_Angeles:20260109T214000
+DTSTAMP:20260110T023800Z
+UID:ci0014968-tt32916440--2026-1-9-18-45
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 19:10\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260109T223000
+DTEND;TZID=America/Los_Angeles:20260110T012500
+DTSTAMP:20260110T062300Z
+UID:ci0014968-tt32916440--2026-1-9-22-30
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 22:55\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260109T153000
+DTEND;TZID=America/Los_Angeles:20260109T174500
+DTSTAMP:20260109T232300Z
+UID:ci0014968-tt26443597--2026-1-9-15-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260109T183000
+DTEND;TZID=America/Los_Angeles:20260109T204500
+DTSTAMP:20260110T022300Z
+UID:ci0014968-tt26443597--2026-1-9-18-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260109T214500
+DTEND;TZID=America/Los_Angeles:20260110T000000
+DTSTAMP:20260110T053800Z
+UID:ci0014968-tt26443597--2026-1-9-21-45
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 22:10\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primate
+DTSTART;TZID=America/Los_Angeles:20260109T140000
+DTEND;TZID=America/Los_Angeles:20260109T155500
+DTSTAMP:20260109T215300Z
+UID:ci0014968-tt33028778--2026-1-9-14-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
+ ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
+ ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 14:25\n\nIMDb rati
+ ng: 6.1
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Primate
 DTSTART;TZID=America/Los_Angeles:20260109T164500
 DTEND;TZID=America/Los_Angeles:20260109T184000
@@ -258,7 +596,7 @@ UID:ci0014968-tt33028778--2026-1-9-16-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 17:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -271,7 +609,7 @@ UID:ci0014968-tt33028778--2026-1-9-19-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 20:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -284,7 +622,7 @@ UID:ci0014968-tt33028778--2026-1-9-22-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 22:55\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -328,15 +666,273 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primate
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260110T110000
+DTEND;TZID=America/Los_Angeles:20260110T134000
+DTSTAMP:20260110T185300Z
+UID:ci0014968-tt27543632--2026-1-10-11-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 11:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260110T143000
+DTEND;TZID=America/Los_Angeles:20260110T171000
+DTSTAMP:20260110T222300Z
+UID:ci0014968-tt27543632--2026-1-10-14-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 14:55\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260110T180000
+DTEND;TZID=America/Los_Angeles:20260110T204000
+DTSTAMP:20260111T015300Z
+UID:ci0014968-tt27543632--2026-1-10-18-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 18:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260110T224500
+DTEND;TZID=America/Los_Angeles:20260111T012500
+DTSTAMP:20260111T063800Z
+UID:ci0014968-tt27543632--2026-1-10-22-45
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 23:10\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260110T110000
+DTEND;TZID=America/Los_Angeles:20260110T144500
+DTSTAMP:20260110T185300Z
+UID:ci0014968-tt1757678--2026-1-10-11-0
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 11:25\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
 DTSTART;TZID=America/Los_Angeles:20260110T134500
-DTEND;TZID=America/Los_Angeles:20260110T154000
+DTEND;TZID=America/Los_Angeles:20260110T173000
 DTSTAMP:20260110T213800Z
-UID:ci0014968-tt33028778--2026-1-10-13-45
+UID:ci0014968-tt1757678--2026-1-10-13-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 14:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260110T181500
+DTEND;TZID=America/Los_Angeles:20260110T220000
+DTSTAMP:20260111T020800Z
+UID:ci0014968-tt1757678--2026-1-10-18-15
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 18:40\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260110T213000
+DTEND;TZID=America/Los_Angeles:20260111T011500
+DTSTAMP:20260111T052300Z
+UID:ci0014968-tt1757678--2026-1-10-21-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 21:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260110T114500
+DTEND;TZID=America/Los_Angeles:20260110T153000
+DTSTAMP:20260110T193800Z
+UID:ci0014968-tt1757678--2026-1-10-11-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 12:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260110T163000
+DTEND;TZID=America/Los_Angeles:20260110T201500
+DTSTAMP:20260111T002300Z
+UID:ci0014968-tt1757678--2026-1-10-16-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260110T210000
+DTEND;TZID=America/Los_Angeles:20260111T004500
+DTSTAMP:20260111T045300Z
+UID:ci0014968-tt1757678--2026-1-10-21-0
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 21:25\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260110T111500
+DTEND;TZID=America/Los_Angeles:20260110T141000
+DTSTAMP:20260110T190800Z
+UID:ci0014968-tt32916440--2026-1-10-11-15
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 11:40\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260110T150000
+DTEND;TZID=America/Los_Angeles:20260110T175500
+DTSTAMP:20260110T225300Z
+UID:ci0014968-tt32916440--2026-1-10-15-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 15:25\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260110T184500
+DTEND;TZID=America/Los_Angeles:20260110T214000
+DTSTAMP:20260111T023800Z
+UID:ci0014968-tt32916440--2026-1-10-18-45
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 19:10\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260110T223000
+DTEND;TZID=America/Los_Angeles:20260111T012500
+DTSTAMP:20260111T062300Z
+UID:ci0014968-tt32916440--2026-1-10-22-30
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 22:55\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260110T104500
+DTEND;TZID=America/Los_Angeles:20260110T130000
+DTSTAMP:20260110T183800Z
+UID:ci0014968-tt26443597--2026-1-10-10-45
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 11:10\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260110T153000
+DTEND;TZID=America/Los_Angeles:20260110T174500
+DTSTAMP:20260110T232300Z
+UID:ci0014968-tt26443597--2026-1-10-15-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260110T183000
+DTEND;TZID=America/Los_Angeles:20260110T204500
+DTSTAMP:20260111T022300Z
+UID:ci0014968-tt26443597--2026-1-10-18-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260110T214500
+DTEND;TZID=America/Los_Angeles:20260111T000000
+DTSTAMP:20260111T053800Z
+UID:ci0014968-tt26443597--2026-1-10-21-45
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 22:10\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primate
+DTSTART;TZID=America/Los_Angeles:20260110T133000
+DTEND;TZID=America/Los_Angeles:20260110T152500
+DTSTAMP:20260110T212300Z
+UID:ci0014968-tt33028778--2026-1-10-13-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
- ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 14:10\n\nIMDb rati
- ng: 6.2
+ ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 13:55\n\nIMDb rati
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -349,7 +945,7 @@ UID:ci0014968-tt33028778--2026-1-10-16-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 17:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -362,7 +958,7 @@ UID:ci0014968-tt33028778--2026-1-10-19-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 20:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -375,7 +971,7 @@ UID:ci0014968-tt33028778--2026-1-10-22-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 22:55\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -432,15 +1028,205 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primate
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260111T110000
+DTEND;TZID=America/Los_Angeles:20260111T134000
+DTSTAMP:20260111T185300Z
+UID:ci0014968-tt27543632--2026-1-11-11-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 11:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260111T143000
+DTEND;TZID=America/Los_Angeles:20260111T171000
+DTSTAMP:20260111T222300Z
+UID:ci0014968-tt27543632--2026-1-11-14-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 14:55\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260111T180000
+DTEND;TZID=America/Los_Angeles:20260111T204000
+DTSTAMP:20260112T015300Z
+UID:ci0014968-tt27543632--2026-1-11-18-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 18:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260111T110000
+DTEND;TZID=America/Los_Angeles:20260111T144500
+DTSTAMP:20260111T185300Z
+UID:ci0014968-tt1757678--2026-1-11-11-0
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 11:25\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
 DTSTART;TZID=America/Los_Angeles:20260111T134500
-DTEND;TZID=America/Los_Angeles:20260111T154000
+DTEND;TZID=America/Los_Angeles:20260111T173000
 DTSTAMP:20260111T213800Z
-UID:ci0014968-tt33028778--2026-1-11-13-45
+UID:ci0014968-tt1757678--2026-1-11-13-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 14:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260111T181500
+DTEND;TZID=America/Los_Angeles:20260111T220000
+DTSTAMP:20260112T020800Z
+UID:ci0014968-tt1757678--2026-1-11-18-15
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 18:40\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260111T114500
+DTEND;TZID=America/Los_Angeles:20260111T153000
+DTSTAMP:20260111T193800Z
+UID:ci0014968-tt1757678--2026-1-11-11-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 12:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260111T163000
+DTEND;TZID=America/Los_Angeles:20260111T201500
+DTSTAMP:20260112T002300Z
+UID:ci0014968-tt1757678--2026-1-11-16-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260111T111500
+DTEND;TZID=America/Los_Angeles:20260111T141000
+DTSTAMP:20260111T190800Z
+UID:ci0014968-tt32916440--2026-1-11-11-15
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 11:40\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260111T150000
+DTEND;TZID=America/Los_Angeles:20260111T175500
+DTSTAMP:20260111T225300Z
+UID:ci0014968-tt32916440--2026-1-11-15-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 15:25\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260111T184500
+DTEND;TZID=America/Los_Angeles:20260111T214000
+DTSTAMP:20260112T023800Z
+UID:ci0014968-tt32916440--2026-1-11-18-45
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 19:10\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260111T104500
+DTEND;TZID=America/Los_Angeles:20260111T130000
+DTSTAMP:20260111T183800Z
+UID:ci0014968-tt26443597--2026-1-11-10-45
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 11:10\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260111T153000
+DTEND;TZID=America/Los_Angeles:20260111T174500
+DTSTAMP:20260111T232300Z
+UID:ci0014968-tt26443597--2026-1-11-15-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260111T183000
+DTEND;TZID=America/Los_Angeles:20260111T204500
+DTSTAMP:20260112T022300Z
+UID:ci0014968-tt26443597--2026-1-11-18-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primate
+DTSTART;TZID=America/Los_Angeles:20260111T133000
+DTEND;TZID=America/Los_Angeles:20260111T152500
+DTSTAMP:20260111T212300Z
+UID:ci0014968-tt33028778--2026-1-11-13-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
- ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 14:10\n\nIMDb rati
- ng: 6.2
+ ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 13:55\n\nIMDb rati
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -453,7 +1239,7 @@ UID:ci0014968-tt33028778--2026-1-11-16-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 17:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -466,7 +1252,7 @@ UID:ci0014968-tt33028778--2026-1-11-19-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 20:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -510,6 +1296,128 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260113T143000
+DTEND;TZID=America/Los_Angeles:20260113T171000
+DTSTAMP:20260113T222300Z
+UID:ci0014968-tt27543632--2026-1-13-14-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 14:55\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260113T180000
+DTEND;TZID=America/Los_Angeles:20260113T204000
+DTSTAMP:20260114T015300Z
+UID:ci0014968-tt27543632--2026-1-13-18-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 18:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260113T134500
+DTEND;TZID=America/Los_Angeles:20260113T173000
+DTSTAMP:20260113T213800Z
+UID:ci0014968-tt1757678--2026-1-13-13-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 14:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260113T181500
+DTEND;TZID=America/Los_Angeles:20260113T220000
+DTSTAMP:20260114T020800Z
+UID:ci0014968-tt1757678--2026-1-13-18-15
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 18:40\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260113T163000
+DTEND;TZID=America/Los_Angeles:20260113T201500
+DTSTAMP:20260114T002300Z
+UID:ci0014968-tt1757678--2026-1-13-16-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260113T150000
+DTEND;TZID=America/Los_Angeles:20260113T175500
+DTSTAMP:20260113T225300Z
+UID:ci0014968-tt32916440--2026-1-13-15-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 15:25\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260113T184500
+DTEND;TZID=America/Los_Angeles:20260113T214000
+DTSTAMP:20260114T023800Z
+UID:ci0014968-tt32916440--2026-1-13-18-45
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 19:10\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260113T153000
+DTEND;TZID=America/Los_Angeles:20260113T174500
+DTSTAMP:20260113T232300Z
+UID:ci0014968-tt26443597--2026-1-13-15-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260113T183000
+DTEND;TZID=America/Los_Angeles:20260113T204500
+DTSTAMP:20260114T022300Z
+UID:ci0014968-tt26443597--2026-1-13-18-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Primate
 DTSTART;TZID=America/Los_Angeles:20260113T164500
 DTEND;TZID=America/Los_Angeles:20260113T184000
@@ -518,20 +1426,20 @@ UID:ci0014968-tt33028778--2026-1-13-16-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 17:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Primate
-DTSTART;TZID=America/Los_Angeles:20260113T194500
-DTEND;TZID=America/Los_Angeles:20260113T214000
-DTSTAMP:20260114T033800Z
-UID:ci0014968-tt33028778--2026-1-13-19-45
+DTSTART;TZID=America/Los_Angeles:20260113T193000
+DTEND;TZID=America/Los_Angeles:20260113T212500
+DTSTAMP:20260114T032300Z
+UID:ci0014968-tt33028778--2026-1-13-19-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
- ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 20:10\n\nIMDb rati
- ng: 6.2
+ ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 19:55\n\nIMDb rati
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -562,6 +1470,128 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260114T143000
+DTEND;TZID=America/Los_Angeles:20260114T171000
+DTSTAMP:20260114T222300Z
+UID:ci0014968-tt27543632--2026-1-14-14-30
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 14:55\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Housemaid
+DTSTART;TZID=America/Los_Angeles:20260114T180000
+DTEND;TZID=America/Los_Angeles:20260114T204000
+DTSTAMP:20260115T015300Z
+UID:ci0014968-tt27543632--2026-1-14-18-0
+DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
+ ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
+ \, she discovers that the family's secrets are far more dangerous than her
+  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 18:25\
+ n\nIMDb rating: 7
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260114T134500
+DTEND;TZID=America/Los_Angeles:20260114T173000
+DTSTAMP:20260114T213800Z
+UID:ci0014968-tt1757678--2026-1-14-13-45
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 14:10\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260114T181500
+DTEND;TZID=America/Los_Angeles:20260114T220000
+DTSTAMP:20260115T020800Z
+UID:ci0014968-tt1757678--2026-1-14-18-15
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 18:40\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avatar: Fire and Ash
+DTSTART;TZID=America/Los_Angeles:20260114T163000
+DTEND;TZID=America/Los_Angeles:20260114T201500
+DTSTAMP:20260115T002300Z
+UID:ci0014968-tt1757678--2026-1-14-16-30
+DESCRIPTION:Duration: 3h 17m (197 mins)\n\nJake and Neytiri's family grapp
+ les with grief\, encountering a new\, aggressive Na'vi tribe\, the Ash Peo
+ ple\, who are led by the fiery Varang\, as the conflict on Pandora escalat
+ es and a new moral focus emerges.\n\nhttps://www.imdb.com/title/tt1757678/
+ \n\nEstimated start: 16:55\n\nIMDb rating: 7.4
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260114T150000
+DTEND;TZID=America/Los_Angeles:20260114T175500
+DTSTAMP:20260114T225300Z
+UID:ci0014968-tt32916440--2026-1-14-15-0
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 15:25\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marty Supreme
+DTSTART;TZID=America/Los_Angeles:20260114T184500
+DTEND;TZID=America/Los_Angeles:20260114T214000
+DTSTAMP:20260115T023800Z
+UID:ci0014968-tt32916440--2026-1-14-18-45
+DESCRIPTION:Duration: 2h 29m (149 mins)\n\nMarty Mauser\, a young man with
+  a dream no one respects\, goes to hell and back in pursuit of greatness.\
+ n\nhttps://www.imdb.com/title/tt32916440/\n\nEstimated start: 19:10\n\nIMD
+ b rating: 8.3
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260114T153000
+DTEND;TZID=America/Los_Angeles:20260114T174500
+DTSTAMP:20260114T232300Z
+UID:ci0014968-tt26443597--2026-1-14-15-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260114T183000
+DTEND;TZID=America/Los_Angeles:20260114T204500
+DTSTAMP:20260115T022300Z
+UID:ci0014968-tt26443597--2026-1-14-18-30
+DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
+  her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
+  most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Primate
 DTSTART;TZID=America/Los_Angeles:20260114T164500
 DTEND;TZID=America/Los_Angeles:20260114T184000
@@ -570,20 +1600,20 @@ UID:ci0014968-tt33028778--2026-1-14-16-45
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
  ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 17:10\n\nIMDb rati
- ng: 6.2
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Primate
-DTSTART;TZID=America/Los_Angeles:20260114T194500
-DTEND;TZID=America/Los_Angeles:20260114T214000
-DTSTAMP:20260115T033800Z
-UID:ci0014968-tt33028778--2026-1-14-19-45
+DTSTART;TZID=America/Los_Angeles:20260114T193000
+DTEND;TZID=America/Los_Angeles:20260114T212500
+DTSTAMP:20260115T032300Z
+UID:ci0014968-tt33028778--2026-1-14-19-30
 DESCRIPTION:Duration: 1h 29m (89 mins)\n\nA group of friends' tropical vac
  ation turns into a terrifying\, primal tale of horror and survival.\n\nhtt
- ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 20:10\n\nIMDb rati
- ng: 6.2
+ ps://www.imdb.com/title/tt33028778/\n\nEstimated start: 19:55\n\nIMDb rati
+ ng: 6.1
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -823,6 +1853,32 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:28 Years Later: The Bone Temple
+DTSTART;TZID=America/Los_Angeles:20260120T163000
+DTEND;TZID=America/Los_Angeles:20260120T184500
+DTSTAMP:20260121T002300Z
+UID:ci0014968-tt32141377--2026-1-20-16-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAs Spike is inducted into Jimmy
+  Crystal's gang on the mainland\, Dr. Kelson makes a discovery that could 
+ alter the world.\n\nhttps://www.imdb.com/title/tt32141377/\n\nEstimated st
+ art: 16:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:28 Years Later: The Bone Temple
+DTSTART;TZID=America/Los_Angeles:20260120T193000
+DTEND;TZID=America/Los_Angeles:20260120T214500
+DTSTAMP:20260121T032300Z
+UID:ci0014968-tt32141377--2026-1-20-19-30
+DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAs Spike is inducted into Jimmy
+  Crystal's gang on the mainland\, Dr. Kelson makes a discovery that could 
+ alter the world.\n\nhttps://www.imdb.com/title/tt32141377/\n\nEstimated st
+ art: 19:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:28 Years Later: The Bone Temple
 DTSTART;TZID=America/Los_Angeles:20260121T163000
 DTEND;TZID=America/Los_Angeles:20260121T184500
 DTSTAMP:20260122T002300Z
@@ -844,6 +1900,20 @@ DESCRIPTION:Duration: 1h 49m (109 mins)\n\nAs Spike is inducted into Jimmy
   Crystal's gang on the mainland\, Dr. Kelson makes a discovery that could 
  alter the world.\n\nhttps://www.imdb.com/title/tt32141377/\n\nEstimated st
  art: 19:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercy
+DTSTART;TZID=America/Los_Angeles:20260122T190000
+DTEND;TZID=America/Los_Angeles:20260122T210500
+DTSTAMP:20260123T025300Z
+UID:ci0014968-tt31050594--2026-1-22-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn the near future\, a detectiv
+ e stands on trial accused of murdering his wife. He has 90 minutes to prov
+ e his innocence to the advanced A.I. Judge he once championed\, before it 
+ determines his fate.\n\nhttps://www.imdb.com/title/tt31050594/\n\nEstimate
+ d start: 19:25
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT

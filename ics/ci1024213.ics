@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260106T170312Z
-BEGIN:VEVENT
-SUMMARY:A Touch of Zen (1971)
-DTSTART;TZID=America/Los_Angeles:20260106T150000
-DTEND;TZID=America/Los_Angeles:20260106T184500
-DTSTAMP:20260106T225300Z
-UID:ci1024213-tt0064451--2026-1-6-15-0
-DESCRIPTION:Duration: 3h 20m (200 mins)\n\nA lady fugitive on the run from
-  corrupt government officials is joined in her endeavors by an unambitious
-  painter and skilled Buddhist monks.\n\nhttps://www.imdb.com/title/tt00644
- 51/\n\nEstimated start: 15:25\n\nIMDb rating: 7.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Giants and Toys (1958)
-DTSTART;TZID=America/Los_Angeles:20260106T193000
-DTEND;TZID=America/Los_Angeles:20260106T213000
-DTSTAMP:20260107T032300Z
-UID:ci1024213-tt0051834--2026-1-6-19-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nIn the middle of a fierce commer
- cial competition among three caramel companies\, an executive builds up a 
- ditzy teenage girl as a mascot while simultaneously trying to uncover the 
- rival companies' plans.\n\nhttps://www.imdb.com/title/tt0051834/\n\nEstima
- ted start: 19:55\n\nIMDb rating: 7.2
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260107T161109Z
 BEGIN:VEVENT
 SUMMARY:The Holiday (2006)
 DTSTART;TZID=America/Los_Angeles:20260107T163000
@@ -402,6 +377,31 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA master thief and his sensual
  lover pull off heist after heist\, all while an envious coalition of cops 
  and gangsters is gunning for them.\n\nhttps://www.imdb.com/title/tt0062861
  /\n\nEstimated start: 16:55\n\nIMDb rating: 6.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All That's Left of You
+DTSTART;TZID=America/Los_Angeles:20260122T163000
+DTEND;TZID=America/Los_Angeles:20260122T192000
+DTSTAMP:20260123T002300Z
+UID:ci1024213-tt29344894--2026-1-22-16-30
+DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
+ wept up into a West Bank protest\, his mother recounts the family story of
+  hope\, courage and relentless struggle that led to this fateful moment.\n
+ \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 16:55\n\nIMDb
+  rating: 8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altered States (1980)
+DTSTART;TZID=America/Los_Angeles:20260122T193000
+DTEND;TZID=America/Los_Angeles:20260122T214000
+DTSTAMP:20260123T032300Z
+UID:ci1024213-tt0080360--2026-1-22-19-30
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA psycho-physiologist experimen
+ ts with drugs and a sensory-deprivation tank and has visions he believes a
+ re genetic memories.\n\nhttps://www.imdb.com/title/tt0080360/\n\nEstimated
+  start: 19:55\n\nIMDb rating: 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
