@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260107T161109Z
-BEGIN:VEVENT
-SUMMARY:The Holiday (2006)
-DTSTART;TZID=America/Los_Angeles:20260107T163000
-DTEND;TZID=America/Los_Angeles:20260107T191500
-DTSTAMP:20260108T002300Z
-UID:ci1024213-tt0457939--2026-1-7-16-30
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nAmanda lives in LA and is a mov
- ie trailer editor. Iris lives in Surrey and is a journalist. The two decid
- e to swap houses for two weeks at Christmas - both trying to forget their 
- troubled love lives\, until love finds them anyways.\n\nhttps://www.imdb.c
- om/title/tt0457939/\n\nEstimated start: 16:55\n\nIMDb rating: 7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Giants and Toys (1958)
-DTSTART;TZID=America/Los_Angeles:20260107T193000
-DTEND;TZID=America/Los_Angeles:20260107T213000
-DTSTAMP:20260108T032300Z
-UID:ci1024213-tt0051834--2026-1-7-19-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nIn the middle of a fierce commer
- cial competition among three caramel companies\, an executive builds up a 
- ditzy teenage girl as a mascot while simultaneously trying to uncover the 
- rival companies' plans.\n\nhttps://www.imdb.com/title/tt0051834/\n\nEstima
- ted start: 19:55\n\nIMDb rating: 7.2
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260108T165225Z
 BEGIN:VEVENT
 SUMMARY:Giants and Toys (1958)
 DTSTART;TZID=America/Los_Angeles:20260108T163000
@@ -402,6 +376,18 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA psycho-physiologist experimen
  ts with drugs and a sensory-deprivation tank and has visions he believes a
  re genetic memories.\n\nhttps://www.imdb.com/title/tt0080360/\n\nEstimated
   start: 19:55\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altered States (1980)
+DTSTART;TZID=America/Los_Angeles:20260123T160000
+DTEND;TZID=America/Los_Angeles:20260123T181000
+DTSTAMP:20260123T235300Z
+UID:ci1024213-tt0080360--2026-1-23-16-0
+DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA psycho-physiologist experimen
+ ts with drugs and a sensory-deprivation tank and has visions he believes a
+ re genetic memories.\n\nhttps://www.imdb.com/title/tt0080360/\n\nEstimated
+  start: 16:25\n\nIMDb rating: 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
