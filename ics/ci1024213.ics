@@ -3,33 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260108T165225Z
-BEGIN:VEVENT
-SUMMARY:Giants and Toys (1958)
-DTSTART;TZID=America/Los_Angeles:20260108T163000
-DTEND;TZID=America/Los_Angeles:20260108T183000
-DTSTAMP:20260109T002300Z
-UID:ci1024213-tt0051834--2026-1-8-16-30
-DESCRIPTION:Duration: 1h 35m (95 mins)\n\nIn the middle of a fierce commer
- cial competition among three caramel companies\, an executive builds up a 
- ditzy teenage girl as a mascot while simultaneously trying to uncover the 
- rival companies' plans.\n\nhttps://www.imdb.com/title/tt0051834/\n\nEstima
- ted start: 16:55\n\nIMDb rating: 7.2
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:City Wide Fever
-DTSTART;TZID=America/Los_Angeles:20260108T193000
-DTEND;TZID=America/Los_Angeles:20260108T211000
-DTSTAMP:20260109T032300Z
-UID:ci1024213-tt35223935--2026-1-8-19-30
-DESCRIPTION:Duration: 1h 13m (73 mins)\n\nSam\, a young film student\, dis
- covers a USB detailing the life and career of forgotten Italian horror dir
- ector Saturnino Barresi. As she begins to investigate his mysterious disap
- pearance\, Sam finds herself pulled into a violent co...\n\nhttps://www.im
- db.com/title/tt35223935/\n\nEstimated start: 19:55
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260109T165204Z
 BEGIN:VEVENT
 SUMMARY:Reflection in a Dead Diamond
 DTSTART;TZID=America/Los_Angeles:20260109T190000
