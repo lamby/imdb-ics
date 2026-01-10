@@ -3,30 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260109T165204Z
-BEGIN:VEVENT
-SUMMARY:Reflection in a Dead Diamond
-DTSTART;TZID=America/Los_Angeles:20260109T190000
-DTEND;TZID=America/Los_Angeles:20260109T205500
-DTSTAMP:20260110T025300Z
-UID:ci1024213-tt32263401--2026-1-9-19-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA retired spy suspects his forme
- r adversaries have resurfaced when his intriguing neighbor vanishes.\n\nht
- tps://www.imdb.com/title/tt32263401/\n\nEstimated start: 19:25\n\nIMDb rat
- ing: 6.2
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Story of O (1975)
-DTSTART;TZID=America/Los_Angeles:20260109T220000
-DTEND;TZID=America/Los_Angeles:20260110T000500
-DTSTAMP:20260110T055300Z
-UID:ci1024213-tt0073115--2026-1-9-22-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA photographer is introduced to 
- the world of dominance and submission.\n\nhttps://www.imdb.com/title/tt007
- 3115/\n\nEstimated start: 22:25\n\nIMDb rating: 5.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260110T175244Z
 BEGIN:VEVENT
 SUMMARY:Reflection in a Dead Diamond
 DTSTART;TZID=America/Los_Angeles:20260110T220000
@@ -36,7 +13,7 @@ UID:ci1024213-tt32263401--2026-1-10-22-0
 DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA retired spy suspects his forme
  r adversaries have resurfaced when his intriguing neighbor vanishes.\n\nht
  tps://www.imdb.com/title/tt32263401/\n\nEstimated start: 22:25\n\nIMDb rat
- ing: 6.2
+ ing: 6.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -362,6 +339,17 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\n\nA psycho-physiologist experimen
  ts with drugs and a sensory-deprivation tank and has visions he believes a
  re genetic memories.\n\nhttps://www.imdb.com/title/tt0080360/\n\nEstimated
   start: 16:25\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bat Whispers (1930)
+DTSTART;TZID=America/Los_Angeles:20260125T140000
+DTEND;TZID=America/Los_Angeles:20260125T155000
+DTSTAMP:20260125T215300Z
+UID:ci1024213-tt0020668--2026-1-25-14-0
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA master criminal terrorizes the
+  occupants of an isolated country mansion.\n\nhttps://www.imdb.com/title/t
+ t0020668/\n\nEstimated start: 14:25\n\nIMDb rating: 6.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
