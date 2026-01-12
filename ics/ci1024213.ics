@@ -3,54 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260110T175244Z
-BEGIN:VEVENT
-SUMMARY:Reflection in a Dead Diamond
-DTSTART;TZID=America/Los_Angeles:20260110T220000
-DTEND;TZID=America/Los_Angeles:20260110T235500
-DTSTAMP:20260111T055300Z
-UID:ci1024213-tt32263401--2026-1-10-22-0
-DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA retired spy suspects his forme
- r adversaries have resurfaced when his intriguing neighbor vanishes.\n\nht
- tps://www.imdb.com/title/tt32263401/\n\nEstimated start: 22:25\n\nIMDb rat
- ing: 6.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantomas (1964)
-DTSTART;TZID=America/Los_Angeles:20260110T190000
-DTEND;TZID=America/Los_Angeles:20260110T211000
-DTSTAMP:20260111T025300Z
-UID:ci1024213-tt0058089--2026-1-10-19-0
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nThe best men of France - a brav
- e journalist and an extremely energetic commissioner - attack the trail of
-  a mysterious criminal mastermind.\n\nhttps://www.imdb.com/title/tt0058089
- /\n\nEstimated start: 19:25\n\nIMDb rating: 6.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Testament of Dr. Mabuse (1933)
-DTSTART;TZID=America/Los_Angeles:20260111T140000
-DTEND;TZID=America/Los_Angeles:20260111T163000
-DTSTAMP:20260111T215300Z
-UID:ci1024213-tt0023563--2026-1-11-14-0
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
- osis to rule the rackets after death.\n\nhttps://www.imdb.com/title/tt0023
- 563/\n\nEstimated start: 14:25\n\nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WR: Mysteries of the Organism (1971)
-DTSTART;TZID=America/Los_Angeles:20260111T170000
-DTEND;TZID=America/Los_Angeles:20260111T185000
-DTSTAMP:20260112T005300Z
-UID:ci1024213-tt0067958--2026-1-11-17-0
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn homage to the work of psychol
- ogist Wilhelm Reich\, matched with a story about a Yugoslavian girl's affa
- ir with a Russian skater.\n\nhttps://www.imdb.com/title/tt0067958/\n\nEsti
- mated start: 17:25\n\nIMDb rating: 6.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260112T165032Z
 BEGIN:VEVENT
 SUMMARY:Carlito's Way (1993)
 DTSTART;TZID=America/Los_Angeles:20260112T193000
@@ -100,6 +53,18 @@ DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WR: Mysteries of the Organism (1971)
+DTSTART;TZID=America/Los_Angeles:20260114T163000
+DTEND;TZID=America/Los_Angeles:20260114T182000
+DTSTAMP:20260115T002300Z
+UID:ci1024213-tt0067958--2026-1-14-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn homage to the work of psychol
+ ogist Wilhelm Reich\, matched with a story about a Yugoslavian girl's affa
+ ir with a Russian skater.\n\nhttps://www.imdb.com/title/tt0067958/\n\nEsti
+ mated start: 16:55\n\nIMDb rating: 6.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lust of the Vampire (1957)
 DTSTART;TZID=America/Los_Angeles:20260114T193000
 DTEND;TZID=America/Los_Angeles:20260114T212000
@@ -110,18 +75,6 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nParis. Young girls are found dea
  the beautiful Gisele\, from a noble family\, tries to seduce him.\n\nhttps
  ://www.imdb.com/title/tt0049429/\n\nEstimated start: 19:55\n\nIMDb rating:
   6.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WR: Mysteries of the Organism (1971)
-DTSTART;TZID=America/Los_Angeles:20260114T163000
-DTEND;TZID=America/Los_Angeles:20260114T182000
-DTSTAMP:20260115T002300Z
-UID:ci1024213-tt0067958--2026-1-14-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn homage to the work of psychol
- ogist Wilhelm Reich\, matched with a story about a Yugoslavian girl's affa
- ir with a Russian skater.\n\nhttps://www.imdb.com/title/tt0067958/\n\nEsti
- mated start: 16:55\n\nIMDb rating: 6.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -280,6 +233,18 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Danger: Diabolik (1968)
+DTSTART;TZID=America/Los_Angeles:20260121T163000
+DTEND;TZID=America/Los_Angeles:20260121T184000
+DTSTAMP:20260122T002300Z
+UID:ci1024213-tt0062861--2026-1-21-16-30
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA master thief and his sensual 
+ lover pull off heist after heist\, all while an envious coalition of cops 
+ and gangsters is gunning for them.\n\nhttps://www.imdb.com/title/tt0062861
+ /\n\nEstimated start: 16:55\n\nIMDb rating: 6.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lust of the Vampire (1957)
 DTSTART;TZID=America/Los_Angeles:20260121T193000
 DTEND;TZID=America/Los_Angeles:20260121T212000
@@ -290,18 +255,6 @@ DESCRIPTION:Duration: 1h 22m (82 mins)\n\nParis. Young girls are found dea
  the beautiful Gisele\, from a noble family\, tries to seduce him.\n\nhttps
  ://www.imdb.com/title/tt0049429/\n\nEstimated start: 19:55\n\nIMDb rating:
   6.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danger: Diabolik (1968)
-DTSTART;TZID=America/Los_Angeles:20260121T163000
-DTEND;TZID=America/Los_Angeles:20260121T184000
-DTSTAMP:20260122T002300Z
-UID:ci1024213-tt0062861--2026-1-21-16-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA master thief and his sensual 
- lover pull off heist after heist\, all while an envious coalition of cops 
- and gangsters is gunning for them.\n\nhttps://www.imdb.com/title/tt0062861
- /\n\nEstimated start: 16:55\n\nIMDb rating: 6.5
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -350,6 +303,43 @@ UID:ci1024213-tt0020668--2026-1-25-14-0
 DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA master criminal terrorizes the
   occupants of an isolated country mansion.\n\nhttps://www.imdb.com/title/t
  t0020668/\n\nEstimated start: 14:25\n\nIMDb rating: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 1\,000 Eyes of Dr. Mabuse (1960)
+DTSTART;TZID=America/Los_Angeles:20260126T193000
+DTEND;TZID=America/Los_Angeles:20260126T214000
+DTSTAMP:20260127T032300Z
+UID:ci1024213-tt0054371--2026-1-26-19-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAn American millionaire industr
+ ialist staying at the Luxor hotel in Berlin saves a woman from committing 
+ suicide. Unbeknownst to him\, what follows is an intricate scheme being wo
+ ven around him.\n\nhttps://www.imdb.com/title/tt0054371/\n\nEstimated star
+ t: 19:55\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bat Whispers (1930)
+DTSTART;TZID=America/Los_Angeles:20260126T163000
+DTEND;TZID=America/Los_Angeles:20260126T182000
+DTSTAMP:20260127T002300Z
+UID:ci1024213-tt0020668--2026-1-26-16-30
+DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA master criminal terrorizes the
+  occupants of an isolated country mansion.\n\nhttps://www.imdb.com/title/t
+ t0020668/\n\nEstimated start: 16:55\n\nIMDb rating: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Long Live Death (1971)
+DTSTART;TZID=America/Los_Angeles:20260127T193000
+DTEND;TZID=America/Los_Angeles:20260127T212500
+DTSTAMP:20260128T032300Z
+UID:ci1024213-tt0066530--2026-1-27-19-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nDuring Spanish Civil War\, young
+  Fando navigates parents' clashing ideologies after father's arrest. Explo
+ res his imagination\, friendships\, views on sex and death amid family uph
+ eaval. Questions mother\, seeks father's fate.\n\nhttps://www.imdb.com/tit
+ le/tt0066530/\n\nEstimated start: 19:55\n\nIMDb rating: 6.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
