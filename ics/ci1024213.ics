@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260112T165032Z
-BEGIN:VEVENT
-SUMMARY:Carlito's Way (1993)
-DTSTART;TZID=America/Los_Angeles:20260112T193000
-DTEND;TZID=America/Los_Angeles:20260112T222000
-DTSTAMP:20260113T032300Z
-UID:ci1024213-tt0106519--2026-1-12-19-30
-DESCRIPTION:Duration: 2h 24m (144 mins)\n\nA Puerto Rican former convict\,
-  just released from prison\, pledges to stay away from drugs and violence 
- despite the pressure around him and lead on to a better life outside of N.
- Y.C.\n\nhttps://www.imdb.com/title/tt0106519/\n\nEstimated start: 19:55\n\
- nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Testament of Dr. Mabuse (1933)
-DTSTART;TZID=America/Los_Angeles:20260112T163000
-DTEND;TZID=America/Los_Angeles:20260112T190000
-DTSTAMP:20260113T002300Z
-UID:ci1024213-tt0023563--2026-1-12-16-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
- osis to rule the rackets after death.\n\nhttps://www.imdb.com/title/tt0023
- 563/\n\nEstimated start: 16:55\n\nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260113T153151Z
 BEGIN:VEVENT
 SUMMARY:Carlito's Way (1993)
 DTSTART;TZID=America/Los_Angeles:20260113T193000
@@ -100,7 +76,7 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 19:25\n\nIMDb
-  rating: 8
+  rating: 8.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -127,7 +103,7 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 19:25\n\nIMDb
-  rating: 8
+  rating: 8.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +128,7 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 17:25\n\nIMDb
-  rating: 8
+  rating: 8.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -177,7 +153,7 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 16:55\n\nIMDb
-  rating: 8
+  rating: 8.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -202,7 +178,7 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 19:55\n\nIMDb
-  rating: 8
+  rating: 8.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -229,7 +205,7 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 13:55\n\nIMDb
-  rating: 8
+  rating: 8.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -267,7 +243,7 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 16:55\n\nIMDb
-  rating: 8
+  rating: 8.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -340,6 +316,31 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\n\nDuring Spanish Civil War\, young
  res his imagination\, friendships\, views on sex and death amid family uph
  eaval. Questions mother\, seeks father's fate.\n\nhttps://www.imdb.com/tit
  le/tt0066530/\n\nEstimated start: 19:55\n\nIMDb rating: 6.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Vampires (1915)
+DTSTART;TZID=America/Los_Angeles:20260128T193000
+DTEND;TZID=America/Los_Angeles:20260129T030000
+DTSTAMP:20260129T032300Z
+UID:ci1024213-tt0006206--2026-1-28-19-30
+DESCRIPTION:Duration: 7h 01m (421 mins)\n\nAn intrepid reporter and his lo
+ yal friend battle a bizarre secret society of criminals known as The Vampi
+ res.\n\nhttps://www.imdb.com/title/tt0006206/\n\nEstimated start: 19:55\n\
+ nIMDb rating: 7.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 1\,000 Eyes of Dr. Mabuse (1960)
+DTSTART;TZID=America/Los_Angeles:20260128T163000
+DTEND;TZID=America/Los_Angeles:20260128T184000
+DTSTAMP:20260129T002300Z
+UID:ci1024213-tt0054371--2026-1-28-16-30
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAn American millionaire industr
+ ialist staying at the Luxor hotel in Berlin saves a woman from committing 
+ suicide. Unbeknownst to him\, what follows is an intricate scheme being wo
+ ven around him.\n\nhttps://www.imdb.com/title/tt0054371/\n\nEstimated star
+ t: 16:55\n\nIMDb rating: 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR

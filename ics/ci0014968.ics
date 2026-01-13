@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 iPic Theaters at Redmond Town Center
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-LAST-MODIFIED:20260112T165015Z
+LAST-MODIFIED:20260113T153134Z
 BEGIN:VEVENT
 SUMMARY:The Housemaid
 DTSTART;TZID=America/Los_Angeles:20260113T143000
@@ -136,7 +136,7 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nThe surviving Garrity family mus
  t leave the safety of the Greenland bunker and embark on a perilous journe
  y across the decimated frozen wasteland of Europe to find a new home.\n\nh
  ttps://www.imdb.com/title/tt14850054/\n\nEstimated start: 16:40\n\nIMDb ra
- ting: 6
+ ting: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -150,7 +150,7 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nThe surviving Garrity family mus
  t leave the safety of the Greenland bunker and embark on a perilous journe
  y across the decimated frozen wasteland of Europe to find a new home.\n\nh
  ttps://www.imdb.com/title/tt14850054/\n\nEstimated start: 19:40\n\nIMDb ra
- ting: 6
+ ting: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -163,7 +163,7 @@ UID:ci0014968-tt26443597--2026-1-13-15-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
   her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
   most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
- le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -176,7 +176,7 @@ UID:ci0014968-tt26443597--2026-1-13-18-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
   her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
   most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
- le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -312,7 +312,7 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nThe surviving Garrity family mus
  t leave the safety of the Greenland bunker and embark on a perilous journe
  y across the decimated frozen wasteland of Europe to find a new home.\n\nh
  ttps://www.imdb.com/title/tt14850054/\n\nEstimated start: 16:40\n\nIMDb ra
- ting: 6
+ ting: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -326,7 +326,7 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\n\nThe surviving Garrity family mus
  t leave the safety of the Greenland bunker and embark on a perilous journe
  y across the decimated frozen wasteland of Europe to find a new home.\n\nh
  ttps://www.imdb.com/title/tt14850054/\n\nEstimated start: 19:40\n\nIMDb ra
- ting: 6
+ ting: 5.9
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -339,7 +339,7 @@ UID:ci0014968-tt26443597--2026-1-14-15-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
   her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
   most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
- le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.6
+ le/tt26443597/\n\nEstimated start: 15:55\n\nIMDb rating: 7.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -352,7 +352,7 @@ UID:ci0014968-tt26443597--2026-1-14-18-30
 DESCRIPTION:Duration: 1h 48m (108 mins)\n\nBrave rabbit cop Judy Hopps and
   her friend\, the fox Nick Wilde\, team up again to crack a new case\, the
   most perilous and intricate of their careers.\n\nhttps://www.imdb.com/tit
- le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.6
+ le/tt26443597/\n\nEstimated start: 18:55\n\nIMDb rating: 7.5
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -790,6 +790,34 @@ DTSTART;TZID=America/Los_Angeles:20260127T190000
 DTEND;TZID=America/Los_Angeles:20260127T210500
 DTSTAMP:20260128T025300Z
 UID:ci0014968-tt31050594--2026-1-27-19-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn the near future\, a detectiv
+ e stands on trial accused of murdering his wife. He has 90 minutes to prov
+ e his innocence to the advanced A.I. Judge he once championed\, before it 
+ determines his fate.\n\nhttps://www.imdb.com/title/tt31050594/\n\nEstimate
+ d start: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercy
+DTSTART;TZID=America/Los_Angeles:20260128T160000
+DTEND;TZID=America/Los_Angeles:20260128T180500
+DTSTAMP:20260128T235300Z
+UID:ci0014968-tt31050594--2026-1-28-16-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn the near future\, a detectiv
+ e stands on trial accused of murdering his wife. He has 90 minutes to prov
+ e his innocence to the advanced A.I. Judge he once championed\, before it 
+ determines his fate.\n\nhttps://www.imdb.com/title/tt31050594/\n\nEstimate
+ d start: 16:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercy
+DTSTART;TZID=America/Los_Angeles:20260128T190000
+DTEND;TZID=America/Los_Angeles:20260128T210500
+DTSTAMP:20260129T025300Z
+UID:ci0014968-tt31050594--2026-1-28-19-0
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nIn the near future\, a detectiv
  e stands on trial accused of murdering his wife. He has 90 minutes to prov
  e his innocence to the advanced A.I. Judge he once championed\, before it 
