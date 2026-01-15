@@ -3,56 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260113T153151Z
-BEGIN:VEVENT
-SUMMARY:Carlito's Way (1993)
-DTSTART;TZID=America/Los_Angeles:20260113T193000
-DTEND;TZID=America/Los_Angeles:20260113T222000
-DTSTAMP:20260114T032300Z
-UID:ci1024213-tt0106519--2026-1-13-19-30
-DESCRIPTION:Duration: 2h 24m (144 mins)\n\nA Puerto Rican former convict\,
-  just released from prison\, pledges to stay away from drugs and violence 
- despite the pressure around him and lead on to a better life outside of N.
- Y.C.\n\nhttps://www.imdb.com/title/tt0106519/\n\nEstimated start: 19:55\n\
- nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Testament of Dr. Mabuse (1933)
-DTSTART;TZID=America/Los_Angeles:20260113T163000
-DTEND;TZID=America/Los_Angeles:20260113T190000
-DTSTAMP:20260114T002300Z
-UID:ci1024213-tt0023563--2026-1-13-16-30
-DESCRIPTION:Duration: 2h 02m (122 mins)\n\nA criminal mastermind uses hypn
- osis to rule the rackets after death.\n\nhttps://www.imdb.com/title/tt0023
- 563/\n\nEstimated start: 16:55\n\nIMDb rating: 7.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WR: Mysteries of the Organism (1971)
-DTSTART;TZID=America/Los_Angeles:20260114T163000
-DTEND;TZID=America/Los_Angeles:20260114T182000
-DTSTAMP:20260115T002300Z
-UID:ci1024213-tt0067958--2026-1-14-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nAn homage to the work of psychol
- ogist Wilhelm Reich\, matched with a story about a Yugoslavian girl's affa
- ir with a Russian skater.\n\nhttps://www.imdb.com/title/tt0067958/\n\nEsti
- mated start: 16:55\n\nIMDb rating: 6.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lust of the Vampire (1957)
-DTSTART;TZID=America/Los_Angeles:20260114T193000
-DTEND;TZID=America/Los_Angeles:20260114T212000
-DTSTAMP:20260115T032300Z
-UID:ci1024213-tt0049429--2026-1-14-19-30
-DESCRIPTION:Duration: 1h 22m (82 mins)\n\nParis. Young girls are found dea
- d\, drained of their blood. A journalist investigates these murders while 
- the beautiful Gisele\, from a noble family\, tries to seduce him.\n\nhttps
- ://www.imdb.com/title/tt0049429/\n\nEstimated start: 19:55\n\nIMDb rating:
-  6.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260115T162242Z
 BEGIN:VEVENT
 SUMMARY:Carlito's Way (1993)
 DTSTART;TZID=America/Los_Angeles:20260115T150000
@@ -341,6 +292,31 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAn American millionaire industr
  suicide. Unbeknownst to him\, what follows is an intricate scheme being wo
  ven around him.\n\nhttps://www.imdb.com/title/tt0054371/\n\nEstimated star
  t: 16:55\n\nIMDb rating: 6.9
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Long Live Death (1971)
+DTSTART;TZID=America/Los_Angeles:20260129T163000
+DTEND;TZID=America/Los_Angeles:20260129T182500
+DTSTAMP:20260130T002300Z
+UID:ci1024213-tt0066530--2026-1-29-16-30
+DESCRIPTION:Duration: 1h 30m (90 mins)\n\nDuring Spanish Civil War\, young
+  Fando navigates parents' clashing ideologies after father's arrest. Explo
+ res his imagination\, friendships\, views on sex and death amid family uph
+ eaval. Questions mother\, seeks father's fate.\n\nhttps://www.imdb.com/tit
+ le/tt0066530/\n\nEstimated start: 16:55\n\nIMDb rating: 6.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady Terminator (1989)
+DTSTART;TZID=America/Los_Angeles:20260130T220000
+DTEND;TZID=America/Los_Angeles:20260130T235000
+DTSTAMP:20260131T055300Z
+UID:ci1024213-tt0095483--2026-1-30-22-0
+DESCRIPTION:Duration: 1h 22m (82 mins)\n\nThe spirit of an ancient evil qu
+ een possesses the body of a young anthropological student\, who then goes 
+ on a murderous rampage.\n\nhttps://www.imdb.com/title/tt0095483/\n\nEstima
+ ted start: 22:25\n\nIMDb rating: 5.5
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
