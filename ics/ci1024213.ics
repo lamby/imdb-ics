@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260126T160954Z
-BEGIN:VEVENT
-SUMMARY:The 1\,000 Eyes of Dr. Mabuse (1960)
-DTSTART;TZID=America/Los_Angeles:20260126T193000
-DTEND;TZID=America/Los_Angeles:20260126T214000
-DTSTAMP:20260127T032300Z
-UID:ci1024213-tt0054371--2026-1-26-19-30
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAn American millionaire industr
- ialist staying at the Luxor hotel in Berlin saves a woman from committing 
- suicide. Unbeknownst to him\, what follows is an intricate scheme being wo
- ven around him.\n\nhttps://www.imdb.com/title/tt0054371/\n\nEstimated star
- t: 19:55\n\nIMDb rating: 6.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bat Whispers (1930)
-DTSTART;TZID=America/Los_Angeles:20260126T163000
-DTEND;TZID=America/Los_Angeles:20260126T182000
-DTSTAMP:20260127T002300Z
-UID:ci1024213-tt0020668--2026-1-26-16-30
-DESCRIPTION:Duration: 1h 24m (84 mins)\n\nA master criminal terrorizes the
-  occupants of an isolated country mansion.\n\nhttps://www.imdb.com/title/t
- t0020668/\n\nEstimated start: 16:55\n\nIMDb rating: 6.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260127T161202Z
 BEGIN:VEVENT
 SUMMARY:Long Live Death (1971)
 DTSTART;TZID=America/Los_Angeles:20260127T193000
@@ -246,6 +222,18 @@ DTSTART;TZID=America/Los_Angeles:20260210T163000
 DTEND;TZID=America/Los_Angeles:20260210T185500
 DTSTAMP:20260211T002300Z
 UID:ci1024213-tt0054599--2026-2-10-16-30
+DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA pimp with no other means to p
+ rovide for himself finds his life spiraling out of control when his prosti
+ tute is sent to prison.\n\nhttps://www.imdb.com/title/tt0054599/\n\nEstima
+ ted start: 16:55\n\nIMDb rating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accattone (1961)
+DTSTART;TZID=America/Los_Angeles:20260211T163000
+DTEND;TZID=America/Los_Angeles:20260211T185500
+DTSTAMP:20260212T002300Z
+UID:ci1024213-tt0054599--2026-2-11-16-30
 DESCRIPTION:Duration: 1h 57m (117 mins)\n\nA pimp with no other means to p
  rovide for himself finds his life spiraling out of control when his prosti
  tute is sent to prison.\n\nhttps://www.imdb.com/title/tt0054599/\n\nEstima
