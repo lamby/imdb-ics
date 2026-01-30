@@ -3,45 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260128T155352Z
-BEGIN:VEVENT
-SUMMARY:The 1\,000 Eyes of Dr. Mabuse (1960)
-DTSTART;TZID=America/Los_Angeles:20260128T163000
-DTEND;TZID=America/Los_Angeles:20260128T184000
-DTSTAMP:20260129T002300Z
-UID:ci1024213-tt0054371--2026-1-28-16-30
-DESCRIPTION:Duration: 1h 43m (103 mins)\n\nAn American millionaire industr
- ialist staying at the Luxor hotel in Berlin saves a woman from committing 
- suicide. Unbeknownst to him\, what follows is an intricate scheme being wo
- ven around him.\n\nhttps://www.imdb.com/title/tt0054371/\n\nEstimated star
- t: 16:55\n\nIMDb rating: 6.9
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les Vampires (1915)
-DTSTART;TZID=America/Los_Angeles:20260128T193000
-DTEND;TZID=America/Los_Angeles:20260129T030000
-DTSTAMP:20260129T032300Z
-UID:ci1024213-tt0006206--2026-1-28-19-30
-DESCRIPTION:Duration: 7h 01m (421 mins)\n\nAn intrepid reporter and his lo
- yal friend battle a bizarre secret society of criminals known as The Vampi
- res.\n\nhttps://www.imdb.com/title/tt0006206/\n\nEstimated start: 19:55\n\
- nIMDb rating: 7.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Long Live Death (1971)
-DTSTART;TZID=America/Los_Angeles:20260129T163000
-DTEND;TZID=America/Los_Angeles:20260129T182500
-DTSTAMP:20260130T002300Z
-UID:ci1024213-tt0066530--2026-1-29-16-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nDuring Spanish Civil War\, young
-  Fando navigates parents' clashing ideologies after father's arrest. Explo
- res his imagination\, friendships\, views on sex and death amid family uph
- eaval. Questions mother\, seeks father's fate.\n\nhttps://www.imdb.com/tit
- le/tt0066530/\n\nEstimated start: 16:55\n\nIMDb rating: 6.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260130T152340Z
 BEGIN:VEVENT
 SUMMARY:Lady Terminator (1989)
 DTSTART;TZID=America/Los_Angeles:20260130T220000
@@ -238,6 +200,55 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 16:25\n\nIMDb
   rating: 8.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday the 13th (1980)
+DTSTART;TZID=America/Los_Angeles:20260213T220000
+DTEND;TZID=America/Los_Angeles:20260214T000000
+DTSTAMP:20260214T055300Z
+UID:ci1024213-tt0080761--2026-2-13-22-0
+DESCRIPTION:Duration: 1h 35m (95 mins)\n\nA group of teenage camp counselo
+ rs attempt to re-open an abandoned summer camp with a tragic past\, but th
+ ey are stalked by a mysterious\, relentless killer.\n\nhttps://www.imdb.co
+ m/title/tt0080761/\n\nEstimated start: 22:25\n\nIMDb rating: 6.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nadja (1994)
+DTSTART;TZID=America/Los_Angeles:20260213T190000
+DTEND;TZID=America/Los_Angeles:20260213T210000
+DTSTAMP:20260214T025300Z
+UID:ci1024213-tt0110620--2026-2-13-19-0
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA vampire family deals with thei
+ r father's death in NYC while being pursued by Van Helsing and his nephew.
+  Love and destruction clash in this modern vampire story.\n\nhttps://www.i
+ mdb.com/title/tt0110620/\n\nEstimated start: 19:25\n\nIMDb rating: 6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love (2000)
+DTSTART;TZID=America/Los_Angeles:20260214T220000
+DTEND;TZID=America/Los_Angeles:20260215T000500
+DTSTAMP:20260215T055300Z
+UID:ci1024213-tt0118694--2026-2-14-22-0
+DESCRIPTION:Duration: 1h 38m (98 mins)\n\nTwo neighbors form a strong bond
+  after both suspect extramarital activities of their spouses. However\, th
+ ey agree to keep their bond platonic so as not to commit similar wrongs.\n
+ \nhttps://www.imdb.com/title/tt0118694/\n\nEstimated start: 22:25\n\nIMDb 
+ rating: 8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridges of Madison County (1995)
+DTSTART;TZID=America/Los_Angeles:20260214T190000
+DTEND;TZID=America/Los_Angeles:20260214T214000
+DTSTAMP:20260215T025300Z
+UID:ci1024213-tt0112579--2026-2-14-19-0
+DESCRIPTION:Duration: 2h 15m (135 mins)\n\nPhotographer Robert Kincaid wan
+ ders into the life of housewife Francesca Johnson for four days in the 196
+ 0s.\n\nhttps://www.imdb.com/title/tt0112579/\n\nEstimated start: 19:25\n\n
+ IMDb rating: 7.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
