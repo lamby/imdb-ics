@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260131T163517Z
-BEGIN:VEVENT
-SUMMARY:Belphegor: Phantom of the Louvre (2001)
-DTSTART;TZID=America/Los_Angeles:20260131T190000
-DTEND;TZID=America/Los_Angeles:20260131T210500
-DTSTAMP:20260201T025300Z
-UID:ci1024213-tt0214529--2026-1-31-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nAt the Louvre museum in Paris\, 
- the phantom Belphegor awakens and causes electrical havoc. Night guards at
-  the museum start dying\, Lisa gets possessed\, and Martin tries to help h
- er.\n\nhttps://www.imdb.com/title/tt0214529/\n\nEstimated start: 19:25\n\n
- IMDb rating: 4.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260201T172618Z
 BEGIN:VEVENT
 SUMMARY:An American in Paris (1951)
 DTSTART;TZID=America/Los_Angeles:20260201T140000
@@ -262,6 +249,31 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA vampire family deals with thei
  r father's death in NYC while being pursued by Van Helsing and his nephew.
   Love and destruction clash in this modern vampire story.\n\nhttps://www.i
  mdb.com/title/tt0110620/\n\nEstimated start: 17:25\n\nIMDb rating: 6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Band Wagon (1953)
+DTSTART;TZID=America/Los_Angeles:20260216T163000
+DTEND;TZID=America/Los_Angeles:20260216T185000
+DTSTAMP:20260217T002300Z
+UID:ci1024213-tt0045537--2026-2-16-16-30
+DESCRIPTION:Duration: 1h 52m (112 mins)\n\nAn aging movie star uncertain o
+ f his future teams up with a top ballerina to headline a new Broadway musi
+ cal\, but the pretentiously artistic goals of its director threaten to cha
+ nge it beyond recognition.\n\nhttps://www.imdb.com/title/tt0045537/\n\nEst
+ imated start: 16:55\n\nIMDb rating: 7.4
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nadja (1994)
+DTSTART;TZID=America/Los_Angeles:20260216T193000
+DTEND;TZID=America/Los_Angeles:20260216T213000
+DTSTAMP:20260217T032300Z
+UID:ci1024213-tt0110620--2026-2-16-19-30
+DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA vampire family deals with thei
+ r father's death in NYC while being pursued by Van Helsing and his nephew.
+  Love and destruction clash in this modern vampire story.\n\nhttps://www.i
+ mdb.com/title/tt0110620/\n\nEstimated start: 19:55\n\nIMDb rating: 6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
