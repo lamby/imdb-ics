@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 iPic Theaters at Redmond Town Center
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-LAST-MODIFIED:20260202T154206Z
+LAST-MODIFIED:20260203T162956Z
 BEGIN:VEVENT
 SUMMARY:Iron Lung
 DTSTART;TZID=America/Los_Angeles:20260203T190000
@@ -14,7 +14,7 @@ DESCRIPTION:Duration: 2h 07m (127 mins)\n\nIn a post-apocalyptic future af
  ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
  an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
   to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 19:25\n\nIMDb rating: 6.7
+ 4844/\n\nEstimated start: 19:25\n\nIMDb rating: 6.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -26,9 +26,9 @@ DTSTAMP:20260203T230800Z
 UID:ci0014968-tt8036976--2026-2-3-15-15
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
  e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to su
- rvive\, will they make it out alive?\n\nhttps://www.imdb.com/title/tt80369
- 76/\n\nEstimated start: 15:40\n\nIMDb rating: 7.3
+ e crash. Here\, they must overcome past grievances and work together to ma
+ ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
+ rt: 15:40\n\nIMDb rating: 7.3
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -40,9 +40,9 @@ DTSTAMP:20260204T022300Z
 UID:ci0014968-tt8036976--2026-2-3-18-30
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
  e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to su
- rvive\, will they make it out alive?\n\nhttps://www.imdb.com/title/tt80369
- 76/\n\nEstimated start: 18:55\n\nIMDb rating: 7.3
+ e crash. Here\, they must overcome past grievances and work together to ma
+ ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
+ rt: 18:55\n\nIMDb rating: 7.3
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -204,7 +204,7 @@ DESCRIPTION:Duration: 2h 07m (127 mins)\n\nIn a post-apocalyptic future af
  ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
  an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
   to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 19:25\n\nIMDb rating: 6.7
+ 4844/\n\nEstimated start: 19:25\n\nIMDb rating: 6.8
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -216,9 +216,9 @@ DTSTAMP:20260204T230800Z
 UID:ci0014968-tt8036976--2026-2-4-15-15
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
  e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to su
- rvive\, will they make it out alive?\n\nhttps://www.imdb.com/title/tt80369
- 76/\n\nEstimated start: 15:40\n\nIMDb rating: 7.3
+ e crash. Here\, they must overcome past grievances and work together to ma
+ ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
+ rt: 15:40\n\nIMDb rating: 7.3
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -230,9 +230,9 @@ DTSTAMP:20260205T022300Z
 UID:ci0014968-tt8036976--2026-2-4-18-30
 DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
  e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to su
- rvive\, will they make it out alive?\n\nhttps://www.imdb.com/title/tt80369
- 76/\n\nEstimated start: 18:55\n\nIMDb rating: 7.3
+ e crash. Here\, they must overcome past grievances and work together to ma
+ ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
+ rt: 18:55\n\nIMDb rating: 7.3
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -1227,6 +1227,88 @@ DTSTART;TZID=America/Los_Angeles:20260216T181500
 DTEND;TZID=America/Los_Angeles:20260216T202000
 DTSTAMP:20260217T020800Z
 UID:ci0014968-tt27613895--2026-2-16-18-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
+ ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
+ ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
+ animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
+ ed start: 18:40
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260218T143000
+DTEND;TZID=America/Los_Angeles:20260218T171500
+DTSTAMP:20260218T222300Z
+UID:ci0014968-tt32897959--2026-2-18-14-30
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 14:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260218T180000
+DTEND;TZID=America/Los_Angeles:20260218T204500
+DTSTAMP:20260219T015300Z
+UID:ci0014968-tt32897959--2026-2-18-18-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 18:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260218T153000
+DTEND;TZID=America/Los_Angeles:20260218T181500
+DTSTAMP:20260218T232300Z
+UID:ci0014968-tt32430579--2026-2-18-15-30
+DESCRIPTION:Duration: 2h 20m (140 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 15:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260218T190000
+DTEND;TZID=America/Los_Angeles:20260218T214500
+DTSTAMP:20260219T025300Z
+UID:ci0014968-tt32430579--2026-2-18-19-0
+DESCRIPTION:Duration: 2h 20m (140 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOAT
+DTSTART;TZID=America/Los_Angeles:20260218T151500
+DTEND;TZID=America/Los_Angeles:20260218T172000
+DTSTAMP:20260218T230800Z
+UID:ci0014968-tt27613895--2026-2-18-15-15
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
+ ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
+ ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
+ animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
+ ed start: 15:40
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOAT
+DTSTART;TZID=America/Los_Angeles:20260218T181500
+DTEND;TZID=America/Los_Angeles:20260218T202000
+DTSTAMP:20260219T020800Z
+UID:ci0014968-tt27613895--2026-2-18-18-15
 DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
