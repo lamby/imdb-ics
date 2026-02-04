@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260203T163012Z
-BEGIN:VEVENT
-SUMMARY:Dead Eyes of London (1961)
-DTSTART;TZID=America/Los_Angeles:20260203T163000
-DTEND;TZID=America/Los_Angeles:20260203T184000
-DTSTAMP:20260204T002300Z
-UID:ci1024213-tt0054395--2026-2-3-16-30
-DESCRIPTION:Duration: 1h 44m (104 mins)\n\nWealthy\, heavily-insured men a
- re being murdered at an alarming rate. Scotland Yard investigates and find
- s clues that lead to a ring of blind men\, led by a mysterious &quot\;reve
- rend.&quot\;\n\nhttps://www.imdb.com/title/tt0054395/\n\nEstimated start: 
- 16:55\n\nIMDb rating: 6.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shadowman (1974)
-DTSTART;TZID=America/Los_Angeles:20260203T193000
-DTEND;TZID=America/Los_Angeles:20260203T214000
-DTSTAMP:20260204T032300Z
-UID:ci1024213-tt0069593--2026-2-3-19-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA criminal organization led by 
- &quot\;The Man Without a Face&quot\; scours Paris for a treasure hidden by
-  the Knights Templar.\n\nhttps://www.imdb.com/title/tt0069593/\n\nEstimate
- d start: 19:55\n\nIMDb rating: 6.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260204T144735Z
 BEGIN:VEVENT
 SUMMARY:An American in Paris (1951)
 DTSTART;TZID=America/Los_Angeles:20260204T163000
@@ -56,10 +31,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All That's Left of You
 DTSTART;TZID=America/Los_Angeles:20260206T143000
-DTEND;TZID=America/Los_Angeles:20260206T172000
+DTEND;TZID=America/Los_Angeles:20260206T172500
 DTSTAMP:20260206T222300Z
 UID:ci1024213-tt29344894--2026-2-6-14-30
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 14:55\n\nIMDb
@@ -81,10 +56,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All That's Left of You
 DTSTART;TZID=America/Los_Angeles:20260209T160000
-DTEND;TZID=America/Los_Angeles:20260209T185000
+DTEND;TZID=America/Los_Angeles:20260209T185500
 DTSTAMP:20260209T235300Z
 UID:ci1024213-tt29344894--2026-2-9-16-0
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 16:25\n\nIMDb
@@ -130,10 +105,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All That's Left of You
 DTSTART;TZID=America/Los_Angeles:20260212T160000
-DTEND;TZID=America/Los_Angeles:20260212T185000
+DTEND;TZID=America/Los_Angeles:20260212T185500
 DTSTAMP:20260212T235300Z
 UID:ci1024213-tt29344894--2026-2-12-16-0
-DESCRIPTION:Duration: 2h 25m (145 mins)\n\nAfter a Palestinian teen gets s
+DESCRIPTION:Duration: 2h 26m (146 mins)\n\nAfter a Palestinian teen gets s
  wept up into a West Bank protest\, his mother recounts the family story of
   hope\, courage and relentless struggle that led to this fateful moment.\n
  \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 16:25\n\nIMDb
@@ -286,6 +261,30 @@ DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAn ex-prostitute reunites with
  her son\, but an extortion scheme threatens her aspirations for a decent l
  ife.\n\nhttps://www.imdb.com/title/tt0056215/\n\nEstimated start: 19:55\n\
  nIMDb rating: 7.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Roma (1962)
+DTSTART;TZID=America/Los_Angeles:20260219T163000
+DTEND;TZID=America/Los_Angeles:20260219T184500
+DTSTAMP:20260220T002300Z
+UID:ci1024213-tt0056215--2026-2-19-16-30
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAn ex-prostitute reunites with 
+ her son\, but an extortion scheme threatens her aspirations for a decent l
+ ife.\n\nhttps://www.imdb.com/title/tt0056215/\n\nEstimated start: 16:55\n\
+ nIMDb rating: 7.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Meetings (1964)
+DTSTART;TZID=America/Los_Angeles:20260219T193000
+DTEND;TZID=America/Los_Angeles:20260219T213000
+DTSTAMP:20260220T032300Z
+UID:ci1024213-tt0057960--2026-2-19-19-30
+DESCRIPTION:Duration: 1h 32m (92 mins)\n\nDirector Pasolini traverses Ital
+ y in 1963 with camera and microphone interviewing people in public places 
+ about sex\, marriage and gender roles.\n\nhttps://www.imdb.com/title/tt005
+ 7960/\n\nEstimated start: 19:55\n\nIMDb rating: 7.5
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
