@@ -3,44 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260205T163334Z
-BEGIN:VEVENT
-SUMMARY:Shadowman (1974)
-DTSTART;TZID=America/Los_Angeles:20260205T163000
-DTEND;TZID=America/Los_Angeles:20260205T184000
-DTSTAMP:20260206T002300Z
-UID:ci1024213-tt0069593--2026-2-5-16-30
-DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA criminal organization led by 
- &quot\;The Man Without a Face&quot\; scours Paris for a treasure hidden by
-  the Knights Templar.\n\nhttps://www.imdb.com/title/tt0069593/\n\nEstimate
- d start: 16:55\n\nIMDb rating: 6.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All That's Left of You
-DTSTART;TZID=America/Los_Angeles:20260206T143000
-DTEND;TZID=America/Los_Angeles:20260206T172500
-DTSTAMP:20260206T222300Z
-UID:ci1024213-tt29344894--2026-2-6-14-30
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nAfter a Palestinian teen gets s
- wept up into a West Bank protest\, his mother recounts the family story of
-  hope\, courage and relentless struggle that led to this fateful moment.\n
- \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 14:55\n\nIMDb
-  rating: 8.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lovers on the Bridge (1991)
-DTSTART;TZID=America/Los_Angeles:20260206T210000
-DTEND;TZID=America/Los_Angeles:20260206T233000
-DTSTAMP:20260207T045300Z
-UID:ci1024213-tt0101318--2026-2-6-21-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nAlex\, who's homeless and addic
- ted to alcohol\, and Michèle\, who's losing her sight\, form a relationsh
- ip while sleeping rough on Paris's Pont-Neuf bridge.\n\nhttps://www.imdb.c
- om/title/tt0101318/\n\nEstimated start: 21:25\n\nIMDb rating: 7.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260207T163913Z
 BEGIN:VEVENT
 SUMMARY:All That's Left of You
 DTSTART;TZID=America/Los_Angeles:20260209T160000
@@ -298,6 +261,55 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nMarried couple Jock and Nora vis
  mare of Jock's death\, Nora sets out to find him but encounters strange pe
  ople and dangerous events erupting all over town.\n\nhttps://www.imdb.com/
  title/tt0163716/\n\nEstimated start: 22:25\n\nIMDb rating: 6.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memories of Underdevelopment (1968)
+DTSTART;TZID=America/Los_Angeles:20260221T190000
+DTEND;TZID=America/Los_Angeles:20260221T210500
+DTSTAMP:20260222T025300Z
+UID:ci1024213-tt0063291--2026-2-21-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA Cuban man cycles through his o
+ pinions and memories as the threat of foreign invasion intensifies and the
+  rest of his family moves to Miami.\n\nhttps://www.imdb.com/title/tt006329
+ 1/\n\nEstimated start: 19:25\n\nIMDb rating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Litan (1982)
+DTSTART;TZID=America/Los_Angeles:20260221T220000
+DTEND;TZID=America/Los_Angeles:20260221T235500
+DTSTAMP:20260222T055300Z
+UID:ci1024213-tt0163716--2026-2-21-22-0
+DESCRIPTION:Duration: 1h 28m (88 mins)\n\nMarried couple Jock and Nora vis
+ it the town of Litan during its Carnival celebration. After having a night
+ mare of Jock's death\, Nora sets out to find him but encounters strange pe
+ ople and dangerous events erupting all over town.\n\nhttps://www.imdb.com/
+ title/tt0163716/\n\nEstimated start: 22:25\n\nIMDb rating: 6.1
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star 80 (1983)
+DTSTART;TZID=America/Los_Angeles:20260222T170000
+DTEND;TZID=America/Los_Angeles:20260222T191000
+DTSTAMP:20260223T005300Z
+UID:ci1024213-tt0086355--2026-2-22-17-0
+DESCRIPTION:Duration: 1h 43m (103 mins)\n\nA successful young model finds 
+ trouble when her obsessive manager-turned-husband becomes dangerously jeal
+ ous.\n\nhttps://www.imdb.com/title/tt0086355/\n\nEstimated start: 17:25\n\
+ nIMDb rating: 6.8
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bells Are Ringing (1960)
+DTSTART;TZID=America/Los_Angeles:20260222T140000
+DTEND;TZID=America/Los_Angeles:20260222T163500
+DTSTAMP:20260222T215300Z
+UID:ci1024213-tt0053645--2026-2-22-14-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nA Brooklyn answering service op
+ erator becomes involved in the lives of her clients\, including a struggli
+ ng playwright with whom she begins to fall in love.\n\nhttps://www.imdb.co
+ m/title/tt0053645/\n\nEstimated start: 14:25\n\nIMDb rating: 6.9
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
