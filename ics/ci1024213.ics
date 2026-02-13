@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260212T190624Z
-BEGIN:VEVENT
-SUMMARY:All That's Left of You
-DTSTART;TZID=America/Los_Angeles:20260212T160000
-DTEND;TZID=America/Los_Angeles:20260212T185500
-DTSTAMP:20260212T235300Z
-UID:ci1024213-tt29344894--2026-2-12-16-0
-DESCRIPTION:Duration: 2h 26m (146 mins)\n\nAfter a Palestinian teen gets s
- wept up into a West Bank protest\, his mother recounts the family story of
-  hope\, courage and relentless struggle that led to this fateful moment.\n
- \nhttps://www.imdb.com/title/tt29344894/\n\nEstimated start: 16:25\n\nIMDb
-  rating: 8.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260213T181128Z
 BEGIN:VEVENT
 SUMMARY:Friday the 13th (1980)
 DTSTART;TZID=America/Los_Angeles:20260213T220000
@@ -353,6 +340,19 @@ DTSTART;TZID=America/Los_Angeles:20260227T190000
 DTEND;TZID=America/Los_Angeles:20260227T213500
 DTSTAMP:20260228T025300Z
 UID:ci1024213-tt0082927--2026-2-27-19-0
+DESCRIPTION:Duration: 2h 09m (129 mins)\n\nYoung unhinged female ex-con wi
+ th a motorcycle helps a sickly young homeless woman in red discover what t
+ he map of Paris she took from her gangster boyfriend leads to.\n\nhttps://
+ www.imdb.com/title/tt0082927/\n\nEstimated start: 19:25\n\nIMDb rating: 6.
+ 7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Pont du Nord (1981)
+DTSTART;TZID=America/Los_Angeles:20260228T190000
+DTEND;TZID=America/Los_Angeles:20260228T213500
+DTSTAMP:20260301T025300Z
+UID:ci1024213-tt0082927--2026-2-28-19-0
 DESCRIPTION:Duration: 2h 09m (129 mins)\n\nYoung unhinged female ex-con wi
  th a motorcycle helps a sickly young homeless woman in red discover what t
  he map of Paris she took from her gangster boyfriend leads to.\n\nhttps://
