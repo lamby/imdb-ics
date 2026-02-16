@@ -3,57 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260214T193530Z
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love (2000)
-DTSTART;TZID=America/Los_Angeles:20260214T220000
-DTEND;TZID=America/Los_Angeles:20260215T000500
-DTSTAMP:20260215T055300Z
-UID:ci1024213-tt0118694--2026-2-14-22-0
-DESCRIPTION:Duration: 1h 38m (98 mins)\n\nTwo neighbors form a strong bond
-  after both suspect extramarital activities of their spouses. However\, th
- ey agree to keep their bond platonic so as not to commit similar wrongs.\n
- \nhttps://www.imdb.com/title/tt0118694/\n\nEstimated start: 22:25\n\nIMDb 
- rating: 8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bridges of Madison County (1995)
-DTSTART;TZID=America/Los_Angeles:20260214T190000
-DTEND;TZID=America/Los_Angeles:20260214T214000
-DTSTAMP:20260215T025300Z
-UID:ci1024213-tt0112579--2026-2-14-19-0
-DESCRIPTION:Duration: 2h 15m (135 mins)\n\nPhotographer Robert Kincaid wan
- ders into the life of housewife Francesca Johnson for four days in the 196
- 0s.\n\nhttps://www.imdb.com/title/tt0112579/\n\nEstimated start: 19:25\n\n
- IMDb rating: 7.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nadja (1994)
-DTSTART;TZID=America/Los_Angeles:20260215T170000
-DTEND;TZID=America/Los_Angeles:20260215T190000
-DTSTAMP:20260216T005300Z
-UID:ci1024213-tt0110620--2026-2-15-17-0
-DESCRIPTION:Duration: 1h 33m (93 mins)\n\nA vampire family deals with thei
- r father's death in NYC while being pursued by Van Helsing and his nephew.
-  Love and destruction clash in this modern vampire story.\n\nhttps://www.i
- mdb.com/title/tt0110620/\n\nEstimated start: 17:25\n\nIMDb rating: 6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Band Wagon (1953)
-DTSTART;TZID=America/Los_Angeles:20260215T140000
-DTEND;TZID=America/Los_Angeles:20260215T162000
-DTSTAMP:20260215T215300Z
-UID:ci1024213-tt0045537--2026-2-15-14-0
-DESCRIPTION:Duration: 1h 52m (112 mins)\n\nAn aging movie star uncertain o
- f his future teams up with a top ballerina to headline a new Broadway musi
- cal\, but the pretentiously artistic goals of its director threaten to cha
- nge it beyond recognition.\n\nhttps://www.imdb.com/title/tt0045537/\n\nEst
- imated start: 14:25\n\nIMDb rating: 7.4
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260216T165557Z
 BEGIN:VEVENT
 SUMMARY:Nadja (1994)
 DTSTART;TZID=America/Los_Angeles:20260216T193000
@@ -100,7 +50,7 @@ UID:ci1024213-tt0056215--2026-2-17-19-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAn ex-prostitute reunites with 
  her son\, but an extortion scheme threatens her aspirations for a decent l
  ife.\n\nhttps://www.imdb.com/title/tt0056215/\n\nEstimated start: 19:55\n\
- nIMDb rating: 7.7
+ nIMDb rating: 7.8
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +75,7 @@ UID:ci1024213-tt0056215--2026-2-18-19-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAn ex-prostitute reunites with 
  her son\, but an extortion scheme threatens her aspirations for a decent l
  ife.\n\nhttps://www.imdb.com/title/tt0056215/\n\nEstimated start: 19:55\n\
- nIMDb rating: 7.7
+ nIMDb rating: 7.8
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +87,7 @@ UID:ci1024213-tt0056215--2026-2-19-16-30
 DESCRIPTION:Duration: 1h 50m (110 mins)\n\nAn ex-prostitute reunites with 
  her son\, but an extortion scheme threatens her aspirations for a decent l
  ife.\n\nhttps://www.imdb.com/title/tt0056215/\n\nEstimated start: 16:55\n\
- nIMDb rating: 7.7
+ nIMDb rating: 7.8
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -150,6 +100,18 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\n\nDirector Pasolini traverses Ital
  y in 1963 with camera and microphone interviewing people in public places 
  about sex\, marriage and gender roles.\n\nhttps://www.imdb.com/title/tt005
  7960/\n\nEstimated start: 19:55\n\nIMDb rating: 7.5
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memories of Underdevelopment (1968)
+DTSTART;TZID=America/Los_Angeles:20260220T160000
+DTEND;TZID=America/Los_Angeles:20260220T180500
+DTSTAMP:20260220T235300Z
+UID:ci1024213-tt0063291--2026-2-20-16-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA Cuban man cycles through his o
+ pinions and memories as the threat of foreign invasion intensifies and the
+  rest of his family moves to Miami.\n\nhttps://www.imdb.com/title/tt006329
+ 1/\n\nEstimated start: 16:25\n\nIMDb rating: 7.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -167,14 +129,14 @@ LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memories of Underdevelopment (1968)
-DTSTART;TZID=America/Los_Angeles:20260220T160000
-DTEND;TZID=America/Los_Angeles:20260220T180500
-DTSTAMP:20260220T235300Z
-UID:ci1024213-tt0063291--2026-2-20-16-0
+DTSTART;TZID=America/Los_Angeles:20260221T190000
+DTEND;TZID=America/Los_Angeles:20260221T210500
+DTSTAMP:20260222T025300Z
+UID:ci1024213-tt0063291--2026-2-21-19-0
 DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA Cuban man cycles through his o
  pinions and memories as the threat of foreign invasion intensifies and the
   rest of his family moves to Miami.\n\nhttps://www.imdb.com/title/tt006329
- 1/\n\nEstimated start: 16:25\n\nIMDb rating: 7.6
+ 1/\n\nEstimated start: 19:25\n\nIMDb rating: 7.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -188,18 +150,6 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\n\nMarried couple Jock and Nora vis
  mare of Jock's death\, Nora sets out to find him but encounters strange pe
  ople and dangerous events erupting all over town.\n\nhttps://www.imdb.com/
  title/tt0163716/\n\nEstimated start: 22:25\n\nIMDb rating: 6.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memories of Underdevelopment (1968)
-DTSTART;TZID=America/Los_Angeles:20260221T190000
-DTEND;TZID=America/Los_Angeles:20260221T210500
-DTSTAMP:20260222T025300Z
-UID:ci1024213-tt0063291--2026-2-21-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA Cuban man cycles through his o
- pinions and memories as the threat of foreign invasion intensifies and the
-  rest of his family moves to Miami.\n\nhttps://www.imdb.com/title/tt006329
- 1/\n\nEstimated start: 19:25\n\nIMDb rating: 7.6
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -334,6 +284,28 @@ DESCRIPTION:Duration: 2h 09m (129 mins)\n\nYoung unhinged female ex-con wi
  he map of Paris she took from her gangster boyfriend leads to.\n\nhttps://
  www.imdb.com/title/tt0082927/\n\nEstimated start: 19:25\n\nIMDb rating: 6.
  7
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hawks and the Sparrows (1966)
+DTSTART;TZID=America/Los_Angeles:20260302T193000
+DTEND;TZID=America/Los_Angeles:20260302T213000
+DTSTAMP:20260303T032300Z
+UID:ci1024213-tt0061132--2026-3-2-19-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTotò and his son Ninetto are dr
+ ifting on a road in Italy when they meet a speaking crow.\n\nhttps://www.i
+ mdb.com/title/tt0061132/\n\nEstimated start: 19:55\n\nIMDb rating: 7.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hawks and the Sparrows (1966)
+DTSTART;TZID=America/Los_Angeles:20260303T163000
+DTEND;TZID=America/Los_Angeles:20260303T183000
+DTSTAMP:20260304T002300Z
+UID:ci1024213-tt0061132--2026-3-3-16-30
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nTotò and his son Ninetto are dr
+ ifting on a road in Italy when they meet a speaking crow.\n\nhttps://www.i
+ mdb.com/title/tt0061132/\n\nEstimated start: 16:55\n\nIMDb rating: 7.2
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR

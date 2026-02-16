@@ -3,1297 +3,102 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Regal Bella Bottega\, Redmond
-LAST-MODIFIED:20260214T193427Z
+LAST-MODIFIED:20260216T165459Z
 BEGIN:VEVENT
-SUMMARY:The Housemaid
-DTSTART;TZID=America/Los_Angeles:20260214T123500
-DTEND;TZID=America/Los_Angeles:20260214T151500
-DTSTAMP:20260214T202800Z
-UID:ci0001864-tt27543632--2026-2-14-12-35
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
- ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
- \, she discovers that the family's secrets are far more dangerous than her
-  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 13:00\
- n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260214T183000
-DTEND;TZID=America/Los_Angeles:20260214T210000
-DTSTAMP:20260215T022300Z
-UID:ci0001864-tt27564844--2026-2-14-18-30
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 18:55\n\nIMDb rating: 6.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260214T212500
-DTEND;TZID=America/Los_Angeles:20260214T235500
-DTSTAMP:20260215T051800Z
-UID:ci0001864-tt27564844--2026-2-14-21-25
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 21:50\n\nIMDb rating: 6.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260214T122500
-DTEND;TZID=America/Los_Angeles:20260214T144500
-DTSTAMP:20260214T201800Z
-UID:ci0001864-tt8036976--2026-2-14-12-25
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 12:50\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260214T154000
-DTEND;TZID=America/Los_Angeles:20260214T180000
-DTSTAMP:20260214T233300Z
-UID:ci0001864-tt8036976--2026-2-14-15-40
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 16:05\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260214T185500
-DTEND;TZID=America/Los_Angeles:20260214T211500
-DTSTAMP:20260215T024800Z
-UID:ci0001864-tt8036976--2026-2-14-18-55
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 19:20\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260214T214500
-DTEND;TZID=America/Los_Angeles:20260215T000500
-DTSTAMP:20260215T053800Z
-UID:ci0001864-tt8036976--2026-2-14-21-45
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 22:10\n\nIMDb rating: 7.2
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260216T110000
+DTEND;TZID=America/Los_Angeles:20260216T134500
+DTSTAMP:20260216T185300Z
+UID:ci0001864-tt32897959--2026-2-16-11-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 11:25\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T110500
-DTEND;TZID=America/Los_Angeles:20260214T135000
-DTSTAMP:20260214T185800Z
-UID:ci0001864-tt32897959--2026-2-14-11-5
+DTSTART;TZID=America/Los_Angeles:20260216T123000
+DTEND;TZID=America/Los_Angeles:20260216T151500
+DTSTAMP:20260216T202300Z
+UID:ci0001864-tt32897959--2026-2-16-12-30
 DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
  e story set against the backdrop of the Yorkshire moors\, exploring the in
  tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 11:30\n\
- nIMDb rating: 6.3
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:55\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T121500
-DTEND;TZID=America/Los_Angeles:20260214T150000
-DTSTAMP:20260214T200800Z
-UID:ci0001864-tt32897959--2026-2-14-12-15
+DTSTART;TZID=America/Los_Angeles:20260216T141000
+DTEND;TZID=America/Los_Angeles:20260216T165500
+DTSTAMP:20260216T220300Z
+UID:ci0001864-tt32897959--2026-2-16-14-10
 DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
  e story set against the backdrop of the Yorkshire moors\, exploring the in
  tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:40\n\
- nIMDb rating: 6.3
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 14:35\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T142000
-DTEND;TZID=America/Los_Angeles:20260214T170500
-DTSTAMP:20260214T221300Z
-UID:ci0001864-tt32897959--2026-2-14-14-20
+DTSTART;TZID=America/Los_Angeles:20260216T155000
+DTEND;TZID=America/Los_Angeles:20260216T183500
+DTSTAMP:20260216T234300Z
+UID:ci0001864-tt32897959--2026-2-16-15-50
 DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
  e story set against the backdrop of the Yorkshire moors\, exploring the in
  tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 14:45\n\
- nIMDb rating: 6.3
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:15\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T153000
-DTEND;TZID=America/Los_Angeles:20260214T181500
-DTSTAMP:20260214T232300Z
-UID:ci0001864-tt32897959--2026-2-14-15-30
+DTSTART;TZID=America/Los_Angeles:20260216T172000
+DTEND;TZID=America/Los_Angeles:20260216T200500
+DTSTAMP:20260217T011300Z
+UID:ci0001864-tt32897959--2026-2-16-17-20
 DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
  e story set against the backdrop of the Yorkshire moors\, exploring the in
  tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:55\n\
- nIMDb rating: 6.3
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 17:45\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T173000
-DTEND;TZID=America/Los_Angeles:20260214T201500
-DTSTAMP:20260215T012300Z
-UID:ci0001864-tt32897959--2026-2-14-17-30
+DTSTART;TZID=America/Los_Angeles:20260216T191000
+DTEND;TZID=America/Los_Angeles:20260216T215500
+DTSTAMP:20260217T030300Z
+UID:ci0001864-tt32897959--2026-2-16-19-10
 DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
  e story set against the backdrop of the Yorkshire moors\, exploring the in
  tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 17:55\n\
- nIMDb rating: 6.3
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 19:35\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T184500
-DTEND;TZID=America/Los_Angeles:20260214T213000
-DTSTAMP:20260215T023800Z
-UID:ci0001864-tt32897959--2026-2-14-18-45
+DTSTART;TZID=America/Los_Angeles:20260216T203000
+DTEND;TZID=America/Los_Angeles:20260216T231500
+DTSTAMP:20260217T042300Z
+UID:ci0001864-tt32897959--2026-2-16-20-30
 DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
  e story set against the backdrop of the Yorkshire moors\, exploring the in
  tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 19:10\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T204000
-DTEND;TZID=America/Los_Angeles:20260214T232500
-DTSTAMP:20260215T043300Z
-UID:ci0001864-tt32897959--2026-2-14-20-40
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 21:05\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260214T214000
-DTEND;TZID=America/Los_Angeles:20260215T002500
-DTSTAMP:20260215T053300Z
-UID:ci0001864-tt32897959--2026-2-14-21-40
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 22:05\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260214T143000
-DTEND;TZID=America/Los_Angeles:20260214T163500
-DTSTAMP:20260214T222300Z
-UID:ci0001864-tt32306991--2026-2-14-14-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 14:55\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260214T165000
-DTEND;TZID=America/Los_Angeles:20260214T185500
-DTSTAMP:20260215T004300Z
-UID:ci0001864-tt32306991--2026-2-14-16-50
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 17:15\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260214T191500
-DTEND;TZID=America/Los_Angeles:20260214T212000
-DTSTAMP:20260215T030800Z
-UID:ci0001864-tt32306991--2026-2-14-19-15
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 19:40\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260214T215000
-DTEND;TZID=America/Los_Angeles:20260214T235500
-DTSTAMP:20260215T054300Z
-UID:ci0001864-tt32306991--2026-2-14-21-50
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 22:15\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260214T111000
-DTEND;TZID=America/Los_Angeles:20260214T131500
-DTSTAMP:20260214T190300Z
-UID:ci0001864-tt27613895--2026-2-14-11-10
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 11:35\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260214T135000
-DTEND;TZID=America/Los_Angeles:20260214T155500
-DTSTAMP:20260214T214300Z
-UID:ci0001864-tt27613895--2026-2-14-13-50
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 14:15\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260214T163000
-DTEND;TZID=America/Los_Angeles:20260214T183500
-DTSTAMP:20260215T002300Z
-UID:ci0001864-tt27613895--2026-2-14-16-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 16:55\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260214T190500
-DTEND;TZID=America/Los_Angeles:20260214T211000
-DTSTAMP:20260215T025800Z
-UID:ci0001864-tt27613895--2026-2-14-19-5
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 19:30\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260214T220000
-DTEND;TZID=America/Los_Angeles:20260215T000500
-DTSTAMP:20260215T055300Z
-UID:ci0001864-tt27613895--2026-2-14-22-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 22:25\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260214T113000
-DTEND;TZID=America/Los_Angeles:20260214T141500
-DTSTAMP:20260214T192300Z
-UID:ci0001864-tt32430579--2026-2-14-11-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 11:55\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260214T145000
-DTEND;TZID=America/Los_Angeles:20260214T173500
-DTSTAMP:20260214T224300Z
-UID:ci0001864-tt32430579--2026-2-14-14-50
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 15:15\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260214T181000
-DTEND;TZID=America/Los_Angeles:20260214T205500
-DTSTAMP:20260215T020300Z
-UID:ci0001864-tt32430579--2026-2-14-18-10
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 18:35\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260214T213000
-DTEND;TZID=America/Los_Angeles:20260215T001500
-DTSTAMP:20260215T052300Z
-UID:ci0001864-tt32430579--2026-2-14-21-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 21:55\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260214T114500
-DTEND;TZID=America/Los_Angeles:20260214T142500
-DTSTAMP:20260214T193800Z
-UID:ci0001864-tt1341338--2026-2-14-11-45
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 12:10\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260214T151000
-DTEND;TZID=America/Los_Angeles:20260214T175000
-DTSTAMP:20260214T230300Z
-UID:ci0001864-tt1341338--2026-2-14-15-10
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 15:35\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260214T182000
-DTEND;TZID=America/Los_Angeles:20260214T210000
-DTSTAMP:20260215T021300Z
-UID:ci0001864-tt1341338--2026-2-14-18-20
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 18:45\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260214T213500
-DTEND;TZID=America/Los_Angeles:20260215T001500
-DTSTAMP:20260215T052800Z
-UID:ci0001864-tt1341338--2026-2-14-21-35
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 22:00\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mardaani 3
-DTSTART;TZID=America/Los_Angeles:20260214T112500
-DTEND;TZID=America/Los_Angeles:20260214T140000
-DTSTAMP:20260214T191800Z
-UID:ci0001864-tt27673536--2026-2-14-11-25
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
- here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
- missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
- mated start: 11:50\n\nIMDb rating: 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mardaani 3
-DTSTART;TZID=America/Los_Angeles:20260214T152000
-DTEND;TZID=America/Los_Angeles:20260214T175500
-DTSTAMP:20260214T231300Z
-UID:ci0001864-tt27673536--2026-2-14-15-20
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
- here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
- missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
- mated start: 15:45\n\nIMDb rating: 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mardaani 3
-DTSTART;TZID=America/Los_Angeles:20260214T210500
-DTEND;TZID=America/Los_Angeles:20260214T234000
-DTSTAMP:20260215T045800Z
-UID:ci0001864-tt27673536--2026-2-14-21-5
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
- here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
- missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
- mated start: 21:30\n\nIMDb rating: 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time Hoppers: The Silk Road
-DTSTART;TZID=America/Los_Angeles:20260214T110000
-DTEND;TZID=America/Los_Angeles:20260214T124500
-DTSTAMP:20260214T185300Z
-UID:ci0001864-tt38635633--2026-2-14-11-0
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTime Hoppers follows four gifted
-  children from The Aqli Academy who stumble upon time travel and are thrus
- t into an adventure along the Silk Road to save great scientists from the 
- evil alchemist Fasid. Will the Time Hoppers prevail?\n\nhttps://www.imdb.c
- om/title/tt38635633/\n\nEstimated start: 11:25\n\nIMDb rating: 8.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time Hoppers: The Silk Road
-DTSTART;TZID=America/Los_Angeles:20260214T130500
-DTEND;TZID=America/Los_Angeles:20260214T145000
-DTSTAMP:20260214T205800Z
-UID:ci0001864-tt38635633--2026-2-14-13-5
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTime Hoppers follows four gifted
-  children from The Aqli Academy who stumble upon time travel and are thrus
- t into an adventure along the Silk Road to save great scientists from the 
- evil alchemist Fasid. Will the Time Hoppers prevail?\n\nhttps://www.imdb.c
- om/title/tt38635633/\n\nEstimated start: 13:30\n\nIMDb rating: 8.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time Hoppers: The Silk Road
-DTSTART;TZID=America/Los_Angeles:20260214T150000
-DTEND;TZID=America/Los_Angeles:20260214T164500
-DTSTAMP:20260214T225300Z
-UID:ci0001864-tt38635633--2026-2-14-15-0
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTime Hoppers follows four gifted
-  children from The Aqli Academy who stumble upon time travel and are thrus
- t into an adventure along the Silk Road to save great scientists from the 
- evil alchemist Fasid. Will the Time Hoppers prevail?\n\nhttps://www.imdb.c
- om/title/tt38635633/\n\nEstimated start: 15:25\n\nIMDb rating: 8.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Can Only Imagine 2
-DTSTART;TZID=America/Los_Angeles:20260214T170000
-DTEND;TZID=America/Los_Angeles:20260214T191500
-DTSTAMP:20260215T005300Z
-UID:ci0001864-tt34888646--2026-2-14-17-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nBart Millard\, lead singer of M
- ercyMe\, faces a personal crisis at the peak of his success. As his world 
- unravels\, he struggles with his beliefs and inner demons while seeking a 
- path through adversity.\n\nhttps://www.imdb.com/title/tt34888646/\n\nEstim
- ated start: 17:25
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty in Pink (1986)
-DTSTART;TZID=America/Los_Angeles:20260214T160000
-DTEND;TZID=America/Los_Angeles:20260214T180500
-DTSTAMP:20260214T235300Z
-UID:ci0001864-tt0091790--2026-2-14-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA poor girl must choose between 
- the affections of dating her childhood sweetheart or a rich but sensitive 
- playboy.\n\nhttps://www.imdb.com/title/tt0091790/\n\nEstimated start: 16:2
- 5\n\nIMDb rating: 6.7
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260214T155000
-DTEND;TZID=America/Los_Angeles:20260214T191500
-DTSTAMP:20260214T234300Z
-UID:ci0001864-tt31969779--2026-2-14-15-50
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 16:15\n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260214T201000
-DTEND;TZID=America/Los_Angeles:20260214T233500
-DTSTAMP:20260215T040300Z
-UID:ci0001864-tt31969779--2026-2-14-20-10
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 20:35\n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls (2016)
-DTSTART;TZID=America/Los_Angeles:20260214T112000
-DTEND;TZID=America/Los_Angeles:20260214T132000
-DTSTAMP:20260214T191300Z
-UID:ci0001864-tt1679335--2026-2-14-11-20
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter the Bergens invade Troll V
- illage\, Poppy\, the happiest Troll ever born\, and the curmudgeonly Branc
- h set off on a journey to rescue her friends.\n\nhttps://www.imdb.com/titl
- e/tt1679335/\n\nEstimated start: 11:45\n\nIMDb rating: 6.4
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls (2016)
-DTSTART;TZID=America/Los_Angeles:20260214T134000
-DTEND;TZID=America/Los_Angeles:20260214T154000
-DTSTAMP:20260214T213300Z
-UID:ci0001864-tt1679335--2026-2-14-13-40
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter the Bergens invade Troll V
- illage\, Poppy\, the happiest Troll ever born\, and the curmudgeonly Branc
- h set off on a journey to rescue her friends.\n\nhttps://www.imdb.com/titl
- e/tt1679335/\n\nEstimated start: 14:05\n\nIMDb rating: 6.4
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260214T180500
-DTEND;TZID=America/Los_Angeles:20260214T204000
-DTSTAMP:20260215T015800Z
-UID:ci0001864-tt33083471--2026-2-14-18-5
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 18:30\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260214T202500
-DTEND;TZID=America/Los_Angeles:20260214T230000
-DTSTAMP:20260215T041800Z
-UID:ci0001864-tt33083471--2026-2-14-20-25
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 20:50\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Metropolitan Opera HD Live (2006)
-DTSTART;TZID=America/Los_Angeles:20260214T130000
-DTEND;TZID=America/Los_Angeles:20260214T152000
-DTSTAMP:20260214T205300Z
-UID:ci0001864-tt16987464--2026-2-14-13-0
-DESCRIPTION:Duration: 1h 51m (111 mins)\n\nhttps://www.imdb.com/title/tt16
- 987464/\n\nEstimated start: 13:25\n\nIMDb rating: 6.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Housemaid
-DTSTART;TZID=America/Los_Angeles:20260215T123000
-DTEND;TZID=America/Los_Angeles:20260215T151000
-DTSTAMP:20260215T202300Z
-UID:ci0001864-tt27543632--2026-2-15-12-30
-DESCRIPTION:Duration: 2h 11m (131 mins)\n\nA struggling young woman is rel
- ieved by the chance for a fresh start as a maid for a wealthy couple. Soon
- \, she discovers that the family's secrets are far more dangerous than her
-  own.\n\nhttps://www.imdb.com/title/tt27543632/\n\nEstimated start: 12:55\
- n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260215T154000
-DTEND;TZID=America/Los_Angeles:20260215T181000
-DTSTAMP:20260215T233300Z
-UID:ci0001864-tt27564844--2026-2-15-15-40
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 16:05\n\nIMDb rating: 6.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260215T212500
-DTEND;TZID=America/Los_Angeles:20260215T235500
-DTSTAMP:20260216T051800Z
-UID:ci0001864-tt27564844--2026-2-15-21-25
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 21:50\n\nIMDb rating: 6.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260215T122000
-DTEND;TZID=America/Los_Angeles:20260215T144000
-DTSTAMP:20260215T201300Z
-UID:ci0001864-tt8036976--2026-2-15-12-20
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 12:45\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260215T152000
-DTEND;TZID=America/Los_Angeles:20260215T174000
-DTSTAMP:20260215T231300Z
-UID:ci0001864-tt8036976--2026-2-15-15-20
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 15:45\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260215T185500
-DTEND;TZID=America/Los_Angeles:20260215T211500
-DTSTAMP:20260216T024800Z
-UID:ci0001864-tt8036976--2026-2-15-18-55
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 19:20\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Send Help
-DTSTART;TZID=America/Los_Angeles:20260215T214500
-DTEND;TZID=America/Los_Angeles:20260216T000500
-DTSTAMP:20260216T053800Z
-UID:ci0001864-tt8036976--2026-2-15-21-45
-DESCRIPTION:Duration: 1h 53m (113 mins)\n\nAn employee and her insufferabl
- e boss become stranded on a deserted island\, the only survivors of a plan
- e crash. Here\, they must overcome past grievances and work together to ma
- ke it out alive.\n\nhttps://www.imdb.com/title/tt8036976/\n\nEstimated sta
- rt: 22:10\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T110500
-DTEND;TZID=America/Los_Angeles:20260215T135000
-DTSTAMP:20260215T185800Z
-UID:ci0001864-tt32897959--2026-2-15-11-5
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 11:30\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T121000
-DTEND;TZID=America/Los_Angeles:20260215T145500
-DTSTAMP:20260215T200300Z
-UID:ci0001864-tt32897959--2026-2-15-12-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T141500
-DTEND;TZID=America/Los_Angeles:20260215T170000
-DTSTAMP:20260215T220800Z
-UID:ci0001864-tt32897959--2026-2-15-14-15
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 14:40\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T153000
-DTEND;TZID=America/Los_Angeles:20260215T181500
-DTSTAMP:20260215T232300Z
-UID:ci0001864-tt32897959--2026-2-15-15-30
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:55\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T173000
-DTEND;TZID=America/Los_Angeles:20260215T201500
-DTSTAMP:20260216T012300Z
-UID:ci0001864-tt32897959--2026-2-15-17-30
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 17:55\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T184500
-DTEND;TZID=America/Los_Angeles:20260215T213000
-DTSTAMP:20260216T023800Z
-UID:ci0001864-tt32897959--2026-2-15-18-45
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 19:10\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T204000
-DTEND;TZID=America/Los_Angeles:20260215T232500
-DTSTAMP:20260216T043300Z
-UID:ci0001864-tt32897959--2026-2-15-20-40
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 21:05\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260215T214000
-DTEND;TZID=America/Los_Angeles:20260216T002500
-DTSTAMP:20260216T053300Z
-UID:ci0001864-tt32897959--2026-2-15-21-40
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 22:05\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260215T162000
-DTEND;TZID=America/Los_Angeles:20260215T182500
-DTSTAMP:20260216T001300Z
-UID:ci0001864-tt32306991--2026-2-15-16-20
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 16:45\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260215T191500
-DTEND;TZID=America/Los_Angeles:20260215T212000
-DTSTAMP:20260216T030800Z
-UID:ci0001864-tt32306991--2026-2-15-19-15
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 19:40\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260215T215000
-DTEND;TZID=America/Los_Angeles:20260215T235500
-DTSTAMP:20260216T054300Z
-UID:ci0001864-tt32306991--2026-2-15-21-50
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 22:15\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260215T111000
-DTEND;TZID=America/Los_Angeles:20260215T131500
-DTSTAMP:20260215T190300Z
-UID:ci0001864-tt27613895--2026-2-15-11-10
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 11:35\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260215T135000
-DTEND;TZID=America/Los_Angeles:20260215T155500
-DTSTAMP:20260215T214300Z
-UID:ci0001864-tt27613895--2026-2-15-13-50
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 14:15\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260215T163000
-DTEND;TZID=America/Los_Angeles:20260215T183500
-DTSTAMP:20260216T002300Z
-UID:ci0001864-tt27613895--2026-2-15-16-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 16:55\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260215T190500
-DTEND;TZID=America/Los_Angeles:20260215T211000
-DTSTAMP:20260216T025800Z
-UID:ci0001864-tt27613895--2026-2-15-19-5
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 19:30\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOAT
-DTSTART;TZID=America/Los_Angeles:20260215T220000
-DTEND;TZID=America/Los_Angeles:20260216T000500
-DTSTAMP:20260216T055300Z
-UID:ci0001864-tt27613895--2026-2-15-22-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
- ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
- ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
- animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 22:25\n\nIMDb rating: 6.9
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260215T113000
-DTEND;TZID=America/Los_Angeles:20260215T141500
-DTSTAMP:20260215T192300Z
-UID:ci0001864-tt32430579--2026-2-15-11-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 11:55\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260215T145000
-DTEND;TZID=America/Los_Angeles:20260215T173500
-DTSTAMP:20260215T224300Z
-UID:ci0001864-tt32430579--2026-2-15-14-50
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 15:15\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260215T181000
-DTEND;TZID=America/Los_Angeles:20260215T205500
-DTSTAMP:20260216T020300Z
-UID:ci0001864-tt32430579--2026-2-15-18-10
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 18:35\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260215T213000
-DTEND;TZID=America/Los_Angeles:20260216T001500
-DTSTAMP:20260216T052300Z
-UID:ci0001864-tt32430579--2026-2-15-21-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 21:55\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260215T115000
-DTEND;TZID=America/Los_Angeles:20260215T143000
-DTSTAMP:20260215T194300Z
-UID:ci0001864-tt1341338--2026-2-15-11-50
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 12:15\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260215T150000
-DTEND;TZID=America/Los_Angeles:20260215T174000
-DTSTAMP:20260215T225300Z
-UID:ci0001864-tt1341338--2026-2-15-15-0
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 15:25\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260215T182000
-DTEND;TZID=America/Los_Angeles:20260215T210000
-DTSTAMP:20260216T021300Z
-UID:ci0001864-tt1341338--2026-2-15-18-20
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 18:45\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Luck\, Have Fun\, Don't Die
-DTSTART;TZID=America/Los_Angeles:20260215T213500
-DTEND;TZID=America/Los_Angeles:20260216T001500
-DTSTAMP:20260216T052800Z
-UID:ci0001864-tt1341338--2026-2-15-21-35
-DESCRIPTION:Duration: 2h 14m (134 mins)\n\nA &quot\;Man From the Future&qu
- ot\; arrives at a diner in Los Angeles where he must recruit the precise c
- ombination of disgruntled patrons to join him on a one-night quest to save
-  the world from the terminal threat of a rogue artificial intel...\n\nhttp
- s://www.imdb.com/title/tt1341338/\n\nEstimated start: 22:00\n\nIMDb rating
- : 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mardaani 3
-DTSTART;TZID=America/Los_Angeles:20260215T124000
-DTEND;TZID=America/Los_Angeles:20260215T151500
-DTSTAMP:20260215T203300Z
-UID:ci0001864-tt27673536--2026-2-15-12-40
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
- here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
- missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
- mated start: 13:05\n\nIMDb rating: 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mardaani 3
-DTSTART;TZID=America/Los_Angeles:20260215T180500
-DTEND;TZID=America/Los_Angeles:20260215T204000
-DTSTAMP:20260216T015800Z
-UID:ci0001864-tt27673536--2026-2-15-18-5
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
- here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
- missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
- mated start: 18:30\n\nIMDb rating: 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mardaani 3
-DTSTART;TZID=America/Los_Angeles:20260215T210500
-DTEND;TZID=America/Los_Angeles:20260215T234000
-DTSTAMP:20260216T045800Z
-UID:ci0001864-tt27673536--2026-2-15-21-5
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
- here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
- missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
- mated start: 21:30\n\nIMDb rating: 7.6
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time Hoppers: The Silk Road
-DTSTART;TZID=America/Los_Angeles:20260215T110000
-DTEND;TZID=America/Los_Angeles:20260215T124500
-DTSTAMP:20260215T185300Z
-UID:ci0001864-tt38635633--2026-2-15-11-0
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTime Hoppers follows four gifted
-  children from The Aqli Academy who stumble upon time travel and are thrus
- t into an adventure along the Silk Road to save great scientists from the 
- evil alchemist Fasid. Will the Time Hoppers prevail?\n\nhttps://www.imdb.c
- om/title/tt38635633/\n\nEstimated start: 11:25\n\nIMDb rating: 8.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time Hoppers: The Silk Road
-DTSTART;TZID=America/Los_Angeles:20260215T131000
-DTEND;TZID=America/Los_Angeles:20260215T145500
-DTSTAMP:20260215T210300Z
-UID:ci0001864-tt38635633--2026-2-15-13-10
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTime Hoppers follows four gifted
-  children from The Aqli Academy who stumble upon time travel and are thrus
- t into an adventure along the Silk Road to save great scientists from the 
- evil alchemist Fasid. Will the Time Hoppers prevail?\n\nhttps://www.imdb.c
- om/title/tt38635633/\n\nEstimated start: 13:35\n\nIMDb rating: 8.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time Hoppers: The Silk Road
-DTSTART;TZID=America/Los_Angeles:20260215T151000
-DTEND;TZID=America/Los_Angeles:20260215T165500
-DTSTAMP:20260215T230300Z
-UID:ci0001864-tt38635633--2026-2-15-15-10
-DESCRIPTION:Duration: 1h 20m (80 mins)\n\nTime Hoppers follows four gifted
-  children from The Aqli Academy who stumble upon time travel and are thrus
- t into an adventure along the Silk Road to save great scientists from the 
- evil alchemist Fasid. Will the Time Hoppers prevail?\n\nhttps://www.imdb.c
- om/title/tt38635633/\n\nEstimated start: 15:35\n\nIMDb rating: 8.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty in Pink (1986)
-DTSTART;TZID=America/Los_Angeles:20260215T160000
-DTEND;TZID=America/Los_Angeles:20260215T180500
-DTSTAMP:20260215T235300Z
-UID:ci0001864-tt0091790--2026-2-15-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA poor girl must choose between 
- the affections of dating her childhood sweetheart or a rich but sensitive 
- playboy.\n\nhttps://www.imdb.com/title/tt0091790/\n\nEstimated start: 16:2
- 5\n\nIMDb rating: 6.7
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260215T155000
-DTEND;TZID=America/Los_Angeles:20260215T191500
-DTSTAMP:20260215T234300Z
-UID:ci0001864-tt31969779--2026-2-15-15-50
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 16:15\n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260215T201000
-DTEND;TZID=America/Los_Angeles:20260215T233500
-DTSTAMP:20260216T040300Z
-UID:ci0001864-tt31969779--2026-2-15-20-10
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 20:35\n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls (2016)
-DTSTART;TZID=America/Los_Angeles:20260215T112000
-DTEND;TZID=America/Los_Angeles:20260215T132000
-DTSTAMP:20260215T191300Z
-UID:ci0001864-tt1679335--2026-2-15-11-20
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter the Bergens invade Troll V
- illage\, Poppy\, the happiest Troll ever born\, and the curmudgeonly Branc
- h set off on a journey to rescue her friends.\n\nhttps://www.imdb.com/titl
- e/tt1679335/\n\nEstimated start: 11:45\n\nIMDb rating: 6.4
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls (2016)
-DTSTART;TZID=America/Los_Angeles:20260215T134000
-DTEND;TZID=America/Los_Angeles:20260215T154000
-DTSTAMP:20260215T213300Z
-UID:ci0001864-tt1679335--2026-2-15-13-40
-DESCRIPTION:Duration: 1h 32m (92 mins)\n\nAfter the Bergens invade Troll V
- illage\, Poppy\, the happiest Troll ever born\, and the curmudgeonly Branc
- h set off on a journey to rescue her friends.\n\nhttps://www.imdb.com/titl
- e/tt1679335/\n\nEstimated start: 14:05\n\nIMDb rating: 6.4
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apocalypse of St. John
-DTSTART;TZID=America/Los_Angeles:20260215T130000
-DTEND;TZID=America/Los_Angeles:20260215T151500
-DTSTAMP:20260215T205300Z
-UID:ci0001864-tt31353337--2026-2-15-13-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWatch 'The Apocalypse of Saint 
- John\, ' a visually stunning film that explores prophecy and the power of 
- faith.\n\nhttps://www.imdb.com/title/tt31353337/\n\nEstimated start: 13:25
- \n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apocalypse of St. John
-DTSTART;TZID=America/Los_Angeles:20260215T190000
-DTEND;TZID=America/Los_Angeles:20260215T211500
-DTSTAMP:20260216T025300Z
-UID:ci0001864-tt31353337--2026-2-15-19-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWatch 'The Apocalypse of Saint 
- John\, ' a visually stunning film that explores prophecy and the power of 
- faith.\n\nhttps://www.imdb.com/title/tt31353337/\n\nEstimated start: 19:25
- \n\nIMDb rating: 6.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260215T171500
-DTEND;TZID=America/Los_Angeles:20260215T195000
-DTSTAMP:20260216T010800Z
-UID:ci0001864-tt33083471--2026-2-15-17-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 17:40\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260215T202500
-DTEND;TZID=America/Los_Angeles:20260215T230000
-DTSTAMP:20260216T041800Z
-UID:ci0001864-tt33083471--2026-2-15-20-25
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 20:50\n\nIMDb rating: 4.8
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 20:55\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1312,44 +117,58 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260216T111500
-DTEND;TZID=America/Los_Angeles:20260216T134500
-DTSTAMP:20260216T190800Z
-UID:ci0001864-tt27564844--2026-2-16-11-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 11:40\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260216T104000
+DTEND;TZID=America/Los_Angeles:20260216T132500
+DTSTAMP:20260216T183300Z
+UID:ci0001864-tt32430579--2026-2-16-10-40
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 11:05\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260216T142000
-DTEND;TZID=America/Los_Angeles:20260216T165000
-DTSTAMP:20260216T221300Z
-UID:ci0001864-tt27564844--2026-2-16-14-20
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 14:45\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260216T135000
+DTEND;TZID=America/Los_Angeles:20260216T163500
+DTSTAMP:20260216T214300Z
+UID:ci0001864-tt32430579--2026-2-16-13-50
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 14:15\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260216T171500
-DTEND;TZID=America/Los_Angeles:20260216T194500
-DTSTAMP:20260217T010800Z
-UID:ci0001864-tt27564844--2026-2-16-17-15
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 17:40\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260216T170500
+DTEND;TZID=America/Los_Angeles:20260216T195000
+DTSTAMP:20260217T005800Z
+UID:ci0001864-tt32430579--2026-2-16-17-5
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 17:30\n\nIMDb rating: 7.2
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260216T202000
+DTEND;TZID=America/Los_Angeles:20260216T230500
+DTSTAMP:20260217T041300Z
+UID:ci0001864-tt32430579--2026-2-16-20-20
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 20:45\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1410,146 +229,6 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260216T110000
-DTEND;TZID=America/Los_Angeles:20260216T134500
-DTSTAMP:20260216T185300Z
-UID:ci0001864-tt32897959--2026-2-16-11-0
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 11:25\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260216T123000
-DTEND;TZID=America/Los_Angeles:20260216T151500
-DTSTAMP:20260216T202300Z
-UID:ci0001864-tt32897959--2026-2-16-12-30
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:55\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260216T141000
-DTEND;TZID=America/Los_Angeles:20260216T165500
-DTSTAMP:20260216T220300Z
-UID:ci0001864-tt32897959--2026-2-16-14-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 14:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260216T155000
-DTEND;TZID=America/Los_Angeles:20260216T183500
-DTSTAMP:20260216T234300Z
-UID:ci0001864-tt32897959--2026-2-16-15-50
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:15\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260216T172000
-DTEND;TZID=America/Los_Angeles:20260216T200500
-DTSTAMP:20260217T011300Z
-UID:ci0001864-tt32897959--2026-2-16-17-20
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 17:45\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260216T191000
-DTEND;TZID=America/Los_Angeles:20260216T215500
-DTSTAMP:20260217T030300Z
-UID:ci0001864-tt32897959--2026-2-16-19-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 19:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260216T203000
-DTEND;TZID=America/Los_Angeles:20260216T231500
-DTSTAMP:20260217T042300Z
-UID:ci0001864-tt32897959--2026-2-16-20-30
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 20:55\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260216T113000
-DTEND;TZID=America/Los_Angeles:20260216T133500
-DTSTAMP:20260216T192300Z
-UID:ci0001864-tt32306991--2026-2-16-11-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 11:55\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260216T140000
-DTEND;TZID=America/Los_Angeles:20260216T160500
-DTSTAMP:20260216T215300Z
-UID:ci0001864-tt32306991--2026-2-16-14-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 14:25\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260216T163500
-DTEND;TZID=America/Los_Angeles:20260216T184000
-DTSTAMP:20260217T002800Z
-UID:ci0001864-tt32306991--2026-2-16-16-35
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 17:00\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GOAT
 DTSTART;TZID=America/Los_Angeles:20260216T103000
 DTEND;TZID=America/Los_Angeles:20260216T123500
@@ -1559,7 +238,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 10:55\n\nIMDb rating: 6.9
+ ed start: 10:55\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1573,7 +252,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 13:30\n\nIMDb rating: 6.9
+ ed start: 13:30\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1587,7 +266,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 16:05\n\nIMDb rating: 6.9
+ ed start: 16:05\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1601,7 +280,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 18:35\n\nIMDb rating: 6.9
+ ed start: 18:35\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1615,63 +294,35 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 21:05\n\nIMDb rating: 6.9
+ ed start: 21:05\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260216T104000
-DTEND;TZID=America/Los_Angeles:20260216T132500
-DTSTAMP:20260216T183300Z
-UID:ci0001864-tt32430579--2026-2-16-10-40
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 11:05\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260216T150000
+DTEND;TZID=America/Los_Angeles:20260216T182500
+DTSTAMP:20260216T225300Z
+UID:ci0001864-tt31969779--2026-2-16-15-0
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 15:25\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260216T135000
-DTEND;TZID=America/Los_Angeles:20260216T163500
-DTSTAMP:20260216T214300Z
-UID:ci0001864-tt32430579--2026-2-16-13-50
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 14:15\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260216T170500
-DTEND;TZID=America/Los_Angeles:20260216T195000
-DTSTAMP:20260217T005800Z
-UID:ci0001864-tt32430579--2026-2-16-17-5
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 17:30\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260216T202000
-DTEND;TZID=America/Los_Angeles:20260216T230500
-DTSTAMP:20260217T041300Z
-UID:ci0001864-tt32430579--2026-2-16-20-20
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 20:45\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260216T192000
+DTEND;TZID=America/Los_Angeles:20260216T224500
+DTSTAMP:20260217T031300Z
+UID:ci0001864-tt31969779--2026-2-16-19-20
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 19:45\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1736,6 +387,103 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260216T111500
+DTEND;TZID=America/Los_Angeles:20260216T134500
+DTSTAMP:20260216T190800Z
+UID:ci0001864-tt27564844--2026-2-16-11-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 11:40\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260216T142000
+DTEND;TZID=America/Los_Angeles:20260216T165000
+DTSTAMP:20260216T221300Z
+UID:ci0001864-tt27564844--2026-2-16-14-20
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 14:45\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260216T171500
+DTEND;TZID=America/Los_Angeles:20260216T194500
+DTSTAMP:20260217T010800Z
+UID:ci0001864-tt27564844--2026-2-16-17-15
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 17:40\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260216T113000
+DTEND;TZID=America/Los_Angeles:20260216T133500
+DTSTAMP:20260216T192300Z
+UID:ci0001864-tt32306991--2026-2-16-11-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 11:55\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260216T140000
+DTEND;TZID=America/Los_Angeles:20260216T160500
+DTSTAMP:20260216T215300Z
+UID:ci0001864-tt32306991--2026-2-16-14-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 14:25\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260216T163500
+DTEND;TZID=America/Los_Angeles:20260216T184000
+DTSTAMP:20260217T002800Z
+UID:ci0001864-tt32306991--2026-2-16-16-35
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 17:00\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty in Pink (1986)
+DTSTART;TZID=America/Los_Angeles:20260216T190000
+DTEND;TZID=America/Los_Angeles:20260216T210500
+DTSTAMP:20260217T025300Z
+UID:ci0001864-tt0091790--2026-2-16-19-0
+DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA poor girl must choose between 
+ the affections of dating her childhood sweetheart or a rich but sensitive 
+ playboy.\n\nhttps://www.imdb.com/title/tt0091790/\n\nEstimated start: 19:2
+ 5\n\nIMDb rating: 6.7
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mardaani 3
 DTSTART;TZID=America/Los_Angeles:20260216T120000
 DTEND;TZID=America/Los_Angeles:20260216T143500
@@ -1771,6 +519,34 @@ DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
  here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
  missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
  mated start: 20:00\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260216T164500
+DTEND;TZID=America/Los_Angeles:20260216T192000
+DTSTAMP:20260217T003800Z
+UID:ci0001864-tt33083471--2026-2-16-16-45
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 17:10\n\nIMDb rating: 4.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260216T195000
+DTEND;TZID=America/Los_Angeles:20260216T222500
+DTSTAMP:20260217T034300Z
+UID:ci0001864-tt33083471--2026-2-16-19-50
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 20:15\n\nIMDb rating: 4.6
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1817,71 +593,58 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty in Pink (1986)
-DTSTART;TZID=America/Los_Angeles:20260216T190000
-DTEND;TZID=America/Los_Angeles:20260216T210500
-DTSTAMP:20260217T025300Z
-UID:ci0001864-tt0091790--2026-2-16-19-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA poor girl must choose between 
- the affections of dating her childhood sweetheart or a rich but sensitive 
- playboy.\n\nhttps://www.imdb.com/title/tt0091790/\n\nEstimated start: 19:2
- 5\n\nIMDb rating: 6.7
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260217T120000
+DTEND;TZID=America/Los_Angeles:20260217T144500
+DTSTAMP:20260217T195300Z
+UID:ci0001864-tt32897959--2026-2-17-12-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:25\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260216T150000
-DTEND;TZID=America/Los_Angeles:20260216T182500
-DTSTAMP:20260216T225300Z
-UID:ci0001864-tt31969779--2026-2-16-15-0
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 15:25\n\nIMDb rating: 6.8
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260217T151000
+DTEND;TZID=America/Los_Angeles:20260217T175500
+DTSTAMP:20260217T230300Z
+UID:ci0001864-tt32897959--2026-2-17-15-10
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:35\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260216T192000
-DTEND;TZID=America/Los_Angeles:20260216T224500
-DTSTAMP:20260217T031300Z
-UID:ci0001864-tt31969779--2026-2-16-19-20
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 19:45\n\nIMDb rating: 6.8
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260217T161000
+DTEND;TZID=America/Los_Angeles:20260217T185500
+DTSTAMP:20260218T000300Z
+UID:ci0001864-tt32897959--2026-2-17-16-10
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:35\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260216T164500
-DTEND;TZID=America/Los_Angeles:20260216T192000
-DTSTAMP:20260217T003800Z
-UID:ci0001864-tt33083471--2026-2-16-16-45
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 17:10\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260216T195000
-DTEND;TZID=America/Los_Angeles:20260216T222500
-DTSTAMP:20260217T034300Z
-UID:ci0001864-tt33083471--2026-2-16-19-50
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 20:15\n\nIMDb rating: 4.8
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260217T182000
+DTEND;TZID=America/Los_Angeles:20260217T210500
+DTSTAMP:20260218T021300Z
+UID:ci0001864-tt32897959--2026-2-17-18-20
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 18:45\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1900,30 +663,44 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260217T125000
-DTEND;TZID=America/Los_Angeles:20260217T152000
-DTSTAMP:20260217T204300Z
-UID:ci0001864-tt27564844--2026-2-17-12-50
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 13:15\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260217T123000
+DTEND;TZID=America/Los_Angeles:20260217T151500
+DTSTAMP:20260217T202300Z
+UID:ci0001864-tt32430579--2026-2-17-12-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 12:55\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260217T160000
-DTEND;TZID=America/Los_Angeles:20260217T183000
-DTSTAMP:20260217T235300Z
-UID:ci0001864-tt27564844--2026-2-17-16-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260217T155000
+DTEND;TZID=America/Los_Angeles:20260217T183500
+DTSTAMP:20260217T234300Z
+UID:ci0001864-tt32430579--2026-2-17-15-50
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 16:15\n\nIMDb rating: 7.2
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260217T191000
+DTEND;TZID=America/Los_Angeles:20260217T215500
+DTSTAMP:20260218T030300Z
+UID:ci0001864-tt32430579--2026-2-17-19-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 19:35\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -1970,118 +747,6 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260217T120000
-DTEND;TZID=America/Los_Angeles:20260217T144500
-DTSTAMP:20260217T195300Z
-UID:ci0001864-tt32897959--2026-2-17-12-0
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:25\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260217T151000
-DTEND;TZID=America/Los_Angeles:20260217T175500
-DTSTAMP:20260217T230300Z
-UID:ci0001864-tt32897959--2026-2-17-15-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260217T161000
-DTEND;TZID=America/Los_Angeles:20260217T185500
-DTSTAMP:20260218T000300Z
-UID:ci0001864-tt32897959--2026-2-17-16-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260217T182000
-DTEND;TZID=America/Los_Angeles:20260217T210500
-DTSTAMP:20260218T021300Z
-UID:ci0001864-tt32897959--2026-2-17-18-20
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 18:45\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260217T124000
-DTEND;TZID=America/Los_Angeles:20260217T144500
-DTSTAMP:20260217T203300Z
-UID:ci0001864-tt32306991--2026-2-17-12-40
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 13:05\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260217T150000
-DTEND;TZID=America/Los_Angeles:20260217T170500
-DTSTAMP:20260217T225300Z
-UID:ci0001864-tt32306991--2026-2-17-15-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 15:25\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260217T173000
-DTEND;TZID=America/Los_Angeles:20260217T193500
-DTSTAMP:20260218T012300Z
-UID:ci0001864-tt32306991--2026-2-17-17-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 17:55\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260217T200000
-DTEND;TZID=America/Los_Angeles:20260217T220500
-DTSTAMP:20260218T035300Z
-UID:ci0001864-tt32306991--2026-2-17-20-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 20:25\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GOAT
 DTSTART;TZID=America/Los_Angeles:20260217T122000
 DTEND;TZID=America/Los_Angeles:20260217T142500
@@ -2091,7 +756,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 12:45\n\nIMDb rating: 6.9
+ ed start: 12:45\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2105,7 +770,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 15:15\n\nIMDb rating: 6.9
+ ed start: 15:15\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2119,7 +784,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 17:45\n\nIMDb rating: 6.9
+ ed start: 17:45\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2133,49 +798,35 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 20:15\n\nIMDb rating: 6.9
+ ed start: 20:15\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260217T123000
-DTEND;TZID=America/Los_Angeles:20260217T151500
-DTSTAMP:20260217T202300Z
-UID:ci0001864-tt32430579--2026-2-17-12-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 12:55\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260217T152000
+DTEND;TZID=America/Los_Angeles:20260217T184500
+DTSTAMP:20260217T231300Z
+UID:ci0001864-tt31969779--2026-2-17-15-20
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 15:45\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260217T155000
-DTEND;TZID=America/Los_Angeles:20260217T183500
-DTSTAMP:20260217T234300Z
-UID:ci0001864-tt32430579--2026-2-17-15-50
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 16:15\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260217T191000
-DTEND;TZID=America/Los_Angeles:20260217T215500
-DTSTAMP:20260218T030300Z
-UID:ci0001864-tt32430579--2026-2-17-19-10
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 19:35\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260217T185500
+DTEND;TZID=America/Los_Angeles:20260217T222000
+DTSTAMP:20260218T024800Z
+UID:ci0001864-tt31969779--2026-2-17-18-55
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 19:20\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2225,6 +876,90 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260217T125000
+DTEND;TZID=America/Los_Angeles:20260217T152000
+DTSTAMP:20260217T204300Z
+UID:ci0001864-tt27564844--2026-2-17-12-50
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 13:15\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260217T160000
+DTEND;TZID=America/Los_Angeles:20260217T183000
+DTSTAMP:20260217T235300Z
+UID:ci0001864-tt27564844--2026-2-17-16-0
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260217T124000
+DTEND;TZID=America/Los_Angeles:20260217T144500
+DTSTAMP:20260217T203300Z
+UID:ci0001864-tt32306991--2026-2-17-12-40
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 13:05\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260217T150000
+DTEND;TZID=America/Los_Angeles:20260217T170500
+DTSTAMP:20260217T225300Z
+UID:ci0001864-tt32306991--2026-2-17-15-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 15:25\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260217T173000
+DTEND;TZID=America/Los_Angeles:20260217T193500
+DTSTAMP:20260218T012300Z
+UID:ci0001864-tt32306991--2026-2-17-17-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 17:55\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260217T200000
+DTEND;TZID=America/Los_Angeles:20260217T220500
+DTSTAMP:20260218T035300Z
+UID:ci0001864-tt32306991--2026-2-17-20-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 20:25\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mardaani 3
 DTSTART;TZID=America/Los_Angeles:20260217T122500
 DTEND;TZID=America/Los_Angeles:20260217T150000
@@ -2264,30 +999,57 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260217T152000
-DTEND;TZID=America/Los_Angeles:20260217T184500
-DTSTAMP:20260217T231300Z
-UID:ci0001864-tt31969779--2026-2-17-15-20
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 15:45\n\nIMDb rating: 6.8
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260217T121500
+DTEND;TZID=America/Los_Angeles:20260217T145000
+DTSTAMP:20260217T200800Z
+UID:ci0001864-tt33083471--2026-2-17-12-15
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 12:40\n\nIMDb rating: 4.6
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260217T185500
-DTEND;TZID=America/Los_Angeles:20260217T222000
-DTSTAMP:20260218T024800Z
-UID:ci0001864-tt31969779--2026-2-17-18-55
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 19:20\n\nIMDb rating: 6.8
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260217T153000
+DTEND;TZID=America/Los_Angeles:20260217T180500
+DTSTAMP:20260217T232300Z
+UID:ci0001864-tt33083471--2026-2-17-15-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 15:55\n\nIMDb rating: 4.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260217T183000
+DTEND;TZID=America/Los_Angeles:20260217T210500
+DTSTAMP:20260218T022300Z
+UID:ci0001864-tt33083471--2026-2-17-18-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 18:55\n\nIMDb rating: 4.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apocalypse of St. John
+DTSTART;TZID=America/Los_Angeles:20260217T190000
+DTEND;TZID=America/Los_Angeles:20260217T211500
+DTSTAMP:20260218T025300Z
+UID:ci0001864-tt31353337--2026-2-17-19-0
+DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWatch 'The Apocalypse of Saint 
+ John\, ' a visually stunning film that explores prophecy and the power of 
+ faith.\n\nhttps://www.imdb.com/title/tt31353337/\n\nEstimated start: 19:25
+ \n\nIMDb rating: 6.7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2320,57 +1082,58 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Apocalypse of St. John
-DTSTART;TZID=America/Los_Angeles:20260217T190000
-DTEND;TZID=America/Los_Angeles:20260217T211500
-DTSTAMP:20260218T025300Z
-UID:ci0001864-tt31353337--2026-2-17-19-0
-DESCRIPTION:Duration: 1h 50m (110 mins)\n\nWatch 'The Apocalypse of Saint 
- John\, ' a visually stunning film that explores prophecy and the power of 
- faith.\n\nhttps://www.imdb.com/title/tt31353337/\n\nEstimated start: 19:25
- \n\nIMDb rating: 6.8
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260218T120000
+DTEND;TZID=America/Los_Angeles:20260218T144500
+DTSTAMP:20260218T195300Z
+UID:ci0001864-tt32897959--2026-2-18-12-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:25\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260217T121500
-DTEND;TZID=America/Los_Angeles:20260217T145000
-DTSTAMP:20260217T200800Z
-UID:ci0001864-tt33083471--2026-2-17-12-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 12:40\n\nIMDb rating: 4.8
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260218T151000
+DTEND;TZID=America/Los_Angeles:20260218T175500
+DTSTAMP:20260218T230300Z
+UID:ci0001864-tt32897959--2026-2-18-15-10
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:35\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260217T153000
-DTEND;TZID=America/Los_Angeles:20260217T180500
-DTSTAMP:20260217T232300Z
-UID:ci0001864-tt33083471--2026-2-17-15-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 15:55\n\nIMDb rating: 4.8
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260218T161000
+DTEND;TZID=America/Los_Angeles:20260218T185500
+DTSTAMP:20260219T000300Z
+UID:ci0001864-tt32897959--2026-2-18-16-10
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:35\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260217T183000
-DTEND;TZID=America/Los_Angeles:20260217T210500
-DTSTAMP:20260218T022300Z
-UID:ci0001864-tt33083471--2026-2-17-18-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 18:55\n\nIMDb rating: 4.8
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260218T182000
+DTEND;TZID=America/Los_Angeles:20260218T210500
+DTSTAMP:20260219T021300Z
+UID:ci0001864-tt32897959--2026-2-18-18-20
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 18:45\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2389,16 +1152,44 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260218T160000
-DTEND;TZID=America/Los_Angeles:20260218T183000
-DTSTAMP:20260218T235300Z
-UID:ci0001864-tt27564844--2026-2-18-16-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260218T123000
+DTEND;TZID=America/Los_Angeles:20260218T151500
+DTSTAMP:20260218T202300Z
+UID:ci0001864-tt32430579--2026-2-18-12-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 12:55\n\nIMDb rating: 7.2
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260218T155000
+DTEND;TZID=America/Los_Angeles:20260218T183500
+DTSTAMP:20260218T234300Z
+UID:ci0001864-tt32430579--2026-2-18-15-50
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 16:15\n\nIMDb rating: 7.2
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260218T191000
+DTEND;TZID=America/Los_Angeles:20260218T215500
+DTSTAMP:20260219T030300Z
+UID:ci0001864-tt32430579--2026-2-18-19-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 19:35\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2445,118 +1236,6 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260218T120000
-DTEND;TZID=America/Los_Angeles:20260218T144500
-DTSTAMP:20260218T195300Z
-UID:ci0001864-tt32897959--2026-2-18-12-0
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:25\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260218T151000
-DTEND;TZID=America/Los_Angeles:20260218T175500
-DTSTAMP:20260218T230300Z
-UID:ci0001864-tt32897959--2026-2-18-15-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260218T161000
-DTEND;TZID=America/Los_Angeles:20260218T185500
-DTSTAMP:20260219T000300Z
-UID:ci0001864-tt32897959--2026-2-18-16-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260218T182000
-DTEND;TZID=America/Los_Angeles:20260218T210500
-DTSTAMP:20260219T021300Z
-UID:ci0001864-tt32897959--2026-2-18-18-20
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 18:45\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260218T124000
-DTEND;TZID=America/Los_Angeles:20260218T144500
-DTSTAMP:20260218T203300Z
-UID:ci0001864-tt32306991--2026-2-18-12-40
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 13:05\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260218T150000
-DTEND;TZID=America/Los_Angeles:20260218T170500
-DTSTAMP:20260218T225300Z
-UID:ci0001864-tt32306991--2026-2-18-15-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 15:25\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260218T173000
-DTEND;TZID=America/Los_Angeles:20260218T193500
-DTSTAMP:20260219T012300Z
-UID:ci0001864-tt32306991--2026-2-18-17-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 17:55\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260218T200000
-DTEND;TZID=America/Los_Angeles:20260218T220500
-DTSTAMP:20260219T035300Z
-UID:ci0001864-tt32306991--2026-2-18-20-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 20:25\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GOAT
 DTSTART;TZID=America/Los_Angeles:20260218T122000
 DTEND;TZID=America/Los_Angeles:20260218T142500
@@ -2566,7 +1245,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 12:45\n\nIMDb rating: 6.9
+ ed start: 12:45\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2580,7 +1259,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 15:15\n\nIMDb rating: 6.9
+ ed start: 15:15\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2594,7 +1273,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 17:45\n\nIMDb rating: 6.9
+ ed start: 17:45\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2608,49 +1287,35 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 20:15\n\nIMDb rating: 6.9
+ ed start: 20:15\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260218T123000
-DTEND;TZID=America/Los_Angeles:20260218T151500
-DTSTAMP:20260218T202300Z
-UID:ci0001864-tt32430579--2026-2-18-12-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 12:55\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260218T152000
+DTEND;TZID=America/Los_Angeles:20260218T184500
+DTSTAMP:20260218T231300Z
+UID:ci0001864-tt31969779--2026-2-18-15-20
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 15:45\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260218T155000
-DTEND;TZID=America/Los_Angeles:20260218T183500
-DTSTAMP:20260218T234300Z
-UID:ci0001864-tt32430579--2026-2-18-15-50
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 16:15\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260218T191000
-DTEND;TZID=America/Los_Angeles:20260218T215500
-DTSTAMP:20260219T030300Z
-UID:ci0001864-tt32430579--2026-2-18-19-10
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 19:35\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260218T185500
+DTEND;TZID=America/Los_Angeles:20260218T222000
+DTSTAMP:20260219T024800Z
+UID:ci0001864-tt31969779--2026-2-18-18-55
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 19:20\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2700,6 +1365,76 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260218T160000
+DTEND;TZID=America/Los_Angeles:20260218T183000
+DTSTAMP:20260218T235300Z
+UID:ci0001864-tt27564844--2026-2-18-16-0
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260218T124000
+DTEND;TZID=America/Los_Angeles:20260218T144500
+DTSTAMP:20260218T203300Z
+UID:ci0001864-tt32306991--2026-2-18-12-40
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 13:05\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260218T150000
+DTEND;TZID=America/Los_Angeles:20260218T170500
+DTSTAMP:20260218T225300Z
+UID:ci0001864-tt32306991--2026-2-18-15-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 15:25\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260218T173000
+DTEND;TZID=America/Los_Angeles:20260218T193500
+DTSTAMP:20260219T012300Z
+UID:ci0001864-tt32306991--2026-2-18-17-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 17:55\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260218T200000
+DTEND;TZID=America/Los_Angeles:20260218T220500
+DTSTAMP:20260219T035300Z
+UID:ci0001864-tt32306991--2026-2-18-20-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 20:25\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mardaani 3
 DTSTART;TZID=America/Los_Angeles:20260218T122500
 DTEND;TZID=America/Los_Angeles:20260218T150000
@@ -2739,30 +1474,44 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260218T152000
-DTEND;TZID=America/Los_Angeles:20260218T184500
-DTSTAMP:20260218T231300Z
-UID:ci0001864-tt31969779--2026-2-18-15-20
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 15:45\n\nIMDb rating: 6.8
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260218T121500
+DTEND;TZID=America/Los_Angeles:20260218T145000
+DTSTAMP:20260218T200800Z
+UID:ci0001864-tt33083471--2026-2-18-12-15
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 12:40\n\nIMDb rating: 4.6
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260218T185500
-DTEND;TZID=America/Los_Angeles:20260218T222000
-DTSTAMP:20260219T024800Z
-UID:ci0001864-tt31969779--2026-2-18-18-55
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 19:20\n\nIMDb rating: 6.8
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260218T153000
+DTEND;TZID=America/Los_Angeles:20260218T180500
+DTSTAMP:20260218T232300Z
+UID:ci0001864-tt33083471--2026-2-18-15-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 15:55\n\nIMDb rating: 4.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260218T183000
+DTEND;TZID=America/Los_Angeles:20260218T210500
+DTSTAMP:20260219T022300Z
+UID:ci0001864-tt33083471--2026-2-18-18-30
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 18:55\n\nIMDb rating: 4.6
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2795,55 +1544,13 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260218T121500
-DTEND;TZID=America/Los_Angeles:20260218T145000
-DTSTAMP:20260218T200800Z
-UID:ci0001864-tt33083471--2026-2-18-12-15
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 12:40\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260218T153000
-DTEND;TZID=America/Los_Angeles:20260218T180500
-DTSTAMP:20260218T232300Z
-UID:ci0001864-tt33083471--2026-2-18-15-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 15:55\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260218T183000
-DTEND;TZID=America/Los_Angeles:20260218T210500
-DTSTAMP:20260219T022300Z
-UID:ci0001864-tt33083471--2026-2-18-18-30
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 18:55\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Metropolitan Opera HD Live (2006)
 DTSTART;TZID=America/Los_Angeles:20260218T130000
 DTEND;TZID=America/Los_Angeles:20260218T152000
 DTSTAMP:20260218T205300Z
 UID:ci0001864-tt16987464--2026-2-18-13-0
 DESCRIPTION:Duration: 1h 51m (111 mins)\n\nhttps://www.imdb.com/title/tt16
- 987464/\n\nEstimated start: 13:25\n\nIMDb rating: 6.6
+ 987464/\n\nEstimated start: 13:25\n\nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2854,7 +1561,63 @@ DTEND;TZID=America/Los_Angeles:20260218T205000
 DTSTAMP:20260219T022300Z
 UID:ci0001864-tt16987464--2026-2-18-18-30
 DESCRIPTION:Duration: 1h 51m (111 mins)\n\nhttps://www.imdb.com/title/tt16
- 987464/\n\nEstimated start: 18:55\n\nIMDb rating: 6.6
+ 987464/\n\nEstimated start: 18:55\n\nIMDb rating: 6.4
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260219T120000
+DTEND;TZID=America/Los_Angeles:20260219T144500
+DTSTAMP:20260219T195300Z
+UID:ci0001864-tt32897959--2026-2-19-12-0
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:25\n\
+ nIMDb rating: 6.4
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260219T151000
+DTEND;TZID=America/Los_Angeles:20260219T175500
+DTSTAMP:20260219T230300Z
+UID:ci0001864-tt32897959--2026-2-19-15-10
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:35\n\
+ nIMDb rating: 6.4
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260219T161000
+DTEND;TZID=America/Los_Angeles:20260219T185500
+DTSTAMP:20260220T000300Z
+UID:ci0001864-tt32897959--2026-2-19-16-10
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:35\n\
+ nIMDb rating: 6.4
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wuthering Heights
+DTSTART;TZID=America/Los_Angeles:20260219T182000
+DTEND;TZID=America/Los_Angeles:20260219T210500
+DTSTAMP:20260220T021300Z
+UID:ci0001864-tt32897959--2026-2-19-18-20
+DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
+ e story set against the backdrop of the Yorkshire moors\, exploring the in
+ tense and destructive relationship between Heathcliff and Catherine Earnsh
+ aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 18:45\n\
+ nIMDb rating: 6.4
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2873,44 +1636,44 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260219T125000
-DTEND;TZID=America/Los_Angeles:20260219T152000
-DTSTAMP:20260219T204300Z
-UID:ci0001864-tt27564844--2026-2-19-12-50
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 13:15\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260219T123000
+DTEND;TZID=America/Los_Angeles:20260219T151500
+DTSTAMP:20260219T202300Z
+UID:ci0001864-tt32430579--2026-2-19-12-30
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 12:55\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260219T160000
-DTEND;TZID=America/Los_Angeles:20260219T183000
-DTSTAMP:20260219T235300Z
-UID:ci0001864-tt27564844--2026-2-19-16-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260219T155000
+DTEND;TZID=America/Los_Angeles:20260219T183500
+DTSTAMP:20260219T234300Z
+UID:ci0001864-tt32430579--2026-2-19-15-50
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 16:15\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iron Lung
-DTSTART;TZID=America/Los_Angeles:20260219T190000
-DTEND;TZID=America/Los_Angeles:20260219T213000
-DTSTAMP:20260220T025300Z
-UID:ci0001864-tt27564844--2026-2-19-19-0
-DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
- ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
- an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
-  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
- 4844/\n\nEstimated start: 19:25\n\nIMDb rating: 6.5
+SUMMARY:Crime 101
+DTSTART;TZID=America/Los_Angeles:20260219T191000
+DTEND;TZID=America/Los_Angeles:20260219T215500
+DTSTAMP:20260220T030300Z
+UID:ci0001864-tt32430579--2026-2-19-19-10
+DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
+ inal score\, encounters a disillusioned insurance broker at her own crossr
+ oads. As their paths intertwine\, a relentless detective trails them hopin
+ g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
+ mdb.com/title/tt32430579/\n\nEstimated start: 19:35\n\nIMDb rating: 7.2
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -2957,118 +1720,6 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260219T120000
-DTEND;TZID=America/Los_Angeles:20260219T144500
-DTSTAMP:20260219T195300Z
-UID:ci0001864-tt32897959--2026-2-19-12-0
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 12:25\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260219T151000
-DTEND;TZID=America/Los_Angeles:20260219T175500
-DTSTAMP:20260219T230300Z
-UID:ci0001864-tt32897959--2026-2-19-15-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 15:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260219T161000
-DTEND;TZID=America/Los_Angeles:20260219T185500
-DTSTAMP:20260220T000300Z
-UID:ci0001864-tt32897959--2026-2-19-16-10
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 16:35\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wuthering Heights
-DTSTART;TZID=America/Los_Angeles:20260219T182000
-DTEND;TZID=America/Los_Angeles:20260219T210500
-DTSTAMP:20260220T021300Z
-UID:ci0001864-tt32897959--2026-2-19-18-20
-DESCRIPTION:Duration: 2h 16m (136 mins)\n\nA passionate and tumultuous lov
- e story set against the backdrop of the Yorkshire moors\, exploring the in
- tense and destructive relationship between Heathcliff and Catherine Earnsh
- aw.\n\nhttps://www.imdb.com/title/tt32897959/\n\nEstimated start: 18:45\n\
- nIMDb rating: 6.3
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260219T124000
-DTEND;TZID=America/Los_Angeles:20260219T144500
-DTSTAMP:20260219T203300Z
-UID:ci0001864-tt32306991--2026-2-19-12-40
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 13:05\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260219T150000
-DTEND;TZID=America/Los_Angeles:20260219T170500
-DTSTAMP:20260219T225300Z
-UID:ci0001864-tt32306991--2026-2-19-15-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 15:25\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260219T173000
-DTEND;TZID=America/Los_Angeles:20260219T193500
-DTSTAMP:20260220T012300Z
-UID:ci0001864-tt32306991--2026-2-19-17-30
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 17:55\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solo Mio
-DTSTART;TZID=America/Los_Angeles:20260219T200000
-DTEND;TZID=America/Los_Angeles:20260219T220500
-DTSTAMP:20260220T035300Z
-UID:ci0001864-tt32306991--2026-2-19-20-0
-DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
-  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
- d by a determined local and a few meddling travelers-proving that sometime
- s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
- 91/\n\nEstimated start: 20:25\n\nIMDb rating: 7.5
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GOAT
 DTSTART;TZID=America/Los_Angeles:20260219T122000
 DTEND;TZID=America/Los_Angeles:20260219T142500
@@ -3078,7 +1729,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 12:45\n\nIMDb rating: 6.9
+ ed start: 12:45\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -3092,7 +1743,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 15:15\n\nIMDb rating: 6.9
+ ed start: 15:15\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -3106,7 +1757,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 17:45\n\nIMDb rating: 6.9
+ ed start: 17:45\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -3120,49 +1771,35 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 20:15\n\nIMDb rating: 6.9
+ ed start: 20:15\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260219T123000
-DTEND;TZID=America/Los_Angeles:20260219T151500
-DTSTAMP:20260219T202300Z
-UID:ci0001864-tt32430579--2026-2-19-12-30
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 12:55\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260219T152000
+DTEND;TZID=America/Los_Angeles:20260219T184500
+DTSTAMP:20260219T231300Z
+UID:ci0001864-tt31969779--2026-2-19-15-20
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 15:45\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260219T155000
-DTEND;TZID=America/Los_Angeles:20260219T183500
-DTSTAMP:20260219T234300Z
-UID:ci0001864-tt32430579--2026-2-19-15-50
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 16:15\n\nIMDb rating: 7.2
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crime 101
-DTSTART;TZID=America/Los_Angeles:20260219T191000
-DTEND;TZID=America/Los_Angeles:20260219T215500
-DTSTAMP:20260220T030300Z
-UID:ci0001864-tt32430579--2026-2-19-19-10
-DESCRIPTION:Duration: 2h 19m (139 mins)\n\nAn elusive thief\, eyeing his f
- inal score\, encounters a disillusioned insurance broker at her own crossr
- oads. As their paths intertwine\, a relentless detective trails them hopin
- g to thwart the multi-million dollar heist they are pl...\n\nhttps://www.i
- mdb.com/title/tt32430579/\n\nEstimated start: 19:35\n\nIMDb rating: 7.2
+SUMMARY:O' Romeo
+DTSTART;TZID=America/Los_Angeles:20260219T185500
+DTEND;TZID=America/Los_Angeles:20260219T222000
+DTSTAMP:20260220T024800Z
+UID:ci0001864-tt31969779--2026-2-19-18-55
+DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
+ he underworld rises amidst a changing city. This gritty tale explores the 
+ criminal landscape of a bygone era\, weaving through the streets and shado
+ ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
+ 9/\n\nEstimated start: 19:20\n\nIMDb rating: 6.5
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -3212,15 +1849,100 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mardaani 3
-DTSTART;TZID=America/Los_Angeles:20260219T122500
-DTEND;TZID=America/Los_Angeles:20260219T150000
-DTSTAMP:20260219T201800Z
-UID:ci0001864-tt27673536--2026-2-19-12-25
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
- here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
- missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
- mated start: 12:50\n\nIMDb rating: 7.6
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260219T125000
+DTEND;TZID=America/Los_Angeles:20260219T152000
+DTSTAMP:20260219T204300Z
+UID:ci0001864-tt27564844--2026-2-19-12-50
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 13:15\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260219T160000
+DTEND;TZID=America/Los_Angeles:20260219T183000
+DTSTAMP:20260219T235300Z
+UID:ci0001864-tt27564844--2026-2-19-16-0
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 16:25\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iron Lung
+DTSTART;TZID=America/Los_Angeles:20260219T190000
+DTEND;TZID=America/Los_Angeles:20260219T213000
+DTSTAMP:20260220T025300Z
+UID:ci0001864-tt27564844--2026-2-19-19-0
+DESCRIPTION:Duration: 2h 05m (125 mins)\n\nIn a post-apocalyptic future af
+ ter &quot\;The Quiet Rapture&quot\; event\, a convict explores a blood oce
+ an on a desolate moon using a submarine called the &quot\;Iron Lung&quot\;
+  to search for missing stars/planets.\n\nhttps://www.imdb.com/title/tt2756
+ 4844/\n\nEstimated start: 19:25\n\nIMDb rating: 6.5
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260219T124000
+DTEND;TZID=America/Los_Angeles:20260219T144500
+DTSTAMP:20260219T203300Z
+UID:ci0001864-tt32306991--2026-2-19-12-40
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 13:05\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260219T150000
+DTEND;TZID=America/Los_Angeles:20260219T170500
+DTSTAMP:20260219T225300Z
+UID:ci0001864-tt32306991--2026-2-19-15-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 15:25\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260219T173000
+DTEND;TZID=America/Los_Angeles:20260219T193500
+DTSTAMP:20260220T012300Z
+UID:ci0001864-tt32306991--2026-2-19-17-30
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 17:55\n\nIMDb rating: 7.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solo Mio
+DTSTART;TZID=America/Los_Angeles:20260219T200000
+DTEND;TZID=America/Los_Angeles:20260219T220500
+DTSTAMP:20260220T035300Z
+UID:ci0001864-tt32306991--2026-2-19-20-0
+DESCRIPTION:Duration: 1h 36m (96 mins)\n\nLeft heartbroken in Rome after a
+  wedding disaster\, a stranded groom finds his ruined honeymoon transforme
+ d by a determined local and a few meddling travelers-proving that sometime
+ s heartbreak is only the beginning.\n\nhttps://www.imdb.com/title/tt323069
+ 91/\n\nEstimated start: 20:25\n\nIMDb rating: 7.6
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -3267,30 +1989,43 @@ LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260219T152000
-DTEND;TZID=America/Los_Angeles:20260219T184500
-DTSTAMP:20260219T231300Z
-UID:ci0001864-tt31969779--2026-2-19-15-20
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 15:45\n\nIMDb rating: 6.8
+SUMMARY:Mardaani 3
+DTSTART;TZID=America/Los_Angeles:20260219T122500
+DTEND;TZID=America/Los_Angeles:20260219T150000
+DTSTAMP:20260219T201800Z
+UID:ci0001864-tt27673536--2026-2-19-12-25
+DESCRIPTION:Duration: 2h 09m (129 mins)\n\nIt is a race against time and t
+ here will be no mercy. Shivani Shivaji Roy is back to rescue girls who go 
+ missing without a trace.\n\nhttps://www.imdb.com/title/tt27673536/\n\nEsti
+ mated start: 12:50\n\nIMDb rating: 7.6
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O' Romeo
-DTSTART;TZID=America/Los_Angeles:20260219T185500
-DTEND;TZID=America/Los_Angeles:20260219T222000
-DTSTAMP:20260220T024800Z
-UID:ci0001864-tt31969779--2026-2-19-18-55
-DESCRIPTION:Duration: 2h 58m (178 mins)\n\nIn post-independence Mumbai\, t
- he underworld rises amidst a changing city. This gritty tale explores the 
- criminal landscape of a bygone era\, weaving through the streets and shado
- ws of India's bustling metropolis.\n\nhttps://www.imdb.com/title/tt3196977
- 9/\n\nEstimated start: 19:20\n\nIMDb rating: 6.8
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260219T154000
+DTEND;TZID=America/Los_Angeles:20260219T181500
+DTSTAMP:20260219T233300Z
+UID:ci0001864-tt33083471--2026-2-19-15-40
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 16:05\n\nIMDb rating: 4.6
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Funky
+DTSTART;TZID=America/Los_Angeles:20260219T184000
+DTEND;TZID=America/Los_Angeles:20260219T211500
+DTSTAMP:20260220T023300Z
+UID:ci0001864-tt33083471--2026-2-19-18-40
+DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
+  reality dims her dreams. A quirky local crew reignites her passion throug
+ h rehearsals\, jam sessions\, and street battles. With her new friends\, s
+ he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
+ imdb.com/title/tt33083471/\n\nEstimated start: 19:05\n\nIMDb rating: 4.6
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -3319,34 +2054,6 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\n\nVital intelligence leaked. The
  atedly. As tension mounted\, suspicion turned inward to the team itself. A
   silent battle unfolded amid trust and betrayal.\n\nhttps://www.imdb.com/t
  itle/tt36535318/\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260219T154000
-DTEND;TZID=America/Los_Angeles:20260219T181500
-DTSTAMP:20260219T233300Z
-UID:ci0001864-tt33083471--2026-2-19-15-40
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 16:05\n\nIMDb rating: 4.8
-LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
-  98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funky
-DTSTART;TZID=America/Los_Angeles:20260219T184000
-DTEND;TZID=America/Los_Angeles:20260219T211500
-DTSTAMP:20260220T023300Z
-UID:ci0001864-tt33083471--2026-2-19-18-40
-DESCRIPTION:Duration: 2h 08m (128 mins)\n\nMaya lives to dance\, but later
-  reality dims her dreams. A quirky local crew reignites her passion throug
- h rehearsals\, jam sessions\, and street battles. With her new friends\, s
- he learns to embrace the chaos and be unapologetically ...\n\nhttps://www.
- imdb.com/title/tt33083471/\n\nEstimated start: 19:05\n\nIMDb rating: 4.8
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -3416,7 +2123,7 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA small goat with big dreams ge
  ts a once-in-a-lifetime shot to join the pros and play roarball\, a high-i
  ntensity\, co-ed\, full-contact sport dominated by the fastest\, fiercest 
  animals in the world.\n\nhttps://www.imdb.com/title/tt27613895/\n\nEstimat
- ed start: 12:25\n\nIMDb rating: 6.9
+ ed start: 12:25\n\nIMDb rating: 7
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
@@ -4253,6 +2960,188 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\n\nMinions Stuart\, Kevin\, and Bob
   are recruited by Scarlet Overkill\, a supervillain who\, alongside her in
  ventor husband Herb\, hatches a plot to take over the world.\n\nhttps://ww
  w.imdb.com/title/tt2293640/\n\nEstimated start: 14:55\n\nIMDb rating: 6.4
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260302T120000
+DTEND;TZID=America/Los_Angeles:20260302T142000
+DTSTAMP:20260302T195300Z
+UID:ci0001864-tt27047903--2026-3-2-12-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260302T133000
+DTEND;TZID=America/Los_Angeles:20260302T155000
+DTSTAMP:20260302T212300Z
+UID:ci0001864-tt27047903--2026-3-2-13-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260302T145000
+DTEND;TZID=America/Los_Angeles:20260302T171000
+DTSTAMP:20260302T224300Z
+UID:ci0001864-tt27047903--2026-3-2-14-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260302T162000
+DTEND;TZID=America/Los_Angeles:20260302T184000
+DTSTAMP:20260303T001300Z
+UID:ci0001864-tt27047903--2026-3-2-16-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260302T174000
+DTEND;TZID=America/Los_Angeles:20260302T200000
+DTSTAMP:20260303T013300Z
+UID:ci0001864-tt27047903--2026-3-2-17-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260302T191000
+DTEND;TZID=America/Los_Angeles:20260302T213000
+DTSTAMP:20260303T030300Z
+UID:ci0001864-tt27047903--2026-3-2-19-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260302T203000
+DTEND;TZID=America/Los_Angeles:20260302T225000
+DTSTAMP:20260303T042300Z
+UID:ci0001864-tt27047903--2026-3-2-20-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 20:55
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260303T120000
+DTEND;TZID=America/Los_Angeles:20260303T142000
+DTSTAMP:20260303T195300Z
+UID:ci0001864-tt27047903--2026-3-3-12-0
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260303T133000
+DTEND;TZID=America/Los_Angeles:20260303T155000
+DTSTAMP:20260303T212300Z
+UID:ci0001864-tt27047903--2026-3-3-13-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260303T145000
+DTEND;TZID=America/Los_Angeles:20260303T171000
+DTSTAMP:20260303T224300Z
+UID:ci0001864-tt27047903--2026-3-3-14-50
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260303T162000
+DTEND;TZID=America/Los_Angeles:20260303T184000
+DTSTAMP:20260304T001300Z
+UID:ci0001864-tt27047903--2026-3-3-16-20
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260303T174000
+DTEND;TZID=America/Los_Angeles:20260303T200000
+DTSTAMP:20260304T013300Z
+UID:ci0001864-tt27047903--2026-3-3-17-40
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260303T191000
+DTEND;TZID=America/Los_Angeles:20260303T213000
+DTSTAMP:20260304T030300Z
+UID:ci0001864-tt27047903--2026-3-3-19-10
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
+  98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scream 7
+DTSTART;TZID=America/Los_Angeles:20260303T203000
+DTEND;TZID=America/Los_Angeles:20260303T225000
+DTSTAMP:20260304T042300Z
+UID:ci0001864-tt27047903--2026-3-3-20-30
+DESCRIPTION:Duration: 1h 54m (114 mins)\n\nWhen a new Ghostface killer eme
+ rges in the town where Sidney Prescott has built a new life\, her darkest 
+ fears are realized as her daughter becomes the next target.\n\nhttps://www
+ .imdb.com/title/tt27047903/\n\nEstimated start: 20:55
 LOCATION:Regal Bella Bottega\, Redmond\, 8890 NE 161st Avenue\, Redmond WA
   98052
 END:VEVENT
