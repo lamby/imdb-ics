@@ -237,7 +237,6 @@ class ImdbICS:
             ):
                 title = self.text(elem, ".info h3, h3.ipc-title__text")
 
-
                 for needle in strip_suffixes:
                     if title.endswith(needle):
                         title = title[: -len(needle)]
@@ -247,7 +246,11 @@ class ImdbICS:
                     "div.li-title-metadata > span.li-title-metadata-item:nth-child(1)",
                 )
 
-                year = int(re.search(r"^(\d{4})", year_raw).group(1))
+                try:
+                    year = int(re.search(r"^(\d{4})", year_raw).group(1))
+                except AttributeError:
+                    # No year; ignore for now
+                    continue
 
                 try:
                     href = self.attr(
