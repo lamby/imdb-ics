@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260220T162010Z
-BEGIN:VEVENT
-SUMMARY:Memories of Underdevelopment (1968)
-DTSTART;TZID=America/Los_Angeles:20260220T160000
-DTEND;TZID=America/Los_Angeles:20260220T180500
-DTSTAMP:20260220T235300Z
-UID:ci1024213-tt0063291--2026-2-20-16-0
-DESCRIPTION:Duration: 1h 37m (97 mins)\n\nA Cuban man cycles through his o
- pinions and memories as the threat of foreign invasion intensifies and the
-  rest of his family moves to Miami.\n\nhttps://www.imdb.com/title/tt006329
- 1/\n\nEstimated start: 16:25\n\nIMDb rating: 7.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Litan (1982)
-DTSTART;TZID=America/Los_Angeles:20260220T220000
-DTEND;TZID=America/Los_Angeles:20260220T235500
-DTSTAMP:20260221T055300Z
-UID:ci1024213-tt0163716--2026-2-20-22-0
-DESCRIPTION:Duration: 1h 28m (88 mins)\n\nMarried couple Jock and Nora vis
- it the town of Litan during its Carnival celebration. After having a night
- mare of Jock's death\, Nora sets out to find him but encounters strange pe
- ople and dangerous events erupting all over town.\n\nhttps://www.imdb.com/
- title/tt0163716/\n\nEstimated start: 22:25\n\nIMDb rating: 6.1
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260221T162034Z
 BEGIN:VEVENT
 SUMMARY:Memories of Underdevelopment (1968)
 DTSTART;TZID=America/Los_Angeles:20260221T190000
