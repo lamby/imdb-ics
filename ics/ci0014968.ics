@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 iPic Theaters at Redmond Town Center
 X-WR-CALNAME:iPic Theaters at Redmond Town Center\, Redmond
-LAST-MODIFIED:20260223T162747Z
+LAST-MODIFIED:20260224T161837Z
 BEGIN:VEVENT
 SUMMARY:Wuthering Heights
 DTSTART;TZID=America/Los_Angeles:20260224T151500
@@ -169,7 +169,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDisowned at birth by his obscen
  ely wealthy family\, blue-collar Becket Redfellow will stop at nothing to 
  reclaim his inheritance\, no matter how many relatives stand in his way.\n
  \nhttps://www.imdb.com/title/tt4357198/\n\nEstimated start: 16:40\n\nIMDb 
- rating: 6.8
+ rating: 6.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -183,7 +183,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDisowned at birth by his obscen
  ely wealthy family\, blue-collar Becket Redfellow will stop at nothing to 
  reclaim his inheritance\, no matter how many relatives stand in his way.\n
  \nhttps://www.imdb.com/title/tt4357198/\n\nEstimated start: 19:55\n\nIMDb 
- rating: 6.8
+ rating: 6.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -366,7 +366,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDisowned at birth by his obscen
  ely wealthy family\, blue-collar Becket Redfellow will stop at nothing to 
  reclaim his inheritance\, no matter how many relatives stand in his way.\n
  \nhttps://www.imdb.com/title/tt4357198/\n\nEstimated start: 16:40\n\nIMDb 
- rating: 6.8
+ rating: 6.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -380,7 +380,7 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nDisowned at birth by his obscen
  ely wealthy family\, blue-collar Becket Redfellow will stop at nothing to 
  reclaim his inheritance\, no matter how many relatives stand in his way.\n
  \nhttps://www.imdb.com/title/tt4357198/\n\nEstimated start: 19:55\n\nIMDb 
- rating: 6.8
+ rating: 6.7
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -594,6 +594,34 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260305T153000
+DTEND;TZID=America/Los_Angeles:20260305T180500
+DTSTAMP:20260305T232300Z
+UID:ci0014968-tt30851137--2026-3-5-15-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 15:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260305T190000
+DTEND;TZID=America/Los_Angeles:20260305T213500
+DTSTAMP:20260306T025300Z
+UID:ci0014968-tt30851137--2026-3-5-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hoppers
 DTSTART;TZID=America/Los_Angeles:20260305T150000
 DTEND;TZID=America/Los_Angeles:20260305T171000
@@ -616,6 +644,48 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA 19-year-old animal lover uses
   technology that places her consciousness into a robotic beaver to uncover
   mysteries within the animal world beyond her imagination.\n\nhttps://www.
  imdb.com/title/tt26443616/\n\nEstimated start: 18:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260306T153000
+DTEND;TZID=America/Los_Angeles:20260306T180500
+DTSTAMP:20260306T232300Z
+UID:ci0014968-tt30851137--2026-3-6-15-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 15:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260306T190000
+DTEND;TZID=America/Los_Angeles:20260306T213500
+DTSTAMP:20260307T025300Z
+UID:ci0014968-tt30851137--2026-3-6-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260306T223000
+DTEND;TZID=America/Los_Angeles:20260307T010500
+DTSTAMP:20260307T062300Z
+UID:ci0014968-tt30851137--2026-3-6-22-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 22:55
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -655,6 +725,62 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA 19-year-old animal lover uses
   technology that places her consciousness into a robotic beaver to uncover
   mysteries within the animal world beyond her imagination.\n\nhttps://www.
  imdb.com/title/tt26443616/\n\nEstimated start: 21:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260307T114500
+DTEND;TZID=America/Los_Angeles:20260307T142000
+DTSTAMP:20260307T193800Z
+UID:ci0014968-tt30851137--2026-3-7-11-45
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 12:10
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260307T153000
+DTEND;TZID=America/Los_Angeles:20260307T180500
+DTSTAMP:20260307T232300Z
+UID:ci0014968-tt30851137--2026-3-7-15-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 15:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260307T190000
+DTEND;TZID=America/Los_Angeles:20260307T213500
+DTSTAMP:20260308T025300Z
+UID:ci0014968-tt30851137--2026-3-7-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260307T223000
+DTEND;TZID=America/Los_Angeles:20260308T010500
+DTSTAMP:20260308T062300Z
+UID:ci0014968-tt30851137--2026-3-7-22-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 22:55
 LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
  Street\, Redmond WA 98052
 END:VEVENT
@@ -711,6 +837,48 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260308T114500
+DTEND;TZID=America/Los_Angeles:20260308T142000
+DTSTAMP:20260308T193800Z
+UID:ci0014968-tt30851137--2026-3-8-11-45
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 12:10
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260308T153000
+DTEND;TZID=America/Los_Angeles:20260308T180500
+DTSTAMP:20260308T232300Z
+UID:ci0014968-tt30851137--2026-3-8-15-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 15:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260308T190000
+DTEND;TZID=America/Los_Angeles:20260308T213500
+DTSTAMP:20260309T025300Z
+UID:ci0014968-tt30851137--2026-3-8-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hoppers
 DTSTART;TZID=America/Los_Angeles:20260308T120000
 DTEND;TZID=America/Los_Angeles:20260308T141000
@@ -750,6 +918,34 @@ LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th
  Street\, Redmond WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260310T153000
+DTEND;TZID=America/Los_Angeles:20260310T180500
+DTSTAMP:20260310T232300Z
+UID:ci0014968-tt30851137--2026-3-10-15-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 15:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260310T190000
+DTEND;TZID=America/Los_Angeles:20260310T213500
+DTSTAMP:20260311T025300Z
+UID:ci0014968-tt30851137--2026-3-10-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hoppers
 DTSTART;TZID=America/Los_Angeles:20260310T150000
 DTEND;TZID=America/Los_Angeles:20260310T171000
@@ -768,6 +964,60 @@ DTSTART;TZID=America/Los_Angeles:20260310T180000
 DTEND;TZID=America/Los_Angeles:20260310T201000
 DTSTAMP:20260311T015300Z
 UID:ci0014968-tt26443616--2026-3-10-18-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA 19-year-old animal lover uses
+  technology that places her consciousness into a robotic beaver to uncover
+  mysteries within the animal world beyond her imagination.\n\nhttps://www.
+ imdb.com/title/tt26443616/\n\nEstimated start: 18:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260311T153000
+DTEND;TZID=America/Los_Angeles:20260311T180500
+DTSTAMP:20260311T232300Z
+UID:ci0014968-tt30851137--2026-3-11-15-30
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 15:55
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bride!
+DTSTART;TZID=America/Los_Angeles:20260311T190000
+DTEND;TZID=America/Los_Angeles:20260311T213500
+DTSTAMP:20260312T025300Z
+UID:ci0014968-tt30851137--2026-3-11-19-0
+DESCRIPTION:Duration: 2h 06m (126 mins)\n\nIn 1930s Chicago\, Frankenstein
+  asks Dr. Euphronius to help create a companion. They give life to a murde
+ red woman as the Bride\, sparking romance\, police interest\, and radical 
+ social change.\n\nhttps://www.imdb.com/title/tt30851137/\n\nEstimated star
+ t: 19:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoppers
+DTSTART;TZID=America/Los_Angeles:20260311T150000
+DTEND;TZID=America/Los_Angeles:20260311T171000
+DTSTAMP:20260311T225300Z
+UID:ci0014968-tt26443616--2026-3-11-15-0
+DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA 19-year-old animal lover uses
+  technology that places her consciousness into a robotic beaver to uncover
+  mysteries within the animal world beyond her imagination.\n\nhttps://www.
+ imdb.com/title/tt26443616/\n\nEstimated start: 15:25
+LOCATION:iPic Theaters at Redmond Town Center\, Redmond\, 16451 N.E. 74th 
+ Street\, Redmond WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoppers
+DTSTART;TZID=America/Los_Angeles:20260311T180000
+DTEND;TZID=America/Los_Angeles:20260311T201000
+DTSTAMP:20260312T015300Z
+UID:ci0014968-tt26443616--2026-3-11-18-0
 DESCRIPTION:Duration: 1h 45m (105 mins)\n\nA 19-year-old animal lover uses
   technology that places her consciousness into a robotic beaver to uncover
   mysteries within the animal world beyond her imagination.\n\nhttps://www.
