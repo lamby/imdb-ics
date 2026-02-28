@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260227T160156Z
-BEGIN:VEVENT
-SUMMARY:Le Pont du Nord (1981)
-DTSTART;TZID=America/Los_Angeles:20260227T190000
-DTEND;TZID=America/Los_Angeles:20260227T213500
-DTSTAMP:20260228T025300Z
-UID:ci1024213-tt0082927--2026-2-27-19-0
-DESCRIPTION:Duration: 2h 09m (129 mins)\n\nYoung unhinged female ex-con wi
- th a motorcycle helps a sickly young homeless woman in red discover what t
- he map of Paris she took from her gangster boyfriend leads to.\n\nhttps://
- www.imdb.com/title/tt0082927/\n\nEstimated start: 19:25\n\nIMDb rating: 6.
- 7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260228T162831Z
 BEGIN:VEVENT
 SUMMARY:Le Pont du Nord (1981)
 DTSTART;TZID=America/Los_Angeles:20260228T190000
@@ -223,6 +210,18 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\n\nTwo criminals on the run end up
   working in a rice field and decide to recruit other workers for their nex
  t robbery.\n\nhttps://www.imdb.com/title/tt0040737/\n\nEstimated start: 19
  :25\n\nIMDb rating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mortal Storm (1940)
+DTSTART;TZID=America/Los_Angeles:20260315T140000
+DTEND;TZID=America/Los_Angeles:20260315T160500
+DTSTAMP:20260315T215300Z
+UID:ci1024213-tt0032811--2026-3-15-14-0
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nThe Roth family leads a quiet l
+ ife in a small Alpine village until they are divided by the Nazi regime an
+ d a friend is caught up in the turmoil.\n\nhttps://www.imdb.com/title/tt00
+ 32811/\n\nEstimated start: 14:25\n\nIMDb rating: 7.7
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
