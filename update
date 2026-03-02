@@ -38,6 +38,7 @@ class ImdbICS:
             "name": "Regal Bella Bottega, Redmond",
             "id": "ci0001864",
             "timezone": "America/Los_Angeles",
+            "days": 60,
         },
         {
             "name": "iPic Theaters at Redmond Town Center, Redmond",
@@ -217,7 +218,7 @@ class ImdbICS:
         cal.add("last-modified", datetime.datetime.now(datetime.UTC))
 
         num_events_venue = 0
-        for idx in range(self.DAYS):
+        for idx in range(venue.get("days", self.DAYS)):
             date = self.START + datetime.timedelta(days=idx)
             logging.info(f"Getting showtimes for '{venue['name']}' on {date}")
 
