@@ -5,6 +5,7 @@
 # TODO: Parse all cinemas, then parse film info to put into the description.
 
 import datetime
+import browser_cookie3
 import logging
 import re
 import time
@@ -18,6 +19,7 @@ import slugify
 import yaml
 
 from bs4 import BeautifulSoup
+from fake_useragent import UserAgent
 from lxml import etree
 from rich.logging import RichHandler
 from rich.progress import track
@@ -27,6 +29,7 @@ re_runtime = re.compile(r"^(?P<hours>\d+)\s*hrs?\s+(?P<minutes>\d+)mins?$")
 re_start_time = re.compile(r"^(?P<hour>\d+):(?P<minutes>\d\d)\s+(?P<period>AM|PM)$")
 re_duration = re.compile(r"^PT(?P<minutes>\d+)M$")
 re_duration_new = re.compile(r"^(?:(?P<hours>\d+)h)?\s*(?:(?P<minutes>\d+)m)?$")
+
 
 class ImdbICS:
     PADDING = 25  # minutes
@@ -106,6 +109,11 @@ class ImdbICS:
         self.session = requests.Session()
         self.title_info = {}  # str → dict
 
+        self.cookies = {}
+        self.headers = {
+            "User-Agent": UserAgent().chrome,
+        }
+
     def main(self):
         logging.info(f"Getting info from {len(self.VENUES)} venues")
 
@@ -121,13 +129,7 @@ class ImdbICS:
 
     def get_soup(self, url, attempts=3, debug=None):
         while True:
-            r = self.session.get(
-                url,
-                headers={
-                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-                    "Accept-Language": "en-US,en;q=0.9,it;q=0.8",
-                },
-            )
+            r = self.session.get(url, headers=self.headers, cookies=self.cookies)
 
             if debug is not None:
                 with open(f"/tmp/{debug}", "wb") as f:
@@ -138,12 +140,13 @@ class ImdbICS:
 
             if attempts == 1:
                 logging.warning(f"Out of HTTP attempts for this URL; raising error")
-                r.raise_for_status()
+                assert False
 
-            logging.warning(f"Did not get HTTP 200 (got {r.status_code}); will re-attempt after sleep; debug /tmp/{debug}")
+            logging.warning(
+                f"Did not get HTTP 200 (got {r.status_code}); will re-attempt #{attempts} after sleep; debug /tmp/{debug}"
+            )
             attempts -= 1
-            time.sleep(3)
-
+            time.sleep(10)
 
         return BeautifulSoup(r.content, "html.parser")
 
@@ -170,17 +173,40 @@ class ImdbICS:
 
         logging.info(f"Getting info for IMDB title '{imdb_title_id}'")
 
-        url = f"https://www.imdb.com/title/{imdb_title_id}/"
+        if False:
+            # Old
+            url = f"https://www.imdb.com/title/{imdb_title_id}/"
+            root = self.get_soup(url, debug="imdb-ics-title.html", attempts=20)
 
-        root = self.get_soup(url, debug="imdb-ics-title.html")
-        raw = root.select_one('script[type="application/ld+json"]').text
+            raw = root.select_one('script[type="application/ld+json"]').text
+            data = json.loads(raw)
+            logging.debug(f"Downloaded info for '{data['name']}'")
 
-        data = json.loads(raw)
-        logging.debug(f"Downloaded info for '{data['name']}'")
+        else:
+            # New
+            url = f"https://m.imdb.com/showtimes/title/{imdb_title_id}/"
+
+            root = self.get_soup(url, debug="imdb-ics-title.html", attempts=20)
+
+            data = {
+                "name": root.select_one("h2").text,
+                "url": f"https://www.imdb.com/title/{imdb_title_id}/",
+            }
+
+            try:
+                data["description"] = root.select_one(
+                    "div.title-description-plot-container"
+                ).text
+            except AttributeError:
+                pass
+
+            try:
+                rating = root.select_one(".ipc-rating-star--rating").text
+                data["aggregateRating"] = {"ratingValue": rating}
+            except AttributeError:
+                pass
 
         self.title_info[imdb_title_id] = data
-
-        return self.title_info[imdb_title_id]
 
     def get_ics(self, venue):
         base_url = f"https://www.imdb.com/showtimes/cinema/US/{venue['id']}/"
@@ -212,7 +238,7 @@ class ImdbICS:
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
-        name_for_display = venue['name'].split(',', 1)[0]
+        name_for_display = venue["name"].split(",", 1)[0]
         cal.add("name", f"Cinema 🇺🇸 {name_for_display}")
         cal.add("x-wr-calname", venue["name"])
         cal.add("last-modified", datetime.datetime.now(datetime.UTC))
@@ -279,23 +305,26 @@ class ImdbICS:
                             raise IndexError()
                         runtime = self.parse_duration(candidate)
                     except (IndexError, AttributeError):
-                        logging.warning(f"Assuming a standard duration for {imdb_title_id}")
+                        logging.warning(
+                            f"Assuming a standard duration for {imdb_title_id}"
+                        )
                         runtime = 120
-
 
                 for x in elem.find_all("span", string=re_start_time):
                     group = x.parent.parent.parent.parent
 
                     suffix = (
-                        group.select_one("div:nth-child(1) > div:nth-child(1)").text
-                        .strip("():")
+                        group.select_one("div:nth-child(1) > div:nth-child(1)")
+                        .text.strip("():")
                         .replace("Standard", "")
                     )
 
                     try:
                         hour, minute = self.parse_showtime(x.text)
                     except ValueError:
-                        raise ValueError(f"Could not parse showtime {x.text!r} within group {group!r}")
+                        raise ValueError(
+                            f"Could not parse showtime {x.text!r} within group {group!r}"
+                        )
 
                     if suffix:
                         suffix = f" ({suffix})"
@@ -352,9 +381,7 @@ class ImdbICS:
                         f"Duration: {hours}h {minutes:02d}m ({runtime} mins)"
                     )
                     try:
-                        description.append(
-                            data["description"].replace("&apos;", "'")
-                        )
+                        description.append(data["description"].replace("&apos;", "'"))
                     except KeyError:
                         pass
                     description.append(data["url"])
@@ -378,11 +405,6 @@ class ImdbICS:
             logging.debug(
                 f"Found {num_events_date} events for {venue['name']} on {date}"
             )
-
-            if num_events_date == 0 and venue["id"] == "ci0001864":
-                raise click.ClickException(
-                    "No events for local cinema; exiting. Debug in /tmp"
-                )
 
         fn = logging.warning if num_events_venue == 0 else logging.debug
         fn(f"Found {num_events_venue} total events for {venue['name']}")
