@@ -258,10 +258,13 @@ class ImdbICS:
                     if title.endswith(needle):
                         title = title[: -len(needle)]
 
-                year_raw = self.text(
-                    elem,
-                    "div.li-title-metadata > span.li-title-metadata-item:nth-child(1)",
-                )
+                try:
+                    year_raw = self.text(
+                        elem,
+                        "div.li-title-metadata > span.li-title-metadata-item:nth-child(1)",
+                    )
+                except IndexError:
+                    continue
 
                 try:
                     year = int(re.search(r"^(\d{4})", year_raw).group(1))
