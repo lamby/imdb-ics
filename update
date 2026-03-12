@@ -261,9 +261,10 @@ class ImdbICS:
                 try:
                     year_raw = self.text(
                         elem,
-                        "div.li-title-metadata > span.li-title-metadata-item:nth-child(1)",
+                        "span.li-title-metadata-item:nth-child(1)"
                     )
                 except IndexError:
+                    # No year; ignore for now
                     continue
 
                 try:
@@ -284,24 +285,19 @@ class ImdbICS:
                 self.populate_title_info(imdb_title_id)
 
                 try:
-                    runtime = self.parse_duration(
-                        self.attr(elem, "time[itemprop=duration]", "datetime")
+                    candidate = self.text(
+                        elem,
+                        "span.li-title-metadata-item:nth-child(2)",
                     )
-                except IndexError:
-                    try:
-                        candidate = self.text(
-                            elem,
-                            "div.li-title-metadata > span.li-title-metadata-item:nth-child(2)",
-                        )
 
-                        if candidate == "R":
-                            raise IndexError()
-                        runtime = self.parse_duration(candidate)
-                    except (IndexError, AttributeError):
-                        logging.warning(
-                            f"Assuming a standard duration for {imdb_title_id}"
-                        )
-                        runtime = 120
+                    if candidate == "R":
+                        raise IndexError()
+                    runtime = self.parse_duration(candidate)
+                except (IndexError, AttributeError):
+                    logging.warning(
+                        f"Assuming a standard duration for {imdb_title_id}"
+                    )
+                    runtime = 120
 
                 for x in elem.find_all("span", string=re_start_time):
                     group = x.parent.parent.parent.parent
