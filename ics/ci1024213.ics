@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260314T162713Z
-BEGIN:VEVENT
-SUMMARY:Bitter Rice (1949)
-DTSTART;TZID=America/Los_Angeles:20260314T190000
-DTEND;TZID=America/Los_Angeles:20260314T211500
-DTSTAMP:20260315T025300Z
-UID:ci1024213-tt0040737--2026-3-14-19-0
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nTwo criminals on the run end up
-  working in a rice field and decide to recruit other workers for their nex
- t robbery.\n\nhttps://www.imdb.com/title/tt0040737/\n\nEstimated start: 19
- :25\n\nIMDb rating: 7.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260315T154734Z
 BEGIN:VEVENT
 SUMMARY:The Mortal Storm (1940)
 DTSTART;TZID=America/Los_Angeles:20260315T140000
@@ -294,6 +282,20 @@ DESCRIPTION:Duration: 7h 19m (439 mins)\n\nOn the eve of a large payment\,
  ation when they discover that Irimiás\, a former co-worker who they thoug
  ht was dead\, is returning to the community.\n\nhttps://www.imdb.com/title
  /tt0111341/\n\nEstimated start: 11:25\n\nIMDb rating: 8.2
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Divine Hammer
+DTSTART;TZID=America/Los_Angeles:20260330T193000
+DTEND;TZID=America/Los_Angeles:20260330T211000
+DTSTAMP:20260331T032300Z
+UID:ci1024213-tt39181661--2026-3-30-19-30
+DESCRIPTION:Duration: 1h 12m (72 mins)\n\nTwo maladapted young women\, bot
+ h part of the same online gore enthusiast community\, formulate a plan to 
+ meet in person with the intent that one will kill the other\, film the kil
+ ling\, and sell the cameras that "watched" online to an unsuspecting custo
+ mer in the hopes of spurring on a "new era of death."\n\nhttps://www.imdb.
+ com/title/tt39181661/\n\nEstimated start: 19:55
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
