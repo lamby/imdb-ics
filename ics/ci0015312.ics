@@ -3,45 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-LAST-MODIFIED:20260315T154945Z
-BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel (2014)
-DTSTART;TZID=America/Los_Angeles:20260315T160000
-DTEND;TZID=America/Los_Angeles:20260315T180500
-DTSTAMP:20260315T235300Z
-UID:ci0015312-tt2278388--2026-3-15-16-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA writer encounters the owner of
-  an aging high-class hotel\, who tells him of his early years serving as a
-  lobby boy in the hotel's glorious years under an exceptional concierge.\n
- \nhttps://www.imdb.com/title/tt2278388/\n\nEstimated start: 16:25\n\nIMDb 
- rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel (2014)
-DTSTART;TZID=America/Los_Angeles:20260315T190000
-DTEND;TZID=America/Los_Angeles:20260315T210500
-DTSTAMP:20260316T025300Z
-UID:ci0015312-tt2278388--2026-3-15-19-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA writer encounters the owner of
-  an aging high-class hotel\, who tells him of his early years serving as a
-  lobby boy in the hotel's glorious years under an exceptional concierge.\n
- \nhttps://www.imdb.com/title/tt2278388/\n\nEstimated start: 19:25\n\nIMDb 
- rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shaft (1971)
-DTSTART;TZID=America/Los_Angeles:20260315T213000
-DTEND;TZID=America/Los_Angeles:20260315T233500
-DTSTAMP:20260316T052300Z
-UID:ci0015312-tt0067741--2026-3-15-21-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA crime lord hires black privat
- e eye\, John Shaft\, to find and retrieve his kidnapped daughter.\n\nhttps
- ://www.imdb.com/title/tt0067741/\n\nEstimated start: 21:55\n\nIMDb rating:
-  6.6
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
+LAST-MODIFIED:20260316T161734Z
 BEGIN:VEVENT
 SUMMARY:The Grand Budapest Hotel (2014)
 DTSTART;TZID=America/Los_Angeles:20260316T160000

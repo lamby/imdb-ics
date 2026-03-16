@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260315T154734Z
-BEGIN:VEVENT
-SUMMARY:The Mortal Storm (1940)
-DTSTART;TZID=America/Los_Angeles:20260315T140000
-DTEND;TZID=America/Los_Angeles:20260315T160500
-DTSTAMP:20260315T215300Z
-UID:ci1024213-tt0032811--2026-3-15-14-0
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nThe Roth family leads a quiet l
- ife in a small Alpine village until they are divided by the Nazi regime an
- d a friend is caught up in the turmoil.\n\nhttps://www.imdb.com/title/tt00
- 32811/\n\nEstimated start: 14:25\n\nIMDb rating: 7.7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260316T161516Z
 BEGIN:VEVENT
 SUMMARY:Harold and Maude (1971)
 DTSTART;TZID=America/Los_Angeles:20260316T193000
@@ -296,6 +284,35 @@ DESCRIPTION:Duration: 1h 12m (72 mins)\n\nTwo maladapted young women\, bot
  ling\, and sell the cameras that "watched" online to an unsuspecting custo
  mer in the hopes of spurring on a "new era of death."\n\nhttps://www.imdb.
  com/title/tt39181661/\n\nEstimated start: 19:55
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cecil B. Demented (2000)
+DTSTART;TZID=America/Los_Angeles:20260331T163000
+DTEND;TZID=America/Los_Angeles:20260331T182500
+DTSTAMP:20260401T002300Z
+UID:ci1024213-tt0173716--2026-3-31-16-30
+DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAn insane independent film direc
+ tor and his renegade group of teenage filmmakers kidnap an A-list Hollywoo
+ d actress and force her to star in their underground film.\n\nhttps://www.
+ imdb.com/title/tt0173716/\n\nEstimated start: 16:55\n\nIMDb rating: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emma Mae (1976)
+DTSTART;TZID=America/Los_Angeles:20260331T193000
+DTEND;TZID=America/Los_Angeles:20260331T213500
+DTSTAMP:20260401T032300Z
+UID:ci1024213-tt0074477--2026-3-31-19-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA Naive Country Girl from Missi
+ ssippi comes to town with an aunt to the Big City. She takes up with her f
+ amily and goes out with them and meets a guy. A loser\, pill-popping head 
+ nothing who is involved with the local street gang. She Falls in love with
+  him\, but he gets arrested and goes to jail. With the $5K bail over his h
+ ead\, she tries a couple of ways both good and bad to raise money to get h
+ im out only to learn he really is a loser and doesn't love her. She proves
+  for a Country Girl she is smart and resourceful.\n\nhttps://www.imdb.com/
+ title/tt0074477/\n\nEstimated start: 19:55\n\nIMDb rating: 6.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
