@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260316T161516Z
-BEGIN:VEVENT
-SUMMARY:Harold and Maude (1971)
-DTSTART;TZID=America/Los_Angeles:20260316T193000
-DTEND;TZID=America/Los_Angeles:20260316T213000
-DTSTAMP:20260317T032300Z
-UID:ci1024213-tt0067185--2026-3-16-19-30
-DESCRIPTION:Duration: 1h 31m (91 mins)\n\nYoung\, rich\, and obsessed with
-  death\, Harold finds himself changed forever when he meets lively septuag
- enarian Maude at a funeral.\n\nhttps://www.imdb.com/title/tt0067185/\n\nEs
- timated start: 19:55\n\nIMDb rating: 7.8
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Mortal Storm (1940)
-DTSTART;TZID=America/Los_Angeles:20260316T163000
-DTEND;TZID=America/Los_Angeles:20260316T183500
-DTSTAMP:20260317T002300Z
-UID:ci1024213-tt0032811--2026-3-16-16-30
-DESCRIPTION:Duration: 1h 40m (100 mins)\n\nThe Roth family leads a quiet l
- ife in a small Alpine village until they are divided by the Nazi regime an
- d a friend is caught up in the turmoil.\n\nhttps://www.imdb.com/title/tt00
- 32811/\n\nEstimated start: 16:55\n\nIMDb rating: 7.7
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260317T174602Z
 BEGIN:VEVENT
 SUMMARY:Harold and Maude (1971)
 DTSTART;TZID=America/Los_Angeles:20260317T163000
@@ -313,6 +289,23 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA Naive Country Girl from Missi
  im out only to learn he really is a loser and doesn't love her. She proves
   for a Country Girl she is smart and resourceful.\n\nhttps://www.imdb.com/
  title/tt0074477/\n\nEstimated start: 19:55\n\nIMDb rating: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emma Mae (1976)
+DTSTART;TZID=America/Los_Angeles:20260401T163000
+DTEND;TZID=America/Los_Angeles:20260401T183500
+DTSTAMP:20260402T002300Z
+UID:ci1024213-tt0074477--2026-4-1-16-30
+DESCRIPTION:Duration: 1h 40m (100 mins)\n\nA Naive Country Girl from Missi
+ ssippi comes to town with an aunt to the Big City. She takes up with her f
+ amily and goes out with them and meets a guy. A loser\, pill-popping head 
+ nothing who is involved with the local street gang. She Falls in love with
+  him\, but he gets arrested and goes to jail. With the $5K bail over his h
+ ead\, she tries a couple of ways both good and bad to raise money to get h
+ im out only to learn he really is a loser and doesn't love her. She proves
+  for a Country Girl she is smart and resourceful.\n\nhttps://www.imdb.com/
+ title/tt0074477/\n\nEstimated start: 16:55\n\nIMDb rating: 6.3
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
