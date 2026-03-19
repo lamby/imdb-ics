@@ -3,20 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Central Cinema
 X-WR-CALNAME:Central Cinema\, Seattle
-LAST-MODIFIED:20260318T131942Z
-BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel (2014)
-DTSTART;TZID=America/Los_Angeles:20260318T160000
-DTEND;TZID=America/Los_Angeles:20260318T180500
-DTSTAMP:20260318T235300Z
-UID:ci0015312-tt2278388--2026-3-18-16-0
-DESCRIPTION:Duration: 1h 39m (99 mins)\n\nA writer encounters the owner of
-  an aging high-class hotel\, who tells him of his early years serving as a
-  lobby boy in the hotel's glorious years under an exceptional concierge.\n
- \nhttps://www.imdb.com/title/tt2278388/\n\nEstimated start: 16:25\n\nIMDb 
- rating: 8.1
-LOCATION:Central Cinema\, Seattle\, 1411 21st Avenue\, Seattle WA 98122
-END:VEVENT
+LAST-MODIFIED:20260319T155911Z
 BEGIN:VEVENT
 SUMMARY:Ready or Not (2019)
 DTSTART;TZID=America/Los_Angeles:20260319T200000

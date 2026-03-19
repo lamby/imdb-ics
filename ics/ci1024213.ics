@@ -3,32 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 The Beacon
 X-WR-CALNAME:The Beacon\, Seattle
-LAST-MODIFIED:20260318T131731Z
-BEGIN:VEVENT
-SUMMARY:Bitter Rice (1949)
-DTSTART;TZID=America/Los_Angeles:20260318T193000
-DTEND;TZID=America/Los_Angeles:20260318T214500
-DTSTAMP:20260319T032300Z
-UID:ci1024213-tt0040737--2026-3-18-19-30
-DESCRIPTION:Duration: 1h 48m (108 mins)\n\nTwo criminals on the run end up
-  working in a rice field and decide to recruit other workers for their nex
- t robbery.\n\nhttps://www.imdb.com/title/tt0040737/\n\nEstimated start: 19
- :55\n\nIMDb rating: 7.6
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Top of the Heap (1972)
-DTSTART;TZID=America/Los_Angeles:20260318T163000
-DTEND;TZID=America/Los_Angeles:20260318T182500
-DTSTAMP:20260319T002300Z
-UID:ci1024213-tt0180254--2026-3-18-16-30
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nA D.C. black cop is pushed over 
- the edge when he is passed over for a promotion\, leading him on a violent
-  personal crusade against criminals punctuated by feverish psychedelic dre
- am visions.\n\nhttps://www.imdb.com/title/tt0180254/\n\nEstimated start: 1
- 6:55\n\nIMDb rating: 6.3
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
+LAST-MODIFIED:20260319T155707Z
 BEGIN:VEVENT
 SUMMARY:Bitter Rice (1949)
 DTSTART;TZID=America/Los_Angeles:20260319T163000
@@ -84,6 +59,18 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nA talented young photographer\,
  hood and his wacky family\, gets dragged into a world of pretentious artis
  ts from New York City and finds newfound fame.\n\nhttps://www.imdb.com/tit
  le/tt0126604/\n\nEstimated start: 22:25\n\nIMDb rating: 6.3
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's Alive (1974)
+DTSTART;TZID=America/Los_Angeles:20260321T220000
+DTEND;TZID=America/Los_Angeles:20260322T000000
+DTSTAMP:20260322T055300Z
+UID:ci1024213-tt0071675--2026-3-21-22-0
+DESCRIPTION:Duration: 1h 31m (91 mins)\n\nThe Davises are expecting a baby
+ \, which turns out to be a monster with a nasty habit of killing people wh
+ enever it is scared. And it is easily scared.\n\nhttps://www.imdb.com/titl
+ e/tt0071675/\n\nEstimated start: 22:25\n\nIMDb rating: 5.8
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
@@ -198,19 +185,6 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\n\nAn insane independent film direc
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Last Film Festival (2016)
-DTSTART;TZID=America/Los_Angeles:20260328T190000
-DTEND;TZID=America/Los_Angeles:20260328T205500
-DTSTAMP:20260329T025300Z
-UID:ci1024213-tt1273219--2026-3-28-19-0
-DESCRIPTION:Duration: 1h 30m (90 mins)\n\nWhen the producer\, director\, s
- tars and publicist of an independent film gather at what must be the worst
-  film festival in America - held in a high school - embarrassing revelatio
- ns\, bitter rivalries and sexual shenanigans emerge.\n\nhttps://www.imdb.c
- om/title/tt1273219/\n\nEstimated start: 19:25\n\nIMDb rating: 3.5
-LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Satantango (1994)
 DTSTART;TZID=America/Los_Angeles:20260329T110000
 DTEND;TZID=America/Los_Angeles:20260329T184500
@@ -295,6 +269,32 @@ DESCRIPTION:Duration: 1h 12m (72 mins)\n\nTwo maladapted young women\, bot
  ling\, and sell the cameras that "watched" online to an unsuspecting custo
  mer in the hopes of spurring on a "new era of death."\n\nhttps://www.imdb.
  com/title/tt39181661/\n\nEstimated start: 16:55
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palestine '36
+DTSTART;TZID=America/Los_Angeles:20260403T190000
+DTEND;TZID=America/Los_Angeles:20260403T212000
+DTSTAMP:20260404T025300Z
+UID:ci1024213-tt29271622--2026-4-3-19-0
+DESCRIPTION:Duration: 1h 55m (115 mins)\n\nIn 1936\, as Palestinian villag
+ es revolt against British colonial rule\, Yusuf navigates between Jerusale
+ m and his rural home\, amidst escalating unrest and a pivotal moment for t
+ he British Empire.\n\nhttps://www.imdb.com/title/tt29271622/\n\nEstimated 
+ start: 19:25\n\nIMDb rating: 7.6
+LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Dirty Shame (2004)
+DTSTART;TZID=America/Los_Angeles:20260403T220000
+DTEND;TZID=America/Los_Angeles:20260403T235500
+DTSTAMP:20260404T055300Z
+UID:ci1024213-tt0365125--2026-4-3-22-0
+DESCRIPTION:Duration: 1h 29m (89 mins)\n\nAn uptight\, middle-aged\, repre
+ ssed woman turns into a sex addict after getting hit on the head\, and she
+  then falls into an underground subculture of sex addicts in suburban Balt
+ imore.\n\nhttps://www.imdb.com/title/tt0365125/\n\nEstimated start: 22:25\
+ n\nIMDb rating: 5.1
 LOCATION:The Beacon\, Seattle\, 4405 Rainier Ave South\, Seattle WA 98118
 END:VEVENT
 END:VCALENDAR
