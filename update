@@ -99,7 +99,7 @@ class ImdbICS:
         self.session = requests.Session()
         self.title_info = {}  # str → dict
 
-        self.cookies = {}
+        self.cookies = browser_cookie3.chrome()
         self.headers = {
             "User-Agent": UserAgent().chrome,
         }
@@ -136,7 +136,7 @@ class ImdbICS:
                 f"Did not get HTTP 200 (got {r.status_code}); will re-attempt #{attempts} after sleep; debug /tmp/{debug}"
             )
             attempts -= 1
-            time.sleep(10)
+            time.sleep(15)
 
         return BeautifulSoup(r.content, "html.parser")
 
@@ -163,7 +163,7 @@ class ImdbICS:
 
         logging.info(f"Getting info for IMDB title '{imdb_title_id}'")
 
-        if False:
+        if True:
             # Old
             url = f"https://www.imdb.com/title/{imdb_title_id}/"
             root = self.get_soup(url, debug="imdb-ics-title.html", attempts=20)
@@ -171,7 +171,6 @@ class ImdbICS:
             raw = root.select_one('script[type="application/ld+json"]').text
             data = json.loads(raw)
             logging.debug(f"Downloaded info for '{data['name']}'")
-
         else:
             # New
             url = f"https://m.imdb.com/showtimes/title/{imdb_title_id}/"
